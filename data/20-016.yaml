@@ -1,0 +1,53 @@
+---
+id: 20-016
+title:
+- type: title-main
+  content: 'OGC Testbed-16: Data Access and Processing Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-16: Data Access and Processing Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-016.html
+  type: obp
+type: standard
+docid:
+  id: 20-016
+  type: OGC
+date:
+  type: published
+  value: '2021-01-13'
+contributor:
+- person:
+    name:
+      completename: Panagiotis (Peter) A. Vretanos
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2021-01-13'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Testbed-16 Engineering Report (ER) describes the work performed
+    in the Data Access and Processing API (DAPA) thread.\r\n\r\nThe primary goal of
+    the DAPA thread is to develop methods and apparatus that simplify access to, processing
+    of, and exchange of environmental and Earth Observation (EO) data from an end-user
+    perspective. This ER presents:\r\n\r\nThe use cases participants proposed to guide
+    the development of the client and server components deployed during the testbed.\r\n\r\nAn
+    abstract description of a resource model that binds a specific function to specific
+    data and also provides a means of expressing valid combinations of data and processes.\r\n\r\nA
+    description of each DAPA endpoint developed and deployed during the testbed.\r\n\r\nA
+    description of the client components that interact with the deployed DAPA endpoints.\r\n\r\nEnd-user
+    (i.e. data scientist) feedback concerning the ease-of-use of the"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

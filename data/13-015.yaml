@@ -1,0 +1,60 @@
+---
+id: 13-015
+title:
+- type: title-main
+  content: 'OGC Best Practice for Sensor Web Enablement: Provision of Observations
+    through an OGC Sensor Observation Service (SOS)'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Best Practice for Sensor Web Enablement: Provision of Observations
+    through an OGC Sensor Observation Service (SOS)'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=52675
+  type: obp
+type: standard
+docid:
+  id: 13-015
+  type: OGC
+date:
+  type: published
+  value: '2014-02-25'
+contributor:
+- person:
+    name:
+      completename: EO2HEAVEN Consortium
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2014-02-25'
+language: en
+script: Latn
+abstract:
+  content: "This document comprises experiences and recommendations when using\r\nSensor
+    Web Enablement (SWE) concepts. This document focuses on\r\none basic issue: the
+    provision of observations in an OGC SOS.\r\nThis includes the definition of a
+    lightweight OGC SOS profile (OGC 11-\r\n169r1), an analysis of and contribution
+    to the specification of the Sensor\r\nObservation Service (SOS) 2.0 as well as
+    an approach how the data\r\nused within Earth observation (EO) applications can
+    be integrated more\r\neasily into SOS instances.\r\nThese recommendations result
+    from the work performed in 2010-2013\r\nas part of the research project EO2HEAVEN
+    (Earth Observation and\r\nEnvironmental Modelling for the Mitigation of Health
+    Risks), co-funded\r\nby the European Commission as part of the 7th Framework Programme\r\n(FP7)
+    Environmental theme. EO2HEAVEN contributes to a better understanding\r\nof the
+    complex relationships between environmental changes\r\nand their impact on human
+    health. See http://www.eo2heaven.org/ .\r\nThe lightweight OGC SOS profile has
+    been developed in close cooperation\r\nbetween the FP7 projects EO2HEAVEN and
+    UncertWeb (see\r\nhttp://www.uncertweb.org/ )."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

@@ -1,0 +1,58 @@
+---
+id: '09-110r4'
+title:
+- type: title-main
+  content: 'OGC® WCS 2.0 Interface Standard- Core:  Corrigendum '
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC® WCS 2.0 Interface Standard- Core:  Corrigendum '
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=48428
+  type: obp
+type: standard
+docid:
+  id: '09-110r4'
+  type: OGC
+date:
+  type: published
+  value: '2012-07-12'
+contributor:
+- person:
+    name:
+      completename: Peter Baumann
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '4'
+revdate: '2012-07-12'
+language: en
+script: Latn
+abstract:
+  content: "This document specifies how a Web Coverage Service (WCS) offers multi-dimensional
+    cov-erage data for access over the Internet. This document specifies a core set
+    of requirements that a WCS implementation must fulfil. WCS extension standards
+    add further functionality to this core; some of these are required in addition
+    to the core to obtain a complete implementa-tion. This document indicates which
+    extensions, at a minimum, need to be considered in ad-dition to this core to allow
+    for a complete WCS implementation.\r\nThis core does not prescribe support for
+    any particular coverage encoding format. This also holds for GML as a coverage
+    delivery format: while GML constitutes the canonical format for the definition
+    of WCS, it is not required by this core that a concrete instance of a WCS service
+    implements the GML coverage format. WCS extensions specifying use of data encod-ing
+    formats in the context of WCS are designed in a way that the GML coverage information
+    contents specified in this core is consistent with the contents of an encoded
+    coverage.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

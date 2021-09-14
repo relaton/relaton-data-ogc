@@ -1,0 +1,45 @@
+---
+id: 01-037
+title:
+- type: title-main
+  content: Location Organizer Folder
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Location Organizer Folder
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1042
+  type: obp
+type: standard
+docid:
+  id: 01-037
+  type: OGC
+date:
+  type: published
+  value: '2001-03-30'
+contributor:
+- person:
+    name:
+      completename: Ron Lake
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2001-03-30'
+language: en
+script: Latn
+abstract:
+  content: "*RETIRED* The Location Organizer Folder (LOF) is a GML document that provides
+    a structure for organizing the information related to a particular event or events
+    of interest."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

@@ -1,0 +1,65 @@
+---
+id: 18-053r2
+title:
+- type: title-main
+  content: OGC 3D Tiles Specification 1.0
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC 3D Tiles Specification 1.0
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/cs/18-053r2/18-053r2.html
+  type: obp
+type: standard
+docid:
+  id: 18-053r2
+  type: OGC
+date:
+  type: published
+  value: '2019-01-31'
+contributor:
+- person:
+    name:
+      completename: Patrick Cozzi
+  role: author
+- person:
+    name:
+      completename: Sean Lilley
+  role: author
+- person:
+    name:
+      completename: Gabby Getz
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2019-01-31'
+language: en
+script: Latn
+abstract:
+  content: "3D Tiles is designed for streaming and rendering massive 3D geospatial
+    content such as Photogrammetry, 3D Buildings, BIM/CAD, Instanced Features, and
+    Point Clouds. It defines a hierarchical data structure and a set of tile formats
+    which deliver renderable content. 3D Tiles does not define explicit rules for
+    visualization of the content; a client may visualize 3D Tiles data however it
+    sees fit.\r\n\r\nA 3D Tiles data set, called a tileset, contains any combination
+    of tile formats organized into a spatial data structure.\r\n\r\n3D Tiles are declarative,
+    extendable, and applicable to various types of 3D data. The following tile formats
+    have been specified as part of this document:\r\n\r\nBatched 3D Model\r\nInstanced
+    3D Model\r\nPoint Cloud\r\nComposite\r\nThis document also describes 3D Tile Styles,
+    a declarative styling specification which may be applied to tilesets.\r\n\r\nThe
+    3D Tiles specification for tilesets, associated tile formats, and the associated
+    styling specification are open formats that are not dependent on any vendor-specific
+    solution, technology, or products."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: community-standard
+editorialgroup:
+  committee: technical

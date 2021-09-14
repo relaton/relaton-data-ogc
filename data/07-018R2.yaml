@@ -1,0 +1,49 @@
+---
+id: 07-018r2
+title:
+- type: title-main
+  content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=25199
+  type: obp
+type: standard
+docid:
+  id: 07-018r2
+  type: OGC
+date:
+  type: published
+  value: '2008-01-21'
+contributor:
+- person:
+    name:
+      completename: Philippe M
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2008-01-21'
+language: en
+script: Latn
+abstract:
+  content: The SPS configuration proposed in this profile is intended to support the
+    programming process of Earth Observation (EO) sensors system. This profile describes
+    a consistent SPS configuration that can be supported by many satellite data providers,
+    most of whom have existing facilities for the management of these programming
+    requests.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

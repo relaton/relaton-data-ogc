@@ -1,0 +1,51 @@
+---
+id: 19-046r1
+title:
+- type: title-main
+  content: 'OGC Testbed-15: Quebec Model MapML Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-15: Quebec Model MapML Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-046r1.html
+  type: obp
+type: standard
+docid:
+  id: 19-046r1
+  type: OGC
+date:
+  type: published
+  value: '2020-01-08'
+contributor:
+- person:
+    name:
+      completename: Scott Serich
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2020-01-08'
+language: en
+script: Latn
+abstract:
+  content: This OGC Testbed-15 Engineering Report (ER) describes the Map Markup Language
+    (MapML) enabled client component implementation for the Quebec Lake-River Differentiation
+    Model in the Machine Learning (ML) task of Open Geospatial Consortium (OGC) Testbed-15
+    (T-15). This ER presents the MapML parsing capabilities that were developed to
+    illustrate the outputs of a ML model to delineate lake and river features from
+    an undifferentiated waterbody vector dataset in Québec, Canada. Client data was
+    accessed through an OGC Web Processing Service (WPS) interface in coordination
+    with an OGC API - Features implementation.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

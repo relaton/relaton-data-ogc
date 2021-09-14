@@ -1,0 +1,60 @@
+---
+id: 16-052
+title:
+- type: title-main
+  content: Testbed-12 OWS Context / Capabilities Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 OWS Context / Capabilities Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-052.html
+  type: obp
+type: standard
+docid:
+  id: 16-052
+  type: OGC
+date:
+  type: published
+  value: '2017-05-22'
+contributor:
+- person:
+    name:
+      completename: Joan Masó
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-05-22'
+language: en
+script: Latn
+abstract:
+  content: "The OGC service metadata document (sometimes also called capabilities
+    document) is a key part in the service discovery. It describes the service and
+    also the resources that the service expose. Resources are listed in the service
+    metadata document inside a section named as Contents by OWS Common. There are
+    two main limitations to the current Contents section approach:\r\n\r\nOWS Common
+    offers flexibility for describing resources and it only proposes a very minimum
+    set of metadata in figure 7 of OGC 06-121r9 called DatasetSummary that need to
+    be sub-classed (i.e. extended) by any specific application. As a result, each
+    standard proposes its own alternative for it. Integrated client developers need
+    to implement them separately.\r\n\r\nIf the number of resources is very large
+    or the service is highly dynamic, the Contents section can be too long or useless
+    and neither the service nor the client can handle it efficiently.\r\n\r\nThis
+    Engineering Report proposes a double solution to the Contents section of the service
+    metadata documents: It proposes ways to encode the Contents section using the
+    OWS Context encoding data types and it introduces the use OpenSearch as a way
+    to request a subset of the resources that the service can provide access to. In
+    that sense, the use of the OGC 10-032r8 OpenSearchGeo can provide the long time
+    needed geospatial and temporal filter capabilities."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

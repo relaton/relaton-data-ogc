@@ -1,0 +1,71 @@
+---
+id: 18-089
+title:
+- type: title-main
+  content: OGC Indoor Mapping and Navigation Pilot Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Indoor Mapping and Navigation Pilot Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/18-089.html
+  type: obp
+type: standard
+docid:
+  id: 18-089
+  type: OGC
+date:
+  type: published
+  value: '2019-10-23'
+contributor:
+- person:
+    name:
+      completename: Charles Chen
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2019-10-23'
+language: en
+script: Latn
+abstract:
+  content: "The OGC Indoor Mapping and Navigation Pilot Initiative was sponsored by
+    the National Institute of Standards and Technology (NIST) Public Safety Communications
+    Research (PSCR) Division. This initiative addressed key challenges related to
+    indoor mapping and navigation for the purpose of supporting first responders in
+    fields such as fire-fighting. The focus of this initiative was on developing the
+    capabilities and workflows required for pre-planning operations. This included
+    scanning each building to produce a point cloud dataset and converting this source
+    data into various intermediate forms to support the generation of indoor navigation
+    routes. This Engineering Report (ER) describes the work conducted in this initiative,
+    the lessons learned captured by participants, and future recommendations to support
+    the public safety efforts and interoperability of the standards. It is expected
+    that future OGC initiatives will address the real-time, event-driven aspects of
+    indoor mapping and navigation for first response situations.\r\n\r\nFirst responders
+    typically survey high-risk facilities in their jurisdiction at least once per
+    year as part of a pre-planning process. Pre-planning outputs are often in the
+    form of reports, and first responders may generate their own hand-drawn maps during
+    the process or annotate available floor plans (e.g., from computer-aided design
+    models). Pre-planning is time-consuming, inefficient, and inherently complex considering
+    the information and level of detail that should or could be captured, the lack
+    of automation, and the difficulty identifying notable changes to facilities and
+    infrastructure during successive pre-planning surveys.\r\n\r\nMobile three-dimensional
+    (3D) Light Detection and Ranging (LiDAR) has been identified as a potentially
+    transformational technology for first responders. Using LiDAR and 360-degree camera
+    imagery, coupled with advanced software processing, first responders could efficiently
+    capture 3D point clouds and a wealth of other information, both observed and derived,
+    while walking through buildings as part of routine pre-planning operations. The
+    use of 3D LiDAR and imagery has many potential upsides beyond just creating point
+    clouds for visualization and mapping (e.g., use in localization, object classification,
+    integration with virtual/augmented reality solutions, change detection, etc.)."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

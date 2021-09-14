@@ -1,0 +1,47 @@
+---
+id: 05-076
+title:
+- type: title-main
+  content: OpenGIS Web Coverage Service (WCS) Implementation Specification (Corrigendum)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Web Coverage Service (WCS) Implementation Specification (Corrigendum)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=12582
+  type: obp
+type: standard
+docid:
+  id: 05-076
+  type: OGC
+date:
+  type: published
+  value: '2006-03-31'
+contributor:
+- person:
+    name:
+      completename: John Evans
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2006-03-31'
+language: en
+script: Latn
+abstract:
+  content: "Extends the Web Map Server (WMS) interface to allow access to geospatial
+    coverages that represent values or properties of geographic locations, rather
+    than WMS generated maps (pictures).\r\n\r\nThe original document is available
+    at: http://portal.opengeospatial.org/files/?artifact_id=3837"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

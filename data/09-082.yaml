@@ -1,0 +1,63 @@
+---
+id: '09-082'
+title:
+- type: title-main
+  content: Sensor Web Enablement Application for Debris Flow Monitoring System in
+    Taiwan
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Sensor Web Enablement Application for Debris Flow Monitoring System in
+    Taiwan
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=34126
+  type: obp
+type: standard
+docid:
+  id: '09-082'
+  type: OGC
+date:
+  type: published
+  value: '2009-07-27'
+contributor:
+- person:
+    name:
+      completename: Hsu-Chun James Yu
+  role: author
+- person:
+    name:
+      completename: Zhong-Hung Lee
+  role: author
+- person:
+    name:
+      completename: Cai-Fang Ye
+  role: author
+- person:
+    name:
+      completename: Lan-Kun Chung
+  role: author
+- person:
+    name:
+      completename: Yao-Min Fang
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-07-27'
+language: en
+script: Latn
+abstract:
+  content: "This application document describes:\r\n\r\n1)\tWhat is a Debris Flow
+    Monitoring System.\r\n2)\tHow SWE implements in Debris Flow Monitoring System.
+    \r\n3)\tTutorial for SWE developers.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

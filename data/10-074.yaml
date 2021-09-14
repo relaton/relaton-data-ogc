@@ -1,0 +1,52 @@
+---
+id: 10-074
+title:
+- type: title-main
+  content: OWS-7 Feature and Statistical Analysis Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-7 Feature and Statistical Analysis Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=40311
+  type: obp
+type: standard
+docid:
+  id: 10-074
+  type: OGC
+date:
+  type: published
+  value: '2010-08-18'
+contributor:
+- person:
+    name:
+      completename: Theodor Foerster
+  role: author
+- person:
+    name:
+      completename: Bastian Schäffer
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2010-08-18'
+language: en
+script: Latn
+abstract:
+  content: This Engineering Report (ER) is a deliverable for the OGC Web Service 7
+    testbed. The focus of this ER is using the OGC Web Processing Service (WPS) interface
+    standard for Feature and Statistical Analysis (FSA). Specifically, the ER documents
+    how to enhance interoperability of FSA processes that are hosted as WPS processes
+    on the Web. This ER is coordinated with the Feature and Decision Fusion (FDF)
+    WPS Profiling ER.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

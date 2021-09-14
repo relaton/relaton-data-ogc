@@ -1,0 +1,51 @@
+---
+id: '09-104r1'
+title:
+- type: title-main
+  content: Draft for Candidate OpenGIS® Web 3D Service Interface Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Draft for Candidate OpenGIS® Web 3D Service Interface Standard
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=36390
+  type: obp
+type: standard
+docid:
+  id: '09-104r1'
+  type: OGC
+date:
+  type: published
+  value: '2010-01-20'
+contributor:
+- person:
+    name:
+      completename: Arne Schilling
+  role: author
+- person:
+    name:
+      completename: Thomas H. Kolbe
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2010-01-20'
+language: en
+script: Latn
+abstract:
+  content: A Web 3D Service (W3DS) is a portrayal service for three-dimensional geodata,
+    such as landscape models, city models, textured building models, vegetation objects,
+    and street furniture. Geodata is delivered as scenes that are comprised of display
+    elements, optimized for efficient real time rendering at high frame rates.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

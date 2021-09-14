@@ -1,0 +1,69 @@
+---
+id: 18-034r3
+title:
+- type: title-main
+  content: 'OGC Testbed-14: Compliance Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-14: Compliance Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/18-034r3.html
+  type: obp
+type: standard
+docid:
+  id: 18-034r3
+  type: OGC
+date:
+  type: published
+  value: '2019-02-07'
+contributor:
+- person:
+    name:
+      completename: Andrea Aime
+  role: author
+- person:
+    name:
+      completename: Emanuele Tajariol
+  role: author
+- person:
+    name:
+      completename: Simone Giannecchini
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2019-02-07'
+language: en
+script: Latn
+abstract:
+  content: "The OGC Compliance Program provides a free online testing facility based
+    on TeamEngine and a set of test suites dedicated to specific protocols and versions,
+    as well as specification profiles and extension.\r\n\r\nThis document reviews
+    the work that has been carried out as part of the Testbed-14 compliance activity,
+    in particular covering the development of:\r\n\r\nA Web Feature Service (WFS)
+    3 core test suite, covering both the tests and the reference implementation servers\r\n\r\nA
+    Defence Geospatial Information Working Group CATalog (DGIWG CAT) 2.0 extension
+    for the Catalog Services for the Web 2.0.2 (CSW) test suite and server reference
+    implementation\r\n\r\nThe WFS 3.0 protocol is the next iteration of the WFS specification,
+    focusing on open specification, ease of implementation, and modern Representational
+    State Transfer (REST) Application Program Interface (API) approaches.\r\n\r\nThe
+    DGIWG CAT is an application profile of the CSW, which allows to query and get
+    metadata following the DGIWG application profile of the ISO19139 standard, which
+    augments the metadata elements to include information relevant to the defense
+    organizations.\r\n\r\nBoth the test suites are meant to be run by the Test, Evaluation,
+    And Measurement (TEAM) Engine and eventually land on the OGC beta compliance test
+    engine (availability on the primary site is subject to the WFS 3.0 specification
+    being finalized and the tests being adapted to it)."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

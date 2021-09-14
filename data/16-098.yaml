@@ -1,0 +1,74 @@
+---
+id: 16-098
+title:
+- type: title-main
+  content: Future City Pilot 1 Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Future City Pilot 1 Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-098.html
+  type: obp
+type: standard
+docid:
+  id: 16-098
+  type: OGC
+date:
+  type: published
+  value: '2017-10-20'
+contributor:
+- person:
+    name:
+      completename: Kanishk Chaturvedi
+  role: author
+- person:
+    name:
+      completename: Thomas H. Kolbe
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-10-20'
+language: en
+script: Latn
+abstract:
+  content: 'The Future City Pilot Phase 1 (FCP1) is an OGC Interoperability Program
+    initiative in collaboration with buildingSMART International (bSI). The pilot
+    aimed at demonstrating and enhancing the ability of spatial data infrastructures
+    to support quality of life, civic initiatives, and urban resilience. During the
+    pilot, multiple scenarios were set up based on real-world requirements and were
+    put forward by the pilot sponsors: Sant Cugat del Vallès (Barcelona, Spain), Ordnance
+    Survey Great Britain (UK), virtualcitySYSTEMS GmbH (Germany), and Institut National
+    de l’Information Géographique et Forestière - IGN (France). The scenarios were
+    focused on (i) the interoperability between the two international standards: Industry
+    Foundation Classes (IFC) and CityGML; (ii) city flood modeling; and (iii) supporting
+    real-time sensor readings and other time-dependent properties within semantic
+    3D city models. The solutions for the respective scenarios were developed by the
+    pilot participants: University of Melbourne (Australia), Remote Sensing Solutions,
+    Inc. (U.S.A), and Technical University of Munich (Germany). This Engineering Report
+    (ER) focuses on the third scenario requiring the support of real-time sensors
+    and other time-dependent properties within semantic 3D city models based on the
+    CityGML standard. It highlights a new concept ''Dynamizer'', which allows representation
+    of highly dynamic data in different and generic ways and providing a method for
+    injecting dynamic variations of city object properties into the static representations.
+    It also establishes explicit links between sensor/observation data and the respective
+    properties of city model objects that are measured by them. The Dynamizer concept
+    has been implemented as an Application Domain Extension (ADE) of the CityGML standard.
+    This implementation allows to use new dynamizer features with the current version
+    of the CityGML standard (CityGML 2.0). The advantage with this approach is that
+    it allows for selected properties of city models to become dynamic without changing
+    the original CityGML data model. If an application does not support dynamic data,
+    it simply does not allow/include these special types of features. The details
+    and results of the pilot are mentioned in the following YouTube video: https://youtu.be/aSQFIPwf2oM'
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

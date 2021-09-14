@@ -1,0 +1,50 @@
+---
+id: 14-079r1
+title:
+- type: title-main
+  content: USGS OGC® Interoperability Assessment Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: USGS OGC® Interoperability Assessment Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=59983
+  type: obp
+type: standard
+docid:
+  id: 14-079r1
+  type: OGC
+date:
+  type: published
+  value: '2015-02-02'
+contributor:
+- person:
+    name:
+      completename: Ingo Simonis
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2015-02-02'
+language: en
+script: Latn
+abstract:
+  content: "The USGS Interoperability assessment was conducted under the OGC Interoperability\r\nProgram
+    with the goal to better understand how USGS customers make use of OGC\r\ncompliant
+    Web services operated by USGS. For this assessment, USGS customers have\r\nbeen
+    invited to share their experiences and to describe their use cases and experiences\r\nmade
+    with USGS data services and products. From those descriptions, recommendations\r\nhave
+    been derived that help USGS to better understand their user community and\r\noptimize
+    their service offerings."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

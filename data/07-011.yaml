@@ -1,0 +1,53 @@
+---
+id: 07-011
+title:
+- type: title-intro
+  content: Topic 6
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Schema for coverage geometry and functions
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 6 - Schema for coverage geometry and functions
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=19820
+  type: obp
+type: standard
+docid:
+  id: 07-011
+  type: OGC
+date:
+  type: published
+  value: '2007-12-28'
+contributor:
+- person:
+    name:
+      completename: OGC
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2007-12-28'
+language: en
+script: Latn
+abstract:
+  content: This International Standard defines a conceptual schema for the spatial
+    characteristics of coverages. Coverages support mapping from a spatial, temporal
+    or spatiotemporal domain to feature attribute values where feature attribute types
+    are common to all geographic positions within the domain. A coverage domain consists
+    of a collection of direct positions in a coordinate space that may be defined
+    in terms of up to three spatial dimensions as well as a temporal dimension.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

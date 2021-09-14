@@ -1,0 +1,46 @@
+---
+id: 03-013
+title:
+- type: title-main
+  content: Web Object Service Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Object Service Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1338
+  type: obp
+type: standard
+docid:
+  id: 03-013
+  type: OGC
+date:
+  type: published
+  value: '2003-01-15'
+contributor:
+- person:
+    name:
+      completename: Panagiotis (Peter) A. Vretanos
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2003-01-15'
+language: en
+script: Latn
+abstract:
+  content: There is a requirement to manage many different types of objects. These
+    include styles, symbols and images. To satisfy this requirement, a repository
+    interface is required. The intent of the Web Object Service interface is to provide
+    a means to define this interface.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

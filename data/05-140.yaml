@@ -1,0 +1,51 @@
+---
+id: 05-140
+title:
+- type: title-main
+  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology
+    Architecture and Standards in the OWS-3 Testbe'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology
+    Architecture and Standards in the OWS-3 Testbe'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=13916
+  type: obp
+type: standard
+docid:
+  id: 05-140
+  type: OGC
+date:
+  type: published
+  value: '2006-03-30'
+contributor:
+- person:
+    name:
+      completename: Yves Coene
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2006-03-30'
+language: en
+script: Latn
+abstract:
+  content: "This document describes the results of an experiment addressing issues
+    relating to the application workflow processing incorporating a variety of OGC
+    specifications. It details the inputs provided to the Open Geospatial Consortium's
+    (OGC) OWS-3 Testbed and the architecture of the testbed related to the ESA Service
+    Support Environment (SSE). \r\nIt is a formal deliverable of work package 6610
+    of the Enhanced Service Infrastructure Technology (ESIT) project and is a joint
+    Spacebel and Spot Image document.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

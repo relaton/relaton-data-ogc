@@ -1,0 +1,58 @@
+---
+id: 18-076
+title:
+- type: title-main
+  content: 'OGC Vector Tiles Pilot: Tiled Feature Data Conceptual Model Engineering
+    Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Vector Tiles Pilot: Tiled Feature Data Conceptual Model Engineering
+    Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.opengeospatial.org/per/18-076.html
+  type: obp
+type: standard
+docid:
+  id: 18-076
+  type: OGC
+date:
+  type: published
+  value: '2019-02-11'
+contributor:
+- person:
+    name:
+      completename: Jens Ingensand
+  role: author
+- person:
+    name:
+      completename: Kalimar Maia
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2019-02-11'
+language: en
+script: Latn
+abstract:
+  content: "Feature data tiling, colloquially referred to as 'vector tiling', is a
+    method that defines how large vector geospatial datasets can be systematically
+    split into subsets or tiles [1]. Feature data tiling allows for a variety of use-cases,
+    such as creating online maps, quickly accessing large vector data sets for geoprocessing
+    and creating download-services. For instance, a map created from tiled feature
+    data consists of one or more layers of vector data organized into tiles of features
+    and rendered on the client-side using an associated style. In contrast, raster
+    tiles are delivered as tiled images that have been rendered on the server-side.\r\n\r\nNOTE\r\nThis
+    engineering report interchangeably uses both 'tiled feature data' and the colloquial
+    term 'vector tiles'."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

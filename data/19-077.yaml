@@ -1,0 +1,61 @@
+---
+id: 19-077
+title:
+- type: title-intro
+  content: OGC Body of Knowledge
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Version 0.1
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-part
+  content: Discussion Paper
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Body of Knowledge - Version 0.1 - Discussion Paper
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.opengeospatial.org/dp/19-077.html
+  type: obp
+type: standard
+docid:
+  id: 19-077
+  type: OGC
+date:
+  type: published
+  value: '2020-05-04'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-05-04'
+language: en
+script: Latn
+abstract:
+  content: The OGC Body of Knowledge is a structured collection of concepts and related
+    resources that can be found in the OGC library. It is, in effect, a view of explicit
+    knowledge available from the OGC Virtual Knowledge Store and related components
+    such as the OGC Definitions Server and the OGC Glossary of Terms. The OGC Body
+    of Knowledge is intended to provide a reference for users and developers of geospatial
+    software. This discussion paper describes the approach taken to develop the OGC
+    Body of Knowledge and presents the results of the approach. It is intended to
+    encourage and facilitate discussion within the OGC membership and wider geospatial
+    community.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

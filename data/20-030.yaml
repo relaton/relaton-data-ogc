@@ -1,0 +1,58 @@
+---
+id: 20-030
+title:
+- type: title-intro
+  content: OGC API
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Tiles
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-part
+  content: 3D (GeoVolumes) Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC API - Tiles - 3D (GeoVolumes) Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-030.html
+  type: obp
+type: standard
+docid:
+  id: 20-030
+  type: OGC
+date:
+  type: published
+  value: '2020-10-22'
+contributor:
+- person:
+    name:
+      completename: Timothy Miller and Gil Trenum
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-10-22'
+language: en
+script: Latn
+abstract:
+  content: This Engineering Report documents the draft specification for a three-dimensional
+    (3D) geodata Application Programming Interface (API) that organizes access to
+    a variety of 2D / 3D datasets and their distributions according to a nested hierarchy
+    of 3D geospatial volumes (GeoVolumes). The GeoVolumes (initially Tiles-3D / 3D
+    Container) API specification is consistent with OGC API - Common and supports
+    both link-follow and bbox query methods of access to resources of interest.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

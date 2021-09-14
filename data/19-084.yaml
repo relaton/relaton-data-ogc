@@ -1,0 +1,53 @@
+---
+id: 19-084
+title:
+- type: title-main
+  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
+    Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
+    Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-084.html
+  type: obp
+type: standard
+docid:
+  id: 19-084
+  type: OGC
+date:
+  type: published
+  value: '2020-07-08'
+contributor:
+- person:
+    name:
+      completename: Andrea Aime
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-07-08'
+language: en
+script: Latn
+abstract:
+  content: "The OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
+    Report (ER) defines a filter language for vector data delivered as tiles (also
+    known as vector tiles). The language applies to vector tiles served through implementations
+    of the OGC API – Features standard and the draft OGC API - Tiles specification,
+    but can be generally applied on all services supporting filtering by attributes.\r\n\r\nThe
+    ER further includes an assessment of filter languages, styles and online/offline
+    symbol sharing for GeoPackages, OGC API - Features and OGC API - Tiles implementations
+    for accuracy and completeness in applications that render vector tiles at local
+    to regional scales."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

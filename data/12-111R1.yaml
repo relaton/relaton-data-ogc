@@ -1,0 +1,75 @@
+---
+id: 12-111r1
+title:
+- type: title-main
+  content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent
+    or Elevation-Dependent Data
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent
+    or Elevation-Dependent Data
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=56394
+  type: obp
+type: standard
+docid:
+  id: 12-111r1
+  type: OGC
+date:
+  type: published
+  value: '2014-04-14'
+contributor:
+- person:
+    name:
+      completename: Marie-Françoise Voidrot-Martinez
+  role: author
+- person:
+    name:
+      completename: Chris Little
+  role: author
+- person:
+    name:
+      completename: Jürgen Seib
+  role: author
+- person:
+    name:
+      completename: Roy Ladner
+  role: author
+- person:
+    name:
+      completename: Adrian Custer
+  role: author
+- person:
+    name:
+      completename: Jeff de La B
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2014-04-14'
+language: en
+script: Latn
+abstract:
+  content: This document proposes a set of best practices and guidelines for implementing
+    and using the Open Geospatial Consortium (OGC) Web Map Service (WMS) to serve
+    maps which are time-dependent or elevation-dependent. In particular, clarifications
+    and restrictions on the use of WMS are defined to allow unambiguous and safe interoperability
+    between clients and servers, in the context of expert meteorological and oceanographic
+    usage and non-expert usage in other communities. This Best Practice document applies
+    specifically to WMS version 1.3, but many of the concepts and recommendations
+    will be applicable to other versions of WMS or to other OGC services, such as
+    the Web Coverage Service.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

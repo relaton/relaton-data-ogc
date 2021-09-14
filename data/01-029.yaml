@@ -1,0 +1,45 @@
+---
+id: 01-029
+title:
+- type: title-main
+  content: Geography Markup Language
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Geography Markup Language
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1034
+  type: obp
+type: standard
+docid:
+  id: 01-029
+  type: OGC
+date:
+  type: published
+  value: '2001-02-20'
+contributor:
+- person:
+    name:
+      completename: Ron Lake
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2001-02-20'
+language: en
+script: Latn
+abstract:
+  content: The Geography Markup Language (GML) is an XML encoding for the transport
+    and storage of geographic information, including both the geometry and properties
+    of geographic features.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

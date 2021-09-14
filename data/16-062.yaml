@@ -1,0 +1,58 @@
+---
+id: 16-062
+title:
+- type: title-main
+  content: Testbed-12 Catalogue and SPARQL Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Catalogue and SPARQL Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-062.html
+  type: obp
+type: standard
+docid:
+  id: 16-062
+  type: OGC
+date:
+  type: published
+  value: '2017-05-15'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role: author
+- person:
+    name:
+      completename: Roger Brackin
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-05-15'
+language: en
+script: Latn
+abstract:
+  content: "This engineering report has been produced by the OGCÂ® Testbed-12 initiative.\r\nThe
+    engineering report evaluates interoperability between a variety of\r\ncatalogues.
+    The report presents a comparison of the catalogues, with the same\r\ndatasets
+    uploaded. The catalogues discussed in the report include services\r\nconforming
+    to Catalogue Service for Web (CSW) version 2.0.2 and 3.0, including\r\nservices
+    based on the ebRIM profile of CSW 2.0.2 and an extension of CSW 3.0\r\nwith OpenSearch
+    and SOAP. The engineering report presents results from tests\r\nusing a multi-catalogue
+    client to interact with each service. The engineering\r\nreport also provides
+    a comparison of CSW and services based on the Data\r\nCatalogue (DCAT) specification
+    covering functionality, expressiveness and\r\nusability of CSW and DCAT. The comparison
+    is supported by a discussion on the\r\nimplementation of a SPARQL / GeoSPARQL
+    service."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

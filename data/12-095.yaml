@@ -1,0 +1,57 @@
+---
+id: 12-095
+title:
+- type: title-intro
+  content: OGC® OWS-9 Innovation
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: 'Coverages: Coverage Access (OPeNDAP) Study'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC® OWS-9 Innovation - Coverages: Coverage Access (OPeNDAP) Study'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=52783
+  type: obp
+type: standard
+docid:
+  id: 12-095
+  type: OGC
+date:
+  type: published
+  value: '2013-06-18'
+contributor:
+- person:
+    name:
+      completename: James Gallagher
+  role: author
+- person:
+    name:
+      completename: Peter Baumann
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2013-06-18'
+language: en
+script: Latn
+abstract:
+  content: "This document represents the OWS-9 OWS Innovations Coverage Access Study\r\nEngineering
+    Report. It contributes knowledge based on the experience prototyping the\r\nWCS
+    2.0 Service – Access Innovations component, established in close collaboration\r\nwith
+    the OPeNDAP group. To this end, accessing a variety of coverage data types\r\nconsidering
+    WCS 2.0 and DAP 2.0 interfaces have been implemented and demonstrated.\r\nThe
+    final result is a WCS 2.0 interface for the DAP 2.0 suite."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

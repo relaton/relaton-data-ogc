@@ -1,0 +1,52 @@
+---
+id: 13-026r8
+title:
+- type: title-main
+  content: OGC® OpenSearch Extension for Earth Observation
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® OpenSearch Extension for Earth Observation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/13-026r8/13-026r8.html
+  type: obp
+type: standard
+docid:
+  id: 13-026r8
+  type: OGC
+date:
+  type: published
+  value: '2019-11-25'
+contributor:
+- person:
+    name:
+      completename: Pedro Gonçalves
+  role: author
+- person:
+    name:
+      completename: Uwe Voges
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '8'
+revdate: '2019-11-25'
+language: en
+script: Latn
+abstract:
+  content: "This document is the specification for the OpenSearch extension for Earth
+    Observation collections and products search.\r\n\r\nThis standard is intended
+    to provide a very simple way to make queries to a repository that contains Earth
+    Observation information and to allow syndication of repositories."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

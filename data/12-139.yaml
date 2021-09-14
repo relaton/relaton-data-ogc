@@ -1,0 +1,56 @@
+---
+id: 12-139
+title:
+- type: title-main
+  content: 'OWS-9: SSI Security Rules Service Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OWS-9: SSI Security Rules Service Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=51833
+  type: obp
+type: standard
+docid:
+  id: 12-139
+  type: OGC
+date:
+  type: published
+  value: '2013-02-05'
+contributor:
+- person:
+    name:
+      completename: Jan Herrmann
+  role: author
+- person:
+    name:
+      completename: Andreas Matheus
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2013-02-05'
+language: en
+script: Latn
+abstract:
+  content: "In this engineering report we describe how to administrate XACML v2.0,
+    XACML v3.0 and GeoXACML v1.0.1 access control policies through a “Security Rules
+    Service”. Following the XACML and ISO terminology this service plays the role
+    of a Policy Administration Point (PAP) and is therefore called XACML Policy Administration
+    Point (XACML PAP) or XACML Policy Administration Web Service (XACML PAWS). \r\nAfter
+    introducing OWS-9’s Common Rule Encoding and motivating all components required
+    to administrate (Geo)XACML  policies, we describe the interface of a powerful
+    XACML PAP on a conceptual level. This interface definition could serve as a baseline
+    for a future OASIS or OGC XACML Policy Administration Web Service (e.g. OGC XACML
+    PAWS) specification.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

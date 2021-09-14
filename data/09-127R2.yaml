@@ -1,0 +1,48 @@
+---
+id: '09-127r2'
+title:
+- type: title-main
+  content: 'OGC® PUCK Protocol Standard '
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC® PUCK Protocol Standard '
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=47604
+  type: obp
+type: standard
+docid:
+  id: '09-127r2'
+  type: OGC
+date:
+  type: published
+  value: '2012-01-25'
+contributor:
+- person:
+    name:
+      completename: 'Tom O’Reilly '
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2012-01-25'
+language: en
+script: Latn
+abstract:
+  content: This standard defines a protocol for RS232 and Ethernet connected instruments.
+    PUCK addresses installation and configuration challenges for sensors by defining
+    a standard instrument protocol to store and automatically retrieve metadata and
+    other information from the instrument device itself.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

@@ -1,0 +1,54 @@
+---
+id: 17-066r1
+title:
+- type: title-main
+  content: OGC GeoPackage Extension for Tiled Gridded Coverage Data
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC GeoPackage Extension for Tiled Gridded Coverage Data
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/17-066r1/17-066r1.html
+  type: obp
+type: standard
+docid:
+  id: 17-066r1
+  type: OGC
+date:
+  type: published
+  value: '2018-03-07'
+contributor:
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2018-03-07'
+language: en
+script: Latn
+abstract:
+  content: 'The “GeoPackage Extension for Tiled Gridded Coverage Data” extension (previously
+    titled Elevation Extension) defines how to encode and store tiled regular gridded
+    data, such as a digital elevation model, in a GeoPackage. In the ISO 19123 Schema
+    for Coverage Geometry standard and in the OGC Coverage Implementation Schema,
+    this type of regular gridded data is classed as grid-regular[1]. The tiles contain
+    values, such as elevation, temperature or pressure, and may be stored as 16-bit
+    PNG files or 32-bit TIFF files. The extension defines two ancillary data tables:
+    one for regular gridded coverages and one for tiles. When using the PNG encoding,
+    a scale and offset may be applied. The extension also allows for a TIFF encoding
+    but constrains many of the TIFF options that are available to simplify development.'
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

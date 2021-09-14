@@ -1,0 +1,76 @@
+---
+id: 11-159
+title:
+- type: title-main
+  content: The Open Geospatial Consortium and EarthCube
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: The Open Geospatial Consortium and EarthCube
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=46471&version=1
+  type: obp
+type: standard
+docid:
+  id: 11-159
+  type: OGC
+date:
+  type: published
+  value: '2011-10-19'
+contributor:
+- person:
+    name:
+      completename: David Maidment
+  role: author
+- person:
+    name:
+      completename: Ben Domenico
+  role: author
+- person:
+    name:
+      completename: Alastair Gemmell
+  role: author
+- person:
+    name:
+      completename: Kerstin Lehnert
+  role: author
+- person:
+    name:
+      completename: David Tarboton
+  role: author
+- person:
+    name:
+      completename: Ilya Zaslavsky
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2011-10-19'
+language: en
+script: Latn
+abstract:
+  content: "EarthCube aims to create an integrated system to access, analyze and share
+    information that is\r\nused by the entire geosciences community. The Open Geospatial
+    Consortium (OGC) is an\r\norganization of which more than four hundred companies
+    and agencies are members, whose\r\npurpose is to create open source standards
+    for sharing geospatial and observational information.\r\nThe authors of this paper
+    are users of OGC standards in our work in hydrology, meteorology,\r\nclimatology,
+    oceanography and in the solid earth sciences, in other words, in key disciplinary\r\nfields
+    that contribute to the Geosciences. Moreover, the OGC has an effective process
+    for\r\nengaging individuals from many countries in standards development and interoperability
+    testing\r\nthat encourages them to set aside the roles they play in their home
+    organizations and instead\r\nfocus just on what is needed to share a particular
+    class of information across the globe. This\r\npaper examines the hypothesis that
+    an OGC-like process could be useful for broader sharing of\r\ninformation in the
+    geosciences."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

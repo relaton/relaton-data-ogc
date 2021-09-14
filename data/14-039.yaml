@@ -1,0 +1,61 @@
+---
+id: 14-039
+title:
+- type: title-main
+  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs
+    ER
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs
+    ER
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=58929
+  type: obp
+type: standard
+docid:
+  id: 14-039
+  type: OGC
+date:
+  type: published
+  value: '2014-07-16'
+contributor:
+- person:
+    name:
+      completename: Thibault Dacla
+  role: author
+- person:
+    name:
+      completename: Daniel Balog
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2014-07-16'
+language: en
+script: Latn
+abstract:
+  content: "This activity is part of OGC Testbed 10. The aviation thread was focused
+    on developing and demonstrating the use of the Aeronautical Information Exchange
+    Model (AIXM) and the Flight Information Exchange Model (FIXM), building on the
+    work accomplished in prior testbeds to advance the applications of OGC Web Services
+    standards in next generation air traffic management systems to support European
+    and US aviation modernization programs.\r\nThis document provides the result of
+    the Testbed 10 to assess the compliance between the OGC standards and the guidelines
+    provided by the SAE  in their latest published document regarding portraying of
+    NOTAMs. Specifically, the Human Based Portrayal of DNOTAM work attempts to fulfill
+    the high level requirements identified in the OGC Testbed-10 RFQ Annex B .\r\nThe
+    purpose of this investigation was to analyze the recommendations of the SAE comity
+    and to evaluate the feasibility of their application using OGC standards for portraying,
+    namely the Symbology Encoding standard, version 1.1.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

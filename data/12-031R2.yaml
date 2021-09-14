@@ -1,0 +1,57 @@
+---
+id: 12-031r2
+title:
+- type: title-intro
+  content: WaterML 2.0
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Timeseries
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-part
+  content: NetCDF Discussion Paper
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: WaterML 2.0 - Timeseries - NetCDF Discussion Paper
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=49025
+  type: obp
+type: standard
+docid:
+  id: 12-031r2
+  type: OGC
+date:
+  type: published
+  value: '2012-07-12'
+contributor:
+- person:
+    name:
+      completename: Doug Palmer
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2012-07-12'
+language: en
+script: Latn
+abstract:
+  content: This discussion paper investigates the possible uses of NetCDF as a representation
+    of WaterML timeseries data. The work is largely based on the WaterML 2.0 standard
+    for timeseries, the NetCDF core and extensions standards and the CF-NetCDF and
+    ADCC conventions.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

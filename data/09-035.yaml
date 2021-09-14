@@ -1,0 +1,51 @@
+---
+id: '09-035'
+title:
+- type: title-main
+  content: OWS-6 Security Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-6 Security Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=35461
+  type: obp
+type: standard
+docid:
+  id: '09-035'
+  type: OGC
+date:
+  type: published
+  value: '2009-10-09'
+contributor:
+- person:
+    name:
+      completename: Rüdiger Gartmann
+  role: author
+- person:
+    name:
+      completename: Lewis Leinenweber
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-10-09'
+language: en
+script: Latn
+abstract:
+  content: 'This Engineering Report describes work accomplished during the OGC Web
+    Services Testbed, Phase 6 (OWS 6) to investigate and implement security measures
+    for OGC web services. This work was undertaken to address requirements stated
+    in the OWS-6 RFQ/CFP originating from a number of sponsors, from OGC staff, and
+    from OGC members. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

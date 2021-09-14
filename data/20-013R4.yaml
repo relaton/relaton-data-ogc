@@ -1,0 +1,57 @@
+---
+id: 20-013r4
+title:
+- type: title-main
+  content: 'OGC Maritime Limits and Boundaries Pilot: Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Maritime Limits and Boundaries Pilot: Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/20-013r4.html
+  type: obp
+type: standard
+docid:
+  id: 20-013r4
+  type: OGC
+date:
+  type: published
+  value: '2020-07-29'
+contributor:
+- person:
+    name:
+      completename: Jonathan Pritchard
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '4'
+revdate: '2020-07-29'
+language: en
+script: Latn
+abstract:
+  content: "This document comprises the Engineering Report (ER) and documents the
+    activities under Phase 1 and Phase 2 of the OGC Maritime Limits and Boundaries
+    (MLB) Pilot.\r\n\r\nThis Engineering Report details the activities undertaken
+    by participants in the pilot, the data supplied, transformed, and used to demonstrate
+    the pilot’s objectives, and the results of the various interoperability tests
+    performed within the pilot. Also documented here are the various outputs from
+    the pilot activities, where they are directed, and where updates or clarifications
+    are recommended to external standards or other elements of the broader ecosystem.\r\n\r\nThe
+    ER documents the journey taken within the project, from its origins as an architectural
+    statement of intent, through to the definition of its core elements (the GML application
+    schema which lends a common language to the data) and the implementation of that
+    schema within COTS, open source and bespoke software elements. The engineering
+    report also summarizes the outputs from the process, any unresolved issues, and
+    potential enhancements for the future."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

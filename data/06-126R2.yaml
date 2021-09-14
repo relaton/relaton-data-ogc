@@ -1,0 +1,47 @@
+---
+id: 06-126r2
+title:
+- type: title-main
+  content: Compliance Test Language (CTL) Best Practice
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Compliance Test Language (CTL) Best Practice
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=33085
+  type: obp
+type: standard
+docid:
+  id: 06-126r2
+  type: OGC
+date:
+  type: published
+  value: '2009-07-21'
+contributor:
+- person:
+    name:
+      completename: Chuck Morris
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2009-07-21'
+language: en
+script: Latn
+abstract:
+  content: This document establishes Compliance Test Language, an XML grammar for
+    documenting and scripting suites of tests for verifying that an implementation
+    of a specification complies with the specification.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

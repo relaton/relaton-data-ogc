@@ -1,0 +1,45 @@
+---
+id: 02-024
+title:
+- type: title-main
+  content: Web Coverage Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Coverage Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1131
+  type: obp
+type: standard
+docid:
+  id: 02-024
+  type: OGC
+date:
+  type: published
+  value: '2002-06-30'
+contributor:
+- person:
+    name:
+      completename: John Evans
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2002-06-30'
+language: en
+script: Latn
+abstract:
+  content: Extends the Web Map Server (WMS) interface to allow access to geospatial
+    coverages that represent values or properties of geographic locations, rather
+    than WMS generated maps (pictures).
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

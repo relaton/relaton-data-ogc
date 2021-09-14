@@ -1,0 +1,50 @@
+---
+id: 10-002
+title:
+- type: title-main
+  content: OGC® Climate Challenge Integration Plugfest 2009 Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Climate Challenge Integration Plugfest 2009 Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=37839
+  type: obp
+type: standard
+docid:
+  id: 10-002
+  type: OGC
+date:
+  type: published
+  value: '2014-04-28'
+contributor:
+- person:
+    name:
+      completename: Raj Singh
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2014-04-28'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Engineering Report (ER) documents findings of the CCIP 2009 Plugfest,
+    which was conducted via the public Internet to address requirements stated in
+    the CCIP Call for Participation . It addresses concept development, specifications
+    tested, and interoperability experiments conducted. The ER concludes with issues
+    that arose, and provides recommendations for the refinement of OGC Specifications
+    and the Plugfest process.  Recommendations in this ER will be considered in the
+    planning of future activities.\r\nOGC expresses thanks to the Australian Bureau
+    of Meteorology and to CSIRO for sponsoring CCIP 2009.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

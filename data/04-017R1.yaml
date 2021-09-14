@@ -1,0 +1,53 @@
+---
+id: 04-017r1
+title:
+- type: title-intro
+  content: OGC Catalogue Services
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: ebRIM (ISO/TS 15000-3) profile of CSW
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Catalogue Services - ebRIM (ISO/TS 15000-3) profile of CSW
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=7048
+  type: obp
+type: standard
+docid:
+  id: 04-017r1
+  type: OGC
+date:
+  type: published
+  value: '2004-10-12'
+contributor:
+- person:
+    name:
+      completename: Richard Martell
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2004-10-12'
+language: en
+script: Latn
+abstract:
+  content: The OGC Catalogue Services 2.0 specification (OGC 04-021) establishes a
+    framework for implementing catalogue services that can meet the needs of stakeholders
+    in a wide variety of application domains. This application profile is based on
+    the CSW schemas for web-based catalogues and it complies with the requirements
+    of clause 11 in OGC 04-021.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

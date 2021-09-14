@@ -1,0 +1,91 @@
+---
+id: 10-157r4
+title:
+- type: title-main
+  content: OGC® Earth Observation Metadata profile of Observations & Measurements
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Earth Observation Metadata profile of Observations & Measurements
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/10-157r4/10-157r4.html
+  type: obp
+type: standard
+docid:
+  id: 10-157r4
+  type: OGC
+date:
+  type: published
+  value: '2016-06-09'
+contributor:
+- person:
+    name:
+      completename: Jerome Gasperi
+  role: author
+- person:
+    name:
+      completename: Frédéric Houbie
+  role: author
+- person:
+    name:
+      completename: Andrew Woolf
+  role: author
+- person:
+    name:
+      completename: 'Steven Smolders '
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '4'
+revdate: '2016-06-09'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Implementation Standard defines a profile of Observations and
+    Measurements (ISO 19156:2010 and OGC 10-025r1) for describing Earth Observation
+    products (EO products).\r\nThis profile is intended to provide a standard schema
+    for encoding Earth Observation product metadata to support the description and
+    cataloguing of products from sensors aboard EO satellites.  \r\nThe metadata being
+    defined in this document is applicable in a number of places where EO product
+    metadata is needed.\r\n1.\tIn the EO Product Extension Package for ebRIM (OGC
+    10-189). This extension package defines how to catalog Earth Observation product
+    metadata described by this document. Using this metadata model and the Catalogue
+    Service defined in OGC 10-189, client applications can provide the functionality
+    to discover EO Products.  Providing an efficient encoding for EO Product metadata
+    cataloguing and discovery is the prime purpose of this specification.\r\n2.\tIn
+    the EO Application Profile of WMS (OGC 07-063r1). The GetFeatureInfo operation
+    on the outline (footprint layer) should return metadata following the Earth Observation
+    Metadata profile of Observation and Measurements.\r\n3.\tIn a coverage downloaded
+    via an EO WCS AP (OGC 10-140). In WCS 2.0 (OGC 10-084), the GetCoverage and DescribeCoverage
+    response contains the metadata element intended to store metadata information
+    about the coverage. The Earth Observation Application profile of WCS (OGC 10-140)
+    specifies that the metadata format preferred for Earth Observation is defined
+    by this document.\r\n4.\tPotentially enclosed within an actual product to describe
+    georeferencing information as for instance within the JPEG2000 format using GMLJP2.
+    GMLJP2 defines how to store GML coverage metadata inside a JP2 file.  \r\nEarth
+    Observation data products are generally managed within logical collections that
+    are usually structured to contain data items derived from sensors onboard a satellite
+    or series of satellites.  The key characteristics differentiating products within
+    the collections are date of acquisition, location as well as characteristics depending
+    on the type of sensor, For example, key characteristics for optical imagery are
+    the possible presence of cloud, haze, smokes or other atmospheric or on ground
+    phenomena obscuring the image. \r\nThe common metadata used to distinguish EO
+    products types are presented in this document for generic and thematic EO products
+    (i.e optical, radar, atmospheric, altimetry, limb-looking and synthesis and systematic
+    products). From these metadata the encodings are derived according to standard
+    schemas. In addition, this document describes the mechanism used to extend these
+    schemas to specific missions and for specific purposes such as long term data
+    preservation. \r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

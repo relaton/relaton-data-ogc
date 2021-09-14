@@ -1,0 +1,54 @@
+---
+id: 11-134
+title:
+- type: title-main
+  content: 'OWS-8 Tracking: Moving Target Indicator Process, Workflows and Implementation
+    Results ER'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OWS-8 Tracking: Moving Target Indicator Process, Workflows and Implementation
+    Results ER'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=46372
+  type: obp
+type: standard
+docid:
+  id: 11-134
+  type: OGC
+date:
+  type: published
+  value: '2012-05-15'
+contributor:
+- person:
+    name:
+      completename: Rob Cass
+  role: author
+- person:
+    name:
+      completename: Mark Simms
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2012-05-15'
+language: en
+script: Latn
+abstract:
+  content: "The scope of this report is to provide a description of services, data
+    storage and data\r\nmovement within the OWS-8 Tracking sub-thread. The paper outlines
+    the development\r\nof Sensor Observation Services (SOS), a Web Feature Service(WFS),
+    a Notification\r\nService and a Web Processing Service (WPS) for generating track
+    features. Additionally,\r\nimplemented encodings will be discussed as examples
+    and in comparison to the\r\nencodings detailed in (Simonis, 2011)."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

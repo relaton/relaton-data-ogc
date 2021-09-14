@@ -1,0 +1,53 @@
+---
+id: 17-038
+title:
+- type: title-main
+  content: 'OGC Testbed-13: Fit-for-Purpose Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-13: Fit-for-Purpose Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-038.html
+  type: obp
+type: standard
+docid:
+  id: 17-038
+  type: OGC
+date:
+  type: published
+  value: '2018-01-18'
+contributor:
+- person:
+    name:
+      completename: Jeff Harrison
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2018-01-18'
+language: en
+script: Latn
+abstract:
+  content: "The objective of the Fit for Purpose (FFP) effort in Testbed 13 was to
+    develop and test filters and encodings in a platform that can ease the work of
+    end-users, especially those who are not expert in dealing with geospatial data
+    and satellite imagery. The platform was demonstrated in a scenario that showed
+    how these filters can enable information exchange for humanitarian relief and
+    analysis of mass movement of populations.\r\n\r\nThis section provides a summary
+    of the interoperability tools and practices used by Testbed 13 participants in
+    this platform. It includes descriptions and testing results of filters and encodings
+    to help simplify access to satellite imagery. This technology was tested in a
+    scenario that showed how OGC-based services, encodings, filters and applications
+    can help coordinate humanitarian relief activities among nations and organizations."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

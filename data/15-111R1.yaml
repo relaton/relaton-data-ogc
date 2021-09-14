@@ -1,0 +1,52 @@
+---
+id: 15-111r1
+title:
+- type: title-main
+  content: OGC® Land and Infrastructure Conceptual Model Standard (LandInfra)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Land and Infrastructure Conceptual Model Standard (LandInfra)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/15-111r1/15-111r1.html
+  type: obp
+type: standard
+docid:
+  id: 15-111r1
+  type: OGC
+date:
+  type: published
+  value: '2016-12-20'
+contributor:
+- person:
+    name:
+      completename: Paul Scarponcini
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2016-12-20'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Land and Infrastructure Conceptual Model Standard presents the
+    implementation-independent concepts supporting land and civil engineering infrastructure
+    facilities.  Conceptual model subject areas include facilities, projects, alignment,
+    road, rail, survey, land features, land division, and wet infrastructure (storm
+    drainage, wastewater, and water distribution systems).  The initial release of
+    this standard includes all of these subject areas except wet infrastructure, which
+    is anticipated to be released as a future extension. \r\nThis standard assumes
+    the reader has a basic understanding of surveying and civil engineering concepts.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

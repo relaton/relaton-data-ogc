@@ -1,0 +1,74 @@
+---
+id: 13-131r1
+title:
+- type: title-intro
+  content: OGC® Publish/Subscribe Interface Standard 1.0
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Core
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Publish/Subscribe Interface Standard 1.0 - Core
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/13-131r1/13-131r1.html
+  type: obp
+type: standard
+docid:
+  id: 13-131r1
+  type: OGC
+date:
+  type: published
+  value: '2016-08-22'
+contributor:
+- person:
+    name:
+      completename: 'Aaron Braeckel '
+  role: author
+- person:
+    name:
+      completename: 'Lorenzo Bigagli '
+  role: author
+- person:
+    name:
+      completename: Johannes Echterhoff
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2016-08-22'
+language: en
+script: Latn
+abstract:
+  content: "Publish/Subscribe 1.0 is an interface specification that supports the
+    core components and concepts of the Publish/Subscribe message exchange pattern
+    with OGC Web Services. The Publish/Subscribe pattern complements the Request/Reply
+    pattern specified by many existing OGC Web Services. This specification may be
+    used either in concert with, or independently of, existing OGC Web Services to
+    publish data of interest to interested Subscribers.\r\n\r\nPublish/Subscribe 1.0
+    primarily addresses subscription management capabilities such as creating a subscription,
+    renewing a subscription, and unsubscribing.  However, this standard also allows
+    Publish/Subscribe services to advertise and describe the supported message delivery
+    protocols such as SOAP messaging, ATOM, and AMQP.  Message delivery protocols
+    should be considered to be independent of the Publish/Subscribe 1.0 standard.
+    \ Therefore, OGC Publish/Subscribe only includes metadata relating to message
+    delivery protocols in sufficient detail to allow for different implementations
+    of Publish/Subscribe 1.0 to interoperate. \r\n\r\nThis specification defines Publish/Subscribe
+    functionality independently of the binding technology (e.g., KVP, SOAP, REST).
+    Extensions to this specification may realize these core concepts with specific
+    binding technologies."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

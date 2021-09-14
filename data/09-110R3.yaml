@@ -1,0 +1,56 @@
+---
+id: '09-110r3'
+title:
+- type: title-intro
+  content: OGC® WCS 2.0 Interface Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Core
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® WCS 2.0 Interface Standard - Core
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=41437
+  type: obp
+type: standard
+docid:
+  id: '09-110r3'
+  type: OGC
+date:
+  type: published
+  value: '2010-10-27'
+contributor:
+- person:
+    name:
+      completename: Peter Baumann
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2010-10-27'
+language: en
+script: Latn
+abstract:
+  content: This document specifies how a Web Coverage Service (WCS) offers multi-dimensional
+    coverage data for access over the Internet. This document specifies a core set
+    of requirements that a WCS implementation must fulfil. WCS extension standards
+    add further functionality to this core; some of these are required in addition
+    to the core to obtain a complete implementation. This document indicates which
+    extensions, at a minimum, need to be considered in addition to this core to allow
+    for a complete WCS implementation.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

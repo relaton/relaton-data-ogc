@@ -1,0 +1,51 @@
+---
+id: 20-038
+title:
+- type: title-main
+  content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
+    Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
+    Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-038.html
+  type: obp
+type: standard
+docid:
+  id: 20-038
+  type: OGC
+date:
+  type: published
+  value: '2020-10-22'
+contributor:
+- person:
+    name:
+      completename: Omar Barrilero
+  role: author
+- person:
+    name:
+      completename: Adrian Luna
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-10-22'
+language: en
+script: Latn
+abstract:
+  content: This Engineering Report (ER) describes the achievements of the European
+    Union Satellite Centre (SatCen) as an application provider in the OGC Earth Observation
+    Applications Pilot and the lessons learned from the project.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

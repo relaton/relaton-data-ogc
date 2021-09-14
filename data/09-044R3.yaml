@@ -1,0 +1,55 @@
+---
+id: '09-044r3'
+title:
+- type: title-main
+  content: Geospatial Business Intelligence (GeoBI)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Geospatial Business Intelligence (GeoBI)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=49321
+  type: obp
+type: standard
+docid:
+  id: '09-044r3'
+  type: OGC
+date:
+  type: published
+  value: '2012-07-12'
+contributor:
+- person:
+    name:
+      completename: George Percivall
+  role: author
+- person:
+    name:
+      completename: Raj Singh
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2012-07-12'
+language: en
+script: Latn
+abstract:
+  content: "BI is an umbrella term for a major component of IT infrastructure. It
+    encompasses Data\r\nWarehouses, Business Analytics, Dashboards and Scorecards.
+    This IT infrastructure is associated\r\nwith C-level decision-making in an organization.
+    These decision-making tools have typically\r\nincluded location as a dumb attribute
+    (coded sales zones as opposed to sales zones as geographic\r\nboundaries). At
+    this point in the BI lifecycle, customers are looking to derive additional business\r\nbenefit
+    / return on investment from intelligent location data; data discovery and unstructured
+    data."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

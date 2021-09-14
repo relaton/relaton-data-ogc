@@ -1,0 +1,67 @@
+---
+id: 14-086r1
+title:
+- type: title-main
+  content: OGC® Aircraft Access to SWIM (AAtS) Harmonization Project Summary Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Aircraft Access to SWIM (AAtS) Harmonization Project Summary Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/60176
+  type: obp
+type: standard
+docid:
+  id: 14-086r1
+  type: OGC
+date:
+  type: published
+  value: '2014-11-03'
+contributor:
+- person:
+    name:
+      completename: Josh Lieberman
+  role: author
+- person:
+    name:
+      completename: Johannes Echterhoff
+  role: author
+- person:
+    name:
+      completename: Matt de Ris
+  role: author
+- person:
+    name:
+      completename: George Wilber
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2014-11-03'
+language: en
+script: Latn
+abstract:
+  content: "This OGC® document summarizes the Aircraft Access to SWIM (AAtS) Harmonization
+    activity developed by a team funded by the FAA and led by the Open Geospatial
+    Consortium (OGC). The activity involved assembling a core team of industry participant
+    experts to analyze and harmonize four standards suites and/or standards-based
+    architectures relevant to air-ground information exchange:\r\n•\tThe Aircraft
+    Access to SWIM (AAtS) concept, \r\n•\tRTCA aeronautical information services (AIS)
+    and meteorological (MET) information data link service committee’s (SC-206) concepts
+    and standards, \r\n•\tAir-Ground Information Exchange A830 (AGIE) standard and
+    \r\n•\tOGC standards and architectural perspectives. \r\nElements of this effort
+    have included:\r\n•\tCreation and public release of a Request for Information\r\n•\tAnalysis
+    of the fits and overlaps between the four standards suites\r\n•\tEngagement with
+    ongoing standards development efforts to reduce incompatibilities\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

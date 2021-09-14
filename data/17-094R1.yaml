@@ -1,0 +1,50 @@
+---
+id: 17-094r1
+title:
+- type: title-main
+  content: OGC Portrayal Concept Development Study
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Portrayal Concept Development Study
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-094r1.html
+  type: obp
+type: standard
+docid:
+  id: 17-094r1
+  type: OGC
+date:
+  type: published
+  value: '2018-10-09'
+contributor:
+- person:
+    name:
+      completename: Jeff Yutzler
+  role: author
+- person:
+    name:
+      completename: Rob Cass
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2018-10-09'
+language: en
+script: Latn
+abstract:
+  content: The main goal of this CDS is to advance the standards and guidance that
+    will allow production of high-quality digital maps over the web from existing
+    vector data.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

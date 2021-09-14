@@ -1,0 +1,60 @@
+---
+id: 15-057r2
+title:
+- type: title-main
+  content: OGC® Testbed-11 Incorporating Social Media in Emergency Response Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Testbed-11 Incorporating Social Media in Emergency Response Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=64353
+  type: obp
+type: standard
+docid:
+  id: 15-057r2
+  type: OGC
+date:
+  type: published
+  value: '2015-11-18'
+contributor:
+- person:
+    name:
+      completename: Matthes Rieke
+  role: author
+- person:
+    name:
+      completename: Simon Jirka
+  role: author
+- person:
+    name:
+      completename: Stephane Fellah
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2015-11-18'
+language: en
+script: Latn
+abstract:
+  content: This OGC Engineering Report (ER) was created as a deliverable for the OGC
+    Testbed 11 initiative of the OGC Interoperability Program. This ER describes an
+    approach for incorporating Social Media for Emergency Response applications that
+    use spatial data infrastructures. This document also reports on findings about
+    the advancements using Social Media and VGI resources. The ER includes ideas on
+    improving the architecture, service change recommendations (primarily concerning
+    the OGC Sensor Observation Service (SOS) 2.0 interface), and lessons learned.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

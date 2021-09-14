@@ -1,0 +1,53 @@
+---
+id: 14-000
+title:
+- type: title-main
+  content: 'Testbed 10 Engineering Report: GML for Aviation Conformance Testing'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'Testbed 10 Engineering Report: GML for Aviation Conformance Testing'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=58995
+  type: obp
+type: standard
+docid:
+  id: 14-000
+  type: OGC
+date:
+  type: published
+  value: '2014-07-14'
+contributor:
+- person:
+    name:
+      completename: R. Martell
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2014-07-14'
+language: en
+script: Latn
+abstract:
+  content: "This activity is part of OGC Testbed 10. The aviation thread was focused
+    on developing\r\nand demonstrating the use of the Aeronautical Information Exchange
+    Model (AIXM) and\r\nthe Flight Information Exchange Model (FIXM), building on
+    the work accomplished in\r\nprior testbeds to advance the applications of OGC
+    Web Services standards in next generation\r\nair traffic management systems to
+    support European and US aviation modernization\r\nprograms\r\nThis document summarizes
+    technical work relating to the enhancement of the GML 3.2.1\r\nconformance test
+    suite in accord with the requirements in the OWS-10 RFQ, Annex B1,\r\nsection
+    6.3.6: “GML for Aviation Compliance Test Suite + GML for Aviation Conformance\r\nTesting
+    ER”. The essential aim is to advance compliance with respect to the use of\r\nGML
+    geometry representations in aviation (AIXM) data."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

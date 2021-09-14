@@ -1,0 +1,49 @@
+---
+id: 02-061r1
+title:
+- type: title-main
+  content: Web Coordinate Transformation Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Coordinate Transformation Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1174
+  type: obp
+type: standard
+docid:
+  id: 02-061r1
+  type: OGC
+date:
+  type: published
+  value: '2002-09-15'
+contributor:
+- person:
+    name:
+      completename: Andreas Poth
+  role: author
+- person:
+    name:
+      completename: Markus Muller
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2002-09-15'
+language: en
+script: Latn
+abstract:
+  content: This document specifies the transformations of geo-spatial coordinates
+    from one Coordinate Reference System (CRS) into another by means of a Web Service
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

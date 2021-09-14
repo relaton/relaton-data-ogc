@@ -1,0 +1,47 @@
+---
+id: 10-099r2
+title:
+- type: title-main
+  content: 'Revision Notes for OpenGIS® Implementation Specification: Geography Markup
+    Language (GML) simple features profile v2.0'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'Revision Notes for OpenGIS® Implementation Specification: Geography Markup
+    Language (GML) simple features profile v2.0'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=39852
+  type: obp
+type: standard
+docid:
+  id: 10-099r2
+  type: OGC
+date:
+  type: published
+  value: '2010-10-07'
+contributor:
+- person:
+    name:
+      completename: Panagiotis (Peter) A. Vretanos
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2010-10-07'
+language: en
+script: Latn
+abstract:
+  content: This document provides revision notes for version 2.0 of the OpenGIS® Implementation
+    Specification Geography Markup Language (GML) simple feature profile.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

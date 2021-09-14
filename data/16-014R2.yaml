@@ -1,0 +1,60 @@
+---
+id: 16-014r2
+title:
+- type: title-main
+  content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
+    Architecture Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
+    Architecture Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-014r2.html
+  type: obp
+type: standard
+docid:
+  id: 16-014r2
+  type: OGC
+date:
+  type: published
+  value: '2018-04-26'
+contributor:
+- person:
+    name:
+      completename: Greg Schumann
+  role: author
+- person:
+    name:
+      completename: Josh Lieberman
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2018-04-26'
+language: en
+script: Latn
+abstract:
+  content: "The Incident Management Information Sharing (IMIS) Internet of Things
+    (IoT) Pilot established the following objectives.\r\n•\tApply Open Geospatial
+    Consortium (OGC) principles and practices for collaborative development to existing
+    standards and technology to prototype an IoT approach to sensor use for incident
+    management. \r\n•\tEmploy an agile methodology for collaborative development of
+    system designs, specifications, software and hardware components of an IoT-inspired
+    IMIS sensor capability. \r\n•\tDevelop profiles and extensions of existing Sensor
+    Web Enablement (SWE) and other distributed computing standards to provide a basis
+    for future IMIS sensor and observation interoperability. \r\n•\tPrototype capabilities
+    documented in engineering reports and demonstrated in a realistic incident management
+    scenario. \r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

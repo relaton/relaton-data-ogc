@@ -1,0 +1,57 @@
+---
+id: 19-082r1
+title:
+- type: title-main
+  content: 'OGC Vector Tiles Pilot 2: Tile Set Metadata Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Vector Tiles Pilot 2: Tile Set Metadata Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-082r1.html
+  type: obp
+type: standard
+docid:
+  id: 19-082r1
+  type: OGC
+date:
+  type: published
+  value: '2020-07-08'
+contributor:
+- person:
+    name:
+      completename: Sergio Taleisnik
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2020-07-08'
+language: en
+script: Latn
+abstract:
+  content: "The OGC Vector Tiles Pilot 2: Tile Set Metadata Engineering Report (ER)
+    describes a conceptual model for Tile Set Metadata that provides information about
+    the intended usage of a Tile Set as well as the origin, security level, tiling
+    scheme, layers and feature properties contained within. In this ER, a tile set
+    is a series of tiles containing data and following a common tiling scheme.\r\n\r\nThe
+    metadata is intended to facilitate retrieval of tile sets and describes the major
+    characteristics of tile sets without actually accessing the tiles nor the content
+    contained in a tile. Such a process could be time consuming when there are a large
+    number of tiles in a tile set.\r\n\r\nAdditionally, this ER summarizes the discussions
+    about Tile Set Metadata among the VTP2 participants, and draws up conclusions
+    and recommendations for future work on the subject.\r\n\r\nFinally, this ER describes
+    the Technology Integration Experiments (TIEs) performed to test the prototype
+    implementation of the proposed Tile Set Metadata Model on API endpoints, client
+    applications, and GeoPackages."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

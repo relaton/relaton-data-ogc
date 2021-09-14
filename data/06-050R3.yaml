@@ -1,0 +1,55 @@
+---
+id: 06-050r3
+title:
+- type: title-main
+  content: GeoRSS, An Introduction to
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: GeoRSS, An Introduction to
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=15755
+  type: obp
+type: standard
+docid:
+  id: 06-050r3
+  type: OGC
+date:
+  type: published
+  value: '2006-07-19'
+contributor:
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2006-07-19'
+language: en
+script: Latn
+abstract:
+  content: GeoRSS is simple proposal for geo-enabling, or tagging, really simple syndication
+    (RSS) feeds with location information. GeoRSS proposes a standardized way in which
+    location is encoded with enough simplicity and descriptive power to satisfy most
+    needs to describe the location of Web content. GeoRSS may not work for every use,
+    but it should serve as an easy-to-use geotagging encoding that is brief and simple
+    with useful defaults but extensible and upwardly-compatible with more sophisticated
+    encoding standards such as the OGC (Open Geospatial Consortium) GML (Geography
+    Markup Language).
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: general
+editorialgroup:
+  committee: technical

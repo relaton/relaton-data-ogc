@@ -1,0 +1,55 @@
+---
+id: 11-030r1
+title:
+- type: title-intro
+  content: 'OGC®: Open GeoSMS Standard'
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Core
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC®: Open GeoSMS Standard - Core'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=44146
+  type: obp
+type: standard
+docid:
+  id: 11-030r1
+  type: OGC
+date:
+  type: published
+  value: '2012-01-19'
+contributor:
+- person:
+    name:
+      completename: Kuan-Mei Chen
+  role: author
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2012-01-19'
+language: en
+script: Latn
+abstract:
+  content: 'The OpenGIS® Open GeoSMS standard defines an encoding for location enabling
+    a text message to be communicated using a Short Messages System (SMS). '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

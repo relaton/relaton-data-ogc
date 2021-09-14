@@ -1,0 +1,70 @@
+---
+id: 14-005r3
+title:
+- type: title-main
+  content: OGC® IndoorGML
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® IndoorGML
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/14-005r3/14-005r3.html
+  type: obp
+type: standard
+docid:
+  id: 14-005r3
+  type: OGC
+date:
+  type: published
+  value: '2014-12-02'
+contributor:
+- person:
+    name:
+      completename: Jiyeong Lee
+  role: author
+- person:
+    name:
+      completename: Ki-Joune Li
+  role: author
+- person:
+    name:
+      completename: Sisi Zlatanova
+  role: author
+- person:
+    name:
+      completename: Thomas H. Kolbe
+  role: author
+- person:
+    name:
+      completename: Claus Nagel
+  role: author
+- person:
+    name:
+      completename: Thomas Becker
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2014-12-02'
+language: en
+script: Latn
+abstract:
+  content: This OGC® IndoorGML standard specifies an open data model and XML schema
+    for indoor spatial information. IndoorGML is an application schema of OGC® GML
+    3.2.1. While there are several 3D building modelling standards such as CityGML,
+    KML, and IFC, which deal with interior space of buildings from geometric, cartographic,
+    and semantic viewpoints, IndoorGML intentionally focuses on modelling indoor spaces
+    for navigation purposes.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

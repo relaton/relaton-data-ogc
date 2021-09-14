@@ -1,0 +1,55 @@
+---
+id: 06-009r6
+title:
+- type: title-main
+  content: OpenGIS Sensor Observation Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Sensor Observation Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=26667
+  type: obp
+type: standard
+docid:
+  id: 06-009r6
+  type: OGC
+date:
+  type: published
+  value: '2008-02-13'
+contributor:
+- person:
+    name:
+      completename: Arthur Na
+  role: author
+- person:
+    name:
+      completename: Mark Priest
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '6'
+revdate: '2008-02-13'
+language: en
+script: Latn
+abstract:
+  content: The OpenGIS® Sensor Observation Service Interface Standard (SOS) provides
+    an API for managing deployed sensors and retrieving sensor data and specifically
+    “observation” data. Whether from in-situ sensors (e.g., water monitoring) or dynamic
+    sensors (e.g., satellite imaging), measurements made from sensor systems contribute
+    most of the geospatial data by volume used in geospatial systems today. This is
+    one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
+    suite of standards.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

@@ -1,0 +1,54 @@
+---
+id: 19-030r1
+title:
+- type: title-main
+  content: OGC Mixed Reality to the Edge Concept Development Study
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Mixed Reality to the Edge Concept Development Study
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-030r1.html
+  type: obp
+type: standard
+docid:
+  id: 19-030r1
+  type: OGC
+date:
+  type: published
+  value: '2019-08-20'
+contributor:
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2019-08-20'
+language: en
+script: Latn
+abstract:
+  content: "Mixed Reality (MR), also referred to as hybrid reality, is the merging
+    of real and virtual worlds to produce new environments and visualizations where
+    physical and digital objects co-exist and interact in real time. MR has great
+    potential in enhancing situation awareness and otherwise augmenting the experiences
+    and performance of humans on the go.\r\n\r\nThis OGC Engineering Report summarizes
+    information and findings collected during the Mixed Reality at the Edge Concept
+    Development Study (CDS). Specifically, this report presents the significant findings
+    concerning the state-of-the-art and potential of employing MR in modern systems,
+    with a focus on discussing the state of needed interoperability and standards.\r\n\r\nThe
+    term mixed reality was originally introduced in a 1994 paper by Paul Milgram and
+    Fumio Kishino, A Taxonomy of Mixed Reality Visual Displays. What is mixed reality?."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,47 @@
+---
+id: '09-122'
+title:
+- type: title-main
+  content: CF-netCDF Encoding Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: CF-netCDF Encoding Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=35505
+  type: obp
+type: standard
+docid:
+  id: '09-122'
+  type: OGC
+date:
+  type: published
+  value: '2009-10-13'
+contributor:
+- person:
+    name:
+      completename: Ben Domenico
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-10-13'
+language: en
+script: Latn
+abstract:
+  content: NetCDF (network Common Data Form) is a data model for array-oriented scientific
+    data, a freely distributed collection of access libraries implementing support
+    for that data model, and a machine-independent format. Together, the interfaces,
+    libraries, and format support the creation, access, and sharing of scientific
+    data.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

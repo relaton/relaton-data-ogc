@@ -1,0 +1,63 @@
+---
+id: 18-043r3
+title:
+- type: title-main
+  content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/18-043r3/18-043r3.html
+  type: obp
+type: standard
+docid:
+  id: 18-043r3
+  type: OGC
+date:
+  type: published
+  value: '2019-10-28'
+contributor:
+- person:
+    name:
+      completename: Aleksandar Jelenak
+  role: author
+- person:
+    name:
+      completename: Ted Habermann
+  role: author
+- person:
+    name:
+      completename: Gerd Heber
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2019-10-28'
+language: en
+script: Latn
+abstract:
+  content: "Hierarchical Data Format Version 5 (HDF5®) is a data model, a programming
+    interface, and a storage model for keeping and managing data. It supports an unlimited
+    variety of data types, and is designed to be flexible and efficient for large
+    and complex data. HDF5 is extensible via customizing data types, allowing communities
+    and their applications to evolve in the use of HDF5.\r\n\r\nThis document describes
+    the HDF5 data model as an encoding standard particularly suitable to scientific
+    and engineering geospatial applications that employ multidimensional numeric arrays
+    to describe temporally and spatially varying phenomena. The data model is simple
+    yet versatile, capable of supporting complex data relationships and dependencies
+    through its grouping and linking mechanisms. It is also self-describing by accommodating
+    user-defined metadata."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

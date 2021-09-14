@@ -1,0 +1,48 @@
+---
+id: '09-012'
+title:
+- type: title-main
+  content: OWS-6 Symbology-Encoding Harmonization ER
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-6 Symbology-Encoding Harmonization ER
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=33519
+  type: obp
+type: standard
+docid:
+  id: '09-012'
+  type: OGC
+date:
+  type: published
+  value: '2009-08-17'
+contributor:
+- person:
+    name:
+      completename: Craig Bruce
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-08-17'
+language: en
+script: Latn
+abstract:
+  content: This OGC® document reports the results achieved in the Decision Support
+    Services (DSS) subtask of the OWS-6 testbed initiative as it relates to the harmonization
+    of OGC Styled Layer Descriptor (SLD) and Symbology Encoding (SE) symbology formats
+    with ISO 19117 symbology format, International Hydrographic Organization S-52
+    symbology, USGS Topomap symbology, and Homeland Security Emergency Management
+    symbology.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

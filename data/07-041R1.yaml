@@ -1,0 +1,55 @@
+---
+id: 07-041r1
+title:
+- type: title-main
+  content: CUAHSI WaterML
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: CUAHSI WaterML
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=21743
+  type: obp
+type: standard
+docid:
+  id: 07-041r1
+  type: OGC
+date:
+  type: published
+  value: '2007-05-30'
+contributor:
+- person:
+    name:
+      completename: Ilya Zaslavsky
+  role: author
+- person:
+    name:
+      completename: David Valentine
+  role: author
+- person:
+    name:
+      completename: Tim Whiteaker
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2007-05-30'
+language: en
+script: Latn
+abstract:
+  content: This document describes the initial version of the WaterML messaging schema
+    as implemented in version 1 of WaterOneFlow web services. It also lays out strategies
+    for harmonizing WaterML with OGC specifications, the Observations and Measurement
+    specification in particular.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

@@ -1,0 +1,63 @@
+---
+id: 19-076
+title:
+- type: title-main
+  content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations,
+    and Architecture'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations,
+    and Architecture'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/wp/19-076.html
+  type: obp
+type: standard
+docid:
+  id: 19-076
+  type: OGC
+date:
+  type: published
+  value: '2020-03-30'
+contributor:
+- person:
+    name:
+      completename: Ajay Gupta
+  role: author
+- person:
+    name:
+      completename: Luis Bermudez
+  role: author
+- person:
+    name:
+      completename: Eddie Oldfield
+  role: author
+- person:
+    name:
+      completename: Scott Serich
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-03-30'
+language: en
+script: Latn
+abstract:
+  content: This Health Spatial Data Infrastructure white paper provides a discussion
+    about the collection, exchange, integration, analysis, and visualization of health
+    and non-health data to support health applications. Applications that address
+    health issues at global and population level scale as well as at the local, individual
+    patient scale are presented. The paper identifies opportunities to advance OGC
+    Standards towards building a framework to support Health Spatial Data Infrastructures
+    (SDIs).
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

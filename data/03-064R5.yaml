@@ -1,0 +1,50 @@
+---
+id: 03-064r5
+title:
+- type: title-main
+  content: GO-1 Application Objects
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: GO-1 Application Objects
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=5936
+  type: obp
+type: standard
+docid:
+  id: 03-064r5
+  type: OGC
+date:
+  type: published
+  value: '2004-06-25'
+contributor:
+- person:
+    name:
+      completename: Eric Bertel
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '5'
+revdate: '2004-06-25'
+language: en
+script: Latn
+abstract:
+  content: The GO-1 Application Objects specification defines a set of core packages
+    that support a small set of Geometries, a basic set of renderable Graphics that
+    correspond to those Geometries, 2D device abstractions (displays, mouse, keyboard,
+    etc.), and supporting classes. Implementation of these APIs will support the needs
+    of many users of geospatial and graphic information. These APIs support the rendering
+    of geospatial datasets, provide fine-grained symbolization of geometries, and
+    support dynamic, event and user driven animation of geo-registered graphics.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

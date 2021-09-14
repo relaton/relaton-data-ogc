@@ -1,0 +1,54 @@
+---
+id: 20-041
+title:
+- type: title-main
+  content: 'OGC Testbed-16: Analysis Ready Data Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-16: Analysis Ready Data Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-041.html
+  type: obp
+type: standard
+docid:
+  id: 20-041
+  type: OGC
+date:
+  type: published
+  value: '2021-01-13'
+contributor:
+- person:
+    name:
+      completename: Joan Maso
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2021-01-13'
+language: en
+script: Latn
+abstract:
+  content: "The Committee on Earth Observation Satellites (CEOS) defines Analysis
+    Ready Data (ARD) for Land (CARD4L) as satellite data that have been processed
+    to a minimum set of requirements and organized into a form that allows immediate
+    analysis with a minimum of additional user effort and interoperability both through
+    time and with other datasets.\r\n\r\nThis OGC Testbed 16 Engineering Report (ER)
+    generalizes the ARD concept and studies its implications for the OGC Standards
+    baseline. In particular, the ER analyses how modern federated data processing
+    architectures applying data cubes and Docker packages can take advantage of the
+    existence of ARD. Architectures for ARD should minimize data transmission and
+    allow and favor code transmission and remote execution. This ER also considers
+    a workflow in which new processes are triggered as soon as new data becomes available.
+    This is part of the event driven discussion."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

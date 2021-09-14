@@ -1,0 +1,68 @@
+---
+id: 10-191r1
+title:
+- type: title-main
+  content: Requirements and Space-Event Modeling for Indoor Navigation
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Requirements and Space-Event Modeling for Indoor Navigation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=41727
+  type: obp
+type: standard
+docid:
+  id: 10-191r1
+  type: OGC
+date:
+  type: published
+  value: '2010-12-11'
+contributor:
+- person:
+    name:
+      completename: Claus Nagel
+  role: author
+- person:
+    name:
+      completename: Thomas Becker
+  role: author
+- person:
+    name:
+      completename: Robert Kaden
+  role: author
+- person:
+    name:
+      completename: Ki-Joune Li
+  role: author
+- person:
+    name:
+      completename: Jiyeong Lee
+  role: author
+- person:
+    name:
+      completename: Thomas H. Kolbe
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2010-12-11'
+language: en
+script: Latn
+abstract:
+  content: This OpenGIS® Discussion Paper presents a Multilayered Space-Event Model
+    for indoor navigation which simultaneously addresses route planning, multiple
+    localization methods, navigation contexts, and different locomotion types. The
+    paper contains the corresponding data models as well as their encoding in GML
+    3.1.1.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

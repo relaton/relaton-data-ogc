@@ -1,0 +1,51 @@
+---
+id: 12-026
+title:
+- type: title-main
+  content: Architecture of an Access Management Federation for Spatial Data and Services
+    in Germany
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Architecture of an Access Management Federation for Spatial Data and Services
+    in Germany
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=47848
+  type: obp
+type: standard
+docid:
+  id: 12-026
+  type: OGC
+date:
+  type: published
+  value: '2012-04-18'
+contributor:
+- person:
+    name:
+      completename: Andreas Matheus
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2012-04-18'
+language: en
+script: Latn
+abstract:
+  content: "An Access Management Federation (AMF) is a network of organizations that
+    trust each other for the\r\nmeans of sharing protected resources among each other.
+    Worldwide, many academic AMFs are\r\navailable for the purpose of sharing information
+    and services between academic institutions such\r\nas Universities and Research
+    Organizations. In the academia, some of the well known AMFs are UK\r\nAccess Management
+    Federation (United Kingdom http://www.ukfederation.org.uk/), In Common\r\n(USA
+    http://www.incommon.org/) and DFN-AAI (Germany https://www.aai.dfn.de)."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

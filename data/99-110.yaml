@@ -1,0 +1,49 @@
+---
+id: 99-110
+title:
+- type: title-intro
+  content: Topic 10
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Feature Collections
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 10 - Feature Collections
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=897
+  type: obp
+type: standard
+docid:
+  id: 99-110
+  type: OGC
+date:
+  type: published
+  value: '1999-04-07'
+contributor:
+- person:
+    name:
+      completename: Cliff Kottman
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '1999-04-07'
+language: en
+script: Latn
+abstract:
+  content: An OpenGIS Feature Collection is an abstract object consisting of Feature
+    Instances, their Feature Schema, and Project Schema.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

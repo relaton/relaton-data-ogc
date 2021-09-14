@@ -1,0 +1,59 @@
+---
+id: 11-038R2
+title:
+- type: title-main
+  content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
+    Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
+    Standard
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=50294
+  type: obp
+type: standard
+docid:
+  id: 11-038R2
+  type: OGC
+date:
+  type: published
+  value: '2012-10-02'
+contributor:
+- person:
+    name:
+      completename: Ben Domenico
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2012-10-02'
+language: en
+script: Latn
+abstract:
+  content: "This standard deals with enhancements to the netCDF (Network Common Data
+    Form) data model for array-oriented scientific data..\r\nTwo important data models
+    for netCDF are:\r\n- the “classic” netCDF model, used for netCDF-3 and earlier
+    versions\r\n- an enhanced data model, used in netCDF-4 and later versions.\r\nThe
+    netCDF classic data model is defined in OGC 10-091r3, “NetCDF Core.”\r\nThis document
+    specifies a netCDF extension standard for the enhanced data model. The OGC netCDF
+    encoding supports electronic encoding of geospatial data, specifically digital
+    geospatial information representing space- and time-varying phenomena.\r\nNetCDF
+    (network Common Data Form) is a data model for array-oriented scientific data.
+    The netCDF classic data model is specified in the netCDF core specification. This
+    standard specifies the enhanced data model. A freely distributed collection of
+    access libraries implementing support for that data model in a machine-independent
+    format are available. Together, the interfaces, libraries, and format support
+    the creation, access, and sharing of multi-dimensional scientific data."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

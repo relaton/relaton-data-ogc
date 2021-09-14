@@ -1,0 +1,44 @@
+---
+id: 12-081
+title:
+- type: title-main
+  content: Name type specification – ontology resources
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Name type specification – ontology resources
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=51856
+  type: obp
+type: standard
+docid:
+  id: 12-081
+  type: OGC
+date:
+  type: published
+  value: '2013-06-18'
+contributor:
+- person:
+    name:
+      completename: Simon Cox
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2013-06-18'
+language: en
+script: Latn
+abstract:
+  content: "An OGC name is required for ontology resources published by OGC. This
+    includes OWL\r\nontologies, classes and properties."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

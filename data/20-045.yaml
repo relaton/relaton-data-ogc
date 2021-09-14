@@ -1,0 +1,49 @@
+---
+id: 20-045
+title:
+- type: title-main
+  content: 'OGC Earth Observation Applications Pilot: CRIM Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Earth Observation Applications Pilot: CRIM Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-045.html
+  type: obp
+type: standard
+docid:
+  id: 20-045
+  type: OGC
+date:
+  type: published
+  value: '2020-10-26'
+contributor:
+- person:
+    name:
+      completename: Tom Landry
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-10-26'
+language: en
+script: Latn
+abstract:
+  content: This engineering report documents experiments conducted by CRIM in OGC’s
+    Earth Observation Applications Pilot project, sponsored by the European Space
+    Agency (ESA) and Natural Resources Canada (NRCan), with support from Telespazio
+    VEGA UK. Remote sensing, machine learning and climate informatics applications
+    were reused, adapted and matured in a common architecture. These applications
+    were deployed in a number of interoperable data and processing platforms hosted
+    in three Canadian provinces, in Europe and in the United States.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

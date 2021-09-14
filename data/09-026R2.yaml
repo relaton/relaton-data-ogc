@@ -1,0 +1,69 @@
+---
+id: '09-026r2'
+title:
+- type: title-intro
+  content: OGC Filter Encoding 2.0 Encoding Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: 'With Corrigendum '
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Filter Encoding 2.0 Encoding Standard - With Corrigendum '
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/09-026r2/09-026r2.html
+  type: obp
+type: standard
+docid:
+  id: '09-026r2'
+  type: OGC
+date:
+  type: published
+  value: '2014-08-18'
+contributor:
+- person:
+    name:
+      completename: Panagiotis (Peter) A. Vretanos
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2014-08-18'
+language: en
+script: Latn
+abstract:
+  content: "A fundamental operation performed on a set of data or resources is that
+    of querying in order to obtain a subset of the data which contains certain desired
+    information that satisfies some query criteria and which is also, perhaps, sorted
+    in some specified manner.\r\n\r\nThis International Standard defines an abstract
+    component, named AbstractQueryExpression, from which other specifications can
+    subclass concrete query elements to implement query operations. This International
+    Standard also defines an additional abstract query component, named AbstractAdhocQueryExpresison,
+    which is derived from AbstractQueryExpression and from which other specifications
+    can subclass concrete query elements which follow a query pattern composed of
+    a list of resource types to query, a projection clause specifying the properties
+    of those resources to present in the result, a projection clause composed of predicates
+    that define the subset of resources or data in the result set and a sorting clause
+    indicating to order in which the results should be presented. This pattern is
+    referred to as an ad hoc query pattern since the server is not aware of the query
+    until it is submitted for processing. This is in contrast to a stored query expression,
+    which is stored and can be invoked by name or identifier.\r\n\r\nThis International
+    Standard describes an XML and KVP encoding of a system-neutral syntax for expressing
+    the projection, selection and sorting clauses of a query expression. The intent
+    is that this neutral representation can be easly validated, parsed and then translated
+    into some target query language such as SPARQL or SQL for processing."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

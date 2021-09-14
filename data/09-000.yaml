@@ -1,0 +1,48 @@
+---
+id: '09-000'
+title:
+- type: title-intro
+  content: OGC® Sensor Planning Service (SPS)
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Core
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Sensor Planning Service (SPS) - Core
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=38478
+  type: obp
+type: standard
+docid:
+  id: '09-000'
+  type: OGC
+contributor:
+- person:
+    name:
+      completename: Ingo Simonis
+  role: author
+- person:
+    name:
+      completename: Johannes Echterhoff
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: ''
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

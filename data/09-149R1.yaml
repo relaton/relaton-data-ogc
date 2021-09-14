@@ -1,0 +1,52 @@
+---
+id: '09-149r1'
+title:
+- type: title-intro
+  content: OGC® Web Coverage Service 2.0 Interface Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: XML/SOAP Protocol Binding Extension
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Web Coverage Service 2.0 Interface Standard - XML/SOAP Protocol Binding
+    Extension
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=41441
+  type: obp
+type: standard
+docid:
+  id: '09-149r1'
+  type: OGC
+date:
+  type: published
+  value: '2010-10-27'
+contributor:
+- person:
+    name:
+      completename: Peter Baumann
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2010-10-27'
+language: en
+script: Latn
+abstract:
+  content: This document specifies how Web Coverage Service (WCS) clients and servers
+    can commu-nicate over the Internet using SOAP with XML encoding.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

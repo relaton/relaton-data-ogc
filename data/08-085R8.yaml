@@ -1,0 +1,67 @@
+---
+id: '08-085r8'
+title:
+- type: title-main
+  content: OGC® GML in JPEG 2000 (GMLJP2) Encoding Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® GML in JPEG 2000 (GMLJP2) Encoding Standard
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/08-085r8/08-085r8.html
+  type: obp
+type: standard
+docid:
+  id: '08-085r8'
+  type: OGC
+date:
+  type: published
+  value: '2018-08-27'
+contributor:
+- person:
+    name:
+      completename: Lucio Colaiacomo
+  role: author
+- person:
+    name:
+      completename: Joan Masó
+  role: author
+- person:
+    name:
+      completename: Emmanuel Devys
+  role: author
+- person:
+    name:
+      completename: Eric Hirschorn
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '8'
+revdate: '2018-08-27'
+language: en
+script: Latn
+abstract:
+  content: "This OGC GML in JPEG 2000 (GMLJP2) Encoding Standard defines how the OGC/ISO
+    Geography Markup Language (GML) standard is used within JPEG 2000 images and other
+    gridded coverage data for adding geospatial content to imagery. Specifically,
+    this OGC standard defines requirements for the encoding and decoding of JPEG 2000
+    images and other gridded coverage data that contain XML documents that use GML
+    and GML-based schema.\r\nThis document defines the use of GML within the XML boxes
+    of the JP2 and JPX file format for JPEG 2000 (extending the JP2 file format, as
+    specified in [ISO 15444-1] and [ISO 15444-2] in Annexes M and N). Further, an
+    application schema for JPEG 2000 that can be extended to include geometrical feature
+    descriptions and annotations is specified. The document also specifies the encoding
+    and packaging rules for GML use in JPEG 2000.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

@@ -1,0 +1,59 @@
+---
+id: 13-080r3
+title:
+- type: title-main
+  content: OGC® Military Operations Geospatial Interoperability Experiment (MOGIE)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Military Operations Geospatial Interoperability Experiment (MOGIE)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=55252
+  type: obp
+type: standard
+docid:
+  id: 13-080r3
+  type: OGC
+date:
+  type: published
+  value: '2013-10-25'
+contributor:
+- person:
+    name:
+      completename: Frank Klucznik
+  role: author
+- person:
+    name:
+      completename: Matthew Weber
+  role: author
+- person:
+    name:
+      completename: Robin Houtmeyers
+  role: author
+- person:
+    name:
+      completename: Roger Brackin
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2013-10-25'
+language: en
+script: Latn
+abstract:
+  content: experiment demonstrated that GML content can be embedded in NIEM conformant
+    XML and  be exploited by commercial and open source tools without loss of precision
+    (e.g., right number of bits) or accuracy (e.g., physical location on a map). Embedding
+    GML in NIEM conformant XML was accomplished in MOGIE using the NIEM adapter.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

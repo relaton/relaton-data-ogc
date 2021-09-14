@@ -1,0 +1,65 @@
+---
+id: 16-063
+title:
+- type: title-main
+  content: Testbed-12 Arctic Spatial Data Infrastructure Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Arctic Spatial Data Infrastructure Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-063.html
+  type: obp
+type: standard
+docid:
+  id: 16-063
+  type: OGC
+date:
+  type: published
+  value: '2017-03-08'
+contributor:
+- person:
+    name:
+      completename: Stefano Cavazzi
+  role: author
+- person:
+    name:
+      completename: Roger Brackin
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-03-08'
+language: en
+script: Latn
+abstract:
+  content: This engineering report captures use cases representative of the vision
+    of the Arctic Spatial Data Infrastructure (ArcticSDI). The ArcticSDI is a cooperative
+    initiative established between the eight National Mapping Agencies of Canada,
+    Finland, Iceland, Norway, Russia, Sweden, USA and Denmark, with the aim of providing
+    governments, policy makers, scientists, private enterprises and citizens in the
+    Arctic with access to geographically related Arctic data, digital maps, and tools
+    to facilitate monitoring and decision-making. The initiative will achieve this
+    aim by providing a framework of spatial information resources, organizational
+    structures, technologies of creation, processing and exchange of spatial data,
+    that provides broad access and efficient use of spatial data for the Arctic. The
+    engineering report provides a review of the policy drivers supporting the establishment
+    of spatial data infrastructure (SDI) in each Arctic nation in order to improve
+    understanding of the use cases, user groups and the impact an ArcticSDI may have
+    on their day-to-day business. The engineering report presents lessons learnt along
+    each of the components of SDI, for example, users, data, technology, standards,
+    policy and others. A discussion is presented on how the technologies and standards
+    already in use by the national mapping agencies relate to the technologies and
+    standards implemented by the testbed, as well as how emerging geospatial standards
+    could benefit the ArcticSDI.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

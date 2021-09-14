@@ -1,0 +1,55 @@
+---
+id: 16-023r3
+title:
+- type: title-main
+  content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-023r3.html
+  type: obp
+type: standard
+docid:
+  id: 16-023r3
+  type: OGC
+date:
+  type: published
+  value: '2017-06-30'
+contributor:
+- person:
+    name:
+      completename: Benjamin Pross
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2017-06-30'
+language: en
+script: Latn
+abstract:
+  content: 'Most of current OGC specifications define synchronous communication patterns,
+    i.e. after sending a request to an OGC service, clients need to wait for the response.
+    But several applications, e.g. delivery of information about events or executing
+    complex environmental models with long runtime, need asynchronous client-server
+    interaction pattern that do not require clients to keep the connection to the
+    server continuously open in order to wait for responses. At the moment, there
+    are several approaches how to add asynchronous communication to existing OGC services:
+    One option is to use a WPS façade, as the WPS specification already defines asynchronous
+    service responses. Another option is to add extensions to the different specifications
+    and the third option is developed by the OGC Publish-Subscribe Working Group.
+    This ER summarizes and compares the results from the different activities for
+    asynchronous service responses and provides recommendations for future activities.'
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

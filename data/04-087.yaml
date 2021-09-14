@@ -1,0 +1,50 @@
+---
+id: 04-087
+title:
+- type: title-main
+  content: EA-SIG Enterprise Service Management White Paper
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: EA-SIG Enterprise Service Management White Paper
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=7562
+  type: obp
+type: standard
+docid:
+  id: 04-087
+  type: OGC
+date:
+  type: published
+  value: '2004-02-20'
+contributor:
+- person:
+    name:
+      completename: Matt Murray,Jeff Stollman,Shue-Jane Thompson,Terry Plymell,Eli
+        Hertz,Chuck Heazel
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2004-02-20'
+language: en
+script: Latn
+abstract:
+  content: "*RETIRED* This document focuses on the goals, objectives, capabilities
+    and recommendation for the ESM Core Enterprise Service. The charter for this team
+    was to address three fundamental questions:\r\n\r\n* What it Enterprise Service
+    Management?\r\n* What can we buy or build today?\r\n* How should we invest for
+    the future?\r\n\r\nThis paper responds to those questions by defining and describing
+    ESM, discussing what is being done today, and what the group sees for the future
+    of ESM?"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

@@ -1,0 +1,79 @@
+---
+id: 20-000r1
+title:
+- type: title-main
+  content: CityGML Urban Planning ADE for i-Urban Revitalization
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: CityGML Urban Planning ADE for i-Urban Revitalization
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=92113
+  type: obp
+type: standard
+docid:
+  id: 20-000r1
+  type: OGC
+date:
+  type: published
+  value: '2020-04-17'
+contributor:
+- person:
+    name:
+      completename: Nobuhiro Ishimaru
+  role: author
+- person:
+    name:
+      completename: Chikako Kurokawa
+  role: author
+- person:
+    name:
+      completename: Yuichi Tanaka
+  role: author
+- person:
+    name:
+      completename: Tomohisa Oishi
+  role: author
+- person:
+    name:
+      completename: Kentaro Akahoshi
+  role: author
+- person:
+    name:
+      completename: Tatjana Kutzne
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2020-04-17'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Discussion Paper introduces the CityGML Urban Planning Application
+    Domain Extension (ADE) published by the Japanese government for the i-Urban Revitalization
+    (i-UR).\r\nThe i-UR is an information infrastructure dedicated for urban planning
+    to contribute to data-driven urban development and urban revitalization. OGC KML
+    has been utilized more than 10 years for i-UR, however, there were huge requirements
+    for use of application-specific semantics information for urban planning and multi-scale
+    structured information by LOD (Levels of Detail).\r\nBy using CityGML ADE mechanism,
+    the Urban Planning ADE provides application-specific semantics information integrating
+    with 3D geometry data to visualize and analyze the urban situation. Additionally,
+    the Urban Planning ADE introduces newly extended LOD, LOD-1 (minus one) for nationwide
+    city models and LOD-2 (minus two) for a worldwide city model to visualize global
+    urban activities and study urban structure by integrating geospatial information
+    and statistical grid information.\r\nThis paper describes a brief introduction
+    of i-Urban Revitalization, data model of the Urban Planning ADE and data experiment
+    examples to discuss further utilization of the Urban Planning ADE in urban planning
+    applications.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

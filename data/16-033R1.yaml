@@ -1,0 +1,97 @@
+---
+id: 16-033r1
+title:
+- type: title-main
+  content: Testbed-12 WCS Profile Update Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 WCS Profile Update Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-033r1.html
+  type: obp
+type: standard
+docid:
+  id: 16-033r1
+  type: OGC
+date:
+  type: published
+  value: '2017-04-28'
+contributor:
+- person:
+    name:
+      completename: Ranjay Shrestha
+  role: author
+- person:
+    name:
+      completename: Liping Di
+  role: author
+- person:
+    name:
+      completename: Eugene G. Yu
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2017-04-28'
+language: en
+script: Latn
+abstract:
+  content: "This engineering report capture the work to extend the existing Web Coverage
+    Service (WCS) profiles, particularly the Earth Observation Application Profile
+    (EO-WCS [OGC 10-140r1]) to support multi-dimensional subsetting of 3D space and
+    1D time. The updated EO-WCS (EO-WCS1.1 [OGC 10-140r2]) have removed the requirement
+    for the 2D coverages so that it can explicitly allow coverages with more dimensions
+    as long as they have geographic footprint. Furthermore it also clarified the use
+    of rangeType when non-NCNAME characters are present in a band identifier. The
+    example of GetCapabilites, DescribeEOCoverageSet, and _GetCoverage request in
+    the updated EO-WCS1.1 is shown with use case on fire emission data in San Francisco.\r\n\r\nFollowing
+    the recommendation for EO-WCS to fully embrace the N-D, multi-dimensional, concept
+    of Coverages as a function of time and other coordinates alongside the geospatial
+    ones, the proposed recommendations/changes in the extension for WCS DescribeCoverage,
+    EO-WCS DescribeEOCoverageSet, and WCS GetCoverage are discussed with use case
+    example using National Centers for Environmental Prediction (NCEP) Global 0.25
+    deg wind data. Based on the mutual recommendation from the US National Aeronautics
+    and Space Administration (NASA) and Baart et. al (2012), Network Common Data Form
+    (NetCDF) was the output format due to presence of its libraries in multiple languages
+    to lower the burden in changing on developers of WCS-compliant servers and clients.\r\n\r\nFor
+    the extension of the WCS DescribeCoverage, it is recommended that CIS1.1 should
+    be considered adopting a scheme for transmitting coordinates similar to the _cis:rangeSet
+    where data are referred to as an attached Multipurpose Internet Mail Extensions
+    (MIME) part. Time, as much as possible, be treated as just another coordinates
+    dimension so that it could be access with the same tools used for other coordinate
+    dimensions. To tackle the issue on order of coordinate dimensions, it is recommended
+    to add implementation note to the EO-WCS specifications so that implementers are
+    aware of the mismatches between dataset coordinate reference systems (CRSs) and
+    actual axis order.\r\n\r\nFor the extension of EO_WCS DescribeEOCoverageSet, the
+    issue on missing range of results API needed to be resolved by adding a request
+    mechanism for requesting a range of matching results. It is also recommended that
+    DescribeEOCoverageSet activity might be of more use to the client if the client
+    need to supply only the subset conditions, and not a list of identifiers.\r\n\r\nFor
+    the extension of WCS GetCoverage, it was discovered that for the GetCoverage operation
+    for higher dimensioned datasets, existing WCS-2.0 request interface provided adequate
+    syntax for subsetting higher dimensional data. Scaling (re-gridding) operation
+    appears to be a natural fit for the EO-WCS subsetting, specifically SCALEEXTENT
+    activity, however simpler explanation might be needed to fully understand its
+    use as it appears other scaling and subsetting commands may be more than adequate
+    for the desired outcomes. Additionally allowing SlicePoint subsetting is also
+    recommended.\r\n\r\nAfter performing the testing in the client side, there were
+    few potential recommendations for improvements. More information on whether the
+    coverage is 2D or 3D form the GetCapalilites request might be helpful to client
+    so it can limit the number of DescribeCoverage requests to construct a list of
+    available coverage on the server. Furthermore additional metadata information
+    for displaying meaningful native gird coordinates is also recommended for clarification.
+    Finally automatic detection of lat/lon axes along with clear treatment of XY and
+    lat/lon axes ordering would be an improvement in the existing operations."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

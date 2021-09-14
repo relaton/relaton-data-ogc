@@ -1,0 +1,63 @@
+---
+id: 16-083r2
+title:
+- type: title-intro
+  content: OGC Coverage Implementation Schema
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: ReferenceableGridCoverage Extension
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/16-083r2/16-083r2.html
+  type: obp
+type: standard
+docid:
+  id: 16-083r2
+  type: OGC
+date:
+  type: published
+  value: '2017-06-15'
+contributor:
+- person:
+    name:
+      completename: Eric Hirschorn
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2017-06-15'
+language: en
+script: Latn
+abstract:
+  content: "The OGC GML Application Schema - Coverages (“GMLCOV”) version 1.0 [OGC
+    09-146r2], recently renamed the OGC Coverage Implementation Schema version 1.0,
+    provides a ReferenceableGridCoverage element for representing coverages on a referenceable
+    grid.  However, GMLCOV provides no instantiable subtypes of a critical sub-element
+    of ReferenceableGridCoverage, GMLCOV::AbstractReferenceableGrid.  To make use
+    of ReferenceableGridCoverage, an extension deriving from GMLCOV would need to
+    be developed.  GML 3.3 is not such an extension of GMLCOV, as it is built independently
+    from GMLCOV.  Use of the instantiable referenceable grid elements of GML 3.3 with
+    ReferenceableGridCoverage violates Requirement 14 of GMLCOV 1.0 and Requirement
+    24 of the OGC Modular Specification[1].\r\n\r\nThis OGC Coverage Implementation
+    Schema - ReferenceableGridCoverage Extension provides a set of referenceable grid
+    elements for use as sub-elements of ReferenceableGridCoverage.  Three of these
+    elements have been adapted from GML 3.3, while a fourth emerged from work on a
+    Testbed-11 Engineering Report[2]."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

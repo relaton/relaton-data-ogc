@@ -1,0 +1,54 @@
+---
+id: '08-133'
+title:
+- type: title-main
+  content: OpenGIS® Sensor Event Service Interface Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS® Sensor Event Service Interface Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=29576
+  type: obp
+type: standard
+docid:
+  id: '08-133'
+  type: OGC
+date:
+  type: published
+  value: '2008-10-10'
+contributor:
+- person:
+    name:
+      completename: Johannes Echterhoff
+  role: author
+- person:
+    name:
+      completename: Thomas Everding
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2008-10-10'
+language: en
+script: Latn
+abstract:
+  content: The Sensor Event Service (SES) provides operations to register sensors
+    at the service application and let clients subscribe for observations available
+    at the service. The service performs filtering of sensor data (streams) based
+    upon the filter criteria defined in these subscriptions. Filters can be applied
+    on single observations but also on observation streams, potentially aggregating
+    observations into higher-level information (which itself can be regarded as observation
+    data). Whenever matches are discovered, a notification is sent to the subscriber,
+    using asynchronous, push-based communication mechanisms.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

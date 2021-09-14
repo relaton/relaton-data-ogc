@@ -1,0 +1,54 @@
+---
+id: 20-067
+title:
+- type: title-main
+  content: Second Environmental Linked Features Experiment
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Second Environmental Linked Features Experiment
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-067.html
+  type: obp
+type: standard
+docid:
+  id: 20-067
+  type: OGC
+date:
+  type: published
+  value: '2020-10-22'
+contributor:
+- person:
+    name:
+      completename: David Blodgett
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-10-22'
+language: en
+script: Latn
+abstract:
+  content: This report documents the Second Environmental Linked Features Interoperability
+    Experiment (SELFIE). SELFIE evaluated a proposed Web resource model and HTTP behavior
+    for linked data about and among environmental features. The outcomes are building
+    blocks to establish a system of real-world feature identifiers and landing pages
+    that document them. OGC API - Features was found to be a useful component for
+    systems implementing both landing content and representations of linked-features.
+    More work is needed to establish best practices related to negotiation between
+    varied representations of a feature, observations related to a feature, and for
+    expressing and mediating between varied content from a given resource. These technical
+    / meta-model details were found to be difficult to evaluate given the small number
+    of example implementations and limited number of domain-feature models available
+    for use with linked data.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

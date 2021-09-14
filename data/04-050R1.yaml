@@ -1,0 +1,50 @@
+---
+id: 04-050r1
+title:
+- type: title-main
+  content: 'WMS Change Request: Support for WSDL & SOAP'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'WMS Change Request: Support for WSDL & SOAP'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=9541
+  type: obp
+type: standard
+docid:
+  id: 04-050r1
+  type: OGC
+date:
+  type: published
+  value: '2005-04-22'
+contributor:
+- person:
+    name:
+      completename: Philippe Duschene
+  role: author
+- person:
+    name:
+      completename: Jerome Sonnet
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2005-04-22'
+language: en
+script: Latn
+abstract:
+  content: This change proposal is an outcome of the Common Architecture thread of
+    the OpenGIS Web Service 2 initiative. The aim is to add support for a standard
+    WSDL description of the WMS interface in version 1.3.1.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

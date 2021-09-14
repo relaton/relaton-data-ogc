@@ -1,0 +1,59 @@
+---
+id: 17-035
+title:
+- type: title-main
+  content: 'OGC Testbed-13: Cloud ER'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-13: Cloud ER'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-035.html
+  type: obp
+type: standard
+docid:
+  id: 17-035
+  type: OGC
+date:
+  type: published
+  value: '2018-01-08'
+contributor:
+- person:
+    name:
+      completename: Charles Chen
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2018-01-08'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Engineering Report (ER) will describe the use of OGC Web Processing
+    Service (WPS) for cloud architecture in the OGC Testbed 13 Earth Observation Cloud
+    (EOC) Thread. This report is intended to address issues in lack of interoperability
+    and portability of cloud computing architectures which cause difficulty in managing
+    the efficient use of virtual infrastructure such as in cloud migration, storage
+    transference, quantifying resource metrics, and unified billing and invoicing.
+    This engineering report will describe the current state of affairs in cloud computing
+    architectures and describe the participant architectures based on use case scenarios
+    from sponsor organizations.\r\n\r\nCloud computing is paving the way for future
+    scalable computing infrastructures and is being used for processing digital earth
+    observation data. In this EOC thread effort, data is stored in various storage
+    resources in the cloud and accessed by an OGC Web Processing Service. The methods
+    in which these processes are deployed and managed must be made interoperable to
+    mitigate or avoid the complexities of administrative effort for the scientific
+    community. In other words, the intent of this effort is to develop a way for scientists
+    to acquire, process, and consume earth observation data without needing to administer
+    computing cloud resources."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

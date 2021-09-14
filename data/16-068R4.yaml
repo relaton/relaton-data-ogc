@@ -1,0 +1,78 @@
+---
+id: 16-068r4
+title:
+- type: title-main
+  content: Testbed-12 Vector Tiling Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Vector Tiling Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-068r4.html
+  type: obp
+type: standard
+docid:
+  id: 16-068r4
+  type: OGC
+date:
+  type: published
+  value: '2017-06-16'
+contributor:
+- person:
+    name:
+      completename: Daniel Balog
+  role: author
+- person:
+    name:
+      completename: Robin Houtmeyers
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '4'
+revdate: '2017-06-16'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Testbed 12 Engineering Report discusses the topic of vector tiling.\r\n\r\nWhile
+    tiling and the use of multiple levels of details are a proven technique for raster
+    data, it is relatively new for vector data. This is due to the increased complexity
+    for tiling vector data compared to raster tiling. Further, there is a lack of
+    standardization on the topic. Yet vector tiles can provide the same benefits as
+    for raster tiles:\r\n\r\nServices can easily cache tiles and return them upon
+    request, without the need for any additional pre/post processing (assuming no
+    geometry construction is needed in the server). Consequently, clients can request
+    and receive tiles quickly, ensuring better user experience.\r\n\r\nDue to tiled,
+    multileveled data representations, clients can better access the data most suitable
+    for their current map location and scale. This avoids the need to load too much
+    data, which can cause both excessive memory usage and network traffic resulting
+    in reduced overall performance.\r\n\r\nAn example of vector tiling that illustrates
+    the impact of these benefits is the OpenStreetMap (OSM) data store, which includes
+    over 30 GB of data with worldwide coverage consisting of millions of vector features.
+    Loading and visualizing all the OSM data into an application would either result
+    in a memory shortage or unacceptable performance. By means of vector tiling and
+    the generation of multiple levels of detail, apps using OSM data can load such
+    data sets very efficiently into applications.\r\n\r\nThis Engineering Report (ER)
+    focuses on the general aspects of vector tiling. One of the main goals is to characterize
+    what vector tiling is and how it can be approached. Highlighted topics include
+    tiling approaches and strategies, tiling schemes, data coherence, simplification,
+    scalability and styling. With respect to tiling schemes, existing standards material
+    related to raster tiling schemes is incorporated to align both topics and to maximize
+    interoperability. This includes the Defence Geospatial Information Working Group
+    (DGIWG) Web Map Tiling Standard (WMTS) profile and the National System for Geospatial-Intelligence
+    (NSG) WMTS profile as defined by the U.S. National Geospatial-Intelligence Agency
+    (NGA).\r\n\r\nThe topic of implementing vector tiles using a tile encoding / storage
+    format is not covered. A study of implementing vector tiles in OGC GeoPackage
+    is part of a separate Engineering Report, OGC 16-067, that builds on the results
+    of this ER.\r\n\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

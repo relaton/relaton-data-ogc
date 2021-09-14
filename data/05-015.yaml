@@ -1,0 +1,55 @@
+---
+id: 05-015
+title:
+- type: title-main
+  content: Imagery Metadata
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Imagery Metadata
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=8826
+  type: obp
+type: standard
+docid:
+  id: 05-015
+  type: OGC
+date:
+  type: published
+  value: '2005-01-27'
+contributor:
+- person:
+    name:
+      completename: Barry Schlesinger
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2005-01-27'
+language: en
+script: Latn
+abstract:
+  content: 'Special XML schemas have been created for individual data sets, based
+    on ISO 19115 and a general schema for the RSE. However, a generalized metadata
+    XML schema should be available where possible; it should not be necessary to create
+    special schemas for each data set. ISO 19139 can serve as such a general XML implementation
+    specification for 19115. This implementation needs to be tested in practice. In
+    addition, the new ISO standards are incorporating much, if not all, of the metadata
+    not in 19115 that the RSE contain. XML schemas for these metadata need to be developed
+    that are based upon the abstract model in the ISO standards. All of these implementations
+    need to be tested in practice. This Report describes such tests and the results.
+    It also describes to what extent metadata on which the test metadata are based
+    are supported by 19139, to what extent they are supported by metadata specified
+    in the new ISO standards or the RSE, and to what extent new metadata elements
+    are needed. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

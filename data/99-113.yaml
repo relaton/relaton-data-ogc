@@ -1,0 +1,48 @@
+---
+id: 99-113
+title:
+- type: title-intro
+  content: Topic 13
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Catalog Services
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 13 - Catalog Services
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=901
+  type: obp
+type: standard
+docid:
+  id: 99-113
+  type: OGC
+date:
+  type: published
+  value: '1999-03-31'
+contributor:
+- person:
+    name:
+      completename: Cliff Kottman
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '1999-03-31'
+language: en
+script: Latn
+abstract:
+  content: Covers the Geospatial Information Access Services
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

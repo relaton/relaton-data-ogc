@@ -1,0 +1,40 @@
+---
+id: 07-036
+title:
+- type: title-intro
+  content: OpenGIS Geography Markup Language (GML)
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Documents
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Geography Markup Language (GML) - Documents
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: ''
+  type: obp
+type: standard
+docid:
+  id: 07-036
+  type: OGC
+contributor:
+  organization:
+    name: Open Geospatial Consortium
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: ''
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

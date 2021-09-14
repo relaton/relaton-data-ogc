@@ -1,0 +1,55 @@
+---
+id: 17-021
+title:
+- type: title-main
+  content: 'OGC Testbed-13: Security Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-13: Security Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-021.html
+  type: obp
+type: standard
+docid:
+  id: 17-021
+  type: OGC
+date:
+  type: published
+  value: '2018-01-11'
+contributor:
+- person:
+    name:
+      completename: Andreas Matheus
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2018-01-11'
+language: en
+script: Latn
+abstract:
+  content: "The Security Engineering Report (ER) covers two Testbed 13 topics:\r\n\r\nThe
+    implementation of authentication and authorization plugins for the QGIS open source
+    desktop GIS client and\r\n\r\nthe implementation of secured workflow.\r\n\r\nThe
+    authentication plugins implement the SAML2 ECP with PAOS binding and IdP discovery
+    from the SAML2 federation metadata URL. The access right delegation plugin implements
+    applicable OAuth2 grant types.\r\n\r\nRegarding the first topic, this ER discusses
+    the fit for purpose aspects for the OAuth2 and SAML2 in the context of an open
+    source desktop application. It also covers the QGIS development as well as building
+    and deployment aspects. Most of the work related to this topic was provided by
+    Secure Dimensions.\r\n\r\nRegarding the second topic, this ER outlines the architecture
+    approach and the implications to implementations for security in OGC service workflows
+    as well as the implementation approach itself. Most of the work related to this
+    topic was provided by 52°North."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

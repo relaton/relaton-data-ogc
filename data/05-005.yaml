@@ -1,0 +1,59 @@
+---
+id: 05-005
+title:
+- type: title-main
+  content: OpenGIS Web Map Context Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Web Map Context Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=8618
+  type: obp
+type: standard
+docid:
+  id: 05-005
+  type: OGC
+date:
+  type: published
+  value: '2005-05-03'
+contributor:
+- person:
+    name:
+      completename: Jerome Sonnet
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2005-05-03'
+language: en
+script: Latn
+abstract:
+  content: "This document is a companion specification to the OGC Web Map Service
+    Interface Implementation Specification version 1.1.1 [4], hereinafter WMS 1.1.1.
+    \r\nWMS 1.1.1 specifies how individual map servers describe and provide their
+    map content.  The present Context specification states how a specific grouping
+    of one or more maps from one or more map servers can be described in a portable,
+    platform-independent format for storage in a repository or for transmission between
+    clients.  This description is known as a Web Map Context Document, or simply a
+    Context.  Presently, context documents are primarily designed for WMS bindings.
+    However, extensibility is envisioned for binding to other services.\r\nA Context
+    document includes information about the server(s) providing layer(s) in the overall
+    map, the bounding box and map projection shared by all the maps, sufficient operational
+    metadata for Client software to reproduce the map, and ancillary metadata used
+    to annotate or describe the maps and their provenance for the benefit of human
+    viewers.\r\nA Context document is structured using eXtensible Markup Language
+    (XML).  Annex A of this specification contains the XML Schema against which Context
+    XML can be validated.\r\n "
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

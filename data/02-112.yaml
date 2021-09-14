@@ -1,0 +1,48 @@
+---
+id: 02-112
+title:
+- type: title-intro
+  content: Topic 12
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: The OpenGIS Service Architecture
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 12 - The OpenGIS Service Architecture
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1221
+  type: obp
+type: standard
+docid:
+  id: 02-112
+  type: OGC
+date:
+  type: published
+  value: '2001-09-14'
+contributor:
+- person:
+    name:
+      completename: ISO
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2001-09-14'
+language: en
+script: Latn
+abstract:
+  content: Same as ISO 19119
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

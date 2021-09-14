@@ -1,0 +1,49 @@
+---
+id: 15-074
+title:
+- type: title-main
+  content: Spatial Data on the Web Use Cases & Requirements
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Spatial Data on the Web Use Cases & Requirements
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/dp/15-074/15-074.html
+  type: obp
+type: standard
+docid:
+  id: 15-074
+  type: OGC
+date:
+  type: published
+  value: '2015-07-22'
+contributor:
+- person:
+    name:
+      completename: Frans Knibbe
+  role: author
+- person:
+    name:
+      completename: Alejandro Llaves
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2015-07-22'
+language: en
+script: Latn
+abstract:
+  content: 'This document describes use cases that demand a combination of geospatial
+    and non-geospatial data sources and techniques. It underpins the collaborative
+    work of the Spatial Data on the Web Working Groups operated by both W3C and OGC. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

@@ -1,0 +1,75 @@
+---
+id: 17-020r1
+title:
+- type: title-main
+  content: 'OGC Testbed-13: NAS Profiling Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-13: NAS Profiling Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-020r1.html
+  type: obp
+type: standard
+docid:
+  id: 17-020r1
+  type: OGC
+date:
+  type: published
+  value: '2018-01-26'
+contributor:
+- person:
+    name:
+      completename: Johannes Echterhoff
+  role: author
+- person:
+    name:
+      completename: Clemens Portele
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2018-01-26'
+language: en
+script: Latn
+abstract:
+  content: "The National System for Geospatial-Intelligence (NSG) Application Schema
+    (NAS) is an ISO 19109 compliant application schema that defines the conceptual
+    model for identifying and encoding feature data in the U.S. National System for
+    Geospatial-Intelligence (NSG). NGA utilizes the open source software tool ShapeChange
+    as an integral piece in NAS development. This tool is used to take NAS-based UML
+    models and create Extensible Markup Language (XML) and Resource Description Framework
+    (RDF) based schemas. Testbed-12 began development of capabilities for extracting
+    profiles supporting specific mission functions from the full NAS content. Testbed-13
+    further refined the approach to NAS Profiling by investigating how a specific
+    profile (Urban Military Profile) can be processed in an automated way and used
+    to derive implementation schemas for the OGC standards CDB and CityGML.\r\n\r\nThis
+    OGC Engineering Report describes:\r\n\r\nThe specification of a NAS-based Military
+    Urban Profile as a Unified Modeling Language (UML) model (chapter 5);\r\n\r\nHow
+    mission-specific sub-profiles can be specified and maintained using ShapeChange
+    and the new ShapeChange Profile Management Tool (chapter 6); and\r\n\r\nHow the
+    model and profile information are processed to derive output for\r\n\r\na CDB
+    data store (chapter 7, chapter 8) and\r\n\r\na CityGML Application Domain Extension
+    (chapter 9).\r\n\r\nThis work provides insights into:\r\n\r\nThe requirements
+    and constraints on managing profiles of complex ISO 19109 compliant application
+    schemas such as the NAS; and\r\n\r\nUsing a model-driven approach to generate
+    implementation schemas of an ISO 19109 compliant application schema profile for
+    different environments.\r\n\r\nThe target audience of this document is anyone
+    interested in these topics. The implementation environments discussed in this
+    report are the OGC standards CDB and CityGML. The profiled application schema
+    is the NAS.\r\n\r\nThis report assumes that readers are familiar with the key
+    concepts and technologies discussed in this document. This document does not provide
+    an introduction to them, but the table below provides a brief summary and pointers
+    to more information."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

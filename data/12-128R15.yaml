@@ -1,0 +1,59 @@
+---
+id: 12-128r15
+title:
+- type: title-intro
+  content: OGC® GeoPackage Encoding Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: with Corrigendum
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® GeoPackage Encoding Standard - with Corrigendum
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=80678
+  type: obp
+type: standard
+docid:
+  id: 12-128r15
+  type: OGC
+date:
+  type: published
+  value: '2018-09-06'
+contributor:
+- person:
+    name:
+      completename: Jeff Yutzler
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '15'
+revdate: '2018-09-06'
+language: en
+script: Latn
+abstract:
+  content: This OGC® Encoding Standard defines GeoPackages for exchange and GeoPackage
+    SQLite Extensions for direct use of vector geospatial features and / or tile matrix
+    sets of earth images and raster maps at various scales. Direct use means the ability
+    to access and update data in a native storage format without intermediate format
+    translations in an environment (e.g. through an API) that guarantees data model
+    and data set integrity and identical access and update results in response to
+    identical requests from different client applications. GeoPackages are interoperable
+    across all enterprise and personal computing environments, and are particularly
+    useful on mobile devices like cell phones and tablets in communications environments
+    with limited connectivity and bandwidth.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

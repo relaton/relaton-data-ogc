@@ -1,0 +1,43 @@
+---
+id: 07-158
+title:
+- type: title-main
+  content: Wrapping OGC HTTP-GET/POST Services with SOAP
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Wrapping OGC HTTP-GET/POST Services with SOAP
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=25280
+  type: obp
+type: standard
+docid:
+  id: 07-158
+  type: OGC
+date:
+  type: published
+  value: '2008-01-02'
+contributor:
+- person:
+    name:
+      completename: R
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2008-01-02'
+language: en
+script: Latn
+abstract:
+  content: Discussion of how to wrap OGC HTTP-GET/POST Services with SOAP
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

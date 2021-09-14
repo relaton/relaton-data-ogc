@@ -1,0 +1,60 @@
+---
+id: 05-027r1
+title:
+- type: title-main
+  content: Recommended XML/GML 3.1.1 encoding of image CRS definitions
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Recommended XML/GML 3.1.1 encoding of image CRS definitions
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=10048
+  type: obp
+type: standard
+docid:
+  id: 05-027r1
+  type: OGC
+date:
+  type: published
+  value: '2005-04-13'
+contributor:
+- person:
+    name:
+      completename: Arliss Whiteside
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2005-04-13'
+language: en
+script: Latn
+abstract:
+  content: "This document recommends standard XML encodings of data defining monoscopic
+    image coordinate reference systems. The scope of this encoding now includes unrectified
+    and georectified images. The recommended CRSs for georectified images are recommended
+    for multiple georectified images that are ready to be mosaicked together.\r\n\r\nThese
+    recommended encodings are based on GML 3.1.1 and use XML Schemas. These image
+    CRS definitions will often be referenced in data transferred between client and
+    server software that implements various standardised interfaces. This specified
+    definition data encoding is expected to be used by multiple OGC Implementation
+    Specifications. That is, each of these specifications is expected to use a subset
+    and/or superset of this recommended definition data.\r\n\r\nThe position or location
+    of a point can be described using coordinates. Such coordinates are unambiguous
+    only when the coordinate reference system on which those coordinates are based
+    is fully defined. Each position is described by a set of coordinates based on
+    a specified coordinate reference system. Coordinates are often used in datasets
+    in which all coordinates belong to the same coordinate reference system. This
+    paper specifies XML encoding of data defining image coordinate reference systems.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

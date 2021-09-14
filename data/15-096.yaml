@@ -1,0 +1,62 @@
+---
+id: 15-096
+title:
+- type: title-main
+  content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
+    for a Moving Feature API'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
+    for a Moving Feature API'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=64623
+  type: obp
+type: standard
+docid:
+  id: 15-096
+  type: OGC
+date:
+  type: published
+  value: '2016-01-18'
+contributor:
+- person:
+    name:
+      completename: Akinori Asahara
+  role: author
+- person:
+    name:
+      completename: Hideki Hayashi
+  role: author
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2016-01-18'
+language: en
+script: Latn
+abstract:
+  content: 'This OGC Discussion Paper provides examples of some actual and potential
+    geospatial applications using the OGC Moving Features encoding. These applications
+    can be used to define the next steps in the development of the OGC Moving Features
+    Standard: The definition of a “Moving Features API”. As a conclusion, the Moving
+    Features SWG recommends that a new Moving Features API standard should target
+    the following three kinds of operations: retrieval of feature information, operations
+    between a trajectory and a geometric object, and operations between two trajectories.
+    Additionally, the Moving Features SWG recommends establishing an abstract specification
+    for these three kinds of operations because only a part of operations for trajectories
+    is defined by ISO 19141:2008 - Schema for moving features.'
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

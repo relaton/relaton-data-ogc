@@ -1,0 +1,50 @@
+---
+id: '08-015r2'
+title:
+- type: title-intro
+  content: Topic 2
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Spatial referencing by coordinates
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 2 - Spatial referencing by coordinates
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=39049
+  type: obp
+type: standard
+docid:
+  id: '08-015r2'
+  type: OGC
+date:
+  type: published
+  value: '2010-04-27'
+contributor:
+- person:
+    name:
+      completename: Roger Lott
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2010-04-27'
+language: en
+script: Latn
+abstract:
+  content: This document is consistent with the second edition (2007) of ISO 19111,
+    Geographic Information - Spatial referencing by coordinates  [ISO 19111:2007]
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

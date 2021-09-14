@@ -1,0 +1,46 @@
+---
+id: 01-004
+title:
+- type: title-main
+  content: OpenGIS Grid Coverage Service Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Grid Coverage Service Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=6628
+  type: obp
+type: standard
+docid:
+  id: 01-004
+  type: OGC
+date:
+  type: published
+  value: '2001-01-12'
+contributor:
+- person:
+    name:
+      completename: Louis Burry
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2001-01-12'
+language: en
+script: Latn
+abstract:
+  content: "**This document has been retired.  It is not supported.  You should consider
+    using Web Coverage Service.**\r\n\r\n This specification was designed to promote
+    interoperability between software implementations by data vendors and software
+    vendors providing grid analysis and processing capabilities."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

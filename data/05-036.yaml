@@ -1,0 +1,47 @@
+---
+id: 05-036
+title:
+- type: title-main
+  content: GeoXACML, a spatial extension to XACML
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: GeoXACML, a spatial extension to XACML
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=10471&version=2
+  type: obp
+type: standard
+docid:
+  id: 05-036
+  type: OGC
+date:
+  type: published
+  value: '2005-06-17'
+contributor:
+- person:
+    name:
+      completename: Andreas Matheus
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2005-06-17'
+language: en
+script: Latn
+abstract:
+  content: "This OGC document proposes one possible solution for the declaration and
+    enforcement of access\r\nrestrictions for object-oriented geodata, available through
+    a Service-based Geo Data Infrastructure. It is the\r\nintension of the author
+    to motivate the requirement for such an access control, give a problem statement,\r\ndiscuss
+    an alternative approach and describe the solution, based on GeoXACML."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

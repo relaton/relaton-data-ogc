@@ -1,0 +1,62 @@
+---
+id: 15-118r1
+title:
+- type: title-main
+  content: Incident Management Information Sharing Profile Recommendations for OGC
+    Web Services Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Incident Management Information Sharing Profile Recommendations for OGC
+    Web Services Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/15-118r1.html
+  type: obp
+type: standard
+docid:
+  id: 15-118r1
+  type: OGC
+date:
+  type: published
+  value: '2018-04-23'
+contributor:
+- person:
+    name:
+      completename: Simon Jirka
+  role: author
+- person:
+    name:
+      completename: Christoph Stasch
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2018-04-23'
+language: en
+script: Latn
+abstract:
+  content: "The Incident Management Information Sharing (IMIS) Internet of Things
+    (IoT) Pilot established the following objectives:\r\n\r\n•        Apply OGC principles
+    and practices for collaborative development to existing standards and technology
+    to prototype an IoT approach to sensor use for incident management;\r\n\r\n•        Employ
+    an agile methodology for collaborative development of system designs, specifications,
+    software and hardware components of an IoT-inspired IMIS sensor capability;\r\n\r\n•
+    \       Develop profiles and extensions of existing Sensor Web Enablement (SWE)
+    and other distributed computing standards to provide a basis for future IMIS sensor
+    and observation interoperability; and\r\n\r\n•        Prototype capabilities documented
+    in engineering reports and demonstrated in a realistic incident management scenario.\r\n\r\nBased
+    on the findings gathered during the implementation and work on these objectives,
+    this Engineering Report describes recommendations on profiles for OGC Web services
+    that shall be used to build IMIS systems."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

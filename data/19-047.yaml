@@ -1,0 +1,67 @@
+---
+id: 19-047
+title:
+- type: title-main
+  content: Proposed OGC GeoPackage Enhancements
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Proposed OGC GeoPackage Enhancements
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/dp/19-047.html
+  type: obp
+type: standard
+docid:
+  id: 19-047
+  type: OGC
+date:
+  type: published
+  value: '2019-11-25'
+contributor:
+- person:
+    name:
+      completename: Jeff Yutzler
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2019-11-25'
+language: en
+script: Latn
+abstract:
+  content: "The Open Geospatial Consortium (OGC) GeoPackage Encoding Standard was
+    developed for the purpose of providing an open, standards-based, platform-independent,
+    portable, self-describing, compact format for transferring geospatial information.
+    GeoPackage has proven to be an effective container mechanism for bundling and
+    sharing geospatial data for a variety of operational use cases. However, GeoPackage
+    stakeholders have observed persistent interoperability issues, particularly with
+    regards to metadata, extensions, and portrayal.\r\n\r\nThis paper presents the
+    operational need, proposed approach, and way ahead for addressing these interoperability
+    issues. Section 6 presents three new enhancements (extensions) that are designed
+    to improve the interoperability of GeoPackages in general and metadata in particular.
+    Section 7 presents a vision for implementing an Open Portrayal Framework in GeoPackage.
+    Annex A presents specifications for all of the GeoPackage extensions proposed
+    in this paper. Annex B presents a JSON schema for the proposed encoding for application
+    profiles presented in Section 6. In general, the GeoPackage Standards Working
+    Group (SWG) looks to standardize extensions that address a clear use case, have
+    a sound technical approach, and have a commitment to implementation by multiple
+    organizations. As with the GeoPackage Tiled Gridded Coverage Extension and the
+    GeoPackage Related Tables Extension, these new extensions would be tracked as
+    separate documents from the core GeoPackage Encoding Standard.\r\n\r\nThe GeoPackage
+    community will benefit from the increased interoperability of operational “mission-ready”
+    GeoPackages that will result from this approach. Additionally, software will be
+    able to quickly determine the validity and utility of a GeoPackage in target operational
+    environments. This will help ensure that GeoPackage production-consumption lifecycles
+    and supporting application tools and services are better aligned with stakeholder
+    missions."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

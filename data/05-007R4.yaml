@@ -1,0 +1,58 @@
+---
+id: 05-007r4
+title:
+- type: title-main
+  content: Web Processing Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Processing Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=12184
+  type: obp
+type: standard
+docid:
+  id: 05-007r4
+  type: OGC
+date:
+  type: published
+  value: '2005-09-16'
+contributor:
+- person:
+    name:
+      completename: Peter Schut
+  role: author
+- person:
+    name:
+      completename: Arliss Whiteside
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '4'
+revdate: '2005-09-16'
+language: en
+script: Latn
+abstract:
+  content: This document specifies the interface to a Web Processing Service (WPS).
+    A WPS can be configured to offer any sort of GIS functionality to clients across
+    a network, including access to pre-programmed calculations and/or computation
+    models that operate on spatially referenced data. A WPS may offer calculations
+    as simple as subtracting one set of spatially referenced numbers from another
+    (e.g., determining the difference in influenza cases between two different seasons),
+    or as complicated as a global climate change model. The data required by the WPS
+    can be delivered across a network, or available at the server.
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+fetched: '2021-09-14'
+doctype: standard
+editorialgroup:
+  committee: technical

@@ -1,0 +1,65 @@
+---
+id: 15-037
+title:
+- type: title-main
+  content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for
+    Oil Spill Response
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for
+    Oil Spill Response
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=63334
+  type: obp
+type: standard
+docid:
+  id: 15-037
+  type: OGC
+date:
+  type: published
+  value: '2015-10-01'
+contributor:
+- person:
+    name:
+      completename: 'George Percivall '
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2015-10-01'
+language: en
+script: Latn
+abstract:
+  content: "Responding to an oil spill requires access to and understanding of many
+    types of information. Effective, coordinated operations for the response are based
+    on a shared, common picture of the situation. Interoperability provides shared
+    situational awareness of the crisis and the response activities. What is needed
+    is a common picture of reality for different organizations that have different
+    views of the spill so that they all can deal with it collectively.\r\nRecent oil
+    spills have provided lessons learned and recommendations on forming a Common Operating
+    Picture for oil spill response. Through a joint project, industry is responding
+    to the call, moving from recommendations to reusable best practices supported
+    by open standards that can be deployed quickly in any region of the globe.\r\nThis
+    architecture report is part of The International Association of Oil & Gas Producers
+    and IPIECA Oil Spill Response - Joint Industry Project (IOGP–IPIECA OSR-JIP) to
+    produce a recommended practice for GIS/mapping in support of oil spill response
+    and for the use of GIS technology and geospatial information in forming a “Common
+    Operating Picture” to support management of the response.\r\nInteroperability
+    seems to be at first a technical topic, but in fact, it is about organization.
+    Interoperability seems to be about the integration of information. What it’s really
+    about is the coordination of organizational behavior. The Oil Spill Response Common
+    Operating Picture (OSR COP) project seeks to facilitate the coordination of organizational
+    response to any oil spill in the future."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

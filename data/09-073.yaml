@@ -1,0 +1,46 @@
+---
+id: '09-073'
+title:
+- type: title-main
+  content: OWS-6 SWE PulseNet™ Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-6 SWE PulseNet™ Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=34145
+  type: obp
+type: standard
+docid:
+  id: '09-073'
+  type: OGC
+date:
+  type: published
+  value: '2009-08-05'
+contributor:
+- person:
+    name:
+      completename: James Ressler
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-08-05'
+language: en
+script: Latn
+abstract:
+  content: This document summarizes work delivered on the Sensor Web Enablement (SWE)
+    thread of OWS-6. In particular, Northrop Grumman’s contribution from PulseNet™
+    to the Common Chemical, Biological, Radiological, and Nuclear (CBRN) Sensor Interface
+    (CCSI) standard-compliant sensors into an OGC SWE-based architecture.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

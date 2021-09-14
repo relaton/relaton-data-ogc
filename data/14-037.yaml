@@ -1,0 +1,67 @@
+---
+id: 14-037
+title:
+- type: title-main
+  content: OGC® Testbed 10 Flight Information Exchange Model GML Schema
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Testbed 10 Flight Information Exchange Model GML Schema
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=58956
+  type: obp
+type: standard
+docid:
+  id: 14-037
+  type: OGC
+date:
+  type: published
+  value: '2014-07-16'
+contributor:
+- person:
+    name:
+      completename: Thomas Forbes
+  role: author
+- person:
+    name:
+      completename: Ballal Joglekar
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2014-07-16'
+language: en
+script: Latn
+abstract:
+  content: "This report provides guidance for implementing the Flight Information
+    Exchange Model (FIXM) using the same best practice as the Aeronautical Information
+    Exchange Model (AIXM) and the Weather Information Exchange Model (WXXM) by adopting
+    ISO and OGC standards.\r\nThe report is aimed at system and client developers
+    that shall use the FIXM data encoding for the exchange of flight information.\r\nThis
+    document is a deliverable for the OGC Testbed 10 (Testbed-10) testbed activity.
+    OWS testbeds are part of OGC's Interoperability Program, a global, hands-on and
+    collaborative prototyping program designed to rapidly develop, test and deliver
+    proven candidate standards or revisions to existing standards into OGC's Standards
+    Program, where they are formalized for public release. In OGC's Interoperability
+    Initiatives, international teams of technology providers work together to solve
+    specific geoprocessing interoperability problems posed by the Initiative's sponsoring
+    organizations. OGC Interoperability Initiatives include testbeds, pilot projects,
+    interoperability experiments and interoperability support services - all designed
+    to encourage rapid development, testing, validation and adoption of OGC standards.\r\nThe
+    Testbed-10 sponsors are organizations seeking open standard for their interoperability
+    requirements. After analyzing their requirements, the OGC Interoperability Team
+    recommends to the sponsors that the content of the Testbed-10 initiative be organized
+    around the following threads:\r\n•\tCross-Community Interoperability (CCI)\r\n•\tOpen
+    Mobility\r\n•\tAviation\r\nMore information about the Testbed-10 tested can be
+    found at:\r\nhttp://www.opengeospatial.org/standards/requests/103\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

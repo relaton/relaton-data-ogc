@@ -1,0 +1,49 @@
+---
+id: 07-067r5
+title:
+- type: title-main
+  content: Web Coverage Service (WCS) Implementation Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Coverage Service (WCS) Implementation Standard
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=27297
+  type: obp
+type: standard
+docid:
+  id: 07-067r5
+  type: OGC
+date:
+  type: published
+  value: '2008-04-29'
+contributor:
+- person:
+    name:
+      completename: Arliss Whiteside
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '5'
+revdate: '2008-04-29'
+language: en
+script: Latn
+abstract:
+  content: 'The OpenGIS® Web Coverage Service Interface Standard (WCS) defines a standard
+    interface and operations that enables interoperable access to geospatial coverages
+    [http://www.opengeospatial.org/ogc/glossary/c].  The term grid coverages typically
+    refers to content such as satellite images, digital aerial photos, digital elevation
+    data, and other phenomena represented by values at each measurement point. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

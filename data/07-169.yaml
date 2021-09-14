@@ -1,0 +1,46 @@
+---
+id: 07-169
+title:
+- type: title-main
+  content: OWS-5 WCS JPIP Coverage Subsetting Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-5 WCS JPIP Coverage Subsetting Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=27047
+  type: obp
+type: standard
+docid:
+  id: 07-169
+  type: OGC
+date:
+  type: published
+  value: '2008-09-12'
+contributor:
+- person:
+    name:
+      completename: Steven Keens
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2008-09-12'
+language: en
+script: Latn
+abstract:
+  content: This OGC document represents an OWS-5 SWE thread Engineering Report on
+    sub-setting georeferencable imagery.  It discusses how to handle georeferencable
+    imagery in the JPEG2000 format as well as using JPIP within the WCS-T and the
+    SWE set of services.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

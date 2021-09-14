@@ -1,0 +1,47 @@
+---
+id: 00-028
+title:
+- type: title-main
+  content: Web Map Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Map Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=7196
+  type: obp
+type: standard
+docid:
+  id: 00-028
+  type: OGC
+date:
+  type: published
+  value: '2000-04-19'
+contributor:
+- person:
+    name:
+      completename: Allan Doyle
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2000-04-19'
+language: en
+script: Latn
+abstract:
+  content: 'Provides four protocols (GetCapabilities, GetMap, GetFeatureInfo and DescribeLayer)
+    in support of the creation and display of registered and superimposed map-like
+    views of information that come simultaneously from multiple sources that are both
+    remote and heterogeneous.  '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

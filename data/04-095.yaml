@@ -1,0 +1,54 @@
+---
+id: 04-095
+title:
+- type: title-main
+  content: OpenGIS Filter Encoding Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Filter Encoding Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=8340
+  type: obp
+type: standard
+docid:
+  id: 04-095
+  type: OGC
+date:
+  type: published
+  value: '2005-05-03'
+contributor:
+- person:
+    name:
+      completename: Peter Vretanos
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2005-05-03'
+language: en
+script: Latn
+abstract:
+  content: "The OpenGIS® Filter Encoding Standard (FES) defines an XML encoding for
+    filter expressions. A filter expression logically combines constraints on the\r\nproperties
+    of a feature in order to identify a particular subset of features to be operated
+    upon.  For example, a subset of features might be identified to render them in
+    a particular color or convert them into a user-specified format. Constraints can
+    be specified on values of spatial, temporal and scalar properties. An example
+    of a filter is: Find all the properties in Omstead County owned by Peter Vretanos.\r\n\r\nThis
+    standard is used by a number of OGC Web Services, including the Web Feature Service
+    [http://www.opengeospatial.org/standards/wfs], the Catalogue Service [http://www.opengeospatial.org/standards/cat]
+    and the Styled Layer Descriptor Standard [http://www.opengeospatial.org/standards/sld].
+    \r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

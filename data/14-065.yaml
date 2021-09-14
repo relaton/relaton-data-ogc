@@ -1,0 +1,44 @@
+---
+id: 14-065
+title:
+- type: title-main
+  content: OGC® WPS 2.0 Interface Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® WPS 2.0 Interface Standard
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/14-065/14-065r0.html
+  type: obp
+type: standard
+docid:
+  id: 14-065
+  type: OGC
+date:
+  type: published
+  value: '2015-03-05'
+contributor:
+- person:
+    name:
+      completename: Matthias Mueller
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2015-03-05'
+language: en
+script: Latn
+abstract:
+  content: ''
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

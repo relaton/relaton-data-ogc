@@ -1,0 +1,55 @@
+---
+id: 18-030
+title:
+- type: title-main
+  content: 'OGC Testbed-14: Secure Client Test Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-14: Secure Client Test Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.opengeospatial.org/per/18-030.html
+  type: obp
+type: standard
+docid:
+  id: 18-030
+  type: OGC
+date:
+  type: published
+  value: '2019-03-06'
+contributor:
+- person:
+    name:
+      completename: Sara Saeedi
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2019-03-06'
+language: en
+script: Latn
+abstract:
+  content: "This Engineering Report (ER) describes the development of compliance tests
+    and their implementation in the OGC Test, Evaluation, And Measurement (TEAM) Engine
+    to validate a client’s ability to make secure requests according to the OGC Web
+    Services Security Candidate Standard. The goal of the candidate standard is to
+    allow the implementation of Information Assurance (IA) controls and to advertise
+    their existence in an interoperable way with minimal impact to existing implementations
+    using a backward-compatible approach.\r\n\r\nThis ER covers the following topics
+    from OGC Testbed-14 Compliance Interoperability & Testing Evaluation (CITE) thread:\r\n\r\ndeveloping
+    a client validator to test compliance of client software with the OGC Web Services
+    Security Candidate Standard\r\n\r\ncapturing the results of two use cases with
+    different authentication methods\r\n\r\nmaking recommendations to the OGC Web
+    Services Security Standards Working Group (SWG) based on the experiences made
+    while developing the validator\r\n\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

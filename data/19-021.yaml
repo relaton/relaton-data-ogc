@@ -1,0 +1,52 @@
+---
+id: 19-021
+title:
+- type: title-main
+  content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-021.html
+  type: obp
+type: standard
+docid:
+  id: 19-021
+  type: OGC
+date:
+  type: published
+  value: '2019-12-17'
+contributor:
+- person:
+    name:
+      completename: Esther Kok
+  role: author
+- person:
+    name:
+      completename: Stephane Fellah
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2019-12-17'
+language: en
+script: Latn
+abstract:
+  content: This OGC Testbed 15 Engineering Report (ER) describes a generalized approach
+    towards performing data fusion from multiple heterogeneous geospatial linked data
+    sources. The specific use case is semantic enrichment of hydrographic features
+    provided by Natural Resources Canada (NRCan). The ER attempts to define and formalize
+    the integration pipeline necessary to perform a fusion process for producing semantically
+    coherent fused entities.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,45 @@
+---
+id: 03-036r2
+title:
+- type: title-main
+  content: Web Map Context Documents
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Map Context Documents
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=3841
+  type: obp
+type: standard
+docid:
+  id: 03-036r2
+  type: OGC
+date:
+  type: published
+  value: '2003-06-12'
+contributor:
+- person:
+    name:
+      completename: Jean-Philippe Humblet
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2003-06-12'
+language: en
+script: Latn
+abstract:
+  content: Create, store, and use state information from a WMS based client application
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

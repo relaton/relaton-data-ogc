@@ -1,0 +1,50 @@
+---
+id: 19-027r2
+title:
+- type: title-main
+  content: 'OGC Testbed-15: Machine Learning Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-15: Machine Learning Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-027r2.html
+  type: obp
+type: standard
+docid:
+  id: 19-027r2
+  type: OGC
+date:
+  type: published
+  value: '2019-12-20'
+contributor:
+- person:
+    name:
+      completename: Sam Meek
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2019-12-20'
+language: en
+script: Latn
+abstract:
+  content: The Machine Learning (ML) Engineering Report (ER) documents the results
+    of the ML thread in OGC Testbed-15. This thread explores the ability of ML to
+    interact with and use OGC web standards in the context of natural resources applications.
+    The thread includes five scenarios utilizing seven ML models in a solution architecture
+    that includes implementations of the OGC Web Processing Service (WPS), Web Feature
+    Service (WFS) and Catalogue Service for the Web (CSW) standards. This ER includes
+    thorough investigation and documentation of the experiences of the thread participants.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

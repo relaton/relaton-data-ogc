@@ -1,0 +1,57 @@
+---
+id: 16-045r2
+title:
+- type: title-main
+  content: Testbed-12 Data Broker Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Data Broker Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-045r2.html
+  type: obp
+type: standard
+docid:
+  id: 16-045r2
+  type: OGC
+date:
+  type: published
+  value: '2017-06-30'
+contributor:
+- person:
+    name:
+      completename: Daniel Balog
+  role: author
+- person:
+    name:
+      completename: Robin Houtmeyers
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2017-06-30'
+language: en
+script: Latn
+abstract:
+  content: "An important principle of a Service Oriented Architecture (SOA) is the
+    notion of composing capabilities provided by individual services into complex
+    behavior. A requester should be able to compose a solution using functionality
+    or data offered by multiple services without worrying about underlying differences
+    in those services.\r\n\r\nEach OGC service is designed to offer a specific type
+    of data product via a service-specific interface. This Engineering Report (ER)
+    describes a single service interface that allows access to multiple data sources,
+    possibly heterogeneous with respect to the types of data provided.\r\n\r\nThis
+    report advances the work started in OGC Testbed 11 with the addition of heterogeneous
+    data sources, as well as several other enhancements."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

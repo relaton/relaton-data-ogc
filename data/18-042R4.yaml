@@ -1,0 +1,56 @@
+---
+id: 18-042r4
+title:
+- type: title-intro
+  content: OGC Name Type Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Sensor Models and Parameters
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Name Type Specification - Sensor Models and Parameters
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.opengeospatial.org/pol/18-042r4.html
+  type: obp
+type: standard
+docid:
+  id: 18-042r4
+  type: OGC
+date:
+  type: published
+  value: '2019-10-31'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role: author
+- person:
+    name:
+      completename: Simon Cox
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '4'
+revdate: '2019-10-31'
+language: en
+script: Latn
+abstract:
+  content: 'This document specifies a rule for constructing OGC names that may be
+    used for identifying definitions of sensor models and their parameters. This document
+    is formally a profile of the OGC policy ''OGC-NA Name type specification - definitions:
+    Part 1 - basic name'' (OGC 09-048r5).'
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

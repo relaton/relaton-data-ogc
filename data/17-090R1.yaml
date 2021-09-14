@@ -1,0 +1,63 @@
+---
+id: 17-090r1
+title:
+- type: title-main
+  content: Model for Underground Data Definition and Integration (MUDDI) Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Model for Underground Data Definition and Integration (MUDDI) Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-090r1.html
+  type: obp
+type: standard
+docid:
+  id: 17-090r1
+  type: OGC
+date:
+  type: published
+  value: '2019-11-25'
+contributor:
+- person:
+    name:
+      completename: Josh Lieberman
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2019-11-25'
+language: en
+script: Latn
+abstract:
+  content: The recently published Underground Infrastructure Concept Development Study
+    (UICDS) Engineering Report [1] examines the present state of underground infrastructure
+    information (UGII), costs and benefits of that state, as well as future opportunities
+    for an improved state. That report describes a number of candidate models for
+    UGII and recommends a number of follow-on activities, including development of
+    a prototype UGII integration model to support subsequent UGII integration and
+    exchange initiatives. The present report describes the design and development
+    of conceptual UGII integration model MUDDI (Model for Underground Data Definition
+    and Interchange). The goal of MUDDI is not to replace existing models but to serve
+    as the basis for integration of datasets from different models, at the levels
+    of detail required to address application use cases described in [1]. MUDDI as
+    described here is a conceptual model which will serve as the basis for one or
+    more conformant and interchangeable physical implementations such as GML (Geographic
+    Markup Language) or SFS (Simple Features SQL). As a prototype model, the current
+    version of MUDDI is also not intended to be final, but to serve as an input to
+    the proposed OGC Underground Infrastructure Pilot and similar activities which
+    will in turn serve to refine and improve the model through implementation and
+    deployment in realistic application scenarios.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,48 @@
+---
+id: 07-027r1
+title:
+- type: title-main
+  content: Local MSD Implementation Profile (GML 3.2.1)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Local MSD Implementation Profile (GML 3.2.1)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=21702
+  type: obp
+type: standard
+docid:
+  id: 07-027r1
+  type: OGC
+date:
+  type: published
+  value: '2007-05-25'
+contributor:
+- person:
+    name:
+      completename: Clemens Portele
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2007-05-25'
+language: en
+script: Latn
+abstract:
+  content: 'This document contains a data content specification for Local Mission
+    Specific Data (MSD) and is based on the GEOINT Structure Implementation Profile
+    (GSIP) developed by the NGA. This document defines the GML 3.2.1 (ISO 19136) encoding
+    requirements for Local MSD. The structure of the document is based on ISO/DIS
+    19131 (Geographic Information '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

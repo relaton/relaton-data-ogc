@@ -1,0 +1,47 @@
+---
+id: 03-007r1
+title:
+- type: title-main
+  content: 'OpenGIS Location Services (OpenLS): Navigation Service [Part 6]'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OpenGIS Location Services (OpenLS): Navigation Service [Part 6]'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=3840
+  type: obp
+type: standard
+docid:
+  id: 03-007r1
+  type: OGC
+date:
+  type: published
+  value: '2003-06-12'
+contributor:
+- person:
+    name:
+      completename: Tom Bychowski
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2003-06-12'
+language: en
+script: Latn
+abstract:
+  content: 'OpenGIS '
+  language: en
+  script: Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+fetched: '2021-09-14'
+doctype: standard
+editorialgroup:
+  committee: technical

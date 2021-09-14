@@ -1,0 +1,57 @@
+---
+id: 14-049
+title:
+- type: title-main
+  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=58974
+  type: obp
+type: standard
+docid:
+  id: 14-049
+  type: OGC
+date:
+  type: published
+  value: '2014-07-16'
+contributor:
+- person:
+    name:
+      completename: Ingo Simonis
+  role: author
+- person:
+    name:
+      completename: Stephane Fellah
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2014-07-16'
+language: en
+script: Latn
+abstract:
+  content: "Testbed 10 ontology work focused on:\r\n•\tA general examination of ontologies
+    in the context of OGC data modeling, handling, and organization. Testbed-10 has
+    started to define a consistent set of ontologies implementing solid theoretical
+    foundations and semantics. \r\n•\tThe definition of a core ontologies for representing
+    incident information used by Incident Management Systems (IMS) and mapping symbologies
+    used in the emergency and disaster management domain with the goal to improve
+    interoperability between different IMS symbology sets used across multi-level
+    jurisdiction. \r\n•\tAddressed ontology mapping between hydrology feature models
+    using SPARQL and OWL2.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

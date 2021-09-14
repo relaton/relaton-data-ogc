@@ -1,0 +1,56 @@
+---
+id: 11-062r2
+title:
+- type: title-main
+  content: OWS-8 CCI Portrayal Registries Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-8 CCI Portrayal Registries Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=46548
+  type: obp
+type: standard
+docid:
+  id: 11-062r2
+  type: OGC
+date:
+  type: published
+  value: '2011-11-17'
+contributor:
+- person:
+    name:
+      completename: David Burggraf
+  role: author
+- person:
+    name:
+      completename: Ron Lake
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2011-11-17'
+language: en
+script: Latn
+abstract:
+  content: The OWS-8 Cross Community Interoperability (CCI) thread was built on progress
+    made in the recent OWS-7 initiative to cover key technology areas that could not
+    be addressed within the scope of that initiative. The OWS-8 CCI thread aimed to
+    increase interoperability within communities sharing geospatial data, including
+    advancing of interoperability among heterogeneous data models, advancing strategies
+    to share styles to provide a more common and automated use of symbology, improvement
+    of KML, and advancing schema automation allowing communities to better share their
+    information artifacts. This OGC engineering report aims to present findings from
+    the portrayal registries as part of the CCI subthread
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

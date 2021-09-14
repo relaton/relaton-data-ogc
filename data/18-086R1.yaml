@@ -1,0 +1,86 @@
+---
+id: 18-086r1
+title:
+- type: title-main
+  content: 'OGC Vector Tiles Pilot: Summary Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Vector Tiles Pilot: Summary Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.opengeospatial.org/per/18-086r1.html
+  type: obp
+type: standard
+docid:
+  id: 18-086r1
+  type: OGC
+date:
+  type: published
+  value: '2019-02-15'
+contributor:
+- person:
+    name:
+      completename: Sam Meek
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2019-02-15'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Engineering Report (ER) provides the summary findings resulting
+    from completion of the OGC Vector Tiles Pilot (VTP or Pilot). The requirements
+    for the Pilot were generated from a combination of sponsor input and analysis
+    of typical use cases for tiling of vector feature data across the OGC Standards
+    Baseline and related standards. The driving use case for this activity was the
+    visualization of feature data on a client. The three main scenarios considered
+    were consumption of tiled feature data by a web client, a desktop client and a
+    mobile client. As a standards body, the OGC already has standards that fit these
+    use cases. These are; Web Map Tile Service 1.0 (WMTS) for a web client, and GeoPackage
+    1.2 for a mobile client. Web Feature Service (WFS) 3.0 is suitable for a desktop
+    client and has an in-built method to support tiling, but not specifically for
+    tiled feature data such as that explored in the VTP. One of the purposes of the
+    Pilot was to produce demonstration implementations to support tiled feature data
+    using WFS 3.0, WMTS 1.0 and GeoPackage 1.2 that can be validated by Technology
+    Integration Experiments (TIEs). The draft extension to these standards helped
+    define a draft Conceptual Model for tiled feature data in support of visualization.
+    The Conceptual Model formally captures the requirements for component implementations
+    and rationalizes them into a model documented in the Unified Modeling Language
+    (UML).\r\n\r\nThe ER provides an overview of each of the components, their implementation
+    decisions and the challenges faced. The components are presented as draft extensions
+    to existing standards. The WFS standard is currently in a major revision cycle
+    and is transitioning away from services to a resource-oriented architecture. This
+    transition has implications for access to tiled feature data. This offers options
+    of access to pre-rendered tiles, or to tiles created using WFS 3.0 query functionality.
+    The current WMTS standard only offers access to the pre-rendered tiles and much
+    of the work is therefore about defining and supporting tiled feature data as a
+    media type. The OGC GeoPackage standard is more complex as it attempts to ship
+    all of the tiled feature data in a self-contained package aimed at environments
+    that have Denied, Degraded, Intermittent or Limited (DDIL) bandwidth. DDIL is
+    an important use case for GeoPackage as most normal web services do not function
+    without connectivity. The military, first responders and other groups who work
+    in challenging operational environments require a capability to ship, store and
+    distribute geospatial data in an efficient, modern manner. The combination of
+    GeoPackage and tiled feature data offers the means to supply detailed geospatial
+    data in a portable fashion to satisfy many DDIL use cases. GeoPackage also offers
+    the majority of the future work as it attempts to store information such as styling
+    and attribution separately to the geometries to take advantage of a relational
+    database structure.\r\n\r\nWhen this project was initiated, the term vector tiles
+    was used throughout. However, as the project progressed, the participants agreed
+    that the term tiled feature data was more appropriate than the colloquial term
+    of vector tiles. This engineering report therefore interchangeably uses both tiled
+    feature data and vector tiles to refer to the approach of tiling vector feature
+    data.\r\n\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

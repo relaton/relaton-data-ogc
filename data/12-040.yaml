@@ -1,0 +1,56 @@
+---
+id: 12-040
+title:
+- type: title-intro
+  content: OGC® Web Coverage Service Interface Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Range Subsetting Extension
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Web Coverage Service Interface Standard - Range Subsetting Extension
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=54503
+  type: obp
+type: standard
+docid:
+  id: 12-040
+  type: OGC
+date:
+  type: published
+  value: '2014-02-26'
+contributor:
+- person:
+    name:
+      completename: Peter Baumann
+  role: author
+- person:
+    name:
+      completename: Jinsongdi Yu
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2014-02-26'
+language: en
+script: Latn
+abstract:
+  content: This document specifies parameters to the OGC Web Coverage Service (WCS)
+    GetCoverage request which allow extraction of specific fields, according to the
+    range type specification, from the range set of a coverage during server-side
+    processing of a coverage in a GetCover-age request.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: extension
+editorialgroup:
+  committee: technical

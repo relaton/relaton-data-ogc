@@ -1,0 +1,59 @@
+---
+id: 16-055
+title:
+- type: title-main
+  content: Testbed-12 Compression Techniques Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Compression Techniques Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-055.html
+  type: obp
+type: standard
+docid:
+  id: 16-055
+  type: OGC
+date:
+  type: published
+  value: '2017-05-15'
+contributor:
+- person:
+    name:
+      completename: Jeff Harrison
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-05-15'
+language: en
+script: Latn
+abstract:
+  content: "This Open Geospatial Consortium (OGC) document provides an analysis of
+    the prototype implementations, approaches and performance aspects of data size
+    reduction and compression techniques explored in OGC Testbed 12. Specifically,
+    it describes work done during Testbed 12 investigating compression for geospatial
+    data sets on OGC Web Feature Service (WFS) using W3C Efficient XML Interchange
+    (EXI) Format 1.0 (Second Edition).\r\n\r\nThe investigation focused on extending
+    WFS with EXI output formats, and the associated performance aspects of data size
+    reduction and compression techniques. EXI is a compact representation for the
+    Extensible Markup Language (XML) Information Set. EXI is intended to simultaneously
+    optimize performance and the utilization of computational resources. From a practical
+    viewpoint, EXI is designed to reduce the size of XML data exchanged between computer
+    systems.\r\n\r\nEXI uses a grammar-driven approach designed to achieve efficient
+    encodings using an encoding algorithm and a small set of datatype representations.
+    Consequently, EXI processors are described by the W3C as â€˜relatively simpleâ€™
+    and â€˜can be implemented on devices with limited capacity.â€™ An EXI processor
+    is used by application programs to encode their structured data into EXI streams
+    and/or to decode EXI to make the structured data accessible."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

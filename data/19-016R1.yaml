@@ -1,0 +1,55 @@
+---
+id: 19-016r1
+title:
+- type: title-main
+  content: 'OGC Testbed-15: Data Centric Security'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-15: Data Centric Security'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-016r1.html
+  type: obp
+type: standard
+docid:
+  id: 19-016r1
+  type: OGC
+date:
+  type: published
+  value: '2019-12-19'
+contributor:
+- person:
+    name:
+      completename: Michael A. Leedahl
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2019-12-19'
+language: en
+script: Latn
+abstract:
+  content: 'The OGC Testbed-15 Data Centric Security Engineering Report (ER) discusses
+    the current state of security in protecting data in a geospatial environment.
+    The ER examines the use of encrypted container formats such as NATO STANAG 4778
+    Information on standard Metadata Binding with metadata as defined in NATO STANAG
+    4774 Confidentiality Metadata Label Syntax in combination with geospatial data
+    using the encoding for an OGC Web Feature Service (WFS) FeatureCollection structure.
+    This report also makes a recommendation for the creation of new media types to
+    support output container formats such as STANAG 4778. The report then discusses
+    various implementation scenarios in which a STANAG 4778 (eXtensible Markup Language
+    (XML) container maintains encrypted data from author to service to viewer. These
+    implementations use the new OGC API - Features - Part 1: Core with features encrypted
+    using keys supplied by feature authors and users.'
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,55 @@
+---
+id: 11-097
+title:
+- type: title-main
+  content: OWS-8 AIXM 5.1 Compression Benchmarking
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-8 AIXM 5.1 Compression Benchmarking
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=46394
+  type: obp
+type: standard
+docid:
+  id: 11-097
+  type: OGC
+date:
+  type: published
+  value: '2011-12-19'
+contributor:
+- person:
+    name:
+      completename: Jérôme JANSOU
+  role: author
+- person:
+    name:
+      completename: Thibault DACLA
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2011-12-19'
+language: en
+script: Latn
+abstract:
+  content: "AIXM stands today for the de-facto standard for Aeronautical Information
+    Publication, used by air control service providers from Europe, USA and Australia.
+    With version 5.1, it reaches a level of maturity allowing the support of Digital
+    NOTAMs, as the first official version of these messages was published this year.\r\nIn
+    a near future, AIXM will be carried inside WFS requests but also into notification
+    messages along WS event services. This last channel will be the one dedicated
+    to D-NOTAMs. As D-NOTAM is aimed at aircrafts pilots, their transmission to the
+    aircraft will use air/ground data link. Today, datalink communications lack bandwidth
+    and future datalink will still have a limited capacity.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,46 @@
+---
+id: 07-024
+title:
+- type: title-main
+  content: Reference Model for the ORCHESTRA Architecture
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Reference Model for the ORCHESTRA Architecture
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=20300
+  type: obp
+type: standard
+docid:
+  id: 07-024
+  type: OGC
+date:
+  type: published
+  value: '2007-07-26'
+contributor:
+- person:
+    name:
+      completename: Thomas Uslander (Ed.)
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2007-07-26'
+language: en
+script: Latn
+abstract:
+  content: This document specifies the Reference Model for the ORCHESTRA Architecture
+    (RM-OA). It contains a platform-neutral specification of the ORCHESTRA Architecture
+    and a specification framework for the design of ORCHESTRA-compliant service networks
+    across all viewpoints.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

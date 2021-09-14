@@ -1,0 +1,63 @@
+---
+id: 16-044
+title:
+- type: title-main
+  content: Testbed-12 Web Feature Service Synchronization
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Web Feature Service Synchronization
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-044.html
+  type: obp
+type: standard
+docid:
+  id: 16-044
+  type: OGC
+date:
+  type: published
+  value: '2017-03-09'
+contributor:
+- person:
+    name:
+      completename: Panagiotis (Peter) A. Vretanos
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-03-09'
+language: en
+script: Latn
+abstract:
+  content: "This engineering report describes a protocol for synchronizing data between
+    two enterprise servers. While the protocol itself is generic, this engineering
+    report describes its application to web feature servers.\r\n\r\nIn the simplest
+    terms, the protocol involves each synchronization peer accessing the other’s Sync
+    resource to get the set of changed objects since the last time the Sync resource
+    was accessed. In the case of web feature servers, the objects are features. The
+    requesting peer then compare that list of changed features with the identically
+    identified features in its data store and performs any necessary changes so that
+    the feature states match.\r\n\r\nContinuing the work done in Testbed-11, this
+    engineering report describes the implementation of a Sync operation in a WFS server
+    that:\r\n\r\nEnhances the Sync operation from Testbed-11 to include an abstract
+    query element where each service type can then substitute their specific query
+    syntax for identifying the specific sub-set of changed features to be synchronized.
+    In the case of the WFS, several query syntaxes may be used including the wfs:Query
+    element and a REST based feature type URI with query parameters.\r\n\r\nExtends
+    the definition of the Sync operation with the addition of a resultType parameter
+    to allow a client to obtain a hit count of the number of features that a Sync
+    operation shall return.\r\n\r\nShall investigate the proper procedure for handling
+    resource references. Implementing the resolvePath parameter alone is not sufficient
+    to ensure complete data set synchronization.\r\n\r\nShall investigate concurrency
+    and consistency issues."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

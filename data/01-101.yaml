@@ -1,0 +1,48 @@
+---
+id: 01-101
+title:
+- type: title-intro
+  content: Topic 1
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Feature Geometry
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 1 - Feature Geometry
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://www.iso.org/standard/26012.html
+  type: obp
+type: standard
+docid:
+  id: 01-101
+  type: OGC
+date:
+  type: published
+  value: '2001-05-10'
+contributor:
+- person:
+    name:
+      completename: John Herring
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2001-05-10'
+language: en
+script: Latn
+abstract:
+  content: Same as ISO 19107, available at http://www.iso.org.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

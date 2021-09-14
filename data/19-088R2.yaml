@@ -1,0 +1,65 @@
+---
+id: 19-088r2
+title:
+- type: title-main
+  content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.ogc.org/per/19-088r2.html
+  type: obp
+type: standard
+docid:
+  id: 19-088r2
+  type: OGC
+date:
+  type: published
+  value: '2020-07-07'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role: author
+- person:
+    name:
+      completename: Terry Idol
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2020-07-07'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Engineering Report (ER) provides a summary of the research and
+    findings from Phase 2 of the OGC Vector Tiles Pilot (VTP2). The goal of VTP2 was
+    to deliver a consistent, interoperable online/offline architecture for vector
+    tiles based on feature and tile servers, as well as GeoPackage. All Application
+    Programming Interface (API) implementations and service types deployed in the
+    pilot were implemented to support the prototype vector tile metadata model and
+    filtering language. These were two essential work items of VTP2. The feature and
+    tile servers included implementations of the OGC API – Features standard and the
+    draft OGC API – Tiles specification. The feature and tile servers provided support
+    for a variety of Coordinate Reference Systems (CRS). This ER provides an overview
+    of each of the components, their implementation decisions and the challenges faced.\r\n\r\nThe
+    VTP2 participants intend to use the results of the work in VTP2 to inform the
+    development of OGC APIs, GeoPackage, and web service standards to enable consistent
+    use both online and offline, particularly in DDIL environments. Such consistent
+    use of tiled feature data online and offline will improve interoperability and
+    usability of geospatial applications. Therefore, the value of the VTP2 work to
+    organizations is expected to be in the efficiencies and productivity that comes
+    from greater interoperability and usability."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

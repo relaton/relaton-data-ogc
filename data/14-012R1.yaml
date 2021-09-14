@@ -1,0 +1,75 @@
+---
+id: 14-012r1
+title:
+- type: title-main
+  content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation
+    satellite Tasking
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation
+    satellite Tasking
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=57203
+  type: obp
+type: standard
+docid:
+  id: 14-012r1
+  type: OGC
+date:
+  type: published
+  value: '2014-07-17'
+contributor:
+- person:
+    name:
+      completename: Nicolas FANJEAU
+  role: author
+- person:
+    name:
+      completename: Sebastian ULRICH
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2014-07-17'
+language: en
+script: Latn
+abstract:
+  content: "This OGC® Best Practices document specifies the interfaces, bindings,
+    requirements and conformance classes that enable complete workflows for the tasking
+    of sensor planning services for Earth Observation (EO) satellites. In fact it
+    provides the interfaces for supporting the following EO sensor planning scenarios:\r\n•\tPlanning
+    future acquisitions with feasibility study,\r\n•\tDirect planning of future acquisitions,\r\n•\tReservation
+    of planning for future acquisitions.\r\nThis specification includes a comprehensive
+    list of sensor options and tasking options derived from the parent specification
+    OGC 10-135 [NR22] which gathered inputs from several Satellite Agencies and Operators:\r\n•\tESA\r\n•\tEUMETSAT\r\n•\tCNES\r\n•\tDLR\r\n•\tCSA\r\n•\tAirbus
+    Defence & Space\r\nThis document is based on the standard:\r\nOGC 10-135, Sensor
+    Planning Service Interface Standard 2.0 Earth Observation \r\nSatellite Tasking
+    Extension, version 2.0. 2011.\r\n\r\nwhich was initially produced during the ESA
+    HMA (Heterogeneous Missions Accessibility) initiative [OR1] and related projects.\r\nWith
+    respect to the parent specification this Best Practice document proposes the following
+    changes:\r\n•\tReplaces SOAP with REST for service encoding. This affects not
+    only the way the service is implemented but also the way the standard is presented
+    and described. In fact, basing the standard on REST implies that the service has
+    to be described in terms of resources and methods applied on them whilst in SOAP
+    services, the description is focusing on operations and in fact the OGC 10-135[NR22]
+    is structured in Web Service operations.\r\n•\tUsage of OpenSearch Description
+    Documents as an alternate method for describing sensors and tasking Options (§7.3.2).
+    This specification uses the sensors and tasking options model already described
+    in the OGC 10-135 [NR22] standard but defines an additional method for describing
+    sensors and tasking options within OpenSearch Description Documents based on the
+    OGC 13-039 [NR23]. Actually this part of the specification refers to the OpenSearch
+    Extension for Earth Observation Satellite Tasking.\r\n&#8195;\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

@@ -1,0 +1,51 @@
+---
+id: 04-071
+title:
+- type: title-main
+  content: Some image geometry models
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Some image geometry models
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=7257
+  type: obp
+type: standard
+docid:
+  id: 04-071
+  type: OGC
+date:
+  type: published
+  value: '2004-10-04'
+contributor:
+- person:
+    name:
+      completename: Arliss Whiteside
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2004-10-04'
+language: en
+script: Latn
+abstract:
+  content: "This discussion paper contains the material that is still relevant from
+    Section 6 (or Appendix A) of the previous version 4 (document OGC 99-107) of OGC
+    Abstract Specification Topic 7, titled The Earth Imagery Case. That version of
+    Topic 7 has now been superseded by a new version with the same title.\r\nIn addition,
+    some terminology has been revised to be consistent with the terminology now used
+    in Topic 16: Image Coordinate Transformation Services. Specifically, the previous
+    term real-time image geometry model has been changed to approximate image geometry
+    model. Also, the previous name Universal Real-Time Image Geometry Model has been
+    changed to Universal Image Geometry Model.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

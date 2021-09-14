@@ -1,0 +1,47 @@
+---
+id: 15-012r2
+title:
+- type: title-main
+  content: OGC GeoPackage Plugfest Discussion Paper
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC GeoPackage Plugfest Discussion Paper
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=63285
+  type: obp
+type: standard
+docid:
+  id: 15-012r2
+  type: OGC
+date:
+  type: published
+  value: '2015-08-19'
+contributor:
+- person:
+    name:
+      completename: Jeff Yutzler
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2015-08-19'
+language: en
+script: Latn
+abstract:
+  content: "This OGC discussion paper presents the results of the GeoPackage Plugfest.
+    In this\r\ninitiative, participants had the opportunity to evaluate the compliance
+    and interoperability\r\nof software that produces and consumes GeoPackages containing
+    tiled raster data."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

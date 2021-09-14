@@ -1,0 +1,46 @@
+---
+id: 11-111
+title:
+- type: title-main
+  content: Ordering Services for Earth Observation Products  Adoption Voting Comments
+    and Answers
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Ordering Services for Earth Observation Products  Adoption Voting Comments
+    and Answers
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=45124
+  type: obp
+type: standard
+docid:
+  id: 11-111
+  type: OGC
+date:
+  type: published
+  value: '2012-01-25'
+contributor:
+- person:
+    name:
+      completename: Daniele Marchionni
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2012-01-25'
+language: en
+script: Latn
+abstract:
+  content: This document lists the No votes received during the TC adoption vote (2011-05-03
+    - 2011-07-02) together with the responses from the OSEO SWG.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

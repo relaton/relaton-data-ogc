@@ -1,0 +1,51 @@
+---
+id: 17-048
+title:
+- type: title-main
+  content: OGC Underground Infrastructure Concept Study Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Underground Infrastructure Concept Study Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-048.html
+  type: obp
+type: standard
+docid:
+  id: 17-048
+  type: OGC
+date:
+  type: published
+  value: '2017-08-31'
+contributor:
+- person:
+    name:
+      completename: Josh Lieberman
+  role: author
+- person:
+    name:
+      completename: Andy Ryan
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-08-31'
+language: en
+script: Latn
+abstract:
+  content: This report documents the progress made to date by OGC and its members
+    to build a complete picture of the present situation and develop a conceptual
+    framework for action to improve underground infrastructure data interoperability.
+    The report also identifies the most important steps to be taken next in order
+    to develop the necessary data standards and foster their adoption.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

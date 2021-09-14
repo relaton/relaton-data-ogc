@@ -1,0 +1,47 @@
+---
+id: 04-010r1
+title:
+- type: title-main
+  content: Geolinked Data Access Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Geolinked Data Access Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=5858
+  type: obp
+type: standard
+docid:
+  id: 04-010r1
+  type: OGC
+date:
+  type: published
+  value: '2004-05-04'
+contributor:
+- person:
+    name:
+      completename: Peter Schut
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2004-05-04'
+language: en
+script: Latn
+abstract:
+  content: A Geolinked Data Access Service (GDAS) provides a way to publish and access
+    data that refers to spatial features (e.g. population data for countries).  A
+    GDAS can expose data from non-GIS databases so that it can be manipulated and
+    mapped with the aid of a Geolinking Service.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

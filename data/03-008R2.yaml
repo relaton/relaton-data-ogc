@@ -1,0 +1,52 @@
+---
+id: 03-008r2
+title:
+- type: title-main
+  content: Web Notification Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Notification Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1367
+  type: obp
+type: standard
+docid:
+  id: 03-008r2
+  type: OGC
+date:
+  type: published
+  value: '2003-04-21'
+contributor:
+- person:
+    name:
+      completename: Ingo Simonis
+  role: author
+- person:
+    name:
+      completename: Andreas Wytzisk
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2003-04-21'
+language: en
+script: Latn
+abstract:
+  content: The Web Notification Service (WNS) is the first asynchronous messaging
+    service specified by OGC. At the moment, the WNS message schema is optimized to
+    fulfil the needs of services supporting the use of sensors, like Sensor Planning
+    Service. Future work activities should include the adaptation of the message schema
+    to the needs of other services.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

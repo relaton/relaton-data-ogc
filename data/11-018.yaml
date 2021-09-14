@@ -1,0 +1,56 @@
+---
+id: 11-018
+title:
+- type: title-main
+  content: License-Based Access Control
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: License-Based Access Control
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=42735
+  type: obp
+type: standard
+docid:
+  id: 11-018
+  type: OGC
+date:
+  type: published
+  value: '2011-03-30'
+contributor:
+- person:
+    name:
+      completename: Rüdiger Gartmann
+  role: author
+- person:
+    name:
+      completename: Bastian Schäffer
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2011-03-30'
+language: en
+script: Latn
+abstract:
+  content: "This Discussion Paper proposes model for license-based access control
+    to SOAP services, based on OASIS SAML 2.0. This approach is a potential solution
+    for license-based access control, which requires the possession of a valid license
+    for getting access to a service. Use of digital licenses allow users to act on
+    or with web services to which they are associated\r\n\r\nThis document re-uses
+    content produced by the OGC GeoRM Common 1.0 Standards Working Group and combined
+    that with the document OGC 10-125, which was posted to an internal OGC document
+    archive (Pending Documents) but is not publicly available.\r\nThis document does
+    not claim compliance to the GeoDRM reference model (ISO 19153), although the authors
+    are not yet aware of any conflicts to it.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

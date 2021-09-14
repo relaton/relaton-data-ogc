@@ -1,0 +1,65 @@
+---
+id: 11-169r1
+title:
+- type: title-main
+  content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for
+    Stationary In-Situ Sensors
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for
+    Stationary In-Situ Sensors
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=52803
+  type: obp
+type: standard
+docid:
+  id: 11-169r1
+  type: OGC
+date:
+  type: published
+  value: '2014-02-25'
+contributor:
+- person:
+    name:
+      completename: Simon Jirka
+  role: author
+- person:
+    name:
+      completename: Christoph Stasch
+  role: author
+- person:
+    name:
+      completename: Arne Bröring
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2014-02-25'
+language: en
+script: Latn
+abstract:
+  content: "This Best Practice document describes a lightweight SOS 2.0 profile for
+    stationary in-situ\r\nsensors. Besides the SOS itself this document also addresses
+    the data formats used by the\r\nSOS: Observations & Measurements 2.0 (O&M) for
+    encoding measurement data and the\r\nSensor Model Language 2.0 (SensorML) for
+    encoding metadata. Other SWE standards\r\nwhich provide more specialized functionality
+    are not part of this minimum lightweight\r\nSWE profile.\r\nThe aim of this document
+    is to present a common minimum profile of the SOS. The\r\nprofile is intended
+    to reduce the complexity of the standard by omitting highly specific\r\nelements
+    that are not necessary for the majority of use cases that occur in practice. At
+    the\r\nsame time, the profile is designed in such a way that all SOS implementations
+    that\r\nconform to this profile are also compliant to the according OGC specifications."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

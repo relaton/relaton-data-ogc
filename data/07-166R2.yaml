@@ -1,0 +1,45 @@
+---
+id: 07-166r2
+title:
+- type: title-main
+  content: OGC OWS-5 Engineering Report on WCPS
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC OWS-5 Engineering Report on WCPS
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=27052
+  type: obp
+type: standard
+docid:
+  id: 07-166r2
+  type: OGC
+date:
+  type: published
+  value: '2008-08-04'
+contributor:
+- person:
+    name:
+      completename: Peter Baumann
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2008-08-04'
+language: en
+script: Latn
+abstract:
+  content: This document represents the Engineering Report for the WCPS activity within
+    the OWS-5 SWE thread. It summarizes tasks and outcomes.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

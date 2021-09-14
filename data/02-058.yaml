@@ -1,0 +1,45 @@
+---
+id: 02-058
+title:
+- type: title-main
+  content: Web Feature Service (Transactional)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Feature Service (Transactional)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=7176
+  type: obp
+type: standard
+docid:
+  id: 02-058
+  type: OGC
+date:
+  type: published
+  value: '2002-05-17'
+contributor:
+- person:
+    name:
+      completename: Peter Vretanos
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2002-05-17'
+language: en
+script: Latn
+abstract:
+  content: The purpose of the Web Feature Server Interface Specification (WFS) is
+    to describe data manipulation operations on OpenGIS
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: profile
+editorialgroup:
+  committee: technical

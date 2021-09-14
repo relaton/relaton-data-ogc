@@ -1,0 +1,58 @@
+---
+id: '09-142r1'
+title:
+- type: title-main
+  content: 'OGC®: Open GeoSMS Specification'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC®: Open GeoSMS Specification'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=36261
+  type: obp
+type: standard
+docid:
+  id: '09-142r1'
+  type: OGC
+date:
+  type: published
+  value: '2010-02-01'
+contributor:
+- person:
+    name:
+      completename: Chun-fu Lin
+  role: author
+- person:
+    name:
+      completename: Zhong-Hung Lee
+  role: author
+- person:
+    name:
+      completename: Jen-Chu Liu
+  role: author
+- person:
+    name:
+      completename: Kuo-Yu Chuang
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2010-02-01'
+language: en
+script: Latn
+abstract:
+  content: This standard specifies the location formats to be used by SMS for mobile
+    phones and in other systems handling the SMS with location formats produced by
+    mobile phones or LBS services.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

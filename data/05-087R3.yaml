@@ -1,0 +1,45 @@
+---
+id: 05-087r3
+title:
+- type: title-main
+  content: Observations and Measurements
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Observations and Measurements
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=14034
+  type: obp
+type: standard
+docid:
+  id: 05-087r3
+  type: OGC
+date:
+  type: published
+  value: '2006-04-05'
+contributor:
+- person:
+    name:
+      completename: Simon Cox
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2006-04-05'
+language: en
+script: Latn
+abstract:
+  content: The general models and XML encodings for observations and measurements,
+    including but not restricted to those using sensors.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

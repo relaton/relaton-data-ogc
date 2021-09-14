@@ -1,0 +1,54 @@
+---
+id: 17-078
+title:
+- type: title-main
+  content: 'OGC Testbed-13: Concepts of Data and Standards for Mass Migration Engineering
+    Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-13: Concepts of Data and Standards for Mass Migration Engineering
+    Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-078.html
+  type: obp
+type: standard
+docid:
+  id: 17-078
+  type: OGC
+date:
+  type: published
+  value: '2018-01-17'
+contributor:
+- person:
+    name:
+      completename: Jeff Harrison
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2018-01-17'
+language: en
+script: Latn
+abstract:
+  content: "The objective of the Mass Migration Source Integration effort in OGC Testbed
+    13 was to understand and document how interoperability tools and practices, including
+    open geospatial and security standards, can enable information exchange on an
+    international level for humanitarian relief and analysis of mass movement of populations.\r\n\r\nThis
+    Engineering Report describes how Testbed 13 participants tested and demonstrated
+    situational awareness using Internet and web technologies in a shared information
+    exchange platform. The purpose of this platform was to help realize a Common Operational
+    Picture (COP) for coordinating humanitarian relief activities among nations and
+    organizations. In addition, the platform exercised security-enabled interoperable
+    exchange of messages.\r\n\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

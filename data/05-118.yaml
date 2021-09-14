@@ -1,0 +1,49 @@
+---
+id: 05-118
+title:
+- type: title-main
+  content: OGC Web Services (OWS) 3 UGAS Tool
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Web Services (OWS) 3 UGAS Tool
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=12894
+  type: obp
+type: standard
+docid:
+  id: 05-118
+  type: OGC
+date:
+  type: published
+  value: '2006-04-28'
+contributor:
+- person:
+    name:
+      completename: Clemens Portele
+  role: author
+- person:
+    name:
+      completename: Rafael Renkert
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2006-04-28'
+language: en
+script: Latn
+abstract:
+  content: This document contains a description of the UGAS (UML Application Schema
+    to GML ApplicationSchema conversion) tool development in the decision support
+    services thread (GeoDSS) during the OWS-3 initiative.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

@@ -1,0 +1,49 @@
+---
+id: 03-010r7
+title:
+- type: title-main
+  content: Recommended XML Encoding of CRS Definitions
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Recommended XML Encoding of CRS Definitions
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1345
+  type: obp
+type: standard
+docid:
+  id: 03-010r7
+  type: OGC
+date:
+  type: published
+  value: '2003-05-21'
+contributor:
+- person:
+    name:
+      completename: Arliss Whiteside
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '7'
+revdate: '2003-05-21'
+language: en
+script: Latn
+abstract:
+  content: "This OpenGIS Recommendation Paper specifies basic XML encoding of data
+    defining coordinate reference systems and coordinate operations. This encoding
+    is expected to be adapted and used by multiple OGC\r\nImplementation Specifications,
+    by the separate specification of Application Schemas. This document is a Recommendation
+    Paper because the specified encoding is more general\r\nthan an OpenGIS Implementation
+    Specification and more specific than the OpenGIS Abstract Specification."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

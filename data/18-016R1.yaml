@@ -1,0 +1,45 @@
+---
+id: 18-016r1
+title:
+- type: title-main
+  content: OGC CDB Version 1.1 Release Notes
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC CDB Version 1.1 Release Notes
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/18-016r1
+  type: obp
+type: standard
+docid:
+  id: 18-016r1
+  type: OGC
+date:
+  type: published
+  value: '2018-12-19'
+contributor:
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2018-12-19'
+language: en
+script: Latn
+abstract:
+  content: This document provides release notes for version 1.1 of the CDB Standard
+    and related Best Practices.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

@@ -1,0 +1,50 @@
+---
+id: 17-061
+title:
+- type: title-main
+  content: FGDC OGC Application Programming Interface Interoperability Assessment
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: FGDC OGC Application Programming Interface Interoperability Assessment
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/17-061
+  type: obp
+type: standard
+docid:
+  id: 17-061
+  type: OGC
+date:
+  type: published
+  value: '2020-05-12'
+contributor:
+- person:
+    name:
+      completename: Terry Idol
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-05-12'
+language: en
+script: Latn
+abstract:
+  content: 'The Federal Geographic Data Committee (FGDC) Application Programming Interface
+    (API) assessment was conducted under the OGC Innovation Program with the goal
+    to develop an in-depth understanding of all the components necessary to enable
+    increased coordination and effectiveness of APIs as applied to geospatial information.  FGDC
+    customers have been invited to share their experiences with the use of APIs. From
+    those descriptions, recommendations have been derived that help FGDC to better
+    understand how APIs are currently being generated and if using a more standardized
+    approach to APIs might enable a more robust and optimized service offering. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,48 @@
+---
+id: 04-084
+title:
+- type: title-intro
+  content: Topic 0
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Overview
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 0 - Overview
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=7560
+  type: obp
+type: standard
+docid:
+  id: 04-084
+  type: OGC
+date:
+  type: published
+  value: '2005-06-27'
+contributor:
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2005-06-27'
+language: en
+script: Latn
+abstract:
+  content: 'Introduction and roadmap to the Abstract specification. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

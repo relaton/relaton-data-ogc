@@ -1,0 +1,64 @@
+---
+id: 12-000r2
+title:
+- type: title-main
+  content: 'OGC SensorML: Model and XML Encoding Standard'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC SensorML: Model and XML Encoding Standard'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.ogc.org/is/12-000r2/12-000r2.html
+  type: obp
+type: standard
+docid:
+  id: 12-000r2
+  type: OGC
+date:
+  type: published
+  value: '2020-08-10'
+contributor:
+- person:
+    name:
+      completename: Mike Botts
+  role: author
+- person:
+    name:
+      completename: Alexandre Robin
+  role: author
+- person:
+    name:
+      completename: Eric Hirschorn
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2020-08-10'
+language: en
+script: Latn
+abstract:
+  content: "The primary focus of the Sensor Model Language (SensorML) is to provide
+    a robust and semantically-tied means of defining processes and processing components
+    associated with the measurement and post-measurement transformation of observations.
+    This includes sensors and actuators as well as computational processes applied
+    pre- and post-measurement.\r\n\r\nThe main objective is to enable interoperability,
+    first at the syntactic level and later at the semantic level (by using ontologies
+    and semantic mediation), so that sensors and processes can be better understood
+    by machines, utilized automatically in complex workflows, and easily shared between
+    intelligent sensor web nodes.\r\n\r\nThis standard is one of several implementation
+    standards produced under OGC’s Sensor Web Enablement (SWE) activity. This standard
+    is a revision of content that was previously integrated in the SensorML version
+    1.0 standard (OGC 07-000)."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

@@ -1,0 +1,55 @@
+---
+id: 11-106r1
+title:
+- type: title-main
+  content: OWS-8 Digital NOTAM Refactor
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-8 Digital NOTAM Refactor
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=46227
+  type: obp
+type: standard
+docid:
+  id: 11-106r1
+  type: OGC
+date:
+  type: published
+  value: '2011-12-19'
+contributor:
+- person:
+    name:
+      completename: Rob Atkinson
+  role: author
+- person:
+    name:
+      completename: James Groffen
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2011-12-19'
+language: en
+script: Latn
+abstract:
+  content: "AIXM is a GML Application Schema described in UML using the relevant ISO
+    / OGC standards from the 19100 series. The Digital NOTAM Events Specification
+    (DNES) is an extension of AIXM that can describe notices to airmen using the AIXM
+    standard. \r\nThis document has been produced in conjunction with the Domain Modelling
+    Cookbook - a practical guide to domain modelling following a series of best practices
+    developed by the CSIRO and other OGC members.\r\nWhere possible, documentation
+    of the refactor effort for Digital NOTAM to be compatible with these practices
+    is incorporated into the domain modelling cookbook. "
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,52 @@
+---
+id: 20-091
+title:
+- type: title-main
+  content: 'OGC API – Common and OGC API – Features Sprint 2020: Summary Engineering
+    Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC API – Common and OGC API – Features Sprint 2020: Summary Engineering
+    Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-091.html
+  type: obp
+type: standard
+docid:
+  id: 20-091
+  type: OGC
+date:
+  type: published
+  value: '2021-02-23'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2021-02-23'
+language: en
+script: Latn
+abstract:
+  content: 'The subject of this Engineering Report (ER) is a code sprint that was
+    held from 29 to 30 September 2020 to advance the development of the OGC API -
+    Common - Part 2: Geospatial Data draft standard and the OGC API – Features – Part
+    4: Simple Transactions draft standard. An Application Programming Interface (API)
+    is a standard set of documented and supported functions and procedures that expose
+    the capabilities or data of an operating system, application or service to other
+    applications (adapted from ISO/IEC TR 13066-2:2016). The code sprint was hosted
+    online. The event was sponsored by Ordnance Survey (OS).'
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

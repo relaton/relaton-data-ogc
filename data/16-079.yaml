@@ -1,0 +1,75 @@
+---
+id: 16-079
+title:
+- type: title-main
+  content: Semantic Sensor Network Ontology
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Semantic Sensor Network Ontology
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://www.w3.org/TR/2017/REC-vocab-ssn-20171019/
+  type: obp
+type: standard
+docid:
+  id: 16-079
+  type: OGC
+date:
+  type: published
+  value: '2019-07-10'
+contributor:
+- person:
+    name:
+      completename: Armin Haller
+  role: author
+- person:
+    name:
+      completename: Krzysztof Janowicz
+  role: author
+- person:
+    name:
+      completename: Simon Cox
+  role: author
+- person:
+    name:
+      completename: Danh Le Phuoc
+  role: author
+- person:
+    name:
+      completename: Kerry Taylor
+  role: author
+- person:
+    name:
+      completename: Maxime Lefrançois
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2019-07-10'
+language: en
+script: Latn
+abstract:
+  content: The Semantic Sensor Network (SSN) ontology is an ontology for describing
+    sensors and their observations, the involved procedures, the studied features
+    of interest, the samples used to do so, and the observed properties, as well as
+    actuators. SSN follows a horizontal and vertical modularization architecture by
+    including a lightweight but self-contained core ontology called SOSA (Sensor,
+    Observation, Sample, and Actuator) for its elementary classes and properties.
+    With their different scope and different degrees of axiomatization, SSN and SOSA
+    are able to support a wide range of applications and use cases, including satellite
+    imagery, large-scale scientific monitoring, industrial and household infrastructures,
+    social sensing, citizen science, observation-driven ontology engineering, and
+    the Web of Things. Both ontologies are described below, and examples of their
+    usage are given.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

@@ -1,0 +1,51 @@
+---
+id: 15-042r5
+title:
+- type: title-main
+  content: OGC TimeseriesML 1.2 – XML Encoding of the Timeseries Profile of Observations
+    and Measurements
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC TimeseriesML 1.2 – XML Encoding of the Timeseries Profile of Observations
+    and Measurements
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/15-042r5/15-042r5.html
+  type: obp
+type: standard
+docid:
+  id: 15-042r5
+  type: OGC
+date:
+  type: published
+  value: '2018-12-18'
+contributor:
+- person:
+    name:
+      completename: James Tomkins and Dominic Lowe
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '5'
+revdate: '2018-12-18'
+language: en
+script: Latn
+abstract:
+  content: TimeseriesML 1.2 defines an XML encoding that implements the OGC Timeseries
+    Profile of Observations and Measurements, with the intent of allowing the exchange
+    of such data sets across information systems. Through the use of existing OGC
+    standards, it aims at being an interoperable exchange format that may be re-used
+    to address a range of data exchange requirements.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

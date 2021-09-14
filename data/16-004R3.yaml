@@ -1,0 +1,51 @@
+---
+id: 16-004r3
+title:
+- type: title-main
+  content: 'Volume 5: OGC CDB Radar Cross Section (RCS) Models'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'Volume 5: OGC CDB Radar Cross Section (RCS) Models'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=72716
+  type: obp
+type: standard
+docid:
+  id: 16-004r3
+  type: OGC
+date:
+  type: published
+  value: '2017-02-23'
+contributor:
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2017-02-23'
+language: en
+script: Latn
+abstract:
+  content: "(RCS) data within a conformant CDB data store.  \r\nPlease note that the
+    current CDB standard only provides encoding rules for using Esri ShapeFiles for
+    storing RCS models. However, this Best Practice has been modified to change most
+    of the ShapeFile references to “vector data sets” or “vector attributes” and “Point
+    Shapes” to “Point geometries”. This was done in recognition that future versions
+    of the CDB standard and related Best Practices will provide guidance on using
+    other encodings/formats, such as OGC GML.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

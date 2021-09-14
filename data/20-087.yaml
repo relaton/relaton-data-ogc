@@ -1,0 +1,53 @@
+---
+id: 20-087
+title:
+- type: title-main
+  content: Interoperable Simulation and Gaming Sprint Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Interoperable Simulation and Gaming Sprint Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.ogc.org/per/20-087.html
+  type: obp
+type: standard
+docid:
+  id: 20-087
+  type: OGC
+date:
+  type: published
+  value: '2021-01-26'
+contributor:
+- person:
+    name:
+      completename: Leonard Daly
+  role: author
+- person:
+    name:
+      completename: Scott Serich
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2021-01-26'
+language: en
+script: Latn
+abstract:
+  content: The OGC Interoperable Simulation and Gaming Sprint advanced the use of
+    relevant OGC and Khronos standards in the modeling and simulation community through
+    practical exercise and testing of the GeoVolumes API draft specification produced
+    by the 3D Data Container and Tiles API Pilot. Of particular interest was the handling
+    and integration of glTF models coming from multiple sources, but the sprint also
+    examined the specification’s implementability, consistency, completeness, and
+    maturity.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

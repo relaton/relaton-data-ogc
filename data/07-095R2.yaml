@@ -1,0 +1,45 @@
+---
+id: 07-095r2
+title:
+- type: title-main
+  content: OGC Web Services Summaries
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Web Services Summaries
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=23979
+  type: obp
+type: standard
+docid:
+  id: 07-095r2
+  type: OGC
+date:
+  type: published
+  value: '2007-11-14'
+contributor:
+- person:
+    name:
+      completename: Arliss Whiteside
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2007-11-14'
+language: en
+script: Latn
+abstract:
+  content: This document provides brief and consistent summaries of several OGC Web
+    Service interface specifications that serve data.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

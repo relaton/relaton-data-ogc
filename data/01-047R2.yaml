@@ -1,0 +1,48 @@
+---
+id: 01-047r2
+title:
+- type: title-main
+  content: Web Map Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Map Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1058
+  type: obp
+type: standard
+docid:
+  id: 01-047r2
+  type: OGC
+date:
+  type: published
+  value: '2001-06-21'
+contributor:
+- person:
+    name:
+      completename: Jeff de La Beaujardiere
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2001-06-21'
+language: en
+script: Latn
+abstract:
+  content: 'Provides four protocols (GetCapabilities, GetMap, GetFeatureInfo and DescribeLayer)
+    in support of the creation and display of registered and superimposed map-like
+    views of information that come simultaneously from multiple sources that are both
+    remote and heterogeneous.  '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

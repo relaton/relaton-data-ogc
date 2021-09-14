@@ -1,0 +1,51 @@
+---
+id: 20-011
+title:
+- type: title-main
+  content: OGC SCIRA Pilot Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC SCIRA Pilot Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.opengeospatial.org/per/20-011.html
+  type: obp
+type: standard
+docid:
+  id: 20-011
+  type: OGC
+date:
+  type: published
+  value: '2020-05-04'
+contributor:
+- person:
+    name:
+      completename: Sara Saeedi
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-05-04'
+language: en
+script: Latn
+abstract:
+  content: This engineering report (ER) captures Smart City Interoperability Reference
+    Architecture (SCIRA) Pilot implementation outcomes and findings to demonstrate
+    the risk mitigation and safety capability of the SCIRA interoperable and standard-based
+    architecture. SCIRA Pilot is an OGC (Open Geospatial Consortium) Innovation Program
+    project sponsored by the US Department of Homeland Security (DHS) Science & Technology
+    (S&T) in collaboration with the city of St. Louis, Missouri. The purpose of this
+    project is to advance standards for smart and safe cities and develop open, interoperable
+    design patterns for incorporating the Internet of Things (IoT) sensors into city
+    services.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

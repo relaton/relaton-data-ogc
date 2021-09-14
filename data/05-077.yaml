@@ -1,0 +1,44 @@
+---
+id: 05-077
+title:
+- type: title-main
+  content: Symbology Encoding Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Symbology Encoding Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=12636
+  type: obp
+type: standard
+docid:
+  id: 05-077
+  type: OGC
+date:
+  type: published
+  value: '2006-04-21'
+contributor:
+- person:
+    name:
+      completename: Dr. Markus M
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2006-04-21'
+language: en
+script: Latn
+abstract:
+  content: This Specification defines Symbology Encoding, an XML language for styling
+    information that can be applied to digital Feature and Coverage data.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

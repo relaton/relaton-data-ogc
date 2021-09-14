@@ -1,0 +1,45 @@
+---
+id: 10-001
+title:
+- type: title-main
+  content: SANY Fusion and Modelling Architecture
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: SANY Fusion and Modelling Architecture
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=37139
+  type: obp
+type: standard
+docid:
+  id: 10-001
+  type: OGC
+date:
+  type: published
+  value: '2010-03-22'
+contributor:
+- person:
+    name:
+      completename: Stuart E. Middleton
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2010-03-22'
+language: en
+script: Latn
+abstract:
+  content: This document reports the considered SANY best practice for using OGC standards
+    to provide generic fusion processing services. Concrete case studies are documented
+    and a detailed appendix is provided with example of XML request and responses.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

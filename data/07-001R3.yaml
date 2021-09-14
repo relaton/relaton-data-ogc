@@ -1,0 +1,45 @@
+---
+id: 07-001r3
+title:
+- type: title-main
+  content: Requirements for some specific simple solid, plane and line geometry types
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Requirements for some specific simple solid, plane and line geometry types
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=21352
+  type: obp
+type: standard
+docid:
+  id: 07-001r3
+  type: OGC
+date:
+  type: published
+  value: '2007-05-02'
+contributor:
+- person:
+    name:
+      completename: Simon Cox
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2007-05-02'
+language: en
+script: Latn
+abstract:
+  content: This specification describes requirements for specific geometry types,
+    including some simple solids, and planes and lines defined using an implicit parameterization.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

@@ -1,0 +1,50 @@
+---
+id: '09-006'
+title:
+- type: title-intro
+  content: OWS-6 DSS Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: SOAP/XML and REST in WMTS
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-6 DSS Engineering Report - SOAP/XML and REST in WMTS
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=33269
+  type: obp
+type: standard
+docid:
+  id: '09-006'
+  type: OGC
+date:
+  type: published
+  value: '2009-08-05'
+contributor:
+- person:
+    name:
+      completename: Keith Pomakis
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-08-05'
+language: en
+script: Latn
+abstract:
+  content: This OGC® document reports the results achieved in the Decision Support
+    Services (DSS) subtask of the OWS-6 testbed initiative as it relates to the development
+    of SOAP/XML and REST interfaces for the Web Map Tiling Service (WMTS).
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

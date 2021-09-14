@@ -1,0 +1,51 @@
+---
+id: 11-019r2
+title:
+- type: title-main
+  content: OGC® Engineering Report for the OWS Shibboleth Interoperability Experiment
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Engineering Report for the OWS Shibboleth Interoperability Experiment
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=47852
+  type: obp
+type: standard
+docid:
+  id: 11-019r2
+  type: OGC
+date:
+  type: published
+  value: '2012-04-06'
+contributor:
+- person:
+    name:
+      completename: Chris Higgins
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2012-04-06'
+language: en
+script: Latn
+abstract:
+  content: This document reports on outcomes from the OGC Web Services Shibboleth
+    Interoperability Experiment (OSI).  The main objective of OSI was to advance the
+    use of Shibboleth (an open source implementation of SAML) as a means of protecting
+    OWS.  In the process, OSI helped develop further understanding of this approach
+    to establishing trusted federations of OWS.  This report documents these findings
+    and is intended to be of use to those interested in how Shibboleth/SAML access
+    management federations may function as an organisational model for operational
+    Spatial Data Infrastructure.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

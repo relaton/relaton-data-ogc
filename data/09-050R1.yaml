@@ -1,0 +1,47 @@
+---
+id: '09-050r1'
+title:
+- type: title-main
+  content: OGC OWS-6-AIM Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC OWS-6-AIM Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=34032
+  type: obp
+type: standard
+docid:
+  id: '09-050r1'
+  type: OGC
+date:
+  type: published
+  value: '2009-07-27'
+contributor:
+- person:
+    name:
+      completename: Hans Schoebach
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2009-07-27'
+language: en
+script: Latn
+abstract:
+  content: 'This report establishes a baseline for the technical architecture, its
+    alternatives and issues for implementing the use cases as specified in the OWS-6
+    AIM thread RFQ including the temporal WFS supporting the temporal FE 2.0 operators,
+    the Event Service Notification architecture and the client EFBs. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

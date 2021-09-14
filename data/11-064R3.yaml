@@ -1,0 +1,56 @@
+---
+id: 11-064r3
+title:
+- type: title-main
+  content: OWS-8 CCI Schema Automation Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-8 CCI Schema Automation Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=46324
+  type: obp
+type: standard
+docid:
+  id: 11-064r3
+  type: OGC
+date:
+  type: published
+  value: '2011-11-23'
+contributor:
+- person:
+    name:
+      completename: Clemens Portele
+  role: author
+- person:
+    name:
+      completename: Reinhard Erstling
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2011-11-23'
+language: en
+script: Latn
+abstract:
+  content: "This OGC® document specifies improvements to the processing of information
+    represented in or referenced from an application schema in UML to create derived,
+    implementation level resources, in particular:\r\n•\tXML Schema documents to represent
+    types and their properties\r\n•\tSchematron schema documents to represent constraints\r\n•\tXSLT-Stylesheets
+    to create KML instances of features\r\nThe documented improvements have been specified,
+    implemented in the ShapeChange tool and tested in the context of schemas developed
+    as part of the NGA's Topographic Data Store (TDS) schemas.\r\nThe work is a continuation
+    of the work documented in OGC® document 10-088r2, the OWS-7 Schema Automation
+    Engineering Report. \r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

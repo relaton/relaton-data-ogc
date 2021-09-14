@@ -1,0 +1,49 @@
+---
+id: 05-077r4
+title:
+- type: title-main
+  content: OpenGIS Symbology Encoding Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Symbology Encoding Implementation Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=16700
+  type: obp
+type: standard
+docid:
+  id: 05-077r4
+  type: OGC
+date:
+  type: published
+  value: '2007-01-18'
+contributor:
+- person:
+    name:
+      completename: Dr. Markus Mueller
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '4'
+revdate: '2007-01-18'
+language: en
+script: Latn
+abstract:
+  content: 'The OpenGIS® Symbology Encoding Standard (SES) defines an XML language
+    for styling information that can be applied to digital geographic feature and
+    coverage data. SE is independent of any OGC Web Services descriptions and could
+    therefore be used to describe styling information in non-networked systems such
+    as desktop geographic information systems. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

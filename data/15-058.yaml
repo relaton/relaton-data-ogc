@@ -1,0 +1,50 @@
+---
+id: 15-058
+title:
+- type: title-main
+  content: OGC® Testbed-11 Symbology Mediation
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Testbed-11 Symbology Mediation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=64385
+  type: obp
+type: standard
+docid:
+  id: 15-058
+  type: OGC
+date:
+  type: published
+  value: '2015-11-18'
+contributor:
+- person:
+    name:
+      completename: Stephane Fellah
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2015-11-18'
+language: en
+script: Latn
+abstract:
+  content: "This OGC® Engineering Report (ER) summarizes the approaches, findings
+    and the results of the Symbology Mediation sub-thread activities of the OGC Testbed-11
+    Cross Community Interoperability (CCI) Thread.  The ER:\r\n•\t Provides an overview
+    of existing standards relevant to symbology mediation, \r\n•\tOutlines the approaches
+    adopted during the testbed, \r\n•\tDescribes the conceptual models and services
+    developed during the testbed to address semantic mediation and portrayal of feature
+    information related to Emergency Management and to some extent to the Aviation
+    domain. \r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

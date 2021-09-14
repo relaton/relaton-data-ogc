@@ -1,0 +1,65 @@
+---
+id: 17-036
+title:
+- type: title-main
+  content: 'OGC Testbed-13: Geospatial Taxonomies Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-13: Geospatial Taxonomies Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/17-036.html
+  type: obp
+type: standard
+docid:
+  id: 17-036
+  type: OGC
+date:
+  type: published
+  value: '2018-01-11'
+contributor:
+- person:
+    name:
+      completename: Charles Chen
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2018-01-11'
+language: en
+script: Latn
+abstract:
+  content: "This Engineering Report (ER) documents the Geospatial Taxonomy research
+    activities conducted by the Aviation (AVI) subthread of the Cross Community Interoperability
+    (CCI) thread in OGC Testbed 13. One of the critical factors in the overall usability
+    of services - and System Wide Information Management (SWIM) enabled services in
+    particular - is the ability of a service to be discovered. The ability of a service
+    to be discovered is assured by providing a uniformly interpretable set of service
+    metadata that can be accessed by a service consumer through a retrieval mechanism
+    (e.g., a service registry). Such a set of metadata (commonly referred to as a
+    service description) has been defined by Federal Aviation Administration (FAA)
+    and European Organization for the Safety of Air Navigation (EUROCONTROL) and formalized
+    in a Service Description Conceptual Model (SDCM) [SDCM].\r\n\r\nThe SDCM is currently
+    used in standard service description documents and service registries by both
+    FAA and EUROCONTROL. As part of the effort of enhancing service discovery, both
+    organizations also use a number of categories that can be associated with all
+    services and are generally referred to as taxonomies. The current set of taxonomies
+    used by both EUROCONTROL and FAA categorizes (i.e., meta tags) services based
+    on their availability status, interface model, data product, etc. However, despite
+    the increasing role of OGC services in the SWIM environment, no taxonomies for
+    categorizing services based on geographical coverage or other geospatial characteristics
+    have been defined. This ER documents the work conducted as part of Testbed 13
+    CCI thread and AVI subthread to identify and classify SWIM-enabled Service Oriented
+    Architecture (SOA) services with geographical taxonomies and the integration thereof
+    into SDCM."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

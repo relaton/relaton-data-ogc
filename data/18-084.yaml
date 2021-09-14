@@ -1,0 +1,51 @@
+---
+id: 18-084
+title:
+- type: title-main
+  content: OGC Geospatial to the Edge Plugfest Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Geospatial to the Edge Plugfest Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.opengeospatial.org/per/18-084.html
+  type: obp
+type: standard
+docid:
+  id: 18-084
+  type: OGC
+date:
+  type: published
+  value: '2019-01-20'
+contributor:
+- person:
+    name:
+      completename: Luis Bermudez
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2019-01-20'
+language: en
+script: Latn
+abstract:
+  content: The Geospatial to the Edge Interoperability Plugfest, co-sponsored by the
+    Army Geospatial Center and the National Geospatial-Intelligence Agency (NGA/CIO&T),
+    brought together technology implementers and data providers to advance the interoperability
+    of geospatial products and services based on profiles of OGC standards. Specifically,
+    servers and data available via GeoPackage, Web Feature Service (WFS), Web Map
+    Service (WMS), and Web Map Tile Service (WMTS), all following National System
+    for Geospatial Intelligence (NSG) profiles, were exercised and improved in various
+    clients. Compliance Tests were executed and advanced based on feedback from the
+    participants.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

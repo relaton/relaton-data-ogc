@@ -1,0 +1,44 @@
+---
+id: 16-056
+title:
+- type: title-main
+  content: Testbed-12 TopoJSON, GML Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 TopoJSON, GML Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-056.html
+  type: obp
+type: standard
+docid:
+  id: 16-056
+  type: OGC
+date:
+  type: published
+  value: '2017-05-15'
+contributor:
+- person:
+    name:
+      completename: Jeff Harrison
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-05-15'
+language: en
+script: Latn
+abstract:
+  content: This OGC document evaluates TopoJSON as an encoding that may be delivered
+    across a common, standard OGC service interface such as WFS.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

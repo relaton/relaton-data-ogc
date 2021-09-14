@@ -1,0 +1,48 @@
+---
+id: 13-032
+title:
+- type: title-main
+  content: OGC® SWE Implementation Maturity  Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® SWE Implementation Maturity  Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=53823
+  type: obp
+type: standard
+docid:
+  id: 13-032
+  type: OGC
+date:
+  type: published
+  value: '2013-09-11'
+contributor:
+- person:
+    name:
+      completename: George Percivall
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2013-09-11'
+language: en
+script: Latn
+abstract:
+  content: "This report summarizes the outcomes of a process to assess the maturity
+    of implementations based on SWE standards.   This report covers the following
+    areas:\r\n•\tSWE standards overview\r\n•\tImplementations of SWE in major systems\r\n•\tSWE
+    software implementations and compliance\r\n•\tSWE implementations in IP\r\n•\tRecommendations
+    and Observations\r\nA main outcome is the summary assessment of the SWE Implementation
+    Maturity as presented in the Preface based on the body of the report.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

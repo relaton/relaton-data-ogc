@@ -1,0 +1,50 @@
+---
+id: 03-064r10
+title:
+- type: title-main
+  content: OpenGIS Geographic Objects Implementation Specification *RETIRED*
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Geographic Objects Implementation Specification *RETIRED*
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=10378
+  type: obp
+type: standard
+docid:
+  id: 03-064r10
+  type: OGC
+date:
+  type: published
+  value: '2005-05-04'
+contributor:
+- person:
+    name:
+      completename: Greg Reynolds
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '10'
+revdate: '2005-05-04'
+language: en
+script: Latn
+abstract:
+  content: "*THIS STANDARD HAS BEEN RETIRED*\r\n\r\nThe OpenGIS® Geographic Objects
+    Interface Standard (GOS) provides an open set of common, lightweight, language-independent
+    abstractions for describing, managing, rendering, and manipulating geometric and
+    geographic objects within an application programming environment. It provides
+    both an abstract object standard (in UML) and a programming-language-specific
+    profile (in Java). The language-specific bindings serve as an open Application
+    Program Interface (API)."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

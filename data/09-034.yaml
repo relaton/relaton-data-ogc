@@ -1,0 +1,55 @@
+---
+id: '09-034'
+title:
+- type: title-main
+  content: OWS-6 Georeferencable Imagery Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-6 Georeferencable Imagery Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=33925
+  type: obp
+type: standard
+docid:
+  id: '09-034'
+  type: OGC
+date:
+  type: published
+  value: '2009-07-29'
+contributor:
+- person:
+    name:
+      completename: Genong (Eugene) Yu
+  role: author
+- person:
+    name:
+      completename: Liping Di
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-07-29'
+language: en
+script: Latn
+abstract:
+  content: This document discusses considerations about and recommendations for approaches
+    for georeferenceable imagery under the Sensor Web Enablement thread during OGC
+    Web Services Phase 6. This is an extension to the work described in the previous
+    engineering report number OGC 08-071 . Georeferencealbe imagery is “a referenceable
+    grid that has information that can be used to transform grid coordinates to external
+    coordinates, but the transformation shall not be required to be an affine transformation”.
+    Geolocation of georeferenceable imagery refers to the techniques described in
+    ISO 19130, such as sensor models, functional fit models, and spatial registration
+    using control points.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

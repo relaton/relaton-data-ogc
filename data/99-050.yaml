@@ -1,0 +1,46 @@
+---
+id: 99-050
+title:
+- type: title-main
+  content: OpenGIS Simple Features Implementation Specification for OLE/COM
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Simple Features Implementation Specification for OLE/COM
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=830
+  type: obp
+type: standard
+docid:
+  id: 99-050
+  type: OGC
+date:
+  type: published
+  value: '1999-05-18'
+contributor:
+- person:
+    name:
+      completename: TC Chair
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '1999-05-18'
+language: en
+script: Latn
+abstract:
+  content: The Simple Feature Specification application programming interfaces (APIs)
+    provide for publishing, storage, access, and simple operations on Simple Features
+    (point, line, polygon, multi-point, etc).
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

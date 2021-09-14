@@ -1,0 +1,67 @@
+---
+id: 18-046
+title:
+- type: title-main
+  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/18-046.html
+  type: obp
+type: standard
+docid:
+  id: 18-046
+  type: OGC
+date:
+  type: published
+  value: '2018-12-20'
+contributor:
+- person:
+    name:
+      completename: Ingo Simonis
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2018-12-20'
+language: en
+script: Latn
+abstract:
+  content: "The Earth Observation Exploitation Platform Hackathon 2018 was conducted
+    to evaluate the standards based architecture for deploying and executing arbitrary
+    applications close to the physical location of the data in heterogeneous cloud
+    environments. The Hackathon was very successful in demonstrating both efficiency
+    and sustainability of the architecture developed in Testbed-13. Efficient, because
+    it was possible to setup the full execution workflow of 128 Sentinel-1 images
+    within the 1.5 days of the Hackathon in a multi-vendor environment. Sustainable,
+    because the architectural approach provides sufficient flexibility to cater for
+    possible extensions and exchange of cloud & container middleware.\r\n\r\nThe Hackathon
+    produced a number of suggestions for future work items. These include new tools
+    to facilitate the process of Application Package generation to make it even simpler
+    for scientists to bring their applications to the market; a more detailed specification
+    to further improve the level of interoperability; and a best practice document
+    with lots of examples that illustrate the necessary steps to make applications
+    available.\r\n\r\nHackathon participants highlighted that such a level of robustness,
+    flexibility, and maturity of the application-to-the-cloud architecture has been
+    developed in nine months only during Testbed-13. The participants recommend to
+    continue interlacing major OGC Innovation Program activities, such as testbeds,
+    with short term rapid prototyping initiatives such as hackathons. Almost all participants
+    of the Hackathon had been new to the OGC Innovation Program. These participants
+    emphasized that the Hackathon provided an outstanding opportunity for newcomers
+    to get quickly familiar with the latest standardization efforts and helped tremendously
+    in understanding investments and new market opportunities for applications-in-the-cloud."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

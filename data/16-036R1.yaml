@@ -1,0 +1,58 @@
+---
+id: 16-036r1
+title:
+- type: title-main
+  content: Testbed-12 Big Data Database Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Big Data Database Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-036r1.html
+  type: obp
+type: standard
+docid:
+  id: 16-036r1
+  type: OGC
+date:
+  type: published
+  value: '2017-06-30'
+contributor:
+- person:
+    name:
+      completename: Christian Autermann
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2017-06-30'
+language: en
+script: Latn
+abstract:
+  content: "The amount of (geospatial) data collected and transferred is rapidly increasing.
+    The purpose of this ER is to describe options and recommendations for the delivery
+    of large amounts of data as database delivery. This ER therefore describes and
+    evaluates different aspects of this challenge:\r\n\r\nData management: How to
+    organize large amounts of data so that it can be efficiently accessed through
+    OGC service interfaces?\r\n\r\nEncoding: Transferring large amounts of vector
+    data in XML based formats (e.g. GML, O&M) leads to specific challenges as the
+    parsing of large XML files is often problematic.\r\n\r\nAvailable implementation:
+    Several software packages exist to handle large amounts of geospatial data. We
+    will investigate to which these approaches are in-line with OGC standards or how
+    standards compliance could be achieved.\r\n\r\nThe evaluation and findings in
+    the related Big Data Tile Database Implementation are documented in this ER as
+    well. The objective of this ER is to provide recommendations of how the delivery
+    of large amounts of raster data as database delivery can be considered within
+    OGC specifications and future activities."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

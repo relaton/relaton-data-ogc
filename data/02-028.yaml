@@ -1,0 +1,45 @@
+---
+id: 02-028
+title:
+- type: title-main
+  content: Sensor Collection Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Sensor Collection Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1141
+  type: obp
+type: standard
+docid:
+  id: 02-028
+  type: OGC
+date:
+  type: published
+  value: '2002-04-19'
+contributor:
+- person:
+    name:
+      completename: Tom  McCarty
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2002-04-19'
+language: en
+script: Latn
+abstract:
+  content: 'The basic function of the Sensor Collection Service (SCS) is to provide
+    a web-enabled interface to a sensor, collection of sensors or sensor proxy.  Sensors
+    are defined as devices that measure physical quantities. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

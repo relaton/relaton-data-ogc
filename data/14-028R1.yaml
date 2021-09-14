@@ -1,0 +1,58 @@
+---
+id: 14-028r1
+title:
+- type: title-main
+  content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and
+    WPS cases'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and
+    WPS cases'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=59618
+  type: obp
+type: standard
+docid:
+  id: 14-028r1
+  type: OGC
+date:
+  type: published
+  value: '2014-10-14'
+contributor:
+- person:
+    name:
+      completename: Edric Keighan
+  role: author
+- person:
+    name:
+      completename: Benjamin Pross
+  role: author
+- person:
+    name:
+      completename: Hervé Caumont
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2014-10-14'
+language: en
+script: Latn
+abstract:
+  content: 'This document characterizes the performance and scalability of OGC data
+    services in the Cloud. Three use cases highlighting different geo-processing aspects
+    of OGC data services have been developed, implemented, and benchmarked.  Each
+    use case is presented in a separate section of this document with performance
+    results and discussions.  '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

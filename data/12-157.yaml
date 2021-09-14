@@ -1,0 +1,58 @@
+---
+id: 12-157
+title:
+- type: title-intro
+  content: OGC® OWS-9 Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: OWS Innovations
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-part
+  content: Map Tiling Methods Harmonization
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® OWS-9 Engineering Report - OWS Innovations - Map Tiling Methods Harmonization
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=52757
+  type: obp
+type: standard
+docid:
+  id: 12-157
+  type: OGC
+date:
+  type: published
+  value: '2013-06-18'
+contributor:
+- person:
+    name:
+      completename: Joan Masó
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2013-06-18'
+language: en
+script: Latn
+abstract:
+  content: This engineering report proposes a profile for WMTS that limits the flexibility
+    or the standard and mimics what some other tile initiatives are doing. It also
+    proposes some improvements in WMTS to accommodate the need for requesting several
+    tiles of a region at different scales that has been identified by the GeoPackage
+    team. These recommendations help to better harmonize OSGeo tile standards and
+    mass-market technologies.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

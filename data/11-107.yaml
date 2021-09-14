@@ -1,0 +1,55 @@
+---
+id: 11-107
+title:
+- type: title-main
+  content: OGC  OWS-8 Domain Modelling Cookbook
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC  OWS-8 Domain Modelling Cookbook
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/11-107
+  type: obp
+type: standard
+docid:
+  id: 11-107
+  type: OGC
+date:
+  type: published
+  value: '2011-06-17'
+contributor:
+- person:
+    name:
+      completename: Rob Atkinson
+  role: author
+- person:
+    name:
+      completename: James Groffen
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2011-06-17'
+language: en
+script: Latn
+abstract:
+  content: "This OGCTM document describes best practices for building and maintaining
+    inter-related\r\ndomain models, which have dependencies upon multiple systems.
+    It describes how to\r\nbuild interoperable, maintainable domain models, the challenges
+    and pitfalls faced in\r\nbuilding these models, the techniques and patterns that
+    should be applied, and specific\r\ntools that can be used. The theory of domain
+    modelling is addressed, followed by\r\npractical step-by-step instructions on
+    how to use of the tools. Examples are provided from\r\nAeronautical Information
+    Exchange Model (AIXM) and Farm Markup Language\r\n(FarmML) as they were refined
+    in the OGC’s OWS-8 testbed."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,47 @@
+---
+id: 01-024r1
+title:
+- type: title-main
+  content: Web Registry Server
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web Registry Server
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1028
+  type: obp
+type: standard
+docid:
+  id: 01-024r1
+  type: OGC
+date:
+  type: published
+  value: '2001-01-26'
+contributor:
+- person:
+    name:
+      completename: Louis Reich
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2001-01-26'
+language: en
+script: Latn
+abstract:
+  content: A Registry Service defines a common mechanism to classify, register, describe,
+    search, maintain and access information about OGC Web resources. The OGC Service
+    Registry provides the methods for managing a repository; a Registry Client is
+    an application used to access the Registry.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

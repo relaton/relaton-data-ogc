@@ -1,0 +1,54 @@
+---
+id: 01-111
+title:
+- type: title-intro
+  content: Topic 11
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Metadata
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 11 - Metadata
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=26020
+  type: obp
+type: standard
+docid:
+  id: 01-111
+  type: OGC
+date:
+  type: published
+  value: '2001-06-08'
+contributor:
+- person:
+    name:
+      completename: ISO
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2001-06-08'
+language: en
+script: Latn
+abstract:
+  content: ISO 19115 was adopted as a replacement for OGC Abstract Specification Topics
+    9 and 11.  In June 2001, a motion to include material in addition to ISO 19115
+    was adopted as document 01-111 Metadata AS. The approved addition to document
+    01-111 is contained in document 01-053r1, which normatively references parts of
+    the old AS Topic 9, document 99-109r1. FGDC in conjunction with ANSI INCITS L1
+    are planning the migration of the FGDC Content Standard for Geospatial Metadata
+    to be a profile of ISO 19115
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

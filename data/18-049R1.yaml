@@ -1,0 +1,76 @@
+---
+id: 18-049r1
+title:
+- type: title-main
+  content: 'OGC Testbed-14: Application Package Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-14: Application Package Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/18-049r1.html
+  type: obp
+type: standard
+docid:
+  id: 18-049r1
+  type: OGC
+date:
+  type: published
+  value: '2019-02-07'
+contributor:
+- person:
+    name:
+      completename: Paulo Sacramento
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2019-02-07'
+language: en
+script: Latn
+abstract:
+  content: "This Engineering Report (ER) describes the work performed by the Participants
+    in the Exploitation Platforms Earth Observation Clouds (EOC) Thread of OGC Testbed-14
+    in regard to the Application Package (AP).\r\n\r\nThe AP serves as a means to
+    convey different kinds of information describing a certain application - often,
+    but not necessarily, an Earth Observation data processing algorithm - so that
+    different elements of an ecosystem generically known as an Exploitation Platform
+    can exchange information among themselves in a standard and interoperable way.
+    The AP guarantees that, despite potentially very heterogeneous implementations
+    and implementing entities, applications are treated equally. The AP also guarantees
+    that the Earth Observation scientist who developed it on the one hand is shielded
+    from infrastructure details and heterogeneity and on the other hand benefits from
+    the ability to execute the same application on different infrastructure.\r\n\r\nGiven
+    its suitability for conveying a Common Operating Picture (COP), in OGC Testbed-13
+    the OGC Web Services (OWS) Context standard had been chosen as the basic encoding
+    for the Application Package. Despite serious consideration, and while acknowledging
+    the advantages of that approach, the consensus among Participants was not to continue
+    along this path in Testbed-14 but instead to opt for an AP encoding, consisting
+    of a WPS-T (Transactional Web Processing Service (WPS)) DeployProcess message
+    encoded in JSON (see Chapter 9 for the rationale). The information model conveyed
+    in this manner does not differ significantly from the one that could be conveyed
+    using OWS Context, and its main, common features can be briefly listed as:\r\n\r\na
+    link to the application execution unit,\r\n\r\na description of the application’s
+    inputs and outputs,\r\n\r\nlinks to required Earth Observation data catalogues,\r\n\r\nand
+    the possibility to pass other auxiliary information.\r\n\r\nAn important difference
+    in Testbed-14 with respect to Testbed-13 is that the application execution unit
+    is not limited to a Docker container, but can also be a workflow described in
+    Common Workflow Language (CWL), something which stems directly from one of the
+    Sponsor requirements. Finally, it is important to note that this route does not
+    preclude from embedding an OWS Context structure in the enclosing DeployProcess
+    document if this is desired.\r\n\r\nStarting from the lessons learned and limitations
+    identified in Testbed-13, and embracing the new and changed Sponsor requirements,
+    this ER explains the trade-offs, decisions and conclusions taken by the Participants
+    throughout the project."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

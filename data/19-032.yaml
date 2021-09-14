@@ -1,0 +1,61 @@
+---
+id: 19-032
+title:
+- type: title-main
+  content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML
+    ADE ER'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML
+    ADE ER'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-032.html
+  type: obp
+type: standard
+docid:
+  id: 19-032
+  type: OGC
+date:
+  type: published
+  value: '2020-07-30'
+contributor:
+- person:
+    name:
+      completename: Steven Chau & Mohsen Kalantari
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-07-30'
+language: en
+script: Latn
+abstract:
+  content: "This document defines an Application Domain Extension (ADE) of CityGML
+    for public safety use cases. The ADE has been developed as part of OGC’s Indoor
+    Mapping and Modeling Pilot project sponsored by the National Institute of Standards
+    and Technology (NIST), Communications Technology Laboratory (CTL), Public Safety
+    Communications Research (PSCR) Division. The ADE has been developed primarily
+    based on reference preplan symbology created by the National Alliance for Public
+    Safety GIS (NAPSG) Foundation. NAPSG is a 501 (C) (3) not-for-profit organization
+    that was established in 2005 to overcome challenges faced by Federal, tribal,
+    state, and local public safety agencies in the United States. NAPSG focuses on
+    using GIS technology to resolve challenges that occur. In the definition of the
+    ADE, public safety requirements that were not explicit in NAPSG have also been
+    considered. This Engineering Report (ER) provides the methodology of the ADE development,
+    details the implementation of the ADE and its structure and the application of
+    the ADE in the context of public safety use cases.\r\n\r\nThe findings include:\r\n\r\nA
+    methodology to transform NAPSG symbology to data elements;\r\n\r\nA need for an
+    extension of a reference to four existing CityGML classes; and\r\n\r\nThe creation
+    of seven new CityGML classes that are critical for public safety use cases."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,52 @@
+---
+id: 05-019
+title:
+- type: title-main
+  content: Web 3D Service
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Web 3D Service
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=8869
+  type: obp
+type: standard
+docid:
+  id: 05-019
+  type: OGC
+date:
+  type: published
+  value: '2005-02-02'
+contributor:
+- person:
+    name:
+      completename: Udo Quadt
+  role: author
+- person:
+    name:
+      completename: Thomas Kolbe
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2005-02-02'
+language: en
+script: Latn
+abstract:
+  content: 'The Web 3D Service is a portrayal service for three-dimensional geodata,
+    delivering graphical elements from a given geographical area. In contrast to the
+    OGC Web Mapping service (WMS) and the OGC Web terrain service (WTS) 3D scene graphs
+    are produced. These scene graphs will be rendered by the client and can interactively
+    be explored by the user. The W3DS merges different types (layers) of 3D data in
+    one scene graph. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

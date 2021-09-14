@@ -1,0 +1,60 @@
+---
+id: '09-163r2'
+title:
+- type: title-main
+  content: sensorML Extension Package for ebRIM Application Profile
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: sensorML Extension Package for ebRIM Application Profile
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=37944
+  type: obp
+type: standard
+docid:
+  id: '09-163r2'
+  type: OGC
+date:
+  type: published
+  value: '2010-04-02'
+contributor:
+- person:
+    name:
+      completename: Fre&#769;de&#769;ric Houbie
+  role: author
+- person:
+    name:
+      completename: Fabian Skive&#769;e
+  role: author
+- person:
+    name:
+      completename: Simon Jirka
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2010-04-02'
+language: en
+script: Latn
+abstract:
+  content: "This document describes the mapping of description of sensors using SensorML
+    specification 1.0 [OGC 07-000] to an ebRIM structure within an OGCTM Catalogue
+    2.0.2 (Corrigendum 2 Release) [OGC 07-006r1] implementing the CSW-ebRIM Registry
+    Service – part 1: ebRIM profile of CSW [OGC 07-110r4].\r\nIn addition this document
+    contains the definition of a SensorML profile for Discovery which defines a minimum
+    set of metadata to be provided within SensorML documents as well as the structure
+    this data shall possess. This profile is based on the OGC OWS- 6 SensorML Profile
+    for Discovery Engineering Report [OGC 09-033].\r\nIt defines the way sensors metadata
+    are organized and implemented in the Catalogue for discovery, retrieval and management."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

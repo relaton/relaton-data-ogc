@@ -1,0 +1,58 @@
+---
+id: 19-070
+title:
+- type: title-main
+  content: OGC Testbed-15:Images and ChangesSet API Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Testbed-15:Images and ChangesSet API Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-070.html
+  type: obp
+type: standard
+docid:
+  id: 19-070
+  type: OGC
+date:
+  type: published
+  value: '2020-01-08'
+contributor:
+- person:
+    name:
+      completename: Joan Maso Pau
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-01-08'
+language: en
+script: Latn
+abstract:
+  content: "The OGC API – Images and Changeset draft specification addresses the use
+    case of an OGC API tile server that serves image tiles and a client that portrays
+    the result as a set of images. The tile server uses a set of images (e.g. a set
+    of remote sensing satellite scenes or a set of drone pictures) in the backend
+    and they are also accessible by an API - Images. The source images can be updated
+    and therefore the tile server also needs to be able to deliver only the tiles
+    that have changed. The draft specification is divided into two independent parts
+    that can be used in broader scenarios:\r\n\r\nThe OGC API – Images: Enables managing
+    (retrieving, creating and updating) sets of images that are georeferenced. The
+    images does not follow any tile scheme, and can partiallyor totally overlap. The
+    API enables a mosaicking use case (where the imagery is combined in a single bigger
+    “picture”) but could also serve a use case in which a moving camera is taking
+    pictures at locations along a route and then stores the images as a single collection.\r\n\r\nThe
+    Changeset filter: Enables filtering a request to a data service in a way that
+    only recent changes are delivered. It can be applied to OGC API that provide access
+    to data and in particular to the OGC API tiles."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

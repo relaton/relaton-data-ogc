@@ -1,0 +1,51 @@
+---
+id: 18-024r1
+title:
+- type: title-main
+  content: Release Notes for OGC GeoPackage Encoding Standard v1.2.1
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Release Notes for OGC GeoPackage Encoding Standard v1.2.1
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/18-024r1
+  type: obp
+type: standard
+docid:
+  id: 18-024r1
+  type: OGC
+date:
+  type: published
+  value: '2018-12-18'
+contributor:
+- person:
+    name:
+      completename: Jeff Yutzler
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2018-12-18'
+language: en
+script: Latn
+abstract:
+  content: "This document provides the set of revision notes for the existing GeoPackage
+    version 1.2.1 (OGC 12-128r15) and does not modify that standard.\r\n\r\nThis document
+    was approved by the OGC membership on approval date. As a result of the OGC Standards
+    Working Group (SWG) process, there were a number of edits and enhancements made
+    to this standard. This document provides the details of those edits, deficiency
+    corrections, and enhancements. It also documents those items that have been deprecated.
+    Finally, this document provides implementations details related to issues of backwards
+    compatibility."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

@@ -1,0 +1,50 @@
+---
+id: 12-119r1
+title:
+- type: title-main
+  content: 'OWS-9: OGC Mobile Apps: Definition, Requirements, and Information Architecture'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OWS-9: OGC Mobile Apps: Definition, Requirements, and Information Architecture'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=52272
+  type: obp
+type: standard
+docid:
+  id: 12-119r1
+  type: OGC
+date:
+  type: published
+  value: '2013-02-01'
+contributor:
+- person:
+    name:
+      completename: Ingo Simonis
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2013-02-01'
+language: en
+script: Latn
+abstract:
+  content: This engineering report represents the results of the OWS-9 innovations
+    thread on mobile applications. Initially, the goal was to help understanding the
+    requirements for developing standards-based geospatially-enabled mobile applications.
+    The report describes how OGC Enabled Mobile Apps can be integrated into information
+    architectures based on OGC standards. Particular emphasize has been put on the
+    future work section, as it provides valuable recommendations for further standardization
+    work (and, equally important, highlights aspects that could be excluded from standardization)
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,56 @@
+---
+id: 16-037
+title:
+- type: title-main
+  content: Testbed-12 GeoPackage US Topo Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 GeoPackage US Topo Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-037.html
+  type: obp
+type: standard
+docid:
+  id: 16-037
+  type: OGC
+date:
+  type: published
+  value: '2017-05-12'
+contributor:
+- person:
+    name:
+      completename: Robert Cass
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2017-05-12'
+language: en
+script: Latn
+abstract:
+  content: This OGC Engineering Report documents the outcome of the US Topo experiment.
+    The focus of the US Topo experiment was to generate GeoPackages by combining USGS
+    Topo Map Vector Data Products [1]; and the Topo TNM Style Template [2]. The output
+    GeoPackages will contain both features and instructions for styling these features
+    as well as orthoimagery, shaded relief raster tilesets, national wetlands raster
+    tilesets and elevation data derived from USGS provide 1/9 arc second elevation
+    imagery. The process used to generate the GeoPackage is explained. Problems and
+    obstacles encountered decoding the source product and styles and converting these
+    artifacts to a GeoPackage are explained with recommendations for improvements.
+    Additionally, the experience applying the generated GeoPackage in two use cases
+    proposed for this testbed will be evaluated. The introduction of symbolization
+    for vector features will be articulated as a proposed extension for GeoPackage.
+    Any issues related to encoding the TNM style template using the extension are
+    documented.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

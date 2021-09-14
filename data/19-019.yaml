@@ -1,0 +1,51 @@
+---
+id: 19-019
+title:
+- type: title-main
+  content: 'OGC Testbed-15: Portrayal Summary ER'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-15: Portrayal Summary ER'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/19-019.html
+  type: obp
+type: standard
+docid:
+  id: 19-019
+  type: OGC
+date:
+  type: published
+  value: '2020-02-07'
+contributor:
+- person:
+    name:
+      completename: Martin Klopfer
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-02-07'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Engineering Report provides an executive summary of the Open
+    Portrayal Framework (OPF) Thread in OGC Testbed-15. The work in this testbed occurred
+    between April and November 2019. Full details of the requirements, high-level
+    architecture, and solutions are provided in the following Engineering Reports:\r\n\r\nOGC
+    Testbed-15: Styles API Draft Specification Engineering Report\r\n\r\nOGC Testbed-15:
+    Encoding and Metadata Conceptual Model for Styles Engineering Report\r\n\r\nOGC
+    Testbed-15: Maps and Tiles API Draft Specification Engineering Report\r\n\r\nOGC
+    Testbed-15: Images and Change Sets Draft Specification Engineering Report\r\n\r\nOGC
+    Testbed-15: Open Portrayal Framework Engineering Report"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

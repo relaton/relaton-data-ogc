@@ -1,0 +1,45 @@
+---
+id: 05-117
+title:
+- type: title-main
+  content: Schema Maintenance and Tailoring
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Schema Maintenance and Tailoring
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=12893
+  type: obp
+type: standard
+docid:
+  id: 05-117
+  type: OGC
+date:
+  type: published
+  value: '2006-05-02'
+contributor:
+- person:
+    name:
+      completename: Clemens Portele
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2006-05-02'
+language: en
+script: Latn
+abstract:
+  content: Description of the schema tailoring process for the application schema
+    development in the decision support services thread (GeoDSS) during the OWS-3
+    initiative
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

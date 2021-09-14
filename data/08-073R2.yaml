@@ -1,0 +1,50 @@
+---
+id: '08-073r2'
+title:
+- type: title-main
+  content: Summary of the OGC Web Services, Phase 5 (OWS-5) Interoperability Testbed
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Summary of the OGC Web Services, Phase 5 (OWS-5) Interoperability Testbed
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=29426
+  type: obp
+type: standard
+docid:
+  id: '08-073r2'
+  type: OGC
+date:
+  type: published
+  value: '2008-09-12'
+contributor:
+- person:
+    name:
+      completename: Jessica Cook
+  role: author
+- person:
+    name:
+      completename: Raj Singh
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2008-09-12'
+language: en
+script: Latn
+abstract:
+  content: The OGC Web Services, Phase 5 (OWS-5) Testbed was an initiative of the
+    OGC Interoperability Program (IP). The primary focus of an IP activity is to collaboratively
+    extend and demonstrate OGC‘s baseline for geospatial interoperability.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

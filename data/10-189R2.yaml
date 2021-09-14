@@ -1,0 +1,55 @@
+---
+id: 10-189r2
+title:
+- type: title-main
+  content: Cataloguing Earth Observation Products for ebXML Registry Information Model
+    3.0 based Catalogues
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Cataloguing Earth Observation Products for ebXML Registry Information Model
+    3.0 based Catalogues
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=47409
+  type: obp
+type: standard
+docid:
+  id: 10-189r2
+  type: OGC
+date:
+  type: published
+  value: '2012-06-12'
+contributor:
+- person:
+    name:
+      completename: Frédéric Houbie; Fabian Skivee
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2012-06-12'
+language: en
+script: Latn
+abstract:
+  content: "This OGC® document specifies the Earth Observation Products Extension
+    Package for ebXML Registry Information Model 3.0, based on the [OGC 10-157r1]
+    Earth Observation Metadata profile of Observations and Measurements.\r\nIt enables
+    CSW-ebRIM catalogues to handle a variety of metadata pertaining to earth observation
+    p/roducts as defined in [OGC 10-157r1].\r\nThis proposed application profile document
+    describes model and encodings required to discover, search and present metadata
+    from catalogues of Earth Observation products. The profile presents a minimum
+    specification for catalogue interoperability within the EO domain, with extensions
+    for specific classes of metadata.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

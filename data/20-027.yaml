@@ -1,0 +1,50 @@
+---
+id: 20-027
+title:
+- type: title-main
+  content: 'OGC Testbed-16: Federated Security'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-16: Federated Security'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-027.html
+  type: obp
+type: standard
+docid:
+  id: 20-027
+  type: OGC
+date:
+  type: published
+  value: '2021-01-06'
+contributor:
+- person:
+    name:
+      completename: Craig A. Lee
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2021-01-06'
+language: en
+script: Latn
+abstract:
+  content: This OGC Testbed 16 Engineering Report (ER) examines all aspects of security
+    and trust in federated computing environments as defined in the NIST Cloud Federation
+    Reference Architecture [1]. The security and trust requirements are identified.
+    Then possible approaches for achieving security and trust are examined. These
+    approaches range from traditional methods for securing just the basic communications
+    among federated entities to the use of emerging security technologies including
+    federated roots of trust, trust frameworks, blockchain, data-centric security,
+    and zero trust architectures.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

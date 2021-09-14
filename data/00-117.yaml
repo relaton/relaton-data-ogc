@@ -1,0 +1,48 @@
+---
+id: 00-117
+title:
+- type: title-intro
+  content: Topic 17
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Location Based Mobile Services
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Topic 17 - Location Based Mobile Services
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=988
+  type: obp
+type: standard
+docid:
+  id: 00-117
+  type: OGC
+date:
+  type: published
+  value: '2000-05-15'
+contributor:
+- person:
+    name:
+      completename: Cliff Kottman
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2000-05-15'
+language: en
+script: Latn
+abstract:
+  content: Draft Abstract Spec for Location Based Services. Never formally adopted
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical

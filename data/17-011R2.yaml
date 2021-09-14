@@ -1,0 +1,51 @@
+---
+id: 17-011r2
+title:
+- type: title-main
+  content: JSON Encoding Rules SWE Common / SensorML
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: JSON Encoding Rules SWE Common / SensorML
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/bp/17-011r2/17-011r2.html
+  type: obp
+type: standard
+docid:
+  id: 17-011r2
+  type: OGC
+date:
+  type: published
+  value: '2018-01-18'
+contributor:
+- person:
+    name:
+      completename: Alex Robin
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2018-01-18'
+language: en
+script: Latn
+abstract:
+  content: "This document describes new JavaScript Object Notation (JSON) encodings
+    for the Sensor Web Enablement (SWE) Common Data Model and the Sensor Model Language
+    (SensorML). Rather than creating new JSON schemas, this document defines encoding
+    rules that allow auto-generation of JSON instances that conform to the Unified
+    Modeling Language (UML) models. Alternatively, the mappings given in the second
+    part of the document can be used to convert bi-directionally between XML and JSON
+    representations.\r\n\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

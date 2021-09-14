@@ -1,0 +1,50 @@
+---
+id: 20-095
+title:
+- type: title-main
+  content: Defence Geospatial Information Working Group (DGIWG) GeoTIFF/TIFF Profile
+    for Imagery & Gridded Data 2.3.1
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Defence Geospatial Information Working Group (DGIWG) GeoTIFF/TIFF Profile
+    for Imagery & Gridded Data 2.3.1
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/95763
+  type: obp
+type: standard
+docid:
+  id: 20-095
+  type: OGC
+date:
+  type: published
+  value: '2021-02-25'
+contributor:
+- person:
+    name:
+      completename: DGIWG
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2021-02-25'
+language: en
+script: Latn
+abstract:
+  content: "This OGC Best Practice was developed by the Defence Geospatial Information
+    Working Group to address defense and intelligence user community requirements.
+    As such, the Best Practice utilizes standardized military Coordinate Reference
+    System (CRS) definitions, which may not be applicable to other user communities.\r\nThis
+    Best Practice also defines a GEO_METADATA tag, which may be of more general interest.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

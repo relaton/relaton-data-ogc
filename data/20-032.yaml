@@ -1,0 +1,60 @@
+---
+id: 20-032
+title:
+- type: title-intro
+  content: OGC API
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Environmental Data Retrieval Sprint Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC API - Environmental Data Retrieval Sprint Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-032.html
+  type: obp
+type: standard
+docid:
+  id: 20-032
+  type: OGC
+date:
+  type: published
+  value: '2020-10-22'
+contributor:
+- person:
+    name:
+      completename: Chris Little
+  role: author
+- person:
+    name:
+      completename: Peng Yue
+  role: author
+- person:
+    name:
+      completename: Steve Olson
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-10-22'
+language: en
+script: Latn
+abstract:
+  content: The subject of this Engineering Report (ER) is a development Sprint that
+    was held from March 18-20, 2020 to advance the Open Geospatial Consortium (OGC)
+    Environmental Data Retrieval (EDR) Application Programming Interface (API) candidate
+    standard. Due to the widespread of the virus, the Sprint was held virtually by
+    using GoToMeeting teleconferencing facilities of OGC, email and GitHub.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

@@ -1,0 +1,56 @@
+---
+id: 07-056r1
+title:
+- type: title-main
+  content: The Specification Model -- Structuring an OGC specification to encourage
+    implementation
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: The Specification Model -- Structuring an OGC specification to encourage
+    implementation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=21976
+  type: obp
+type: standard
+docid:
+  id: 07-056r1
+  type: OGC
+date:
+  type: published
+  value: '2007-07-23'
+contributor:
+- person:
+    name:
+      completename: John Herring
+  role: author
+- person:
+    name:
+      completename: OAB
+  role: author
+- person:
+    name:
+      completename: Architecture WG
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2007-07-23'
+language: en
+script: Latn
+abstract:
+  content: 'This standard specifies some desirable characteristics of a standards
+    specification that will encourage implementations by minimizing difficulty and
+    optimizing usability and interoperability. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

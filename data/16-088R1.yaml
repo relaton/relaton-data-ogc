@@ -1,0 +1,56 @@
+---
+id: 16-088r1
+title:
+- type: title-main
+  content: OGC Soil Data Interoperability Experiment
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Soil Data Interoperability Experiment
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=69896
+  type: obp
+type: standard
+docid:
+  id: 16-088r1
+  type: OGC
+date:
+  type: published
+  value: '2016-07-26'
+contributor:
+- person:
+    name:
+      completename: Alistair Ritchie
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2016-07-26'
+language: en
+script: Latn
+abstract:
+  content: "This engineering report describes the results of the Soil Data Interoperability
+    Experiment\r\n(the IE) conducted under the auspices of the OGC Agriculture Domain
+    Working Group in\r\n2015. Soil data exchange and analysis is compromised by the
+    lack of a widely agreed\r\ninternational standard for the exchange of data describing
+    soils and the sampling and\r\nanalytical activities relating to them. Previous
+    modeling activities in Europe and\r\nAustralasia have not yielded models that
+    satisfy many of the data needs of global soil\r\nscientists, data custodians and
+    users. This IE evaluated existing models and proposed a\r\ncommon core model,
+    including a GML/XML schema, which was tested through the\r\ndeployment of OGC
+    web services and demonstration clients. IE time constraints and\r\nlimited participant
+    resources precluded extensive modeling activities. However, the\r\nresulting model
+    should form the core of a more comprehensive model to be developed by\r\na future
+    OGC Soil Data Standards Working Group."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

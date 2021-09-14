@@ -1,0 +1,66 @@
+---
+id: 11-063r6
+title:
+- type: title-main
+  content: OWS-8 Cross Community Interoperability (CCI) Semantic Mediation Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-8 Cross Community Interoperability (CCI) Semantic Mediation Engineering
+    Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=46342
+  type: obp
+type: standard
+docid:
+  id: 11-063r6
+  type: OGC
+date:
+  type: published
+  value: '2011-11-23'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role: author
+- person:
+    name:
+      completename: Roger Brackin
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '6'
+revdate: '2011-11-23'
+language: en
+script: Latn
+abstract:
+  content: "The OWS-8 Cross Community Interoperability (CCI) thread built on progress
+    made in the recent OWS-7 initiative to cover key technology areas that could not
+    be addressed within the scope of that initiative. The OWS-8 CCI thread aimed to
+    increase interoperability within communities sharing geospatial data, including
+    advancing of interoperability among heterogeneous data models, advancing strategies
+    to share styles to provide a more common and automated use of symbology, improvement
+    of KML, and advancing schema automation allowing communities to better share their
+    information artefacts. This OGC engineering report aims to present findings from
+    CCI thread activities towards advancement of semantic mediation involving data
+    retrieved from heterogeneous data models that are available through web services
+    conformant to OGC standards. \r\nThe engineering report will briefly introduce
+    relevant details of the semantic web and mediation. The document will make recommendations
+    on establishing a semantic mediation architecture that uses OGC web services and
+    emerging practice from the semantic web community. Based on the scenario adopted
+    by the CCI thread, the document will also discuss the pros and cons of adopting
+    relevant standards. The engineering report will offer recommendations on how specific
+    OGC standards may be adopted or modified in order to support semantic mediation.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

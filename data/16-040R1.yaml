@@ -1,0 +1,50 @@
+---
+id: 16-040r1
+title:
+- type: title-main
+  content: Testbed-12 Aviation Security Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Testbed-12 Aviation Security Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/per/16-040r1.html
+  type: obp
+type: standard
+docid:
+  id: 16-040r1
+  type: OGC
+date:
+  type: published
+  value: '2017-06-30'
+contributor:
+- person:
+    name:
+      completename: Aleksandar Balaban
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2017-06-30'
+language: en
+script: Latn
+abstract:
+  content: The information security is the state of being protected against the unauthorized
+    use of information and services, or the measures taken to achieve that. This report
+    has ben created as part of OGC Testbed 12 aviation thread and on behalf of sponsors
+    from FAA. It gives the readers an overview into the topic of cyber security in
+    the aviation domain, especially in conjunction with OGC compatible web services,
+    which are today de facto standard for aeronautical traffic System Wide Information
+    Management.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

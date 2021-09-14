@@ -1,0 +1,78 @@
+---
+id: 19-091r1
+title:
+- type: title-main
+  content: 'Built environment data standards and their integration: an analysis of
+    IFC, CityGML and LandInfra'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'Built environment data standards and their integration: an analysis of
+    IFC, CityGML and LandInfra'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=92634
+  type: obp
+type: standard
+docid:
+  id: 19-091r1
+  type: OGC
+date:
+  type: published
+  value: '2020-03-18'
+contributor:
+- person:
+    name:
+      completename: Thomas Gilbert
+  role: author
+- person:
+    name:
+      completename: Carsten Rönsdorf
+  role: author
+- person:
+    name:
+      completename: Jim Plume
+  role: author
+- person:
+    name:
+      completename: Scott Simmons
+  role: author
+- person:
+    name:
+      completename: Nick Nisbet
+  role: author
+- person:
+    name:
+      completename: Hans-Christoph Gruler
+  role: author
+- person:
+    name:
+      completename: Thom
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2020-03-18'
+language: en
+script: Latn
+abstract:
+  content: Demand for digital representations of built environments is accelerating
+    and can only be satisfied through greater software interoperability and data integration.
+    The objective of the Integrated Digital Built Environment (IDBE) joint working
+    group is to address this challenge by bringing together experts from the Open
+    Geospatial Consortium and buildingSMART to coordinate the development of the relevant
+    data standards. This document is an output from IDBE in which we describe the
+    state of three of the most prominent built environment standards – CityGML, IFC
+    and LandInfra – and describe some of the problems that hinder their integration;
+    finally, we propose actions points for overcoming these problems.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

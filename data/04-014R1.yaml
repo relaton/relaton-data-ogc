@@ -1,0 +1,48 @@
+---
+id: 04-014r1
+title:
+- type: title-main
+  content: OGC Technical Document Baseline
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Technical Document Baseline
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=5393
+  type: obp
+type: standard
+docid:
+  id: 04-014r1
+  type: OGC
+date:
+  type: published
+  value: '2004-04-22'
+contributor:
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- person:
+    name:
+      completename: George Percivall
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2004-04-22'
+language: en
+script: Latn
+abstract:
+  content: Spreadsheet of OGC Technical Document Baseline
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

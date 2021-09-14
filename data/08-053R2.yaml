@@ -1,0 +1,44 @@
+---
+id: '08-053r2'
+title:
+- type: title-main
+  content: WCS Processing Extension (WCPS) Abstract Test Suite
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: WCS Processing Extension (WCPS) Abstract Test Suite
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=32888
+  type: obp
+type: standard
+docid:
+  id: '08-053r2'
+  type: OGC
+date:
+  type: published
+  value: '2009-03-25'
+contributor:
+- person:
+    name:
+      completename: Peter Baumann
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2009-03-25'
+language: en
+script: Latn
+abstract:
+  content: ''
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

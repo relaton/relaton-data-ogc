@@ -1,0 +1,47 @@
+---
+id: 07-074
+title:
+- type: title-main
+  content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=22122
+  type: obp
+type: standard
+docid:
+  id: 07-074
+  type: OGC
+date:
+  type: published
+  value: '2008-09-08'
+contributor:
+- person:
+    name:
+      completename: Marwa Mabrouk
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2008-09-08'
+language: en
+script: Latn
+abstract:
+  content: 'This OpenGIS Interface Standard defines OpenGIS Location Services (OpenLS):
+    Core Services, Parts 1-5, which consists of the composite set of basic services
+    comprising the OpenLS Platform. This platform is also referred to as the GeoMobility
+    Server (GMS), an open location services platform.'
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

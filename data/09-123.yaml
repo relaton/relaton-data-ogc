@@ -1,0 +1,45 @@
+---
+id: '09-123'
+title:
+- type: title-main
+  content: GeoRM Role Model
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: GeoRM Role Model
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=35516
+  type: obp
+type: standard
+docid:
+  id: '09-123'
+  type: OGC
+date:
+  type: published
+  value: '2009-10-13'
+contributor:
+- person:
+    name:
+      completename: Roland M. Wagner
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-10-13'
+language: en
+script: Latn
+abstract:
+  content: The scope of this document is the update and the definition of GeoRM roles
+    as a sub model of the GDI.NRW reference model (process model and architecture
+    model). Key relationships are defined between these roles.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

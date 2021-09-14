@@ -1,0 +1,60 @@
+---
+id: 18-087r5
+title:
+- type: title-main
+  content: OGC Development of Disaster Spatial Data Infrastructures for Disaster Resilience
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Development of Disaster Spatial Data Infrastructures for Disaster Resilience
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/18-087r5
+  type: obp
+type: standard
+docid:
+  id: 18-087r5
+  type: OGC
+date:
+  type: published
+  value: '2018-12-18'
+contributor:
+- person:
+    name:
+      completename: Terry Idol
+  role: author
+- person:
+    name:
+      completename: Robert Thomas
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '5'
+revdate: '2018-12-18'
+language: en
+script: Latn
+abstract:
+  content: 'This report presents the results of a concept development study on Disasters
+    Interoperability, sponsored by US Geological Survey (USGS) and Federal Geographic
+    Data Committee (FGDC), and Department of Homeland Security (DHS), and executed
+    by the Open Geospatial Consortium (OGC). The focus of this study was to understand
+    how to best support the development of, or combination of SDI(s) for the use in
+    disasters, to advance the understanding of stakeholder issues, and serve stakeholders’
+    needs. The study included stakeholder engagements, workshops and open Request
+    for Information (RFI) that gathered external international positions and opinions
+    on the optimal setup and design of an SDI for disasters. The outflow of this report
+    will guide a series of interoperability pilots to address priority challenges
+    identified by the community in this study. The report follows the format and document
+    of the OGC Arctic Spatial Data Pilot; Phase 1 Report: Spatial Data Sharing for
+    the Arctic. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

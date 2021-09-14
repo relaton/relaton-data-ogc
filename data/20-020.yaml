@@ -1,0 +1,56 @@
+---
+id: 20-020
+title:
+- type: title-main
+  content: 'OGC Testbed-16: Aviation Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-16: Aviation Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-020.html
+  type: obp
+type: standard
+docid:
+  id: 20-020
+  type: OGC
+date:
+  type: published
+  value: '2021-01-13'
+contributor:
+- person:
+    name:
+      completename: Sergio Taleisnik
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2021-01-13'
+language: en
+script: Latn
+abstract:
+  content: "This Testbed-16 Aviation Engineering Report (ER) summarizes the implementations,
+    findings and recommendations that emerged from the efforts of further advancing
+    interoperability and usage of Linked Data within the Federal Aviation Administration
+    (FAA) System Wide Information Management (SWIM) context. The goal of this effort
+    was to experiment with OpenAPI and Linked Data to explore new ways for locating
+    and retrieving SWIM data in order to enable consumers to consume SWIM data more
+    easily in their business applications, and enable the discovery of additional
+    relevant information for their needs.\r\n\r\nSpecifically, this ER documents the
+    possibility of querying and accessing data (and its metadata) using Semantic Web
+    Technologies as well as interlinking heterogeneous semantic data sources available
+    on the Web. Together with an analysis on the potential for using OpenAPI-based
+    Application Programming Interface (API) definitions to simplify access to geospatial
+    information, an exploration of solutions for data distribution that complement
+    those currently used by SWIM is presented."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

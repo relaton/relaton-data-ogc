@@ -1,0 +1,85 @@
+---
+id: 16-120r3
+title:
+- type: title-main
+  content: OGC Moving Features Access
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Moving Features Access
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/is/16-120r3/16-120r3.html
+  type: obp
+type: standard
+docid:
+  id: 16-120r3
+  type: OGC
+date:
+  type: published
+  value: '2017-03-12'
+contributor:
+- person:
+    name:
+      completename: Hideki Hayashi
+  role: author
+- person:
+    name:
+      completename: Akinori Asahara
+  role: author
+- person:
+    name:
+      completename: Kyoung-Sook Kim
+  role: author
+- person:
+    name:
+      completename: Ryosuke Shibasaki
+  role: author
+- person:
+    name:
+      completename: Nobuhiro Ishimaru
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2017-03-12'
+language: en
+script: Latn
+abstract:
+  content: "This document defines Moving Features Access, i.e., access methods to
+    moving feature data for retrieving feature attributes, information on a relation
+    between a trajectory object and one or more geometry objects, and information
+    on a relation between two trajectory objects from a database storing trajectory
+    data of moving features.\r\n\r\nAbstract methods of accessing moving features
+    data are defined in ISO 19141:2008 (Geographic information - Schema for moving
+    features) [ISO 19141:2008]. However, the methods are insufficient to access a
+    database storing moving feature data from multiple sources. If implementations
+    for access to moving features data using various programming languages or protocols
+    (e.g., SQL, Java, and HTTP) are developed without any standards, these implementations
+    might be inconsistent with each other, resulting in poor interoperability. Therefore,
+    methods to access a database storing moving feature data are necessary to improve
+    interoperability.\r\n\r\nApplications using moving feature data, typically representing
+    vehicles or pedestrians, are rapidly increasing. Innovative applications are expected
+    to require the overlay and integration of moving feature data from different sources
+    to create greater social and business value. Moreover, systems relying on single-source
+    moving feature data are now evolving into more integrated systems. Integration
+    of moving feature data from different sources is a key to developing more innovative
+    and advanced applications.\r\n\r\nMoving Features Access ensures better data exchange
+    by handling and integrating moving feature data to broaden the market for geo-spatial
+    information such as Geospatial Big Data Analysis. OGC 14-083r2 (OGC® Moving Features
+    Encoding Part I: XML Core) [OGC 14-083r2] and OGC 14-084r2 (OGC® Moving Features
+    Encoding Extension: Simple Comma Separated Values (CSV)) [OGC 14-084r2] are existing
+    implementation standards. Moving Features Access uses these standards to encode
+    moving features."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

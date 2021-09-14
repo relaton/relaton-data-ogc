@@ -1,0 +1,47 @@
+---
+id: 06-107r1
+title:
+- type: title-main
+  content: Trusted Geo Services IPR
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Trusted Geo Services IPR
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=20859
+  type: obp
+type: standard
+docid:
+  id: 06-107r1
+  type: OGC
+date:
+  type: published
+  value: '2007-05-07'
+contributor:
+- person:
+    name:
+      completename: Cristian Opincaru
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2007-05-07'
+language: en
+script: Latn
+abstract:
+  content: 'The OGC Trusted Geo Services Interoperability Program Report (IPR) provides
+    guidance for the exchange of trusted messages between OGC Web Services and clients
+    for these services. It describes a trust model based on the exchange and brokering
+    of security tokens, as proposed by the OASIS WS-Trust specification [http://docs.oasis-open.org/ws-sx/ws-trust/200512]. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

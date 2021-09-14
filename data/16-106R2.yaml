@@ -1,0 +1,57 @@
+---
+id: 16-106r2
+title:
+- type: title-intro
+  content: 'OGC InfraGML 1.0: Part 6 – LandInfra Survey'
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: Encoding Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC InfraGML 1.0: Part 6 – LandInfra Survey - Encoding Standard'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=75123
+  type: obp
+type: standard
+docid:
+  id: 16-106r2
+  type: OGC
+date:
+  type: published
+  value: '2017-08-16'
+contributor:
+- person:
+    name:
+      completename: Hans-Christoph Gruler
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2017-08-16'
+language: en
+script: Latn
+abstract:
+  content: "This OGC InfraGML Encoding Standard presents the implementation-dependent,
+    GML encoding of concepts supporting land and civil engineering infrastructure
+    facilities specified in the OGC Land and Infrastructure Conceptual Model Standard
+    (LandInfra), OGC 15-111r1. Conceptual model subject areas include land features,
+    facilities, projects, alignment, road, railway, survey (including equipment, observations,
+    and survey results), land division, and condominiums.\r\nInfraGML is published
+    as a multi-part standard. This Part 6 addresses the Survey, Equipment, Observations
+    and Survey Results Requirements Classes from LandInfra."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

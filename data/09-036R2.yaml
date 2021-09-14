@@ -1,0 +1,51 @@
+---
+id: '09-036r2'
+title:
+- type: title-main
+  content: OWS-6 GeoXACML Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-6 GeoXACML Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=34976
+  type: obp
+type: standard
+docid:
+  id: '09-036r2'
+  type: OGC
+date:
+  type: published
+  value: '2009-07-24'
+contributor:
+- person:
+    name:
+      completename: Jan Herrmann
+  role: author
+- person:
+    name:
+      completename: Andreas Matheus
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2009-07-24'
+language: en
+script: Latn
+abstract:
+  content: 'The aim of this OGC Engineering Report is to show how to provide access
+    control for OGC Web Services (OWS). In the first part of this document we will
+    briefly introduce the relevant details of XACML 2.0, OGC GeoXACML 1.0 and some
+    related profiles. '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

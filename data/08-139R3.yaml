@@ -1,0 +1,54 @@
+---
+id: '08-139r3'
+title:
+- type: title-main
+  content: PDF Geo-registration Encoding Best Practice Version 2.2
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: PDF Geo-registration Encoding Best Practice Version 2.2
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=40537
+  type: obp
+type: standard
+docid:
+  id: '08-139r3'
+  type: OGC
+date:
+  type: published
+  value: '2011-01-17'
+contributor:
+- person:
+    name:
+      completename: George Demmy
+  role: author
+- person:
+    name:
+      completename: Carl Reed
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2011-01-17'
+language: en
+script: Latn
+abstract:
+  content: The intended audience of this document is a developer of software for creating
+    and consuming geo=registered PDF documents that conform to PDF geo-registration
+    2.2. It specifies how to create the necessary PDF objects that identify a region
+    of the PDF page as a map and describe the map’s coordinate systems. Map creation
+    and rendering to a PDF page are not addressed. The underlying PDF file format
+    is not addressed. The file format is specified in PDF Reference[1] .
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

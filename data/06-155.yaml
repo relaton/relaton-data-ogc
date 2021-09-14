@@ -1,0 +1,57 @@
+---
+id: 06-155
+title:
+- type: title-main
+  content: OWS-4 CSW ebRIM Modelling Guidelines IPR
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-4 CSW ebRIM Modelling Guidelines IPR
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=20430
+  type: obp
+type: standard
+docid:
+  id: 06-155
+  type: OGC
+date:
+  type: published
+  value: '2007-06-06'
+contributor:
+- person:
+    name:
+      completename: Tim Wilson
+  role: author
+- person:
+    name:
+      completename: Renato Primavera
+  role: author
+- person:
+    name:
+      completename: Panagiotis (Peter) A. Vretanos
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2007-06-06'
+language: en
+script: Latn
+abstract:
+  content: The OWS-4 CSW ebRIM Modelling Guidelines Interoperability Program Report
+    (IPR) provides guidance for creating a standard methodology for mapping geospatial
+    domain information models to ebRIM [www.oasis-open.org/committees/regrep/documents/2.0/specs/ebrim.pdf].
+    It also presents the results of mapping specific Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
+    and Feature Catalog domain models to ebRIM for use with OpenGIS Catalog Service
+    Standard [http://www.opengeospatial.org/standards/cat] implementations in the
+    OWS-4 Initiative [http://www.opengeospatial.org/projects/initiatives/ows-4].
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

@@ -1,0 +1,47 @@
+---
+id: '08-050'
+title:
+- type: title-main
+  content: OpenGIS Web Map Context Documents Corrigendum 1
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Web Map Context Documents Corrigendum 1
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=27286
+  type: obp
+type: standard
+docid:
+  id: '08-050'
+  type: OGC
+date:
+  type: published
+  value: '2008-05-02'
+contributor:
+- person:
+    name:
+      completename: Tom Kralidis
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2008-05-02'
+language: en
+script: Latn
+abstract:
+  content: This document provides the details for a corrigendum for the existing OpenGIS
+    Standard for the Web Map Context Documents version 1.1.0 and does not modify that
+    standard. The current OpenGIS IS that this document provides revision notes for
+    is 05-005. This document is a corrigendum to 05-005.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

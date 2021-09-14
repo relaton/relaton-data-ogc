@@ -1,0 +1,62 @@
+---
+id: 19-042r1
+title:
+- type: title-intro
+  content: Discussion Paper
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: JSON Encodings for EO Coverages
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Discussion Paper - JSON Encodings for EO Coverages
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://docs.opengeospatial.org/dp/19-042r1.html
+  type: obp
+type: standard
+docid:
+  id: 19-042r1
+  type: OGC
+date:
+  type: published
+  value: '2019-11-11'
+contributor:
+- person:
+    name:
+      completename: Lewis John McGibbney
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2019-11-11'
+language: en
+script: Latn
+abstract:
+  content: "This discussion paper documents and concludes one year (2018-2019) of
+    work undertaken by a National Aeronautics and Space Administration (NASA) Earth
+    Science Data System Working Group focused on exploring JSON Encodings in Earth
+    Observation Coverages. The primary function of this paper is to ensure that the
+    collective Working Group knowledge obtained from the year effort is not lost and
+    consequently that it can be considered, debated and hopefully utilized in other
+    forums outside of NASA with the aim of driving progress in this field. The covering
+    statement (below) provides 10 questions which are meant to facilitate such discussion.\r\n\r\nThis
+    discussion paper will be of particular interest to the following parties:\r\n\r\nWeb
+    application developers tasked with designing and developing applications which
+    consume Earth Observation spatial data encoded as JSON.\r\n\r\nParties (including
+    standards bodies) interested in serving and consuming Spatial data on the Web
+    e.g. World Wide Web Consortium (W3C), Open Geospatial Consortium (OGC) or developers
+    of other data standards, etc."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

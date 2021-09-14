@@ -1,0 +1,47 @@
+---
+id: 11-096
+title:
+- type: title-main
+  content: OWS-8 WCS 2.0 Earth Observation Application Profile Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-8 WCS 2.0 Earth Observation Application Profile Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=45404
+  type: obp
+type: standard
+docid:
+  id: 11-096
+  type: OGC
+date:
+  type: published
+  value: '2011-11-23'
+contributor:
+- person:
+    name:
+      completename: Stephan Meissl
+  role: author
+- person:
+    name:
+      completename: Peter Baumann
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2011-11-23'
+language: en
+script: Latn
+abstract:
+  content: This Engineering Report describes progress on EO-WCS in the course of OWS-8.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

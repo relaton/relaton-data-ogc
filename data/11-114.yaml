@@ -1,0 +1,52 @@
+---
+id: 11-114
+title:
+- type: title-main
+  content: OWS-8 Bulk Geodata Transfer with File Geodatabase
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-8 Bulk Geodata Transfer with File Geodatabase
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=45754
+  type: obp
+type: standard
+docid:
+  id: 11-114
+  type: OGC
+date:
+  type: published
+  value: '2011-11-16'
+contributor:
+- person:
+    name:
+      completename: David Danko
+  role: author
+- person:
+    name:
+      completename: Lance Shipman
+  role: author
+- person:
+    name:
+      completename: Paul Ramsey
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2011-11-16'
+language: en
+script: Latn
+abstract:
+  content: This document provides an overview of the File Geodatabase  API and documents
+    the testing performed in the OWS 8 Testbed.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

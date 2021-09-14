@@ -1,0 +1,52 @@
+---
+id: 06-098
+title:
+- type: title-intro
+  content: 'Change Request: WCS: Proposal for WCS Transactional'
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: WCS-T
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'Change Request: WCS: Proposal for WCS Transactional - WCS-T'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=20257
+  type: obp
+type: standard
+docid:
+  id: 06-098
+  type: OGC
+date:
+  type: published
+  value: '2007-08-13'
+contributor:
+- person:
+    name:
+      completename: Michael Gerlek
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2007-08-13'
+language: en
+script: Latn
+abstract:
+  content: 'Version 1.0 of the Web Coverage Service (WCS) Specification does not address
+    how coverage data gets added to or deleted from a server; it is assumed that some
+    implementation-specific process exists for handling this, likely on the back end
+    (server-side).  One of the goals of OWS-4 was to extend WCS to support these operations,
+    generally referred to as '
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: change-request-supporting-document
+editorialgroup:
+  committee: technical

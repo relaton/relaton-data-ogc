@@ -1,0 +1,51 @@
+---
+id: '09-033'
+title:
+- type: title-main
+  content: OWS-6 SensorML Profile for Discovery Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-6 SensorML Profile for Discovery Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=33284
+  type: obp
+type: standard
+docid:
+  id: '09-033'
+  type: OGC
+date:
+  type: published
+  value: '2009-07-29'
+contributor:
+- person:
+    name:
+      completename: Simon Jirka
+  role: author
+- person:
+    name:
+      completename: Arne Bröring
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2009-07-29'
+language: en
+script: Latn
+abstract:
+  content: This document defines a basic SensorML profile for discovery purposes.
+    Besides a minimum set of metadata also the structure of according SensorML documents
+    is defined in order to ensure a consistent metadata description. This goal is
+    achieved by a set of Schematron rules that can be used to validate if a given
+    SensorML document complies with the profile described in this engineering report.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

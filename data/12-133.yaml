@@ -1,0 +1,56 @@
+---
+id: 12-133
+title:
+- type: title-main
+  content: OGC® Web Services Facade for OGC IP Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Web Services Facade for OGC IP Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=51178
+  type: obp
+type: standard
+docid:
+  id: 12-133
+  type: OGC
+date:
+  type: published
+  value: '2014-08-22'
+contributor:
+- person:
+    name:
+      completename: John Hudson
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2014-08-22'
+language: en
+script: Latn
+abstract:
+  content: "This document describes the Web Services Façade which was developed by
+    LISAsoft as part of the OWS-9 testbed. The document also includes discussions
+    about lessons learned during the development, and suggestions for future development.\r\nThis
+    Engineering Report documents the Web Services Façade work done within OWS-9 as
+    an extensible, open source tool, which supports translations between different
+    protocols for a specific web service. For the OWS-9 testbed, it has been set up
+    to translate between POST and SOAP services for a Web Feature Service. However,
+    it can be configured to support translations between multiple protocols, such
+    as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\nThe
+    Web Services Façade is an extensible, open source tool, which supports translations
+    between different protocols for a specific web service. For the OWS-9 testbed,
+    it has been set up to translate between POST and SOAP services for a Web Feature
+    Service. However, it can be configured to support translations between multiple
+    protocols, such as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

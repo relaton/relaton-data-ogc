@@ -1,0 +1,49 @@
+---
+id: '09-046r5'
+title:
+- type: title-main
+  content: 'OGC Naming Authority – Policies and Procedures '
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Naming Authority – Policies and Procedures '
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.opengeospatial.org/pol/09-046r5.html
+  type: obp
+type: standard
+docid:
+  id: '09-046r5'
+  type: OGC
+date:
+  type: published
+  value: '2019-10-31'
+contributor:
+- person:
+    name:
+      completename: Simon Cox
+  role: author
+- person:
+    name:
+      completename: Gobe Hobona
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '5'
+revdate: '2019-10-31'
+language: en
+script: Latn
+abstract:
+  content: This document describes the procedures used by the OGC Naming Authority
+    for the assignment and registration of OGC names.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+editorialgroup:
+  committee: technical

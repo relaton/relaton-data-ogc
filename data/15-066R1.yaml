@@ -1,0 +1,61 @@
+---
+id: 15-066r1
+title:
+- type: title-main
+  content: 'OGC® Testbed 11 Use of Semantic Linked Data with RDF for National Map
+    NHD and Gazetteer Data Engineering Report '
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC® Testbed 11 Use of Semantic Linked Data with RDF for National Map
+    NHD and Gazetteer Data Engineering Report '
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=64173
+  type: obp
+type: standard
+docid:
+  id: 15-066r1
+  type: OGC
+date:
+  type: published
+  value: '2015-10-01'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona;Roger Brackin
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '1'
+revdate: '2015-10-01'
+language: en
+script: Latn
+abstract:
+  content: Over the past few years there has been an increase in the number, size
+    and complexity of databases across government sectors. This has undoubtedly created
+    challenges relating to the discovery and access of information and services on
+    multiple databases across static and deployed networks. Linked Data has been suggested
+    as a method able to tackle those challenges. The aim of the Hydrographic Linked
+    Data activity in the OGC Testbed 11 was to advance the use of Linked Data for
+    hydrographic data by building on the achievements of the previous testbeds and
+    to improve the understanding of how to better build relations between hydro features
+    and non-hydro features (e.g., stream gauge measurement/location vs bridge or other
+    built features upstream or downstream). This aspect of the testbed focused on
+    the National Hydrography Dataset (NHD) which is published by the United States
+    Geological Survey (USGS). This OGC Engineering Report provides guidelines on the
+    publication of hydrographic and hydrological data serialized as Resource Description
+    Framework (RDF) using Linked Data principles and technologies based on OGC standards.
+    The document also presents the experimentation conducted by Testbed 11 in order
+    to identify those guidelines.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

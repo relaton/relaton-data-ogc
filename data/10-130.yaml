@@ -1,0 +1,53 @@
+---
+id: 10-130
+title:
+- type: title-intro
+  content: OWS-7 Aviation
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: FUSE Deployment Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OWS-7 Aviation - FUSE Deployment Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=40114
+  type: obp
+type: standard
+docid:
+  id: 10-130
+  type: OGC
+date:
+  type: published
+  value: '2010-08-18'
+contributor:
+- person:
+    name:
+      completename: Debbie Wilson
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2010-08-18'
+language: en
+script: Latn
+abstract:
+  content: This document describes the integration results of deploying OGC Web Services
+    on the FAA chosen Enterprise Service Bus (ESB) - FUSE. Snowflake Software were
+    commissioned to evaluate the impacts of the FAA SWIM security requirements for
+    both secure messaging and user authentication and gain an understanding of the
+    requirements for deploying OGC web services into the Apache FUSE Enterprise Service
+    Bus (ESB).
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

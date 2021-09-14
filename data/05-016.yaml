@@ -1,0 +1,52 @@
+---
+id: 05-016
+title:
+- type: title-main
+  content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=8836
+  type: obp
+type: standard
+docid:
+  id: 05-016
+  type: OGC
+date:
+  type: published
+  value: '2005-05-02'
+contributor:
+- person:
+    name:
+      completename: Marwa Mabrouk
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2005-05-02'
+language: en
+script: Latn
+abstract:
+  content: "The OpenGIS® Open Location Services Interface Standard (OpenLS) specifies
+    interfaces that enable companies in the Location Based Services (LBS) value chain
+    to “hook up” and provide their pieces of applications such as emergency response
+    (E-911, for example), personal navigator, traffic information service, proximity
+    service, location recall, mobile field service, travel directions, restaurant
+    finder, corporate asset locator, concierge, routing, vector map portrayal and
+    interaction, friend finder, and geography voice-graphics. These applications are
+    enabled by interfaces that implement OpenLS services such as a Directory Service,
+    Gateway Service, Geocoder Service, Presentation (Map Portrayal) Service and others.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

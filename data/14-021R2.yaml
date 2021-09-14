@@ -1,0 +1,58 @@
+---
+id: 14-021r2
+title:
+- type: title-main
+  content: OGC® Testbed 10 CCI Profile Interoperability Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC® Testbed 10 CCI Profile Interoperability Engineering Report
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=57336
+  type: obp
+type: standard
+docid:
+  id: 14-021r2
+  type: OGC
+date:
+  type: published
+  value: '2014-04-28'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role: author
+- person:
+    name:
+      completename: Roger Brackin
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2014-04-28'
+language: en
+script: Latn
+abstract:
+  content: "This Engineering Report was prepared as a deliverable for OGC Testbed
+    10, an initiative of the OGC Interoperability Program. The document presents the
+    work completed with respect to the Cross Community Interoperability (CCI) thread
+    within the testbed. The work has been commissioned in order to inform geospatial
+    information frameworks of the Defence Geospatial Information Working Group (DGIWG),
+    National System for Geospatial Intelligence (NSG) of the US National Geospatial
+    Intelligence Agency (NGA) and the UK Ministry of Defence (MOD).\r\nThe Engineering
+    Report presents an analysis and assessment of interoperability between DGIWG,
+    NSG and UK MOD profiles of Web Map Service (WMS) and Web Feature Service (WFS)
+    standards of the OGC. The engineering report also presents findings from the implementation
+    of the reference profiles.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

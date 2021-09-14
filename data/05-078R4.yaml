@@ -1,0 +1,58 @@
+---
+id: 05-078r4
+title:
+- type: title-main
+  content: OpenGIS Styled Layer Descriptor Profile of the Web Map Service Implementation
+    Specification
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OpenGIS Styled Layer Descriptor Profile of the Web Map Service Implementation
+    Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=22364
+  type: obp
+type: standard
+docid:
+  id: 05-078r4
+  type: OGC
+date:
+  type: published
+  value: '2007-08-14'
+contributor:
+- person:
+    name:
+      completename: Markus Lupp
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '4'
+revdate: '2007-08-14'
+language: en
+script: Latn
+abstract:
+  content: "The OpenGIS® Styled Layer Descriptor (SLD) Profile of the OpenGIS® Web
+    Map Service (WMS) Encoding Standard [http://www.opengeospatial.org/standards/wms]
+    defines an encoding that extends the WMS standard to allow user-defined symbolization
+    and coloring of geographic feature[http://www.opengeospatial.org/ogc/glossary/f]
+    and coverage[http://www.opengeospatial.org/ogc/glossary/c] data. \r\n\r\nSLD  addresses
+    the need for users and software to be able to control the visual portrayal of
+    the geospatial data. The ability to define styling rules requires a styling language
+    that the client and server can both understand. The OpenGIS® Symbology Encoding
+    Standard (SE) [http://www.opengeospatial.org/standards/symbol] provides this language,
+    while the SLD profile of WMS enables application of SE to WMS layers using extensions
+    of WMS operations. Additionally, SLD defines an operation for standardized access
+    to legend symbols.\r\n\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

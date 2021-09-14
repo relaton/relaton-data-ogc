@@ -1,0 +1,44 @@
+---
+id: 01-019
+title:
+- type: title-main
+  content: XML for Image and map Annotation
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: XML for Image and map Annotation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1020
+  type: obp
+type: standard
+docid:
+  id: 01-019
+  type: OGC
+date:
+  type: published
+  value: '2001-02-06'
+contributor:
+- person:
+    name:
+      completename: John Evans
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2001-02-06'
+language: en
+script: Latn
+abstract:
+  content: Defines an XML vocabulary to encode annotations on imagery, maps, and other
+    geospatial data. This vocabulary draws on the Geography Markup Language (OpenGIS
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

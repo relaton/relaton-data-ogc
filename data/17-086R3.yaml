@@ -1,0 +1,60 @@
+---
+id: 17-086r3
+title:
+- type: title-main
+  content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
+    Extension'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
+    Extension'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/is/17-086r3/17-086r3.html
+  type: obp
+type: standard
+docid:
+  id: 17-086r3
+  type: OGC
+date:
+  type: published
+  value: '2021-03-22'
+contributor:
+- person:
+    name:
+      completename: Peter Trevelyan
+  role: author
+- person:
+    name:
+      completename: Paul Hershberg
+  role: author
+- person:
+    name:
+      completename: Steve Olson
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '3'
+revdate: '2021-03-22'
+language: en
+script: Latn
+abstract:
+  content: "The purpose of the GetPolygon operation is to extract data contained within
+    a polygon defined either by a set of points or the radius and position of a circle
+    point. The need for the GetPolygon operation stems from active members of the
+    OGC MetOcean Domain Working Group (DWG) who saw a manifest need for extraction
+    of such information from gridded datasets.\r\n\r\nThis work has been done by members
+    of the OGC MetOcean Domain Working Group."
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical

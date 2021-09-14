@@ -1,0 +1,43 @@
+---
+id: 01-036
+title:
+- type: title-main
+  content: Gazetteer
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Gazetteer
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=1041
+  type: obp
+type: standard
+docid:
+  id: 01-036
+  type: OGC
+date:
+  type: published
+  value: '2001-03-15'
+contributor:
+- person:
+    name:
+      completename: Rob Atkinson
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2001-03-15'
+language: en
+script: Latn
+abstract:
+  content: An authority for place names. Returns their associated geometries
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

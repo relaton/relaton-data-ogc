@@ -1,0 +1,40 @@
+---
+id: 12-006
+title:
+- type: title-intro
+  content: OGC Sensor Observation Service (SOS)
+  language: en
+  script: Latn
+  format: text/plain
+- type: title-main
+  content: SOAP
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC Sensor Observation Service (SOS) - SOAP
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: ''
+  type: obp
+type: standard
+docid:
+  id: 12-006
+  type: OGC
+contributor:
+  organization:
+    name: Open Geospatial Consortium
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: ''
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: other
+editorialgroup:
+  committee: technical

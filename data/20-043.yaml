@@ -1,0 +1,61 @@
+---
+id: 20-043
+title:
+- type: title-main
+  content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna
+    Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna
+    Engineering Report'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://docs.ogc.org/per/20-043.html
+  type: obp
+type: standard
+docid:
+  id: 20-043
+  type: OGC
+date:
+  type: published
+  value: '2020-10-22'
+contributor:
+- person:
+    name:
+      completename: Stefan Achtsnit
+  role: author
+- person:
+    name:
+      completename: Joachim Ungar
+  role: author
+- person:
+    name:
+      completename: and Stephan Meißl (EOX)
+  role: author
+- person:
+    name:
+      completename: Anja Vrecko and Grega Milčinski (Sinergise)
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+revdate: '2020-10-22'
+language: en
+script: Latn
+abstract:
+  content: This Engineering Report documents findings, achievements, and learnings
+    gained through activities during the OGC Earth Observation (EO) Applications Pilot
+    by the EOX team (EOX, DLR, UVT, Sinergise, and Terrasigna). Both perspectives,
+    from application developer’s as well as from platform provider’s view, are represented
+    here.
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

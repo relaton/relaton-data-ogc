@@ -1,0 +1,52 @@
+---
+id: 12-084r2
+title:
+- type: title-main
+  content: OGC OWS Context Atom Encoding Standard
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: OGC OWS Context Atom Encoding Standard
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://portal.ogc.org/files/?artifact_id=55183
+  type: obp
+type: standard
+docid:
+  id: 12-084r2
+  type: OGC
+date:
+  type: published
+  value: '2014-01-14'
+contributor:
+- person:
+    name:
+      completename: Roger Brackin
+  role: author
+- person:
+    name:
+      completename: 'Pedro Gonçalves '
+  role: author
+- organization:
+    name: Open Geospatial Consortium
+  role: publisher
+edition: '2'
+revdate: '2014-01-14'
+language: en
+script: Latn
+abstract:
+  content: "This standard describes the Atom encoding of the OWC Context conceptual
+    model. The goal of this standard is to provide a definition of how to encode a
+    context document, which can be extended to allow a context referencing a fully
+    configured service set to be defined and consistently interpreted by clients.\r\n"
+  language: en
+  script: Latn
+  format: text/plain
+fetched: '2021-09-14'
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
