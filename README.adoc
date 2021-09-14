@@ -1,0 +1,7 @@
+= Publications bibliographic data for Relaton-OGC
+
+This repository is used by Relaton-OGC to represent known publications.
+
+Data is stored in Relaton YAML format.
+
+This repository contains a script which runs daly. The script converts file https://raw.githubusercontent.com/opengeospatial/NamingAuthority/master/incubation/bibliography/bibliography.json and store documents into the data directory.
