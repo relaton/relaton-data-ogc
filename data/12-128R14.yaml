@@ -2,12 +2,12 @@
 id: 12-128r14
 title:
 - type: title-main
-  content: 'OGC® GeoPackage Encoding Standard: Tiled Gridded Elevation Data'
+  content: OGC® GeoPackage Encoding Standard
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: 'OGC® GeoPackage Encoding Standard: Tiled Gridded Elevation Data'
+  content: OGC® GeoPackage Encoding Standard
   language: en
   script: Latn
   format: text/plain
@@ -48,6 +48,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

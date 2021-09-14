@@ -2,12 +2,12 @@
 id: 06-042
 title:
 - type: title-main
-  content: OpenGIS Web Map Service Client (Queryable) (WMS) Implementation Specification
+  content: OpenGIS Web Map Service (WMS) Implementation Specification
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: OpenGIS Web Map Service Client (Queryable) (WMS) Implementation Specification
+  content: OpenGIS Web Map Service (WMS) Implementation Specification
   language: en
   script: Latn
   format: text/plain
@@ -45,6 +45,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

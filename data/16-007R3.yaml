@@ -12,7 +12,7 @@ title:
   script: Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/16-007r3
+  content: https://portal.ogc.org/files/?artifact_id=72723
   type: obp
 type: standard
 docid:
@@ -20,35 +20,39 @@ docid:
   type: OGC
 date:
   type: published
-  value: '2018-12-19'
+  value: '2017-02-23'
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename: Sara Saeedi
   role: author
 - organization:
     name: Open Geospatial Consortium
   role: publisher
 edition: '3'
-revdate: '2018-12-19'
+revdate: '2017-02-23'
 language: en
 script: Latn
 abstract:
-  content: The CDB standard defines a standardized model and structure for a single,
-    versionable, virtual representation of the earth. A CDB structured data store
-    provides for a geospatial content and model definition repository that is plug-and-play
-    interoperable between database authoring workstations. Moreover, a CDB structured
-    data store can be used as a common online (or runtime) repository from which various
-    simulator client-devices can simultaneously retrieve and modify, in real-time,
-    relevant information to perform their respective runtime simulation tasks. In
-    this case, a CDB is plug-and-play interoperable between CDB-compliant simulators.
-    A CDB can be readily used by existing simulation client-devices (legacy Image
-    Generators, Radar simulator, Computer Generated Forces, etc.) through a data publishing
-    process that is performed on-demand in real-time.
+  content: 'This Open Geospatial Consortium (OGC) standard defines the conceptual
+    model for the OGC CDB 1.0 Standard. The objective of this document is to provide
+    an abstract core conceptual model for a CDB data store (repository). The model
+    is represented using UML (unified modeling language). The conceptual model is
+    comprised of concepts, schema, classes and categories as well as their relationships,
+    which are used to understand, and/or represent an OGC CDB data store. This enables
+    a comparison and description of the CDB data store structure on a more detailed
+    level. This document was created by reverse-engineering a UML model and documentation
+    from the OGC CDB standard as a basis for supporting OGC interoperability. One
+    of the important roles of this conceptual model is to provide a UML model that
+    is consistent with the other OGC standards and to identify functional gaps between
+    the current CDB data store and the OGC standards baseline.  This document references
+    sections of Volume 1: OGC CDB Core Standard: Model and Physical Database Structure
+    [OGC 15-113].'
   language: en
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

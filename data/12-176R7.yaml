@@ -7,12 +7,12 @@ title:
   script: Latn
   format: text/plain
 - type: title-main
-  content: HTTP Protocol Binding (OpenSearch)
+  content: HTTP Protocol Binding
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: OGC® Catalogue Services 3.0 Specification - HTTP Protocol Binding (OpenSearch)
+  content: OGC® Catalogue Services 3.0 Specification - HTTP Protocol Binding
   language: en
   script: Latn
   format: text/plain
@@ -74,6 +74,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

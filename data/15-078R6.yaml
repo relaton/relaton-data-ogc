@@ -2,12 +2,12 @@
 id: 15-078r6
 title:
 - type: title-main
-  content: OGC SensorThings API Create-Update-Delete
+  content: 'OGC SensorThings API Part 1: Sensing'
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: OGC SensorThings API Create-Update-Delete
+  content: 'OGC SensorThings API Part 1: Sensing'
   language: en
   script: Latn
   format: text/plain
@@ -54,6 +54,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

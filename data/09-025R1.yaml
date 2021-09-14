@@ -1,18 +1,13 @@
 ---
 id: '09-025r1'
 title:
-- type: title-intro
-  content: OpenGIS Web Feature Service
-  language: en
-  script: Latn
-  format: text/plain
 - type: title-main
-  content: Locking
+  content: OpenGIS Web Feature Service 2.0 Interface Standard (also ISO 19142)
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: OpenGIS Web Feature Service - Locking
+  content: OpenGIS Web Feature Service 2.0 Interface Standard (also ISO 19142)
   language: en
   script: Latn
   format: text/plain
@@ -58,6 +53,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

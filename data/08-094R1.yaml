@@ -2,12 +2,12 @@
 id: '08-094r1'
 title:
 - type: title-main
-  content: 'OGC® SWE Common Data Model Encoding Standard: General Encoding Rules'
+  content: OGC® SWE Common Data Model Encoding Standard
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: 'OGC® SWE Common Data Model Encoding Standard: General Encoding Rules'
+  content: OGC® SWE Common Data Model Encoding Standard
   language: en
   script: Latn
   format: text/plain
@@ -42,6 +42,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

@@ -1,40 +1,60 @@
 ---
 id: 07-036
 title:
-- type: title-intro
-  content: OpenGIS Geography Markup Language (GML)
-  language: en
-  script: Latn
-  format: text/plain
 - type: title-main
-  content: Documents
+  content: OpenGIS Geography Markup Language (GML) Encoding Standard
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: OpenGIS Geography Markup Language (GML) - Documents
+  content: OpenGIS Geography Markup Language (GML) Encoding Standard
   language: en
   script: Latn
   format: text/plain
 link:
-  content: ''
+  content: https://portal.ogc.org/files/?artifact_id=20509
   type: obp
 type: standard
 docid:
   id: 07-036
   type: OGC
+date:
+  type: published
+  value: '2007-10-05'
 contributor:
-  organization:
+- person:
+    name:
+      completename: Clemens Portele
+  role: author
+- organization:
     name: Open Geospatial Consortium
   role: publisher
+revdate: '2007-10-05'
 language: en
 script: Latn
 abstract:
-  content: ''
+  content: "The OpenGIS® Geography Markup Language Encoding Standard (GML) The Geography
+    Markup Language (GML) is an XML grammar for expressing geographical features.
+    GML serves as a modeling language for geographic systems as well as an open interchange
+    format for geographic transactions on the Internet. As with most XML based grammars,
+    there are two parts to the grammar – the schema that describes the document and
+    the instance document that contains the actual data.\r\nA GML document is described
+    using a GML Schema. This allows users and developers to describe generic geographic
+    data sets that contain points, lines and polygons. However, the developers of
+    GML envision communities working to define community-specific application schemas
+    [en.wikipedia.org/wiki/GML_Application_Schemas] that are specialized extensions
+    of GML. Using application schemas, users can refer to roads, highways, and bridges
+    instead of points, lines and polygons. If everyone in a community agrees to use
+    the same schemas they can exchange data easily and be sure that a road is still
+    a road when they view it.\r\n\r\nClients and servers with interfaces that implement
+    the OpenGIS® Web Feature Service Interface Standard[http://www.opengeospatial.org/standards/wfs]
+    read and write GML data. GML is also an ISO standard (ISO 19136:2007) [www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=32554
+    ].  \r\nSee also the GML pages on OGC Network: http://www.ogcnetwork.net/gml .\r\n"
   language: en
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

@@ -2,14 +2,12 @@
 id: 03-006r3
 title:
 - type: title-main
-  content: 'OpenGIS Location Services (OpenLS): Core Services [Part 4 Presentation
-    Service]'
+  content: 'OpenGIS Location Services (OpenLS): Core Services [Parts 1-5]'
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: 'OpenGIS Location Services (OpenLS): Core Services [Part 4 Presentation
-    Service]'
+  content: 'OpenGIS Location Services (OpenLS): Core Services [Parts 1-5]'
   language: en
   script: Latn
   format: text/plain
@@ -43,7 +41,10 @@ abstract:
   language: en
   script: Latn
   format: text/plain
+docstatus:
+  stage:
+    value: draft
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
 editorialgroup:
   committee: technical

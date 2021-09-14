@@ -2,12 +2,12 @@
 id: 04-094
 title:
 - type: title-main
-  content: OpenGIS Web Feature Service (WFS) Implementation Specification (Basic)
+  content: OpenGIS Web Feature Service (WFS) Implementation Specification
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: OpenGIS Web Feature Service (WFS) Implementation Specification (Basic)
+  content: OpenGIS Web Feature Service (WFS) Implementation Specification
   language: en
   script: Latn
   format: text/plain
@@ -24,7 +24,7 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Vretanos
+      completename: 'Peter Vretanos '
   role: author
 - organization:
     name: Open Geospatial Consortium
@@ -47,6 +47,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

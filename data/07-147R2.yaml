@@ -2,12 +2,12 @@
 id: 07-147r2
 title:
 - type: title-main
-  content: OGC KML (Level 3)
+  content: OGC KML
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: OGC KML (Level 3)
+  content: OGC KML
   language: en
   script: Latn
   format: text/plain
@@ -42,6 +42,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical

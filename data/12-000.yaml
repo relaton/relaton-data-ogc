@@ -2,12 +2,12 @@
 id: 12-000
 title:
 - type: title-main
-  content: 'OGC® SensorML: Model and XML Encoding Standard (Level 2)'
+  content: 'OGC® SensorML: Model and XML Encoding Standard'
   language: en
   script: Latn
   format: text/plain
 - type: main
-  content: 'OGC® SensorML: Model and XML Encoding Standard (Level 2)'
+  content: 'OGC® SensorML: Model and XML Encoding Standard'
   language: en
   script: Latn
   format: text/plain
@@ -53,6 +53,7 @@ abstract:
   script: Latn
   format: text/plain
 fetched: '2021-09-14'
-doctype: other
+doctype: standard
+subdoctype: implementation
 editorialgroup:
   committee: technical
