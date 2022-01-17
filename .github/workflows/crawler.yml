@@ -19,7 +19,9 @@ jobs:
         run: |
           gem install relaton-cli
       - name: Fetch documents
-        run: relaton fetch-data ogc-naming-authority
+        run: |
+          rm -f data/*
+          relaton fetch-data ogc-naming-authority
       - name: Push data
         run: |
           echo `date` > flag.txt
