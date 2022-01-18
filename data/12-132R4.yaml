@@ -3,46 +3,57 @@ id: 12-132r4
 title:
 - type: title-main
   content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=62168
+- content: https://portal.ogc.org/files/?artifact_id=62168
   type: obp
 type: standard
 docid:
-  id: 12-132r4
+- id: 12-132r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-02-24'
 contributor:
 - person:
     name:
       completename: Martin Lechner
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2015-02-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC® Standard defines the Augmented Reality Markup Language 2.0 (ARML
+- content: This OGC® Standard defines the Augmented Reality Markup Language 2.0 (ARML
     2.0). ARML 2.0 allows users to describe virtual objects in an Augmented Reality
     (AR) scene with their appearances and their anchors (a broader concept of a location)
     related to the real world. Additionally, ARML 2.0 defines ECMAScript bindings
     to dynamically modify the AR scene based on user behavior and user input.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

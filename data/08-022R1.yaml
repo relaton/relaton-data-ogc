@@ -3,48 +3,61 @@ id: '08-022r1'
 title:
 - type: title-intro
   content: Change Request
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: O&M Part 1
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-part
   content: Move extensions to new namespace
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Change Request - O&M Part 1 - Move extensions to new namespace
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=27697
+- content: https://portal.ogc.org/files/?artifact_id=27697
   type: obp
 type: standard
 docid:
-  id: '08-022r1'
+- id: '08-022r1'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-05-12'
 contributor:
 - person:
     name:
       completename: Simon Cox
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2008-05-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The XML Schema implementation of optional/informative elements of the Observation
+- content: The XML Schema implementation of optional/informative elements of the Observation
     Schema was published in the om/1.0.0/extensions directory, in the same XML namespace
     as the base schema. Those OGC implementations that have a dependency on the Observation
     Schema (i.e. Sampling Features, SOS) <import> the “all-components” document om.xsd.
@@ -55,10 +68,12 @@ abstract:
     problem is a consequence of an error in the modularization strategy for optional
     elements, combined with the rules for schema document resolution used by standard
     processing environments.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: change-request-supporting-document
 editorialgroup:
   committee: technical

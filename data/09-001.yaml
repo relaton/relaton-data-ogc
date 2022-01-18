@@ -3,37 +3,46 @@ id: '09-001'
 title:
 - type: title-main
   content: OpenGIS® SWE Service Model Implementation Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS® SWE Service Model Implementation Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=38476
+- content: https://portal.ogc.org/files/?artifact_id=38476
   type: obp
 type: standard
 docid:
-  id: '09-001'
+- id: '09-001'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-03-21'
 contributor:
 - person:
     name:
       completename: Johannes Echterhoff
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2011-03-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This standard currently defines eight packages with data types for common
+- content: 'This standard currently defines eight packages with data types for common
     use across OGC Sensor Web Enablement (SWE) services. Five of these packages define
     operation request and response types. The packages are: 1.) Contents – Defines
     data types that can be used in specific services that provide (access to) sensors;
@@ -50,10 +59,12 @@ abstract:
     from a service. These packages use data types specified in other standards. Those
     data types are normatively referenced herein, instead of being repeated in this
     standard.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

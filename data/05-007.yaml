@@ -3,46 +3,57 @@ id: 05-007
 title:
 - type: title-main
   content: Web Processing Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Web Processing Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=8723
+- content: https://portal.ogc.org/files/?artifact_id=8723
   type: obp
 type: standard
 docid:
-  id: 05-007
+- id: 05-007
   type: OGC
 date:
-  type: published
+- type: published
   value: '2005-01-24'
 contributor:
 - person:
     name:
       completename: Peter Schut
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2005-01-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document is the specification for a Web Processing Service (WPS).
+- content: "This document is the specification for a Web Processing Service (WPS).
     \ \r\nA Web Service Processing Service provides access to calculations or models
     which operate on spatially referenced data.  The data required by the service
     can be available locally, or delivered across a network using data exchange standards
     such as Geography Markup Language (GML) or Geolinked Data Access Service (GDAS).
     \ \r\n "
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

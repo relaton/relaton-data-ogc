@@ -3,37 +3,46 @@ id: 19-083
 title:
 - type: title-main
   content: OGC Citizen Science Interoperability Experiment Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Citizen Science Interoperability Experiment Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/19-083.html
+- content: http://docs.opengeospatial.org/per/19-083.html
   type: obp
 type: standard
 docid:
-  id: 19-083
+- id: 19-083
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-02-13'
 contributor:
 - person:
     name:
       completename: Joan Masó
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2020-02-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This Engineering report describes the first phase of the Citizen Science
+- content: "This Engineering report describes the first phase of the Citizen Science
     (CS) Interoperability Experiment (IE) organized by the EU H2020 WeObserve project
     under the OGC Innovation Program and supported by the four H2020 Citizen Observatories
     projects (SCENT, GROW, LandSense, and GroundTruth 2.0) as well as the EU H2020
@@ -54,10 +63,12 @@ abstract:
     solution for GEOSS that can be found in the last chapter. Many open issues have
     been identified and are expected to be addressed in the second phase of the experiment,
     including the use of a definitions server."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

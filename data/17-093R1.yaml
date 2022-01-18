@@ -4,43 +4,53 @@ title:
 - type: title-main
   content: OGC GeoPackage Related Tables Extension Interoperability Experiment Engineering
     Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC GeoPackage Related Tables Extension Interoperability Experiment Engineering
     Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/17-093r1.html
+- content: http://docs.opengeospatial.org/per/17-093r1.html
   type: obp
 type: standard
 docid:
-  id: 17-093r1
+- id: 17-093r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-08-22'
 contributor:
 - person:
     name:
       completename: Jeff Yutzler
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ashley Antonides
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2018-08-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC Engineering Report describes the results of the OGC GeoPackage
+- content: This OGC Engineering Report describes the results of the OGC GeoPackage
     (GPKG) Related Tables Extension Interoperability Experiment (GPKG-RTE IE). This
     IE tested a proposed extension to the OGC GeoPackage Encoding Standard (12-128r14).
     The GPKG-RTE defines the rules and requirements for associating tables with existing
@@ -49,10 +59,12 @@ abstract:
     GeoPackages that used this extension, loaded them into GPKG-compliant software
     systems, and observed the results. As a result of this work, the IE participants
     agree that the extension is fit for use and consideration as a standard by OGC.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

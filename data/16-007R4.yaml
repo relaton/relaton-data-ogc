@@ -3,38 +3,47 @@ id: 16-007r4
 title:
 - type: title-main
   content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/16-007r4
+- content: https://portal.ogc.org/files/16-007r4
   type: obp
 type: standard
 docid:
-  id: 16-007r4
+- id: 16-007r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-12-19'
 contributor:
 - person:
     name:
       completename: Sara Saeedi
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2018-12-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This Open Geospatial Consortium (OGC) standard defines the conceptual
+- content: "This Open Geospatial Consortium (OGC) standard defines the conceptual
     model for the OGC CDB Standard. The objective of this document is to provide an
     abstract core conceptual model for a CDB data store (repository). The model is
     represented using UML (unified modeling language). The conceptual model is comprised
@@ -52,10 +61,12 @@ abstract:
     or structured data store that is required for use by simulation clients. From
     the geospatial community perspective, these data are essentially the same as GIS
     data but with, in some cases, special attributes, such as radar reflectivity.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

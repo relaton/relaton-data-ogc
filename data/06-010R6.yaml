@@ -3,38 +3,47 @@ id: 06-010r6
 title:
 - type: title-main
   content: OpenGIS Transducer Markup Language *RETIRED*
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Transducer Markup Language *RETIRED*
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=19371
+- content: https://portal.ogc.org/files/?artifact_id=19371
   type: obp
 type: standard
 docid:
-  id: 06-010r6
+- id: 06-010r6
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-07-02'
 contributor:
 - person:
     name:
       completename: Steve Havens
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '6'
 revdate: '2007-07-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "*THIS STANDARD HAS BEEN RETIRED* \r\n\r\nThe OpenGIS® Transducer Markup
+- content: "*THIS STANDARD HAS BEEN RETIRED* \r\n\r\nThe OpenGIS® Transducer Markup
     Language Encoding Standard (TML) is an application and presentation layer communication
     protocol for exchanging live streaming or archived data to (i.e. control data)
     and/or sensor data from any sensor system. A sensor system can be one or more
@@ -51,10 +60,12 @@ abstract:
     semantic relationships of components, thus enabling sensor fusion.\r\n\r\nThis
     is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
     suite of standards.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

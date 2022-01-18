@@ -3,43 +3,54 @@ id: 16-032r2
 title:
 - type: title-main
   content: 'OGC WaterML 2: Part 4 – GroundWaterML 2 (GWML2)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC WaterML 2: Part 4 – GroundWaterML 2 (GWML2)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/16-032r2/16-032r2.html
+- content: http://docs.opengeospatial.org/is/16-032r2/16-032r2.html
   type: obp
 type: standard
 docid:
-  id: 16-032r2
+- id: 16-032r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-03-06'
 contributor:
 - person:
     name:
       completename: Boyan Brodaric
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2017-03-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard describes a conceptual and logical model for the exchange
+- content: This standard describes a conceptual and logical model for the exchange
     of groundwater data, as well as a GML/XML encoding with examples.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

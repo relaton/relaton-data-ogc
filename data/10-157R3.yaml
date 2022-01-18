@@ -3,60 +3,74 @@ id: 10-157r3
 title:
 - type: title-main
   content: Earth Observation Metadata profile of Observations & Measurements
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Earth Observation Metadata profile of Observations & Measurements
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=47040
+- content: https://portal.ogc.org/files/?artifact_id=47040
   type: obp
 type: standard
 docid:
-  id: 10-157r3
+- id: 10-157r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-06-12'
 contributor:
 - person:
     name:
       completename: Jerome Gasperi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Frédéric Houbie
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Andrew Woolf
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Steven Smolders
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2012-06-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC Implementation Standard defines a profile of Observations and
+- content: "This OGC Implementation Standard defines a profile of Observations and
     Measurements (ISO 19156) for describing Earth Observation products (EO products).\r\nAlthough
     this standard has been developed in the context of the Heterogeneous Mission Accessibility
     (HMA) project initiated by European Space Agency (ESA), the content is generic
     to Earth Observation product description. The metadata model described in this
     document is structured to follow the different types of products (Optical, Radar,
     …) which are not HMA specific.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

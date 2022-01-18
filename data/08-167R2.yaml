@@ -3,53 +3,66 @@ id: '08-167r2'
 title:
 - type: title-main
   content: Semantic annotations in OGC standards
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Semantic annotations in OGC standards
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=47857
+- content: https://portal.ogc.org/files/?artifact_id=47857
   type: obp
 type: standard
 docid:
-  id: '08-167r2'
+- id: '08-167r2'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-10-10'
 contributor:
 - person:
     name:
       completename: Frédéric Houbie
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Philippe Duchesne
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Patrick Maué
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2012-10-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this OGC Best Practice, the concept of semantic annotations is introduced.
+- content: In this OGC Best Practice, the concept of semantic annotations is introduced.
     Annotation of Web Services or data compliant to OGC standards refers to the task
     of attaching meaningful descriptions to the service and the served geospatial
     data or processes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -3,37 +3,46 @@ id: 16-050
 title:
 - type: title-main
   content: Testbed-12 Imagery Quality and Accuracy Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Testbed-12 Imagery Quality and Accuracy Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-050.html
+- content: http://docs.opengeospatial.org/per/16-050.html
   type: obp
 type: standard
 docid:
-  id: 16-050
+- id: 16-050
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-05-12'
 contributor:
 - person:
     name:
       completename: Joan Masó and Alaitz Zabala
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-05-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The scenario of rapidly growing geodata catalogues requires tools focused
+- content: "The scenario of rapidly growing geodata catalogues requires tools focused
     on facilitating users the choice of products. Having populated quality fields
     in metadata allows the users to rank and then select the best fit-for-purpose
     products. For example, decision-makers would be able to find quality and uncertainty
@@ -47,10 +56,12 @@ abstract:
     Moreover, description of pixel-level quality measures is also included. Finally,
     alternatives to communicate tile level quality as well as mosaic products quality
     are proposed."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

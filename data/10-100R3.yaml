@@ -3,46 +3,57 @@ id: 10-100r3
 title:
 - type: title-main
   content: Geography Markup Language (GML) simple features profile (with Corrigendum)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Geography Markup Language (GML) simple features profile (with Corrigendum)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=42729
+- content: https://portal.ogc.org/files/?artifact_id=42729
   type: obp
 type: standard
 docid:
-  id: 10-100r3
+- id: 10-100r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-05-11'
 contributor:
 - person:
     name:
       completename: Linda van den Brink
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Panagiotis (Peter) A. Vretanos
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2011-05-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This approved OGC Implementation Standard defines a Simple Features profile
+- content: "This approved OGC Implementation Standard defines a Simple Features profile
     of the Geography Markup Language version 3.2. This Simple Features Profile has
     been aligned with the OGC Simple Features standard for SQL version 1.2. Simple
     Features include: Point, Curve (LineString), Surface (Polygon), Geometry, MultiPoint,
@@ -55,10 +66,12 @@ abstract:
     In OGC Interoperability Initiatives, international teams of technology providers
     work together to solve specific geo-processing interoperability problems posed
     by Initiative. \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: profile
 editorialgroup:

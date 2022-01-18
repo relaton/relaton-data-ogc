@@ -4,46 +4,57 @@ title:
 - type: title-main
   content: Feature Type Catalogue Extension Package for ebRIM (ISO/TS 15000-3) Profile
     of CSW 2.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Feature Type Catalogue Extension Package for ebRIM (ISO/TS 15000-3) Profile
     of CSW 2.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=26730
+- content: https://portal.ogc.org/files/?artifact_id=26730
   type: obp
 type: standard
 docid:
-  id: 07-172r1
+- id: 07-172r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-05-13'
 contributor:
 - person:
     name:
       completename: Kristin Stock
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2008-05-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document describes a Feature Type Catalogue extension package for
+- content: This document describes a Feature Type Catalogue extension package for
     the OGC® ebRIM (ISO/TS 15000-3) Profile of CSW 2.0 [OGC 05-025r3]. It defines
     the way an ISO 19110 [ISO 19110:2005] Feature Type Catalogue is included within
     a Registry, and provides an information model and stored queries for such an inclusion.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

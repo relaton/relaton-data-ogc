@@ -3,47 +3,60 @@ id: 07-144r4
 title:
 - type: title-main
   content: CSW-ebRIM Registry Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-part
   content: 'Part 2: Basic extension package'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'CSW-ebRIM Registry Service - Part 2: Basic extension package'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=31138
+- content: https://portal.ogc.org/files/?artifact_id=31138
   type: obp
 type: standard
 docid:
-  id: 07-144r4
+- id: 07-144r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2009-02-05'
 contributor:
 - person:
     name:
       completename: Richard Martell
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2009-02-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Incorporates Corrigendum 1 (OGC 08-102r1).
-  language: en
-  script: Latn
+- content: Incorporates Corrigendum 1 (OGC 08-102r1).
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

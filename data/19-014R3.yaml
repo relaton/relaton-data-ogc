@@ -3,52 +3,65 @@ id: 19-014r3
 title:
 - type: title-intro
   content: Topic 22
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Core Tiling Conceptual and Logical Models for 2D Euclidean Space
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Topic 22 - Core Tiling Conceptual and Logical Models for 2D Euclidean Space
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/as/19-014r3/19-014r3.html
+- content: https://docs.ogc.org/as/19-014r3/19-014r3.html
   type: obp
 type: standard
 docid:
-  id: 19-014r3
+- id: 19-014r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-10-22'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2020-10-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC Abstract Specification (AS) defines:\r\n\r\nA conceptual model
+- content: "This OGC Abstract Specification (AS) defines:\r\n\r\nA conceptual model
     for tiling space in any dimension and;\r\n\r\nA logical model for 2D tiled structures
     and by extension tiling. The logical model is based on the conceptual model.\r\n\r\nThe
     conceptual model specified in this Abstract Specification could be a sub-class
     in a more comprehensive Spatial Partitioning Conceptual Model. Additional Parts
     may be added to this AS for other dimensions, such as 3D, or other uses cases."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

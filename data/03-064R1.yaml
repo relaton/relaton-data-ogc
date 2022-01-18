@@ -3,42 +3,53 @@ id: 03-064r1
 title:
 - type: title-main
   content: GO-1 Application Objects Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: GO-1 Application Objects Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1267
+- content: https://portal.ogc.org/files/?artifact_id=1267
   type: obp
 type: standard
 docid:
-  id: 03-064r1
+- id: 03-064r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2003-06-12'
 contributor:
 - person:
     name:
       completename: Phillip C. Dibner
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2003-06-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document is a draft of the OpenGIS
-  language: en
-  script: Latn
+- content: This document is a draft of the OpenGIS
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

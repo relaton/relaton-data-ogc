@@ -4,48 +4,59 @@ title:
 - type: title-main
   content: 'Critical Infrastructure Collaborative Environment Architecture: Computational
     Viewpoint'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Critical Infrastructure Collaborative Environment Architecture: Computational
     Viewpoint'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1269
+- content: https://portal.ogc.org/files/?artifact_id=1269
   type: obp
 type: standard
 docid:
-  id: 03-063r1
+- id: 03-063r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2003-06-02'
 contributor:
 - person:
     name:
       completename: Joshua Lieberman
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2003-06-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "*RETIRED* The objective of this document is to provide a vendor-neutral
+- content: "*RETIRED* The objective of this document is to provide a vendor-neutral
     interoperable framework that enables collaborating communities to rapidly and
     collaboratively publish, discover, integrate and use geospatial information concerned
     with the protection of critical infrastructure systems in a range of sectors.
     Specifically, this document specifies a Computational Architecture viewpoint for
     a Critical Infrastructure Collaborative Environment (CICE)."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

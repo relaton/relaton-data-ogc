@@ -3,46 +3,57 @@ id: 13-068
 title:
 - type: title-main
   content: OGC OpenSearch Extension for Correlated Search
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC OpenSearch Extension for Correlated Search
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=55219
+- content: https://portal.ogc.org/files/?artifact_id=55219
   type: obp
 type: standard
 docid:
-  id: 13-068
+- id: 13-068
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-02-24'
 contributor:
 - person:
     name:
       completename: Pedro Gonçalves
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2014-02-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC discussion paper presents an OpenSearch query protocol extension
+- content: "This OGC discussion paper presents an OpenSearch query protocol extension
     for the\r\nexecution of correlation queries between different Search Feeds. Services
     that support the\r\nOpenSearch Specification and Correlation extension defined
     in this document are called\r\nOpenSearch Correlation Services. With the proposed
     extensions it will be possible to\r\nexecute distributed queries with correlation
     and search criteria defining the results\r\naggregation."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

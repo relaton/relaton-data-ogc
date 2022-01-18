@@ -3,44 +3,55 @@ id: 10-088r3
 title:
 - type: title-main
   content: OGC® OWS-7 Schema Automation Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® OWS-7 Schema Automation Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=50438
+- content: https://portal.ogc.org/files/?artifact_id=50438
   type: obp
 type: standard
 docid:
-  id: 10-088r3
+- id: 10-088r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-04-15'
 contributor:
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2014-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The capabilities of OGC’s KML 2.2 as a format for exchange and visualization
+- content: The capabilities of OGC’s KML 2.2 as a format for exchange and visualization
     of U.S. National System for Geospatial Intelligence (NSG) Application Schema (NAS)
     data is explored.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

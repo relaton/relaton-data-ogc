@@ -3,44 +3,55 @@ id: 16-005r4
 title:
 - type: title-main
   content: OGC CDB Core Model and Physical Structure Annexes (Best Practice)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC CDB Core Model and Physical Structure Annexes (Best Practice)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/bp/16-005r4.html
+- content: https://docs.ogc.org/bp/16-005r4.html
   type: obp
 type: standard
 docid:
-  id: 16-005r4
+- id: 16-005r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-02-26'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2021-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document provides the Annexes for the CDB Core: Model and Physical
+- content: 'This document provides the Annexes for the CDB Core: Model and Physical
     Structure Standard. The only exception is Annex A, Abstract Test Suite (ATS).
     The CDB ATS Annex is in Volume 1: Core document.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

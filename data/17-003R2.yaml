@@ -3,46 +3,57 @@ id: 17-003r2
 title:
 - type: title-main
   content: OGC EO Dataset Metadata GeoJSON(-LD) Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC EO Dataset Metadata GeoJSON(-LD) Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/17-003r2/17-003r2.html
+- content: http://docs.opengeospatial.org/is/17-003r2/17-003r2.html
   type: obp
 type: standard
 docid:
-  id: 17-003r2
+- id: 17-003r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-02-14'
 contributor:
 - person:
     name:
       completename: Y. Coene
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: U. Voges
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: O. Barois
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2020-02-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "JavaScript Object Notation (JSON) [NR1] has been gaining in popularity
+- content: "JavaScript Object Notation (JSON) [NR1] has been gaining in popularity
     for encoding data in Web-based applications. JSON consists of sets of objects
     described by name/value pairs.  This OGC standard describes a GeoJSON [NR2] and
     JSON-LD [NR3] encoding for Earth Observation (EO) metadata for datasets (granules).
@@ -71,10 +82,12 @@ abstract:
     this standard is based on a normative JSON-LD context which allows each property
     to be explicitly defined as a URI.  Furthermore, the JSON encoding is defined
     using JSON Schema [OR18] which allows validation of instances against these schemas."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

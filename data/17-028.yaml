@@ -3,49 +3,61 @@ id: 17-028
 title:
 - type: title-main
   content: 'OGC Testbed-13: Asynchronous Services ER'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-13: Asynchronous Services ER'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/17-028.html
+- content: http://docs.opengeospatial.org/per/17-028.html
   type: obp
 type: standard
 docid:
-  id: 17-028
+- id: 17-028
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-01-08'
 contributor:
 - person:
     name:
       completename: Benjamin Pross
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Christoph Stasch
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2018-01-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The goal of this ER is to summarize and compare the results from the activities
+- content: The goal of this ER is to summarize and compare the results from the activities
     dealing with asynchronous WFS responses in Testbed 13. Special focus will be given
     to the specific requirement for automatic notification of users if new or updated
     information becomes available and to the software components addressing these
     requirements, i.e. two asynchronous Web Feature Services (NG119 and NG120).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

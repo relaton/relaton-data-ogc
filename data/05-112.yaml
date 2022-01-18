@@ -3,45 +3,56 @@ id: 05-112
 title:
 - type: title-main
   content: Symbology Management
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Symbology Management
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=13285
+- content: https://portal.ogc.org/files/?artifact_id=13285
   type: obp
 type: standard
 docid:
-  id: 05-112
+- id: 05-112
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-04-19'
 contributor:
 - person:
     name:
       completename: Milan Trninic
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2006-04-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document describes Symbology Management System which is a system
+- content: "This document describes Symbology Management System which is a system
     closely related to OpenGIS Style Management Services (SMS) (described in the document
     OGC 04-040). Having in mind their identical purpose, the system described in this
     document will also be referred to as SMS.\r\nThe SMS manages styles and symbols
     and defines their use in the process of producing maps from source GML data.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

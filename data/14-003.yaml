@@ -3,50 +3,62 @@ id: 14-003
 title:
 - type: title-main
   content: WaterML-WQ – an O&M and WaterML 2.0 profile for water quality data
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: WaterML-WQ – an O&M and WaterML 2.0 profile for water quality data
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/bp/14-003/14-003.html
+- content: http://docs.opengeospatial.org/bp/14-003/14-003.html
   type: obp
 type: standard
 docid:
-  id: 14-003
+- id: 14-003
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-12-02'
 contributor:
 - person:
     name:
       completename: Simon J D Cox
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Bruce A Simons
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2014-12-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Best Practice describes how to configure XML documents for single
+- content: This Best Practice describes how to configure XML documents for single
     and time series water quality measurements.  In addition to stating the rules
     for using the O&M and WML 2 standards, along with the appropriate content ontologies,
     this Best Practice provides guidance through examples. This document is intended
     to complement WaterML 2.0 as part of a suite of standards for water observation
     data.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

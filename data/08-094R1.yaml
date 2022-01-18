@@ -3,45 +3,56 @@ id: '08-094r1'
 title:
 - type: title-main
   content: OGC® SWE Common Data Model Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® SWE Common Data Model Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=41157
+- content: https://portal.ogc.org/files/?artifact_id=41157
   type: obp
 type: standard
 docid:
-  id: '08-094r1'
+- id: '08-094r1'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-01-04'
 contributor:
 - person:
     name:
       completename: Alexandre Robin
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2011-01-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines low level data models for exchanging sensor related
+- content: This standard defines low level data models for exchanging sensor related
     data between nodes of the OGC® Sensor Web Enablement (SWE) framework. These models
     allow applications and/or servers to structure, encode and transmit sensor datasets
     in a self describing and semantically enabled way.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

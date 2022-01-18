@@ -3,41 +3,51 @@ id: 16-098
 title:
 - type: title-main
   content: Future City Pilot 1 Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Future City Pilot 1 Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-098.html
+- content: http://docs.opengeospatial.org/per/16-098.html
   type: obp
 type: standard
 docid:
-  id: 16-098
+- id: 16-098
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-10-20'
 contributor:
 - person:
     name:
       completename: Kanishk Chaturvedi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Thomas H. Kolbe
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-10-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The Future City Pilot Phase 1 (FCP1) is an OGC Interoperability Program
+- content: 'The Future City Pilot Phase 1 (FCP1) is an OGC Interoperability Program
     initiative in collaboration with buildingSMART International (bSI). The pilot
     aimed at demonstrating and enhancing the ability of spatial data infrastructures
     to support quality of life, civic initiatives, and urban resilience. During the
@@ -65,10 +75,12 @@ abstract:
     the original CityGML data model. If an application does not support dynamic data,
     it simply does not allow/include these special types of features. The details
     and results of the pilot are mentioned in the following YouTube video: https://youtu.be/aSQFIPwf2oM'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

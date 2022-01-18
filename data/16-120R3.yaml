@@ -3,54 +3,67 @@ id: 16-120r3
 title:
 - type: title-main
   content: OGC Moving Features Access
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Moving Features Access
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/16-120r3/16-120r3.html
+- content: http://docs.opengeospatial.org/is/16-120r3/16-120r3.html
   type: obp
 type: standard
 docid:
-  id: 16-120r3
+- id: 16-120r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-03-12'
 contributor:
 - person:
     name:
       completename: Hideki Hayashi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Akinori Asahara
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kyoung-Sook Kim
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ryosuke Shibasaki
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Nobuhiro Ishimaru
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2017-03-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document defines Moving Features Access, i.e., access methods to
+- content: "This document defines Moving Features Access, i.e., access methods to
     moving feature data for retrieving feature attributes, information on a relation
     between a trajectory object and one or more geometry objects, and information
     on a relation between two trajectory objects from a database storing trajectory
@@ -75,10 +88,12 @@ abstract:
     Encoding Extension: Simple Comma Separated Values (CSV)) [OGC 14-084r2] are existing
     implementation standards. Moving Features Access uses these standards to encode
     moving features."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

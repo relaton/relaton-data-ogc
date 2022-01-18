@@ -3,48 +3,59 @@ id: 11-135r2
 title:
 - type: title-main
   content: OGC® Name Type Specification for Coordinate Reference Systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Name Type Specification for Coordinate Reference Systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=53819
+- content: https://portal.ogc.org/files/?artifact_id=53819
   type: obp
 type: standard
 docid:
-  id: 11-135r2
+- id: 11-135r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-06-18'
 contributor:
 - person:
     name:
       completename: Peter Baumann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2013-06-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document specifies a Name Type Specification (NTS) for predefined,
+- content: "This document specifies a Name Type Specification (NTS) for predefined,
     combined, and parameterized Coordinate Reference System (CRS) definitions. This
     NTS augments the /def/ namespace with http URI definitions for CRSs. The NTS is
     based on the Name Type Specification – definitions – part 1 – basic name [OGC
     09-048r3] and supersedes OGC document “Definition identifier URNs in OGC name¬space”
     [OGC 07-092r3].\r\nNTSs are maintained by the OGC Naming Authority (OGC-NA).\r\nThis
     document includes one Annex: a user guide to the OGC CRS resolver.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

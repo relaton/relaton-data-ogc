@@ -3,44 +3,55 @@ id: 16-005r2
 title:
 - type: title-main
   content: 'Volume 2: OGC CDB Core: Model and Physical Structure: Informative Annexes'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 2: OGC CDB Core: Model and Physical Structure: Informative Annexes'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=72713
+- content: https://portal.ogc.org/files/?artifact_id=72713
   type: obp
 type: standard
 docid:
-  id: 16-005r2
+- id: 16-005r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-02-23'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2017-02-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document provides the Annexes for the CDB Core: Model and Physical
+- content: 'This document provides the Annexes for the CDB Core: Model and Physical
     Structure standard. The only exception is Annex A, Abstract Test Suite. The CDB
     ATS Annex is in Volume 1: Core document.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

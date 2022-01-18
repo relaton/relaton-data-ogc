@@ -3,52 +3,64 @@ id: 11-039r2
 title:
 - type: title-main
   content: 'HY_Features: a Common Hydrologic Feature Model Discussion Paper'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'HY_Features: a Common Hydrologic Feature Model Discussion Paper'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=47831
+- content: https://portal.ogc.org/files/?artifact_id=47831
   type: obp
 type: standard
 docid:
-  id: 11-039r2
+- id: 11-039r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-04-06'
 contributor:
 - person:
     name:
       completename: Rob Atkinson
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Irina Dornblut
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2012-04-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document describes a conceptual model for the identification of hydrologic
+- content: This document describes a conceptual model for the identification of hydrologic
     features independent from geometric representation. This model allows common reference
     to hydrologic features across scientific sub-disciplines in hydrology. The Hydrologic
     Feature Model, HY_Features, is designed as a set of interrelated Application Schemas
     using ISO 19103 Conceptual Schema Language and ISO 19109 General Feature Model.
     It is factored into relatively simple components that can be reviewed, tested
     and extended independently.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

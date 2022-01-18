@@ -4,45 +4,56 @@ title:
 - type: title-main
   content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
     (Best Practice)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
     (Best Practice)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/bp/16-070r4.html
+- content: https://docs.ogc.org/bp/16-070r4.html
   type: obp
 type: standard
 docid:
-  id: 16-070r4
+- id: 16-070r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-02-26'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2021-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This CDB volume provides the information and guidance required to store
+- content: This CDB volume provides the information and guidance required to store
     vector data and attributes using the Esri Shapefile specification in a CDB data
     store. All shape types are supported to represent point, line, and polygon features.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -3,47 +3,58 @@ id: 15-112r2
 title:
 - type: title-main
   content: 'Volume 3: OGC CDB Terms and Definitions'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 3: OGC CDB Terms and Definitions'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=72714
+- content: https://portal.ogc.org/files/?artifact_id=72714
   type: obp
 type: standard
 docid:
-  id: 15-112r2
+- id: 15-112r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-02-23'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2017-02-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This CDB Volume provides terms and definitions.  Many of the terms and
+- content: This CDB Volume provides terms and definitions.  Many of the terms and
     definitions are specific to the simulation industry. Other terms and definitions
     have been updated to be consistent with the ISO 19xxx (Geomatics) series of standards,
     specifically ISO 19111 Spatial referencing by Coordinates and ISO 19017 Spatial
     Schema. Some work still remains to make the terms and definitions completely consistent
     with current OGC and ISO best practice.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

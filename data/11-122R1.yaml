@@ -3,48 +3,60 @@ id: 11-122r1
 title:
 - type: title-intro
   content: Gazetteer Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Application Profile of the Web Feature Service Best Practice
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Gazetteer Service - Application Profile of the Web Feature Service Best
     Practice
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=46964
+- content: https://portal.ogc.org/files/?artifact_id=46964
   type: obp
 type: standard
 docid:
-  id: 11-122r1
+- id: 11-122r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-02-17'
 contributor:
 - person:
     name:
       completename: Panagiotis (Peter) A. Vretanos
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jeff Harrison
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2012-02-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document defines a Gazetteer Service profile of the OGC Web Feature
+- content: "This document defines a Gazetteer Service profile of the OGC Web Feature
     Service Standard. The OGC Gazetteer Service allows a client to search and retrieve
     elements of a georeferenced vocabulary of well-known place-names.\r\nThis profile
     extends the WFS interface in a way that a client is able to\r\n–\tDetermine if
@@ -54,10 +66,12 @@ abstract:
     by the service\r\n–\tUpdate place-name features using WFS transactions\r\n–\tFetch
     place-name features that have Parent-Child relationships and then follow those
     links\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -3,37 +3,46 @@ id: 17-036
 title:
 - type: title-main
   content: 'OGC Testbed-13: Geospatial Taxonomies Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-13: Geospatial Taxonomies Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/17-036.html
+- content: http://docs.opengeospatial.org/per/17-036.html
   type: obp
 type: standard
 docid:
-  id: 17-036
+- id: 17-036
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-01-11'
 contributor:
 - person:
     name:
       completename: Charles Chen
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2018-01-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This Engineering Report (ER) documents the Geospatial Taxonomy research
+- content: "This Engineering Report (ER) documents the Geospatial Taxonomy research
     activities conducted by the Aviation (AVI) subthread of the Cross Community Interoperability
     (CCI) thread in OGC Testbed 13. One of the critical factors in the overall usability
     of services - and System Wide Information Management (SWIM) enabled services in
@@ -56,10 +65,12 @@ abstract:
     CCI thread and AVI subthread to identify and classify SWIM-enabled Service Oriented
     Architecture (SOA) services with geographical taxonomies and the integration thereof
     into SDCM."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,46 +3,57 @@ id: 18-053r2
 title:
 - type: title-main
   content: OGC 3D Tiles Specification 1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC 3D Tiles Specification 1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/cs/18-053r2/18-053r2.html
+- content: http://docs.opengeospatial.org/cs/18-053r2/18-053r2.html
   type: obp
 type: standard
 docid:
-  id: 18-053r2
+- id: 18-053r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-01-31'
 contributor:
 - person:
     name:
       completename: Patrick Cozzi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Sean Lilley
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Gabby Getz
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2019-01-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "3D Tiles is designed for streaming and rendering massive 3D geospatial
+- content: "3D Tiles is designed for streaming and rendering massive 3D geospatial
     content such as Photogrammetry, 3D Buildings, BIM/CAD, Instanced Features, and
     Point Clouds. It defines a hierarchical data structure and a set of tile formats
     which deliver renderable content. 3D Tiles does not define explicit rules for
@@ -56,10 +67,12 @@ abstract:
     3D Tiles specification for tilesets, associated tile formats, and the associated
     styling specification are open formats that are not dependent on any vendor-specific
     solution, technology, or products."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: community-standard
 editorialgroup:
   committee: technical

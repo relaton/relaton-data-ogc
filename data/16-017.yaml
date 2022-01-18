@@ -3,41 +3,51 @@ id: 16-017
 title:
 - type: title-main
   content: Testbed-12 Asynchronous Messaging for Aviation
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Testbed-12 Asynchronous Messaging for Aviation
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-017.html
+- content: http://docs.opengeospatial.org/per/16-017.html
   type: obp
 type: standard
 docid:
-  id: 16-017
+- id: 16-017
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-04-25'
 contributor:
 - person:
     name:
       completename: Matthes Rieke
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Aleksandar Balaban
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-04-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The Asynchronous Messaging for Aviation Engineering Report (ER) focuses
+- content: "The Asynchronous Messaging for Aviation Engineering Report (ER) focuses
     on the design of an architecture to create an Publish/Subscribe (PubSub) messaging
     layer between different Aviation components such as clients, data provider instances
     and Data Brokers. In order to achieve interoperability among these components,
@@ -53,10 +63,12 @@ abstract:
     Aviation Administration (FAA) System-Wide Information Management (SWIM) and Single
     European Sky ATM Research Programme (SESAR) SWIM) have been investigated but an
     implementation has not been fulfilled."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,43 +3,54 @@ id: 01-022r1
 title:
 - type: title-main
   content: Basic Services Model
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Basic Services Model
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1024
+- content: https://portal.ogc.org/files/?artifact_id=1024
   type: obp
 type: standard
 docid:
-  id: 01-022r1
+- id: 01-022r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2001-05-05'
 contributor:
 - person:
     name:
       completename: Jeff de La Beaujardiere
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2001-05-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The Basic Services Model is an implementation of the ISO TC211 services
+- content: 'The Basic Services Model is an implementation of the ISO TC211 services
     architecture as found in ISO 19119 Geographic Information '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

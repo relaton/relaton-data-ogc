@@ -3,47 +3,59 @@ id: 19-045r3
 title:
 - type: title-intro
   content: OGC Moving Features Encoding Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: JSON
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Moving Features Encoding Extension - JSON
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.opengeospatial.org/is/19-045r3/19-045r3.html
+- content: https://docs.opengeospatial.org/is/19-045r3/19-045r3.html
   type: obp
 type: standard
 docid:
-  id: 19-045r3
+- id: 19-045r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-05-21'
 contributor:
 - person:
     name:
       completename: Kyoung-Sook KIM
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Nobuhiro ISHIMARU
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2020-05-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines how to encode and share the various movements of
+- content: This standard defines how to encode and share the various movements of
     geographic features by using JavaScript Object Notation (JSON). It provides an
     alternative encoding for OGC Moving Features instead of that provided in the XML
     Core [OGC 14-083r2] and Simple CSV [OGC 14-084r2] standards. A moving feature,
@@ -52,10 +64,12 @@ abstract:
     vary with time. This Moving Features JSON encoding defines a set of keywords to
     implement the conceptual schema of moving features defined in ISO 19141:2008 [ISO
     19141:2008], accompanied with IETF GeoJSON Format [IETF RFC 7946].
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

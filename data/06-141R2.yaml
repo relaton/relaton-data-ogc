@@ -3,48 +3,59 @@ id: 06-141r2
 title:
 - type: title-main
   content: Ordering Services for Earth Observation Products
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Ordering Services for Earth Observation Products
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=22114
+- content: https://portal.ogc.org/files/?artifact_id=22114
   type: obp
 type: standard
 docid:
-  id: 06-141r2
+- id: 06-141r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-08-15'
 contributor:
 - person:
     name:
       completename: Daniele Marchionni
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2007-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This best practices document describes a profile to order Earth Observation
+- content: 'This best practices document describes a profile to order Earth Observation
     data products. This document expands on the work presented in Best Practices for
     Earth Observation Products OGC-05-057r4, separating the order services from the
     catalogue services which are now presented in 06-079. The final goal being to
     agree to a coherent set of interfaces for ordering of EO products to support access
     to data from heterogeneous systems dealing with derived data products from satellite
     based measurements of the earth''s surface and environment. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

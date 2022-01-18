@@ -3,62 +3,78 @@ id: 15-005r1
 title:
 - type: title-intro
   content: DGIWG
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Web Feature Service 2.0 Profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: DGIWG - Web Feature Service 2.0 Profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=66933
+- content: https://portal.ogc.org/files/?artifact_id=66933
   type: obp
 type: standard
 docid:
-  id: 15-005r1
+- id: 15-005r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-02-01'
 contributor:
 - person:
     name:
       completename: Stefan Strobel
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Dimitri Sarafinof
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: David Wesloh
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Paul Lacey
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2016-02-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document defines the DGIWG profile for the ISO\r\n19142:2010 - Web
+- content: "This document defines the DGIWG profile for the ISO\r\n19142:2010 - Web
     Feature Service (WFS) including changes\r\nmade in the OpenGIS Web Feature Service
     2.0 Interface\r\nStandard - Corrigendum. The Web Feature Service provides\r\naccess
     to geospatial features in a manner independent of the\r\nunderlying data store."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

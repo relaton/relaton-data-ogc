@@ -3,65 +3,82 @@ id: 17-069r3
 title:
 - type: title-intro
   content: OGC API
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Features
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-part
   content: 'Part 1: Core'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC API - Features - Part 1: Core'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/17-069r3/17-069r3.html
+- content: http://docs.opengeospatial.org/is/17-069r3/17-069r3.html
   type: obp
 type: standard
 docid:
-  id: 17-069r3
+- id: 17-069r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-10-07'
 contributor:
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Panagiotis (Peter) A. Vretanos
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Charles Heazel
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2019-10-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "OGC API standards define modular API building blocks to spatially enable
+- content: "OGC API standards define modular API building blocks to spatially enable
     Web APIs in a consistent way. The OpenAPI specification is used to define the
     API building blocks.\r\n\r\nThe OGC API family of standards is organized by resource
     type. This standard specifies the fundamental API building blocks for interacting
     with features. The spatial data community uses the term 'feature' for things in
     the real world that are of interest."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

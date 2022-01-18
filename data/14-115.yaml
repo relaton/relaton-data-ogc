@@ -3,37 +3,46 @@ id: 14-115
 title:
 - type: title-main
   content: OGC Smart Cities Spatial Information Framework
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Smart Cities Spatial Information Framework
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=61188
+- content: https://portal.ogc.org/files/?artifact_id=61188
   type: obp
 type: standard
 docid:
-  id: 14-115
+- id: 14-115
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-01-21'
 contributor:
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2015-01-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This White Paper supports development of a Smart Cities Spatial Information
+- content: "This White Paper supports development of a Smart Cities Spatial Information
     Framework\r\nbased on these themes:\r\nK Smart Cities are high-density generators
     of innovation and information.\r\nK Location information is a major enabler of
     Smart City technology benefits.\r\nK Benefits of smart technology must be judged
@@ -49,10 +58,12 @@ abstract:
     that are involved with Smart Cities.\r\nThis white paper builds on the OGC - Directions
     Magazine webinar: “Making Location\r\nWork for Smart Cities – the Case for Location
     Standards”2."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

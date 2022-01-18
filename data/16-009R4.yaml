@@ -3,46 +3,57 @@ id: 16-009r4
 title:
 - type: title-main
   content: 'Volume 6: OGC CDB Rules for Encoding Data using OpenFlight'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 6: OGC CDB Rules for Encoding Data using OpenFlight'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/16-009r4
+- content: https://portal.ogc.org/files/16-009r4
   type: obp
 type: standard
 docid:
-  id: 16-009r4
+- id: 16-009r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-12-19'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2018-12-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This volume defines the OpenFlight implementation requirements for a CDB
+- content: 'This volume defines the OpenFlight implementation requirements for a CDB
     conformant data store. Please also see Volume 1 OGC CDB Core Standard: Model and
     Physical Structure for a general description of all of the industry standard formats
     specified by the CDB standard. Please read section 1.3.1 of that document for
     a general overview.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

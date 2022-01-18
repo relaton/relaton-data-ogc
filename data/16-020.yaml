@@ -3,47 +3,58 @@ id: 16-020
 title:
 - type: title-main
   content: Testbed-12 ShapeChange Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Testbed-12 ShapeChange Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-020.html
+- content: http://docs.opengeospatial.org/per/16-020.html
   type: obp
 type: standard
 docid:
-  id: 16-020
+- id: 16-020
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-04-04'
 contributor:
 - person:
     name:
       completename: Johannes Echterhoff
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-04-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document is a deliverable of the OGC Testbed 12. It describes the
+- content: "This document is a deliverable of the OGC Testbed 12. It describes the
     results of enhancing the tool ShapeChange in the following areas of processing
     an ISO 19109 conformant application schema:\r\n\r\nCreating a schema profile -
     to support implementations that focus on a subset of the use cases in scope of
     the original application schema.\r\n\r\nDeriving an ontology representation of
     the application schema (using RDF(S)/SKOS/OWL) - to support Semantic Web / Linked
     Data implementations."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,63 +3,78 @@ id: 16-012r1
 title:
 - type: title-main
   content: Comparing CityGML and IndoorGML based on a use case at Lotte World Mall
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Comparing CityGML and IndoorGML based on a use case at Lotte World Mall
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=68824
+- content: https://portal.ogc.org/files/?artifact_id=68824
   type: obp
 type: standard
 docid:
-  id: 16-012r1
+- id: 16-012r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-12-22'
 contributor:
 - person:
     name:
       completename: Ki-Joune Li
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Hyung-Gyu Ryu
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Hak-Cheol Kim
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jun Hee Lee
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Joo-Ho Lee
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2016-12-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This OGC Discussion Paper provides a comparison between the OGC CityGML
+- content: 'This OGC Discussion Paper provides a comparison between the OGC CityGML
     and IndoorGML standards. The goals and approaches of these two standards are different
     and they can be used in a complementary way. This discussion paper aims to compare
     the strengths and weakness of the standards, and explain how to integrate the
     standards to make useful applications. These comparative experiments are based
     on a real site: a shopping mall at Lotte World Mall in Seoul, South Korea.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

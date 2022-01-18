@@ -3,45 +3,56 @@ id: 11-169
 title:
 - type: title-main
   content: Lightweight SOS Profile for Stationary In-Situ Sensors Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Lightweight SOS Profile for Stationary In-Situ Sensors Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=46693
+- content: https://portal.ogc.org/files/?artifact_id=46693
   type: obp
 type: standard
 docid:
-  id: 11-169
+- id: 11-169
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-12-19'
 contributor:
 - person:
     name:
       completename: Simon Jirka
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Christoph Stasch
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Arne Bröring
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2011-12-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This Discussion Paper describes a lightweight SOS 2.0 profile for stationary
+- content: "This Discussion Paper describes a lightweight SOS 2.0 profile for stationary
     in-situ sensors. Besides the SOS itself this document also addresses the data
     formats used by the SOS: Observations & Measurements 2.0 (O&M) for encoding measurement
     data and the Sensor Model Language 2.0 (SensorML) for encoding metadata. Other
@@ -52,10 +63,12 @@ abstract:
     majority of use cases that occur in practice. At the same time, the profile is
     designed in such a way that all SOS implementations that conform to this profile
     are also compliant to the according OGC specifications."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -3,37 +3,46 @@ id: 18-089
 title:
 - type: title-main
   content: OGC Indoor Mapping and Navigation Pilot Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Indoor Mapping and Navigation Pilot Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/18-089.html
+- content: http://docs.opengeospatial.org/per/18-089.html
   type: obp
 type: standard
 docid:
-  id: 18-089
+- id: 18-089
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-10-23'
 contributor:
 - person:
     name:
       completename: Charles Chen
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2019-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OGC Indoor Mapping and Navigation Pilot Initiative was sponsored by
+- content: "The OGC Indoor Mapping and Navigation Pilot Initiative was sponsored by
     the National Institute of Standards and Technology (NIST) Public Safety Communications
     Research (PSCR) Division. This initiative addressed key challenges related to
     indoor mapping and navigation for the purpose of supporting first responders in
@@ -62,10 +71,12 @@ abstract:
     use of 3D LiDAR and imagery has many potential upsides beyond just creating point
     clouds for visualization and mapping (e.g., use in localization, object classification,
     integration with virtual/augmented reality solutions, change detection, etc.)."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,43 +3,54 @@ id: 07-036r1
 title:
 - type: title-intro
   content: OpenGIS Geography Markup Language (GML) Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: with corrigendum
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Geography Markup Language (GML) Encoding Standard - with corrigendum
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=74183&version=2
+- content: https://portal.ogc.org/files/?artifact_id=74183&version=2
   type: obp
 type: standard
 docid:
-  id: 07-036r1
+- id: 07-036r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-04-14'
 contributor:
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2018-04-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OpenGIS® Geography Markup Language Encoding Standard (GML) The Geography
+- content: "The OpenGIS® Geography Markup Language Encoding Standard (GML) The Geography
     Markup Language (GML) is an XML grammar for expressing geographical features.
     GML serves as a modeling language for geographic systems as well as an open interchange
     format for geographic transactions on the Internet. As with most XML based grammars,
@@ -56,10 +67,12 @@ abstract:
     the OpenGIS® Web Feature Service Interface Standard[http://www.opengeospatial.org/standards/wfs]
     read and write GML data. GML is also an ISO standard (ISO 19136:2007) [www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=32554
     ].  \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

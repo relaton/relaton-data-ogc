@@ -4,47 +4,58 @@ title:
 - type: title-main
   content: Summary of the Architecture, Engineering, Construction, Owner Operator
     Phase 1 (AECOO-1) Joint Testbed
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Summary of the Architecture, Engineering, Construction, Owner Operator
     Phase 1 (AECOO-1) Joint Testbed
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=37223
+- content: https://portal.ogc.org/files/?artifact_id=37223
   type: obp
 type: standard
 docid:
-  id: 10-003r1
+- id: 10-003r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-06-04'
 contributor:
 - person:
     name:
       completename: Louis Hecht
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jr.
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Raj Singh
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2010-06-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Architecture, Engineering, Construction, Owner Operator, Phase 1 (AECOO-1)
+- content: The Architecture, Engineering, Construction, Owner Operator, Phase 1 (AECOO-1)
     Testbed developed and implemented methods to streamline communications between
     parties in the conceptual design phase to get an early understanding of the tradeoffs
     between construction cost and energy efficiency. To that end, the project developed
@@ -57,10 +68,12 @@ abstract:
     need to practice the best way they know, and practice profitably; software interoperability
     problems must not hold them back. Non-interoperable software and data is cause
     for loss of competition across the market.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

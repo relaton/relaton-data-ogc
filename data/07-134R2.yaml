@@ -3,38 +3,47 @@ id: 07-134r2
 title:
 - type: title-main
   content: OGC KML 2.2 -Abstract Test Suite
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC KML 2.2 -Abstract Test Suite
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=27811
+- content: https://portal.ogc.org/files/?artifact_id=27811
   type: obp
 type: standard
 docid:
-  id: 07-134r2
+- id: 07-134r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-04-14'
 contributor:
 - person:
     name:
       completename: Richard Martell
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2008-04-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document is an abstract test suite (ATS): a compendium of abstract
+- content: "This document is an abstract test suite (ATS): a compendium of abstract
     test cases that provide a basis for verifying the structure and content of OGC
     KML 2.2 instance documents. Three conformance levels are defined; each level builds
     on the preceding ones:\r\n\r\n    *\r\n\r\n      Level 1 - includes test cases
@@ -42,10 +51,12 @@ abstract:
     \   *\r\n\r\n      Level 2 - as for Level 1, plus test cases addressing recommended
     requirements;\r\n    *\r\n\r\n      Level 3 - as for Level 2, plus test cases
     covering suggested constraints that are informative in nature."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

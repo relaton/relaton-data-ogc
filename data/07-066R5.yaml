@@ -3,45 +3,56 @@ id: 07-066r5
 title:
 - type: title-main
   content: Corrigendum 2 for the OGC Standard Web Coverage Service 1.1
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Corrigendum 2 for the OGC Standard Web Coverage Service 1.1
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=27298
+- content: https://portal.ogc.org/files/?artifact_id=27298
   type: obp
 type: standard
 docid:
-  id: 07-066r5
+- id: 07-066r5
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-04-29'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '5'
 revdate: '2008-04-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document provides the details of a corrigendum to an OpenGIS Implementation
+- content: This document provides the details of a corrigendum to an OpenGIS Implementation
     Standard and does not modify the base standard. The OGC Standard that this document
     provides revision notes for is Web Coverage Service Standard, Version 1.1 Corrigendum
     2 [OGC 07-067r5].
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

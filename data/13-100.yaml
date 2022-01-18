@@ -4,38 +4,47 @@ title:
 - type: title-main
   content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
     Core
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
     Core
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=55231
+- content: https://portal.ogc.org/files/?artifact_id=55231
   type: obp
 type: standard
 docid:
-  id: 13-100
+- id: 13-100
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-11-06'
 contributor:
 - person:
     name:
       completename: 'Andreas Matheus '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2013-11-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This standard defines the version 3.0 of a geospatial extension to the
+- content: "This standard defines the version 3.0 of a geospatial extension to the
     OASIS eXtensible Access Control Markup Language (XACML) Version 3.0 standard.
     It thereby enables the interoperable definition of access rights / constraints
     using the XACML 3.0 language, processing model and policy schema but extends the
@@ -49,10 +58,12 @@ abstract:
     eXensible Access Control Markup Language (GeoXACML) 3.0 Core inherits by normative
     reference ISO 19125 which defines a geometry model and functions on geometry instances
     which enrich the XACML 3.0 specification. \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

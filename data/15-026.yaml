@@ -3,45 +3,56 @@ id: 15-026
 title:
 - type: title-main
   content: OGC® Testbed-11 Aviation Feature Schema Recommendations Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Testbed-11 Aviation Feature Schema Recommendations Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=63306
+- content: https://portal.ogc.org/files/?artifact_id=63306
   type: obp
 type: standard
 docid:
-  id: 15-026
+- id: 15-026
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-10-30'
 contributor:
 - person:
     name:
       completename: Thomas Forbes
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Alberto Olivares
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Richard Rombouts
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2015-10-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Developed by EUROCONTROL, the Aviation Feature Schema (AFX) is a template
+- content: "Developed by EUROCONTROL, the Aviation Feature Schema (AFX) is a template
     for\r\napplication schemas to implement by adding their operational attributes.
     For example, the\r\nAirport Mapping format can be implemented by extending AFX.
     The AFX defines\r\nconcepts of geometry and temporality through predefined classes
@@ -54,10 +65,12 @@ abstract:
     GIS entry level for aviation data, providing recommendations of suitability and
     areas\r\nof improvement. The report is aimed at system and client developers that
     shall use AFX."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

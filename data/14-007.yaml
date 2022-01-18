@@ -3,47 +3,58 @@ id: 14-007
 title:
 - type: title-main
   content: OGC® Testbed 10 Report on Aviation Binding AIXM to Development Tools
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Testbed 10 Report on Aviation Binding AIXM to Development Tools
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=58931
+- content: https://portal.ogc.org/files/?artifact_id=58931
   type: obp
 type: standard
 docid:
-  id: 14-007
+- id: 14-007
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-07-15'
 contributor:
 - person:
     name:
       completename: Matthes Rieke
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2014-07-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). Its
+- content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). Its
     contents cover the summary of the work carried out regarding the creation and
     evaluation of generated data bindings for the Aeronautical Information Exchange
     Model (AIXM) for established programming languages.\r\nSuggested additions, changes,
     and comments on this draft report are welcome and encouraged. Such suggestions
     may be submitted by email message or by making suggested changes in an edited
     copy of this document.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

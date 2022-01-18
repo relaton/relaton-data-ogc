@@ -3,43 +3,54 @@ id: 99-051
 title:
 - type: title-main
   content: Catalog Interface
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Catalog Interface
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=831
+- content: https://portal.ogc.org/files/?artifact_id=831
   type: obp
 type: standard
 docid:
-  id: 99-051
+- id: 99-051
   type: OGC
 date:
-  type: published
+- type: published
   value: '1999-07-16'
 contributor:
 - person:
     name:
       completename: Doug Nebert
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '1999-07-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Defines a common interface that enables diverse but conformant applications
+- content: Defines a common interface that enables diverse but conformant applications
     to perform discovery, browse and query operations against distributed and potentially
     heterogeneous catalog servers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -3,45 +3,56 @@ id: 06-135r1
 title:
 - type: title-main
   content: Specification best practices
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Specification best practices
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=17566
+- content: https://portal.ogc.org/files/?artifact_id=17566
   type: obp
 type: standard
 docid:
-  id: 06-135r1
+- id: 06-135r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-01-29'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2007-01-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document describes a variety of Best Practices and Specification development
+- content: This document describes a variety of Best Practices and Specification development
     guidance that the Members have discussed and approved over the years. These Best
     Practices have not been captured in other formal OGC documents other than meeting
     notes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

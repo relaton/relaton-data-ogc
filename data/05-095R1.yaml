@@ -3,44 +3,55 @@ id: 05-095r1
 title:
 - type: title-main
   content: GML 3.1.1 common CRSs profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: GML 3.1.1 common CRSs profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=13204
+- content: https://portal.ogc.org/files/?artifact_id=13204
   type: obp
 type: standard
 docid:
-  id: 05-095r1
+- id: 05-095r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-07-18'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2006-07-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document defines a profile of the Geography Markup Language (GML)
+- content: This document defines a profile of the Geography Markup Language (GML)
     version 3.1.1 for encoding definitions of commonly-used Coordinate Reference Systems
     (CRSs) plus related coordinate Conversions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: profile
 editorialgroup:

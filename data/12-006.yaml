@@ -3,55 +3,68 @@ id: 12-006
 title:
 - type: title-main
   content: OGC® Sensor Observation Service Interface Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Sensor Observation Service Interface Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=47599
+- content: https://portal.ogc.org/files/?artifact_id=47599
   type: obp
 type: standard
 docid:
-  id: 12-006
+- id: 12-006
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-04-20'
 contributor:
 - person:
     name:
       completename: Arne Bröring
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Christoph Stasch
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Johannes Echterhoff
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2012-04-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The SOS standard is applicable to use cases in which sensor data needs
+- content: "The SOS standard is applicable to use cases in which sensor data needs
     to be managed in an\r\ninteroperable way. This standard defines a Web service
     interface which allows querying\r\nobservations, sensor metadata, as well as representations
     of observed features. Further, this\r\nstandard defines means to register new
     sensors and to remove existing ones. Also, it defines\r\noperations to insert
     new sensor observations. This standard defines this functionality in a binding\r\nindependent
     way; two bindings are specified in this document: a KVP binding and a SOAP\r\nbinding."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

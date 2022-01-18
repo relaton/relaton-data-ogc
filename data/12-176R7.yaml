@@ -3,59 +3,74 @@ id: 12-176r7
 title:
 - type: title-intro
   content: OGC® Catalogue Services 3.0 Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: HTTP Protocol Binding
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Catalogue Services 3.0 Specification - HTTP Protocol Binding
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/12-176r7/12-176r7.html
+- content: http://docs.opengeospatial.org/is/12-176r7/12-176r7.html
   type: obp
 type: standard
 docid:
-  id: 12-176r7
+- id: 12-176r7
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-06-10'
 contributor:
 - person:
     name:
       completename: Doug Nebert
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Uwe Voges
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Panagiotis Vretanos
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Lorenzo Bigagli
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Bruce Westcott
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '7'
 revdate: '2016-06-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document specifies the HTTP profile of the CSW General Model part
+- content: "This document specifies the HTTP profile of the CSW General Model part
     (see OGC 12-\r\n168r6). The General Model specifies the abstract interfaces between
     clients and catalogue\r\nservices. This standard specifies the mappingof the Catalogue
     abstract model interface\r\ninto the HTTP protocol binding.\r\nIn this HTTP protocol
@@ -70,10 +85,12 @@ abstract:
     to retrieve records from the catalogue (i.e. GetRecordById and\r\nGetRecords);
     operations that allow a client to add, modify and remove records from the\r\ncatalogue
     service (i.e. Transaction, Harvest, UnHarvest)."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

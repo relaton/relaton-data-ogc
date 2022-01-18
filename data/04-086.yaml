@@ -3,47 +3,58 @@ id: 04-086
 title:
 - type: title-main
   content: EA-SIG Discovery White Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: EA-SIG Discovery White Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=7563
+- content: https://portal.ogc.org/files/?artifact_id=7563
   type: obp
 type: standard
 docid:
-  id: 04-086
+- id: 04-086
   type: OGC
 date:
-  type: published
+- type: published
   value: '2004-02-20'
 contributor:
 - person:
     name:
       completename: Jeff Harrison,A.J. Maren,Jeff Stohlman,Mike Meyer,Glenn Pruitt,John
         Clink,Hans Polzer,Mark Schiffner
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2004-02-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "*RETIRED* This document describes the role of Discovery Services in the
+- content: "*RETIRED* This document describes the role of Discovery Services in the
     net-centric enterprise. The network centric enterprise is an environment with
     an almost infinite variety of resources. In this rich environment, suitable resources
     can be found to support almost any operational need. The problem, however, is
     finding the appropriate resources when they are needed. Discovery services address
     this problem."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

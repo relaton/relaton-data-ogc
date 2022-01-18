@@ -3,47 +3,58 @@ id: 19-018
 title:
 - type: title-main
   content: 'OGC Testbed-15: Open Portrayal Framework Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-15: Open Portrayal Framework Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/19-018.html
+- content: http://docs.opengeospatial.org/per/19-018.html
   type: obp
 type: standard
 docid:
-  id: 19-018
+- id: 19-018
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-02-06'
 contributor:
 - person:
     name:
       completename: Martin Klopfer
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2020-02-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Engineering Report (ER) describes the OGC Testbed-15 Open Portrayal
+- content: This Engineering Report (ER) describes the OGC Testbed-15 Open Portrayal
     Framework (OPF) Thread requirements, scenario, high-level architecture, and solutions.
     Main topics addressed in the OPF Thread include style changing and sharing, converting
     style encodings, client- / server-side rendering of vector- and raster data and
     data provision in denied, disrupted, intermittent, and limited bandwidth (DDIL)
     infrastructure situations. The work in the OPF Thread was focused on an OGC Application
     Programming Interface (API) oriented approach.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

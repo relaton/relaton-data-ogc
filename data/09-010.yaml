@@ -3,49 +3,62 @@ id: '09-010'
 title:
 - type: title-intro
   content: OGC® Catalogue Services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: OWL Application Profile of CSW
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Catalogue Services - OWL Application Profile of CSW
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://portal.opengeospatial.org/files/?artifact_id=32620
+- content: http://portal.opengeospatial.org/files/?artifact_id=32620
   type: obp
 type: standard
 docid:
-  id: '09-010'
+- id: '09-010'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2009-07-27'
 contributor:
 - person:
     name:
       completename: Kristin Stock
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2009-07-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document describes an Application Profile for the Web Ontology Language
+- content: This document describes an Application Profile for the Web Ontology Language
     (OWL) [W3C OWL] for CSW.  It is intended to define a specification for how ontologies
     built using RDF and OWL may be included within an OGC CSW catalogue to semantically-enable
     the catalogue.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

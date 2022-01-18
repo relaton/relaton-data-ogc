@@ -3,37 +3,46 @@ id: 12-028
 title:
 - type: title-main
   content: Guidance and Profile of GML for use with Aviation Data
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Guidance and Profile of GML for use with Aviation Data
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=47859
+- content: https://portal.ogc.org/files/?artifact_id=47859
   type: obp
 type: standard
 docid:
-  id: 12-028
+- id: 12-028
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-05-15'
 contributor:
 - person:
     name:
       completename: OGC Aviation Domain Working Group
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2012-05-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The ISO 19107 spatial schema, which is implemented by GML, is very complex.
+- content: "The ISO 19107 spatial schema, which is implemented by GML, is very complex.
     ISO\r\n19107 defines an extensive list of geometries, geometric properties and
     operations –\r\nmany of which are not necessary for aeronautical information applications.
     In addition,\r\nthe ISO 19107 contains an exhaustive 3D geometry model that is
@@ -41,10 +50,12 @@ abstract:
     for AIXM needs to be defined.\r\nThe objective of this document is to identify
     the elements of the AIXM-GML profile and\r\nalso to provide guidelines for the
     use of GML constructs in AIXM data sets.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

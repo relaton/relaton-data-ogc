@@ -3,34 +3,42 @@ id: 17-047r1
 title:
 - type: title-main
   content: OGC OpenSearch-EO GeoJSON(-LD) Response Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC OpenSearch-EO GeoJSON(-LD) Response Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/17-047r1/17-047r1.html
+- content: http://docs.opengeospatial.org/is/17-047r1/17-047r1.html
   type: obp
 type: standard
 docid:
-  id: 17-047r1
+- id: 17-047r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-04-27'
 contributor:
-  organization:
-    name: Open Geospatial Consortium
-  role: publisher
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2020-04-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OpenSearch specification [NR3] is defined as a binding of the Abstract
+- content: "The OpenSearch specification [NR3] is defined as a binding of the Abstract
     Protocol Definition (APD) for the searchRetrieve operation, one of a set of documents
     [NR4] for the OASIS Search Web Services (SWS) initiative [OR1]. The OpenSearch
     Description Document (OSDD) allows clients to retrieve service metadata from an
@@ -65,10 +73,12 @@ abstract:
     JSON-LD context which allows each property to be explicitly defined as a URI.
     \ Furthermore, the JSON encoding is defined using JSON Schema [OR24] which allows
     validation of instances against these schemas."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

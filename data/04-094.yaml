@@ -3,37 +3,46 @@ id: 04-094
 title:
 - type: title-main
   content: OpenGIS Web Feature Service (WFS) Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Web Feature Service (WFS) Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=8339
+- content: https://portal.ogc.org/files/?artifact_id=8339
   type: obp
 type: standard
 docid:
-  id: 04-094
+- id: 04-094
   type: OGC
 date:
-  type: published
+- type: published
   value: '2005-05-03'
 contributor:
 - person:
     name:
       completename: 'Peter Vretanos '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2005-05-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OpenGIS Web Feature Service Interface Standard  (WFS) defines an interface[http://www.opengeospatial.org/ogc/glossary/i]
+- content: "The OpenGIS Web Feature Service Interface Standard  (WFS) defines an interface[http://www.opengeospatial.org/ogc/glossary/i]
     for specifying requests for retrieving geographic features [http://www.opengeospatial.org/ogc/glossary/g]
     across the Web using platform-independent calls. The WFS standard defines interfaces
     and operations for data access and manipulation on a set of geographic features,
@@ -43,10 +52,12 @@ abstract:
     \r\n\r\nThe specified feature encoding for input and output is the Geography Markup
     Language (GML) [http://www.opengeospatial.org/standards/gml] although other encodings
     may be used.  \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

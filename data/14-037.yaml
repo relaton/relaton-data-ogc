@@ -3,41 +3,51 @@ id: 14-037
 title:
 - type: title-main
   content: OGC® Testbed 10 Flight Information Exchange Model GML Schema
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Testbed 10 Flight Information Exchange Model GML Schema
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=58956
+- content: https://portal.ogc.org/files/?artifact_id=58956
   type: obp
 type: standard
 docid:
-  id: 14-037
+- id: 14-037
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-07-16'
 contributor:
 - person:
     name:
       completename: Thomas Forbes
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ballal Joglekar
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2014-07-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This report provides guidance for implementing the Flight Information
+- content: "This report provides guidance for implementing the Flight Information
     Exchange Model (FIXM) using the same best practice as the Aeronautical Information
     Exchange Model (AIXM) and the Weather Information Exchange Model (WXXM) by adopting
     ISO and OGC standards.\r\nThe report is aimed at system and client developers
@@ -58,10 +68,12 @@ abstract:
     around the following threads:\r\n•\tCross-Community Interoperability (CCI)\r\n•\tOpen
     Mobility\r\n•\tAviation\r\nMore information about the Testbed-10 tested can be
     found at:\r\nhttp://www.opengeospatial.org/standards/requests/103\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,46 +3,57 @@ id: 19-041r3
 title:
 - type: title-main
   content: OGC® Routing Pilot ER
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Routing Pilot ER
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/19-041r3.html
+- content: http://docs.opengeospatial.org/per/19-041r3.html
   type: obp
 type: standard
 docid:
-  id: 19-041r3
+- id: 19-041r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-01-08'
 contributor:
 - person:
     name:
       completename: Sam Meek
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Theo Brown
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2020-01-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The goal of this OGC Routing Pilot Engineering Report (ER) is to document
+- content: The goal of this OGC Routing Pilot Engineering Report (ER) is to document
     the proof of concept of an Application Programming Interface (API) conforming
     to a profile of the draft OGC API - Processes specification that allows implementation
     of vector routing across one or more routing engines. The components implemented
@@ -51,10 +62,12 @@ abstract:
     communicated with three routing engines. This work resulted in the definition
     of a proposed common interface and data exchange model supported by all components
     for requesting, generating and returning routes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

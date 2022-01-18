@@ -3,58 +3,72 @@ id: 07-165r1
 title:
 - type: title-main
   content: 'OGC Sensor Web Enablement: Overview and High Level Architecture'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Sensor Web Enablement: Overview and High Level Architecture'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/wp/07-165r1/
+- content: http://docs.opengeospatial.org/wp/07-165r1/
   type: obp
 type: standard
 docid:
-  id: 07-165r1
+- id: 07-165r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-04-02'
 contributor:
 - person:
     name:
       completename: Mike Botts
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: John Davidson
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2013-04-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A sensor network is a computer accessible network of many, spatially distributed
+- content: A sensor network is a computer accessible network of many, spatially distributed
     devices using sensors to monitor conditions at different locations, such as temperature,
     sound, vibration, pressure, motion or pollutants[1]. A Sensor Web refers to web
     accessible sensor networks and archived sensor data that can be discovered and
     accessed using standard protocols and application program interfaces (APIs).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

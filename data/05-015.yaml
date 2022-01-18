@@ -3,37 +3,46 @@ id: 05-015
 title:
 - type: title-main
   content: Imagery Metadata
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Imagery Metadata
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=8826
+- content: https://portal.ogc.org/files/?artifact_id=8826
   type: obp
 type: standard
 docid:
-  id: 05-015
+- id: 05-015
   type: OGC
 date:
-  type: published
+- type: published
   value: '2005-01-27'
 contributor:
 - person:
     name:
       completename: Barry Schlesinger
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2005-01-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Special XML schemas have been created for individual data sets, based
+- content: 'Special XML schemas have been created for individual data sets, based
     on ISO 19115 and a general schema for the RSE. However, a generalized metadata
     XML schema should be available where possible; it should not be necessary to create
     special schemas for each data set. ISO 19139 can serve as such a general XML implementation
@@ -46,10 +55,12 @@ abstract:
     are supported by 19139, to what extent they are supported by metadata specified
     in the new ISO standards or the RSE, and to what extent new metadata elements
     are needed. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

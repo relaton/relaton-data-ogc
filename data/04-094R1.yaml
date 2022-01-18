@@ -3,38 +3,47 @@ id: 04-094r1
 title:
 - type: title-main
   content: OGC Web Feature Service Implementation Specification with Corrigendum
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Web Feature Service Implementation Specification with Corrigendum
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/04-094r1/04-094r1.html
+- content: http://docs.opengeospatial.org/is/04-094r1/04-094r1.html
   type: obp
 type: standard
 docid:
-  id: 04-094r1
+- id: 04-094r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-10-26'
 contributor:
 - person:
     name:
       completename: Panagiotis A. Vretanos
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2016-10-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OGC Web Map Service allows a client to overlay map images for display
+- content: "The OGC Web Map Service allows a client to overlay map images for display
     served from multiple  Web Map Services on the Internet.  In a similar fashion,
     the OGC Web Feature Service allows a client to retrieve and update geospatial
     data encoded in Geography Markup Language (GML) from multiple Web Feature Services.\r\n\r\nThe
@@ -46,10 +55,12 @@ abstract:
     to store geographic features should be opaque to client applications and their
     only view of the data should be through the WFS interface.\r\n The use of a subset
     of XPath expressions for referencing properties.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

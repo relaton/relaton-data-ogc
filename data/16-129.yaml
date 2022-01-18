@@ -4,52 +4,64 @@ title:
 - type: title-main
   content: Standardized Information Models to Optimize Exchange, Reusability and Comparability
     of Citizen Science Data (SWE4CS)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Standardized Information Models to Optimize Exchange, Reusability and Comparability
     of Citizen Science Data (SWE4CS)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=70328
+- content: https://portal.ogc.org/files/?artifact_id=70328
   type: obp
 type: standard
 docid:
-  id: 16-129
+- id: 16-129
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-03-31'
 contributor:
 - person:
     name:
       completename: Ingo Simonis
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Rob Atkinson
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-03-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This discussion paper describes a data model for the standardized exchange
+- content: This discussion paper describes a data model for the standardized exchange
     of citizen science sampling data. To do that it applies the Sensor Web Enablement
     (SWE) to Citizen Science (SWE4CS). In particular, exposes how Observations and
     Measurements (O&M) can be used to model the data of the Citizen Science project,
     in a way that can be retrieved using Sensor Observing System (SOS).This discussion
     paper is a result of the research project Citizen Observatory Web (COBWEB). COBWEB
     is supported by the European Commission through grant agreement 308513
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -3,53 +3,66 @@ id: 11-158
 title:
 - type: title-intro
   content: Corrigendum 2 for OGC Web Services Common Specification v 1.1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Exception Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Corrigendum 2 for OGC Web Services Common Specification v 1.1.0 - Exception
     Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=46436
+- content: https://portal.ogc.org/files/?artifact_id=46436
   type: obp
 type: standard
 docid:
-  id: 11-158
+- id: 11-158
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-10-18'
 contributor:
 - person:
     name:
       completename: Jim Greenwood
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2011-10-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document defines the corrigendum change notes for <OGC Web services
+- content: This document defines the corrigendum change notes for <OGC Web services
     Common Specification v1.1.0. This document was approved by the OGC membership
     on December 2010 . As a result of the Corrigendum process, there were edits and
     enhancements made to this standard to correct typographic errors, schema errors,
     or some deficiency that prevented proper use of this standard. This document provides
     the details of those edits, deficiency corrections, and other corrects. It also
     documents those items that have been deprecated.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

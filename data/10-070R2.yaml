@@ -3,44 +3,55 @@ id: 10-070r2
 title:
 - type: title-main
   content: OpenGIS® Georeferenced Table Joining Service Implementation Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS® Georeferenced Table Joining Service Implementation Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=40095
+- content: https://portal.ogc.org/files/?artifact_id=40095
   type: obp
 type: standard
 docid:
-  id: 10-070r2
+- id: 10-070r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-11-22'
 contributor:
 - person:
     name:
       completename: Peter Schut
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2010-11-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document is the specification for a Table Joining Service (TJS). This
+- content: This document is the specification for a Table Joining Service (TJS). This
     OGC standard defines a simple way to describe and exchange tabular data that contains
     information about geographic objects.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

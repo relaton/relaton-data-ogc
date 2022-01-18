@@ -3,47 +3,59 @@ id: 04-038r2
 title:
 - type: title-main
   content: ISO19115/ISO19119 Application Profile for CSW 2.0 (CAT2 AP ISO19115/19)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: ISO19115/ISO19119 Application Profile for CSW 2.0 (CAT2 AP ISO19115/19)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=8305
+- content: https://portal.ogc.org/files/?artifact_id=8305
   type: obp
 type: standard
 docid:
-  id: 04-038r2
+- id: 04-038r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2005-04-27'
 contributor:
 - person:
     name:
       completename: Uwe Voges
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kristian Senkler
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2005-04-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document explains how Catalogue Services based on the ISO19115/ISO19119
+- content: This document explains how Catalogue Services based on the ISO19115/ISO19119
     Application Profile for the OpenGIS
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

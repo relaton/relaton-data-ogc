@@ -3,55 +3,69 @@ id: 12-049
 title:
 - type: title-intro
   content: OGC® Web Coverage Service Interface Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: " Interpolation Extension"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Web Coverage Service Interface Standard -  Interpolation Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=54502
+- content: https://portal.ogc.org/files/?artifact_id=54502
   type: obp
 type: standard
 docid:
-  id: 12-049
+- id: 12-049
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-02-26'
 contributor:
 - person:
     name:
       completename: Peter Baumann
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jinsongdi Yu
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2014-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC standard specifies parameters to the OGC Web Coverage Service
+- content: "This OGC standard specifies parameters to the OGC Web Coverage Service
     (WCS) GetCov-erage request which give control over interpolation of a coverage
     during its server-side pro-cessing. This allows the client (user) to control and
     specify the interpolation mechanism to be applied to a coverage during server
     processing.\r\nThis WCS Interpolation extension relies on WCS Core [OGC 09-110r4]
     and the GML Appli-cation Schema for Coverages [OGC 09-146r2].\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: extension
 editorialgroup:

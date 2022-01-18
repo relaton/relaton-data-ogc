@@ -3,44 +3,55 @@ id: 06-182r1
 title:
 - type: title-main
   content: Discussions, findings, and use of WPS in OWS-4
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Discussions, findings, and use of WPS in OWS-4
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=19424
+- content: https://portal.ogc.org/files/?artifact_id=19424
   type: obp
 type: standard
 docid:
-  id: 06-182r1
+- id: 06-182r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-06-06'
 contributor:
 - person:
     name:
       completename: Steven Keens
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2007-06-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document reviews the material discussed during the OWS-4 project,
+- content: 'This document reviews the material discussed during the OWS-4 project,
     describes the WPS processes deployed in the workflows, and offers suggestions
     to the OGC to move forward with the WPS. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

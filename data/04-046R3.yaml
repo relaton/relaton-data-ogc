@@ -3,47 +3,60 @@ id: 04-046r3
 title:
 - type: title-intro
   content: Topic 2
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Spatial Referencing by Coordinates
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Topic 2 - Spatial Referencing by Coordinates
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=6716
+- content: https://portal.ogc.org/files/?artifact_id=6716
   type: obp
 type: standard
 docid:
-  id: 04-046r3
+- id: 04-046r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2004-02-11'
 contributor:
 - person:
     name:
       completename: Roger Lott
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2004-02-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Describes modelling requirements for spatial referencing by coordinates.
-  language: en
-  script: Latn
+- content: Describes modelling requirements for spatial referencing by coordinates.
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

@@ -3,37 +3,46 @@ id: 17-042
 title:
 - type: title-main
   content: 'OGC Testbed-13: CDB Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-13: CDB Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/17-042.html
+- content: http://docs.opengeospatial.org/per/17-042.html
   type: obp
 type: standard
 docid:
-  id: 17-042
+- id: 17-042
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-01-11'
 contributor:
 - person:
     name:
       completename: Sara Saeedi
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2018-01-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This Engineering Report (ER) summarizes the CDB sub-thread work in Testbed
+- content: "This Engineering Report (ER) summarizes the CDB sub-thread work in Testbed
     13. The document is structured in three phases and includes a feasibility study;
     the implementation of data models and schemas mapping that are based on the feasibility
     study results; and a set of OGC web services that implement the CDB in the form
@@ -48,10 +57,12 @@ abstract:
     requirements and constraints for extending the CDB feature data dictionary (FDD)
     and attribute schemas;\r\n\r\nThe development and prototyping of the WFS and WCS
     access to the CDB datastore for a NAS based urban military scenario."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,63 +3,78 @@ id: 19-008r4
 title:
 - type: title-main
   content: OGC GeoTIFF Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC GeoTIFF Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/19-008r4/19-008r4.html
+- content: http://docs.opengeospatial.org/is/19-008r4/19-008r4.html
   type: obp
 type: standard
 docid:
-  id: 19-008r4
+- id: 19-008r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-09-14'
 contributor:
 - person:
     name:
       completename: Emmanuel Devys
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ted Habermann
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Chuck Heazel
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Roger Lott
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Even Rouault
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2019-09-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC Standard defines the Geographic Tagged Image File Format (GeoTIFF)
+- content: This OGC Standard defines the Geographic Tagged Image File Format (GeoTIFF)
     by specifying requirements and encoding rules for using the Tagged Image File
     Format (TIFF) for the exchange of georeferenced or geocoded imagery. The OGC GeoTIFF
     1.1 standard formalizes the existing community GeoTIFF specification version 1.0
     and aligns it with the continuing addition of data to the EPSG Geodetic Parameter
     Dataset.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

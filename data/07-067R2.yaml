@@ -4,52 +4,64 @@ title:
 - type: title-main
   content: OpenGIS Web Coverage Service (WCS) Implementation Specification Corrigendum
     1
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Web Coverage Service (WCS) Implementation Specification Corrigendum
     1
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=22560
+- content: https://portal.ogc.org/files/?artifact_id=22560
   type: obp
 type: standard
 docid:
-  id: 07-067r2
+- id: 07-067r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-08-29'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: John Evans
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2007-08-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This version 1.1.1c1 of the Web Coverage Service (WCS) Specification supersedes
+- content: "This version 1.1.1c1 of the Web Coverage Service (WCS) Specification supersedes
     previous\r\nversion 1.1.0 [OGC 06-083r8]. Technical changes from the version 1.0
     include building on\r\nthe OGC Web Services Common Specification [OGC 06-121r3]
     and a substantially revised\r\nCapabilities schema; new schemas and syntax for
     operation requests (GetCoverage,\r\nDescribeCoverage); and integration with GML
     3.1. The changes in WCS 1.1.1c1 from WCS\r\n1.1.0 are summarized in [OGC 07-066r2]."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

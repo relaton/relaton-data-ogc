@@ -3,49 +3,62 @@ id: 06-104r3
 title:
 - type: title-intro
   content: OpenGIS Implementation Specification for Geographic information
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Simple feature access
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-part
   content: 'Part 2: SQL option'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OpenGIS Implementation Specification for Geographic information - Simple
     feature access - Part 2: SQL option'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=18242
+- content: https://portal.ogc.org/files/?artifact_id=18242
   type: obp
 type: standard
 docid:
-  id: 06-104r3
+- id: 06-104r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-01-29'
 contributor:
 - person:
     name:
       completename: John Herring
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2007-01-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OpenGIS® Simple Features Interface Standard (SFS) provides a well-defined
+- content: "The OpenGIS® Simple Features Interface Standard (SFS) provides a well-defined
     and common way for applications to store and access feature data in relational
     or object-relational databases, so that the data can be used to support other
     applications through a common feature model, data store and information access
@@ -57,10 +70,12 @@ abstract:
     Features Interface Standards for OLE/COM and CORBA are no longer current and are
     not provided here.) \r\n\r\nThe corresponding standard for the Web is the OpenGIS®
     Web Feature Service Interface Standard http://www.opengeospatial.org/standards/wfs.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

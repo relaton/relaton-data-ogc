@@ -4,46 +4,57 @@ title:
 - type: title-main
   content: 'Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration
     Values'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration
     Values'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=72724
+- content: https://portal.ogc.org/files/?artifact_id=72724
   type: obp
 type: standard
 docid:
-  id: 16-003r2
+- id: 16-003r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-02-23'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2017-02-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC Best Practice, a volume of the CDB document set, provides a list
+- content: This OGC Best Practice, a volume of the CDB document set, provides a list
     and description of the instance-level attribution fields held in Navigation Dataset
     Instance Attribute files. Please refer to section 3.7 of the CDB Core Standard
     (Volume 1) for information on the tables that use the Navaids key words.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

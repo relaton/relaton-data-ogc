@@ -3,56 +3,70 @@ id: 12-032r2
 title:
 - type: title-intro
   content: 'WAMI Services: Dissemination Services for Wide Area Motion Imagery'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Best Practice
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'WAMI Services: Dissemination Services for Wide Area Motion Imagery - Best
     Practice'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=50486
+- content: https://portal.ogc.org/files/?artifact_id=50486
   type: obp
 type: standard
 docid:
-  id: 12-032r2
+- id: 12-032r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-12-05'
 contributor:
 - person:
     name:
       completename: Rahul Thakkar
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Michael Maraist
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2012-12-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC Best Practice (BP) describes web interface specifications for
+- content: This OGC Best Practice (BP) describes web interface specifications for
     the access and dissemination of Wide Area Motion Imagery (WAMI) products and metadata.
     This BP also describes a framework and interface specifications common to all
     WAMI services. A <a href=https://portal.ogc.org/files/?artifact_id=50485>WAMI
     - Primer</a> has been developed to help you implement this Best Practice.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

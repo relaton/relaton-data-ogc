@@ -3,52 +3,64 @@ id: 11-092r2
 title:
 - type: title-main
   content: OWS-8 Report on Digital NOTAM Event Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-8 Report on Digital NOTAM Event Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=46243
+- content: https://portal.ogc.org/files/?artifact_id=46243
   type: obp
 type: standard
 docid:
-  id: 11-092r2
+- id: 11-092r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-04-04'
 contributor:
 - person:
     name:
       completename: Johannes Echterhoff
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Matthes Rieke
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2012-04-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document is a deliverable of the OGC Web Services (OWS) Initiative
+- content: "This document is a deliverable of the OGC Web Services (OWS) Initiative
     - Phase 8 (OWS-8). It describes the results of the conceptual and schematron rule
     based validation of the Digital NOTAM Event Specification (DNES). Various conceptual
     aspects were identified which need clarification and/or revision. Schematron rules
     were developed for a number of the DNES scenarios. This document contains coverage
     tables which document normative statements from the DNES and indicate which of
     them can be tested with existing schematron rules.\r\nSee:  <a href=http://dp.schemas.opengis.net/11-092r2>http://dp.schemas.opengis.net/11-092r2</a>"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

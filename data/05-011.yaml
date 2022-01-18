@@ -3,37 +3,46 @@ id: 05-011
 title:
 - type: title-main
   content: Recommended XML/GML 3.1.1 encoding of common CRS definitions
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Recommended XML/GML 3.1.1 encoding of common CRS definitions
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=8837
+- content: https://portal.ogc.org/files/?artifact_id=8837
   type: obp
 type: standard
 docid:
-  id: 05-011
+- id: 05-011
   type: OGC
 date:
-  type: published
+- type: published
   value: '2005-01-28'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2005-01-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document recommends standard XML encodings of data defining some
+- content: "This document recommends standard XML encodings of data defining some
     commonly-used coordinate reference systems, including geographic, projected, and
     vertical CRSs. These recommended encodings are based on GML 3.1.1. These common
     CRS definitions will often be referenced in data transferred between client and
@@ -47,10 +56,12 @@ abstract:
     a specified coordinate reference system. Coordinates are often used in datasets
     in which all coordinates belong to the same coordinate reference system. This
     paper specifies XML encoding of data defining some coordinate reference systems.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

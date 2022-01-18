@@ -3,48 +3,59 @@ id: 16-011r5
 title:
 - type: title-main
   content: 'Volume 8: CDB Spatial and Coordinate Reference Systems Guidance'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 8: CDB Spatial and Coordinate Reference Systems Guidance'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/bp/16-011r5.html
+- content: https://docs.ogc.org/bp/16-011r5.html
   type: obp
 type: standard
 docid:
-  id: 16-011r5
+- id: 16-011r5
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-02-26'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '5'
 revdate: '2021-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Volume 8 of the CDB standard defines the conceptual model and the methodologies
+- content: "Volume 8 of the CDB standard defines the conceptual model and the methodologies
     that allow the description, and transformation or conversion, of geometric properties
     within a set of spatial reference frames supported by the CDB standard. The CDB
     Spatial Reference Model (SRM) supports an unambiguous specification of the positions,
     directions, and distances associated with spatial information. This document also
     defines algorithms for precise transformation of positions, directions and distances
     among different spatial reference frames.\r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

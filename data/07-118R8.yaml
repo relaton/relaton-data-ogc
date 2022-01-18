@@ -3,48 +3,59 @@ id: 07-118r8
 title:
 - type: title-main
   content: User Management for Earth Observation Services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: User Management for Earth Observation Services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=40677
+- content: https://portal.ogc.org/files/?artifact_id=40677
   type: obp
 type: standard
 docid:
-  id: 07-118r8
+- id: 07-118r8
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-09-08'
 contributor:
 - person:
     name:
       completename: P Denis
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '8'
 revdate: '2010-09-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document describes how user and identity management information may
+- content: 'This document describes how user and identity management information may
     be included in the protocol specifications for OGC Services. The use cases addressed
     will make reference to EO (Earth Observation) services, for example catalogue
     access (EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW
     2.0 [OGC 06-131]), ordering (Ordering Services for Earth Observation Products
     [OGC 06-141r2]) and programming (OpenGIS Sensor Planning Service Application Profile
     for EO Sensors [OGC 07-018r2]). '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

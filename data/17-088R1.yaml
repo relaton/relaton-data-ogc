@@ -3,44 +3,55 @@ id: 17-088r1
 title:
 - type: title-intro
   content: Strengthening Disaster Risk Reduction Across the Americas Summit
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Simulated Exercise Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Strengthening Disaster Risk Reduction Across the Americas Summit - Simulated
     Exercise Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/17-088r1.html
+- content: http://docs.opengeospatial.org/per/17-088r1.html
   type: obp
 type: standard
 docid:
-  id: 17-088r1
+- id: 17-088r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-02-07'
 contributor:
 - person:
     name:
       completename: Luis Bermudez
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2018-02-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Disasters are responsible for major socioeconomic damages. Global initiatives
+- content: "Disasters are responsible for major socioeconomic damages. Global initiatives
     call for the improvement of information technology infrastructure to better share
     data and advance multinational collaboration.\r\n\r\nThe Strengthening Disaster
     Risk Reduction Across the Americas: A Regional Summit on the Contributions of
@@ -55,10 +66,12 @@ abstract:
     can be produced, and when and how such products are available.\r\n\r\nThis ER
     describes the description and results of the simulated scenario including the
     post-exercise activity that captured the lessons learned from the participants.\r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

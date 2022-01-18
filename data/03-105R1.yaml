@@ -3,60 +3,75 @@ id: 03-105r1
 title:
 - type: title-main
   content: OpenGIS Geography Markup Language (GML) Encoding Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Geography Markup Language (GML) Encoding Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=4700
+- content: https://portal.ogc.org/files/?artifact_id=4700
   type: obp
 type: standard
 docid:
-  id: 03-105r1
+- id: 03-105r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2004-04-19'
 contributor:
 - person:
     name:
       completename: Simon Cox
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Paul Daisey
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ron Lake
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2004-04-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Geography Markup Language (GML) is an XML encoding for the transport
+- content: The Geography Markup Language (GML) is an XML encoding for the transport
     and storage of geographic information, including both the geometry and properties
     of geographic features.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

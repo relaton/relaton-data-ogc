@@ -3,43 +3,54 @@ id: 17-089r1
 title:
 - type: title-intro
   content: OGC Web Coverage Service (WCS) 2.1 Interface Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Core
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Web Coverage Service (WCS) 2.1 Interface Standard - Core
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/17-089r1/17-089r1.html
+- content: http://docs.opengeospatial.org/is/17-089r1/17-089r1.html
   type: obp
 type: standard
 docid:
-  id: 17-089r1
+- id: 17-089r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-08-16'
 contributor:
 - person:
     name:
       completename: Peter Baumann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2018-08-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OGC Web Coverage Service (WCS) supports electronic retrieval of geospatial
+- content: "The OGC Web Coverage Service (WCS) supports electronic retrieval of geospatial
     data as coverages. Coverages are digital geospatial information representing space/time-varying
     phenomena, specifically spatio-temporal regular and irregular grids, point clouds,
     and general meshes.\r\nThis document specifies the WCS core. Every implementation
@@ -50,10 +61,12 @@ abstract:
     a backwards compatible manner by accommodating coverages as per the OGC Coverage
     Implementation Schema (CIS) 1.1 in addition to CIS 1.0 coverages as addressed
     by WCS 2.0.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

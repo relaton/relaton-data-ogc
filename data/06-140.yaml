@@ -3,45 +3,56 @@ id: 06-140
 title:
 - type: title-main
   content: Feature Styling IPR
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Feature Styling IPR
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=19084
+- content: https://portal.ogc.org/files/?artifact_id=19084
   type: obp
 type: standard
 docid:
-  id: 06-140
+- id: 06-140
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-06-08'
 contributor:
 - person:
     name:
       completename: Dr. Markus M
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2007-06-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Feature Styling is based on a distributed computational platform that
+- content: "Feature Styling is based on a distributed computational platform that
     employs a number\r\nof standard interfaces and encodings to allow for flexible,
     scalable and interoperable\r\nmanagement of symbology (styles and symbols) in
     the process of producing maps from\r\ndifferent kinds of data, most important
     being source GML data.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -3,37 +3,46 @@ id: 18-000
 title:
 - type: title-main
   content: OGC GeoPackage Related Tables Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC GeoPackage Related Tables Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/18-000/18-000.html
+- content: http://docs.opengeospatial.org/is/18-000/18-000.html
   type: obp
 type: standard
 docid:
-  id: 18-000
+- id: 18-000
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-05-08'
 contributor:
 - person:
     name:
       completename: Jeff Yutzler
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2019-05-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "A GeoPackage [geopackage] is a platform-independent SQLite [sqlite] database
+- content: "A GeoPackage [geopackage] is a platform-independent SQLite [sqlite] database
     file that contains GeoPackage data and metadata tables. GeoPackages, as described
     by the GeoPackage Encoding Standard [GPKG1_2] are designed to be extensible, including
     support for additional data types. This document defines the Related Tables Extension
@@ -45,10 +54,12 @@ abstract:
     the RTE can be used including relating parcel (land lot) features to pictures
     of that parcel or linking census boundaries to the related demographic census
     data."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

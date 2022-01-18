@@ -3,46 +3,57 @@ id: 06-055r1
 title:
 - type: title-main
   content: OpenGIS GML 3.2 image geopositioning metadata application schema
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS GML 3.2 image geopositioning metadata application schema
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=16081
+- content: https://portal.ogc.org/files/?artifact_id=16081
   type: obp
 type: standard
 docid:
-  id: 06-055r1
+- id: 06-055r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-07-12'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2006-07-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies a GML 3.2 Application Schema for image geopositioning
+- content: This document specifies a GML 3.2 Application Schema for image geopositioning
     metadata, which is also an Application Schema of ISO 19139. This geopositioning
     metadata schema is used by the separately specified Image Geopositioning Service
     (IGS) interface that adjusts the georeferencing coordinate transformations of
     images.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

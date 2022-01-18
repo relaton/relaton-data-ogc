@@ -3,62 +3,77 @@ id: 19-078r1
 title:
 - type: title-main
   content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.ogc.org/wp/19-078r1/19-078r1.html
+- content: http://docs.ogc.org/wp/19-078r1/19-078r1.html
   type: obp
 type: standard
 docid:
-  id: 19-078r1
+- id: 19-078r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-10-05'
 contributor:
 - person:
     name:
       completename: Joseph Abhayaratna
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Linda van den Brink
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Nicholas Car
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Rob Atkinson
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Timo Homburg
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Frans Knibbe
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kri
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2020-10-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This paper does four things. Firstly, it describes the benefits of representing
+- content: "This paper does four things. Firstly, it describes the benefits of representing
     geospatial data using semantics, graph, and web technologies. Secondly, it gives
     an overview of the current capabilities of the GeoSPARQL standard, showing that
     many benefits of semantic and graph technologies are already within reach. Thirdly,
@@ -76,10 +91,12 @@ abstract:
     of GeoSPARQL with non-geographic spatial data, those that see opportunities for
     using spatial data in a broad sense together with the aforementioned technologies
     are cordially invited to share their views."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

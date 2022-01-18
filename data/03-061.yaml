@@ -4,43 +4,54 @@ title:
 - type: title-main
   content: 'Critical Infrastructure Collaborative Environment Architecture: Enterprise
     Viewpoint'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Critical Infrastructure Collaborative Environment Architecture: Enterprise
     Viewpoint'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1273
+- content: https://portal.ogc.org/files/?artifact_id=1273
   type: obp
 type: standard
 docid:
-  id: 03-061
+- id: 03-061
   type: OGC
 date:
-  type: published
+- type: published
   value: '2003-05-19'
 contributor:
 - person:
     name:
       completename: Geoffrey Ehler
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2003-05-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "*RETIRED* specifies the Enterprise viewpoint for the Critical Infrastructure
+- content: "*RETIRED* specifies the Enterprise viewpoint for the Critical Infrastructure
     Collaborative Environment (CICE)."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

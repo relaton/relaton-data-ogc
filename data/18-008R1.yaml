@@ -3,54 +3,67 @@ id: 18-008r1
 title:
 - type: title-main
   content: OGC White Paper on Land Administration
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC White Paper on Land Administration
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/wp/18-008r1/18-008r1.html
+- content: http://docs.opengeospatial.org/wp/18-008r1/18-008r1.html
   type: obp
 type: standard
 docid:
-  id: 18-008r1
+- id: 18-008r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-02-12'
 contributor:
 - person:
     name:
       completename: Christiaan Lemmen
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Peter van Oosterom
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Mohsen Kalantari
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Eva-Maria Unger
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Cornelis de Zeeuw
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2019-02-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This white paper provides an overview of the land administration domain
+- content: "This white paper provides an overview of the land administration domain
     and proposes actions needed for design and develop implementation standards this
     domain. A close cooperation between the Open Geospatial Consortium (OGC) and ISO
     is expected to accelerate those developments.\r\n\r\nA huge task is waiting: the
@@ -71,10 +84,12 @@ abstract:
     community, many different scientific and professional disciplines meet. Depending
     on the stage of development and the level of societal acceptance of the land administration,
     those disciplines involved may be different."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

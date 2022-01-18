@@ -4,55 +4,68 @@ title:
 - type: title-main
   content: 'OGC MetOcean Application profile for WCS2.1: Part 1 MetOcean GetCorridor
     Extension'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC MetOcean Application profile for WCS2.1: Part 1 MetOcean GetCorridor
     Extension'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/is/15-108r3/15-108r3.html
+- content: https://docs.ogc.org/is/15-108r3/15-108r3.html
   type: obp
 type: standard
 docid:
-  id: 15-108r3
+- id: 15-108r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-03-22'
 contributor:
 - person:
     name:
       completename: Peter Trevelyan
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Paul Hershberg
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Steve Olson
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2021-03-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of the GetCorridor operation is to extract a corridor based
+- content: The purpose of the GetCorridor operation is to extract a corridor based
     on a trajectory from a multidimensional coverage. The need for the getCorridor
     operation stems from active members of the OGC MetOcean Domain Working Group (DWG)
     who saw a manifest need for extraction of such information from gridded datasets.
     This work has been done by members of the OGC MetOcean Domain Working Group.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

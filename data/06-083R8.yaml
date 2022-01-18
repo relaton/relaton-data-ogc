@@ -3,43 +3,54 @@ id: 06-083r8
 title:
 - type: title-main
   content: OpenGIS Web Coverage Service (WCS) Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Web Coverage Service (WCS) Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=18153
+- content: https://portal.ogc.org/files/?artifact_id=18153
   type: obp
 type: standard
 docid:
-  id: 06-083r8
+- id: 06-083r8
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-02-06'
 contributor:
 - person:
     name:
       completename: John Evans
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '8'
 revdate: '2007-02-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The Web Coverage Service (WCS) supports electronic retrieval of geospatial
+- content: 'The Web Coverage Service (WCS) supports electronic retrieval of geospatial
     data as coverages '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -3,38 +3,47 @@ id: 15-113r5
 title:
 - type: title-main
   content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/15-113r5
+- content: https://portal.ogc.org/files/15-113r5
   type: obp
 type: standard
 docid:
-  id: 15-113r5
+- id: 15-113r5
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-12-19'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '5'
 revdate: '2018-12-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The CDB standard defines a standardized model and structure for a single,
+- content: The CDB standard defines a standardized model and structure for a single,
     versionable, virtual representation of the earth. A CDB structured data store
     provides for a geospatial content and model definition repository that is plug-and-play
     interoperable between database authoring workstations.  Moreover, a CDB structured
@@ -45,10 +54,12 @@ abstract:
     CDB can be readily used by existing simulation client-devices (legacy Image Generators,
     Radar simulator, Computer Generated Forces, etc.) through a data publishing process
     that is performed on-demand in real-time.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

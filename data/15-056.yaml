@@ -3,41 +3,51 @@ id: 15-056
 title:
 - type: title-main
   content: 'OGC® Testbed 11 Catalogue Service and Discovery Engineering Report '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC® Testbed 11 Catalogue Service and Discovery Engineering Report '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=64382
+- content: https://portal.ogc.org/files/?artifact_id=64382
   type: obp
 type: standard
 docid:
-  id: 15-056
+- id: 15-056
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-10-01'
 contributor:
 - person:
     name:
       completename: Wenwen Li
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Sheng Wu
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2015-10-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This OGC Testbed 11 Engineering Report provides a comprehensive review
+- content: 'This OGC Testbed 11 Engineering Report provides a comprehensive review
     and comparison in terms of architecture, functionality, and usability of the OGC
     catalogue service standards CSW 2.0.2 and CSW 3.0. We are especially interested
     in how well the two standards provide support for open searches and federated
@@ -52,10 +62,12 @@ abstract:
     using the above strategies. Recommendations for adoption of CSW standards as well
     as tasks in advancing catalogue search and data discovery in future testbeds is
     also discussed. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

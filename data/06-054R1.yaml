@@ -3,47 +3,58 @@ id: 06-054r1
 title:
 - type: title-main
   content: OpenGIS Image Geopostioning Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Image Geopostioning Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=16080
+- content: https://portal.ogc.org/files/?artifact_id=16080
   type: obp
 type: standard
 docid:
-  id: 06-054r1
+- id: 06-054r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-07-12'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2006-07-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies the interface to an Image Geopositioning Service
+- content: This document specifies the interface to an Image Geopositioning Service
     that adjusts the georeferencing coordinate transformations of multiple images.
     This adjustment is normally done using a photogrammetric triangulation process,
     although other methods could be used. Such triangulation adjusts the parameter
     values of the image georeferencing coordinate transformations using a least-squares
     fitting process to measured image positions with known error statistics.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

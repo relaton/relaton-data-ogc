@@ -3,42 +3,52 @@ id: 14-055r2
 title:
 - type: title-main
   content: OGC OWS Context GeoJSON Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC OWS Context GeoJSON Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=68826
+- content: https://portal.ogc.org/files/?artifact_id=68826
   type: obp
 type: standard
 docid:
-  id: 14-055r2
+- id: 14-055r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-04-07'
 contributor:
 - person:
     name:
       completename: Pedro Gonc&#807;alves
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Roger Brackin
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2017-04-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This standard describes the GeoJSON encoding of the OGC Web Services (OWS)
+- content: "This standard describes the GeoJSON encoding of the OGC Web Services (OWS)
     Context conceptual model. This standard defines how to encode an OWS context document
     that 1.) can be extended to allow a context referencing a fully configured service
     set, and 2.) can be defined and consistently interpreted by clients.\r\nThe OWS
@@ -60,10 +70,12 @@ abstract:
     standards for OWS Context. The OGC Standards Working Group (SWG) has concluded
     that this standard can have multiple encoding formats and that each encoding format
     will be described in a separate OGC Extension to the Core model.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

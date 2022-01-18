@@ -3,38 +3,47 @@ id: 10-090r3
 title:
 - type: title-main
   content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=43732
+- content: https://portal.ogc.org/files/?artifact_id=43732
   type: obp
 type: standard
 docid:
-  id: 10-090r3
+- id: 10-090r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-04-05'
 contributor:
 - person:
     name:
       completename: Ben Domenico
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2011-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document specifies the network Common Data Form (netCDF) core standard
+- content: "This document specifies the network Common Data Form (netCDF) core standard
     and extension mechanisms. The OGC netCDF encoding supports electronic encoding
     of geospatial data, specifically digital geospatial information representing space
     and time-varying phenomena.\r\nNetCDF is a data model for array-oriented scientific
@@ -42,10 +51,12 @@ abstract:
     for that data model, and a machine-independent format are available. Together,
     the interfaces, libraries, and format support the crea-tion, access, and sharing
     of multi-dimensional scientific data.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

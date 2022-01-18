@@ -3,44 +3,55 @@ id: 14-110r2
 title:
 - type: title-intro
   content: OGC® GML Application Schema
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Coverages JPEG2000/JPIP Coverage Encoding Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding
     Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/bp/14-110r2/14-110r2.html
+- content: http://docs.opengeospatial.org/bp/14-110r2/14-110r2.html
   type: obp
 type: standard
 docid:
-  id: 14-110r2
+- id: 14-110r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-11-02'
 contributor:
 - person:
     name:
       completename: Dimitri Sarafinof
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2016-11-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Coverages represent space/time-varying phenomena, such as satellite imagery,
+- content: "Coverages represent space/time-varying phenomena, such as satellite imagery,
     digital elevation models, or digital aerial imagery. OGC Abstract Topic 6 [OGC
     07-011] – which is identical to ISO 19123 – defines an abstract model of coverages.
     Coverage instances may be encoded using the GML Application Schema – Coverages
@@ -54,10 +65,12 @@ abstract:
     streaming capabilities with WCS. The approach is based on the authoritative GML
     Application Schema – Coverages – JPEG2000 Coverage Encoding Extension version
     1.0 [OGC 12-108]."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

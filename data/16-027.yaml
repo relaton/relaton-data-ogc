@@ -3,41 +3,51 @@ id: 16-027
 title:
 - type: title-main
   content: Testbed-12 Web Service Implementation Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Testbed-12 Web Service Implementation Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-027.html
+- content: http://docs.opengeospatial.org/per/16-027.html
   type: obp
 type: standard
 docid:
-  id: 16-027
+- id: 16-027
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-05-12'
 contributor:
 - person:
     name:
       completename: Johannes Echterhoff
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-05-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document is a deliverable of the OGC Testbed-12. It describes the
+- content: "This document is a deliverable of the OGC Testbed-12. It describes the
     results of analyzing the Testbed-12 web service implementations.\r\n\r\nOGC has
     been developing web service specifications since the OGC Web Mapping Testbed in
     1999. In particular, the original OGC Web Map Service specification has been developed
@@ -72,10 +82,12 @@ abstract:
     web services as they are today\r\n\r\nSupport for new requirements in a consistent
     way across service types\r\n\r\nImprovements to the standardization process\r\n\r\nIn
     addition, there is also a specific case that does not fit into these general categories."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

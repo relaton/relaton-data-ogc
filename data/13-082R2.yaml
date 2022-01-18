@@ -3,38 +3,47 @@ id: 13-082r2
 title:
 - type: title-main
   content: OGC® Web Map Tile Service (WMTS) Simple Profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Web Map Tile Service (WMTS) Simple Profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/13-082r2/13-082r2.html
+- content: http://docs.opengeospatial.org/is/13-082r2/13-082r2.html
   type: obp
 type: standard
 docid:
-  id: 13-082r2
+- id: 13-082r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-01-19'
 contributor:
 - person:
     name:
       completename: Joan Masó
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2016-01-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Web Map Tile Service (WMTS) Simple profile defines restrictions that
+- content: The Web Map Tile Service (WMTS) Simple profile defines restrictions that
     limit the flexibility in implementing a WMTS instance. Adding additional requirements
     has the goal of simplifying the creation of services and clients. By implementing
     this profile, clients can more easily combine data coming from different services
@@ -46,10 +55,12 @@ abstract:
     will be immediately compatible with this profile. The aim is to align the WMTS
     standard to other popular tile initiatives which are less flexible but widely
     adopted.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: profile
 editorialgroup:

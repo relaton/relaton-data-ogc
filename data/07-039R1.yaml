@@ -3,49 +3,62 @@ id: 07-039r1
 title:
 - type: title-intro
   content: KML 2.1 Reference
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: An OGC Best Practice
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: KML 2.1 Reference - An OGC Best Practice
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=21469
+- content: https://portal.ogc.org/files/?artifact_id=21469
   type: obp
 type: standard
 docid:
-  id: 07-039r1
+- id: 07-039r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-05-07'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2007-05-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: KML is a file format used to display geographic data in an Earth browser,
+- content: KML is a file format used to display geographic data in an Earth browser,
     such as Google Earth, Google Maps, and Google Maps for Mobile. KML uses a tag-based
     structure with nested elements and attributes and is based on the XML standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

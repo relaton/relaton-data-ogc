@@ -3,45 +3,56 @@ id: 07-147r2
 title:
 - type: title-main
   content: OGC KML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC KML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=27810
+- content: https://portal.ogc.org/files/?artifact_id=27810
   type: obp
 type: standard
 docid:
-  id: 07-147r2
+- id: 07-147r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-04-14'
 contributor:
 - person:
     name:
       completename: Tim Wilson
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2008-04-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: KML is an XML language focused on geographic visualization, including annotation
+- content: KML is an XML language focused on geographic visualization, including annotation
     of maps and images. Geographic visualization includes not only the presentation
     of graphical data on the globe, but also the control of the user's navigation
     in the sense of where to go and where to look.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

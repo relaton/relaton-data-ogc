@@ -3,47 +3,59 @@ id: 18-047r3
 title:
 - type: title-main
   content: 'OGC Testbed-14: Swath Coverage Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-14: Swath Coverage Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/18-047r3.html
+- content: http://docs.opengeospatial.org/per/18-047r3.html
   type: obp
 type: standard
 docid:
-  id: 18-047r3
+- id: 18-047r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-02-07'
 contributor:
 - person:
     name:
       completename: Eugene Genong Yu
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Liping Di
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2019-02-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Engineering Report (ER) presents a summary, description and findings
+- content: This Engineering Report (ER) presents a summary, description and findings
     of the Swath Coverage task conducted by the OGC Testbed-14 initiative.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

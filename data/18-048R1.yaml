@@ -3,38 +3,47 @@ id: 18-048r1
 title:
 - type: title-main
   content: 'OGC Testbed-14: Point Cloud Data Handling Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-14: Point Cloud Data Handling Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/18-048r1.html
+- content: http://docs.opengeospatial.org/per/18-048r1.html
   type: obp
 type: standard
 docid:
-  id: 18-048r1
+- id: 18-048r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-03-08'
 contributor:
 - person:
     name:
       completename: Howard Butler
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2019-03-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This Engineering Report (ER) describes requirements that a point cloud
+- content: "This Engineering Report (ER) describes requirements that a point cloud
     web service must satisfy to enable application developers to provide convenient
     remote access to point clouds. It provides a short contrast of five point cloud
     web service software approaches (Esri I3S, 3D Tiles, Greyhound, PotreeConverter,
@@ -42,10 +51,12 @@ abstract:
     small industry survey about these requirements is also provided in support of
     the report’s discussion about formats, web service requirements, industry support,
     and industry desire on these topics.\r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

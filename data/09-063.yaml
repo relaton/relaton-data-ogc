@@ -3,43 +3,54 @@ id: '09-063'
 title:
 - type: title-main
   content: OWS-6 GeoProcessing Workflow Thread Summary ER
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-6 GeoProcessing Workflow Thread Summary ER
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=34127
+- content: https://portal.ogc.org/files/?artifact_id=34127
   type: obp
 type: standard
 docid:
-  id: '09-063'
+- id: '09-063'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2009-09-11'
 contributor:
 - person:
     name:
       completename: Lewis Leinenweber
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2009-09-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC® document summarizes work completed in the GeoProcessing Workflow
+- content: "This OGC® document summarizes work completed in the GeoProcessing Workflow
     thread of the OWS-6 Testbed, it is applicable to the OGC Interoperability Program
     testbed.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,45 +3,56 @@ id: '08-077'
 title:
 - type: title-main
   content: 'OGC® OWS-5 Engineering Report: Local MSD Implementation Profile (GML 3.2.1)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC® OWS-5 Engineering Report: Local MSD Implementation Profile (GML 3.2.1)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=28170
+- content: https://portal.ogc.org/files/?artifact_id=28170
   type: obp
 type: standard
 docid:
-  id: '08-077'
+- id: '08-077'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-07-02'
 contributor:
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2008-07-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document contains a data content specification for Local Mission Specific
+- content: This document contains a data content specification for Local Mission Specific
     Data (MSD) and is based on the GEOINT Structure Implementation Profile (GSIP)
     developed by the NGA. This document defines the GML 3.2.1 (ISO 19136) encoding
     requirements for Local MSD. The structure of the document is based on ISO 19131
     (Geographic Information – Data Product Specification).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

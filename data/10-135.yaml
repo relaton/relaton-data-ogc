@@ -4,42 +4,52 @@ title:
 - type: title-main
   content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation Satellite
     Tasking ExtensionOGC® Sensor Planning Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation Satellite
     Tasking ExtensionOGC® Sensor Planning Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=40185
+- content: https://portal.ogc.org/files/?artifact_id=40185
   type: obp
 type: standard
 docid:
-  id: 10-135
+- id: 10-135
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-03-28'
 contributor:
 - person:
     name:
       completename: Alexandre Robin
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Philippe Mérigot
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2011-03-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The SPS 2.0 Earth Observation Satellite Tasking Extension Standard specifies
+- content: The SPS 2.0 Earth Observation Satellite Tasking Extension Standard specifies
     extensions to the OGC Sensor Planning Service (SPS) 2.0 Interface Standard. The
     SPS configuration proposed in this extension is intended to support the programming
     process of Earth Observation (EO) sensor systems. This standard describes a consistent
@@ -50,10 +60,12 @@ abstract:
     about the status of such a request, for updating or canceling such a request,
     and for requesting information on means of obtaining the data collected by the
     requested task.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: extension
 editorialgroup:

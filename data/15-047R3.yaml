@@ -3,38 +3,47 @@ id: 15-047r3
 title:
 - type: title-main
   content: Testbed-11 NIEM-IC Feature Processing API using OGC Web Services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Testbed-11 NIEM-IC Feature Processing API using OGC Web Services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=65418
+- content: https://portal.ogc.org/files/?artifact_id=65418
   type: obp
 type: standard
 docid:
-  id: 15-047r3
+- id: 15-047r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-01-25'
 contributor:
 - person:
     name:
       completename: Jeff Harrison
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2016-01-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The goal of the Geo4NIEM thread in Testbed 11 was to gain Intelligence
+- content: "The goal of the Geo4NIEM thread in Testbed 11 was to gain Intelligence
     Community (IC) concurrence of the National Information Exchange Model (NIEM) Version
     3.0 architecture through the development, implementations, test, and robust demonstration
     making use of IC specifications, Geography Markup Language (GML), and NIEM in
@@ -59,10 +68,12 @@ abstract:
     NIEM/IC transform into more agile and customer-centric frameworks driven by collaborative
     partnerships. This transformation is vital to confronting the security challenges
     of the future.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

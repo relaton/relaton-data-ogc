@@ -3,43 +3,54 @@ id: 12-029
 title:
 - type: title-main
   content: Web Processing Service Best Practices Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Web Processing Service Best Practices Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=47860
+- content: https://portal.ogc.org/files/?artifact_id=47860
   type: obp
 type: standard
 docid:
-  id: 12-029
+- id: 12-029
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-04-04'
 contributor:
 - person:
     name:
       completename: Bastian Schäffer
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2012-04-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The following document contains best practices for identifying input data
+- content: The following document contains best practices for identifying input data
     formats for the OGC WPS 1.0.0. It was created due to a lack of interoperability
     between different WPS implementation based on non-standardized input identifiers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

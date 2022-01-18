@@ -3,45 +3,56 @@ id: 12-151
 title:
 - type: title-main
   content: OWS-9 Aviation Portrayal Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-9 Aviation Portrayal Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=51898
+- content: https://portal.ogc.org/files/?artifact_id=51898
   type: obp
 type: standard
 docid:
-  id: 12-151
+- id: 12-151
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-02-06'
 contributor:
 - person:
     name:
       completename: Daniel Balog
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Roger Brackin
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Robin Houtmeyers
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2013-02-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document provides an overview of the portrayal work within the OWS-9
+- content: This document provides an overview of the portrayal work within the OWS-9
     Aviation thread. Using open standards, a web services architecture was designed
     and prototyped to enable the retrieval of static airport maps in support of an
     ePIB. An ePIB, or Digitally Enhanced Pre-Flight Information Bulletin, provides
@@ -53,10 +64,12 @@ abstract:
     so that the effect of the NOTAM is clear. This approach avoids the pilot scanning
     through pages of textual description for potentially relevant NOTAMs, reducing
     the workload and the risk of missing a critical piece of information.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

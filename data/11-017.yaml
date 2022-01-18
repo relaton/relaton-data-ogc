@@ -4,42 +4,52 @@ title:
 - type: title-main
   content: Geospatial eXtensible Access Control Markup Language (GeoXACML) Version
     1 Corrigendum
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Geospatial eXtensible Access Control Markup Language (GeoXACML) Version
     1 Corrigendum
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=42734
+- content: https://portal.ogc.org/files/?artifact_id=42734
   type: obp
 type: standard
 docid:
-  id: 11-017
+- id: 11-017
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-05-12'
 contributor:
 - person:
     name:
       completename: Andreas Matheus
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jan Herrmann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2011-05-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The OpenGIS® Geospatial eXtensible Access Control Markup Language Encoding
+- content: 'The OpenGIS® Geospatial eXtensible Access Control Markup Language Encoding
     Standard (GeoXACML) defines a geospatial extension to the OASIS standard “eXtensible
     Access Control Markup Language (XACML)” [www.oasis-open.org/committees/xacml/].
     This extension incorporates spatial data types and spatial authorization decision
@@ -51,10 +61,12 @@ abstract:
     is not designed to be a rights expression language and is therefore not an extension
     of the OGC GeoDRM Reference Model (Topic 18 in the OpenGIS® Abstract Specification
     [http://www.opengeospatial.org/standards/as]). '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

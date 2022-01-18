@@ -3,50 +3,62 @@ id: 13-084r2
 title:
 - type: title-main
   content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=56905
+- content: https://portal.ogc.org/files/?artifact_id=56905
   type: obp
 type: standard
 docid:
-  id: 13-084r2
+- id: 13-084r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-04-28'
 contributor:
 - person:
     name:
       completename: Uwe Voges
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Frédéric Houbie
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Nicolas Lesage
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Marie-Lise Vautier
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2014-04-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OGC Catalogue Services 2.0 specification (OGC 07-006r1) establishes
+- content: "The OGC Catalogue Services 2.0 specification (OGC 07-006r1) establishes
     a general framework for implementing catalogue services that can be applied to
     meet the needs of stakeholders in a wide variety of domains.\r\nThe ebRIM application
     profile (OGC 07-110r4) is based on the HTTP protocol binding described in Clause
@@ -62,10 +74,12 @@ abstract:
     [HMA] and related projects. Some input came from the OGC OWS9 initiative.\r\nThis
     document supersedes the former document OGC Cataloguing of ISO Metadata (CIM)
     using the ebRIM profile of CS-W, OGC 07-038r3 (Version: 0.1.12).\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: extension
 editorialgroup:

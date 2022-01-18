@@ -3,46 +3,57 @@ id: 10-036r2
 title:
 - type: title-main
   content: OWS-7 Motion Video Change Detection
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-7 Motion Video Change Detection
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=40313
+- content: https://portal.ogc.org/files/?artifact_id=40313
   type: obp
 type: standard
 docid:
-  id: 10-036r2
+- id: 10-036r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-08-18'
 contributor:
 - person:
     name:
       completename: Stan Tillman
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2010-08-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This Engineering Report documents the development effort to build a Web
+- content: 'This Engineering Report documents the development effort to build a Web
     Processing Service (WPS) to perform a change detection algorithm on two motion
     video streams.  It will examine the WPS Motion Video Change Detection architecture
     from various viewpoints in order to describe its purpose, data models, functional
     decomposition, and interaction between distinct computational components.  '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,38 +3,47 @@ id: 17-083r2
 title:
 - type: title-main
   content: OGC Two Dimensional Tile Matrix Set
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Two Dimensional Tile Matrix Set
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/17-083r2/17-083r2.html
+- content: http://docs.opengeospatial.org/is/17-083r2/17-083r2.html
   type: obp
 type: standard
 docid:
-  id: 17-083r2
+- id: 17-083r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-10-06'
 contributor:
 - person:
     name:
       completename: Joan Masó
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2019-10-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The OGC Tile Matrix Set standard defines the rules and requirements for
+- content: 'The OGC Tile Matrix Set standard defines the rules and requirements for
     a tile matrix set as a way to index space based on a set of regular grids defining
     a domain (tile matrix) for a limited list of scales in a Coordinate Reference
     System (CRS) as defined in [OGC 08-015r2] Abstract Specification Topic 2: Spatial
@@ -47,10 +56,12 @@ abstract:
     tile matrix sets and tile matrix set limits. Finally, the document offers practical
     examples of tile matrix sets both for common global projections and for specific
     regions.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

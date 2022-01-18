@@ -3,50 +3,62 @@ id: 06-095
 title:
 - type: title-main
   content: Web Notification Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Web Notification Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=18776
+- content: https://portal.ogc.org/files/?artifact_id=18776
   type: obp
 type: standard
 docid:
-  id: 06-095
+- id: 06-095
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-01-25'
 contributor:
 - person:
     name:
       completename: Ingo Simonis
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Johannes Echterhoff
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2007-01-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: " A service by which a client may conduct asynchronous dialogues (message
+- content: " A service by which a client may conduct asynchronous dialogues (message
     interchanges) with one or more other services. This service is useful when many
     collaborating services are required to satisfy a client request, and/or when significant
     delays are involved is satisfying the request. This service was defined under
     OWS 1.2 in support of SPS operations. WNS has broad applicability in many such
     multi-service applications. It is now used in several SWE scenarios."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

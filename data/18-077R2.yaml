@@ -3,63 +3,78 @@ id: 18-077r2
 title:
 - type: title-main
   content: OGC CDB, Leveraging GeoPackage Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC CDB, Leveraging GeoPackage Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=82553
+- content: https://portal.ogc.org/files/?artifact_id=82553
   type: obp
 type: standard
 docid:
-  id: 18-077r2
+- id: 18-077r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-01-20'
 contributor:
 - person:
     name:
       completename: Jay Freeman
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kevin Bentley
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ronald Moore
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Samuel Chambers
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Glen Quesenberry
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2019-01-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This paper offers the results of research, design, and prototype efforts
+- content: This paper offers the results of research, design, and prototype efforts
     to present the OGC standards working group an approach to creating “GeoCDB”—a
     technology mashing of GeoPackage and OGC CDB—as a deterministic repository of
     easily read data geospatial datasets suitable for storage, runtime access, and
     dissemination for live, virtual, constructive, gaming, and mission command (MC)
     systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -3,48 +3,61 @@ id: 07-063
 title:
 - type: title-intro
   content: Web Map Services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Application Profile for EO Products
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Web Map Services - Application Profile for EO Products
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=21742
+- content: https://portal.ogc.org/files/?artifact_id=21742
   type: obp
 type: standard
 docid:
-  id: 07-063
+- id: 07-063
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-08-15'
 contributor:
 - person:
     name:
       completename: Thomas H.G. Lankester
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2007-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This OGC document specifies a constrained, consistent interpretation of
+- content: 'This OGC document specifies a constrained, consistent interpretation of
     the WMS specification that is applicable to government, academic and commercial
     providers of EO products.  '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -3,38 +3,47 @@ id: 18-028r2
 title:
 - type: title-main
   content: 'OGC Testbed-14: WMS QoSE Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-14: WMS QoSE Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.opengeospatial.org/per/18-028r2.html
+- content: https://docs.opengeospatial.org/per/18-028r2.html
   type: obp
 type: standard
 docid:
-  id: 18-028r2
+- id: 18-028r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-02-15'
 contributor:
 - person:
     name:
       completename: Guy Schumann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2019-02-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Quality of Service (QoS) and Quality of Experience (QoE) as they are intended
+- content: "Quality of Service (QoS) and Quality of Experience (QoE) as they are intended
     and described at the OGC are two related concepts which require very specific
     treatment and characterization. Citing the definitions provided by the Domain
     Working Group (DWG) charter document:\r\n\r\nQuality of Service: Technical reliability
@@ -65,10 +74,12 @@ abstract:
     true for services targeting end users who are used to interact with services a-la
     Google Maps which delivers extreme performance and scalability as well as bullet-proof
     usability.\r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

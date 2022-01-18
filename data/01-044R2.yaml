@@ -3,42 +3,53 @@ id: 01-044r2
 title:
 - type: title-main
   content: Units of Measure and Quantity Datatypes
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Units of Measure and Quantity Datatypes
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1050
+- content: https://portal.ogc.org/files/?artifact_id=1050
   type: obp
 type: standard
 docid:
-  id: 01-044r2
+- id: 01-044r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2001-06-15'
 contributor:
 - person:
     name:
       completename: John Bobbitt
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2001-06-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Common semantic for units of measurement to be used across all OGC specifications.
-  language: en
-  script: Latn
+- content: Common semantic for units of measurement to be used across all OGC specifications.
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

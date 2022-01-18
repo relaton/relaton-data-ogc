@@ -3,38 +3,47 @@ id: '09-083r3'
 title:
 - type: title-main
   content: GeoAPI 3.0 Implementation Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: GeoAPI 3.0 Implementation Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=39397
+- content: https://portal.ogc.org/files/?artifact_id=39397
   type: obp
 type: standard
 docid:
-  id: '09-083r3'
+- id: '09-083r3'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-04-25'
 contributor:
 - person:
     name:
       completename: Adrian Custer
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2011-04-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The GeoAPI Implementation Standard defines, through the GeoAPI library,
+- content: The GeoAPI Implementation Standard defines, through the GeoAPI library,
     a Java language application programming interface (API) including a set of types
     and methods which can be used for the manipulation of geographic information structured
     following the specifications adopted by the Technical Committee211 of the International
@@ -44,10 +53,12 @@ abstract:
     published API and the library code able both to instantiate and operate on these
     data structures according to the rules required by the published API and by the
     ISO and OGC standards.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

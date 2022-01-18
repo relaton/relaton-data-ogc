@@ -4,43 +4,53 @@ title:
 - type: title-main
   content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
     Architecture Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
     Architecture Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-014r2.html
+- content: http://docs.opengeospatial.org/per/16-014r2.html
   type: obp
 type: standard
 docid:
-  id: 16-014r2
+- id: 16-014r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-04-26'
 contributor:
 - person:
     name:
       completename: Greg Schumann
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Josh Lieberman
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2018-04-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The Incident Management Information Sharing (IMIS) Internet of Things
+- content: "The Incident Management Information Sharing (IMIS) Internet of Things
     (IoT) Pilot established the following objectives.\r\n•\tApply Open Geospatial
     Consortium (OGC) principles and practices for collaborative development to existing
     standards and technology to prototype an IoT approach to sensor use for incident
@@ -51,10 +61,12 @@ abstract:
     for future IMIS sensor and observation interoperability. \r\n•\tPrototype capabilities
     documented in engineering reports and demonstrated in a realistic incident management
     scenario. \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

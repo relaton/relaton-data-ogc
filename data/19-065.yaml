@@ -4,38 +4,47 @@ title:
 - type: title-main
   content: OGC OpenFlight Scene Description Database Specification 16.0 Community
     Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC OpenFlight Scene Description Database Specification 16.0 Community
     Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=92038
+- content: https://portal.ogc.org/files/?artifact_id=92038
   type: obp
 type: standard
 docid:
-  id: 19-065
+- id: 19-065
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-07-09'
 contributor:
 - person:
     name:
       completename: 'Steve Thompson '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2020-07-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document describes the OpenFlight Scene Description Database Specification,
+- content: "This document describes the OpenFlight Scene Description Database Specification,
     commonly\r\nreferred to as simply “OpenFlight”. OpenFlight is a 3D scene description
     file format that was\r\ncreated and is maintained by Presagis. While OpenFlight
     databases are typically created and edited\r\nusing Presagis software tools, the
@@ -45,10 +54,12 @@ abstract:
     database files. To this end, this document discusses\r\nconcepts incorporated
     in OpenFlight and contains a detailed description of the physical layout\r\nof
     OpenFlight files as represented on disk."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: community-standard
 editorialgroup:
   committee: technical

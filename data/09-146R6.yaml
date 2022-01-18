@@ -3,46 +3,57 @@ id: '09-146r6'
 title:
 - type: title-main
   content: OGC Coverage Implementation Schema
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Coverage Implementation Schema
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/09-146r6/09-146r6.html
+- content: http://docs.opengeospatial.org/is/09-146r6/09-146r6.html
   type: obp
 type: standard
 docid:
-  id: '09-146r6'
+- id: '09-146r6'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-09-15'
 contributor:
 - person:
     name:
       completename: Peter Baumann
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Eric Hirschorn
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Joan Masó
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '6'
 revdate: '2017-09-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Coverages represent homogeneous collections of values located in space/time,
+- content: "Coverages represent homogeneous collections of values located in space/time,
     such as spatio-temporal sensor, image, simulation, and statistics data. Common
     examples include 1-D timeseries, 2-D imagery, 3-D x/y/t image timeseries and x/y/z
     geophysical voxel models, as well as 4-D x/y/z/t climate and ocean data. Generally,
@@ -62,10 +73,12 @@ abstract:
     [8]. The coverage structure can serve a wide range of coverage application domains,
     thereby contributing to harmon­ization and interoperability between and across
     these domains."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -3,42 +3,53 @@ id: 07-018
 title:
 - type: title-main
   content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=20583
+- content: https://portal.ogc.org/files/?artifact_id=20583
   type: obp
 type: standard
 docid:
-  id: 07-018
+- id: 07-018
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-05-17'
 contributor:
 - person:
     name:
       completename: Philippe M
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2007-05-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Discussion Paper explains how a Sensor Planning Service is organised
+- content: This Discussion Paper explains how a Sensor Planning Service is organised
     and implemented for the Earth Observation domain.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

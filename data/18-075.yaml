@@ -3,54 +3,68 @@ id: 18-075
 title:
 - type: title-main
   content: 'OGC® Moving Features Encoding Part I: XML Core'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC® Moving Features Encoding Part I: XML Core'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/18-075/18-075.html
+- content: http://docs.opengeospatial.org/is/18-075/18-075.html
   type: obp
 type: standard
 docid:
-  id: 18-075
+- id: 18-075
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-01-14'
 contributor:
 - person:
     name:
       completename: Akinori Asahara
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ryosuke Shibasaki
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Nobuhiro Ishimaru
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: David Burggraf
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2019-01-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC® Standard specifies standard encoding representations of movement
+- content: This OGC® Standard specifies standard encoding representations of movement
     of geographic features. The primary use case is information exchange.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

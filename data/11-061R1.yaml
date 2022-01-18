@@ -3,46 +3,57 @@ id: 11-061r1
 title:
 - type: title-main
   content: OWS-8 AIXM Metadata Guidelines Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-8 AIXM Metadata Guidelines Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=45380
+- content: https://portal.ogc.org/files/?artifact_id=45380
   type: obp
 type: standard
 docid:
-  id: 11-061r1
+- id: 11-061r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-02-09'
 contributor:
 - person:
     name:
       completename: David Burggraf
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2012-02-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC® Engineering Report provides guidelines for ISO metadata usage
+- content: "This OGC® Engineering Report provides guidelines for ISO metadata usage
     in AIXM 5.1\r\nconformant to the requirements of OGC 10-195 (Requirements for
     Aviation Metadata)\r\nand the recommendations of OGC 10-196r1 (Guidance on the
     Aviation Metadata\r\nProfile), with the exception of non-ISO metadata elements
     listed in these documents."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

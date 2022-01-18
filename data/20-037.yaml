@@ -3,44 +3,55 @@ id: 20-037
 title:
 - type: title-main
   content: 'OGC Earth Observation Applications Pilot: Pixalytics Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Earth Observation Applications Pilot: Pixalytics Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/per/20-037.html
+- content: https://docs.ogc.org/per/20-037.html
   type: obp
 type: standard
 docid:
-  id: 20-037
+- id: 20-037
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-10-22'
 contributor:
 - person:
     name:
       completename: Samantha Lavender
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2020-10-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This is an individual Engineering Report (ER) created by Pixalytics Ltd
+- content: This is an individual Engineering Report (ER) created by Pixalytics Ltd
     as part of the Earth Observation Applications Pilot. Pixalytics' role was that
     of an App developer, testing deployment to the OGC Earth Observation Applications
     Pilot architecture.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

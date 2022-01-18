@@ -3,46 +3,57 @@ id: 18-001r1
 title:
 - type: title-main
   content: GeoDCAT-AP
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: GeoDCAT-AP
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=82475
+- content: https://portal.ogc.org/files/?artifact_id=82475
   type: obp
 type: standard
 docid:
-  id: 18-001r1
+- id: 18-001r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-01-09'
 contributor:
 - person:
     name:
       completename: Lieven Raes
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Danny Vandenbroucke
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Tomas Reznik
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2019-01-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Improving discoverability of open geo-data and information is vital to
+- content: "Improving discoverability of open geo-data and information is vital to
     increasing the use of these data in- and outside the geospatial expert community.
     \r\nIn this document we start to compare existing metadata standards, e.g., Dublin
     Core, ISO 19115/57/19, and INSPIRE, in the geospatial- and open data context.
@@ -63,10 +74,12 @@ abstract:
     and to publish metadata in data portals and directly on the world wide web. To
     conclude a GeoDCAT alignment exercise has been done with ISO 19115/19 and INSPIRE
     to improve the open data and geospatial metadata alignment in the future.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

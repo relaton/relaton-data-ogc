@@ -3,45 +3,56 @@ id: 11-139r2
 title:
 - type: title-main
   content: Summary of the OGC Web Services, Phase 8 (OWS-8) Interoperability Testbed
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Summary of the OGC Web Services, Phase 8 (OWS-8) Interoperability Testbed
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=47018
+- content: https://portal.ogc.org/files/?artifact_id=47018
   type: obp
 type: standard
 docid:
-  id: 11-139r2
+- id: 11-139r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-12-19'
 contributor:
 - person:
     name:
       completename: David Arctur
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2011-12-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OGC Web Services, Phase 8 (OWS-8) Testbed was an initiative of OGC’s
+- content: "The OGC Web Services, Phase 8 (OWS-8) Testbed was an initiative of OGC’s
     Interoperability Program to\r\ncollaboratively extend and demonstrate OGC’s baseline
     for geospatial interoperability. The majority of work for\r\nOWS-8 was conducted
     from March to September 2011."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

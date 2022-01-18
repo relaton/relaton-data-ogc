@@ -3,43 +3,54 @@ id: 02-026r1
 title:
 - type: title-main
   content: SensorML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: SensorML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1133
+- content: https://portal.ogc.org/files/?artifact_id=1133
   type: obp
 type: standard
 docid:
-  id: 02-026r1
+- id: 02-026r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2002-04-22'
 contributor:
 - person:
     name:
       completename: Mike Botts
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2002-04-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Sensor Model Language work proposes an XML schema for describing the
+- content: The Sensor Model Language work proposes an XML schema for describing the
     geometric, dynamic, and observational characteristics of sensor types and instances.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

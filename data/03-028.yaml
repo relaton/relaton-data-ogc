@@ -3,55 +3,68 @@ id: 03-028
 title:
 - type: title-main
   content: OGC Web Services UDDI Experiment
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Web Services UDDI Experiment
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1317
+- content: https://portal.ogc.org/files/?artifact_id=1317
   type: obp
 type: standard
 docid:
-  id: 03-028
+- id: 03-028
   type: OGC
 date:
-  type: published
+- type: published
   value: '2003-01-17'
 contributor:
 - person:
     name:
       completename: Josh Lieberman
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Lou Reich
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Peter Vretanos
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2003-01-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document lists the design principles, requirements, and experimental
+- content: 'This document lists the design principles, requirements, and experimental
     results for future versions of a potential OGC - UDDI (Universal Discovery, Description,
     and Integration) profile of the OGC Catalog Implementation Specification. Specifically,
     it describes the usage scenarios, workplan, and experimental results for discovery
     of OGC services (including registries) through the UDDI interface using SOAP (Simple
     Object Access Protocol) messaging protocols. The baseline for this experiment
     is the specification for UDDI version 2 and use of private UDDI implementations. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

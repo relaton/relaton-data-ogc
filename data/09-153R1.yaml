@@ -3,48 +3,59 @@ id: '09-153r1'
 title:
 - type: title-main
   content: 'OGC® Web Coverage Service 2.0 Primer:  Core and Extensions Overview'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC® Web Coverage Service 2.0 Primer:  Core and Extensions Overview'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=46442
+- content: https://portal.ogc.org/files/?artifact_id=46442
   type: obp
 type: standard
 docid:
-  id: '09-153r1'
+- id: '09-153r1'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-01-25'
 contributor:
 - person:
     name:
       completename: Peter Baumann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2012-01-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document provides an overview on the OGC Web Coverage Service (WCS)
+- content: "This document provides an overview on the OGC Web Coverage Service (WCS)
     2.0 suite by describing WCS core and extensions. \r\nIntended target audience
     are developers intending to implement WCS servers and/or clients. This document
     aims at providing an overview and giving useful hints and best practices beyond
     the pure standards texts. It is a &quot;living document&quot; which will evolve
     to reflect new developments and best practices.\r\nAs such, the contents of this
     document is informative and not of normative nature.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

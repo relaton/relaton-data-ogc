@@ -3,37 +3,46 @@ id: 14-095
 title:
 - type: title-main
   content: OGC Information Technology Standards for Sustainable Development
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Information Technology Standards for Sustainable Development
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=60920
+- content: https://portal.ogc.org/files/?artifact_id=60920
   type: obp
 type: standard
 docid:
-  id: 14-095
+- id: 14-095
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-01-23'
 contributor:
 - person:
     name:
       completename: Lance McKee
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2015-01-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Sustainable development, meeting the needs of the present without compromising
+- content: "Sustainable development, meeting the needs of the present without compromising
     the\r\nability of future generations to meet their own needs,1\r\n will be accomplished
     by\r\nbalancing social, economic and environmental objectives. In this paper the
     authors\r\nexplain that rigorous standards for communicating environmental data
@@ -46,10 +55,12 @@ abstract:
     consensus-derived, free and open environmental\r\nInformation Technology (IT)
     standards that meet those requirements and that co-evolve\r\nwith the larger IT
     standards framework and advances in IT."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

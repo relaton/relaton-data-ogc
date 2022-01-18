@@ -3,45 +3,56 @@ id: 07-124r2
 title:
 - type: title-main
   content: OWS-5 KML Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-5 KML Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=28086
+- content: https://portal.ogc.org/files/?artifact_id=28086
   type: obp
 type: standard
 docid:
-  id: 07-124r2
+- id: 07-124r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-09-12'
 contributor:
 - person:
     name:
       completename: Chris Holmes
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2008-09-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Discussion Paper is about the use of KML, an encoding used to express
+- content: This Discussion Paper is about the use of KML, an encoding used to express
     geographic annotation and visualization on existing or future web-based online
     maps (2d) and earth browsers (3d). KML uses a tag-based structure with nested
     elements and attributes and is based on the XML standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

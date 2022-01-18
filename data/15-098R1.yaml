@@ -3,38 +3,47 @@ id: 15-098r1
 title:
 - type: title-main
   content: 'OGC® Geospatial User Feedback Standard: XML Encoding Extension'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC® Geospatial User Feedback Standard: XML Encoding Extension'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/15-098r1/15-098r1.html
+- content: http://docs.opengeospatial.org/is/15-098r1/15-098r1.html
   type: obp
 type: standard
 docid:
-  id: 15-098r1
+- id: 15-098r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-12-22'
 contributor:
 - person:
     name:
       completename: 'Joan Masó and Lucy Bastin '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2016-12-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The Geospatial User Feedback XML encoding standard is based on the OGC
+- content: "The Geospatial User Feedback XML encoding standard is based on the OGC
     Geospatial User Feedback conceptual model [OGC 15-097]. Geospatial User Feedback
     (GUF) is metadata that is predominantly produced by the consumers of geospatial
     data products based on their use and experience with those products. This standard
@@ -47,10 +56,12 @@ abstract:
     standard can be used in combination with the OGC 15-097 Conceptual Model Standard.
     In the future, other encodings may be considered, being an alternative using the
     JSON-LD encoding based on parts of schema.org.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

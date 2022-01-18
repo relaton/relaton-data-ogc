@@ -3,54 +3,68 @@ id: 18-009
 title:
 - type: title-intro
   content: OGC India Plugfest
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: 2017 (OIP-2017) Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC India Plugfest - 2017 (OIP-2017) Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=77858
+- content: https://portal.ogc.org/files/?artifact_id=77858
   type: obp
 type: standard
 docid:
-  id: 18-009
+- id: 18-009
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-02-24'
 contributor:
 - person:
     name:
       completename: P S Acharya
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Scott Simmons
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: A Kaushal
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: 'M K Munshi  '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2020-02-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The Open Geospatial Consortium (OGC) and the Department of Science & Technology
+- content: "The Open Geospatial Consortium (OGC) and the Department of Science & Technology
     (DST) under the Government of India conducted the OGC India Plugfest 2017 (OIP-2017).
     The OIP-2017 was targeted at enhancing the interoperability among geospatial products
     and web services based on OGC standards within the Indian Geospatial Information
@@ -65,10 +79,12 @@ abstract:
     by OGC and DST is addressed to both the domestic (Indian) and international audiences.\r\nOIP-2017
     was funded by the OGC India Foundation with supporting OGC staff resources from
     the OGC Innovation Program.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

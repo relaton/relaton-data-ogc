@@ -4,43 +4,53 @@ title:
 - type: title-main
   content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation
     satellite Tasking
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation
     satellite Tasking
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=57203
+- content: https://portal.ogc.org/files/?artifact_id=57203
   type: obp
 type: standard
 docid:
-  id: 14-012r1
+- id: 14-012r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-07-17'
 contributor:
 - person:
     name:
       completename: Nicolas FANJEAU
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Sebastian ULRICH
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2014-07-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC® Best Practices document specifies the interfaces, bindings,
+- content: "This OGC® Best Practices document specifies the interfaces, bindings,
     requirements and conformance classes that enable complete workflows for the tasking
     of sensor planning services for Earth Observation (EO) satellites. In fact it
     provides the interfaces for supporting the following EO sensor planning scenarios:\r\n•\tPlanning
@@ -65,10 +75,12 @@ abstract:
     sensors and tasking options within OpenSearch Description Documents based on the
     OGC 13-039 [NR23]. Actually this part of the specification refers to the OpenSearch
     Extension for Earth Observation Satellite Tasking.\r\n&#8195;\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

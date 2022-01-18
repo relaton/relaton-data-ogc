@@ -3,51 +3,62 @@ id: 05-047r2
 title:
 - type: title-main
   content: GML in JPEG 2000 for Geographic Imagery
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: GML in JPEG 2000 for Geographic Imagery
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=11418
+- content: https://portal.ogc.org/files/?artifact_id=11418
   type: obp
 type: standard
 docid:
-  id: 05-047r2
+- id: 05-047r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2005-03-28'
 contributor:
 - person:
     name:
       completename: Ron Lake
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2005-03-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The GML (Geography Markup Language) is an XML grammar for the encoding
+- content: "The GML (Geography Markup Language) is an XML grammar for the encoding
     geographic information including geographic features, coverages, observations,
     topology, geometry, coordinate reference systems, units of measure, time, and
     value objects.\r\nJPEG 2000 is a wavelet based encoding for imagery that provides
     the ability to include XML data for description of the image within the JPEG 2000
     data file.\r\nThis specification defines the means by which GML is to be used
     within JPEG 2000 images for geographic imagery. This includes the following:\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:
     value: draft
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 editorialgroup:
   committee: technical

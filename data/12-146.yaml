@@ -3,37 +3,46 @@ id: 12-146
 title:
 - type: title-main
   content: OGC® OWS-9 Web Feature Service Temporality Extension Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® OWS-9 Web Feature Service Temporality Extension Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=51811
+- content: https://portal.ogc.org/files/?artifact_id=51811
   type: obp
 type: standard
 docid:
-  id: 12-146
+- id: 12-146
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-06-18'
 contributor:
 - person:
     name:
       completename: Timo Thomas
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2013-06-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document is a deliverable of the OGC Web Services (OWS) Initiative
+- content: "This document is a deliverable of the OGC Web Services (OWS) Initiative
     - Phase 9 (OWS-9). This Engineering Report summarizes the OWS-9 activity regarding
     the extension of the Web Feature Service (WFS) and Filter Encoding (FE) standards
     to support dynamic feature data.\r\nSpecifically this document describes the result
@@ -42,10 +51,12 @@ abstract:
     This document gives a summary about issues, lessons learned, recommendations,
     accomplishments and benefits for the Aviation Architecture. It also gives an outlook
     on future work items and change requests. \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

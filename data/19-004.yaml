@@ -3,47 +3,59 @@ id: 19-004
 title:
 - type: title-intro
   content: Anchor Node Extension in IndoorGML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Seamless Navigation between Indoor and Outdoor Space
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Anchor Node Extension in IndoorGML - Seamless Navigation between Indoor
     and Outdoor Space
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/dp/19-004.html
+- content: http://docs.opengeospatial.org/dp/19-004.html
   type: obp
 type: standard
 docid:
-  id: 19-004
+- id: 19-004
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-12-11'
 contributor:
 - person:
     name:
       completename: Kyoung-Sook Kim
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jiyeong Lee
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2019-12-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC discussion paper provides an extension module of OGC Indoor Geography
+- content: This OGC discussion paper provides an extension module of OGC Indoor Geography
     Markup Language (IndoorGML) for the seamless navigation between indoor and outdoor
     spaces. The OGC IndoorGML standard has an issue on the data model that affects
     the connection of indoor and outdoor spaces via an “Anchor Node,” which is a conceptual
@@ -51,10 +63,12 @@ abstract:
     use cases of how IndoorGML can connect with other geospatial standards that represent
     outdoor spaces (and road networks), such as OGC City Geography Markup Language
     (CityGML) and version 5.0 of the Geographic Data Files (GDF) format.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

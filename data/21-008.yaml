@@ -3,59 +3,73 @@ id: 21-008
 title:
 - type: title-main
   content: Joint OGC OSGeo ASF Code Sprint 2021 Summary Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Joint OGC OSGeo ASF Code Sprint 2021 Summary Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/per/21-008.html
+- content: https://docs.ogc.org/per/21-008.html
   type: obp
 type: standard
 docid:
-  id: 21-008
+- id: 21-008
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-04-12'
 contributor:
 - person:
     name:
       completename: Gobe Hobona
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Angelos Tzotsos
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Tom Kralidis
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Martin Desruisseaux
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2021-04-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The subject of this Engineering Report (ER) is a code sprint that was held
+- content: The subject of this Engineering Report (ER) is a code sprint that was held
     from 17 to 19 February 2021 to advance support of open geospatial standards within
     the developer community, whilst also advancing the standards themselves. The code
     sprint was hosted by the Open Geospatial Consortium (OGC), the Apache Software
     Foundation (ASF), and Open Source Geospatial Foundation (OSGeo). The event was
     sponsored by Ordnance Survey (OS) and GeoCat BV, and held as a completely virtual
     event.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

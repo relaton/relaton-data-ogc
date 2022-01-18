@@ -3,38 +3,47 @@ id: 14-065r1
 title:
 - type: title-main
   content: 'OGC® WPS 2.0.1 Interface Standard: Corrigendum 1'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC® WPS 2.0.1 Interface Standard: Corrigendum 1'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/14-065/14-065r1.html
+- content: http://docs.opengeospatial.org/is/14-065/14-065r1.html
   type: obp
 type: standard
 docid:
-  id: 14-065r1
+- id: 14-065r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-10-05'
 contributor:
 - person:
     name:
       completename: Matthias Mueller
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2015-10-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "In many cases geospatial or location data, including data from sensors,
+- content: "In many cases geospatial or location data, including data from sensors,
     must be processed before the information can be used effectively. The OGC Web
     Processing Service (WPS) Interface Standard provides a standard interface that
     simplifies the task of making simple or complex computational processing services
@@ -49,10 +58,12 @@ abstract:
     defines a general process model that is designed to provide an interoperable description
     of processing functions. It is intended to support process cataloguing and discovery
     in a distributed environment.\r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

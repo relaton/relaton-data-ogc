@@ -3,37 +3,46 @@ id: 17-045
 title:
 - type: title-main
   content: 'OGC Testbed-13: Portrayal Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-13: Portrayal Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/17-045.html
+- content: http://docs.opengeospatial.org/per/17-045.html
   type: obp
 type: standard
 docid:
-  id: 17-045
+- id: 17-045
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-03-05'
 contributor:
 - person:
     name:
       completename: Stephane Fellah
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2018-03-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Portrayal of geospatial information plays a crucial role in situation
+- content: "Portrayal of geospatial information plays a crucial role in situation
     awareness, analysis and decision-making. Visualizing geospatial information often
     requires one to portray the information using symbology or cartographic presentation
     rules from a community or organization. For example, among those in the law enforcement,
@@ -51,10 +60,12 @@ abstract:
     in Testbed 12, complete the implementation of the Semantic Portrayal Service by
     adding rendering capabilities and performing a demonstration of the portrayal
     service that showcases the benefits of the proposed semantic-based approach."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

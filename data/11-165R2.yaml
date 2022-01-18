@@ -3,38 +3,47 @@ id: 11-165r2
 title:
 - type: title-main
   content: CF-netCDF3 Data Model Extension standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: CF-netCDF3 Data Model Extension standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=51908
+- content: https://portal.ogc.org/files/?artifact_id=51908
   type: obp
 type: standard
 docid:
-  id: 11-165r2
+- id: 11-165r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-01-03'
 contributor:
 - person:
     name:
       completename: 'Ben Domenico and Stefano Nativi '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2013-01-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OGC netCDF encoding supports electronic encoding of geospatial data,
+- content: "The OGC netCDF encoding supports electronic encoding of geospatial data,
     that is, digital geospatial information representing space and time-varying phenomena.\r\nThis
     standard specifies the CF-netCDF data model extension. \r\nThis standard specifies
     the CF-netCDF data model mapping onto the ISO 19123 coverage schema. \r\nThis
@@ -43,10 +52,12 @@ abstract:
     multi-point, and regular and warped grids; however, irregular grids are important
     in the CF-netCDF community and work is underway to expand the CF-netCDF to encompass
     other coverages types, including irregular gridded datasets.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

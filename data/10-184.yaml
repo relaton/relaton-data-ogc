@@ -3,47 +3,58 @@ id: 10-184
 title:
 - type: title-main
   content: OGC Fusion Standards Study, Phase 2 Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Fusion Standards Study, Phase 2 Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=41573
+- content: https://portal.ogc.org/files/?artifact_id=41573
   type: obp
 type: standard
 docid:
-  id: 10-184
+- id: 10-184
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-12-13'
 contributor:
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2010-12-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This Engineering Report summarizes two phases of the Open Geospatial Consortium
+- content: 'This Engineering Report summarizes two phases of the Open Geospatial Consortium
     (OGC®) Fusion Standards study and of the fusion prototypes developed during the
     OWS-7 Testbed which occurred between the two study phases.  Recommendations from
     the first phase of the study were implemented in OWS-7.  Based upon the results
     of OWS-7, responses to two Requests for Information and a multi-day workshop,
     this report provides a cumulative set of recommendations for advancing fusion
     based on open standards. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

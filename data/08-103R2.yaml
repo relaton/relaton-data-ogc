@@ -3,53 +3,66 @@ id: '08-103r2'
 title:
 - type: title-main
   content: CSW-ebRIM Registry Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-part
   content: 'Part 3: Abstract Test Suite'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'CSW-ebRIM Registry Service - Part 3: Abstract Test Suite'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=31139
+- content: https://portal.ogc.org/files/?artifact_id=31139
   type: obp
 type: standard
 docid:
-  id: '08-103r2'
+- id: '08-103r2'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2009-02-05'
 contributor:
 - person:
     name:
       completename: Richard Martell
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2009-02-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document is an abstract test suite (ATS): a compendium of abstract
+- content: 'This document is an abstract test suite (ATS): a compendium of abstract
     test cases pertaining to implementations of the CSW-ebRIM 1.0 catalogue profile.
     It provides a basis for developing an executable test suite (ETS) to verify that
     the implementation under test (IUT) conforms to all relevant functional specifications.
     While passing all of the conformance tests defined in this ATS provides some assurance
     of overall functional correctness, it cannot guarantee that an implementation
     is faultless.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

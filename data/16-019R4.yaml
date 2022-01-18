@@ -3,50 +3,63 @@ id: 16-019r4
 title:
 - type: title-intro
   content: OGC® Open Geospatial APIs
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: White Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Open Geospatial APIs - White Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/wp/16-019r4/16-019r4.html
+- content: http://docs.opengeospatial.org/wp/16-019r4/16-019r4.html
   type: obp
 type: standard
 docid:
-  id: 16-019r4
+- id: 16-019r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-02-23'
 contributor:
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2017-02-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: OGC defines interfaces that enable interoperability of geospatial applications.
+- content: OGC defines interfaces that enable interoperability of geospatial applications.
     API’s are a popular method to implement interfaces for accessing spatial data.
     This White Paper provides a discussion of Application Programming Interfaces (APIs)
     to support discussion of possible actions in the Open Geospatial Consortium (OGC).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

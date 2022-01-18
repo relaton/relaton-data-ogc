@@ -3,45 +3,56 @@ id: '09-076r3'
 title:
 - type: title-main
   content: 'Uses and summary of Topic 2: Spatial referencing by coordinates'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Uses and summary of Topic 2: Spatial referencing by coordinates'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=35042
+- content: https://portal.ogc.org/files/?artifact_id=35042
   type: obp
 type: standard
 docid:
-  id: '09-076r3'
+- id: '09-076r3'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2009-09-14'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2009-09-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document first discusses the uses for data sharing, and then provides
+- content: 'This document first discusses the uses for data sharing, and then provides
     a brief summary, of OGC Abstract Specification Topic 2: Spatial referencing by
     coordinates. Topic 2 is almost the same as ISO 19111:2007, but includes some corrections.  This
     document includes some best practices for using Coordinate Reference Systems (CRSs).'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

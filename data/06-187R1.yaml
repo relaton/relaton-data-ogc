@@ -3,43 +3,54 @@ id: 06-187r1
 title:
 - type: title-main
   content: OWS-4 Workflow IPR
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-4 Workflow IPR
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=19778
+- content: https://portal.ogc.org/files/?artifact_id=19778
   type: obp
 type: standard
 docid:
-  id: 06-187r1
+- id: 06-187r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-05-07'
 contributor:
 - person:
     name:
       completename: Steven Keens
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2007-05-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document examines five workflows discussed during the course of the
+- content: 'This document examines five workflows discussed during the course of the
     OWS-4 project.  '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

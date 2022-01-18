@@ -4,49 +4,60 @@ title:
 - type: title-main
   content: 'Critical Infrastructure Collaborative Environment Architecture: Engineering
     Viewpoint'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Critical Infrastructure Collaborative Environment Architecture: Engineering
     Viewpoint'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1282
+- content: https://portal.ogc.org/files/?artifact_id=1282
   type: obp
 type: standard
 docid:
-  id: 03-055r1
+- id: 03-055r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2003-06-02'
 contributor:
 - person:
     name:
       completename: Louis Rose
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2003-06-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "*RETIRED*  specifies the Engineering Viewpoint for the Critical Infrastructure
+- content: "*RETIRED*  specifies the Engineering Viewpoint for the Critical Infrastructure
     Collaborative Environment (CICE). This open, distributed processing environment
     crosses organizational boundaries and includes a variety of components deployed
     within multiple communities. The CICE leverages OGC Web Services the publication
     of the availability of critical infrastructure services and data; the registration
     and categorization of published service and data providers; and the discovery
     and use of needed critical infrastructure services and data"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

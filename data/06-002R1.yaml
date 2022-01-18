@@ -3,47 +3,58 @@ id: 06-002r1
 title:
 - type: title-main
   content: Geospatial Semantic Web Interoperabiltiy Experiment Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Geospatial Semantic Web Interoperabiltiy Experiment Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=15198
+- content: https://portal.ogc.org/files/?artifact_id=15198
   type: obp
 type: standard
 docid:
-  id: 06-002r1
+- id: 06-002r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-08-21'
 contributor:
 - person:
     name:
       completename: Joshua Lieberman
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2006-08-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Semantic Web seeks to make the meaning as accessible as the material,
+- content: The Semantic Web seeks to make the meaning as accessible as the material,
     by enabling connections - which are both logical and (machine) actionable - between
     concepts which a user presently understands and those which may be new and foreign.
     The Geospatial Semantic Web extends this capability to both content and concepts
     that are specifically spatial, temporal, and geographic in nature, giving both
     people and machines true access to a wider range of knowledge.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

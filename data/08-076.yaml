@@ -3,45 +3,56 @@ id: '08-076'
 title:
 - type: title-main
   content: OWS-5 GeoRM License Broker Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-5 GeoRM License Broker Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=28162
+- content: https://portal.ogc.org/files/?artifact_id=28162
   type: obp
 type: standard
 docid:
-  id: '08-076'
+- id: '08-076'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-09-12'
 contributor:
 - person:
     name:
       completename: Rüdiger Gartmann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2008-09-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document describes a License Broker Service (LB-Service) as specified
+- content: 'This document describes a License Broker Service (LB-Service) as specified
     and implemented in the OWS-5 test bed. The LB-Service provides configurable license
     models, which may contain configuration parameters to be defined by the licensee.
     The setting of these parameters affects the actual license to be created by the
     LB-Service. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

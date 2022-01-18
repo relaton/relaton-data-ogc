@@ -3,52 +3,65 @@ id: 13-021r3
 title:
 - type: title-intro
   content: WaterML2.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: 'part 2: Ratings, Gaugings and Sections Discussion Paper'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'WaterML2.0 - part 2: Ratings, Gaugings and Sections Discussion Paper'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=54423
+- content: https://portal.ogc.org/files/?artifact_id=54423
   type: obp
 type: standard
 docid:
-  id: 13-021r3
+- id: 13-021r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-06-18'
 contributor:
 - person:
     name:
       completename: Peter Taylor
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2013-06-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document describes an information model for exchanging rating tables,
+- content: "This document describes an information model for exchanging rating tables,
     or rating\r\ncurves, that are used for the conversion of related hydrological
     phenomenon. It also\r\ndescribes a model describing the observations that are
     used to develop such relationships,\r\noften referred to as gauging observations.\r\nThe
     information model is proposed as a second part of the WaterML2.0 suite of\r\nstandards,
     building on part 1 that addresses the exchange of time series1."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

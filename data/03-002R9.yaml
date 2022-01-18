@@ -3,45 +3,56 @@ id: 03-002r9
 title:
 - type: title-main
   content: Binary Extensible Markup Language (BXML) Encoding Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Binary Extensible Markup Language (BXML) Encoding Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=13636
+- content: https://portal.ogc.org/files/?artifact_id=13636
   type: obp
 type: standard
 docid:
-  id: 03-002r9
+- id: 03-002r9
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-01-18'
 contributor:
 - person:
     name:
       completename: Craig Bruce
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '9'
 revdate: '2006-01-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC Best Practices document specifies a binary encoding format for
+- content: This OGC Best Practices document specifies a binary encoding format for
     the efficient representation of XML data, especially scientific data that is characterized
     by arrays of numbers.  This encoding format is applicable to any application that
     uses XML format.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

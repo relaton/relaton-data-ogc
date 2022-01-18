@@ -3,56 +3,69 @@ id: 10-100r2
 title:
 - type: title-main
   content: Geography Markup Language (GML) simple features profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Geography Markup Language (GML) simple features profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=39853
+- content: https://portal.ogc.org/files/?artifact_id=39853
   type: obp
 type: standard
 docid:
-  id: 10-100r2
+- id: 10-100r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-10-07'
 contributor:
 - person:
     name:
       completename: Linda van den Brink
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Panagiotis (Peter) A. Vretanos
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2010-10-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This approved OpenGIS® Implementation Standard defines a Simple Features
+- content: 'This approved OpenGIS® Implementation Standard defines a Simple Features
     profile of the Geography Markup Language version 3.2. This Simple Features Profile
     has been aligned with the OGC Simple Features standard for SQL version 1.2. Simple
     Features include: Point, Curve (LineString), Surface (Polygon), Geometry, MultiPoint,
     MultiCurve, MultiSurface, and MultiGeometry. The detailed abstract model for OGC
     features and geometry can be found in the OGC Abstract Specification, Topic Volume
     1: Features (which is equivalent to ISO 19107).'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: profile
 editorialgroup:

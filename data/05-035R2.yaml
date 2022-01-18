@@ -3,54 +3,68 @@ id: 05-035r2
 title:
 - type: title-intro
   content: Gazetteer Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Application Profile of the Web Feature Service Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Gazetteer Service - Application Profile of the Web Feature Service Implementation
     Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=15529
+- content: https://portal.ogc.org/files/?artifact_id=15529
   type: obp
 type: standard
 docid:
-  id: 05-035r2
+- id: 05-035r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-07-27'
 contributor:
 - person:
     name:
       completename: Jens Fitzke
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Rob Atkinson
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2006-07-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document defines a Gazetteer Service profile of the OGC Web Feature
+- content: This document defines a Gazetteer Service profile of the OGC Web Feature
     Service Specification. The OGC Gazetteer Service allows a client to search and
     retrieve elements of a georeferenced vocabulary of well-known place-names.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

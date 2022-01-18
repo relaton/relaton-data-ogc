@@ -3,51 +3,63 @@ id: 16-061
 title:
 - type: title-main
   content: Testbed-12 Aviation SBVR Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Testbed-12 Aviation SBVR Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-061.html
+- content: http://docs.opengeospatial.org/per/16-061.html
   type: obp
 type: standard
 docid:
-  id: 16-061
+- id: 16-061
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-06-30'
 contributor:
 - person:
     name:
       completename: Timo Thomas
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Aleksandar Balaban
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-06-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This engineering report (ER) is a deliverable of the OGC Testbed 12. It
+- content: This engineering report (ER) is a deliverable of the OGC Testbed 12. It
     advances previous work in the area of business rules for AIXM 5 based on SBVR.
     It evaluates the use of geo-spatial operators and constraints in SBVR, including
     a proof of concept for their automatic interpretation by software. It gives guidelines
     on how to deal with temporality aspects and how to extend the applicability of
     SBVR towards filtering expressions and it identifies limitations of the currently
     available vocabulary.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

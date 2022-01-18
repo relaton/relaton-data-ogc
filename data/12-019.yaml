@@ -3,49 +3,61 @@ id: 12-019
 title:
 - type: title-main
   content: OGC City Geography Markup Language (CityGML) Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC City Geography Markup Language (CityGML) Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=47842
+- content: https://portal.ogc.org/files/?artifact_id=47842
   type: obp
 type: standard
 docid:
-  id: 12-019
+- id: 12-019
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-04-04'
 contributor:
 - person:
     name:
       completename: Gerhard Gröger
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Thomas H. Kolbe
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Claus Nagel
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Karl-Heinz Häfele
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2012-04-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "CityGML is an open data model and XML-based format for the storage and
+- content: "CityGML is an open data model and XML-based format for the storage and
     exchange of virtual 3D city models. It is an application schema for the Geography
     Markup Language version 3.1.1 (GML3), the extendible international standard for
     spatial data exchange issued by the Open Geospatial Consortium (OGC) and the ISO
@@ -53,10 +65,12 @@ abstract:
     of the basic entities, attributes, and relations of a 3D city model. This is especially
     important with respect to the cost-effective sustainable maintenance of 3D city
     models, allowing the reuse of the same data in different application fields. \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

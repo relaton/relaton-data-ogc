@@ -3,46 +3,57 @@ id: '08-071'
 title:
 - type: title-main
   content: 'OWS 5 Engineering Report:  Supporting Georeferenceable Imagery'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OWS 5 Engineering Report:  Supporting Georeferenceable Imagery'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=29466
+- content: https://portal.ogc.org/files/?artifact_id=29466
   type: obp
 type: standard
 docid:
-  id: '08-071'
+- id: '08-071'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-09-12'
 contributor:
 - person:
     name:
       completename: Mike Botts
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2008-09-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The scope of this document is to capture considerations and recommendations
+- content: "The scope of this document is to capture considerations and recommendations
     on approaches for supporting georeferenceable imagery within the OGC encodings
     and web services. Georeferenceable imagery is typically imagery coming from a
     remote sensor that has not been previously geo-rectified, resampled, or regridded.
     Georeferenceable imagery must be accompanied with information sufficient to allow
     georectification of the imagery.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

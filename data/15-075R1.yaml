@@ -3,64 +3,80 @@ id: 15-075r1
 title:
 - type: title-intro
   content: A Use-Case for Mobile Location Services with IndoorGML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Indoor Navigation for Visually Impaired People
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: A Use-Case for Mobile Location Services with IndoorGML - Indoor Navigation
     for Visually Impaired People
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=64644
+- content: https://portal.ogc.org/files/?artifact_id=64644
   type: obp
 type: standard
 docid:
-  id: 15-075r1
+- id: 15-075r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-11-19'
 contributor:
 - person:
     name:
       completename: Ki-Joune Li
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Hyung-Gyu Ryu
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Taehoon Kim
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: and Hack-Cheol Kim
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2015-11-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC Discussion Paper provides a navigation use-case for the use of
+- content: This OGC Discussion Paper provides a navigation use-case for the use of
     IndoorGML for mobile location services (MLS). In particular, the Discussion Paper
     explains how the OGC IndoorGML standard can be applied to a MLS application for
     visually impaired people in indoor space. Finally, a prototype development of
     the application on Android smart phone is described in this report.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -3,43 +3,54 @@ id: 16-083r2
 title:
 - type: title-intro
   content: OGC Coverage Implementation Schema
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: ReferenceableGridCoverage Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/16-083r2/16-083r2.html
+- content: http://docs.opengeospatial.org/is/16-083r2/16-083r2.html
   type: obp
 type: standard
 docid:
-  id: 16-083r2
+- id: 16-083r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-06-15'
 contributor:
 - person:
     name:
       completename: Eric Hirschorn
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2017-06-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OGC GML Application Schema - Coverages (“GMLCOV”) version 1.0 [OGC
+- content: "The OGC GML Application Schema - Coverages (“GMLCOV”) version 1.0 [OGC
     09-146r2], recently renamed the OGC Coverage Implementation Schema version 1.0,
     provides a ReferenceableGridCoverage element for representing coverages on a referenceable
     grid.  However, GMLCOV provides no instantiable subtypes of a critical sub-element
@@ -53,10 +64,12 @@ abstract:
     elements for use as sub-elements of ReferenceableGridCoverage.  Three of these
     elements have been adapted from GML 3.3, while a fourth emerged from work on a
     Testbed-11 Engineering Report[2]."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

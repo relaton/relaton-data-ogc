@@ -4,38 +4,47 @@ title:
 - type: title-main
   content: 'OGC Best Practice for Sensor Web Enablement: Provision of Observations
     through an OGC Sensor Observation Service (SOS)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Best Practice for Sensor Web Enablement: Provision of Observations
     through an OGC Sensor Observation Service (SOS)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=52675
+- content: https://portal.ogc.org/files/?artifact_id=52675
   type: obp
 type: standard
 docid:
-  id: 13-015
+- id: 13-015
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-02-25'
 contributor:
 - person:
     name:
       completename: EO2HEAVEN Consortium
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2014-02-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document comprises experiences and recommendations when using\r\nSensor
+- content: "This document comprises experiences and recommendations when using\r\nSensor
     Web Enablement (SWE) concepts. This document focuses on\r\none basic issue: the
     provision of observations in an OGC SOS.\r\nThis includes the definition of a
     lightweight OGC SOS profile (OGC 11-\r\n169r1), an analysis of and contribution
@@ -50,10 +59,12 @@ abstract:
     health. See http://www.eo2heaven.org/ .\r\nThe lightweight OGC SOS profile has
     been developed in close cooperation\r\nbetween the FP7 projects EO2HEAVEN and
     UncertWeb (see\r\nhttp://www.uncertweb.org/ )."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

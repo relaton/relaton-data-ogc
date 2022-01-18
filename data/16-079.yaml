@@ -3,57 +3,71 @@ id: 16-079
 title:
 - type: title-main
   content: Semantic Sensor Network Ontology
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Semantic Sensor Network Ontology
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2017/REC-vocab-ssn-20171019/
+- content: https://www.w3.org/TR/2017/REC-vocab-ssn-20171019/
   type: obp
 type: standard
 docid:
-  id: 16-079
+- id: 16-079
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-07-10'
 contributor:
 - person:
     name:
       completename: Armin Haller
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Krzysztof Janowicz
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Simon Cox
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Danh Le Phuoc
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kerry Taylor
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Maxime Lefrançois
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2019-07-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Semantic Sensor Network (SSN) ontology is an ontology for describing
+- content: The Semantic Sensor Network (SSN) ontology is an ontology for describing
     sensors and their observations, the involved procedures, the studied features
     of interest, the samples used to do so, and the observed properties, as well as
     actuators. SSN follows a horizontal and vertical modularization architecture by
@@ -65,10 +79,12 @@ abstract:
     social sensing, citizen science, observation-driven ontology engineering, and
     the Web of Things. Both ontologies are described below, and examples of their
     usage are given.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

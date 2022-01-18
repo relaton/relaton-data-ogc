@@ -3,38 +3,47 @@ id: 05-007r2
 title:
 - type: title-main
   content: Web Processing Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Web Processing Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=10634
+- content: https://portal.ogc.org/files/?artifact_id=10634
   type: obp
 type: standard
 docid:
-  id: 05-007r2
+- id: 05-007r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2005-06-17'
 contributor:
 - person:
     name:
       completename: Peter Schut
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2005-06-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "A Web Service Processing Service provides access to calculations or models
+- content: "A Web Service Processing Service provides access to calculations or models
     which operate on spatially referenced data.  The data required by the service
     can be available locally, or delivered across a network using data exchange standards
     such as Geography Markup Language (GML) or Geolinked Data Access Service (GDAS).
@@ -45,10 +54,12 @@ abstract:
     data required by the calculation, initiate the calculation, and manage the output
     from the calculation so that it can be accessed by the client.  The Web Processing
     Service is targeted at both vector and raster data based processing. \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

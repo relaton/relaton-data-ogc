@@ -3,57 +3,71 @@ id: 11-159
 title:
 - type: title-main
   content: The Open Geospatial Consortium and EarthCube
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: The Open Geospatial Consortium and EarthCube
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=46471&version=1
+- content: https://portal.ogc.org/files/?artifact_id=46471&version=1
   type: obp
 type: standard
 docid:
-  id: 11-159
+- id: 11-159
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-10-19'
 contributor:
 - person:
     name:
       completename: David Maidment
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ben Domenico
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Alastair Gemmell
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kerstin Lehnert
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: David Tarboton
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ilya Zaslavsky
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2011-10-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "EarthCube aims to create an integrated system to access, analyze and share
+- content: "EarthCube aims to create an integrated system to access, analyze and share
     information that is\r\nused by the entire geosciences community. The Open Geospatial
     Consortium (OGC) is an\r\norganization of which more than four hundred companies
     and agencies are members, whose\r\npurpose is to create open source standards
@@ -67,10 +81,12 @@ abstract:
     class of information across the globe. This\r\npaper examines the hypothesis that
     an OGC-like process could be useful for broader sharing of\r\ninformation in the
     geosciences."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

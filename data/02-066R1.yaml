@@ -3,43 +3,54 @@ id: 02-066r1
 title:
 - type: title-main
   content: Web Map Context Documents
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Web Map Context Documents
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1181
+- content: https://portal.ogc.org/files/?artifact_id=1181
   type: obp
 type: standard
 docid:
-  id: 02-066r1
+- id: 02-066r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2002-08-29'
 contributor:
 - person:
     name:
       completename: Jean-Philippe Humblet
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2002-08-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: States how a specific grouping of one or more maps from one or more map
+- content: States how a specific grouping of one or more maps from one or more map
     servers can be described in a portable, platform-independent manner.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

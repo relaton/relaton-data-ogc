@@ -3,58 +3,72 @@ id: 20-000r1
 title:
 - type: title-main
   content: CityGML Urban Planning ADE for i-Urban Revitalization
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: CityGML Urban Planning ADE for i-Urban Revitalization
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=92113
+- content: https://portal.ogc.org/files/?artifact_id=92113
   type: obp
 type: standard
 docid:
-  id: 20-000r1
+- id: 20-000r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-04-17'
 contributor:
 - person:
     name:
       completename: Nobuhiro Ishimaru
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Chikako Kurokawa
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Yuichi Tanaka
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Tomohisa Oishi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kentaro Akahoshi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Tatjana Kutzne
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2020-04-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC Discussion Paper introduces the CityGML Urban Planning Application
+- content: "This OGC Discussion Paper introduces the CityGML Urban Planning Application
     Domain Extension (ADE) published by the Japanese government for the i-Urban Revitalization
     (i-UR).\r\nThe i-UR is an information infrastructure dedicated for urban planning
     to contribute to data-driven urban development and urban revitalization. OGC KML
@@ -70,10 +84,12 @@ abstract:
     of i-Urban Revitalization, data model of the Urban Planning ADE and data experiment
     examples to discuss further utilization of the Urban Planning ADE in urban planning
     applications.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

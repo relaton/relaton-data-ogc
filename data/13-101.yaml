@@ -4,38 +4,47 @@ title:
 - type: title-main
   content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
     GML 3.2.1 Encoding Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
     GML 3.2.1 Encoding Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=55232
+- content: https://portal.ogc.org/files/?artifact_id=55232
   type: obp
 type: standard
 docid:
-  id: 13-101
+- id: 13-101
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-11-06'
 contributor:
 - person:
     name:
       completename: Andreas Matheus
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2013-11-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This standard defines the version 3.0 of a valid GML 3.2.1 geometry encoding
+- content: "This standard defines the version 3.0 of a valid GML 3.2.1 geometry encoding
     as defined in Geography Markup Language (GML) simple features profile (with Corrigendum)
     to be used with the GeoXACML 3.0 Core standard.\r\nThe use of this encoding extension
     to GeoXACML 3.0 Core enables the direct use of GML 3.2.1 encoded geometries into
@@ -47,10 +56,12 @@ abstract:
     the implementation of a Policy Enforcement Point as it must not provide the transformation
     functions from GML to WKT and vice versa.\r\nThis encoding extension has its normative
     base in Geography Markup Language (GML) simple features profile (with Corrigendum).\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

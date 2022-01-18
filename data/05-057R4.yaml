@@ -3,52 +3,65 @@ id: 05-057r4
 title:
 - type: title-intro
   content: OpenGIS Catalogue Services
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Best Practices for for Earth Observation Products
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Catalogue Services - Best Practices for for Earth Observation Products
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=14443
+- content: https://portal.ogc.org/files/?artifact_id=14443
   type: obp
 type: standard
 docid:
-  id: 05-057r4
+- id: 05-057r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-03-20'
 contributor:
 - person:
     name:
       completename: Jolyon Martin
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2006-03-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The services proposed in this profile are intended to support the identification
+- content: The services proposed in this profile are intended to support the identification
     and subsequent ordering of EO data products from previously identified data collections.
     The intent of this initial profile is to describe a minimum interface that can
     be supported by many data providers (satellite operators, data distributors...),
     most of whom have existing (and relatively complex) facilities for the management
     of these data.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -3,43 +3,54 @@ id: '09-124r2'
 title:
 - type: title-intro
   content: Harmonising Standards for Water Observation Data
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Harmonising Standards for Water Observation Data - Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=39090
+- content: https://portal.ogc.org/files/?artifact_id=39090
   type: obp
 type: standard
 docid:
-  id: '09-124r2'
+- id: '09-124r2'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-06-30'
 contributor:
 - person:
     name:
       completename: Peter Taylor
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2010-06-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document investigates the potential for harmonisation of water data
+- content: "This document investigates the potential for harmonisation of water data
     standards, with the goal of developing an OGC compliant standard for the exchange
     of water observation data. The work will be based on OGC‘s Observations and Measurements
     abstract model [10-004r2] . The goal is to create an O&M profile for the water
@@ -50,10 +61,12 @@ abstract:
     in-situ style observations (which are generally related to water quantity). Ex-situ
     measurements, such as those common to measuring water quality, will be addressed
     in future work.\r\n2 Normative"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

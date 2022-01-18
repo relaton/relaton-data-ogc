@@ -3,37 +3,46 @@ id: 15-003
 title:
 - type: title-main
   content: OGC Common DataBase Volume 1 Main Body
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Common DataBase Volume 1 Main Body
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=61935
+- content: https://portal.ogc.org/files/?artifact_id=61935
   type: obp
 type: standard
 docid:
-  id: 15-003
+- id: 15-003
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-07-22'
 contributor:
 - person:
     name:
       completename: David Graham
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2015-07-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The Common DataBase (CDB) Specification provides the means for a single,
+- content: "The Common DataBase (CDB) Specification provides the means for a single,
     versionable, simulation-rich, synthetic representation of the earth.  A database
     that conforms to this Specification is referred to as a Common DataBase or CDB.
     \ A CDB provides for a synthetic environment repository that is plug-and-play
@@ -67,10 +76,12 @@ abstract:
     represent the features of a synthetic environment for the purposes of distributed
     simulation applications.  The organization of the synthetic environmental data
     in a CDB is specifically tailored for real-time applications. \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

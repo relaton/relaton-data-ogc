@@ -3,49 +3,61 @@ id: 10-171
 title:
 - type: title-main
   content: 'Sensor Instance Registry Discussion Paper '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Sensor Instance Registry Discussion Paper '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=40609
+- content: https://portal.ogc.org/files/?artifact_id=40609
   type: obp
 type: standard
 docid:
-  id: 10-171
+- id: 10-171
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-10-12'
 contributor:
 - person:
     name:
       completename: Simon Jirka
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Daniel Nüst
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2010-10-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Discussion paper introduces the Sensor Instance Registry (SIR), a
+- content: This Discussion paper introduces the Sensor Instance Registry (SIR), a
     web service interface for managing the metadata and status information of sensors.
     Furthermore this service is capable of automatically harvesting sensor metadata,
     transforming the collected metadata sets into a data model compatible to OGC Catalogs
     and to push harvested metadata into OGC Catalog instances.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -3,38 +3,47 @@ id: 16-046r1
 title:
 - type: title-main
   content: Testbed-12 Semantic Enablement Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Testbed-12 Semantic Enablement Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-046r1.html
+- content: http://docs.opengeospatial.org/per/16-046r1.html
   type: obp
 type: standard
 docid:
-  id: 16-046r1
+- id: 16-046r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-05-12'
 contributor:
 - person:
     name:
       completename: Martin Klopfer
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2017-05-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The requirement for capabilities supporting semantic understanding and
+- content: The requirement for capabilities supporting semantic understanding and
     reasoning in geospatial intelligence (GEOINT) is an all-encompassing paradigm
     shift from the past. Standards play a critical role in ensuring this is accomplished
     in a consistent and repeatable manner. Semantic standards and services supporting
@@ -46,10 +55,12 @@ abstract:
     semantic mediation, schema registries, and SPARQL endpoints. It references key
     findings from the Semantic Portrayal ER and helps to understand the current OGC
     discussion on semantics in general.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,46 +3,57 @@ id: 04-051
 title:
 - type: title-main
   content: OWS1.2 Image Handling Design
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS1.2 Image Handling Design
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=6621
+- content: https://portal.ogc.org/files/?artifact_id=6621
   type: obp
 type: standard
 docid:
-  id: 04-051
+- id: 04-051
   type: OGC
 date:
-  type: published
+- type: published
   value: '2004-09-26'
 contributor:
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2004-09-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Image Handling is a thread in the OGC Web Services 1.2 (OWS1.2).  This
+- content: 'Image Handling is a thread in the OGC Web Services 1.2 (OWS1.2).  This
     document defines the system design for Image Handling in OWS1.2.  The system design
     responds to the requirements in OWS 1.2 Image Handling Requirements.  The system
     design specifies two main services: Image Archive Service and Image Catalogue
     Service.  Interfaces for these two services are defined using previously defined
     OWS service interfaces.  '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

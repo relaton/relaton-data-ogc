@@ -3,50 +3,62 @@ id: '08-085r8'
 title:
 - type: title-main
   content: OGC® GML in JPEG 2000 (GMLJP2) Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® GML in JPEG 2000 (GMLJP2) Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/08-085r8/08-085r8.html
+- content: http://docs.opengeospatial.org/is/08-085r8/08-085r8.html
   type: obp
 type: standard
 docid:
-  id: '08-085r8'
+- id: '08-085r8'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-08-27'
 contributor:
 - person:
     name:
       completename: Lucio Colaiacomo
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Joan Masó
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Emmanuel Devys
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Eric Hirschorn
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '8'
 revdate: '2018-08-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC GML in JPEG 2000 (GMLJP2) Encoding Standard defines how the OGC/ISO
+- content: "This OGC GML in JPEG 2000 (GMLJP2) Encoding Standard defines how the OGC/ISO
     Geography Markup Language (GML) standard is used within JPEG 2000 images and other
     gridded coverage data for adding geospatial content to imagery. Specifically,
     this OGC standard defines requirements for the encoding and decoding of JPEG 2000
@@ -57,10 +69,12 @@ abstract:
     application schema for JPEG 2000 that can be extended to include geometrical feature
     descriptions and annotations is specified. The document also specifies the encoding
     and packaging rules for GML use in JPEG 2000.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

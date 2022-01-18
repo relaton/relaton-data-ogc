@@ -3,38 +3,47 @@ id: 16-131r2
 title:
 - type: title-main
   content: Big Geospatial Data – an OGC White Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Big Geospatial Data – an OGC White Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/wp/16-131r2/16-131r2.html
+- content: http://docs.opengeospatial.org/wp/16-131r2/16-131r2.html
   type: obp
 type: standard
 docid:
-  id: 16-131r2
+- id: 16-131r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-09-25'
 contributor:
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2017-09-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This white paper is a survey of Big Geospatial Data with these main themes:\r\n\r\n
+- content: "This white paper is a survey of Big Geospatial Data with these main themes:\r\n\r\n
     \ Geospatial data is increasing in volume and variety;\r\n  New Big Data computing
     techniques are being applied to geospatial data;\r\n  Geospatial Big Data techniques
     benefit many applications; and\r\n  Open standards are needed for interoperability,
@@ -44,10 +53,12 @@ abstract:
     white paper was developed based on two Location Powers events:\r\n\r\n  Location
     Powers: Big Data, Orlando, September 20th, 2016; and\r\n  Location Powers: Big
     Linked Data, Delft, March 22nd, 2017.\r\nFor information on Location Powers: http://www.locationpowers.net/pastevents/"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

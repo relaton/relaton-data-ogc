@@ -3,51 +3,63 @@ id: 03-029
 title:
 - type: title-main
   content: OWS Messaging Framework
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS Messaging Framework
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1315
+- content: https://portal.ogc.org/files/?artifact_id=1315
   type: obp
 type: standard
 docid:
-  id: 03-029
+- id: 03-029
   type: OGC
 date:
-  type: published
+- type: published
   value: '2003-01-20'
 contributor:
 - person:
     name:
       completename: Stephane Fellah
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Steven Keens
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2003-01-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document defines a messaging framework to conduct communications between
+- content: This document defines a messaging framework to conduct communications between
     the OGC web services. It is independent of any transport protocol and any messaging
     encoding. By using the framework, the service designer could focus only on the
     message definitions and messaging flows for every action supported by the service,
     without worry on the messaging transport and delivery. The framework should considerably
     simplify the implementations of the OGC web services and should enable service
     chaining.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

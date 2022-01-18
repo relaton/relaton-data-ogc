@@ -3,37 +3,46 @@ id: 18-083
 title:
 - type: title-main
   content: 'OGC Vector Tiles Pilot: WMTS Vector Tiles Extension Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Vector Tiles Pilot: WMTS Vector Tiles Extension Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.opengeospatial.org/per/18-083.html
+- content: https://docs.opengeospatial.org/per/18-083.html
   type: obp
 type: standard
 docid:
-  id: 18-083
+- id: 18-083
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-02-11'
 contributor:
 - person:
     name:
       completename: Panagiotis (Peter) A. Vretanos
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2019-02-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The tiling of feature data is an approach that can be used to optimize
+- content: "The tiling of feature data is an approach that can be used to optimize
     the delivery vector feature data over the web to create maps. The approach provides
     a pre-defined shape (i.e. tile) to package vector data. Tiling of vector data
     enables faster map loads (due to reduced size) and offer flexible styling on the
@@ -43,10 +52,12 @@ abstract:
     of other work done in the VTP is presented in the VTP Summary Engineering Report
     [1].\r\n\r\nNOTE\r\nThis engineering report interchangeably uses both 'tiled feature
     data' and the colloquial term 'vector tiles'."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

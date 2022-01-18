@@ -3,37 +3,46 @@ id: 18-025
 title:
 - type: title-main
   content: 'OGC Testbed-14: CityGML and AR Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-14: CityGML and AR Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/18-025.html
+- content: http://docs.opengeospatial.org/per/18-025.html
   type: obp
 type: standard
 docid:
-  id: 18-025
+- id: 18-025
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-03-07'
 contributor:
 - person:
     name:
       completename: Jérôme Jacovella-St-Louis
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2019-03-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC Testbed-14 Engineering Report (ER) describes the results of the
+- content: "This OGC Testbed-14 Engineering Report (ER) describes the results of the
     Augmented Reality (AR) work performed in the Testbed-14 CityGML and Augmented
     Reality work package which was part of the Next Generation Services thread.\r\n\r\nBy
     integrating information available from urban models within a view of the real
@@ -67,10 +76,12 @@ abstract:
     shown. In order to serve them to the clients in the supported transmission formats,
     geospatial data sets of various types and in various formats were successfully
     imported for consumption by the services."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

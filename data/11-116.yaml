@@ -3,37 +3,46 @@ id: 11-116
 title:
 - type: title-main
   content: OWS-8 Geoprocessing for Earth Observations Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-8 Geoprocessing for Earth Observations Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=46793
+- content: https://portal.ogc.org/files/?artifact_id=46793
   type: obp
 type: standard
 docid:
-  id: 11-116
+- id: 11-116
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-12-19'
 contributor:
 - person:
     name:
       completename: Peter Baumann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2011-12-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Ad-hoc processing of Earth Observation (EO) data available through online
+- content: "Ad-hoc processing of Earth Observation (EO) data available through online
     resources is\r\ngaining more and more attention. Expected benefits include\r\n-
     More versatile EO data access\r\n- More convenient EO data access\r\n- Consequently,
     broadened use and exploitation of EO data\r\n- An important step towards integration
@@ -41,10 +50,12 @@ abstract:
     data access: indicating the exact desired result and evaluating\r\nprocessing
     code close to the coverage data source (i.e., on the server) minimizes\r\nnetwork
     traffic, one of today’s critical performance limiting factors."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

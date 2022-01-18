@@ -3,42 +3,52 @@ id: 12-080r2
 title:
 - type: title-main
   content: OGC OWS Context Conceptual Model
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC OWS Context Conceptual Model
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=55182
+- content: https://portal.ogc.org/files/?artifact_id=55182
   type: obp
 type: standard
 docid:
-  id: 12-080r2
+- id: 12-080r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-01-22'
 contributor:
 - person:
     name:
       completename: Roger Brackin
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: 'Pedro Gonçalves '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2014-01-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This standard describes the use cases, requirements and conceptual model
+- content: "This standard describes the use cases, requirements and conceptual model
     for the OWS Context encoding standard. The goal of this standard is to provide
     a core model, which is extended and encoded as defined in extensions to this standard.
     A ‘context document’ specifies a fully configured service set which can be exchanged
@@ -71,10 +81,12 @@ abstract:
     interface). Service explicit encodings are defined within the extension documents
     for ATOM and JSON.\r\nThe abbreviation owc is used throughout this document for
     OWS Context.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

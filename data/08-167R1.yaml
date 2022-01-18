@@ -3,45 +3,56 @@ id: '08-167r1'
 title:
 - type: title-main
   content: Semantic annotations in OGC standards
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Semantic annotations in OGC standards
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=34916
+- content: https://portal.ogc.org/files/?artifact_id=34916
   type: obp
 type: standard
 docid:
-  id: '08-167r1'
+- id: '08-167r1'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2009-07-16'
 contributor:
 - person:
     name:
       completename: Patrick Maué
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2009-07-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Annotation of Web Services or data compliant to OGC standards refers to
+- content: Annotation of Web Services or data compliant to OGC standards refers to
     the task of attaching meaningful descriptions to the service and the served geospatial
     data or processes. In this discussion paper we try to extend the expressiveness
     of such annotations by including more sophisticated (semantic) descriptions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

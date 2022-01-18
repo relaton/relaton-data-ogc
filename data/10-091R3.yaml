@@ -3,44 +3,55 @@ id: 10-091r3
 title:
 - type: title-main
   content: CF-netCDF Core and Extensions Primer
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: CF-netCDF Core and Extensions Primer
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=43733
+- content: https://portal.ogc.org/files/?artifact_id=43733
   type: obp
 type: standard
 docid:
-  id: 10-091r3
+- id: 10-091r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-04-05'
 contributor:
 - person:
     name:
       completename: Ben Domenico
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2011-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC primer provides an overview of the OGC CF-netCDF standards suite
+- content: This OGC primer provides an overview of the OGC CF-netCDF standards suite
     by describ-ing the CF-netCDF core and extensions. The CF-netCDF standard defines
     how to encode digital geospatial information representing space/time-varying phenomena
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

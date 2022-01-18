@@ -3,42 +3,52 @@ id: 16-071r3
 title:
 - type: title-main
   content: Time Ontology in OWL
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Time Ontology in OWL
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2020/CR-owl-time-20200326/
+- content: https://www.w3.org/TR/2020/CR-owl-time-20200326/
   type: obp
 type: standard
 docid:
-  id: 16-071r3
+- id: 16-071r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-03-26'
 contributor:
 - person:
     name:
       completename: Simon Cox
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Chris Little
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2020-03-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "OWL-Time is an OWL-2 DL ontology of temporal concepts, for describing
+- content: "OWL-Time is an OWL-2 DL ontology of temporal concepts, for describing
     the temporal properties of resources in the world or described in Web pages. The
     ontology provides a vocabulary for expressing facts about topological (ordering)
     relations among instants and intervals, together with information about durations,
@@ -46,10 +56,12 @@ abstract:
     durations may be expressed using either the conventional (Gregorian) calendar
     and clock, or using another temporal reference system such as Unix-time, geologic
     time, or different calendars.\r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

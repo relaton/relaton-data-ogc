@@ -3,46 +3,57 @@ id: 17-080r2
 title:
 - type: title-main
   content: CDB Multi-Spectral Imagery Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: CDB Multi-Spectral Imagery Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/17-080r2/17-080r2.html
+- content: http://docs.opengeospatial.org/is/17-080r2/17-080r2.html
   type: obp
 type: standard
 docid:
-  id: 17-080r2
+- id: 17-080r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-09-20'
 contributor:
 - person:
     name:
       completename: Ryan Franz
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2018-09-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The “Multi-Spectral Imagery” extension defines how to encode and store
+- content: 'The “Multi-Spectral Imagery” extension defines how to encode and store
     reflected electromagnetic radiation from the infrared wavelengths into a CDB.  The
     portion of the spectrum targeted is between the visible spectrum (current imagery
     and texture in CDB), and longer wavelength infrared that is primarily emissive
     and can be simulated based on the material temperature. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

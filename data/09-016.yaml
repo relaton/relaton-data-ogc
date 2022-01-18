@@ -3,46 +3,57 @@ id: '09-016'
 title:
 - type: title-main
   content: OWS-6 Symbology Encoding (SE) Changes ER
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-6 Symbology Encoding (SE) Changes ER
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=33515
+- content: https://portal.ogc.org/files/?artifact_id=33515
   type: obp
 type: standard
 docid:
-  id: '09-016'
+- id: '09-016'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2009-09-11'
 contributor:
 - person:
     name:
       completename: Craig Bruce
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2009-09-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC® document reports the results achieved in the Decision Support
+- content: This OGC® document reports the results achieved in the Decision Support
     Services (DSS) subtask of the OWS-6 testbed initiative as it relates to the extension
     of the OGC Symbology Encoding (SE) symbology format for improved capability and
     harmonization with ISO 19117 symbology, International Hydrographic Organization
     S-52 symbology, USGS Topomap symbology, and Homeland Security Emergency Management
     symbology.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

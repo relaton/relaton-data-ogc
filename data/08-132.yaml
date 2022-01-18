@@ -3,49 +3,61 @@ id: '08-132'
 title:
 - type: title-main
   content: Event Pattern Markup Language (EML)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Event Pattern Markup Language (EML)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=29566
+- content: https://portal.ogc.org/files/?artifact_id=29566
   type: obp
 type: standard
 docid:
-  id: '08-132'
+- id: '08-132'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-11-05'
 contributor:
 - person:
     name:
       completename: Thomas Everding
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Johannes Echterhoff
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2008-11-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Event Pattern Markup Language (EML) allows one to describe event patterns
+- content: The Event Pattern Markup Language (EML) allows one to describe event patterns
     for event (stream) processing and analysis. It can be used to build multi stage
     filters for incoming events but also to derive higher information through combining
     and correlating multiple events. It can be applied on single events but is focused
     on handling of continuous event streams.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

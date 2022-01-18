@@ -3,45 +3,56 @@ id: 07-062
 title:
 - type: title-main
   content: City Geography Markup Language
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: City Geography Markup Language
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=22120
+- content: https://portal.ogc.org/files/?artifact_id=22120
   type: obp
 type: standard
 docid:
-  id: 07-062
+- id: 07-062
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-08-14'
 contributor:
 - person:
     name:
       completename: Gerhard Gr
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2007-08-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'CityGML is designed as an open data model and XML-based format for the
+- content: 'CityGML is designed as an open data model and XML-based format for the
     storage and exchange of virtual 3D city models. It is implemented as an application
     schema of the Geography Markup Language 3 (GML3), the extendible international
     standard for spatial data exchange and encoding issued by the Open Geospatial
     Consortium (OGC) and the ISO TC211. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

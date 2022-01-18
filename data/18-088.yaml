@@ -3,55 +3,68 @@ id: 18-088
 title:
 - type: title-main
   content: 'OGC SensorThings API Part 1: Sensing Version 1.1'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC SensorThings API Part 1: Sensing Version 1.1'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/is/18-088/18-088.html
+- content: https://docs.ogc.org/is/18-088/18-088.html
   type: obp
 type: standard
 docid:
-  id: 18-088
+- id: 18-088
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-08-04'
 contributor:
 - person:
     name:
       completename: Steve Liang
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Tania Khalafbeigi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Hylke van der Schaaf
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2021-08-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The OGC SensorThings API provides an open, geospatial-enabled and unified
+- content: The OGC SensorThings API provides an open, geospatial-enabled and unified
     way to interconnect the Internet of Things (IoT) devices, data, and applications
     over the web. At a high level the OGC SensorThings API provides two main functionalities
     and each function is handled by a part. The two parts are the Sensing part and
     the Tasking part. The Sensing part provides a standard way to manage and retrieve
     observations and metadata from heterogeneous IoT sensor systems. This document
     is version 1.1 and it is extending the first version of Sensing part.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

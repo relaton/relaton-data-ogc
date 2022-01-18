@@ -3,50 +3,63 @@ id: 04-107
 title:
 - type: title-intro
   content: Topic 7
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Earth Imagery
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Topic 7 - Earth Imagery
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=7467
+- content: https://portal.ogc.org/files/?artifact_id=7467
   type: obp
 type: standard
 docid:
-  id: 04-107
+- id: 04-107
   type: OGC
 date:
-  type: published
+- type: published
   value: '2004-10-15'
 contributor:
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2004-10-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Replaced previous material in Topic 7 with ISO 19101-2, Reference Model
+- content: 'Replaced previous material in Topic 7 with ISO 19101-2, Reference Model
     - Geographic Information -  Imagery.  Version 5 of OGC Topic 7 is identical with
     ISO 19101-2 Working Draft #3.  Topic 7 will be updated jointly with the progress
     of ISO 19191-2. Appendix A of Topic 7, version 4 contained a White Paper on Earth
     Image Geometry Models. That white paper is now separate OGC Recommendation document. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

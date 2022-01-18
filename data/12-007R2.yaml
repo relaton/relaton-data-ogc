@@ -3,38 +3,47 @@ id: 12-007r2
 title:
 - type: title-main
   content: OGC KML 2.3
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC KML 2.3
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/12-007r2/12-007r2.html
+- content: http://docs.opengeospatial.org/is/12-007r2/12-007r2.html
   type: obp
 type: standard
 docid:
-  id: 12-007r2
+- id: 12-007r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-08-04'
 contributor:
 - person:
     name:
       completename: David Burggraf
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2015-08-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "KML is an XML grammar used to encode and transport representations of
+- content: "KML is an XML grammar used to encode and transport representations of
     geographic data for display in an earth browser.  Put simply: KML encodes what
     to show in an earth browser, and how to show it.  KML uses a tag-based structure
     with nested elements and attributes and is based on the XML standard.\r\n\r\nThe
@@ -50,10 +59,12 @@ abstract:
     images (if any) may be compressed using the ZIP format into KMZ archives.  KML
     documents and KMZ archives may be shared by e&#8209;mail, hosted locally for sharing
     within a private internet, or hosted on a web server."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

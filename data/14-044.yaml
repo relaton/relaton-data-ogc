@@ -3,44 +3,55 @@ id: 14-044
 title:
 - type: title-main
   content: OGC® Testbed 10 Summary Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Testbed 10 Summary Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=61108
+- content: https://portal.ogc.org/files/?artifact_id=61108
   type: obp
 type: standard
 docid:
-  id: 14-044
+- id: 14-044
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-02-02'
 contributor:
 - person:
     name:
       completename: Lew Leinenweber
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2015-02-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The OGC Testbed 10 was an initiative of OGC’s Interoperability Program
+- content: The OGC Testbed 10 was an initiative of OGC’s Interoperability Program
     to collaboratively extend and demonstrate OGC’s baseline for geospatial interoperability.
     The majority of work for Testbed 10 was conducted between October 2013 and April
     2014.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,46 +3,57 @@ id: 14-004r1
 title:
 - type: title-main
   content: OGC® Sensor Observation Service 2.0 Hydrology Profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Sensor Observation Service 2.0 Hydrology Profile
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/bp/14-004r1/14-004r1.html
+- content: http://docs.opengeospatial.org/bp/14-004r1/14-004r1.html
   type: obp
 type: standard
 docid:
-  id: 14-004r1
+- id: 14-004r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-10-20'
 contributor:
 - person:
     name:
       completename: Volker Andres
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: 'Simon Jirka '
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Michael Utech
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2014-10-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC document defines an OGC Sensor Observation Service (SOS) 2.0 hydrology
+- content: This OGC document defines an OGC Sensor Observation Service (SOS) 2.0 hydrology
     profile for SOS 2.0 implementations serving OGC WaterML 2.0. The development of
     this OGC Best Practice (BP) is based on previous activities and results (i.e.
     Hydrology Interoperability Experiments[1] as well as the European FP7 project
@@ -51,10 +62,12 @@ abstract:
     Therefore, this profile focuses on how to use the entities and requests of the
     standards and defines the necessary technical details to implement the hydrology
     SOS profile.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -3,47 +3,60 @@ id: 12-097
 title:
 - type: title-intro
   content: OWS-9 Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: SSI
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-part
   content: Bulk Data Transfer (GML Streaming)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-9 Engineering Report - SSI - Bulk Data Transfer (GML Streaming)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=51998
+- content: https://portal.ogc.org/files/?artifact_id=51998
   type: obp
 type: standard
 docid:
-  id: 12-097
+- id: 12-097
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-03-26'
 contributor:
 - person:
     name:
       completename: Jeff Harrison
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2013-03-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document provides a description of the Bulk Data Transfer investigations
+- content: "This document provides a description of the Bulk Data Transfer investigations
     related to Geography Markup Language (GML) streaming and feature data transportation
     implemented in the OGC OWS-9 test bed.  \r\n\r\nThis document extends the concept
     of Bulk Data Transfer to the dissemination of large payloads consisting of geospatial
@@ -51,10 +64,12 @@ abstract:
     via a network.\r\n\r\nThis document also describes the delivery of large payloads
     consisting of geospatial data sets and/or collections of data sets to SpatiaLite/SQLite
     to store the data for use by mobile applications.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

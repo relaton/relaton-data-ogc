@@ -3,70 +3,89 @@ id: 14-014r3
 title:
 - type: title-intro
   content: OGC® Catalogue Services Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: HTTP protocol binding
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-part
   content: Abstract Test Suite
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Catalogue Services Specification - HTTP protocol binding - Abstract
     Test Suite
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/14-014r3/14-014r3.html
+- content: http://docs.opengeospatial.org/is/14-014r3/14-014r3.html
   type: obp
 type: standard
 docid:
-  id: 14-014r3
+- id: 14-014r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-06-10'
 contributor:
 - person:
     name:
       completename: Lorenzo Bigagli
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Doug Nebert
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Uwe Voges
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Panagiotis Vretanos
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Bruce Westcott
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2016-06-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: See OGC 12-176r7 -- OGC® Catalogue Services Specification - HTTP Protocol
+- content: See OGC 12-176r7 -- OGC® Catalogue Services Specification - HTTP Protocol
     Binding.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

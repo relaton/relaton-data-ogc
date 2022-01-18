@@ -3,45 +3,56 @@ id: 12-066
 title:
 - type: title-main
   content: Modeling an application domain extension of CityGML in UML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Modeling an application domain extension of CityGML in UML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=49000
+- content: https://portal.ogc.org/files/?artifact_id=49000
   type: obp
 type: standard
 docid:
-  id: 12-066
+- id: 12-066
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-01-31'
 contributor:
 - person:
     name:
       completename: Linda van den Brink
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jantien Stoter
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Sisi Zlatanova
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2014-01-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This paper presents key aspects of the development of a Dutch 3D standard
+- content: This paper presents key aspects of the development of a Dutch 3D standard
     IMGeo as a CityGML ADE. The new ADE is modeled using UML class diagrams. However
     the OGC CityGML specification does not provide clear rules on modeling an ADE
     in UML. This paper describes how the extension was built, which provides general
@@ -49,10 +60,12 @@ abstract:
     the UML diagrams. Several alternatives for modeling ADEs in UML have been investigated
     and compared. The best suited for the 3D standard option is selected and applied.
     Open issues and challenges are discussed in the conclusions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

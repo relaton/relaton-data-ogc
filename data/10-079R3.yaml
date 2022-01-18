@@ -3,45 +3,56 @@ id: 10-079r3
 title:
 - type: title-main
   content: OWS-7 Aviation Architecture Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-7 Aviation Architecture Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=40133
+- content: https://portal.ogc.org/files/?artifact_id=40133
   type: obp
 type: standard
 docid:
-  id: 10-079r3
+- id: 10-079r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-09-09'
 contributor:
 - person:
     name:
       completename: Thomas Everding
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2010-09-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The document describes the architecture that was implemented in the Aviation
+- content: The document describes the architecture that was implemented in the Aviation
     thread of OWS-7. The document provides an overview of the architecture and describes
     the implemented components. In addition it discusses “eventing” and notification
     techniques relevant for the aviation domain.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

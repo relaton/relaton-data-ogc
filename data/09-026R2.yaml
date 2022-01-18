@@ -3,43 +3,54 @@ id: '09-026r2'
 title:
 - type: title-intro
   content: OGC Filter Encoding 2.0 Encoding Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: 'With Corrigendum '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Filter Encoding 2.0 Encoding Standard - With Corrigendum '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/09-026r2/09-026r2.html
+- content: http://docs.opengeospatial.org/is/09-026r2/09-026r2.html
   type: obp
 type: standard
 docid:
-  id: '09-026r2'
+- id: '09-026r2'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-08-18'
 contributor:
 - person:
     name:
       completename: Panagiotis (Peter) A. Vretanos
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2014-08-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "A fundamental operation performed on a set of data or resources is that
+- content: "A fundamental operation performed on a set of data or resources is that
     of querying in order to obtain a subset of the data which contains certain desired
     information that satisfies some query criteria and which is also, perhaps, sorted
     in some specified manner.\r\n\r\nThis International Standard defines an abstract
@@ -59,10 +70,12 @@ abstract:
     the projection, selection and sorting clauses of a query expression. The intent
     is that this neutral representation can be easly validated, parsed and then translated
     into some target query language such as SPARQL or SQL for processing."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

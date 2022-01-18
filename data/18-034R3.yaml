@@ -3,46 +3,57 @@ id: 18-034r3
 title:
 - type: title-main
   content: 'OGC Testbed-14: Compliance Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-14: Compliance Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/18-034r3.html
+- content: http://docs.opengeospatial.org/per/18-034r3.html
   type: obp
 type: standard
 docid:
-  id: 18-034r3
+- id: 18-034r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-02-07'
 contributor:
 - person:
     name:
       completename: Andrea Aime
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Emanuele Tajariol
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Simone Giannecchini
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2019-02-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The OGC Compliance Program provides a free online testing facility based
+- content: "The OGC Compliance Program provides a free online testing facility based
     on TeamEngine and a set of test suites dedicated to specific protocols and versions,
     as well as specification profiles and extension.\r\n\r\nThis document reviews
     the work that has been carried out as part of the Testbed-14 compliance activity,
@@ -60,10 +71,12 @@ abstract:
     And Measurement (TEAM) Engine and eventually land on the OGC beta compliance test
     engine (availability on the primary site is subject to the WFS 3.0 specification
     being finalized and the tests being adapted to it)."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

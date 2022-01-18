@@ -3,38 +3,47 @@ id: 06-023r1
 title:
 - type: title-main
   content: Definition identifier URNs in OGC namespace
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Definition identifier URNs in OGC namespace
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=16339
+- content: https://portal.ogc.org/files/?artifact_id=16339
   type: obp
 type: standard
 docid:
-  id: 06-023r1
+- id: 06-023r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-08-08'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2006-08-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "*** Corrigendum - updated 2006-08-08 ***\r\n\r\nThis revised version of
+- content: "*** Corrigendum - updated 2006-08-08 ***\r\n\r\nThis revised version of
     this document adds additional allowed authority and objectType values, plus specifies
     URNs for data types, as proposed in change requests OGC 05-091r2 and 05-060. In
     addition, corrections have been made to the XML documents listed in Annex A. The
@@ -45,10 +54,12 @@ abstract:
     URNs for specific definitions. These definitions should be used wherever applicable
     by implementations of various OGC Implementation Specifications, including GML,
     WMS, WFS, and WCS."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -3,48 +3,59 @@ id: 06-121r9
 title:
 - type: title-main
   content: OGC Web Service Common Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Web Service Common Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=38867
+- content: https://portal.ogc.org/files/?artifact_id=38867
   type: obp
 type: standard
 docid:
-  id: 06-121r9
+- id: 06-121r9
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-04-07'
 contributor:
 - person:
     name:
       completename: 'Arliss Whiteside Jim Greenwood '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '9'
 revdate: '2010-04-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies many of the aspects that are, or should be, common
+- content: This document specifies many of the aspects that are, or should be, common
     to all or multiple OGC Web Service (OWS) interface Implementation Standards. These
     common aspects are primarily some of the parameters and data structures used in
     operation requests and responses. Of course, each such Implementation Standard
     must specify the additional aspects of that interface, including specifying all
     additional parameters and data structures needed in all operation requests and
     responses.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

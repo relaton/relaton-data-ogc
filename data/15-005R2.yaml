@@ -3,45 +3,56 @@ id: 15-005r2
 title:
 - type: title-main
   content: Defence Profile of OGC Web Feature Service 2.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Defence Profile of OGC Web Feature Service 2.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/94152
+- content: https://portal.ogc.org/files/94152
   type: obp
 type: standard
 docid:
-  id: 15-005r2
+- id: 15-005r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-02-26'
 contributor:
 - person:
     name:
       completename: DGIWG
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2021-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document defines the DGIWG profile for the ISO\r\n19142:2010 - Web
+- content: "This document defines the DGIWG profile for the ISO\r\n19142:2010 - Web
     Feature Service (WFS) including changes\r\nmade in the OpenGIS Web Feature Service
     2.0 Interface\r\nStandard - Corrigendum. The Web Feature Service provides\r\naccess
     to geospatial features in a manner independent of the\r\nunderlying data store."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

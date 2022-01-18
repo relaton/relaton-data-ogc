@@ -3,37 +3,46 @@ id: 11-145
 title:
 - type: title-main
   content: Cyberarchitecture for Geosciences   White Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Cyberarchitecture for Geosciences   White Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=46388
+- content: https://portal.ogc.org/files/?artifact_id=46388
   type: obp
 type: standard
 docid:
-  id: 11-145
+- id: 11-145
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-05-20'
 contributor:
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2014-05-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The National Science Foundation (NSF) is developing EarthCube” - Towards
+- content: "The National Science Foundation (NSF) is developing EarthCube” - Towards
     a National Data Infrastructure for Earth System Science .  In a new partnership
     between GEO and the NSF Office of Cyberinfrastructure, NSF seeks transformative
     concepts and approaches to create a sustained, integrated data management infrastructure
@@ -48,10 +57,12 @@ abstract:
     developments and subsequent OGC documents. Recipients of this document are invited
     to reply to the authors’ with notification of any relevant patent rights of which
     they are aware and to provide supporting documentation.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

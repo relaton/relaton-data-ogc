@@ -4,47 +4,58 @@ title:
 - type: title-main
   content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
     Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
     Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=64174
+- content: https://portal.ogc.org/files/?artifact_id=64174
   type: obp
 type: standard
 docid:
-  id: 15-046r2
+- id: 15-046r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-01-18'
 contributor:
 - person:
     name:
       completename: Eugene G. Yu
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Liping Di
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Ranjay Shrestha
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2016-01-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This OGC Engineering Report describes the high-resolution flood information
+- content: 'This OGC Engineering Report describes the high-resolution flood information
     scenario carried out under the Urban Climate Resilience Thread of the Testbed
     11 Initiative. The scenario was developed for two areas of interest: the San Francisco
     Bay Area and in Mozambique. The scenarios for these two locations demonstrate
@@ -56,10 +67,12 @@ abstract:
     OGC geospatial Web Service standards in supporting the on-demand, dynamic serving
     of flood information from models with forecasting capacity. Change requests to
     OGC standards have also been identified through the Testbed activity.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

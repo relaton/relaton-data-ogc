@@ -4,38 +4,47 @@ title:
 - type: title-main
   content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
     Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
     Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.opengeospatial.org/per/18-021.html
+- content: https://docs.opengeospatial.org/per/18-021.html
   type: obp
 type: standard
 docid:
-  id: 18-021
+- id: 18-021
   type: OGC
 date:
-  type: published
+- type: published
   value: '2019-03-06'
 contributor:
 - person:
     name:
       completename: Clemens Portele
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2019-03-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "OGC Web Feature Service (WFS) 3.0 is a revision of the WFS standard that
+- content: "OGC Web Feature Service (WFS) 3.0 is a revision of the WFS standard that
     proposes a modernized service architecture, that follows the current Web architecture,
     has a focus on the developer experience, supports the OpenAPI specification, and
     modularizes WFS into building blocks for fine-grained access to spatial data that
@@ -60,10 +69,12 @@ abstract:
     the NextGen approach improves the consistency of the interface and removes redundancies
     (e.g., between the feature access in WFS and the feature info requests in the
     other standards)."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

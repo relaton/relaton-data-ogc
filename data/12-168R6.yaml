@@ -3,51 +3,64 @@ id: 12-168r6
 title:
 - type: title-intro
   content: OGC® Catalogue Services 3.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: General Model
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Catalogue Services 3.0 - General Model
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/12-168r6/12-168r6.html
+- content: http://docs.opengeospatial.org/is/12-168r6/12-168r6.html
   type: obp
 type: standard
 docid:
-  id: 12-168r6
+- id: 12-168r6
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-06-10'
 contributor:
 - person:
     name:
       completename: Douglas Nebert
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Uwe Voges
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Lorenzo Bigagli
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '6'
 revdate: '2016-06-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "OGC® Catalogue Services support the ability to publish and search collections
+- content: "OGC® Catalogue Services support the ability to publish and search collections
     of\r\ndescriptive information (metadata records) for geospatial data, services,
     and related\r\ninformation. Metadata in catalogues represent resource characteristics
     that can be queried\r\nand presented for evaluation and further processing by
@@ -67,10 +80,12 @@ abstract:
     number 14-014r3 – HTTP Protocol Binding – Abstract Test Suite is\r\navailable
     to address conformance with the provisions of OGC document number 12-\r\n176r7
     – HTTP Protocol Binding. All annexes to this document are informative."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

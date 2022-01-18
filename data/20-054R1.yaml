@@ -3,52 +3,64 @@ id: 20-054r1
 title:
 - type: title-main
   content: An Extension Model to attach Points of Interest into IndoorGML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: An Extension Model to attach Points of Interest into IndoorGML
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/dp/20-054r1.html
+- content: https://docs.ogc.org/dp/20-054r1.html
   type: obp
 type: standard
 docid:
-  id: 20-054r1
+- id: 20-054r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-01-19'
 contributor:
 - person:
     name:
       completename: Kyoung-Sook Kim
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jiyeong Lee
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2021-01-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The scope of this discussion paper is to investigate types of Point of
+- content: "The scope of this discussion paper is to investigate types of Point of
     Interest (POI) data in indoor space and propose a conceptual model to harmonize
     the POI information with the IndoorGML core and navigation modules. In particular,
     this document focuses on the management of spatial (and non-spatial) history of
     indoor POI features. The paper covers the following scope:\r\n\r\nPoints of Interest
     Feature Types;\r\n\r\nA Conceptual model to extend IndoorGML schema for indoor
     POI; and\r\n\r\nUse cases in home navigation and hospital facility management."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

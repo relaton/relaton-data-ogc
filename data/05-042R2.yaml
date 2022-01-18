@@ -3,45 +3,56 @@ id: 05-042r2
 title:
 - type: title-main
   content: OpenGIS Web services architecture description
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Web services architecture description
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=13140
+- content: https://portal.ogc.org/files/?artifact_id=13140
   type: obp
 type: standard
 docid:
-  id: 05-042r2
+- id: 05-042r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2005-11-21'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2005-11-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document summarizes the most significant aspects of the Open Geospatial
+- content: This document summarizes the most significant aspects of the Open Geospatial
     Consortium (OGC) web services architecture, which the OGC is currently developing.
     This architecture is a service-oriented architecture, with all components providing
     one or more services to other services or to clients.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

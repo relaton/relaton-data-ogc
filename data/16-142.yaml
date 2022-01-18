@@ -3,37 +3,46 @@ id: 16-142
 title:
 - type: title-main
   content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://www.w3.org/TR/qb4st/
+- content: https://www.w3.org/TR/qb4st/
   type: obp
 type: standard
 docid:
-  id: 16-142
+- id: 16-142
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-09-17'
 contributor:
 - person:
     name:
       completename: Rob Atkinson
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2020-09-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document describes an extension to the existing RDF Data Cube ontology
+- content: This document describes an extension to the existing RDF Data Cube ontology
     to support specification of key metadata required to interpret spatio-temporal
     data. The RDF Data Cube defines CodedProperties, which relate to a reference system
     based on a list of terms, QB4ST provides generalized support for numeric and other
@@ -47,10 +56,12 @@ abstract:
     the scope and consistency of dataset metadata, and hence discovery and interpretation
     of spatio-temporal data through its spatio-temporal reference system and bounding
     values.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

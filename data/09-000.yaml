@@ -3,41 +3,51 @@ id: '09-000'
 title:
 - type: title-main
   content: OGC® Sensor Planning Service Implementation Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Sensor Planning Service Implementation Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=38478
+- content: https://portal.ogc.org/files/?artifact_id=38478
   type: obp
 type: standard
 docid:
-  id: '09-000'
+- id: '09-000'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2011-03-28'
 contributor:
 - person:
     name:
       completename: Ingo Simonis
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Johannes Echterhoff
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2011-03-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The OpenGIS® Sensor Planning Service Interface Standard (SPS) defines
+- content: 'The OpenGIS® Sensor Planning Service Interface Standard (SPS) defines
     interfaces for queries that provide information about the capabilities of a sensor
     and how to task the sensor. The standard is designed to support queries that have
     the following purposes: to determine the feasibility of a sensor planning request;
@@ -46,10 +56,12 @@ abstract:
     other OGC Web services that provide access to the data collected by the requested
     task. This is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
     suite of standards.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -3,45 +3,56 @@ id: 07-023r2
 title:
 - type: title-main
   content: OGC Web Services Architecture for CAD GIS and BIM
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Web Services Architecture for CAD GIS and BIM
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=21622
+- content: https://portal.ogc.org/files/?artifact_id=21622
   type: obp
 type: standard
 docid:
-  id: 07-023r2
+- id: 07-023r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-05-16'
 contributor:
 - person:
     name:
       completename: Paul Cote
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2007-05-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document lists the design principles and requirements for future
+- content: 'This document lists the design principles and requirements for future
     versions of a potential architecture for integrating workflows and information
     models from Computer Aided Design and Building Information Modelling with the
     principles of the OGC Web Services Architecture. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

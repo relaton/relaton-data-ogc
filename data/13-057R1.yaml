@@ -3,38 +3,47 @@ id: 13-057r1
 title:
 - type: title-main
   content: OGC Web Coverage Service Interface Standard – Transaction Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Web Coverage Service Interface Standard – Transaction Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/13-057r1/13-057r1.html
+- content: http://docs.opengeospatial.org/is/13-057r1/13-057r1.html
   type: obp
 type: standard
 docid:
-  id: 13-057r1
+- id: 13-057r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-11-17'
 contributor:
 - person:
     name:
       completename: Peter Baumann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2016-11-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC Web Coverage Service (WCS) – Transaction Extension (in short:
+- content: "This OGC Web Coverage Service (WCS) – Transaction Extension (in short:
     WCS Transaction) defines an extension to the WCS Core [OGC 09-110] for updating
     coverage offer­ings on a server.\r\n\r\nThis WCS Transaction standard defines
     three requests:\r\n\r\nInsertCoverage for adding a coverage provided as parameter
@@ -52,10 +61,12 @@ abstract:
     adhere to the ACID[1] (atomicity, consistency, isolation, durability) concepts
     of database transactions.\r\n\r\nThe extension name, Transaction, traces back
     to the database concept of transactions, which has been adopted here."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

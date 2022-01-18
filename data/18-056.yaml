@@ -3,51 +3,64 @@ id: 18-056
 title:
 - type: title-main
   content: OGC SensorThings API Tasking Core Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC SensorThings API Tasking Core Discussion Paper
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=79179
+- content: https://portal.ogc.org/files/?artifact_id=79179
   type: obp
 type: standard
 docid:
-  id: 18-056
+- id: 18-056
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-12-18'
 contributor:
 - person:
     name:
       completename: Steve Liang
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Tania Khalafbeigi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kan Luo
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2018-12-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This discussion paper offers descriptions and provides JSON examples of
+- content: This discussion paper offers descriptions and provides JSON examples of
     TaskingCapabilities and Tasks for the SensorThings Application Programming Interface
     (API).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

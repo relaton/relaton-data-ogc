@@ -3,48 +3,59 @@ id: 17-030r1
 title:
 - type: title-main
   content: LAS Specification 1.4 OGC Community Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: LAS Specification 1.4 OGC Community Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=74523
+- content: https://portal.ogc.org/files/?artifact_id=74523
   type: obp
 type: standard
 docid:
-  id: 17-030r1
+- id: 17-030r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-03-01'
 contributor:
 - person:
     name:
       completename: ASPRS
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2018-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The LAS file is intended to contain LIDAR (or other) point cloud data
+- content: "The LAS file is intended to contain LIDAR (or other) point cloud data
     records. The data will\r\ngenerally be put into this format from software (e.g.
     provided by LIDAR hardware vendors) which\r\ncombines GPS, IMU, and laser pulse
     range data to produce X, Y, and Z point data. The intention\r\nof the data format
     is to provide an open format that allows different LIDAR hardware and software\r\ntools
     to output data in a common format.\r\nThis document reflects the fourth revision
     of the LAS format specification since its initial version\r\n1.0 release."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: community-standard
 editorialgroup:
   committee: technical

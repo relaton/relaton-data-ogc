@@ -3,63 +3,79 @@ id: 16-084
 title:
 - type: title-intro
   content: OGC Benefits of Indoor Location
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: " Use Case Survey of Lessons Learned and Expectations "
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Benefits of Indoor Location -  Use Case Survey of Lessons Learned
     and Expectations '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=68604
+- content: https://portal.ogc.org/files/?artifact_id=68604
   type: obp
 type: standard
 docid:
-  id: 16-084
+- id: 16-084
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-08-01'
 contributor:
 - person:
     name:
       completename: Giuseppe Conti
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Fabio Malabocchia
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: " Ki-Joune Li"
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: George Percivall
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Kirk Burroughs
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Stuart Strickland
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2016-08-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Indoor location technologies are enjoying and increasing market success.
+- content: 'Indoor location technologies are enjoying and increasing market success.
     Technologies in the market have achieved maturity and have become a key driver
     for innovation and business activities in several value added scenarios, e.g.
     e-government services, eHealth, personal mobility, logistics, mobility, facility
@@ -76,10 +92,12 @@ abstract:
     involved in the different organizations; instead, it provides the opportunity
     to capture recommendations of relevance for the industrial and standardization
     community these organizations represent. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

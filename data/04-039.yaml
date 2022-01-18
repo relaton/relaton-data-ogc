@@ -3,47 +3,58 @@ id: 04-039
 title:
 - type: title-main
   content: Geospatial Portal Reference Architecture
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Geospatial Portal Reference Architecture
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=6669
+- content: https://portal.ogc.org/files/?artifact_id=6669
   type: obp
 type: standard
 docid:
-  id: 04-039
+- id: 04-039
   type: OGC
 date:
-  type: published
+- type: published
   value: '2004-09-22'
 contributor:
 - person:
     name:
       completename: Louis Rose
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2004-09-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This Guide has been developed by the members of the Open Geospatial Consortium,
+- content: 'This Guide has been developed by the members of the Open Geospatial Consortium,
     Inc. to assist the global geospatial technology community in implementing standards-based
     geospatial portal solutions that are compatible with Spatial Data Infrastructures
     in every nation.  We offer this document as a resource for rapid development and
     informed acquisition of portals and portal-exploiting applications that can plug
     and play with geospatial data and services in your organization and other organizations
     in your community and around the world.    '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

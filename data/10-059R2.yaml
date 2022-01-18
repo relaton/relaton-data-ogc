@@ -3,49 +3,61 @@ id: 10-059r2
 title:
 - type: title-main
   content: OWS-7 Web Processing Service Profiling Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-7 Web Processing Service Profiling Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=40310
+- content: https://portal.ogc.org/files/?artifact_id=40310
   type: obp
 type: standard
 docid:
-  id: 10-059r2
+- id: 10-059r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-08-18'
 contributor:
 - person:
     name:
       completename: Christian Kiehle
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Theodor Foerster
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2010-08-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The overall scope of this OWS-7 Engineering Report is to clarify how to
+- content: The overall scope of this OWS-7 Engineering Report is to clarify how to
     write and register a WPS profile. WPS profiles enable clients to search and identify
     equivalent WPS-based processes distributed on the web. Therefore, this ER provides
     guidelines for designing WPS Profiles based on WPS interface specification 1.0.0.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

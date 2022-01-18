@@ -3,41 +3,52 @@ id: 02-027
 title:
 - type: title-main
   content: Observations and Measurements
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Observations and Measurements
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=1137
+- content: https://portal.ogc.org/files/?artifact_id=1137
   type: obp
 type: standard
 docid:
-  id: 02-027
+- id: 02-027
   type: OGC
 date:
-  type: published
+- type: published
   value: '2002-05-31'
 contributor:
 - person:
     name:
       completename: Simon Cox
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2002-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document describes a framework and encoding for measurements and observations.
-  language: en
-  script: Latn
+- content: This document describes a framework and encoding for measurements and observations.
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -3,37 +3,46 @@ id: 16-008
 title:
 - type: title-main
   content: OGC Geoscience Markup Language 4.1 (GeoSciML)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Geoscience Markup Language 4.1 (GeoSciML)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/16-008/16-008.html
+- content: http://docs.opengeospatial.org/is/16-008/16-008.html
   type: obp
 type: standard
 docid:
-  id: 16-008
+- id: 16-008
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-01-31'
 contributor:
 - person:
     name:
       completename: GeoSciML Modeling Team
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-01-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "GeoSciML is a model of geological features commonly described and portrayed
+- content: "GeoSciML is a model of geological features commonly described and portrayed
     in geological maps, cross sections, geological reports and databases.  The model
     was developed by the IUGS CGI (Commission for the Management and Application of
     Geoscience Information) and version 4.1 is the first version officially submitted
@@ -45,10 +54,12 @@ abstract:
     specification also provides patterns, profiles (most notably of Observations and
     Measurements - ISO19156), and best practices to deal with common geoscience use
     cases. \r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

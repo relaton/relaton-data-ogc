@@ -4,42 +4,52 @@ title:
 - type: title-main
   content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
     (1.1.0) for OGC
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
     (1.1.0) for OGC
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/dp/17-059/17-059.html
+- content: http://docs.opengeospatial.org/dp/17-059/17-059.html
   type: obp
 type: standard
 docid:
-  id: 17-059
+- id: 17-059
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-10-30'
 contributor:
 - person:
     name:
       completename: Lars Schylberg
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Lubos Belka
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-10-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The DGIWG Portrayal Technical Panel (DPTP) has been investigating how
+- content: "The DGIWG Portrayal Technical Panel (DPTP) has been investigating how
     to standardize the portrayal of military context symbology within Web Services.
     The team sought to use version 1.1.0 of OGC Style Layer Descriptor standard and
     version 1.1.0 of Symbology Encoding (SLD and SE) standard to achieve this.\r\nThe
@@ -51,10 +61,12 @@ abstract:
     the standard. This was found not to be the current situation.\r\nThis position
     paper describes the findings and outlines recommendations for a revised future
     version of the SLD and SE standards that resolves these issues.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -3,52 +3,65 @@ id: '08-122r2'
 title:
 - type: title-main
   content: Uncertainty Markup Language (UnCertML)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Uncertainty Markup Language (UnCertML)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=33234
+- content: https://portal.ogc.org/files/?artifact_id=33234
   type: obp
 type: standard
 docid:
-  id: '08-122r2'
+- id: '08-122r2'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2009-04-08'
 contributor:
 - person:
     name:
       completename: Matthew Williams
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Dan Cornford
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Lucy Bastin & Edzer Pebesma
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2009-04-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The Uncertainty Markup Language (UncertML) is an XML encoding for the
+- content: 'The Uncertainty Markup Language (UncertML) is an XML encoding for the
     transport and storage of information about uncertain quantities, with emphasis
     on quantitative representations based on probability theory. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

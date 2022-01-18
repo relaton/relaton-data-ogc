@@ -3,44 +3,55 @@ id: 16-010r5
 title:
 - type: title-main
   content: 'Volume 7: OGC CDB Data Model Guidance (Best Practice)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 7: OGC CDB Data Model Guidance (Best Practice)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/bp/16-010r5.html
+- content: https://docs.ogc.org/bp/16-010r5.html
   type: obp
 type: standard
 docid:
-  id: 16-010r5
+- id: 16-010r5
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-02-26'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '5'
 revdate: '2021-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This CDB Volume provides Guidelines, Clarifications, Rationales, Primers,
+- content: "This CDB Volume provides Guidelines, Clarifications, Rationales, Primers,
     and additional information for the definition and use of various models that can
     be stored in a CDB compliant data store.\r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

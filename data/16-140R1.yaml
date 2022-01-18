@@ -3,47 +3,59 @@ id: 16-140r1
 title:
 - type: title-intro
   content: OGC Moving Features Encoding Extension
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: JSON
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Moving Features Encoding Extension - JSON
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/bp/16-140r1/16-140r1.html
+- content: http://docs.opengeospatial.org/bp/16-140r1/16-140r1.html
   type: obp
 type: standard
 docid:
-  id: 16-140r1
+- id: 16-140r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-06-28'
 contributor:
 - person:
     name:
       completename: Kyoung-Sook KIM
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Hirotaka OGAWA
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2017-06-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document proposes a JavaScript Object Notation (JSON) encoding representation
+- content: This document proposes a JavaScript Object Notation (JSON) encoding representation
     of movement of geographic features as an encoding extension of OGC Moving Features
     ([OGC 14-083r2] and [OGC 14-084r2]). A moving feature, typically a vehicle and
     pedestrian, can be expressed as a temporal geometry whose location continuously
@@ -53,10 +65,12 @@ abstract:
     addition, this document provides an example of RESTful approaches as a Feature
     Service Interface that has the potential for simplicity, scalability, and resilience
     with respect to exchange of moving feature data across the Web.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

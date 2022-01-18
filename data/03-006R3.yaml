@@ -3,48 +3,59 @@ id: 03-006r3
 title:
 - type: title-main
   content: 'OpenGIS Location Services (OpenLS): Core Services [Parts 1-5]'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OpenGIS Location Services (OpenLS): Core Services [Parts 1-5]'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=3418
+- content: https://portal.ogc.org/files/?artifact_id=3418
   type: obp
 type: standard
 docid:
-  id: 03-006r3
+- id: 03-006r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2004-01-16'
 contributor:
 - person:
     name:
       completename: Marwa Mabrouk
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2004-01-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'OpenGIS Location Services (OpenLS): Core Services, Parts 1-5, which consists
+- content: 'OpenGIS Location Services (OpenLS): Core Services, Parts 1-5, which consists
     of the composite set of basic services comprising the OpenLS Platform. This platform
     is also referred to as the GeoMobility Server (GMS), an open location services
     platform. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 docstatus:
   stage:
     value: draft
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 editorialgroup:
   committee: technical

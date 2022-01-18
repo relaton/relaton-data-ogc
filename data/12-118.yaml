@@ -3,46 +3,57 @@ id: 12-118
 title:
 - type: title-main
   content: 'OWS-9 Security Engineering Report '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OWS-9 Security Engineering Report '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=51806
+- content: https://portal.ogc.org/files/?artifact_id=51806
   type: obp
 type: standard
 docid:
-  id: 12-118
+- id: 12-118
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-02-06'
 contributor:
 - person:
     name:
       completename: Andreas Matheus
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2013-02-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This Engineering Report describes the approaches to security taken in
+- content: "This Engineering Report describes the approaches to security taken in
     the OWS-9 initiative. This document presents the results of the work within the
     OWS-9 Security and Services Interoperability (SSI) thread and results from CCI
     and Innovations Cross Thread activities. \r\nThe report also describes the various
     tasks and their results regarding interoperability between different security
     components provided by different participants.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

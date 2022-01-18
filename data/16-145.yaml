@@ -3,45 +3,56 @@ id: 16-145
 title:
 - type: title-main
   content: Overview of the CoverageJSON format
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Overview of the CoverageJSON format
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://www.w3.org/TR/covjson-overview/
+- content: https://www.w3.org/TR/covjson-overview/
   type: obp
 type: standard
 docid:
-  id: 16-145
+- id: 16-145
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-09-17'
 contributor:
 - person:
     name:
       completename: Jon Blower
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Maik Riechert
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Bill Roberts
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2020-09-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This Note describes CoverageJSON, a data format for describing coverage
+- content: 'This Note describes CoverageJSON, a data format for describing coverage
     data in JavaScript Object Notation (JSON), and provides an overview of its design
     and capabilities. The primary intended purpose of the format is to enable data
     transfer between servers and web browsers, to support the development of interactive,
@@ -54,10 +65,12 @@ abstract:
     users to produce and consume data in this format. This Note does not attempt to
     describe the full CoverageJSON specification in detail: this is available at the
     project website.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

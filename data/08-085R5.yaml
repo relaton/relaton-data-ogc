@@ -3,55 +3,68 @@ id: '08-085r5'
 title:
 - type: title-main
   content: 'OGC GML in JPEG 2000 (GMLJP2) Encoding StandardPart 1: Core'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC GML in JPEG 2000 (GMLJP2) Encoding StandardPart 1: Core'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/08-085r5/08-085r5.html
+- content: http://docs.opengeospatial.org/is/08-085r5/08-085r5.html
   type: obp
 type: standard
 docid:
-  id: '08-085r5'
+- id: '08-085r5'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-04-07'
 contributor:
 - person:
     name:
       completename: Lucio Colaiacomo
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Joan Masó
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: 'Emmanuel Devys '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '5'
 revdate: '2016-04-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This standard applies to the encoding and decoding of JPEG 2000 images
+- content: "This standard applies to the encoding and decoding of JPEG 2000 images
     that contain GML for use with geographic imagery.\r\nThis document specifies the
     use of the Geography Markup Language (GML) within the XML boxes of the JPEG 2000
     data format and provides an application schema for JPEG 2000 that can be extended
     to include geometrical feature descriptions and annotations. The document also
     specifies the encoding and packaging rules for GML use in JPEG 2000.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

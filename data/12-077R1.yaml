@@ -3,46 +3,57 @@ id: 12-077r1
 title:
 - type: title-main
   content: 'A Primer for Dissemination Services for Wide Area Motion Imagery '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'A Primer for Dissemination Services for Wide Area Motion Imagery '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=50485
+- content: https://portal.ogc.org/files/?artifact_id=50485
   type: obp
 type: standard
 docid:
-  id: 12-077r1
+- id: 12-077r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-12-05'
 contributor:
 - person:
     name:
       completename: Rahul Thakkar
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2012-12-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The reason for developing this specification was a WAMI community requirement
+- content: 'The reason for developing this specification was a WAMI community requirement
     to deliver high performance web services and disseminate WAMI products. While
     existing web services can be combined or modified to deliver some of the functionality
     of the services described in this document, by design, they cannot deliver the
     desired performance. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

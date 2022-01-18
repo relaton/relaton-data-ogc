@@ -3,52 +3,65 @@ id: 12-144
 title:
 - type: title-intro
   content: OGC® OWS-9 Architecture
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Registry Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® OWS-9 Architecture - Registry Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=53255
+- content: https://portal.ogc.org/files/?artifact_id=53255
   type: obp
 type: standard
 docid:
-  id: 12-144
+- id: 12-144
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-06-18'
 contributor:
 - person:
     name:
       completename: David Burggraf
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2013-06-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This OGC® Engineering Report provides guidelines for the harvest, registration
+- content: This OGC® Engineering Report provides guidelines for the harvest, registration
     and retrieval of aviation resources from an OGC web catalogue/registry service
     (OGC CSW-ebRIM), with particular emphasis on ISO metadata resources. Alternatives
     for selective and efficient retrieval of such resources are also described along
     with lessons learned. The OGC CSW-ebRIM registry interface is evaluated against
     SESAR registry requirements, documented as a gap analysis, to assess whether there
     are any obstacles to implementing SESAR registry with an OGC CSW-ebRIM interface.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

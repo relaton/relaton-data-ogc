@@ -3,45 +3,56 @@ id: 06-188r1
 title:
 - type: title-main
   content: GML Encoding of Discrete Coverages (interleaved pattern)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: GML Encoding of Discrete Coverages (interleaved pattern)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=20794
+- content: https://portal.ogc.org/files/?artifact_id=20794
   type: obp
 type: standard
 docid:
-  id: 06-188r1
+- id: 06-188r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-05-17'
 contributor:
 - person:
     name:
       completename: Simon Cox
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2007-05-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This specification describes a GML encoding for discrete coverages. The
+- content: 'This specification describes a GML encoding for discrete coverages. The
     encoding pattern is a variation from the standard GML Coverage, in that the values
     in the domain and range are effectively interleaved rather than represented as
     two blocks and encoded sequentially. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

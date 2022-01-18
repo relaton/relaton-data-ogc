@@ -4,38 +4,47 @@ title:
 - type: title-main
   content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering
     Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering
     Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/17-024.html
+- content: http://docs.opengeospatial.org/per/17-024.html
   type: obp
 type: standard
 docid:
-  id: 17-024
+- id: 17-024
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-01-11'
 contributor:
 - person:
     name:
       completename: Pedro Gonçalves
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2018-01-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The Testbed-13 Earth Observation Clouds (EOC) effort supports the development
+- content: "The Testbed-13 Earth Observation Clouds (EOC) effort supports the development
     of ESA’s Thematic Exploitation Platforms (TEP) by exercising envisioned workflows
     for data integration and processing that are deployed in multiple clouds. The
     Application Deployment & Execution Service OGC Engineering Report (ER) identifies
@@ -43,10 +52,12 @@ abstract:
     to realize the testbed scenario.\r\n\r\nThis ER will list the requirements fulfilled
     by Cloud APIs in order to allow an automation of the application package deployment
     and execution workflow and capture implementation process experiences.\r\n\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

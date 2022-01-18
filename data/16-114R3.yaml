@@ -3,48 +3,59 @@ id: 16-114r3
 title:
 - type: title-main
   content: 'OGC Moving Features Encoding Extension: netCDF'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Moving Features Encoding Extension: netCDF'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/bp/16-114r3/16-114r3.html
+- content: http://docs.opengeospatial.org/bp/16-114r3/16-114r3.html
   type: obp
 type: standard
 docid:
-  id: 16-114r3
+- id: 16-114r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-12-18'
 contributor:
 - person:
     name:
       completename: Martin Desruisseaux
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2018-12-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The netCDF Moving Features encoding extension is a summary of conventions
+- content: 'The netCDF Moving Features encoding extension is a summary of conventions
     that supports efficient exchange of simple moving features as binary files. This
     Best Practice is a complement to the Moving Features Encoding Part I: XML Core
     and an alternative to the Simple Comma Separated Values (CSV) extension. Compared
     to the CSV encoding, this netCDF encoding offers more compact storage and better
     performance at the cost of additional restrictions on the kinds of features that
     can be stored.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

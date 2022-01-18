@@ -3,47 +3,60 @@ id: 99-103
 title:
 - type: title-intro
   content: Topic 3
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Locational Geometry Structures
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Topic 3 - Locational Geometry Structures
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=886
+- content: https://portal.ogc.org/files/?artifact_id=886
   type: obp
 type: standard
 docid:
-  id: 99-103
+- id: 99-103
   type: OGC
 date:
-  type: published
+- type: published
   value: '1999-03-18'
 contributor:
 - person:
     name:
       completename: Cliff Kottman
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '1999-03-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Provides essential and abstract models for GIS technology that is widely
+- content: Provides essential and abstract models for GIS technology that is widely
     used.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

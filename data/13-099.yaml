@@ -3,41 +3,51 @@ id: 13-099
 title:
 - type: title-main
   content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=55230
+- content: https://portal.ogc.org/files/?artifact_id=55230
   type: obp
 type: standard
 docid:
-  id: 13-099
+- id: 13-099
   type: OGC
 date:
-  type: published
+- type: published
   value: '2013-11-06'
 contributor:
 - person:
     name:
       completename: Jan Herrmann
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Andreas Matheus
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2013-11-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This specification defines the interfaces of the OGC (Geo)XACML Policy
+- content: "This specification defines the interfaces of the OGC (Geo)XACML Policy
     Administration Web Service (OGC (Geo)XACML PAWS or simply PAWS in the following)
     that supports the creation, modification, exchange, analysis, testing, transformation,
     encrypting and signing of XACML and GeoXACML encoded access control policies.\r\nThis
@@ -53,10 +63,12 @@ abstract:
     operation \r\nSuggested additions, changes, and comments on this report are welcome
     and encouraged. Such suggestions may be submitted by email message or by making
     suggested changes in an edited copy of this document.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

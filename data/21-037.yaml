@@ -3,37 +3,46 @@ id: 21-037
 title:
 - type: title-main
   content: OGC Technical Paper on the Standards Landscape for Building Data
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Technical Paper on the Standards Landscape for Building Data
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/dp/21-037.html
+- content: https://docs.ogc.org/dp/21-037.html
   type: obp
 type: standard
 docid:
-  id: 21-037
+- id: 21-037
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-07-02'
 contributor:
 - person:
     name:
       completename: Josh Lieberman
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2021-07-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Data about buildings and building structures play roles at scales from
+- content: Data about buildings and building structures play roles at scales from
     neighborhoods to nations in creating, protecting, regulating, and understanding
     the built environment. This report examines standards which may be useful in defining
     the structure and content of building data at a national scale, a national building
@@ -48,10 +57,12 @@ abstract:
     layer definition which can be applied to a reasonably wide set of use cases. This
     definition may in turn be a standardization candidate for adoption by other national
     geographic data collections.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

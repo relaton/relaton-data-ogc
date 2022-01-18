@@ -3,53 +3,66 @@ id: 16-099
 title:
 - type: title-intro
   content: Future City Pilot 1
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Automating Urban Planning Using Web Processing Service Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Future City Pilot 1 - Automating Urban Planning Using Web Processing Service
     Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/16-099.html
+- content: http://docs.opengeospatial.org/per/16-099.html
   type: obp
 type: standard
 docid:
-  id: 16-099
+- id: 16-099
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-10-20'
 contributor:
 - person:
     name:
       completename: Mohsen Kalantari
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2017-10-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Numerous and diverse technologies push cities towards open and platform-independent
+- content: Numerous and diverse technologies push cities towards open and platform-independent
     information infrastructures to manage human, natural, and physical systems. Future
     Cities Pilot 1 is an OGC interoperability initiative that aims to demonstrate
     how cities can begin to reap the benefits of open standards. This document reports
     how Web Processing Standard (WPS) of OGC was successfully used in automating urban
     planning processes. This document details the implementation of urban planning
     processes and rules concerning urban development approval processes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

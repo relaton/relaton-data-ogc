@@ -3,38 +3,47 @@ id: 06-121r3
 title:
 - type: title-main
   content: OpenGIS Web Service Common Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OpenGIS Web Service Common Implementation Specification
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=20040
+- content: https://portal.ogc.org/files/?artifact_id=20040
   type: obp
 type: standard
 docid:
-  id: 06-121r3
+- id: 06-121r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-04-03'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2007-04-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The OpenGIS® Web Services Common (WS-Common) Interface Standard specifies
+- content: The OpenGIS® Web Services Common (WS-Common) Interface Standard specifies
     parameters and data structures that are common to all OGC Web Service (OWS) Standards.
     The standard normalizes the ways in which operation requests and responses handle
     such elements as bounding boxes, exception processing, URL requests, URN expressions,
@@ -44,10 +53,12 @@ abstract:
     and Web Coverage Service (WCS) [http://www.opengeospatial.org/standards/wcs] standards.
     Rather than continuing to repeat this material in each such standard, each standard
     will normatively reference parts of this document.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

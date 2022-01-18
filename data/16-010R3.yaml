@@ -3,47 +3,58 @@ id: 16-010r3
 title:
 - type: title-main
   content: 'Volume 7: OGC CDB Data Model Guidance Formerly Annex A Volume Part 2'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Volume 7: OGC CDB Data Model Guidance Formerly Annex A Volume Part 2'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=72718
+- content: https://portal.ogc.org/files/?artifact_id=72718
   type: obp
 type: standard
 docid:
-  id: 16-010r3
+- id: 16-010r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2017-02-23'
 contributor:
 - person:
     name:
       completename: Carl Reed
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2017-02-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This CDB Volume provides Guidelines, Clarifications, Rationales, Primers,
+- content: "This CDB Volume provides Guidelines, Clarifications, Rationales, Primers,
     and additional information for the definition and use of various models that can
     be stored in a CDB compliant data store.\r\nPlease note that the term “lineal”
     has been replaced with the term “line” or “linear” throughout this document\r\nPlease
     note that the term “areal” has been replaced with the term “polygon” throughout
     this document.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

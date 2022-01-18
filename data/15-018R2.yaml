@@ -3,43 +3,54 @@ id: 15-018r2
 title:
 - type: title-intro
   content: 'OGC WaterML2.0: part 2'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Ratings, Gaugings and Sections
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC WaterML2.0: part 2 - Ratings, Gaugings and Sections'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/15-018r2/15-018r2.html
+- content: http://docs.opengeospatial.org/is/15-018r2/15-018r2.html
   type: obp
 type: standard
 docid:
-  id: 15-018r2
+- id: 15-018r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-02-03'
 contributor:
 - person:
     name:
       completename: Peter Taylor
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2016-02-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This standard defines an information model and XML encoding for exchanging
+- content: "This standard defines an information model and XML encoding for exchanging
     the\r\nfollowing three hydrological information resources:\r\n1. Conversion tables,
     or conversion curves, that are used for the conversion of\r\nrelated hydrological
     phenomenon.\r\n2. Gauging observations – the observations performed to develop
@@ -49,10 +60,12 @@ abstract:
     parties to\r\nexchange these concepts using common semantics.\r\nThis standard
     is the second part of the WaterML2.0 suite of standards, building on part 1\r\nthat
     addresses the exchange of time series.\r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

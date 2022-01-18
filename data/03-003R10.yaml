@@ -3,43 +3,54 @@ id: 03-003r10
 title:
 - type: title-main
   content: Level 0 Profile of GML3 for WFS
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Level 0 Profile of GML3 for WFS
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=4347
+- content: https://portal.ogc.org/files/?artifact_id=4347
   type: obp
 type: standard
 docid:
-  id: 03-003r10
+- id: 03-003r10
   type: OGC
 date:
-  type: published
+- type: published
   value: '2004-05-10'
 contributor:
 - person:
     name:
       completename: Peter Vretanos
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '10'
 revdate: '2004-05-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "*RETIRED* This is a GML application profile known as Level 0 - also known
+- content: "*RETIRED* This is a GML application profile known as Level 0 - also known
     as Simple GML."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: other
 editorialgroup:
   committee: technical

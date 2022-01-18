@@ -3,51 +3,64 @@ id: 17-087r13
 title:
 - type: title-intro
   content: Topic 1
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: 'Features and geometry – Part 1: Feature models '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Topic 1 - Features and geometry – Part 1: Feature models '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://docs.ogc.org/as/17-087r13/17-087r13.html
+- content: https://docs.ogc.org/as/17-087r13/17-087r13.html
   type: obp
 type: standard
 docid:
-  id: 17-087r13
+- id: 17-087r13
   type: OGC
 date:
-  type: published
+- type: published
   value: '2020-08-28'
 contributor:
 - person:
     name:
       completename: John R. Herring
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '13'
 revdate: '2020-08-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The Implementation Standard Features and geometry – Part 1: Feature models
+- content: 'The Implementation Standard Features and geometry – Part 1: Feature models
     describes how geographic information in datasets and databases using a feature
     model are structured, created, stored, queried and manipulated. URLs in this document
     are identifiers of structural elements of a standard, such as requirements, tests,
     requirement classes, and conformances test suites.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

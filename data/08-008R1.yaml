@@ -3,48 +3,59 @@ id: '08-008r1'
 title:
 - type: title-main
   content: 'OpenGIS® Abstract Specification Proposed Topic 19: General Reference Systems'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OpenGIS® Abstract Specification Proposed Topic 19: General Reference Systems'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=27711
+- content: https://portal.ogc.org/files/?artifact_id=27711
   type: obp
 type: standard
 docid:
-  id: '08-008r1'
+- id: '08-008r1'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-04-29'
 contributor:
 - person:
     name:
       completename: Arliss Whiteside
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2008-04-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This discussion paper is a draft new topic volume for the OGC Abstract
+- content: This discussion paper is a draft new topic volume for the OGC Abstract
     Specification, which may also be used to propose a corresponding new standard
     to ISO/TC 211. This document proposes extensions to OGC Abstract Specification
     Topic 2 — Spatial referencing by coordinates, and thus to ISO 19111 — Spatial
     referencing by coordinates. This discussion paper is posted for comments on the
     contents. Revision of this draft is planned, to improve some details while supporting
     the same abilities.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

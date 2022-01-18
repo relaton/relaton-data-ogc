@@ -4,38 +4,47 @@ title:
 - type: title-main
   content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
     Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
     Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=50294
+- content: https://portal.ogc.org/files/?artifact_id=50294
   type: obp
 type: standard
 docid:
-  id: 11-038R2
+- id: 11-038R2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2012-10-02'
 contributor:
 - person:
     name:
       completename: Ben Domenico
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2012-10-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This standard deals with enhancements to the netCDF (Network Common Data
+- content: "This standard deals with enhancements to the netCDF (Network Common Data
     Form) data model for array-oriented scientific data..\r\nTwo important data models
     for netCDF are:\r\n- the “classic” netCDF model, used for netCDF-3 and earlier
     versions\r\n- an enhanced data model, used in netCDF-4 and later versions.\r\nThe
@@ -49,10 +58,12 @@ abstract:
     access libraries implementing support for that data model in a machine-independent
     format are available. Together, the interfaces, libraries, and format support
     the creation, access, and sharing of multi-dimensional scientific data."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

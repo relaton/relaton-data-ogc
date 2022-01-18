@@ -3,45 +3,56 @@ id: '09-102r3'
 title:
 - type: title-main
   content: Defence Profile of OGC Web Map Service 1.3 Revision
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Defence Profile of OGC Web Map Service 1.3 Revision
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/94151
+- content: https://portal.ogc.org/files/94151
   type: obp
 type: standard
 docid:
-  id: '09-102r3'
+- id: '09-102r3'
   type: OGC
 date:
-  type: published
+- type: published
   value: '2021-02-25'
 contributor:
 - person:
     name:
       completename: DGIWG
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2021-02-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This document defines specific DGIWG requirements,\r\nrecommendations
+- content: "This document defines specific DGIWG requirements,\r\nrecommendations
     and guidelines for implementations of the\r\nISO and OGC Web Map Service standards;
     ISO 19128:2005\r\nWeb Map Server Interface and the OpenGIS Web Map Server\r\nImplementation
     Specification 1.3.0."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

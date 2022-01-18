@@ -3,37 +3,46 @@ id: 17-041
 title:
 - type: title-main
   content: 'OGC Testbed-13: Vector Tiles Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC Testbed-13: Vector Tiles Engineering Report'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/per/17-041.html
+- content: http://docs.opengeospatial.org/per/17-041.html
   type: obp
 type: standard
 docid:
-  id: 17-041
+- id: 17-041
   type: OGC
 date:
-  type: published
+- type: published
   value: '2018-02-22'
 contributor:
 - person:
     name:
       completename: Stefano Cavazzi
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2018-02-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) captures
+- content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) captures
     the requirements, solutions, and implementation experiences of the Vector Tiling
     work package in OGC Testbed-13 [Available at: http://www.opengeospatial.org/projects/initiatives/testbed13].
     This ER describes the evaluation of existing vector tiling solutions. The evaluation
@@ -47,10 +56,12 @@ abstract:
     networks. The report concludes with an investigation on how existing OGC services
     may be extended with the necessary capabilities enabling the full range of geometry
     types and tiling strategies to support vector tiling.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -3,46 +3,57 @@ id: 15-073r2
 title:
 - type: title-main
   content: OGC® Testbed-11 DGIWG GMLJP2 testing results Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Testbed-11 DGIWG GMLJP2 testing results Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=65887
+- content: https://portal.ogc.org/files/?artifact_id=65887
   type: obp
 type: standard
 docid:
-  id: 15-073r2
+- id: 15-073r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2015-11-18'
 contributor:
 - person:
     name:
       completename: E. Devys
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: L.Colaiacomo
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: P. Baumann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2015-11-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC Engineering Report (ER) describes work done in OGC Testbed 11
+- content: "This OGC Engineering Report (ER) describes work done in OGC Testbed 11
     to test\r\nGMLJP2 in terms of defining a DGIWG GMLJP2 version 1 profile.\r\nThe
     requirements for a DGIWG profile of GMLJP2 have been documented in the\r\nDGIWG
     GMLJP2 version 1 profile. The Imagery WG inside DGIWG has developed a\r\nfilter
@@ -52,10 +63,12 @@ abstract:
     are coming directly from the adoption inside the DGIWG of the\r\nnew OGC GMLJP2
     version 2.\r\nThis Testbed 11 activity is a response to the need of harmonization
     between DGIWG and\r\nOGC."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

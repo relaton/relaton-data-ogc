@@ -3,37 +3,46 @@ id: 05-115
 title:
 - type: title-main
   content: Geo Video Web Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Geo Video Web Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=12899
+- content: https://portal.ogc.org/files/?artifact_id=12899
   type: obp
 type: standard
 docid:
-  id: 05-115
+- id: 05-115
   type: OGC
 date:
-  type: published
+- type: published
   value: '2006-03-28'
 contributor:
 - person:
     name:
       completename: Joe Lewis
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2006-03-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "A GeoVideo Web Service (GVS) is a web service that facilitates the viewing
+- content: "A GeoVideo Web Service (GVS) is a web service that facilitates the viewing
     of live and/or archived feeds from video cameras. The feeds may be composed of:\r\n-
     A video stream\r\n- Textual data in a caption stream (e.g. GPS data, camera states
     and characteristics, custom XML data, such as SensorMLTML)\r\n- A combination
@@ -41,10 +50,12 @@ abstract:
     may be viewed in the Windows Media Player. The textual data is extracted through
     scripting events that are generated as the caption stream is processed and displayed
     by the Windows Media Player."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

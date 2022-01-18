@@ -3,42 +3,52 @@ id: 11-014r3
 title:
 - type: title-main
   content: OGC Open Modelling Interface Interface Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC Open Modelling Interface Interface Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=59022
+- content: https://portal.ogc.org/files/?artifact_id=59022
   type: obp
 type: standard
 docid:
-  id: 11-014r3
+- id: 11-014r3
   type: OGC
 date:
-  type: published
+- type: published
   value: '2014-05-26'
 contributor:
 - person:
     name:
       completename: Stanislav Vanecek
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Roger Moore
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '3'
 revdate: '2014-05-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "<p>The purpose of the Open Modelling Interface (OpenMI) is to enable the
+- content: "<p>The purpose of the Open Modelling Interface (OpenMI) is to enable the
     runtime exchange of data between process simulation models and also between models
     and other modelling tools such as databases and analytical and visualization applications.
     Its creation has been driven by the need to understand how processes interact
@@ -57,10 +67,12 @@ abstract:
     components are provided by the OpenMI Association and third-­&#8208;party software
     vendors – visit www.openmi.org for further documentation.</p>\r\n<p>\r\n<a href=https://portal.ogc.org/files/?artifact_id=59022>pdf</a>
     <br>\r\n<a href=https://portal.ogc.org/files/?artifact_id=59022&format=docx>docx</a>\r\n</p>"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

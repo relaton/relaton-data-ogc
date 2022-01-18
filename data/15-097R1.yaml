@@ -3,38 +3,47 @@ id: 15-097r1
 title:
 - type: title-main
   content: 'OGC® Geospatial User Feedback Standard: Conceptual Model'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'OGC® Geospatial User Feedback Standard: Conceptual Model'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/15-097r1/15-097r1.html
+- content: http://docs.opengeospatial.org/is/15-097r1/15-097r1.html
   type: obp
 type: standard
 docid:
-  id: 15-097r1
+- id: 15-097r1
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-12-22'
 contributor:
 - person:
     name:
       completename: 'Joan Masó and Lucy Bastin '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '1'
 revdate: '2016-12-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines a conceptual Geospatial User Feedback (GUF) data
+- content: This standard defines a conceptual Geospatial User Feedback (GUF) data
     model. Geospatial User Feedback is metadata that is predominantly produced by
     the consumers of geospatial data products as they use and gain experience with
     those products. This standard complements existing metadata conventions whereby
@@ -48,10 +57,12 @@ abstract:
     rules is specified in a separate OGC implementation standard (OGC 15-098). In
     the future other encodings may be defined, including examples such as the use
     of JSON-LD based on parts of schema.org.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

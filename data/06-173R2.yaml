@@ -3,56 +3,71 @@ id: 06-173r2
 title:
 - type: title-intro
   content: Geographic information
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-main
   content: Rights expression language for geographic information
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: title-part
   content: 'Part xx: GeoREL'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'Geographic information - Rights expression language for geographic information
     - Part xx: GeoREL'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=19054
+- content: https://portal.ogc.org/files/?artifact_id=19054
   type: obp
 type: standard
 docid:
-  id: 06-173r2
+- id: 06-173r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2007-01-25'
 contributor:
 - person:
     name:
       completename: John Herring
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2007-01-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: " This document extends the rights expression language (REL) to encompass
+- content: " This document extends the rights expression language (REL) to encompass
     the concerns of holders of geographic data and service resources to equally ensure
     their protection. This allows the geographic information market to operate with
     minimal constraints derived from need for the protection of intellectual property."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

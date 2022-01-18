@@ -3,42 +3,52 @@ id: 07-026r2
 title:
 - type: title-main
   content: Geospatial eXtensible Access Control Markup Language (GeoXACML)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Geospatial eXtensible Access Control Markup Language (GeoXACML)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=25218
+- content: https://portal.ogc.org/files/?artifact_id=25218
   type: obp
 type: standard
 docid:
-  id: 07-026r2
+- id: 07-026r2
   type: OGC
 date:
-  type: published
+- type: published
   value: '2008-02-23'
 contributor:
 - person:
     name:
       completename: Andreas Matheus
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jan Herrmann
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '2'
 revdate: '2008-02-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The OpenGIS® Geospatial eXtensible Access Control Markup Language Encoding
+- content: 'The OpenGIS® Geospatial eXtensible Access Control Markup Language Encoding
     Standard (GeoXACML) defines a geospatial extension to the OASIS standard “eXtensible
     Access Control Markup Language (XACML)” [www.oasis-open.org/committees/xacml/].
     This extension incorporates spatial data types and spatial authorization decision
@@ -50,10 +60,12 @@ abstract:
     is not designed to be a rights expression language and is therefore not an extension
     of the OGC GeoDRM Reference Model (Topic 18 in the OpenGIS® Abstract Specification
     [http://www.opengeospatial.org/standards/as]). '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

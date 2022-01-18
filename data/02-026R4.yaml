@@ -3,43 +3,54 @@ id: 02-026r4
 title:
 - type: title-main
   content: Sensor Model Language (SensorML) for In-situ and Remote Sensors
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Sensor Model Language (SensorML) for In-situ and Remote Sensors
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=11516
+- content: https://portal.ogc.org/files/?artifact_id=11516
   type: obp
 type: standard
 docid:
-  id: 02-026r4
+- id: 02-026r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2002-12-20'
 contributor:
 - person:
     name:
       completename: Mike Botts
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2002-12-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Sensor Model Language work proposes an XML schema for describing the
+- content: The Sensor Model Language work proposes an XML schema for describing the
     geometric, dynamic, and observational characteristics of sensor types and instances.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

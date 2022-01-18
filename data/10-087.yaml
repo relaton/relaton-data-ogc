@@ -3,41 +3,51 @@ id: 10-087
 title:
 - type: title-main
   content: OWS-7 Motion Imagery Discovery and Retrieval  Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OWS-7 Motion Imagery Discovery and Retrieval  Engineering Report
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://portal.ogc.org/files/?artifact_id=40139
+- content: https://portal.ogc.org/files/?artifact_id=40139
   type: obp
 type: standard
 docid:
-  id: 10-087
+- id: 10-087
   type: OGC
 date:
-  type: published
+- type: published
   value: '2010-08-18'
 contributor:
 - person:
     name:
       completename: Wenli Yang
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Liping Di
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 revdate: '2010-08-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This Motion Imagery Discovery and Retrieval Engineering Report (ER) documents
+- content: 'This Motion Imagery Discovery and Retrieval Engineering Report (ER) documents
     the metadata used to tag geolocation of Motion Imagery (MI) for discovery, retrieval
     and linkage with other data sources over the same location, especially the metadata
     information required to geometrically co-register multiple motion images at pixel
@@ -48,10 +58,12 @@ abstract:
     (SFE) thread, which builds on the OGC Sensor Web Enablement framework that has
     achieved a degree of maturity through previous OWS interoperability initiatives
     and deployments worldwide. '
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: engineering-report
 editorialgroup:
   committee: technical

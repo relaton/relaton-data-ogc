@@ -3,50 +3,62 @@ id: 10-157r4
 title:
 - type: title-main
   content: OGC® Earth Observation Metadata profile of Observations & Measurements
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: OGC® Earth Observation Metadata profile of Observations & Measurements
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://docs.opengeospatial.org/is/10-157r4/10-157r4.html
+- content: http://docs.opengeospatial.org/is/10-157r4/10-157r4.html
   type: obp
 type: standard
 docid:
-  id: 10-157r4
+- id: 10-157r4
   type: OGC
 date:
-  type: published
+- type: published
   value: '2016-06-09'
 contributor:
 - person:
     name:
       completename: Jerome Gasperi
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Frédéric Houbie
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Andrew Woolf
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: 'Steven Smolders '
-  role: author
+  role:
+  - author
 - organization:
-    name: Open Geospatial Consortium
-  role: publisher
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
 edition: '4'
 revdate: '2016-06-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This OGC Implementation Standard defines a profile of Observations and
+- content: "This OGC Implementation Standard defines a profile of Observations and
     Measurements (ISO 19156:2010 and OGC 10-025r1) for describing Earth Observation
     products (EO products).\r\nThis profile is intended to provide a standard schema
     for encoding Earth Observation product metadata to support the description and
@@ -81,10 +93,12 @@ abstract:
     schemas. In addition, this document describes the mechanism used to extend these
     schemas to specific missions and for specific purposes such as long term data
     preservation. \r\n"
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
-fetched: '2021-09-14'
+fetched: '2022-01-18'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
