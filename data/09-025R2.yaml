@@ -81,7 +81,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-01-23'
+fetched: '2022-01-24'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
