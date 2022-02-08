@@ -73,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-07'
+fetched: '2022-02-08'
 doctype: change-request-supporting-document
 editorialgroup:
   committee: technical
