@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: 03-081r2
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2003-11-07'
@@ -60,7 +61,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: standard
 editorialgroup:
   committee: technical

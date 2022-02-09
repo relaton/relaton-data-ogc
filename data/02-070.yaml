@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: 02-070
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2002-08-19'
@@ -49,7 +50,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -30,6 +30,7 @@ type: standard
 docid:
 - id: 17-088r1
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2018-02-07'
@@ -71,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: engineering-report
 editorialgroup:
   committee: technical

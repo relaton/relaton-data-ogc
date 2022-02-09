@@ -29,6 +29,7 @@ type: standard
 docid:
 - id: 06-098
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2007-08-13'
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: change-request-supporting-document
 editorialgroup:
   committee: technical

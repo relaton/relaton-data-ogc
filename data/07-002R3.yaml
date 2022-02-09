@@ -36,6 +36,7 @@ type: standard
 docid:
 - id: 07-002r3
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2007-12-26'
@@ -68,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

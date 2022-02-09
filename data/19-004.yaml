@@ -30,6 +30,7 @@ type: standard
 docid:
 - id: 19-004
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2019-12-11'
@@ -68,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

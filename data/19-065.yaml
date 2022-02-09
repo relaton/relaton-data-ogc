@@ -24,6 +24,7 @@ type: standard
 docid:
 - id: 19-065
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2020-07-09'
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: community-standard
 editorialgroup:
   committee: technical

@@ -29,6 +29,7 @@ type: standard
 docid:
 - id: 15-018r2
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2016-02-03'
@@ -65,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

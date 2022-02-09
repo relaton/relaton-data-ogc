@@ -24,6 +24,7 @@ type: standard
 docid:
 - id: 03-063r1
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2003-06-02'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: other
 editorialgroup:
   committee: technical

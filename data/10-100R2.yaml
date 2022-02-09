@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: 10-100r2
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2010-10-07'
@@ -65,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: standard
 subdoctype: profile
 editorialgroup:

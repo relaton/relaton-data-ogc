@@ -29,6 +29,7 @@ type: standard
 docid:
 - id: 99-104
   type: OGC
+  primary: true
 date:
 - type: published
   value: '1999-03-30'
@@ -57,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

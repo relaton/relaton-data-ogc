@@ -31,6 +31,7 @@ type: standard
 docid:
 - id: 11-089r1
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2011-11-23'
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: '08-071'
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2008-09-12'
@@ -53,7 +54,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

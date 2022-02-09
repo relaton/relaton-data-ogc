@@ -30,6 +30,7 @@ type: standard
 docid:
 - id: 14-110r2
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2016-11-02'
@@ -70,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

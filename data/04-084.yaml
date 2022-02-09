@@ -29,6 +29,7 @@ type: standard
 docid:
 - id: 04-084
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2005-06-27'
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

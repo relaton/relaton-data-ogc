@@ -29,6 +29,7 @@ type: standard
 docid:
 - id: 13-131r1
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2016-08-22'
@@ -82,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

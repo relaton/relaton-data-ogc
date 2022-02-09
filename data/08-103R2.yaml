@@ -29,6 +29,7 @@ type: standard
 docid:
 - id: '08-103r2'
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2009-02-05'
@@ -62,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: other
 editorialgroup:
   committee: technical

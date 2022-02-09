@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: '20-001r2 '
   type: OGC
+  primary: true
 date:
 - type: published
   value: '2020-07-22'
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: other
 editorialgroup:
   committee: technical
