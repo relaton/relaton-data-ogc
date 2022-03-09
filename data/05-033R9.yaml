@@ -54,7 +54,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-03-08'
+fetched: '2022-03-09'
 doctype: standard
 editorialgroup:
   committee: technical
