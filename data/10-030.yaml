@@ -63,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-03-28'
+fetched: '2022-03-29'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical
