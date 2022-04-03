@@ -55,7 +55,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-04-02'
+fetched: '2022-04-03'
 doctype: other
 editorialgroup:
   committee: technical
