@@ -72,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-01'
+fetched: '2022-05-02'
 doctype: best-practice
 subdoctype: general
 editorialgroup:
