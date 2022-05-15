@@ -49,7 +49,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-14'
+fetched: '2022-05-15'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
