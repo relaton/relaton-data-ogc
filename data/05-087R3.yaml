@@ -37,7 +37,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '3'
+edition:
+  content: '3'
 revdate: '2006-04-05'
 language:
 - en
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

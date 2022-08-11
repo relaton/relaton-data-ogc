@@ -16,7 +16,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: https://docs.opengeospatial.org/pol/09-046r5.html
+- content: https://docs.ogc.org/pol/09-046r5.html
   type: obp
 type: standard
 docid:
@@ -42,7 +42,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '5'
+edition:
+  content: '5'
 revdate: '2019-10-31'
 language:
 - en
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: standard
 editorialgroup:
   committee: technical

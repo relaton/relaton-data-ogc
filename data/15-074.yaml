@@ -16,7 +16,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/dp/15-074/15-074.html
+- content: https://docs.ogc.org/dp/15-074/15-074.html
   type: obp
 type: standard
 docid:
@@ -56,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -1,0 +1,63 @@
+---
+id: 21-044
+title:
+- type: title-main
+  content: 'OGC Testbed 17: CITE Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed 17: CITE Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/per/21-044.html
+  type: obp
+type: standard
+docid:
+- id: 21-044
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-04-08'
+contributor:
+- person:
+    name:
+      completename: Luis Bermudez
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+revdate: '2022-04-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Testbed 17 Engineering Report (ER) documents the result of the
+    work performed in the CITE thread of the OGC Testbed-17 initiative. CITE is the
+    Compliance Interoperability & Testing Evaluation Subcommittee that provides a
+    forum for an open, consensus discussion regarding approaches and issues related
+    to conformance and interoperability testing as part of the OGC standards process.
+    This ER provides information about the development of a test suite for the OGC
+    API — Processes Standard (OGC18-062r2) to be executed in the OGC Test Evaluation
+    tool (TEAM Engine). The ER also documents an evaluation of an alternative environment
+    for OGC compliance testing.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

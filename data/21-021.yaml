@@ -1,0 +1,76 @@
+---
+id: 21-021
+title:
+- type: title-main
+  content: Health Spatial Data Infrastructure Concept Development Study Engineering
+    Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Health Spatial Data Infrastructure Concept Development Study Engineering
+    Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/per/21-021.html
+  type: obp
+type: standard
+docid:
+- id: 21-021
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-01-24'
+contributor:
+- person:
+    name:
+      completename: Alan Leidner
+  role:
+  - author
+- person:
+    name:
+      completename: Mark Reichardt
+  role:
+  - author
+- person:
+    name:
+      completename: Josh Lieberman
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+revdate: '2022-01-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Experts agree that access to, sharing, and application of location-enabled
+    information is a key component in addressing health related emergencies. While
+    the present COVID-19 pandemic has underscored a range of successes in dealing
+    with the COVID virus, many gaps in supporting local to global preparedness, forecasting,
+    monitoring, and response have been identified when dealing with a health crisis
+    at such an unprecedented level. This study considers how a common, standardized
+    health geospatial data model, schema, and corresponding spatial data infrastructure
+    (SDI) could establish a blueprint to better align the community for early warning,
+    response to, and recovery from future health emergencies. Such a data model would
+    help to improve support for critical functions and use cases.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

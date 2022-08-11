@@ -1,0 +1,85 @@
+---
+id: 21-041r2
+title:
+- type: title-main
+  content: OGC Conceptual Modeling Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: OGC Conceptual Modeling Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/dp/21-041r2.html
+  type: obp
+type: standard
+docid:
+- id: 21-041r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-01-24'
+contributor:
+- person:
+    name:
+      completename: Sam Meek
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+edition:
+  content: '2'
+revdate: '2022-01-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Historically, conceptual modeling was utilized sporadically within the
+    Open Geospatial Consortium (OGC). Models were used in OGC standards both informatively
+    and normatively to describe the structure of the information within a standard
+    for a particular domain. As independent standards-development organizations, OGC
+    and alliance partners such as ISO / TC211 did not always develop common models.
+    There are several examples of conceptual models in OGC’s Abstract Specifications,
+    many of which have become ISO / TC211 standards since their publication. Outside
+    of Abstract Specifications, there are fewer examples of conceptual models in Implementation
+    Standards. Logical Models and Physical Models tend to be specified more in Implementation
+    Standards.\r\n\r\nThe need for conceptual models in Implementation Standards has
+    become apparent since the OGC is moving towards resource based architecture through
+    the development of the OGC Application Programming Interface (API) suite of standards.
+    In the previous ways of working, standards and encodings mapped 1:1, as many OGC
+    standards were based on the Extensible Markup Language (XML) and a standard described
+    a particular set of XML documents to support a domain. The move to OGC API has
+    led towards a separation of an information model represented in a standard from
+    encodings, which is the way that the information models are expressed in a given
+    technology. In other words, the move to OGC API has led to a clearer separation
+    of the logical model from the physical model.\r\n\r\nThe utilization of conceptual
+    modeling practices may be employed to manage, track, or govern the use of concepts
+    and terms within different standards. The OGC should adopt conceptual modeling
+    where suitable with a new group to support the working groups with the modeling
+    effort that may otherwise have not been completed because a lack of expertise
+    or value recognition. Taking the concept one step further, Model Driven Architecture
+    (MDA) is a transformation process to create a platform specific model, or implementation
+    from a logical, platform-independent model. This process could be implemented
+    to enable quick production of standards into different target technologies or
+    for the creation of new standards entirely. This paper does not suggest making
+    MDA and associated mandatory for future standards generation."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: discussion-paper
+editorialgroup:
+  committee: technical

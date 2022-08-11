@@ -31,7 +31,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/is/14-111r6/14-111r6.html
+- content: https://docs.ogc.org/is/14-111r6/14-111r6.html
   type: obp
 type: standard
 docid:
@@ -57,7 +57,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '6'
+edition:
+  content: '6'
 revdate: '2018-01-08'
 language:
 - en
@@ -87,7 +88,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

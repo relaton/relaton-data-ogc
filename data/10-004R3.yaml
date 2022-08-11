@@ -32,7 +32,7 @@ docid:
   primary: true
 date:
 - type: published
-  value: '2010-11-10'
+  value: '2013-09-17'
 contributor:
 - person:
     name:
@@ -44,8 +44,9 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '3'
-revdate: '2010-11-10'
+edition:
+  content: '3'
+revdate: '2013-09-17'
 language:
 - en
 script:
@@ -67,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

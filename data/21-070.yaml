@@ -1,0 +1,77 @@
+---
+id: 21-070
+title:
+- type: title-intro
+  content: OGC Integrated Methane Sensor Web for Emissions Management Best Practice
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: title-main
+  content: Part I
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: title-part
+  content: Fugitive Emissions Management based on AE
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: OGC Integrated Methane Sensor Web for Emissions Management Best Practice
+    - Part I - Fugitive Emissions Management based on AE
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/bp/21-070/21-070.html
+  type: obp
+type: standard
+docid:
+- id: 21-070
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-07-13'
+contributor:
+- person:
+    name:
+      completename: Steve Liang
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+revdate: '2022-07-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Methane (CH4) is one of the most potent greenhouse gases, and the comparative
+    impact of methane is 25 times greater than CO2 over a 100-year period. Methane
+    is an invisible and odorless gas, and it is very labor intensive and time consuming
+    in order to detect and repair leaks. Regulations play a critical role in methane
+    emissions reduction, and how methane emissions are detected, repaired, and managed
+    is highly dependent on local regulations. This OGC Best Practice document defines
+    a SensorThings API for fugitive methane emissions management.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical

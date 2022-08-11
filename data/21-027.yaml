@@ -1,0 +1,62 @@
+---
+id: 21-027
+title:
+- type: title-main
+  content: 'OGC Testbed-17: Geo Data Cube API Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-17: Geo Data Cube API Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/per/21-027.html
+  type: obp
+type: standard
+docid:
+- id: 21-027
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-04-08'
+contributor:
+- person:
+    name:
+      completename: Jérôme Jacovella-St-Louis
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+revdate: '2022-04-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Testbed 17 Engineering Report (ER) documents the results and
+    recommendations of the Geo Data Cube API task. The ER defines a draft specification
+    for an interoperable Geo Data Cube (GDC) API leveraging OGC API building blocks,
+    details implementation of the draft API, and explores various aspects including
+    data retrieval and discovery, cloud computing and Machine Learning. Implementations
+    of the draft GDC API are demonstrated with use cases including the integration
+    of terrestrial and marine elevation data and forestry information for Canadian
+    wetlands.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

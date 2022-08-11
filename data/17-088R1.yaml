@@ -24,7 +24,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/per/17-088r1.html
+- content: https://docs.ogc.org/per/17-088r1.html
   type: obp
 type: standard
 docid:
@@ -45,7 +45,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '1'
+edition:
+  content: '1'
 revdate: '2018-02-07'
 language:
 - en
@@ -72,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: engineering-report
 editorialgroup:
   committee: technical

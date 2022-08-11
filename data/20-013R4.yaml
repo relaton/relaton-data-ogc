@@ -16,7 +16,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/per/20-013r4.html
+- content: https://docs.ogc.org/per/20-013r4.html
   type: obp
 type: standard
 docid:
@@ -37,7 +37,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: '2020-07-29'
 language:
 - en
@@ -63,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: engineering-report
 editorialgroup:
   committee: technical

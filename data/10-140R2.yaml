@@ -24,7 +24,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/is/10-140r2/10-140r2.html
+- content: https://docs.ogc.org/is/10-140r2/10-140r2.html
   type: obp
 type: standard
 docid:
@@ -55,7 +55,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '2'
+edition:
+  content: '2'
 revdate: '2018-10-04'
 language:
 - en
@@ -70,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

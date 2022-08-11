@@ -1,0 +1,66 @@
+---
+id: 21-055
+title:
+- type: title-main
+  content: July 2021 OGC API Code Sprint Summary Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: July 2021 OGC API Code Sprint Summary Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/per/21-055.html
+  type: obp
+type: standard
+docid:
+- id: 21-055
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-11-29'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role:
+  - author
+- person:
+    name:
+      completename: Joana Simoes
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+revdate: '2021-11-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The subject of this Engineering Report (ER) is a virtual code sprint that
+    was held from July 21st to July 23rd, 2021 to advance the development of the OGC
+    API - Processes draft standard, OGC API - Records draft standard, and the OGC
+    API – Coverages draft standard. An Application Programming Interface (API) is
+    a standard set of documented and supported functions and procedures that expose
+    the capabilities or data of an operating system, application or service to other
+    applications (adapted from ISO/IEC TR 13066-2:2016).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

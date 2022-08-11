@@ -16,7 +16,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/is/17-047r1/17-047r1.html
+- content: https://docs.ogc.org/is/17-047r1/17-047r1.html
   type: obp
 type: standard
 docid:
@@ -32,7 +32,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '1'
+edition:
+  content: '1'
 revdate: '2020-04-27'
 language:
 - en
@@ -79,7 +80,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

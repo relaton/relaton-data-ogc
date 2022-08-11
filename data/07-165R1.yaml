@@ -16,7 +16,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/wp/07-165r1/
+- content: https://docs.ogc.org/wp/07-165r1/
   type: obp
 type: standard
 docid:
@@ -52,7 +52,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '1'
+edition:
+  content: '1'
 revdate: '2013-04-02'
 language:
 - en
@@ -69,7 +70,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: other
 editorialgroup:
   committee: technical

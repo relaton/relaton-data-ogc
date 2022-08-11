@@ -23,7 +23,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.ogc.org/is/19-013/19-013.html
+- content: https://docs.ogc.org/is/19-013/19-013.html
   type: obp
 type: standard
 docid:
@@ -44,7 +44,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '3'
+edition:
+  content: '3'
 revdate: '2021-01-20'
 language:
 - en
@@ -58,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

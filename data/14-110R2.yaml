@@ -24,7 +24,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/bp/14-110r2/14-110r2.html
+- content: https://docs.ogc.org/bp/14-110r2/14-110r2.html
   type: obp
 type: standard
 docid:
@@ -45,7 +45,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '2'
+edition:
+  content: '2'
 revdate: '2016-11-02'
 language:
 - en
@@ -71,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

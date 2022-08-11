@@ -1,0 +1,75 @@
+---
+id: 10-103r1
+title:
+- type: title-intro
+  content: OGC Name Type Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: title-main
+  content: specification elements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: OGC Name Type Specification - specification elements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/pol/10-103r1.html
+  type: obp
+type: standard
+docid:
+- id: 10-103r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-09-27'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role:
+  - author
+- person:
+    name:
+      completename: Simon Cox
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+edition:
+  content: '1'
+revdate: '2021-09-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The mission of the OGC Naming Authority (OGC-NA) is to provide the means
+    through which OGC resources such as OGC documents, namespaces and ontologies can
+    be controlled and managed such that they can provide clear and well-defined names
+    and definitions. In the terminology defined in ISO 19135, OGC-NA is the Control
+    Body for the register of OGC Names. This document specifies a rule for constructing
+    OGC names that may be used for identifying specification elements defined in the
+    OGC Specification Model – Modular Specification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: other
+editorialgroup:
+  committee: technical

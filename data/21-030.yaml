@@ -1,0 +1,65 @@
+---
+id: 21-030
+title:
+- type: title-main
+  content: 'OGC Testbed-17: SIF Semantic Model Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: 'OGC Testbed-17: SIF Semantic Model Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/per/21-030.html
+  type: obp
+type: standard
+docid:
+- id: 21-030
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-04-08'
+contributor:
+- person:
+    name:
+      completename: Mahnoush Alsadat Mohammadi Jahromi
+  role:
+  - author
+- person:
+    name:
+      completename: Alex Robin
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+revdate: '2022-04-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Engineering Report (ER) presents an analysis of the semantic model
+    of the Sensor Integration Framework (SIF). After reviewing the current SIF Semantic
+    Model, existing related ontologies are reviewed. The ER discusses the results
+    and includes all lessons learned from the experiments completed by the Sensor
+    Integration thread of the OGC Testbed-17 initiative. The ER presents a series
+    of recommendations based on the lessons learned.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

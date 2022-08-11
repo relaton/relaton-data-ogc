@@ -39,7 +39,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '4'
+edition:
+  content: '4'
 revdate: '2007-08-14'
 language:
 - en
@@ -47,23 +48,23 @@ script:
 - Latn
 abstract:
 - content: "The OpenGIS® Styled Layer Descriptor (SLD) Profile of the OpenGIS® Web
-    Map Service (WMS) Encoding Standard [http://www.opengeospatial.org/standards/wms]
-    defines an encoding that extends the WMS standard to allow user-defined symbolization
-    and coloring of geographic feature[http://www.opengeospatial.org/ogc/glossary/f]
-    and coverage[http://www.opengeospatial.org/ogc/glossary/c] data. \r\n\r\nSLD  addresses
-    the need for users and software to be able to control the visual portrayal of
-    the geospatial data. The ability to define styling rules requires a styling language
-    that the client and server can both understand. The OpenGIS® Symbology Encoding
-    Standard (SE) [http://www.opengeospatial.org/standards/symbol] provides this language,
-    while the SLD profile of WMS enables application of SE to WMS layers using extensions
-    of WMS operations. Additionally, SLD defines an operation for standardized access
-    to legend symbols.\r\n\r\n"
+    Map Service (WMS) Encoding Standard [http://www.opengeospatial.org/standards/wms
+    ] defines an encoding that extends the WMS standard to allow user-defined symbolization
+    and coloring of geographic feature[http://www.opengeospatial.org/ogc/glossary/f
+    ] and coverage[http://www.opengeospatial.org/ogc/glossary/c ] data. \r\n\r\nSLD
+    \ addresses the need for users and software to be able to control the visual portrayal
+    of the geospatial data. The ability to define styling rules requires a styling
+    language that the client and server can both understand. The OpenGIS® Symbology
+    Encoding Standard (SE) [http://www.opengeospatial.org/standards/symbol] provides
+    this language, while the SLD profile of WMS enables application of SE to WMS layers
+    using extensions of WMS operations. Additionally, SLD defines an operation for
+    standardized access to legend symbols.\r\n\r\n"
   language:
   - en
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

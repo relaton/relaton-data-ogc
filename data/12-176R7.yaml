@@ -23,7 +23,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/is/12-176r7/12-176r7.html
+- content: https://docs.ogc.org/is/12-176r7/12-176r7.html
   type: obp
 type: standard
 docid:
@@ -64,7 +64,8 @@ contributor:
     - Open Geospatial Consortium
   role:
   - publisher
-edition: '7'
+edition:
+  content: '7'
 revdate: '2016-06-10'
 language:
 - en
@@ -91,7 +92,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

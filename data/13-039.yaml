@@ -18,7 +18,7 @@ title:
   - Latn
   format: text/plain
 link:
-- content: http://docs.opengeospatial.org/bp/13-039/13-039.html
+- content: https://docs.ogc.org/bp/13-039/13-039.html
   type: obp
 type: standard
 docid:
@@ -66,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-05-29'
+fetched: '2022-08-11'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

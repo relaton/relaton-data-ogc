@@ -1,0 +1,74 @@
+---
+id: '09-046r6'
+title:
+- type: title-intro
+  content: OGC Naming Authority
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: title-main
+  content: Procedures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: OGC Naming Authority - Procedures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://docs.ogc.org/pol/09-046r6.html
+  type: obp
+type: standard
+docid:
+- id: '09-046r6'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-09-27'
+contributor:
+- person:
+    name:
+      completename: Gobe Hobona
+  role:
+  - author
+- person:
+    name:
+      completename: Simon Cox
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+edition:
+  content: '6'
+revdate: '2021-09-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The mission of the OGC Naming Authority (OGC-NA) is to provide the means
+    through which OGC resources such as OGC documents, namespaces and ontologies can
+    be controlled and managed such that they can provide clear and well-defined names
+    and definitions. In the terminology defined in ISO 19135, OGC-NA is the Control
+    Body for the register of OGC Names. This document describes the framework of documents,
+    registers and other resources required for OGC-NA to execute that role.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: standard
+editorialgroup:
+  committee: technical
