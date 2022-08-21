@@ -1,29 +1,29 @@
 ---
 id: 11-089r1
 title:
-- type: title-intro
-  content: OWS-8 Engineering Report
+- content: OWS-8 Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Guidelines for International Civil Aviation Organization (ICAO) portrayal
+  type: title-intro
+- content: Guidelines for International Civil Aviation Organization (ICAO) portrayal
     using SLD/SE
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-8 Engineering Report - Guidelines for International Civil Aviation
+  type: title-main
+- content: OWS-8 Engineering Report - Guidelines for International Civil Aviation
     Organization (ICAO) portrayal using SLD/SE
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=46228
   type: obp
@@ -38,12 +38,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Daniel Tagesson
+      completename:
+        content: Daniel Tagesson
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

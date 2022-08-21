@@ -1,35 +1,35 @@
 ---
 id: 16-102r2
 title:
-- type: title-intro
-  content: 'OGC InfraGML 1.0: Part 2'
+- content: 'OGC InfraGML 1.0: Part 2'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: LandInfra Facilities and Projects
+  type: title-intro
+- content: LandInfra Facilities and Projects
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Encoding Standard
+  type: title-main
+- content: Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC InfraGML 1.0: Part 2 - LandInfra Facilities and Projects - Encoding
+  type: title-part
+- content: 'OGC InfraGML 1.0: Part 2 - LandInfra Facilities and Projects - Encoding
     Standard'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=75119
   type: obp
@@ -44,12 +44,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Paul Scarponcini
+      completename:
+        content: Paul Scarponcini
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -73,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

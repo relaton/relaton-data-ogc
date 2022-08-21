@@ -1,20 +1,20 @@
 ---
 id: 07-004
 title:
-- type: title-main
-  content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
+- content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
+  type: title-main
+- content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=20431
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Panagiotis (Peter) A. Vretanos
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2007-05-07'
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

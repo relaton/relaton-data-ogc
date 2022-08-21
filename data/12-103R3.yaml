@@ -1,20 +1,20 @@
 ---
 id: 12-103r3
 title:
-- type: title-main
-  content: OWS-9 CCI Semantic Mediation Engineering Report
+- content: OWS-9 CCI Semantic Mediation Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-9 CCI Semantic Mediation Engineering Report
+  type: title-main
+- content: OWS-9 CCI Semantic Mediation Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=51840
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Gobe Hobona
+      completename:
+        content: Gobe Hobona
   role:
   - author
 - person:
     name:
-      completename: Roger Brackin
+      completename:
+        content: Roger Brackin
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -66,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

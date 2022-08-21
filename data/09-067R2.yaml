@@ -1,20 +1,20 @@
 ---
 id: '09-067r2'
 title:
-- type: title-main
-  content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
+- content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
+  type: title-main
+- content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=35334
   type: obp
@@ -29,27 +29,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Akiko Sato
+      completename:
+        content: Akiko Sato
   role:
   - author
 - person:
     name:
-      completename: Nobuhiro Ishimaru
+      completename:
+        content: Nobuhiro Ishimaru
   role:
   - author
 - person:
     name:
-      completename: Guo Tao
+      completename:
+        content: Guo Tao
   role:
   - author
 - person:
     name:
-      completename: Masaaki Tanizaki
+      completename:
+        content: Masaaki Tanizaki
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -70,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

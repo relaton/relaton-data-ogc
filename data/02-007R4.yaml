@@ -1,20 +1,20 @@
 ---
 id: 02-007r4
 title:
-- type: title-main
-  content: Units of Measure Recommendation
+- content: Units of Measure Recommendation
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Units of Measure Recommendation
+  type: title-main
+- content: Units of Measure Recommendation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=11498
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: John Bobbitt
+      completename:
+        content: John Bobbitt
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

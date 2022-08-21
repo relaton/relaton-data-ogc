@@ -1,20 +1,20 @@
 ---
 id: 19-022r1
 title:
-- type: title-main
-  content: 'OGC Testbed-15: Scaling Units of Work (EOC, Scale, SEED)'
+- content: 'OGC Testbed-15: Scaling Units of Work (EOC, Scale, SEED)'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-15: Scaling Units of Work (EOC, Scale, SEED)'
+  type: title-main
+- content: 'OGC Testbed-15: Scaling Units of Work (EOC, Scale, SEED)'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-022r1.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Alexander Lais
+      completename:
+        content: Alexander Lais
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -66,7 +67,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

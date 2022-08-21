@@ -1,20 +1,20 @@
 ---
 id: 05-014
 title:
-- type: title-main
-  content: Image CRSs for IH4DS
+- content: Image CRSs for IH4DS
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Image CRSs for IH4DS
+  type: title-main
+- content: Image CRSs for IH4DS
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=8848
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Arliss Whiteside
+      completename:
+        content: Arliss Whiteside
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2005-01-31'
@@ -53,7 +54,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

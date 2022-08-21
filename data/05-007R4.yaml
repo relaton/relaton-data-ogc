@@ -1,20 +1,20 @@
 ---
 id: 05-007r4
 title:
-- type: title-main
-  content: Web Processing Service
+- content: Web Processing Service
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Web Processing Service
+  type: title-main
+- content: Web Processing Service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=12184
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Schut
+      completename:
+        content: Peter Schut
   role:
   - author
 - person:
     name:
-      completename: Arliss Whiteside
+      completename:
+        content: Arliss Whiteside
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -66,7 +68,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
   committee: technical

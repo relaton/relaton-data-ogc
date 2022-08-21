@@ -1,22 +1,22 @@
 ---
 id: 15-030r3
 title:
-- type: title-main
-  content: Testbed 11 Geospatial Enhancement for the National Information Exchange
+- content: Testbed 11 Geospatial Enhancement for the National Information Exchange
     Model (Geo4NIEM) Round Trip Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Testbed 11 Geospatial Enhancement for the National Information Exchange
+  type: title-main
+- content: Testbed 11 Geospatial Enhancement for the National Information Exchange
     Model (Geo4NIEM) Round Trip Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=65451
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Scott Serich
+      completename:
+        content: Scott Serich
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -70,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

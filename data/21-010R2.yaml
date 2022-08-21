@@ -1,27 +1,27 @@
 ---
 id: 21-010r2
 title:
-- type: title-intro
-  content: Extensions of IndoorGML 1.1
+- content: Extensions of IndoorGML 1.1
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Indoor Affordance Spaces
+  type: title-intro
+- content: Indoor Affordance Spaces
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Extensions of IndoorGML 1.1 - Indoor Affordance Spaces
+  type: title-main
+- content: Extensions of IndoorGML 1.1 - Indoor Affordance Spaces
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/21-010r2.html
   type: obp
@@ -36,27 +36,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Taehoon Kim
+      completename:
+        content: Taehoon Kim
   role:
   - author
 - person:
     name:
-      completename: Kyoung-Sook Kim
+      completename:
+        content: Kyoung-Sook Kim
   role:
   - author
 - person:
     name:
-      completename: Jiyeong Lee
+      completename:
+        content: Jiyeong Lee
   role:
   - author
 - person:
     name:
-      completename: Ki-Joune Li
+      completename:
+        content: Ki-Joune Li
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -87,7 +91,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

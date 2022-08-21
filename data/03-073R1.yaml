@@ -1,27 +1,27 @@
 ---
 id: 03-073r1
 title:
-- type: title-intro
-  content: Topic 2
+- content: Topic 2
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Spatial Referencing by Coordinates
+  type: title-intro
+- content: Spatial Referencing by Coordinates
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 2 - Spatial Referencing by Coordinates
+  type: title-main
+- content: Topic 2 - Spatial Referencing by Coordinates
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=11518
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Roel Nicolai
+      completename:
+        content: Roel Nicolai
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -58,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 16-071r3
 title:
-- type: title-main
-  content: Time Ontology in OWL
+- content: Time Ontology in OWL
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Time Ontology in OWL
+  type: title-main
+- content: Time Ontology in OWL
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://www.w3.org/TR/2020/CR-owl-time-20200326/
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Simon Cox
+      completename:
+        content: Simon Cox
   role:
   - author
 - person:
     name:
-      completename: Chris Little
+      completename:
+        content: Chris Little
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -63,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

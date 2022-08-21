@@ -1,22 +1,22 @@
 ---
 id: 16-086r3
 title:
-- type: title-main
-  content: OGC Best Practice for using Web Map Services (WMS) with Ensembles of Forecast
+- content: OGC Best Practice for using Web Map Services (WMS) with Ensembles of Forecast
     Data
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Best Practice for using Web Map Services (WMS) with Ensembles of Forecast
+  type: title-main
+- content: OGC Best Practice for using Web Map Services (WMS) with Ensembles of Forecast
     Data
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/16-086r3/16-086r3.html
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Jürgen Seib
+      completename:
+        content: Jürgen Seib
   role:
   - author
 - person:
     name:
-      completename: Marie-Françoise Voidrot-Martinez
+      completename:
+        content: Marie-Françoise Voidrot-Martinez
   role:
   - author
 - person:
     name:
-      completename: Chris Little
+      completename:
+        content: Chris Little
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -77,7 +80,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

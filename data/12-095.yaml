@@ -1,27 +1,27 @@
 ---
 id: 12-095
 title:
-- type: title-intro
-  content: OGC® OWS-9 Innovation
+- content: OGC® OWS-9 Innovation
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: 'Coverages: Coverage Access (OPeNDAP) Study'
+  type: title-intro
+- content: 'Coverages: Coverage Access (OPeNDAP) Study'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® OWS-9 Innovation - Coverages: Coverage Access (OPeNDAP) Study'
+  type: title-main
+- content: 'OGC® OWS-9 Innovation - Coverages: Coverage Access (OPeNDAP) Study'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=52783
   type: obp
@@ -36,17 +36,19 @@ date:
 contributor:
 - person:
     name:
-      completename: James Gallagher
+      completename:
+        content: James Gallagher
   role:
   - author
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2013-06-18'
@@ -66,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

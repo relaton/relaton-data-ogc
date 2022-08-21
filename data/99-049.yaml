@@ -1,20 +1,20 @@
 ---
 id: 99-049
 title:
-- type: title-main
-  content: OpenGIS Simple Features Implementation Specification for SQL
+- content: OpenGIS Simple Features Implementation Specification for SQL
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Simple Features Implementation Specification for SQL
+  type: title-main
+- content: OpenGIS Simple Features Implementation Specification for SQL
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=829
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Keith Ryden
+      completename:
+        content: Keith Ryden
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '1999-05-05'
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

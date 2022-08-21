@@ -1,20 +1,20 @@
 ---
 id: 18-095r7
 title:
-- type: title-main
-  content: Geospatial Coverages Data Cube Community Practice
+- content: Geospatial Coverages Data Cube Community Practice
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Geospatial Coverages Data Cube Community Practice
+  type: title-main
+- content: Geospatial Coverages Data Cube Community Practice
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/18-095r7
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: 'George Percivall '
+      completename:
+        content: 'George Percivall '
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: community-practice
 editorialgroup:
   committee: technical

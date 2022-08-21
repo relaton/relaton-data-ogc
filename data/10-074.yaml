@@ -1,20 +1,20 @@
 ---
 id: 10-074
 title:
-- type: title-main
-  content: OWS-7 Feature and Statistical Analysis Engineering Report
+- content: OWS-7 Feature and Statistical Analysis Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-7 Feature and Statistical Analysis Engineering Report
+  type: title-main
+- content: OWS-7 Feature and Statistical Analysis Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=40311
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Theodor Foerster
+      completename:
+        content: Theodor Foerster
   role:
   - author
 - person:
     name:
-      completename: Bastian Schäffer
+      completename:
+        content: Bastian Schäffer
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2010-08-18'
@@ -59,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

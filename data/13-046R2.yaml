@@ -1,20 +1,20 @@
 ---
 id: 13-046r2
 title:
-- type: title-main
-  content: OGC CHISP-1 Summary Engineering Report
+- content: OGC CHISP-1 Summary Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC CHISP-1 Summary Engineering Report
+  type: title-main
+- content: OGC CHISP-1 Summary Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=55432
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Lew Leinenweber
+      completename:
+        content: Lew Leinenweber
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -58,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

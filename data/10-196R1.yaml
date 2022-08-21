@@ -1,20 +1,20 @@
 ---
 id: 10-196r1
 title:
-- type: title-main
-  content: Guidance on the Aviation Metadata Profile
+- content: Guidance on the Aviation Metadata Profile
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Guidance on the Aviation Metadata Profile
+  type: title-main
+- content: Guidance on the Aviation Metadata Profile
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=41668
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: OGC Aviation Domain Working Group
+      completename:
+        content: OGC Aviation Domain Working Group
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 19-021
 title:
-- type: title-main
-  content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
+- content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
+  type: title-main
+- content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-021.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Esther Kok
+      completename:
+        content: Esther Kok
   role:
   - author
 - person:
     name:
-      completename: Stephane Fellah
+      completename:
+        content: Stephane Fellah
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-12-17'
@@ -59,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

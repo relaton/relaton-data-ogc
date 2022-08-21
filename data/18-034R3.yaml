@@ -1,20 +1,20 @@
 ---
 id: 18-034r3
 title:
-- type: title-main
-  content: 'OGC Testbed-14: Compliance Engineering Report'
+- content: 'OGC Testbed-14: Compliance Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-14: Compliance Engineering Report'
+  type: title-main
+- content: 'OGC Testbed-14: Compliance Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-034r3.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Andrea Aime
+      completename:
+        content: Andrea Aime
   role:
   - author
 - person:
     name:
-      completename: Emanuele Tajariol
+      completename:
+        content: Emanuele Tajariol
   role:
   - author
 - person:
     name:
-      completename: Simone Giannecchini
+      completename:
+        content: Simone Giannecchini
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -78,7 +81,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

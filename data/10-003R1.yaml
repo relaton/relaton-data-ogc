@@ -1,22 +1,22 @@
 ---
 id: 10-003r1
 title:
-- type: title-main
-  content: Summary of the Architecture, Engineering, Construction, Owner Operator
+- content: Summary of the Architecture, Engineering, Construction, Owner Operator
     Phase 1 (AECOO-1) Joint Testbed
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Summary of the Architecture, Engineering, Construction, Owner Operator
+  type: title-main
+- content: Summary of the Architecture, Engineering, Construction, Owner Operator
     Phase 1 (AECOO-1) Joint Testbed
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=37223
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Louis Hecht
+      completename:
+        content: Louis Hecht
   role:
   - author
 - person:
     name:
-      completename: Jr.
+      completename:
+        content: Jr.
   role:
   - author
 - person:
     name:
-      completename: Raj Singh
+      completename:
+        content: Raj Singh
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -75,7 +78,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

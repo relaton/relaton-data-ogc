@@ -1,20 +1,20 @@
 ---
 id: '09-042'
 title:
-- type: title-main
-  content: 3D-Symbology Encoding Discussion Draft
+- content: 3D-Symbology Encoding Discussion Draft
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 3D-Symbology Encoding Discussion Draft
+  type: title-main
+- content: 3D-Symbology Encoding Discussion Draft
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=32904
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Steffen Neubauer
+      completename:
+        content: Steffen Neubauer
   role:
   - author
 - person:
     name:
-      completename: Alexander Zipf
+      completename:
+        content: Alexander Zipf
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2009-10-13'
@@ -55,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

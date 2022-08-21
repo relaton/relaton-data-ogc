@@ -1,20 +1,20 @@
 ---
 id: 20-006
 title:
-- type: title-main
-  content: OGC CDB Version 1.2 Release Notes
+- content: OGC CDB Version 1.2 Release Notes
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC CDB Version 1.2 Release Notes
+  type: title-main
+- content: OGC CDB Version 1.2 Release Notes
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/note/20-006.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-02-26'
@@ -50,7 +51,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

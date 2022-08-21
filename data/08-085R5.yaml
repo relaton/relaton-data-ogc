@@ -1,20 +1,20 @@
 ---
 id: '08-085r5'
 title:
-- type: title-main
-  content: 'OGC GML in JPEG 2000 (GMLJP2) Encoding StandardPart 1: Core'
+- content: 'OGC GML in JPEG 2000 (GMLJP2) Encoding StandardPart 1: Core'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC GML in JPEG 2000 (GMLJP2) Encoding StandardPart 1: Core'
+  type: title-main
+- content: 'OGC GML in JPEG 2000 (GMLJP2) Encoding StandardPart 1: Core'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/08-085r5/08-085r5.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Lucio Colaiacomo
+      completename:
+        content: Lucio Colaiacomo
   role:
   - author
 - person:
     name:
-      completename: Joan Masó
+      completename:
+        content: Joan Masó
   role:
   - author
 - person:
     name:
-      completename: 'Emmanuel Devys '
+      completename:
+        content: 'Emmanuel Devys '
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -66,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

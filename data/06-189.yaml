@@ -1,20 +1,20 @@
 ---
 id: 06-189
 title:
-- type: title-main
-  content: Corrigendum 1 (one) for OpenGIS Implementation Specification GML 2.1.2
+- content: Corrigendum 1 (one) for OpenGIS Implementation Specification GML 2.1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Corrigendum 1 (one) for OpenGIS Implementation Specification GML 2.1.2
+  type: title-main
+- content: Corrigendum 1 (one) for OpenGIS Implementation Specification GML 2.1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=19208
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Chris Holmes
+      completename:
+        content: Chris Holmes
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2007-08-27'
@@ -53,7 +54,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

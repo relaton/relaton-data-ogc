@@ -1,20 +1,20 @@
 ---
 id: 07-012
 title:
-- type: title-main
-  content: Compliance Test Engine Interoperability Program Report
+- content: Compliance Test Engine Interoperability Program Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Compliance Test Engine Interoperability Program Report
+  type: title-main
+- content: Compliance Test Engine Interoperability Program Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=20582
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Jennifer Marcus
+      completename:
+        content: Jennifer Marcus
   role:
   - author
 - person:
     name:
-      completename: Chuck Morris
+      completename:
+        content: Chuck Morris
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2007-09-04'
@@ -59,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

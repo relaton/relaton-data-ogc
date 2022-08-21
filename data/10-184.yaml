@@ -1,20 +1,20 @@
 ---
 id: 10-184
 title:
-- type: title-main
-  content: OGC Fusion Standards Study, Phase 2 Engineering Report
+- content: OGC Fusion Standards Study, Phase 2 Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Fusion Standards Study, Phase 2 Engineering Report
+  type: title-main
+- content: OGC Fusion Standards Study, Phase 2 Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=41573
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: George Percivall
+      completename:
+        content: George Percivall
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2010-12-13'
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

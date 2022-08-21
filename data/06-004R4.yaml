@@ -1,28 +1,28 @@
 ---
 id: 06-004r4
 title:
-- type: title-intro
-  content: Topic 18
+- content: Topic 18
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Geospatial Digital Rights Management Reference Model (GeoDRM RM)
+  type: title-intro
+- content: Geospatial Digital Rights Management Reference Model (GeoDRM RM)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 18 - Geospatial Digital Rights Management Reference Model (GeoDRM
+  type: title-main
+- content: Topic 18 - Geospatial Digital Rights Management Reference Model (GeoDRM
     RM)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=17802
   type: obp
@@ -37,12 +37,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Graham Vowles
+      completename:
+        content: Graham Vowles
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -65,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

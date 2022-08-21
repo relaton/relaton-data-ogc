@@ -1,20 +1,20 @@
 ---
 id: 18-023r1
 title:
-- type: title-main
-  content: 'OGC Testbed-14: MapML Engineering Report'
+- content: 'OGC Testbed-14: MapML Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-14: MapML Engineering Report'
+  type: title-main
+- content: 'OGC Testbed-14: MapML Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-023r1.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Joan Masó
+      completename:
+        content: Joan Masó
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

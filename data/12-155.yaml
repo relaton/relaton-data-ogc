@@ -1,20 +1,20 @@
 ---
 id: 12-155
 title:
-- type: title-main
-  content: 'OGC® OWS-9 OWS Innovations WCS for LIDAR Engineering Report '
+- content: 'OGC® OWS-9 OWS Innovations WCS for LIDAR Engineering Report '
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® OWS-9 OWS Innovations WCS for LIDAR Engineering Report '
+  type: title-main
+- content: 'OGC® OWS-9 OWS Innovations WCS for LIDAR Engineering Report '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=51891
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Weiguo Han
+      completename:
+        content: Weiguo Han
   role:
   - author
 - person:
     name:
-      completename: Yuanzheng Shao
+      completename:
+        content: Yuanzheng Shao
   role:
   - author
 - person:
     name:
-      completename: Liping Di
+      completename:
+        content: Liping Di
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2013-06-18'
@@ -65,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

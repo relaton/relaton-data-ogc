@@ -1,20 +1,20 @@
 ---
 id: 04-050r1
 title:
-- type: title-main
-  content: 'WMS Change Request: Support for WSDL & SOAP'
+- content: 'WMS Change Request: Support for WSDL & SOAP'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'WMS Change Request: Support for WSDL & SOAP'
+  type: title-main
+- content: 'WMS Change Request: Support for WSDL & SOAP'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=9541
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Philippe Duschene
+      completename:
+        content: Philippe Duschene
   role:
   - author
 - person:
     name:
-      completename: Jerome Sonnet
+      completename:
+        content: Jerome Sonnet
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -58,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

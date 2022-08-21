@@ -1,20 +1,20 @@
 ---
 id: 11-044
 title:
-- type: title-main
-  content: OGC Geography Markup Language (GML) simple features profile Technical Note
+- content: OGC Geography Markup Language (GML) simple features profile Technical Note
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Geography Markup Language (GML) simple features profile Technical Note
+  type: title-main
+- content: OGC Geography Markup Language (GML) simple features profile Technical Note
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=43999
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Linda van den Brink
+      completename:
+        content: Linda van den Brink
   role:
   - author
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - person:
     name:
-      completename: Panagiotis (Peter) A. Vretanos
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2011-05-11'
@@ -61,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

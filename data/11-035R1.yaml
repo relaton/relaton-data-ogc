@@ -1,22 +1,22 @@
 ---
 id: 11-035r1
 title:
-- type: title-main
-  content: EO Product Collection, Service and Sensor Discovery using the CS-W ebRIM
+- content: EO Product Collection, Service and Sensor Discovery using the CS-W ebRIM
     Catalogue
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: EO Product Collection, Service and Sensor Discovery using the CS-W ebRIM
+  type: title-main
+- content: EO Product Collection, Service and Sensor Discovery using the CS-W ebRIM
     Catalogue
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=53276
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Frédéric Houbie
+      completename:
+        content: Frédéric Houbie
   role:
   - author
 - person:
     name:
-      completename: Steven Smolders
+      completename:
+        content: Steven Smolders
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -61,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

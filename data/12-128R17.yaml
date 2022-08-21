@@ -1,20 +1,20 @@
 ---
 id: 12-128r17
 title:
-- type: title-main
-  content: OGC® GeoPackage Encoding Standard
+- content: OGC® GeoPackage Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® GeoPackage Encoding Standard
+  type: title-main
+- content: OGC® GeoPackage Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/12-128r17/12-128r17.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jeff Yutzler
+      completename:
+        content: Jeff Yutzler
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -60,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

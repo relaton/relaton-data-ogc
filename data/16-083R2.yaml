@@ -1,27 +1,27 @@
 ---
 id: 16-083r2
 title:
-- type: title-intro
-  content: OGC Coverage Implementation Schema
+- content: OGC Coverage Implementation Schema
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: ReferenceableGridCoverage Extension
+  type: title-intro
+- content: ReferenceableGridCoverage Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension
+  type: title-main
+- content: OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/16-083r2/16-083r2.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Eric Hirschorn
+      completename:
+        content: Eric Hirschorn
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -71,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

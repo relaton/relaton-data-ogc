@@ -1,20 +1,20 @@
 ---
 id: 04-087
 title:
-- type: title-main
-  content: EA-SIG Enterprise Service Management White Paper
+- content: EA-SIG Enterprise Service Management White Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: EA-SIG Enterprise Service Management White Paper
+  type: title-main
+- content: EA-SIG Enterprise Service Management White Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=7562
   type: obp
@@ -29,13 +29,14 @@ date:
 contributor:
 - person:
     name:
-      completename: Matt Murray,Jeff Stollman,Shue-Jane Thompson,Terry Plymell,Eli
-        Hertz,Chuck Heazel
+      completename:
+        content: Matt Murray,Jeff Stollman,Shue-Jane Thompson,Terry Plymell,Eli Hertz,Chuck
+          Heazel
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2004-02-20'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

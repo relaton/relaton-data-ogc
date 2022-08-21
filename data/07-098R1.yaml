@@ -1,27 +1,27 @@
 ---
 id: 07-098r1
 title:
-- type: title-intro
-  content: GeoXACML Implementation Specification
+- content: GeoXACML Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Extension A (GML2) Encoding
+  type: title-intro
+- content: Extension A (GML2) Encoding
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: GeoXACML Implementation Specification - Extension A (GML2) Encoding
+  type: title-main
+- content: GeoXACML Implementation Specification - Extension A (GML2) Encoding
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=25219
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Andreas Matheus
+      completename:
+        content: Andreas Matheus
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

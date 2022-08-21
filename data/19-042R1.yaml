@@ -1,27 +1,27 @@
 ---
 id: 19-042r1
 title:
-- type: title-intro
-  content: Discussion Paper
+- content: Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: JSON Encodings for EO Coverages
+  type: title-intro
+- content: JSON Encodings for EO Coverages
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Discussion Paper - JSON Encodings for EO Coverages
+  type: title-main
+- content: Discussion Paper - JSON Encodings for EO Coverages
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/19-042r1.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Lewis John McGibbney
+      completename:
+        content: Lewis John McGibbney
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -71,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

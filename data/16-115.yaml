@@ -1,27 +1,27 @@
 ---
 id: 16-115
 title:
-- type: title-intro
-  content: Future City Pilot 1
+- content: Future City Pilot 1
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Recommendations on Serving IFC via WFS
+  type: title-intro
+- content: Recommendations on Serving IFC via WFS
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Future City Pilot 1 - Recommendations on Serving IFC via WFS
+  type: title-main
+- content: Future City Pilot 1 - Recommendations on Serving IFC via WFS
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/16-115.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Guy Schumann
+      completename:
+        content: Guy Schumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2017-10-20'
@@ -60,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

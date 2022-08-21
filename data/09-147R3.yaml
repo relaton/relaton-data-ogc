@@ -1,35 +1,35 @@
 ---
 id: '09-147r3'
 title:
-- type: title-intro
-  content: OGC® Web Coverage Service 2.0 Interface Standard
+- content: OGC® Web Coverage Service 2.0 Interface Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: KVP Protocol Binding Extension
+  type: title-intro
+- content: KVP Protocol Binding Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: 'Corrigendum  '
+  type: title-main
+- content: 'Corrigendum  '
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® Web Coverage Service 2.0 Interface Standard - KVP Protocol Binding
+  type: title-part
+- content: 'OGC® Web Coverage Service 2.0 Interface Standard - KVP Protocol Binding
     Extension - Corrigendum  '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=50140
   type: obp
@@ -44,12 +44,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -68,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

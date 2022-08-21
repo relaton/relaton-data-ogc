@@ -1,20 +1,20 @@
 ---
 id: 11-159
 title:
-- type: title-main
-  content: The Open Geospatial Consortium and EarthCube
+- content: The Open Geospatial Consortium and EarthCube
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: The Open Geospatial Consortium and EarthCube
+  type: title-main
+- content: The Open Geospatial Consortium and EarthCube
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=46471&version=1
   type: obp
@@ -29,37 +29,43 @@ date:
 contributor:
 - person:
     name:
-      completename: David Maidment
+      completename:
+        content: David Maidment
   role:
   - author
 - person:
     name:
-      completename: Ben Domenico
+      completename:
+        content: Ben Domenico
   role:
   - author
 - person:
     name:
-      completename: Alastair Gemmell
+      completename:
+        content: Alastair Gemmell
   role:
   - author
 - person:
     name:
-      completename: Kerstin Lehnert
+      completename:
+        content: Kerstin Lehnert
   role:
   - author
 - person:
     name:
-      completename: David Tarboton
+      completename:
+        content: David Tarboton
   role:
   - author
 - person:
     name:
-      completename: Ilya Zaslavsky
+      completename:
+        content: Ilya Zaslavsky
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2011-10-19'
@@ -87,7 +93,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

@@ -1,28 +1,28 @@
 ---
 id: 19-004
 title:
-- type: title-intro
-  content: Anchor Node Extension in IndoorGML
+- content: Anchor Node Extension in IndoorGML
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Seamless Navigation between Indoor and Outdoor Space
+  type: title-intro
+- content: Seamless Navigation between Indoor and Outdoor Space
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Anchor Node Extension in IndoorGML - Seamless Navigation between Indoor
+  type: title-main
+- content: Anchor Node Extension in IndoorGML - Seamless Navigation between Indoor
     and Outdoor Space
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/19-004.html
   type: obp
@@ -37,17 +37,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Kyoung-Sook Kim
+      completename:
+        content: Kyoung-Sook Kim
   role:
   - author
 - person:
     name:
-      completename: Jiyeong Lee
+      completename:
+        content: Jiyeong Lee
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-12-11'
@@ -69,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

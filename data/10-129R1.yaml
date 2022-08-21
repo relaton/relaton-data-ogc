@@ -1,27 +1,27 @@
 ---
 id: 10-129r1
 title:
-- type: title-intro
-  content: OGC® Geography Markup Language (GML)
+- content: OGC® Geography Markup Language (GML)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Extended schemas and encoding rules
+  type: title-intro
+- content: Extended schemas and encoding rules
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Geography Markup Language (GML) - Extended schemas and encoding rules
+  type: title-main
+- content: OGC® Geography Markup Language (GML) - Extended schemas and encoding rules
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=46568
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -62,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

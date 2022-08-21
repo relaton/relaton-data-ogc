@@ -1,20 +1,20 @@
 ---
 id: 20-067
 title:
-- type: title-main
-  content: Second Environmental Linked Features Experiment
+- content: Second Environmental Linked Features Experiment
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Second Environmental Linked Features Experiment
+  type: title-main
+- content: Second Environmental Linked Features Experiment
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/20-067.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: David Blodgett
+      completename:
+        content: David Blodgett
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-10-22'
@@ -60,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

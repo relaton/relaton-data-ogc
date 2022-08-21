@@ -1,35 +1,35 @@
 ---
 id: 06-173r2
 title:
-- type: title-intro
-  content: Geographic information
+- content: Geographic information
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Rights expression language for geographic information
+  type: title-intro
+- content: Rights expression language for geographic information
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: 'Part xx: GeoREL'
+  type: title-main
+- content: 'Part xx: GeoREL'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Geographic information - Rights expression language for geographic information
+  type: title-part
+- content: 'Geographic information - Rights expression language for geographic information
     - Part xx: GeoREL'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=19054
   type: obp
@@ -44,12 +44,13 @@ date:
 contributor:
 - person:
     name:
-      completename: John Herring
+      completename:
+        content: John Herring
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -69,7 +70,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

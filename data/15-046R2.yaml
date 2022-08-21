@@ -1,22 +1,22 @@
 ---
 id: 15-046r2
 title:
-- type: title-main
-  content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
+- content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
+  type: title-main
+- content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=64174
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Eugene G. Yu
+      completename:
+        content: Eugene G. Yu
   role:
   - author
 - person:
     name:
-      completename: Liping Di
+      completename:
+        content: Liping Di
   role:
   - author
 - person:
     name:
-      completename: Ranjay Shrestha
+      completename:
+        content: Ranjay Shrestha
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -74,7 +77,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

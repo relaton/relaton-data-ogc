@@ -1,27 +1,27 @@
 ---
 id: '08-059r4'
 title:
-- type: title-intro
-  content: OGC® Web Coverage Service WCS Interface Standard
+- content: OGC® Web Coverage Service WCS Interface Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Processing Extension
+  type: title-intro
+- content: Processing Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Web Coverage Service WCS Interface Standard - Processing Extension
+  type: title-main
+- content: OGC® Web Coverage Service WCS Interface Standard - Processing Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=54506
   type: obp
@@ -36,17 +36,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - person:
     name:
-      completename: Jinsongdi Yu
+      completename:
+        content: Jinsongdi Yu
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: extension
 editorialgroup:

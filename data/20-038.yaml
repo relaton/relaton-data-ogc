@@ -1,22 +1,22 @@
 ---
 id: 20-038
 title:
-- type: title-main
-  content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
+- content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
     Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
+  type: title-main
+- content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
     Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/20-038.html
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Omar Barrilero
+      completename:
+        content: Omar Barrilero
   role:
   - author
 - person:
     name:
-      completename: Adrian Luna
+      completename:
+        content: Adrian Luna
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-10-22'
@@ -58,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,22 +1,22 @@
 ---
 id: 20-066
 title:
-- type: title-main
-  content: OGC City Geography Markup Language (CityGML) 3.0 Conceptual Model Users
+- content: OGC City Geography Markup Language (CityGML) 3.0 Conceptual Model Users
     Guide
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC City Geography Markup Language (CityGML) 3.0 Conceptual Model Users
+  type: title-main
+- content: OGC City Geography Markup Language (CityGML) 3.0 Conceptual Model Users
     Guide
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/guides/20-066.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Charles Heazel
+      completename:
+        content: Charles Heazel
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-09-13'
@@ -64,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

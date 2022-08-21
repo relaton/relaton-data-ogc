@@ -1,20 +1,20 @@
 ---
 id: 05-084
 title:
-- type: title-main
-  content: Catalog 2.0 Accessibility for OWS3
+- content: Catalog 2.0 Accessibility for OWS3
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Catalog 2.0 Accessibility for OWS3
+  type: title-main
+- content: Catalog 2.0 Accessibility for OWS3
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=12597
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Vincent Delfosse
+      completename:
+        content: Vincent Delfosse
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2006-05-09'
@@ -53,7 +54,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

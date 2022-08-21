@@ -1,20 +1,20 @@
 ---
 id: '08-167r2'
 title:
-- type: title-main
-  content: Semantic annotations in OGC standards
+- content: Semantic annotations in OGC standards
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Semantic annotations in OGC standards
+  type: title-main
+- content: Semantic annotations in OGC standards
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=47857
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Frédéric Houbie
+      completename:
+        content: Frédéric Houbie
   role:
   - author
 - person:
     name:
-      completename: Philippe Duchesne
+      completename:
+        content: Philippe Duchesne
   role:
   - author
 - person:
     name:
-      completename: Patrick Maué
+      completename:
+        content: Patrick Maué
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -64,7 +67,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

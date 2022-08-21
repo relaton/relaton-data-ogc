@@ -1,34 +1,34 @@
 ---
 id: 10-030
 title:
-- type: title-intro
-  content: Topic 19
+- content: Topic 19
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Geographic information
+  type: title-intro
+- content: Geographic information
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Linear referencing
+  type: title-main
+- content: Linear referencing
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 19 - Geographic information - Linear referencing
+  type: title-part
+- content: Topic 19 - Geographic information - Linear referencing
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://www.iso.org/standard/32566.html
   type: obp
@@ -43,12 +43,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Paul Scarponcini
+      completename:
+        content: Paul Scarponcini
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2012-03-20'
@@ -63,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

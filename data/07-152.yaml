@@ -1,20 +1,20 @@
 ---
 id: 07-152
 title:
-- type: title-main
-  content: FedEO Pilot Engineering Report
+- content: FedEO Pilot Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: FedEO Pilot Engineering Report
+  type: title-main
+- content: FedEO Pilot Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=25184
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Corentin Guillo
+      completename:
+        content: Corentin Guillo
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2008-01-21'
@@ -53,7 +54,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

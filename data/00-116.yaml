@@ -1,27 +1,27 @@
 ---
 id: 00-116
 title:
-- type: title-intro
-  content: Topic 16
+- content: Topic 16
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Image Coordinate Transformation Services
+  type: title-intro
+- content: Image Coordinate Transformation Services
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 16 - Image Coordinate Transformation Services
+  type: title-main
+- content: Topic 16 - Image Coordinate Transformation Services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=7200
   type: obp
@@ -36,17 +36,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Cliff Kottman
+      completename:
+        content: Cliff Kottman
   role:
   - author
 - person:
     name:
-      completename: Arliss Whiteside
+      completename:
+        content: Arliss Whiteside
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2000-04-24'
@@ -61,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

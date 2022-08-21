@@ -1,20 +1,20 @@
 ---
 id: 04-085
 title:
-- type: title-main
-  content: EA-SIG Collaboration White Paper
+- content: EA-SIG Collaboration White Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: EA-SIG Collaboration White Paper
+  type: title-main
+- content: EA-SIG Collaboration White Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=7564
   type: obp
@@ -29,13 +29,14 @@ date:
 contributor:
 - person:
     name:
-      completename: Richard Creps,Victor Brown,Bill Floyd,John Garcia,Jeff Grinstead,Robert
-        Kraus,Steve Matney,Robert Qu
+      completename:
+        content: Richard Creps,Victor Brown,Bill Floyd,John Garcia,Jeff Grinstead,Robert
+          Kraus,Steve Matney,Robert Qu
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2004-02-20'
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

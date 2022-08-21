@@ -1,20 +1,20 @@
 ---
 id: 16-023r3
 title:
-- type: title-main
-  content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
+- content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
+  type: title-main
+- content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/16-023r3.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Benjamin Pross
+      completename:
+        content: Benjamin Pross
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -62,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

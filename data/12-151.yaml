@@ -1,20 +1,20 @@
 ---
 id: 12-151
 title:
-- type: title-main
-  content: OWS-9 Aviation Portrayal Engineering Report
+- content: OWS-9 Aviation Portrayal Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-9 Aviation Portrayal Engineering Report
+  type: title-main
+- content: OWS-9 Aviation Portrayal Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=51898
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Daniel Balog
+      completename:
+        content: Daniel Balog
   role:
   - author
 - person:
     name:
-      completename: Roger Brackin
+      completename:
+        content: Roger Brackin
   role:
   - author
 - person:
     name:
-      completename: Robin Houtmeyers
+      completename:
+        content: Robin Houtmeyers
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2013-02-06'
@@ -70,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

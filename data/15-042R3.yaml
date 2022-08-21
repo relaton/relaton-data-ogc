@@ -1,22 +1,22 @@
 ---
 id: 15-042r3
 title:
-- type: title-main
-  content: TimeseriesML 1.0 – XML Encoding of the Timeseries Profile of Observations
+- content: TimeseriesML 1.0 – XML Encoding of the Timeseries Profile of Observations
     and Measurements
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: TimeseriesML 1.0 – XML Encoding of the Timeseries Profile of Observations
+  type: title-main
+- content: TimeseriesML 1.0 – XML Encoding of the Timeseries Profile of Observations
     and Measurements
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/15-042r3/15-042r3.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: James Tomkins and Dominic Lowe
+      completename:
+        content: James Tomkins and Dominic Lowe
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -57,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

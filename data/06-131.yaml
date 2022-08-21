@@ -1,22 +1,22 @@
 ---
 id: 06-131
 title:
-- type: title-main
-  content: EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW
+- content: EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW
     2.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW
+  type: title-main
+- content: EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW
     2.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=17689
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Renato Primavera
+      completename:
+        content: Renato Primavera
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2006-10-24'
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

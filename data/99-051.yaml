@@ -1,20 +1,20 @@
 ---
 id: 99-051
 title:
-- type: title-main
-  content: Catalog Interface
+- content: Catalog Interface
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Catalog Interface
+  type: title-main
+- content: Catalog Interface
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=831
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Doug Nebert
+      completename:
+        content: Doug Nebert
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '1999-07-16'
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

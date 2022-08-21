@@ -1,20 +1,20 @@
 ---
 id: 04-060r1
 title:
-- type: title-main
-  content: 'OWS 2 Common Architecture: WSDL SOAP UDDI'
+- content: 'OWS 2 Common Architecture: WSDL SOAP UDDI'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OWS 2 Common Architecture: WSDL SOAP UDDI'
+  type: title-main
+- content: 'OWS 2 Common Architecture: WSDL SOAP UDDI'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=8348
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jerome Sonnett
+      completename:
+        content: Jerome Sonnett
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -54,7 +55,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

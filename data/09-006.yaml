@@ -1,27 +1,27 @@
 ---
 id: '09-006'
 title:
-- type: title-intro
-  content: OWS-6 DSS Engineering Report
+- content: OWS-6 DSS Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: SOAP/XML and REST in WMTS
+  type: title-intro
+- content: SOAP/XML and REST in WMTS
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-6 DSS Engineering Report - SOAP/XML and REST in WMTS
+  type: title-main
+- content: OWS-6 DSS Engineering Report - SOAP/XML and REST in WMTS
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=33269
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Keith Pomakis
+      completename:
+        content: Keith Pomakis
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2009-08-05'
@@ -58,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

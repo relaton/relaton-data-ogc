@@ -1,20 +1,20 @@
 ---
 id: 17-048
 title:
-- type: title-main
-  content: OGC Underground Infrastructure Concept Study Engineering Report
+- content: OGC Underground Infrastructure Concept Study Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Underground Infrastructure Concept Study Engineering Report
+  type: title-main
+- content: OGC Underground Infrastructure Concept Study Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/17-048.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Josh Lieberman
+      completename:
+        content: Josh Lieberman
   role:
   - author
 - person:
     name:
-      completename: Andy Ryan
+      completename:
+        content: Andy Ryan
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2017-08-31'
@@ -58,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

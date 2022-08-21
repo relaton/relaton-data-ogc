@@ -1,20 +1,20 @@
 ---
 id: 07-165r1
 title:
-- type: title-main
-  content: 'OGC Sensor Web Enablement: Overview and High Level Architecture'
+- content: 'OGC Sensor Web Enablement: Overview and High Level Architecture'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Sensor Web Enablement: Overview and High Level Architecture'
+  type: title-main
+- content: 'OGC Sensor Web Enablement: Overview and High Level Architecture'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/wp/07-165r1/
   type: obp
@@ -29,27 +29,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Mike Botts
+      completename:
+        content: Mike Botts
   role:
   - author
 - person:
     name:
-      completename: George Percivall
+      completename:
+        content: George Percivall
   role:
   - author
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - person:
     name:
-      completename: John Davidson
+      completename:
+        content: John Davidson
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -70,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

@@ -1,27 +1,27 @@
 ---
 id: '09-046r6'
 title:
-- type: title-intro
-  content: OGC Naming Authority
+- content: OGC Naming Authority
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Procedures
+  type: title-intro
+- content: Procedures
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Naming Authority - Procedures
+  type: title-main
+- content: OGC Naming Authority - Procedures
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/pol/09-046r6.html
   type: obp
@@ -36,17 +36,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Gobe Hobona
+      completename:
+        content: Gobe Hobona
   role:
   - author
 - person:
     name:
-      completename: Simon Cox
+      completename:
+        content: Simon Cox
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -68,7 +70,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
   committee: technical

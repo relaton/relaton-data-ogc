@@ -1,20 +1,20 @@
 ---
 id: 17-028
 title:
-- type: title-main
-  content: 'OGC Testbed-13: Asynchronous Services ER'
+- content: 'OGC Testbed-13: Asynchronous Services ER'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-13: Asynchronous Services ER'
+  type: title-main
+- content: 'OGC Testbed-13: Asynchronous Services ER'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/17-028.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Benjamin Pross
+      completename:
+        content: Benjamin Pross
   role:
   - author
 - person:
     name:
-      completename: Christoph Stasch
+      completename:
+        content: Christoph Stasch
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2018-01-08'
@@ -58,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

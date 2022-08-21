@@ -1,27 +1,27 @@
 ---
 id: 18-009
 title:
-- type: title-intro
-  content: OGC India Plugfest
+- content: OGC India Plugfest
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: 2017 (OIP-2017) Engineering Report
+  type: title-intro
+- content: 2017 (OIP-2017) Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC India Plugfest - 2017 (OIP-2017) Engineering Report
+  type: title-main
+- content: OGC India Plugfest - 2017 (OIP-2017) Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=77858
   type: obp
@@ -36,27 +36,31 @@ date:
 contributor:
 - person:
     name:
-      completename: P S Acharya
+      completename:
+        content: P S Acharya
   role:
   - author
 - person:
     name:
-      completename: Scott Simmons
+      completename:
+        content: Scott Simmons
   role:
   - author
 - person:
     name:
-      completename: A Kaushal
+      completename:
+        content: A Kaushal
   role:
   - author
 - person:
     name:
-      completename: 'M K Munshi  '
+      completename:
+        content: 'M K Munshi  '
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-02-24'
@@ -85,7 +89,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

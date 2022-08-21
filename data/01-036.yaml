@@ -1,20 +1,20 @@
 ---
 id: 01-036
 title:
-- type: title-main
-  content: Gazetteer
+- content: Gazetteer
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Gazetteer
+  type: title-main
+- content: Gazetteer
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=1041
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Rob Atkinson
+      completename:
+        content: Rob Atkinson
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2001-03-15'
@@ -49,7 +50,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

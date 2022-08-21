@@ -1,20 +1,20 @@
 ---
 id: 21-008
 title:
-- type: title-main
-  content: Joint OGC OSGeo ASF Code Sprint 2021 Summary Engineering Report
+- content: Joint OGC OSGeo ASF Code Sprint 2021 Summary Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Joint OGC OSGeo ASF Code Sprint 2021 Summary Engineering Report
+  type: title-main
+- content: Joint OGC OSGeo ASF Code Sprint 2021 Summary Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/21-008.html
   type: obp
@@ -29,27 +29,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Gobe Hobona
+      completename:
+        content: Gobe Hobona
   role:
   - author
 - person:
     name:
-      completename: Angelos Tzotsos
+      completename:
+        content: Angelos Tzotsos
   role:
   - author
 - person:
     name:
-      completename: Tom Kralidis
+      completename:
+        content: Tom Kralidis
   role:
   - author
 - person:
     name:
-      completename: Martin Desruisseaux
+      completename:
+        content: Martin Desruisseaux
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-04-12'
@@ -70,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

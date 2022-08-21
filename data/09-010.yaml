@@ -1,27 +1,27 @@
 ---
 id: '09-010'
 title:
-- type: title-intro
-  content: OGC® Catalogue Services
+- content: OGC® Catalogue Services
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: OWL Application Profile of CSW
+  type: title-intro
+- content: OWL Application Profile of CSW
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Catalogue Services - OWL Application Profile of CSW
+  type: title-main
+- content: OGC® Catalogue Services - OWL Application Profile of CSW
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://portal.opengeospatial.org/files/?artifact_id=32620
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Kristin Stock
+      completename:
+        content: Kristin Stock
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2009-07-27'
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

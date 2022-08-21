@@ -1,22 +1,22 @@
 ---
 id: 16-129
 title:
-- type: title-main
-  content: Standardized Information Models to Optimize Exchange, Reusability and Comparability
+- content: Standardized Information Models to Optimize Exchange, Reusability and Comparability
     of Citizen Science Data (SWE4CS)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Standardized Information Models to Optimize Exchange, Reusability and Comparability
+  type: title-main
+- content: Standardized Information Models to Optimize Exchange, Reusability and Comparability
     of Citizen Science Data (SWE4CS)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=70328
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Ingo Simonis
+      completename:
+        content: Ingo Simonis
   role:
   - author
 - person:
     name:
-      completename: Rob Atkinson
+      completename:
+        content: Rob Atkinson
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2017-03-31'
@@ -62,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -1,22 +1,22 @@
 ---
 id: 16-003r4
 title:
-- type: title-main
-  content: 'Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration
+- content: 'Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration
     Values'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration
+  type: title-main
+- content: 'Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration
     Values'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/16-003r4.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

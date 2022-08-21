@@ -1,35 +1,35 @@
 ---
 id: 18-058r1
 title:
-- type: title-intro
-  content: OGC API
+- content: OGC API
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Features
+  type: title-intro
+- content: Features
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: 'Part 2: Coordinate Reference Systems by Reference corrigendum'
+  type: title-main
+- content: 'Part 2: Coordinate Reference Systems by Reference corrigendum'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC API - Features - Part 2: Coordinate Reference Systems by Reference
+  type: title-part
+- content: 'OGC API - Features - Part 2: Coordinate Reference Systems by Reference
     corrigendum'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.opengeospatial.org/is/18-058r1/18-058r1.html
   type: obp
@@ -44,17 +44,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - person:
     name:
-      completename: Panagiotis (Peter) A. Vretanos
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -77,7 +79,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

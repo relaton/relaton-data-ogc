@@ -1,22 +1,22 @@
 ---
 id: 21-007
 title:
-- type: title-main
-  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile
+- content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile
     for Imagery & Gridded Data 2.1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile
+  type: title-main
+- content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile
     for Imagery & Gridded Data 2.1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/21-007/21-007.pdf
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: DGIWG
+      completename:
+        content: DGIWG
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-11-16'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

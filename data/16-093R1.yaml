@@ -1,22 +1,22 @@
 ---
 id: 16-093r1
 title:
-- type: title-main
-  content: Incident Management Information Sharing Internet of Things Protocol Mapping
+- content: Incident Management Information Sharing Internet of Things Protocol Mapping
     Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Incident Management Information Sharing Internet of Things Protocol Mapping
+  type: title-main
+- content: Incident Management Information Sharing Internet of Things Protocol Mapping
     Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/16-093r1.html
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Steve Liang
+      completename:
+        content: Steve Liang
   role:
   - author
 - person:
     name:
-      completename: Tania Khalafbeigi
+      completename:
+        content: Tania Khalafbeigi
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -62,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

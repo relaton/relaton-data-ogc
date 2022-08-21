@@ -1,20 +1,20 @@
 ---
 id: '09-123'
 title:
-- type: title-main
-  content: GeoRM Role Model
+- content: GeoRM Role Model
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: GeoRM Role Model
+  type: title-main
+- content: GeoRM Role Model
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=35516
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Roland M. Wagner
+      completename:
+        content: Roland M. Wagner
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2009-10-13'
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

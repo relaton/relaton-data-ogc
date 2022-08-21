@@ -1,20 +1,20 @@
 ---
 id: 19-088r2
 title:
-- type: title-main
-  content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
+- content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
+  type: title-main
+- content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-088r2.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Gobe Hobona
+      completename:
+        content: Gobe Hobona
   role:
   - author
 - person:
     name:
-      completename: Terry Idol
+      completename:
+        content: Terry Idol
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -73,7 +75,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

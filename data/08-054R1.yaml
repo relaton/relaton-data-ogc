@@ -1,20 +1,20 @@
 ---
 id: '08-054r1'
 title:
-- type: title-main
-  content: OWS-5 Considerations for the WCTS Extension of WPS
+- content: OWS-5 Considerations for the WCTS Extension of WPS
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-5 Considerations for the WCTS Extension of WPS
+  type: title-main
+- content: OWS-5 Considerations for the WCTS Extension of WPS
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=29406
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Max Martinez
+      completename:
+        content: Max Martinez
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

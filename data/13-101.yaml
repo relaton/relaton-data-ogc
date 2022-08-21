@@ -1,22 +1,22 @@
 ---
 id: 13-101
 title:
-- type: title-main
-  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
+- content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
     GML 3.2.1 Encoding Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
+  type: title-main
+- content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
     GML 3.2.1 Encoding Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=55232
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Andreas Matheus
+      completename:
+        content: Andreas Matheus
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2013-11-06'
@@ -62,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

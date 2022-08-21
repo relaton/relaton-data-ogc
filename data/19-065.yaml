@@ -1,22 +1,22 @@
 ---
 id: 19-065
 title:
-- type: title-main
-  content: OGC OpenFlight Scene Description Database Specification 16.0 Community
+- content: OGC OpenFlight Scene Description Database Specification 16.0 Community
     Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC OpenFlight Scene Description Database Specification 16.0 Community
+  type: title-main
+- content: OGC OpenFlight Scene Description Database Specification 16.0 Community
     Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=92038
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: 'Steve Thompson '
+      completename:
+        content: 'Steve Thompson '
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-07-09'
@@ -60,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: community-standard
 editorialgroup:
   committee: technical

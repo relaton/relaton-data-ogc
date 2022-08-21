@@ -1,34 +1,34 @@
 ---
 id: 12-157
 title:
-- type: title-intro
-  content: OGC® OWS-9 Engineering Report
+- content: OGC® OWS-9 Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: OWS Innovations
+  type: title-intro
+- content: OWS Innovations
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Map Tiling Methods Harmonization
+  type: title-main
+- content: Map Tiling Methods Harmonization
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® OWS-9 Engineering Report - OWS Innovations - Map Tiling Methods Harmonization
+  type: title-part
+- content: OGC® OWS-9 Engineering Report - OWS Innovations - Map Tiling Methods Harmonization
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=52757
   type: obp
@@ -43,12 +43,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Joan Masó
+      completename:
+        content: Joan Masó
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2013-06-18'
@@ -68,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

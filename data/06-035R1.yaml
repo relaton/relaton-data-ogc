@@ -1,20 +1,20 @@
 ---
 id: 06-035r1
 title:
-- type: title-main
-  content: Web Coverage Processing Service (WCPS)
+- content: Web Coverage Processing Service (WCPS)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Web Coverage Processing Service (WCPS)
+  type: title-main
+- content: Web Coverage Processing Service (WCPS)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=14895
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

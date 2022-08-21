@@ -1,20 +1,20 @@
 ---
 id: 20-088
 title:
-- type: title-main
-  content: Standardizing a Framework for Spatial and Spectral Error Propagation
+- content: Standardizing a Framework for Spatial and Spectral Error Propagation
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Standardizing a Framework for Spatial and Spectral Error Propagation
+  type: title-main
+- content: Standardizing a Framework for Spatial and Spectral Error Propagation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/20-088.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: K. Navulur
+      completename:
+        content: K. Navulur
   role:
   - author
 - person:
     name:
-      completename: M.C. Abrams
+      completename:
+        content: M.C. Abrams
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-02-15'
@@ -59,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

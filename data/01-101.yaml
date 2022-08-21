@@ -1,27 +1,27 @@
 ---
 id: 01-101
 title:
-- type: title-intro
-  content: Topic 1
+- content: Topic 1
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Feature Geometry
+  type: title-intro
+- content: Feature Geometry
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 1 - Feature Geometry
+  type: title-main
+- content: Topic 1 - Feature Geometry
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://www.iso.org/standard/26012.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: John Herring
+      completename:
+        content: John Herring
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2001-05-10'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

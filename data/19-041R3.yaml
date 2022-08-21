@@ -1,20 +1,20 @@
 ---
 id: 19-041r3
 title:
-- type: title-main
-  content: OGC® Routing Pilot ER
+- content: OGC® Routing Pilot ER
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Routing Pilot ER
+  type: title-main
+- content: OGC® Routing Pilot ER
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-041r3.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Sam Meek
+      completename:
+        content: Sam Meek
   role:
   - author
 - person:
     name:
-      completename: Theo Brown
+      completename:
+        content: Theo Brown
   role:
   - author
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -69,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

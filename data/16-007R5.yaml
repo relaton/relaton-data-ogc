@@ -1,20 +1,20 @@
 ---
 id: 16-007r5
 title:
-- type: title-main
-  content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
+- content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
+  type: title-main
+- content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/16-007r5/16-007r5.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Sara Saeedi
+      completename:
+        content: Sara Saeedi
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -64,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

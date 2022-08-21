@@ -1,27 +1,27 @@
 ---
 id: 17-089r1
 title:
-- type: title-intro
-  content: OGC Web Coverage Service (WCS) 2.1 Interface Standard
+- content: OGC Web Coverage Service (WCS) 2.1 Interface Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Core
+  type: title-intro
+- content: Core
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Web Coverage Service (WCS) 2.1 Interface Standard - Core
+  type: title-main
+- content: OGC Web Coverage Service (WCS) 2.1 Interface Standard - Core
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/17-089r1/17-089r1.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -68,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

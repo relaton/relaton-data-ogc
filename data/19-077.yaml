@@ -1,34 +1,34 @@
 ---
 id: 19-077
 title:
-- type: title-intro
-  content: OGC Body of Knowledge
+- content: OGC Body of Knowledge
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Version 0.1
+  type: title-intro
+- content: Version 0.1
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Discussion Paper
+  type: title-main
+- content: Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Body of Knowledge - Version 0.1 - Discussion Paper
+  type: title-part
+- content: OGC Body of Knowledge - Version 0.1 - Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/19-077.html
   type: obp
@@ -43,12 +43,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Gobe Hobona
+      completename:
+        content: Gobe Hobona
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-05-04'
@@ -71,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

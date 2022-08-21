@@ -1,20 +1,20 @@
 ---
 id: 19-019
 title:
-- type: title-main
-  content: 'OGC Testbed-15: Portrayal Summary ER'
+- content: 'OGC Testbed-15: Portrayal Summary ER'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-15: Portrayal Summary ER'
+  type: title-main
+- content: 'OGC Testbed-15: Portrayal Summary ER'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-019.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Martin Klopfer
+      completename:
+        content: Martin Klopfer
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-02-07'
@@ -57,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

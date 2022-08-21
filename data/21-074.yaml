@@ -1,20 +1,20 @@
 ---
 id: 21-074
 title:
-- type: title-main
-  content: 'OGC Disaster Pilot: User Readiness Guide'
+- content: 'OGC Disaster Pilot: User Readiness Guide'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Disaster Pilot: User Readiness Guide'
+  type: title-main
+- content: 'OGC Disaster Pilot: User Readiness Guide'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/guides/21-074.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Samantha Lavender
+      completename:
+        content: Samantha Lavender
   role:
   - author
 - person:
     name:
-      completename: Andrew Lavender
+      completename:
+        content: Andrew Lavender
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2022-05-06'
@@ -61,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

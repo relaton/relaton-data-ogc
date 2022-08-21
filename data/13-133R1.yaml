@@ -1,20 +1,20 @@
 ---
 id: 13-133r1
 title:
-- type: title-main
-  content: OGC® Publish/Subscribe Interface Standard 1.0 SOAP Protocol Binding Extension
+- content: OGC® Publish/Subscribe Interface Standard 1.0 SOAP Protocol Binding Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Publish/Subscribe Interface Standard 1.0 SOAP Protocol Binding Extension
+  type: title-main
+- content: OGC® Publish/Subscribe Interface Standard 1.0 SOAP Protocol Binding Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/13-133r1/13-133r1.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Aaron Braeckel
+      completename:
+        content: Aaron Braeckel
   role:
   - author
 - person:
     name:
-      completename: Lorenzo Bigagli
+      completename:
+        content: Lorenzo Bigagli
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -71,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

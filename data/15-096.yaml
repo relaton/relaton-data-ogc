@@ -1,22 +1,22 @@
 ---
 id: 15-096
 title:
-- type: title-main
-  content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
+- content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
     for a Moving Feature API'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
+  type: title-main
+- content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
     for a Moving Feature API'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=64623
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Akinori Asahara
+      completename:
+        content: Akinori Asahara
   role:
   - author
 - person:
     name:
-      completename: Hideki Hayashi
+      completename:
+        content: Hideki Hayashi
   role:
   - author
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2016-01-18'
@@ -70,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

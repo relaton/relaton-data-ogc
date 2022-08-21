@@ -1,22 +1,22 @@
 ---
 id: 07-056r1
 title:
-- type: title-main
-  content: The Specification Model -- Structuring an OGC specification to encourage
+- content: The Specification Model -- Structuring an OGC specification to encourage
     implementation
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: The Specification Model -- Structuring an OGC specification to encourage
+  type: title-main
+- content: The Specification Model -- Structuring an OGC specification to encourage
     implementation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=21976
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: John Herring
+      completename:
+        content: John Herring
   role:
   - author
 - person:
     name:
-      completename: OAB
+      completename:
+        content: OAB
   role:
   - author
 - person:
     name:
-      completename: Architecture WG
+      completename:
+        content: Architecture WG
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -65,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

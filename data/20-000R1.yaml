@@ -1,20 +1,20 @@
 ---
 id: 20-000r1
 title:
-- type: title-main
-  content: CityGML Urban Planning ADE for i-Urban Revitalization
+- content: CityGML Urban Planning ADE for i-Urban Revitalization
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CityGML Urban Planning ADE for i-Urban Revitalization
+  type: title-main
+- content: CityGML Urban Planning ADE for i-Urban Revitalization
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=92113
   type: obp
@@ -29,37 +29,43 @@ date:
 contributor:
 - person:
     name:
-      completename: Nobuhiro Ishimaru
+      completename:
+        content: Nobuhiro Ishimaru
   role:
   - author
 - person:
     name:
-      completename: Chikako Kurokawa
+      completename:
+        content: Chikako Kurokawa
   role:
   - author
 - person:
     name:
-      completename: Yuichi Tanaka
+      completename:
+        content: Yuichi Tanaka
   role:
   - author
 - person:
     name:
-      completename: Tomohisa Oishi
+      completename:
+        content: Tomohisa Oishi
   role:
   - author
 - person:
     name:
-      completename: Kentaro Akahoshi
+      completename:
+        content: Kentaro Akahoshi
   role:
   - author
 - person:
     name:
-      completename: Tatjana Kutzne
+      completename:
+        content: Tatjana Kutzne
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -91,7 +97,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

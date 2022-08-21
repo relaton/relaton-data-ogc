@@ -1,35 +1,35 @@
 ---
 id: 14-014r3
 title:
-- type: title-intro
-  content: OGC® Catalogue Services Specification
+- content: OGC® Catalogue Services Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: HTTP protocol binding
+  type: title-intro
+- content: HTTP protocol binding
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Abstract Test Suite
+  type: title-main
+- content: Abstract Test Suite
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Catalogue Services Specification - HTTP protocol binding - Abstract
+  type: title-part
+- content: OGC® Catalogue Services Specification - HTTP protocol binding - Abstract
     Test Suite
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/14-014r3/14-014r3.html
   type: obp
@@ -44,32 +44,37 @@ date:
 contributor:
 - person:
     name:
-      completename: Lorenzo Bigagli
+      completename:
+        content: Lorenzo Bigagli
   role:
   - author
 - person:
     name:
-      completename: Doug Nebert
+      completename:
+        content: Doug Nebert
   role:
   - author
 - person:
     name:
-      completename: Uwe Voges
+      completename:
+        content: Uwe Voges
   role:
   - author
 - person:
     name:
-      completename: Panagiotis Vretanos
+      completename:
+        content: Panagiotis Vretanos
   role:
   - author
 - person:
     name:
-      completename: Bruce Westcott
+      completename:
+        content: Bruce Westcott
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -87,7 +92,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

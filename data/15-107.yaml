@@ -1,20 +1,20 @@
 ---
 id: 15-107
 title:
-- type: title-main
-  content: Spatial Data on the Web Best Practices
+- content: Spatial Data on the Web Best Practices
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Spatial Data on the Web Best Practices
+  type: title-main
+- content: Spatial Data on the Web Best Practices
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://www.w3.org/TR/sdw-bp/
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Jeremy Tandy
+      completename:
+        content: Jeremy Tandy
   role:
   - author
 - person:
     name:
-      completename: Linda van den Brink
+      completename:
+        content: Linda van den Brink
   role:
   - author
 - person:
     name:
-      completename: Payam Barnaghi
+      completename:
+        content: Payam Barnaghi
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2017-09-28'
@@ -66,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

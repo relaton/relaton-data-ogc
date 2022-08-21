@@ -1,20 +1,20 @@
 ---
 id: 02-058
 title:
-- type: title-main
-  content: Web Feature Service (Transactional)
+- content: Web Feature Service (Transactional)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Web Feature Service (Transactional)
+  type: title-main
+- content: Web Feature Service (Transactional)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=7176
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Vretanos
+      completename:
+        content: Peter Vretanos
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2002-05-17'
@@ -50,7 +51,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: profile
 editorialgroup:

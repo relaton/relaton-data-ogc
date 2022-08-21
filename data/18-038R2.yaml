@@ -1,20 +1,20 @@
 ---
 id: 18-038r2
 title:
-- type: title-main
-  content: 'OGC Testbed-14: Machine Learning Engineering Report'
+- content: 'OGC Testbed-14: Machine Learning Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-14: Machine Learning Engineering Report'
+  type: title-main
+- content: 'OGC Testbed-14: Machine Learning Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-038r2.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Tom Landry
+      completename:
+        content: Tom Landry
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

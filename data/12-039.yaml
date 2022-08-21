@@ -1,27 +1,27 @@
 ---
 id: 12-039
 title:
-- type: title-intro
-  content: OGC® Web Coverage Service Interface Standard
+- content: OGC® Web Coverage Service Interface Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: " Scaling Extension"
+  type: title-intro
+- content: " Scaling Extension"
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Web Coverage Service Interface Standard -  Scaling Extension
+  type: title-main
+- content: OGC® Web Coverage Service Interface Standard -  Scaling Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=54504
   type: obp
@@ -36,17 +36,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - person:
     name:
-      completename: Jinsongdi Yu
+      completename:
+        content: Jinsongdi Yu
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2014-02-26'
@@ -63,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: extension
 editorialgroup:

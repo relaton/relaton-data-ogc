@@ -1,20 +1,20 @@
 ---
 id: 01-029
 title:
-- type: title-main
-  content: Geography Markup Language
+- content: Geography Markup Language
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Geography Markup Language
+  type: title-main
+- content: Geography Markup Language
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=1034
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Ron Lake
+      completename:
+        content: Ron Lake
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2001-02-20'
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

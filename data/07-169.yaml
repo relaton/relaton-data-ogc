@@ -1,20 +1,20 @@
 ---
 id: 07-169
 title:
-- type: title-main
-  content: OWS-5 WCS JPIP Coverage Subsetting Engineering Report
+- content: OWS-5 WCS JPIP Coverage Subsetting Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-5 WCS JPIP Coverage Subsetting Engineering Report
+  type: title-main
+- content: OWS-5 WCS JPIP Coverage Subsetting Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=27047
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Steven Keens
+      completename:
+        content: Steven Keens
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2008-09-12'
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

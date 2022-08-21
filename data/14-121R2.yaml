@@ -1,20 +1,20 @@
 ---
 id: 14-121r2
 title:
-- type: title-main
-  content: 'OGC® Web Query Service '
+- content: 'OGC® Web Query Service '
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® Web Query Service '
+  type: title-main
+- content: 'OGC® Web Query Service '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=72295
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

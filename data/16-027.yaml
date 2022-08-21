@@ -1,20 +1,20 @@
 ---
 id: 16-027
 title:
-- type: title-main
-  content: Testbed-12 Web Service Implementation Engineering Report
+- content: Testbed-12 Web Service Implementation Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Testbed-12 Web Service Implementation Engineering Report
+  type: title-main
+- content: Testbed-12 Web Service Implementation Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/16-027.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Johannes Echterhoff
+      completename:
+        content: Johannes Echterhoff
   role:
   - author
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2017-05-12'
@@ -88,7 +90,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

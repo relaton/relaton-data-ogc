@@ -1,22 +1,22 @@
 ---
 id: 07-010
 title:
-- type: title-main
-  content: 'Revision Notes for Corrigendum for OpenGIS 07-006: Catalogue Services,
+- content: 'Revision Notes for Corrigendum for OpenGIS 07-006: Catalogue Services,
     Version 2.0.2'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Revision Notes for Corrigendum for OpenGIS 07-006: Catalogue Services,
+  type: title-main
+- content: 'Revision Notes for Corrigendum for OpenGIS 07-006: Catalogue Services,
     Version 2.0.2'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=20561
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Doug Nebert
+      completename:
+        content: Doug Nebert
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2007-06-19'
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

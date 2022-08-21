@@ -1,20 +1,20 @@
 ---
 id: 13-043
 title:
-- type: title-main
-  content: OGC Download Service for Earth Observation Products Best Practice
+- content: OGC Download Service for Earth Observation Products Best Practice
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Download Service for Earth Observation Products Best Practice
+  type: title-main
+- content: OGC Download Service for Earth Observation Products Best Practice
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=55210
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Daniele Marchionni
+      completename:
+        content: Daniele Marchionni
   role:
   - author
 - person:
     name:
-      completename: Raul Cafini
+      completename:
+        content: Raul Cafini
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2014-01-31'
@@ -67,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

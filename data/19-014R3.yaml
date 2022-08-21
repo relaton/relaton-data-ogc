@@ -1,27 +1,27 @@
 ---
 id: 19-014r3
 title:
-- type: title-intro
-  content: Topic 22
+- content: Topic 22
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Core Tiling Conceptual and Logical Models for 2D Euclidean Space
+  type: title-intro
+- content: Core Tiling Conceptual and Logical Models for 2D Euclidean Space
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 22 - Core Tiling Conceptual and Logical Models for 2D Euclidean Space
+  type: title-main
+- content: Topic 22 - Core Tiling Conceptual and Logical Models for 2D Euclidean Space
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/as/19-014r3/19-014r3.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -63,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

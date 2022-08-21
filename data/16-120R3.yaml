@@ -1,20 +1,20 @@
 ---
 id: 16-120r3
 title:
-- type: title-main
-  content: OGC Moving Features Access
+- content: OGC Moving Features Access
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Moving Features Access
+  type: title-main
+- content: OGC Moving Features Access
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/16-120r3/16-120r3.html
   type: obp
@@ -29,32 +29,37 @@ date:
 contributor:
 - person:
     name:
-      completename: Hideki Hayashi
+      completename:
+        content: Hideki Hayashi
   role:
   - author
 - person:
     name:
-      completename: Akinori Asahara
+      completename:
+        content: Akinori Asahara
   role:
   - author
 - person:
     name:
-      completename: Kyoung-Sook Kim
+      completename:
+        content: Kyoung-Sook Kim
   role:
   - author
 - person:
     name:
-      completename: Ryosuke Shibasaki
+      completename:
+        content: Ryosuke Shibasaki
   role:
   - author
 - person:
     name:
-      completename: Nobuhiro Ishimaru
+      completename:
+        content: Nobuhiro Ishimaru
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -95,7 +100,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

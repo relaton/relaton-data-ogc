@@ -1,20 +1,20 @@
 ---
 id: 19-007
 title:
-- type: title-main
-  content: OGC CDB Vector Data in GeoPackage Interoperability Experiment
+- content: OGC CDB Vector Data in GeoPackage Interoperability Experiment
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC CDB Vector Data in GeoPackage Interoperability Experiment
+  type: title-main
+- content: OGC CDB Vector Data in GeoPackage Interoperability Experiment
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-007.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-08-20'
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

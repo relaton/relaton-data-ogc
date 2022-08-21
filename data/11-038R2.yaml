@@ -1,22 +1,22 @@
 ---
 id: 11-038R2
 title:
-- type: title-main
-  content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
+- content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
     Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
+  type: title-main
+- content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
     Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=50294
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Ben Domenico
+      completename:
+        content: Ben Domenico
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2012-10-02'
@@ -64,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

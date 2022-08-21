@@ -1,27 +1,27 @@
 ---
 id: '08-103r2'
 title:
-- type: title-main
-  content: CSW-ebRIM Registry Service
+- content: CSW-ebRIM Registry Service
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: 'Part 3: Abstract Test Suite'
+  type: title-main
+- content: 'Part 3: Abstract Test Suite'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'CSW-ebRIM Registry Service - Part 3: Abstract Test Suite'
+  type: title-part
+- content: 'CSW-ebRIM Registry Service - Part 3: Abstract Test Suite'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=31139
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Richard Martell
+      completename:
+        content: Richard Martell
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -64,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

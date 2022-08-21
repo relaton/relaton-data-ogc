@@ -1,20 +1,20 @@
 ---
 id: 16-068r4
 title:
-- type: title-main
-  content: Testbed-12 Vector Tiling Engineering Report
+- content: Testbed-12 Vector Tiling Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Testbed-12 Vector Tiling Engineering Report
+  type: title-main
+- content: Testbed-12 Vector Tiling Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/16-068r4.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Daniel Balog
+      completename:
+        content: Daniel Balog
   role:
   - author
 - person:
     name:
-      completename: Robin Houtmeyers
+      completename:
+        content: Robin Houtmeyers
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -86,7 +88,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

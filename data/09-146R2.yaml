@@ -1,20 +1,20 @@
 ---
 id: '09-146r2'
 title:
-- type: title-main
-  content: OGC® Coverage Implementation Schema
+- content: OGC® Coverage Implementation Schema
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Coverage Implementation Schema
+  type: title-main
+- content: OGC® Coverage Implementation Schema
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=48553
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: profile
 editorialgroup:

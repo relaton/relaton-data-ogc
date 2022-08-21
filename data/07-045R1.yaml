@@ -1,28 +1,28 @@
 ---
 id: 07-045r1
 title:
-- type: title-intro
-  content: OpenGIS® Catalogue Services Specification 2.0.2
+- content: OpenGIS® Catalogue Services Specification 2.0.2
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: 'ISO Metadata Application Profile: Corrigendum'
+  type: title-intro
+- content: 'ISO Metadata Application Profile: Corrigendum'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OpenGIS® Catalogue Services Specification 2.0.2 - ISO Metadata Application
+  type: title-main
+- content: 'OpenGIS® Catalogue Services Specification 2.0.2 - ISO Metadata Application
     Profile: Corrigendum'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=77949
   type: obp
@@ -37,17 +37,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Uwe Voges
+      completename:
+        content: Uwe Voges
   role:
   - author
 - person:
     name:
-      completename: Kristian Senkler
+      completename:
+        content: Kristian Senkler
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -99,7 +101,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

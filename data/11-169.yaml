@@ -1,20 +1,20 @@
 ---
 id: 11-169
 title:
-- type: title-main
-  content: Lightweight SOS Profile for Stationary In-Situ Sensors Discussion Paper
+- content: Lightweight SOS Profile for Stationary In-Situ Sensors Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Lightweight SOS Profile for Stationary In-Situ Sensors Discussion Paper
+  type: title-main
+- content: Lightweight SOS Profile for Stationary In-Situ Sensors Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=46693
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Simon Jirka
+      completename:
+        content: Simon Jirka
   role:
   - author
 - person:
     name:
-      completename: Christoph Stasch
+      completename:
+        content: Christoph Stasch
   role:
   - author
 - person:
     name:
-      completename: Arne Bröring
+      completename:
+        content: Arne Bröring
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2011-12-19'
@@ -69,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

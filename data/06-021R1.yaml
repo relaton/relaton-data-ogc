@@ -1,20 +1,20 @@
 ---
 id: 06-021r1
 title:
-- type: title-main
-  content: OpenGIS Sensor Web Enablement Architecture Document
+- content: OpenGIS Sensor Web Enablement Architecture Document
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Sensor Web Enablement Architecture Document
+  type: title-main
+- content: OpenGIS Sensor Web Enablement Architecture Document
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=14140
   type: obp
@@ -29,27 +29,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Mike Botts
+      completename:
+        content: Mike Botts
   role:
   - author
 - person:
     name:
-      completename: Alex Robin
+      completename:
+        content: Alex Robin
   role:
   - author
 - person:
     name:
-      completename: John Davidson
+      completename:
+        content: John Davidson
   role:
   - author
 - person:
     name:
-      completename: Ingo Simonis
+      completename:
+        content: Ingo Simonis
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -72,7 +76,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

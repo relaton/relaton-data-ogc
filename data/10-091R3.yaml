@@ -1,20 +1,20 @@
 ---
 id: 10-091r3
 title:
-- type: title-main
-  content: CF-netCDF Core and Extensions Primer
+- content: CF-netCDF Core and Extensions Primer
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CF-netCDF Core and Extensions Primer
+  type: title-main
+- content: CF-netCDF Core and Extensions Primer
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=43733
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Ben Domenico
+      completename:
+        content: Ben Domenico
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -53,7 +54,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

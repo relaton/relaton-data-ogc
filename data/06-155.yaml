@@ -1,20 +1,20 @@
 ---
 id: 06-155
 title:
-- type: title-main
-  content: OWS-4 CSW ebRIM Modelling Guidelines IPR
+- content: OWS-4 CSW ebRIM Modelling Guidelines IPR
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-4 CSW ebRIM Modelling Guidelines IPR
+  type: title-main
+- content: OWS-4 CSW ebRIM Modelling Guidelines IPR
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=20430
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Tim Wilson
+      completename:
+        content: Tim Wilson
   role:
   - author
 - person:
     name:
-      completename: Renato Primavera
+      completename:
+        content: Renato Primavera
   role:
   - author
 - person:
     name:
-      completename: Panagiotis (Peter) A. Vretanos
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2007-06-06'
@@ -65,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 05-077r4
 title:
-- type: title-main
-  content: OpenGIS Symbology Encoding Implementation Specification
+- content: OpenGIS Symbology Encoding Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Symbology Encoding Implementation Specification
+  type: title-main
+- content: OpenGIS Symbology Encoding Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=16700
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Dr. Markus Mueller
+      completename:
+        content: Dr. Markus Mueller
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -1,27 +1,27 @@
 ---
 id: 16-140r1
 title:
-- type: title-intro
-  content: OGC Moving Features Encoding Extension
+- content: OGC Moving Features Encoding Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: JSON
+  type: title-intro
+- content: JSON
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Moving Features Encoding Extension - JSON
+  type: title-main
+- content: OGC Moving Features Encoding Extension - JSON
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/16-140r1/16-140r1.html
   type: obp
@@ -36,17 +36,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Kyoung-Sook KIM
+      completename:
+        content: Kyoung-Sook KIM
   role:
   - author
 - person:
     name:
-      completename: Hirotaka OGAWA
+      completename:
+        content: Hirotaka OGAWA
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -72,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

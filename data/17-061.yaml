@@ -1,20 +1,20 @@
 ---
 id: 17-061
 title:
-- type: title-main
-  content: FGDC OGC Application Programming Interface Interoperability Assessment
+- content: FGDC OGC Application Programming Interface Interoperability Assessment
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: FGDC OGC Application Programming Interface Interoperability Assessment
+  type: title-main
+- content: FGDC OGC Application Programming Interface Interoperability Assessment
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/17-061
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Terry Idol
+      completename:
+        content: Terry Idol
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-05-12'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

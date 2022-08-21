@@ -1,20 +1,20 @@
 ---
 id: 21-077
 title:
-- type: title-main
-  content: The HDF5 profile for labeled point cloud data
+- content: The HDF5 profile for labeled point cloud data
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: The HDF5 profile for labeled point cloud data
+  type: title-main
+- content: The HDF5 profile for labeled point cloud data
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/21-077.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Taehoon Kim
+      completename:
+        content: Taehoon Kim
   role:
   - author
 - person:
     name:
-      completename: Wijae Cho
+      completename:
+        content: Wijae Cho
   role:
   - author
 - person:
     name:
-      completename: Kyoung-Sook Kim
+      completename:
+        content: Kyoung-Sook Kim
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2022-05-06'
@@ -76,7 +79,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

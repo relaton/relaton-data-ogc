@@ -1,27 +1,27 @@
 ---
 id: 10-130
 title:
-- type: title-intro
-  content: OWS-7 Aviation
+- content: OWS-7 Aviation
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: FUSE Deployment Engineering Report
+  type: title-intro
+- content: FUSE Deployment Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-7 Aviation - FUSE Deployment Engineering Report
+  type: title-main
+- content: OWS-7 Aviation - FUSE Deployment Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=40114
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Debbie Wilson
+      completename:
+        content: Debbie Wilson
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2010-08-18'
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

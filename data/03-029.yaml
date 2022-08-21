@@ -1,20 +1,20 @@
 ---
 id: 03-029
 title:
-- type: title-main
-  content: OWS Messaging Framework
+- content: OWS Messaging Framework
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS Messaging Framework
+  type: title-main
+- content: OWS Messaging Framework
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=1315
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Stephane Fellah
+      completename:
+        content: Stephane Fellah
   role:
   - author
 - person:
     name:
-      completename: Steven Keens
+      completename:
+        content: Steven Keens
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2003-01-20'
@@ -60,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

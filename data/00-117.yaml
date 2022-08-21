@@ -1,27 +1,27 @@
 ---
 id: 00-117
 title:
-- type: title-intro
-  content: Topic 17
+- content: Topic 17
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Location Based Mobile Services
+  type: title-intro
+- content: Location Based Mobile Services
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 17 - Location Based Mobile Services
+  type: title-main
+- content: Topic 17 - Location Based Mobile Services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=988
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Cliff Kottman
+      completename:
+        content: Cliff Kottman
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2000-05-15'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

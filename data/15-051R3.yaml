@@ -1,22 +1,22 @@
 ---
 id: 15-051r3
 title:
-- type: title-main
-  content: 'Testbed-11 OGC IP Engineering Report Geo4NIEM Architecture Design and
+- content: 'Testbed-11 OGC IP Engineering Report Geo4NIEM Architecture Design and
     Implementation Guidance and Fact Sheet '
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Testbed-11 OGC IP Engineering Report Geo4NIEM Architecture Design and
+  type: title-main
+- content: 'Testbed-11 OGC IP Engineering Report Geo4NIEM Architecture Design and
     Implementation Guidance and Fact Sheet '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=65419
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jeff Harrison
+      completename:
+        content: Jeff Harrison
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -74,7 +75,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

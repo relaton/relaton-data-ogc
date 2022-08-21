@@ -1,20 +1,20 @@
 ---
 id: '09-156r2'
 title:
-- type: title-main
-  content: 'Ocean Science Interoperability Experiment Phase II Report '
+- content: 'Ocean Science Interoperability Experiment Phase II Report '
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Ocean Science Interoperability Experiment Phase II Report '
+  type: title-main
+- content: 'Ocean Science Interoperability Experiment Phase II Report '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=37373
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Luis Bermudez
+      completename:
+        content: Luis Bermudez
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,28 +1,28 @@
 ---
 id: 15-075r1
 title:
-- type: title-intro
-  content: A Use-Case for Mobile Location Services with IndoorGML
+- content: A Use-Case for Mobile Location Services with IndoorGML
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Indoor Navigation for Visually Impaired People
+  type: title-intro
+- content: Indoor Navigation for Visually Impaired People
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: A Use-Case for Mobile Location Services with IndoorGML - Indoor Navigation
+  type: title-main
+- content: A Use-Case for Mobile Location Services with IndoorGML - Indoor Navigation
     for Visually Impaired People
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=64644
   type: obp
@@ -37,27 +37,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Ki-Joune Li
+      completename:
+        content: Ki-Joune Li
   role:
   - author
 - person:
     name:
-      completename: Hyung-Gyu Ryu
+      completename:
+        content: Hyung-Gyu Ryu
   role:
   - author
 - person:
     name:
-      completename: Taehoon Kim
+      completename:
+        content: Taehoon Kim
   role:
   - author
 - person:
     name:
-      completename: and Hack-Cheol Kim
+      completename:
+        content: and Hack-Cheol Kim
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -78,7 +82,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

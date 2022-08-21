@@ -1,28 +1,28 @@
 ---
 id: 10-140r2
 title:
-- type: title-intro
-  content: OGC® Web Coverage Service 2.0 Interface Standard
+- content: OGC® Web Coverage Service 2.0 Interface Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Earth Observation Application Profile
+  type: title-intro
+- content: Earth Observation Application Profile
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Web Coverage Service 2.0 Interface Standard - Earth Observation Application
+  type: title-main
+- content: OGC® Web Coverage Service 2.0 Interface Standard - Earth Observation Application
     Profile
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/10-140r2/10-140r2.html
   type: obp
@@ -37,22 +37,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - person:
     name:
-      completename: Stephan Meissl
+      completename:
+        content: Stephan Meissl
   role:
   - author
 - person:
     name:
-      completename: Jinsongdi Yu
+      completename:
+        content: Jinsongdi Yu
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -71,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

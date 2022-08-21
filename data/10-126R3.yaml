@@ -1,20 +1,20 @@
 ---
 id: 10-126r3
 title:
-- type: title-main
-  content: 'OGC® WaterML 2.0: Part 1- Timeseries'
+- content: 'OGC® WaterML 2.0: Part 1- Timeseries'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® WaterML 2.0: Part 1- Timeseries'
+  type: title-main
+- content: 'OGC® WaterML 2.0: Part 1- Timeseries'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=48531
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Taylor
+      completename:
+        content: Peter Taylor
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

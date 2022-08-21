@@ -1,20 +1,20 @@
 ---
 id: 11-039r2
 title:
-- type: title-main
-  content: 'HY_Features: a Common Hydrologic Feature Model Discussion Paper'
+- content: 'HY_Features: a Common Hydrologic Feature Model Discussion Paper'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'HY_Features: a Common Hydrologic Feature Model Discussion Paper'
+  type: title-main
+- content: 'HY_Features: a Common Hydrologic Feature Model Discussion Paper'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=47831
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Rob Atkinson
+      completename:
+        content: Rob Atkinson
   role:
   - author
 - person:
     name:
-      completename: Irina Dornblut
+      completename:
+        content: Irina Dornblut
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -62,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

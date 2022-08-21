@@ -1,20 +1,20 @@
 ---
 id: 11-014r3
 title:
-- type: title-main
-  content: OGC Open Modelling Interface Interface Standard
+- content: OGC Open Modelling Interface Interface Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Open Modelling Interface Interface Standard
+  type: title-main
+- content: OGC Open Modelling Interface Interface Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=59022
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Stanislav Vanecek
+      completename:
+        content: Stanislav Vanecek
   role:
   - author
 - person:
     name:
-      completename: Roger Moore
+      completename:
+        content: Roger Moore
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -74,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

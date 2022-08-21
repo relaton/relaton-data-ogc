@@ -1,22 +1,22 @@
 ---
 id: 10-189r2
 title:
-- type: title-main
-  content: Cataloguing Earth Observation Products for ebXML Registry Information Model
+- content: Cataloguing Earth Observation Products for ebXML Registry Information Model
     3.0 based Catalogues
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Cataloguing Earth Observation Products for ebXML Registry Information Model
+  type: title-main
+- content: Cataloguing Earth Observation Products for ebXML Registry Information Model
     3.0 based Catalogues
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=47409
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Frédéric Houbie; Fabian Skivee
+      completename:
+        content: Frédéric Houbie; Fabian Skivee
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

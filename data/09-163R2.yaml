@@ -1,20 +1,20 @@
 ---
 id: '09-163r2'
 title:
-- type: title-main
-  content: sensorML Extension Package for ebRIM Application Profile
+- content: sensorML Extension Package for ebRIM Application Profile
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: sensorML Extension Package for ebRIM Application Profile
+  type: title-main
+- content: sensorML Extension Package for ebRIM Application Profile
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=37944
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Fre&#769;de&#769;ric Houbie
+      completename:
+        content: Fre&#769;de&#769;ric Houbie
   role:
   - author
 - person:
     name:
-      completename: Fabian Skive&#769;e
+      completename:
+        content: Fabian Skive&#769;e
   role:
   - author
 - person:
     name:
-      completename: Simon Jirka
+      completename:
+        content: Simon Jirka
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -69,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

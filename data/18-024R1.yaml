@@ -1,20 +1,20 @@
 ---
 id: 18-024r1
 title:
-- type: title-main
-  content: Release Notes for OGC GeoPackage Encoding Standard v1.2.1
+- content: Release Notes for OGC GeoPackage Encoding Standard v1.2.1
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Release Notes for OGC GeoPackage Encoding Standard v1.2.1
+  type: title-main
+- content: Release Notes for OGC GeoPackage Encoding Standard v1.2.1
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/18-024r1
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jeff Yutzler
+      completename:
+        content: Jeff Yutzler
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -58,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

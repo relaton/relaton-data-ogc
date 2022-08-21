@@ -1,22 +1,22 @@
 ---
 id: '08-091r6'
 title:
-- type: title-main
-  content: Corrigendum for OpenGIS Implementation Standard Web Processing Service
+- content: Corrigendum for OpenGIS Implementation Standard Web Processing Service
     (WPS) 1.0.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Corrigendum for OpenGIS Implementation Standard Web Processing Service
+  type: title-main
+- content: Corrigendum for OpenGIS Implementation Standard Web Processing Service
     (WPS) 1.0.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=32766
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Schut
+      completename:
+        content: Peter Schut
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

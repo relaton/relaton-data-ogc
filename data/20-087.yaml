@@ -1,20 +1,20 @@
 ---
 id: 20-087
 title:
-- type: title-main
-  content: Interoperable Simulation and Gaming Sprint Engineering Report
+- content: Interoperable Simulation and Gaming Sprint Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Interoperable Simulation and Gaming Sprint Engineering Report
+  type: title-main
+- content: Interoperable Simulation and Gaming Sprint Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/20-087.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Leonard Daly
+      completename:
+        content: Leonard Daly
   role:
   - author
 - person:
     name:
-      completename: Scott Serich
+      completename:
+        content: Scott Serich
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-01-26'
@@ -60,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

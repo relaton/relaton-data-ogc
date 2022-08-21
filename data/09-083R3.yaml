@@ -1,20 +1,20 @@
 ---
 id: '09-083r3'
 title:
-- type: title-main
-  content: GeoAPI 3.0 Implementation Standard
+- content: GeoAPI 3.0 Implementation Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: GeoAPI 3.0 Implementation Standard
+  type: title-main
+- content: GeoAPI 3.0 Implementation Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=39397
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Adrian Custer
+      completename:
+        content: Adrian Custer
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -60,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

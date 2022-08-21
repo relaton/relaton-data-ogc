@@ -1,22 +1,22 @@
 ---
 id: 18-097
 title:
-- type: title-main
-  content: OGC Environmental Linked Features Interoperability Experiment Engineering
+- content: OGC Environmental Linked Features Interoperability Experiment Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Environmental Linked Features Interoperability Experiment Engineering
+  type: title-main
+- content: OGC Environmental Linked Features Interoperability Experiment Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-097.html
   type: obp
@@ -31,37 +31,43 @@ date:
 contributor:
 - person:
     name:
-      completename: David Blodgett
+      completename:
+        content: David Blodgett
   role:
   - author
 - person:
     name:
-      completename: Byron Cochrane
+      completename:
+        content: Byron Cochrane
   role:
   - author
 - person:
     name:
-      completename: Rob Atkinson
+      completename:
+        content: Rob Atkinson
   role:
   - author
 - person:
     name:
-      completename: Sylvain Grellet
+      completename:
+        content: Sylvain Grellet
   role:
   - author
 - person:
     name:
-      completename: Abdelfettah Feliachi
+      completename:
+        content: Abdelfettah Feliachi
   role:
   - author
 - person:
     name:
-      completename: Alistair Ritchi
+      completename:
+        content: Alistair Ritchi
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-02-11'
@@ -96,7 +102,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

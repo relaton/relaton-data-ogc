@@ -1,20 +1,20 @@
 ---
 id: 15-003
 title:
-- type: title-main
-  content: OGC Common DataBase Volume 1 Main Body
+- content: OGC Common DataBase Volume 1 Main Body
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Common DataBase Volume 1 Main Body
+  type: title-main
+- content: OGC Common DataBase Volume 1 Main Body
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=61935
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: David Graham
+      completename:
+        content: David Graham
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2015-07-22'
@@ -82,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

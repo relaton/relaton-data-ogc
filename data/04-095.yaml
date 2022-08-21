@@ -1,20 +1,20 @@
 ---
 id: 04-095
 title:
-- type: title-main
-  content: OpenGIS Filter Encoding Implementation Specification
+- content: OpenGIS Filter Encoding Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Filter Encoding Implementation Specification
+  type: title-main
+- content: OpenGIS Filter Encoding Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=8340
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Vretanos
+      completename:
+        content: Peter Vretanos
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2005-05-03'
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

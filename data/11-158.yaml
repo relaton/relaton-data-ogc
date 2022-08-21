@@ -1,28 +1,28 @@
 ---
 id: 11-158
 title:
-- type: title-intro
-  content: Corrigendum 2 for OGC Web Services Common Specification v 1.1.0
+- content: Corrigendum 2 for OGC Web Services Common Specification v 1.1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Exception Report
+  type: title-intro
+- content: Exception Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Corrigendum 2 for OGC Web Services Common Specification v 1.1.0 - Exception
+  type: title-main
+- content: Corrigendum 2 for OGC Web Services Common Specification v 1.1.0 - Exception
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=46436
   type: obp
@@ -37,12 +37,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jim Greenwood
+      completename:
+        content: Jim Greenwood
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2011-10-18'
@@ -63,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

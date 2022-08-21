@@ -1,35 +1,35 @@
 ---
 id: 14-111r6
 title:
-- type: title-intro
-  content: 'OGC® WaterML 2: Part 3'
+- content: 'OGC® WaterML 2: Part 3'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Surface Hydrology Features (HY_Features)
+  type: title-intro
+- content: Surface Hydrology Features (HY_Features)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Conceptual Model
+  type: title-main
+- content: Conceptual Model
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® WaterML 2: Part 3 - Surface Hydrology Features (HY_Features) - Conceptual
+  type: title-part
+- content: 'OGC® WaterML 2: Part 3 - Surface Hydrology Features (HY_Features) - Conceptual
     Model'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/14-111r6/14-111r6.html
   type: obp
@@ -44,17 +44,19 @@ date:
 contributor:
 - person:
     name:
-      completename: David Blodgett
+      completename:
+        content: David Blodgett
   role:
   - author
 - person:
     name:
-      completename: Irina Dornblut
+      completename:
+        content: Irina Dornblut
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -88,7 +90,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -1,27 +1,27 @@
 ---
 id: 05-101
 title:
-- type: title-intro
-  content: OWS 3 GML Investigations
+- content: OWS 3 GML Investigations
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Performance Experiment by Galdos Systems
+  type: title-intro
+- content: Performance Experiment by Galdos Systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS 3 GML Investigations - Performance Experiment by Galdos Systems
+  type: title-main
+- content: OWS 3 GML Investigations - Performance Experiment by Galdos Systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=13396
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: David Burggraf
+      completename:
+        content: David Burggraf
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2006-04-19'
@@ -60,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

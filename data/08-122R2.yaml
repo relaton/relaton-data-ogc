@@ -1,20 +1,20 @@
 ---
 id: '08-122r2'
 title:
-- type: title-main
-  content: Uncertainty Markup Language (UnCertML)
+- content: Uncertainty Markup Language (UnCertML)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Uncertainty Markup Language (UnCertML)
+  type: title-main
+- content: Uncertainty Markup Language (UnCertML)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=33234
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Matthew Williams
+      completename:
+        content: Matthew Williams
   role:
   - author
 - person:
     name:
-      completename: Dan Cornford
+      completename:
+        content: Dan Cornford
   role:
   - author
 - person:
     name:
-      completename: Lucy Bastin & Edzer Pebesma
+      completename:
+        content: Lucy Bastin & Edzer Pebesma
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -63,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

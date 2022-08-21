@@ -1,20 +1,20 @@
 ---
 id: 05-110
 title:
-- type: title-main
-  content: Feature Portrayal Service
+- content: Feature Portrayal Service
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Feature Portrayal Service
+  type: title-main
+- content: Feature Portrayal Service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=13186
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Arliss Whiteside
+      completename:
+        content: Arliss Whiteside
   role:
   - author
 - person:
     name:
-      completename: Bill Woodward
+      completename:
+        content: Bill Woodward
   role:
   - author
 - person:
     name:
-      completename: co-editor
+      completename:
+        content: co-editor
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2006-04-19'
@@ -62,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 05-047r3
 title:
-- type: title-main
-  content: OpenGIS GML in JPEG 2000 for Geographic Imagery  Encoding Specification
+- content: OpenGIS GML in JPEG 2000 for Geographic Imagery  Encoding Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS GML in JPEG 2000 for Geographic Imagery  Encoding Specification
+  type: title-main
+- content: OpenGIS GML in JPEG 2000 for Geographic Imagery  Encoding Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=13252
   type: obp
@@ -29,27 +29,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Martin Kyle
+      completename:
+        content: Martin Kyle
   role:
   - author
 - person:
     name:
-      completename: David Burggraf
+      completename:
+        content: David Burggraf
   role:
   - author
 - person:
     name:
-      completename: Sean Forde
+      completename:
+        content: Sean Forde
   role:
   - author
 - person:
     name:
-      completename: Ron Lake
+      completename:
+        content: Ron Lake
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -74,7 +78,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

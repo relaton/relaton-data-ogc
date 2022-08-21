@@ -1,20 +1,20 @@
 ---
 id: 14-095
 title:
-- type: title-main
-  content: OGC Information Technology Standards for Sustainable Development
+- content: OGC Information Technology Standards for Sustainable Development
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Information Technology Standards for Sustainable Development
+  type: title-main
+- content: OGC Information Technology Standards for Sustainable Development
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=60920
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Lance McKee
+      completename:
+        content: Lance McKee
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2015-01-23'
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

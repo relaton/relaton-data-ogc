@@ -1,20 +1,20 @@
 ---
 id: 05-111r2
 title:
-- type: title-main
-  content: Access Control & Terms of Use (ToU)  "Click-through" IPR Management
+- content: Access Control & Terms of Use (ToU)  "Click-through" IPR Management
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Access Control & Terms of Use (ToU)  "Click-through" IPR Management
+  type: title-main
+- content: Access Control & Terms of Use (ToU)  "Click-through" IPR Management
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=13958
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Roland M. Wagner
+      completename:
+        content: Roland M. Wagner
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -53,7 +54,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 20-059r4
 title:
-- type: title-main
-  content: Naming of OGC API Standards, Repositories & Specification Elements
+- content: Naming of OGC API Standards, Repositories & Specification Elements
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Naming of OGC API Standards, Repositories & Specification Elements
+  type: title-main
+- content: Naming of OGC API Standards, Repositories & Specification Elements
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/pol/20-059r4.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Gobe Hobona
+      completename:
+        content: Gobe Hobona
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

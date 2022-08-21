@@ -1,22 +1,22 @@
 ---
 id: 16-070r4
 title:
-- type: title-main
-  content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
+- content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
     (Best Practice)'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
+  type: title-main
+- content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
     (Best Practice)'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/16-070r4.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

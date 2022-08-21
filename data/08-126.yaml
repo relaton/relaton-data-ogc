@@ -1,27 +1,27 @@
 ---
 id: '08-126'
 title:
-- type: title-intro
-  content: Topic 5
+- content: Topic 5
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Features
+  type: title-intro
+- content: Features
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 5 - Features
+  type: title-main
+- content: Topic 5 - Features
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=29536
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Cliff Kottman and Carl Reed
+      completename:
+        content: Cliff Kottman and Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2009-01-15'
@@ -58,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

@@ -1,22 +1,22 @@
 ---
 id: 21-019
 title:
-- type: title-main
-  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for
+- content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for
     implementing OGC Web APIs'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for
+  type: title-main
+- content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for
     implementing OGC Web APIs'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/21-019.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Aleksandar Balaban
+      completename:
+        content: Aleksandar Balaban
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2022-01-21'
@@ -64,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

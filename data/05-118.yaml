@@ -1,20 +1,20 @@
 ---
 id: 05-118
 title:
-- type: title-main
-  content: OGC Web Services (OWS) 3 UGAS Tool
+- content: OGC Web Services (OWS) 3 UGAS Tool
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Web Services (OWS) 3 UGAS Tool
+  type: title-main
+- content: OGC Web Services (OWS) 3 UGAS Tool
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=12894
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - person:
     name:
-      completename: Rafael Renkert
+      completename:
+        content: Rafael Renkert
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2006-04-28'
@@ -56,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

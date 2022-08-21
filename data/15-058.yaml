@@ -1,20 +1,20 @@
 ---
 id: 15-058
 title:
-- type: title-main
-  content: OGC® Testbed-11 Symbology Mediation
+- content: OGC® Testbed-11 Symbology Mediation
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Testbed-11 Symbology Mediation
+  type: title-main
+- content: OGC® Testbed-11 Symbology Mediation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=64385
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Stephane Fellah
+      completename:
+        content: Stephane Fellah
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2015-11-18'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 03-081r2
 title:
-- type: title-main
-  content: OpenGIS Web Terrain Service RFC
+- content: OpenGIS Web Terrain Service RFC
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Web Terrain Service RFC
+  type: title-main
+- content: OpenGIS Web Terrain Service RFC
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=11499
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Joshua Lieberman
+      completename:
+        content: Joshua Lieberman
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -62,7 +63,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
   committee: technical

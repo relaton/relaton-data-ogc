@@ -1,20 +1,20 @@
 ---
 id: 18-067r3
 title:
-- type: title-main
-  content: 'OGC Symbology Conceptual Model: Core Part'
+- content: 'OGC Symbology Conceptual Model: Core Part'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Symbology Conceptual Model: Core Part'
+  type: title-main
+- content: 'OGC Symbology Conceptual Model: Core Part'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/18-067r3/18-067r3.html
   type: obp
@@ -29,7 +29,7 @@ date:
 contributor:
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -50,7 +50,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

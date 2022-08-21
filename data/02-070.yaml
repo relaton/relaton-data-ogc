@@ -1,20 +1,20 @@
 ---
 id: 02-070
 title:
-- type: title-main
-  content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
+- content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
+  type: title-main
+- content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=1188
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Bill Lalonde
+      completename:
+        content: Bill Lalonde
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2002-08-19'
@@ -50,7 +51,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

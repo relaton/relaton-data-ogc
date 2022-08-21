@@ -1,27 +1,27 @@
 ---
 id: 10-155
 title:
-- type: title-intro
-  content: OWS-7
+- content: OWS-7
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Towards secure interconnection of OGC Web Services with SWIM
+  type: title-intro
+- content: Towards secure interconnection of OGC Web Services with SWIM
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-7 - Towards secure interconnection of OGC Web Services with SWIM
+  type: title-main
+- content: OWS-7 - Towards secure interconnection of OGC Web Services with SWIM
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=40144
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Andreas Matheus
+      completename:
+        content: Andreas Matheus
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2010-08-18'
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

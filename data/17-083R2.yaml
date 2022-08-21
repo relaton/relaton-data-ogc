@@ -1,20 +1,20 @@
 ---
 id: 17-083r2
 title:
-- type: title-main
-  content: OGC Two Dimensional Tile Matrix Set
+- content: OGC Two Dimensional Tile Matrix Set
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Two Dimensional Tile Matrix Set
+  type: title-main
+- content: OGC Two Dimensional Tile Matrix Set
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/17-083r2/17-083r2.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Joan Masó
+      completename:
+        content: Joan Masó
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -63,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

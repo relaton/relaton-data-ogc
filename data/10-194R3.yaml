@@ -1,20 +1,20 @@
 ---
 id: 10-194r3
 title:
-- type: title-main
-  content: OGC® Groundwater Interoperability Experiment FINAL REPORT
+- content: OGC® Groundwater Interoperability Experiment FINAL REPORT
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Groundwater Interoperability Experiment FINAL REPORT
+  type: title-main
+- content: OGC® Groundwater Interoperability Experiment FINAL REPORT
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=43545
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Boyan Brodaric
+      completename:
+        content: Boyan Brodaric
   role:
   - author
 - person:
     name:
-      completename: Nate Booth
+      completename:
+        content: Nate Booth
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -62,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

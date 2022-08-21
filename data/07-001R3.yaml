@@ -1,20 +1,20 @@
 ---
 id: 07-001r3
 title:
-- type: title-main
-  content: Requirements for some specific simple solid, plane and line geometry types
+- content: Requirements for some specific simple solid, plane and line geometry types
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Requirements for some specific simple solid, plane and line geometry types
+  type: title-main
+- content: Requirements for some specific simple solid, plane and line geometry types
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=21352
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Simon Cox
+      completename:
+        content: Simon Cox
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

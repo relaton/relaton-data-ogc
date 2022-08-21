@@ -1,27 +1,27 @@
 ---
 id: 12-176r7
 title:
-- type: title-intro
-  content: OGC® Catalogue Services 3.0 Specification
+- content: OGC® Catalogue Services 3.0 Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: HTTP Protocol Binding
+  type: title-intro
+- content: HTTP Protocol Binding
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Catalogue Services 3.0 Specification - HTTP Protocol Binding
+  type: title-main
+- content: OGC® Catalogue Services 3.0 Specification - HTTP Protocol Binding
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/12-176r7/12-176r7.html
   type: obp
@@ -36,32 +36,37 @@ date:
 contributor:
 - person:
     name:
-      completename: Doug Nebert
+      completename:
+        content: Doug Nebert
   role:
   - author
 - person:
     name:
-      completename: Uwe Voges
+      completename:
+        content: Uwe Voges
   role:
   - author
 - person:
     name:
-      completename: Panagiotis Vretanos
+      completename:
+        content: Panagiotis Vretanos
   role:
   - author
 - person:
     name:
-      completename: Lorenzo Bigagli
+      completename:
+        content: Lorenzo Bigagli
   role:
   - author
 - person:
     name:
-      completename: Bruce Westcott
+      completename:
+        content: Bruce Westcott
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -92,7 +97,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

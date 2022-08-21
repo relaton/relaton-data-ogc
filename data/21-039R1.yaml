@@ -1,20 +1,20 @@
 ---
 id: 21-039r1
 title:
-- type: title-main
-  content: 'OGC Testbed-17: Aviation API ER'
+- content: 'OGC Testbed-17: Aviation API ER'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-17: Aviation API ER'
+  type: title-main
+- content: 'OGC Testbed-17: Aviation API ER'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/21-039r1.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Sergio Taleisnik
+      completename:
+        content: Sergio Taleisnik
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -62,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

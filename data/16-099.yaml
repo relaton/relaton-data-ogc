@@ -1,28 +1,28 @@
 ---
 id: 16-099
 title:
-- type: title-intro
-  content: Future City Pilot 1
+- content: Future City Pilot 1
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Automating Urban Planning Using Web Processing Service Engineering Report
+  type: title-intro
+- content: Automating Urban Planning Using Web Processing Service Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Future City Pilot 1 - Automating Urban Planning Using Web Processing Service
+  type: title-main
+- content: Future City Pilot 1 - Automating Urban Planning Using Web Processing Service
     Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/16-099.html
   type: obp
@@ -37,12 +37,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Mohsen Kalantari
+      completename:
+        content: Mohsen Kalantari
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2017-10-20'
@@ -63,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

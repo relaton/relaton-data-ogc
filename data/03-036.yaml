@@ -1,20 +1,20 @@
 ---
 id: 03-036
 title:
-- type: title-main
-  content: Web Map Context Documents
+- content: Web Map Context Documents
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Web Map Context Documents
+  type: title-main
+- content: Web Map Context Documents
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=1306
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jean-Philippe Humblet
+      completename:
+        content: Jean-Philippe Humblet
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2003-01-21'
@@ -52,7 +53,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 editorialgroup:
   committee: technical

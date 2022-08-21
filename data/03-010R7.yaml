@@ -1,20 +1,20 @@
 ---
 id: 03-010r7
 title:
-- type: title-main
-  content: Recommended XML Encoding of CRS Definitions
+- content: Recommended XML Encoding of CRS Definitions
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Recommended XML Encoding of CRS Definitions
+  type: title-main
+- content: Recommended XML Encoding of CRS Definitions
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=1345
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Arliss Whiteside
+      completename:
+        content: Arliss Whiteside
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

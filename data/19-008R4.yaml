@@ -1,20 +1,20 @@
 ---
 id: 19-008r4
 title:
-- type: title-main
-  content: OGC GeoTIFF Standard
+- content: OGC GeoTIFF Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC GeoTIFF Standard
+  type: title-main
+- content: OGC GeoTIFF Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/19-008r4/19-008r4.html
   type: obp
@@ -29,32 +29,37 @@ date:
 contributor:
 - person:
     name:
-      completename: Emmanuel Devys
+      completename:
+        content: Emmanuel Devys
   role:
   - author
 - person:
     name:
-      completename: Ted Habermann
+      completename:
+        content: Ted Habermann
   role:
   - author
 - person:
     name:
-      completename: Chuck Heazel
+      completename:
+        content: Chuck Heazel
   role:
   - author
 - person:
     name:
-      completename: Roger Lott
+      completename:
+        content: Roger Lott
   role:
   - author
 - person:
     name:
-      completename: Even Rouault
+      completename:
+        content: Even Rouault
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -76,7 +81,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

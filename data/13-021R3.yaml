@@ -1,27 +1,27 @@
 ---
 id: 13-021r3
 title:
-- type: title-intro
-  content: WaterML2.0
+- content: WaterML2.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: 'part 2: Ratings, Gaugings and Sections Discussion Paper'
+  type: title-intro
+- content: 'part 2: Ratings, Gaugings and Sections Discussion Paper'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'WaterML2.0 - part 2: Ratings, Gaugings and Sections Discussion Paper'
+  type: title-main
+- content: 'WaterML2.0 - part 2: Ratings, Gaugings and Sections Discussion Paper'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=54423
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Taylor
+      completename:
+        content: Peter Taylor
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -63,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

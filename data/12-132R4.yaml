@@ -1,20 +1,20 @@
 ---
 id: 12-132r4
 title:
-- type: title-main
-  content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
+- content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
+  type: title-main
+- content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=62168
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Martin Lechner
+      completename:
+        content: Martin Lechner
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

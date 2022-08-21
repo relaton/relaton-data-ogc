@@ -1,20 +1,20 @@
 ---
 id: 10-192
 title:
-- type: title-main
-  content: 'Authentication IE Enginerring Report '
+- content: 'Authentication IE Enginerring Report '
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Authentication IE Enginerring Report '
+  type: title-main
+- content: 'Authentication IE Enginerring Report '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=41734
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jeff Harrison
+      completename:
+        content: Jeff Harrison
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2011-01-03'
@@ -53,7 +54,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

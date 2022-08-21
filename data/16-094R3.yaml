@@ -1,22 +1,22 @@
 ---
 id: 16-094r3
 title:
-- type: title-main
-  content: OGC GeoPackage Elevation Extension Interoperability Experiment Engineering
+- content: OGC GeoPackage Elevation Extension Interoperability Experiment Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC GeoPackage Elevation Extension Interoperability Experiment Engineering
+  type: title-main
+- content: OGC GeoPackage Elevation Extension Interoperability Experiment Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=70051
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Micah Brachman
+      completename:
+        content: Micah Brachman
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -62,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

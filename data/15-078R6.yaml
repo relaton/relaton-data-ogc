@@ -1,20 +1,20 @@
 ---
 id: 15-078r6
 title:
-- type: title-main
-  content: 'OGC SensorThings API Part 1: Sensing'
+- content: 'OGC SensorThings API Part 1: Sensing'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC SensorThings API Part 1: Sensing'
+  type: title-main
+- content: 'OGC SensorThings API Part 1: Sensing'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/15-078r6/15-078r6.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Steve Liang
+      completename:
+        content: Steve Liang
   role:
   - author
 - person:
     name:
-      completename: Chih-Yuan Huang
+      completename:
+        content: Chih-Yuan Huang
   role:
   - author
 - person:
     name:
-      completename: Tania Khalafbeigi
+      completename:
+        content: Tania Khalafbeigi
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -68,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

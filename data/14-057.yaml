@@ -1,28 +1,28 @@
 ---
 id: 14-057
 title:
-- type: title-intro
-  content: OGC® and Ordnance Survey
+- content: OGC® and Ordnance Survey
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: 'UK Interoperability Assessment Plugfest (UKIAP) Engineering Report '
+  type: title-intro
+- content: 'UK Interoperability Assessment Plugfest (UKIAP) Engineering Report '
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® and Ordnance Survey - UK Interoperability Assessment Plugfest (UKIAP)
+  type: title-main
+- content: 'OGC® and Ordnance Survey - UK Interoperability Assessment Plugfest (UKIAP)
     Engineering Report '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=61057
   type: obp
@@ -37,22 +37,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Bart De Lathouwer
+      completename:
+        content: Bart De Lathouwer
   role:
   - author
 - person:
     name:
-      completename: Peter Cotroneo
+      completename:
+        content: Peter Cotroneo
   role:
   - author
 - person:
     name:
-      completename: Paul Lacey
+      completename:
+        content: Paul Lacey
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2015-03-26'
@@ -75,7 +78,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

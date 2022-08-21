@@ -1,20 +1,20 @@
 ---
 id: '09-018'
 title:
-- type: title-main
-  content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
+- content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
+  type: title-main
+- content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=32195
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Ben Domenico
+      completename:
+        content: Ben Domenico
   role:
   - author
 - person:
     name:
-      completename: Stefano Nativi
+      completename:
+        content: Stefano Nativi
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2009-04-08'
@@ -60,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

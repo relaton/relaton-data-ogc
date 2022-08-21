@@ -1,22 +1,22 @@
 ---
 id: 10-028r1
 title:
-- type: title-main
-  content: GIGAS Methodology for comparative analysis of information and data management
+- content: GIGAS Methodology for comparative analysis of information and data management
     systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: GIGAS Methodology for comparative analysis of information and data management
+  type: title-main
+- content: GIGAS Methodology for comparative analysis of information and data management
     systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=39475
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Andrea Biancalana
+      completename:
+        content: Andrea Biancalana
   role:
   - author
 - person:
     name:
-      completename: Pier Giorgio Marchetti
+      completename:
+        content: Pier Giorgio Marchetti
   role:
   - author
 - person:
     name:
-      completename: Paul Smits
+      completename:
+        content: Paul Smits
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +70,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

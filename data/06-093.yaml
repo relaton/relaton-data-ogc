@@ -1,27 +1,27 @@
 ---
 id: 06-093
 title:
-- type: title-intro
-  content: OpenGIS Web Map Services
+- content: OpenGIS Web Map Services
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Application Profile for EO Products
+  type: title-intro
+- content: Application Profile for EO Products
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Web Map Services - Application Profile for EO Products
+  type: title-main
+- content: OpenGIS Web Map Services - Application Profile for EO Products
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=16075
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Thomas H.G. Lankester
+      completename:
+        content: Thomas H.G. Lankester
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2006-10-24'
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

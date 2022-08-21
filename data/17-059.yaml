@@ -1,22 +1,22 @@
 ---
 id: 17-059
 title:
-- type: title-main
-  content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
+- content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
     (1.1.0) for OGC
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
+  type: title-main
+- content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
     (1.1.0) for OGC
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/17-059/17-059.html
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Lars Schylberg
+      completename:
+        content: Lars Schylberg
   role:
   - author
 - person:
     name:
-      completename: Lubos Belka
+      completename:
+        content: Lubos Belka
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2017-10-30'
@@ -67,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 10-036r2
 title:
-- type: title-main
-  content: OWS-7 Motion Video Change Detection
+- content: OWS-7 Motion Video Change Detection
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-7 Motion Video Change Detection
+  type: title-main
+- content: OWS-7 Motion Video Change Detection
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=40313
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Stan Tillman
+      completename:
+        content: Stan Tillman
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

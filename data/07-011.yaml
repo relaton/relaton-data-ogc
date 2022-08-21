@@ -1,27 +1,27 @@
 ---
 id: 07-011
 title:
-- type: title-intro
-  content: Topic 6
+- content: Topic 6
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Schema for coverage geometry and functions
+  type: title-intro
+- content: Schema for coverage geometry and functions
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 6 - Schema for coverage geometry and functions
+  type: title-main
+- content: Topic 6 - Schema for coverage geometry and functions
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=19820
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: OGC
+      completename:
+        content: OGC
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2007-12-28'
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

@@ -1,22 +1,22 @@
 ---
 id: 17-046
 title:
-- type: title-main
-  content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
+- content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
+  type: title-main
+- content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/17-046.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Volker Coors
+      completename:
+        content: Volker Coors
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2018-03-05'
@@ -70,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

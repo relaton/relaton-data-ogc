@@ -1,20 +1,20 @@
 ---
 id: 18-084
 title:
-- type: title-main
-  content: OGC Geospatial to the Edge Plugfest Engineering Report
+- content: OGC Geospatial to the Edge Plugfest Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Geospatial to the Edge Plugfest Engineering Report
+  type: title-main
+- content: OGC Geospatial to the Edge Plugfest Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-084.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Luis Bermudez
+      completename:
+        content: Luis Bermudez
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-01-20'
@@ -57,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

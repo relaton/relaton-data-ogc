@@ -1,28 +1,28 @@
 ---
 id: 11-122r1
 title:
-- type: title-intro
-  content: Gazetteer Service
+- content: Gazetteer Service
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Application Profile of the Web Feature Service Best Practice
+  type: title-intro
+- content: Application Profile of the Web Feature Service Best Practice
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Gazetteer Service - Application Profile of the Web Feature Service Best
+  type: title-main
+- content: Gazetteer Service - Application Profile of the Web Feature Service Best
     Practice
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=46964
   type: obp
@@ -37,17 +37,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Panagiotis (Peter) A. Vretanos
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
   role:
   - author
 - person:
     name:
-      completename: Jeff Harrison
+      completename:
+        content: Jeff Harrison
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -73,7 +75,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

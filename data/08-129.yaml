@@ -1,20 +1,20 @@
 ---
 id: '08-129'
 title:
-- type: title-main
-  content: GML 3.2 implementation of XML schemas in 07-002r3
+- content: GML 3.2 implementation of XML schemas in 07-002r3
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: GML 3.2 implementation of XML schemas in 07-002r3
+  type: title-main
+- content: GML 3.2 implementation of XML schemas in 07-002r3
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=29544
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Simon Cox
+      completename:
+        content: Simon Cox
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2009-03-06'
@@ -43,13 +44,12 @@ language:
 script:
 - Latn
 abstract:
-- content: ''
-  language:
+- language:
   - en
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 21-041r2
 title:
-- type: title-main
-  content: OGC Conceptual Modeling Discussion Paper
+- content: OGC Conceptual Modeling Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Conceptual Modeling Discussion Paper
+  type: title-main
+- content: OGC Conceptual Modeling Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/21-041r2.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Sam Meek
+      completename:
+        content: Sam Meek
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -79,7 +80,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

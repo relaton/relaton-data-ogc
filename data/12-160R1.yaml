@@ -1,20 +1,20 @@
 ---
 id: 12-160r1
 title:
-- type: title-main
-  content: OGC® OWS 9 Data Quality and Web Mapping Engineering Report
+- content: OGC® OWS 9 Data Quality and Web Mapping Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® OWS 9 Data Quality and Web Mapping Engineering Report
+  type: title-main
+- content: OGC® OWS 9 Data Quality and Web Mapping Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=52884
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Jon Blower
+      completename:
+        content: Jon Blower
   role:
   - author
 - person:
     name:
-      completename: Xiaoyu Yang
+      completename:
+        content: Xiaoyu Yang
   role:
   - author
 - person:
     name:
-      completename: Joan Masó and Simon Thum
+      completename:
+        content: Joan Masó and Simon Thum
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -65,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

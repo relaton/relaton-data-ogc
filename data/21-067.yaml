@@ -1,20 +1,20 @@
 ---
 id: 21-067
 title:
-- type: title-main
-  content: 'OGC: Towards Data Cube Interoperability'
+- content: 'OGC: Towards Data Cube Interoperability'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC: Towards Data Cube Interoperability'
+  type: title-main
+- content: 'OGC: Towards Data Cube Interoperability'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/21-067.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Ingo Simonis
+      completename:
+        content: Ingo Simonis
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-10-07'
@@ -66,7 +67,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

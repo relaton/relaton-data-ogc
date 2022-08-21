@@ -1,22 +1,22 @@
 ---
 id: 21-021
 title:
-- type: title-main
-  content: Health Spatial Data Infrastructure Concept Development Study Engineering
+- content: Health Spatial Data Infrastructure Concept Development Study Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Health Spatial Data Infrastructure Concept Development Study Engineering
+  type: title-main
+- content: Health Spatial Data Infrastructure Concept Development Study Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/21-021.html
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Alan Leidner
+      completename:
+        content: Alan Leidner
   role:
   - author
 - person:
     name:
-      completename: Mark Reichardt
+      completename:
+        content: Mark Reichardt
   role:
   - author
 - person:
     name:
-      completename: Josh Lieberman
+      completename:
+        content: Josh Lieberman
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2022-01-24'
@@ -70,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

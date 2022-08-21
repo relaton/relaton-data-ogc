@@ -1,20 +1,20 @@
 ---
 id: 20-072r2
 title:
-- type: title-main
-  content: OGC CityJSON Community Standard 1.0
+- content: OGC CityJSON Community Standard 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC CityJSON Community Standard 1.0
+  type: title-main
+- content: OGC CityJSON Community Standard 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/cs/20-072r2/20-072r2.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Hugo Ledoux
+      completename:
+        content: Hugo Ledoux
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -57,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: community-standard
 editorialgroup:
   committee: technical

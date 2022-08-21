@@ -1,22 +1,22 @@
 ---
 id: 15-053r1
 title:
-- type: title-main
-  content: OGC® Testbed 11 Implementing JSON/GeoJSON in an OGC Standard Engineering
+- content: OGC® Testbed 11 Implementing JSON/GeoJSON in an OGC Standard Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Testbed 11 Implementing JSON/GeoJSON in an OGC Standard Engineering
+  type: title-main
+- content: OGC® Testbed 11 Implementing JSON/GeoJSON in an OGC Standard Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=64595
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Joan Masó
+      completename:
+        content: Joan Masó
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -60,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

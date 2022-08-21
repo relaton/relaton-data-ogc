@@ -1,22 +1,22 @@
 ---
 id: 20-085r1
 title:
-- type: title-main
-  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
+- content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
     3D Modeling, Simulation, and Game Engines
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
+  type: title-main
+- content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
     3D Modeling, Simulation, and Game Engines
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://usgif.org/usgif_msgwg_ogc_technical_paper_march_2021/
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: USGIF & OGC
+      completename:
+        content: USGIF & OGC
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -57,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

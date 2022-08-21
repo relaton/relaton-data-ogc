@@ -1,22 +1,22 @@
 ---
 id: 17-086r3
 title:
-- type: title-main
-  content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
+- content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
     Extension'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
+  type: title-main
+- content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
     Extension'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/17-086r3/17-086r3.html
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Trevelyan
+      completename:
+        content: Peter Trevelyan
   role:
   - author
 - person:
     name:
-      completename: Paul Hershberg
+      completename:
+        content: Paul Hershberg
   role:
   - author
 - person:
     name:
-      completename: Steve Olson
+      completename:
+        content: Steve Olson
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -68,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

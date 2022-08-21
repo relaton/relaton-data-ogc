@@ -1,22 +1,22 @@
 ---
 id: 18-032r2
 title:
-- type: title-main
-  content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
+- content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
+  type: title-main
+- content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-032r2.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Johannes Echterhoff
+      completename:
+        content: Johannes Echterhoff
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -57,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,35 +1,35 @@
 ---
 id: 06-104r4
 title:
-- type: title-intro
-  content: OpenGIS Implementation Specification for Geographic information
+- content: OpenGIS Implementation Specification for Geographic information
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Simple feature access
+  type: title-intro
+- content: Simple feature access
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: 'Part 2: SQL option'
+  type: title-main
+- content: 'Part 2: SQL option'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OpenGIS Implementation Specification for Geographic information - Simple
+  type: title-part
+- content: 'OpenGIS Implementation Specification for Geographic information - Simple
     feature access - Part 2: SQL option'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=25354
   type: obp
@@ -44,12 +44,13 @@ date:
 contributor:
 - person:
     name:
-      completename: John Herring
+      completename:
+        content: John Herring
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -71,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

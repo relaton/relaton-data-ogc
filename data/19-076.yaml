@@ -1,22 +1,22 @@
 ---
 id: 19-076
 title:
-- type: title-main
-  content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations,
+- content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations,
     and Architecture'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations,
+  type: title-main
+- content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations,
     and Architecture'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/wp/19-076.html
   type: obp
@@ -31,27 +31,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Ajay Gupta
+      completename:
+        content: Ajay Gupta
   role:
   - author
 - person:
     name:
-      completename: Luis Bermudez
+      completename:
+        content: Luis Bermudez
   role:
   - author
 - person:
     name:
-      completename: Eddie Oldfield
+      completename:
+        content: Eddie Oldfield
   role:
   - author
 - person:
     name:
-      completename: Scott Serich
+      completename:
+        content: Scott Serich
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-03-30'
@@ -72,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

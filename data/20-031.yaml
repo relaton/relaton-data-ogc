@@ -1,20 +1,20 @@
 ---
 id: 20-031
 title:
-- type: title-main
-  content: 3D Data Container and Tiles API Pilot Summary Engineering Report
+- content: 3D Data Container and Tiles API Pilot Summary Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 3D Data Container and Tiles API Pilot Summary Engineering Report
+  type: title-main
+- content: 3D Data Container and Tiles API Pilot Summary Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/20-031.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Tim Miller
+      completename:
+        content: Tim Miller
   role:
   - author
 - person:
     name:
-      completename: Gil Trenum
+      completename:
+        content: Gil Trenum
   role:
   - author
 - person:
     name:
-      completename: Ingo Simonis
+      completename:
+        content: Ingo Simonis
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-10-22'
@@ -63,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

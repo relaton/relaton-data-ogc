@@ -1,20 +1,20 @@
 ---
 id: 18-029
 title:
-- type: title-main
-  content: 'OGC Testbed-14: Symbology Engineering Report'
+- content: 'OGC Testbed-14: Symbology Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-14: Symbology Engineering Report'
+  type: title-main
+- content: 'OGC Testbed-14: Symbology Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-029.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Sara Saeedi
+      completename:
+        content: Sara Saeedi
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-03-15'
@@ -64,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

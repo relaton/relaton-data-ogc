@@ -1,20 +1,20 @@
 ---
 id: 18-043r3
 title:
-- type: title-main
-  content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
+- content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
+  type: title-main
+- content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/18-043r3/18-043r3.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Aleksandar Jelenak
+      completename:
+        content: Aleksandar Jelenak
   role:
   - author
 - person:
     name:
-      completename: Ted Habermann
+      completename:
+        content: Ted Habermann
   role:
   - author
 - person:
     name:
-      completename: Gerd Heber
+      completename:
+        content: Gerd Heber
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -71,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

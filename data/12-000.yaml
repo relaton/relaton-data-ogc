@@ -1,20 +1,20 @@
 ---
 id: 12-000
 title:
-- type: title-main
-  content: 'OGC® SensorML: Model and XML Encoding Standard'
+- content: 'OGC® SensorML: Model and XML Encoding Standard'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® SensorML: Model and XML Encoding Standard'
+  type: title-main
+- content: 'OGC® SensorML: Model and XML Encoding Standard'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=55939
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Mike Botts
+      completename:
+        content: Mike Botts
   role:
   - author
 - person:
     name:
-      completename: Alexandre Robin
+      completename:
+        content: Alexandre Robin
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2014-02-04'
@@ -65,7 +67,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -1,20 +1,20 @@
 ---
 id: 11-114
 title:
-- type: title-main
-  content: OWS-8 Bulk Geodata Transfer with File Geodatabase
+- content: OWS-8 Bulk Geodata Transfer with File Geodatabase
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-8 Bulk Geodata Transfer with File Geodatabase
+  type: title-main
+- content: OWS-8 Bulk Geodata Transfer with File Geodatabase
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=45754
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: David Danko
+      completename:
+        content: David Danko
   role:
   - author
 - person:
     name:
-      completename: Lance Shipman
+      completename:
+        content: Lance Shipman
   role:
   - author
 - person:
     name:
-      completename: Paul Ramsey
+      completename:
+        content: Paul Ramsey
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2011-11-16'
@@ -60,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

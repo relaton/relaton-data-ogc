@@ -1,27 +1,27 @@
 ---
 id: 15-018r2
 title:
-- type: title-intro
-  content: 'OGC WaterML2.0: part 2'
+- content: 'OGC WaterML2.0: part 2'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Ratings, Gaugings and Sections
+  type: title-intro
+- content: Ratings, Gaugings and Sections
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC WaterML2.0: part 2 - Ratings, Gaugings and Sections'
+  type: title-main
+- content: 'OGC WaterML2.0: part 2 - Ratings, Gaugings and Sections'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/15-018r2/15-018r2.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Taylor
+      completename:
+        content: Peter Taylor
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

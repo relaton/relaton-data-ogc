@@ -1,20 +1,20 @@
 ---
 id: 16-079
 title:
-- type: title-main
-  content: Semantic Sensor Network Ontology
+- content: Semantic Sensor Network Ontology
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Semantic Sensor Network Ontology
+  type: title-main
+- content: Semantic Sensor Network Ontology
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://www.w3.org/TR/2017/REC-vocab-ssn-20171019/
   type: obp
@@ -29,37 +29,43 @@ date:
 contributor:
 - person:
     name:
-      completename: Armin Haller
+      completename:
+        content: Armin Haller
   role:
   - author
 - person:
     name:
-      completename: Krzysztof Janowicz
+      completename:
+        content: Krzysztof Janowicz
   role:
   - author
 - person:
     name:
-      completename: Simon Cox
+      completename:
+        content: Simon Cox
   role:
   - author
 - person:
     name:
-      completename: Danh Le Phuoc
+      completename:
+        content: Danh Le Phuoc
   role:
   - author
 - person:
     name:
-      completename: Kerry Taylor
+      completename:
+        content: Kerry Taylor
   role:
   - author
 - person:
     name:
-      completename: Maxime Lefrançois
+      completename:
+        content: Maxime Lefrançois
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-07-10'
@@ -85,7 +91,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -1,20 +1,20 @@
 ---
 id: 17-036
 title:
-- type: title-main
-  content: 'OGC Testbed-13: Geospatial Taxonomies Engineering Report'
+- content: 'OGC Testbed-13: Geospatial Taxonomies Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-13: Geospatial Taxonomies Engineering Report'
+  type: title-main
+- content: 'OGC Testbed-13: Geospatial Taxonomies Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/17-036.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Charles Chen
+      completename:
+        content: Charles Chen
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2018-01-11'
@@ -71,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

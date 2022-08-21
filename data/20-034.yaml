@@ -1,20 +1,20 @@
 ---
 id: 20-034
 title:
-- type: title-main
-  content: 'OGC Earth Observation Applications Pilot: Spacebel Engineering Report'
+- content: 'OGC Earth Observation Applications Pilot: Spacebel Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Earth Observation Applications Pilot: Spacebel Engineering Report'
+  type: title-main
+- content: 'OGC Earth Observation Applications Pilot: Spacebel Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/20-034.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Christophe Noël
+      completename:
+        content: Christophe Noël
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-10-22'
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,22 +1,22 @@
 ---
 id: 20-010
 title:
-- type: title-main
-  content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
+- content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
     Standard'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
+  type: title-main
+- content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
     Standard'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/20-010/20-010.html
   type: obp
@@ -31,37 +31,43 @@ date:
 contributor:
 - person:
     name:
-      completename: Thomas H. Kolbe
+      completename:
+        content: Thomas H. Kolbe
   role:
   - author
 - person:
     name:
-      completename: Tatjana Kutzner
+      completename:
+        content: Tatjana Kutzner
   role:
   - author
 - person:
     name:
-      completename: Carl Stephen Smyth
+      completename:
+        content: Carl Stephen Smyth
   role:
   - author
 - person:
     name:
-      completename: Claus Nagel
+      completename:
+        content: Claus Nagel
   role:
   - author
 - person:
     name:
-      completename: Carsten Roensdorf
+      completename:
+        content: Carsten Roensdorf
   role:
   - author
 - person:
     name:
-      completename: Charles Heazel
+      completename:
+        content: Charles Heazel
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-09-13'
@@ -87,7 +93,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -1,20 +1,20 @@
 ---
 id: 15-001r4
 title:
-- type: title-main
-  content: OGC® 3D Portrayal Service 1.0
+- content: OGC® 3D Portrayal Service 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® 3D Portrayal Service 1.0
+  type: title-main
+- content: OGC® 3D Portrayal Service 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/15-001r4/15-001r4.html
   type: obp
@@ -29,32 +29,37 @@ date:
 contributor:
 - person:
     name:
-      completename: Benjamin Hagedorn
+      completename:
+        content: Benjamin Hagedorn
   role:
   - author
 - person:
     name:
-      completename: Simon Thum
+      completename:
+        content: Simon Thum
   role:
   - author
 - person:
     name:
-      completename: Thorsten Reitz
+      completename:
+        content: Thorsten Reitz
   role:
   - author
 - person:
     name:
-      completename: Voker Coors
+      completename:
+        content: Voker Coors
   role:
   - author
 - person:
     name:
-      completename: Ralf Gutbell
+      completename:
+        content: Ralf Gutbell
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -78,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

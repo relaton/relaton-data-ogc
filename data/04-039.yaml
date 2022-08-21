@@ -1,20 +1,20 @@
 ---
 id: 04-039
 title:
-- type: title-main
-  content: Geospatial Portal Reference Architecture
+- content: Geospatial Portal Reference Architecture
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Geospatial Portal Reference Architecture
+  type: title-main
+- content: Geospatial Portal Reference Architecture
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=6669
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Louis Rose
+      completename:
+        content: Louis Rose
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2004-09-22'
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

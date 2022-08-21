@@ -1,22 +1,22 @@
 ---
 id: 11-095r1
 title:
-- type: title-main
-  content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering
+- content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering
+  type: title-main
+- content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=47826
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Stephan Meissl
+      completename:
+        content: Stephan Meissl
   role:
   - author
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -59,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

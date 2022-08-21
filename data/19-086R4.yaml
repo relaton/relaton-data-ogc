@@ -1,27 +1,27 @@
 ---
 id: 19-086r4
 title:
-- type: title-intro
-  content: OGC API
+- content: OGC API
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Environmental Data Retrieval Standard
+  type: title-intro
+- content: Environmental Data Retrieval Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC API - Environmental Data Retrieval Standard
+  type: title-main
+- content: OGC API - Environmental Data Retrieval Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/19-086r4/19-086r4.html
   type: obp
@@ -36,27 +36,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Mark Burgoyne
+      completename:
+        content: Mark Burgoyne
   role:
   - author
 - person:
     name:
-      completename: Dave Blodgett
+      completename:
+        content: Dave Blodgett
   role:
   - author
 - person:
     name:
-      completename: Chuck Heazel
+      completename:
+        content: Chuck Heazel
   role:
   - author
 - person:
     name:
-      completename: Chris Little
+      completename:
+        content: Chris Little
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -106,7 +110,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

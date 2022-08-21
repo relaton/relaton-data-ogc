@@ -1,22 +1,22 @@
 ---
 id: 19-084
 title:
-- type: title-main
-  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
+- content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
+  type: title-main
+- content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-084.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Andrea Aime
+      completename:
+        content: Andrea Aime
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-07-08'
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

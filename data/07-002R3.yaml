@@ -1,34 +1,34 @@
 ---
 id: 07-002r3
 title:
-- type: title-intro
-  content: Observations and Measurements
+- content: Observations and Measurements
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Part 2
+  type: title-intro
+- content: Part 2
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Sampling Features
+  type: title-main
+- content: Sampling Features
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Observations and Measurements - Part 2 - Sampling Features
+  type: title-part
+- content: Observations and Measurements - Part 2 - Sampling Features
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=22467
   type: obp
@@ -43,12 +43,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Simon Cox
+      completename:
+        content: Simon Cox
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -70,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

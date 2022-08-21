@@ -1,22 +1,22 @@
 ---
 id: 21-013
 title:
-- type: title-main
-  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
+- content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
     and Cumulative Effects CDS'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
+  type: title-main
+- content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
     and Cumulative Effects CDS'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/21-013.html
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Robert Thomas
+      completename:
+        content: Robert Thomas
   role:
   - author
 - person:
     name:
-      completename: Josh Lieberman
+      completename:
+        content: Josh Lieberman
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-05-27'
@@ -80,7 +82,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

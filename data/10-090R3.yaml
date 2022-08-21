@@ -1,20 +1,20 @@
 ---
 id: 10-090r3
 title:
-- type: title-main
-  content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
+- content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
+  type: title-main
+- content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=43732
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Ben Domenico
+      completename:
+        content: Ben Domenico
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -58,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

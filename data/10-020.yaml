@@ -1,28 +1,28 @@
 ---
 id: 10-020
 title:
-- type: title-intro
-  content: 'Topic 2.1: Spatial Referencing by Coordinates'
+- content: 'Topic 2.1: Spatial Referencing by Coordinates'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Extension for Parametric Values
+  type: title-intro
+- content: Extension for Parametric Values
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Topic 2.1: Spatial Referencing by Coordinates - Extension for Parametric
+  type: title-main
+- content: 'Topic 2.1: Spatial Referencing by Coordinates - Extension for Parametric
     Values'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=37761
   type: obp
@@ -37,12 +37,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Paul Cooper
+      completename:
+        content: Paul Cooper
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2014-04-16'
@@ -51,13 +52,12 @@ language:
 script:
 - Latn
 abstract:
-- content: ''
-  language:
+- language:
   - en
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

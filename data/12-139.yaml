@@ -1,20 +1,20 @@
 ---
 id: 12-139
 title:
-- type: title-main
-  content: 'OWS-9: SSI Security Rules Service Engineering Report'
+- content: 'OWS-9: SSI Security Rules Service Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OWS-9: SSI Security Rules Service Engineering Report'
+  type: title-main
+- content: 'OWS-9: SSI Security Rules Service Engineering Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=51833
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Jan Herrmann
+      completename:
+        content: Jan Herrmann
   role:
   - author
 - person:
     name:
-      completename: Andreas Matheus
+      completename:
+        content: Andreas Matheus
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2013-02-05'
@@ -63,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

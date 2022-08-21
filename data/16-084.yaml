@@ -1,28 +1,28 @@
 ---
 id: 16-084
 title:
-- type: title-intro
-  content: OGC Benefits of Indoor Location
+- content: OGC Benefits of Indoor Location
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: " Use Case Survey of Lessons Learned and Expectations "
+  type: title-intro
+- content: " Use Case Survey of Lessons Learned and Expectations "
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Benefits of Indoor Location -  Use Case Survey of Lessons Learned
+  type: title-main
+- content: 'OGC Benefits of Indoor Location -  Use Case Survey of Lessons Learned
     and Expectations '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=68604
   type: obp
@@ -37,37 +37,43 @@ date:
 contributor:
 - person:
     name:
-      completename: Giuseppe Conti
+      completename:
+        content: Giuseppe Conti
   role:
   - author
 - person:
     name:
-      completename: Fabio Malabocchia
+      completename:
+        content: Fabio Malabocchia
   role:
   - author
 - person:
     name:
-      completename: " Ki-Joune Li"
+      completename:
+        content: " Ki-Joune Li"
   role:
   - author
 - person:
     name:
-      completename: George Percivall
+      completename:
+        content: George Percivall
   role:
   - author
 - person:
     name:
-      completename: Kirk Burroughs
+      completename:
+        content: Kirk Burroughs
   role:
   - author
 - person:
     name:
-      completename: Stuart Strickland
+      completename:
+        content: Stuart Strickland
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2016-08-01'
@@ -98,7 +104,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

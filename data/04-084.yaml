@@ -1,27 +1,27 @@
 ---
 id: 04-084
 title:
-- type: title-intro
-  content: Topic 0
+- content: Topic 0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Overview
+  type: title-intro
+- content: Overview
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 0 - Overview
+  type: title-main
+- content: Topic 0 - Overview
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=7560
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2005-06-27'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

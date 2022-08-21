@@ -1,20 +1,20 @@
 ---
 id: 19-075r1
 title:
-- type: title-main
-  content: OGC Borehole Interoperability Experiment Engineering Report
+- content: OGC Borehole Interoperability Experiment Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Borehole Interoperability Experiment Engineering Report
+  type: title-main
+- content: OGC Borehole Interoperability Experiment Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/19-075r1
   type: obp
@@ -29,37 +29,43 @@ date:
 contributor:
 - person:
     name:
-      completename: Sylvain Grellet
+      completename:
+        content: Sylvain Grellet
   role:
   - author
 - person:
     name:
-      completename: Eric Boisvert
+      completename:
+        content: Eric Boisvert
   role:
   - author
 - person:
     name:
-      completename: Bruce Simons
+      completename:
+        content: Bruce Simons
   role:
   - author
 - person:
     name:
-      completename: Jean-François Rainaud
+      completename:
+        content: Jean-François Rainaud
   role:
   - author
 - person:
     name:
-      completename: Henning Lorenz
+      completename:
+        content: Henning Lorenz
   role:
   - author
 - person:
     name:
-      completename: Rainer Haener
+      completename:
+        content: Rainer Haener
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -79,7 +85,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

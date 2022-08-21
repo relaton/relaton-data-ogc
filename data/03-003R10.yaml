@@ -1,20 +1,20 @@
 ---
 id: 03-003r10
 title:
-- type: title-main
-  content: Level 0 Profile of GML3 for WFS
+- content: Level 0 Profile of GML3 for WFS
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Level 0 Profile of GML3 for WFS
+  type: title-main
+- content: Level 0 Profile of GML3 for WFS
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=4347
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Vretanos
+      completename:
+        content: Peter Vretanos
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

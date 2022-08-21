@@ -1,20 +1,20 @@
 ---
 id: 13-084r2
 title:
-- type: title-main
-  content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
+- content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
+  type: title-main
+- content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=56905
   type: obp
@@ -29,27 +29,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Uwe Voges
+      completename:
+        content: Uwe Voges
   role:
   - author
 - person:
     name:
-      completename: Frédéric Houbie
+      completename:
+        content: Frédéric Houbie
   role:
   - author
 - person:
     name:
-      completename: Nicolas Lesage
+      completename:
+        content: Nicolas Lesage
   role:
   - author
 - person:
     name:
-      completename: Marie-Lise Vautier
+      completename:
+        content: Marie-Lise Vautier
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -81,7 +85,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: extension
 editorialgroup:

@@ -1,22 +1,22 @@
 ---
 id: 15-118r1
 title:
-- type: title-main
-  content: Incident Management Information Sharing Profile Recommendations for OGC
+- content: Incident Management Information Sharing Profile Recommendations for OGC
     Web Services Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Incident Management Information Sharing Profile Recommendations for OGC
+  type: title-main
+- content: Incident Management Information Sharing Profile Recommendations for OGC
     Web Services Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/15-118r1.html
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Simon Jirka
+      completename:
+        content: Simon Jirka
   role:
   - author
 - person:
     name:
-      completename: Christoph Stasch
+      completename:
+        content: Christoph Stasch
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -70,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

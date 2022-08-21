@@ -1,20 +1,20 @@
 ---
 id: 19-078r1
 title:
-- type: title-main
-  content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
+- content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
+  type: title-main
+- content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/wp/19-078r1/19-078r1.html
   type: obp
@@ -29,42 +29,49 @@ date:
 contributor:
 - person:
     name:
-      completename: Joseph Abhayaratna
+      completename:
+        content: Joseph Abhayaratna
   role:
   - author
 - person:
     name:
-      completename: Linda van den Brink
+      completename:
+        content: Linda van den Brink
   role:
   - author
 - person:
     name:
-      completename: Nicholas Car
+      completename:
+        content: Nicholas Car
   role:
   - author
 - person:
     name:
-      completename: Rob Atkinson
+      completename:
+        content: Rob Atkinson
   role:
   - author
 - person:
     name:
-      completename: Timo Homburg
+      completename:
+        content: Timo Homburg
   role:
   - author
 - person:
     name:
-      completename: Frans Knibbe
+      completename:
+        content: Frans Knibbe
   role:
   - author
 - person:
     name:
-      completename: Kri
+      completename:
+        content: Kri
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -98,7 +105,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

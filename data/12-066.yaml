@@ -1,20 +1,20 @@
 ---
 id: 12-066
 title:
-- type: title-main
-  content: Modeling an application domain extension of CityGML in UML
+- content: Modeling an application domain extension of CityGML in UML
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Modeling an application domain extension of CityGML in UML
+  type: title-main
+- content: Modeling an application domain extension of CityGML in UML
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=49000
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Linda van den Brink
+      completename:
+        content: Linda van den Brink
   role:
   - author
 - person:
     name:
-      completename: Jantien Stoter
+      completename:
+        content: Jantien Stoter
   role:
   - author
 - person:
     name:
-      completename: Sisi Zlatanova
+      completename:
+        content: Sisi Zlatanova
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2014-01-31'
@@ -66,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

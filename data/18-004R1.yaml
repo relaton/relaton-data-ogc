@@ -1,27 +1,27 @@
 ---
 id: 18-004r1
 title:
-- type: title-intro
-  content: The Role of Geospatial in Edge-Fog-Cloud Computing
+- content: The Role of Geospatial in Edge-Fog-Cloud Computing
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: An OGC White Paper
+  type: title-intro
+- content: An OGC White Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: The Role of Geospatial in Edge-Fog-Cloud Computing - An OGC White Paper
+  type: title-main
+- content: The Role of Geospatial in Edge-Fog-Cloud Computing - An OGC White Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/wp/18-004r1/18-004r1.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: George Percivall
+      completename:
+        content: George Percivall
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -64,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

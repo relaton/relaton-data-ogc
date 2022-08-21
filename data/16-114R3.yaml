@@ -1,20 +1,20 @@
 ---
 id: 16-114r3
 title:
-- type: title-main
-  content: 'OGC Moving Features Encoding Extension: netCDF'
+- content: 'OGC Moving Features Encoding Extension: netCDF'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Moving Features Encoding Extension: netCDF'
+  type: title-main
+- content: 'OGC Moving Features Encoding Extension: netCDF'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/16-114r3/16-114r3.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Martin Desruisseaux
+      completename:
+        content: Martin Desruisseaux
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -57,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

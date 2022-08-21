@@ -1,20 +1,20 @@
 ---
 id: 14-083r2
 title:
-- type: title-main
-  content: 'OGC® Moving Features Encoding Part I: XML Core'
+- content: 'OGC® Moving Features Encoding Part I: XML Core'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® Moving Features Encoding Part I: XML Core'
+  type: title-main
+- content: 'OGC® Moving Features Encoding Part I: XML Core'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/14-083r2/14-083r2.html
   type: obp
@@ -29,27 +29,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Akinori Asahara
+      completename:
+        content: Akinori Asahara
   role:
   - author
 - person:
     name:
-      completename: Ryosuke Shibasaki
+      completename:
+        content: Ryosuke Shibasaki
   role:
   - author
 - person:
     name:
-      completename: Nobuhiro Ishimaru
+      completename:
+        content: Nobuhiro Ishimaru
   role:
   - author
 - person:
     name:
-      completename: David Burggraf
+      completename:
+        content: David Burggraf
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

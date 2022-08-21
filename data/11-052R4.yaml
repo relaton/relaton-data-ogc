@@ -1,27 +1,27 @@
 ---
 id: 11-052r4
 title:
-- type: title-intro
-  content: OGC GeoSPARQL
+- content: OGC GeoSPARQL
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: A Geographic Query Language for RDF Data
+  type: title-intro
+- content: A Geographic Query Language for RDF Data
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC GeoSPARQL - A Geographic Query Language for RDF Data
+  type: title-main
+- content: OGC GeoSPARQL - A Geographic Query Language for RDF Data
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=47664
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Matthew Perry and John Herring
+      completename:
+        content: Matthew Perry and John Herring
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

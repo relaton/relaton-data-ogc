@@ -1,22 +1,22 @@
 ---
 id: 15-050r3
 title:
-- type: title-main
-  content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding
+- content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding
     Specifications Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding
+  type: title-main
+- content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding
     Specifications Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=65421
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jeff Harrison
+      completename:
+        content: Jeff Harrison
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -73,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 06-111
 title:
-- type: title-main
-  content: GML 3.1.1 grid CRSs Profile Corrigendum
+- content: GML 3.1.1 grid CRSs Profile Corrigendum
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: GML 3.1.1 grid CRSs Profile Corrigendum
+  type: title-main
+- content: GML 3.1.1 grid CRSs Profile Corrigendum
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=16571
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Arliss Whiteside
+      completename:
+        content: Arliss Whiteside
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2006-07-19'
@@ -50,7 +51,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: profile
 editorialgroup:

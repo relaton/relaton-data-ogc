@@ -1,27 +1,27 @@
 ---
 id: 01-111
 title:
-- type: title-intro
-  content: Topic 11
+- content: Topic 11
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Metadata
+  type: title-intro
+- content: Metadata
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 11 - Metadata
+  type: title-main
+- content: Topic 11 - Metadata
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=26020
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: ISO
+      completename:
+        content: ISO
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2001-06-08'
@@ -62,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

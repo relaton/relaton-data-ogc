@@ -1,20 +1,20 @@
 ---
 id: 12-029
 title:
-- type: title-main
-  content: Web Processing Service Best Practices Discussion Paper
+- content: Web Processing Service Best Practices Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Web Processing Service Best Practices Discussion Paper
+  type: title-main
+- content: Web Processing Service Best Practices Discussion Paper
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=47860
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Bastian Schäffer
+      completename:
+        content: Bastian Schäffer
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2012-04-04'
@@ -51,7 +52,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

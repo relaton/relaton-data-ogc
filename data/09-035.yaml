@@ -1,20 +1,20 @@
 ---
 id: '09-035'
 title:
-- type: title-main
-  content: OWS-6 Security Engineering Report
+- content: OWS-6 Security Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-6 Security Engineering Report
+  type: title-main
+- content: OWS-6 Security Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=35461
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Rüdiger Gartmann
+      completename:
+        content: Rüdiger Gartmann
   role:
   - author
 - person:
     name:
-      completename: Lewis Leinenweber
+      completename:
+        content: Lewis Leinenweber
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2009-10-09'
@@ -58,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

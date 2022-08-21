@@ -1,20 +1,20 @@
 ---
 id: 14-005r3
 title:
-- type: title-main
-  content: OGC® IndoorGML
+- content: OGC® IndoorGML
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® IndoorGML
+  type: title-main
+- content: OGC® IndoorGML
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/14-005r3/14-005r3.html
   type: obp
@@ -29,37 +29,43 @@ date:
 contributor:
 - person:
     name:
-      completename: Jiyeong Lee
+      completename:
+        content: Jiyeong Lee
   role:
   - author
 - person:
     name:
-      completename: Ki-Joune Li
+      completename:
+        content: Ki-Joune Li
   role:
   - author
 - person:
     name:
-      completename: Sisi Zlatanova
+      completename:
+        content: Sisi Zlatanova
   role:
   - author
 - person:
     name:
-      completename: Thomas H. Kolbe
+      completename:
+        content: Thomas H. Kolbe
   role:
   - author
 - person:
     name:
-      completename: Claus Nagel
+      completename:
+        content: Claus Nagel
   role:
   - author
 - person:
     name:
-      completename: Thomas Becker
+      completename:
+        content: Thomas Becker
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -81,7 +87,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

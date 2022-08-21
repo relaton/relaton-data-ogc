@@ -1,27 +1,27 @@
 ---
 id: 16-008r1
 title:
-- type: title-intro
-  content: OGC Geoscience Markup Language 4.1 (GeoSciML)
+- content: OGC Geoscience Markup Language 4.1 (GeoSciML)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: with Corrigendum
+  type: title-intro
+- content: with Corrigendum
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Geoscience Markup Language 4.1 (GeoSciML) - with Corrigendum
+  type: title-main
+- content: OGC Geoscience Markup Language 4.1 (GeoSciML) - with Corrigendum
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/16-008/16-008r1.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: 'eoSciML Modeling Team '
+      completename:
+        content: 'eoSciML Modeling Team '
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -69,7 +70,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

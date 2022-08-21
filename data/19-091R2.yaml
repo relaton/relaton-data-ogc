@@ -1,22 +1,22 @@
 ---
 id: 19-091r2
 title:
-- type: title-main
-  content: 'Built environment data standards and their integration: an analysis of
+- content: 'Built environment data standards and their integration: an analysis of
     IFC, CityGML and LandInfra'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Built environment data standards and their integration: an analysis of
+  type: title-main
+- content: 'Built environment data standards and their integration: an analysis of
     IFC, CityGML and LandInfra'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=96354
   type: obp
@@ -31,42 +31,49 @@ date:
 contributor:
 - person:
     name:
-      completename: Thomas Gilbert
+      completename:
+        content: Thomas Gilbert
   role:
   - author
 - person:
     name:
-      completename: Carsten Rönsdorf
+      completename:
+        content: Carsten Rönsdorf
   role:
   - author
 - person:
     name:
-      completename: Jim Plume
+      completename:
+        content: Jim Plume
   role:
   - author
 - person:
     name:
-      completename: Scott Simmons
+      completename:
+        content: Scott Simmons
   role:
   - author
 - person:
     name:
-      completename: Nick Nisbet
+      completename:
+        content: Nick Nisbet
   role:
   - author
 - person:
     name:
-      completename: Hans-Christoph Gruler
+      completename:
+        content: Hans-Christoph Gruler
   role:
   - author
 - person:
     name:
-      completename: Thom
+      completename:
+        content: Thom
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -91,7 +98,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -1,22 +1,22 @@
 ---
 id: 03-055r1
 title:
-- type: title-main
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Engineering
+- content: 'Critical Infrastructure Collaborative Environment Architecture: Engineering
     Viewpoint'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Engineering
+  type: title-main
+- content: 'Critical Infrastructure Collaborative Environment Architecture: Engineering
     Viewpoint'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=1282
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Louis Rose
+      completename:
+        content: Louis Rose
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

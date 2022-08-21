@@ -1,20 +1,20 @@
 ---
 id: 14-115
 title:
-- type: title-main
-  content: OGC Smart Cities Spatial Information Framework
+- content: OGC Smart Cities Spatial Information Framework
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Smart Cities Spatial Information Framework
+  type: title-main
+- content: OGC Smart Cities Spatial Information Framework
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=61188
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: George Percivall
+      completename:
+        content: George Percivall
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2015-01-21'
@@ -64,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

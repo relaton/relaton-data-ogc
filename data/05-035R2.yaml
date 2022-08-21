@@ -1,28 +1,28 @@
 ---
 id: 05-035r2
 title:
-- type: title-intro
-  content: Gazetteer Service
+- content: Gazetteer Service
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Application Profile of the Web Feature Service Implementation Specification
+  type: title-intro
+- content: Application Profile of the Web Feature Service Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Gazetteer Service - Application Profile of the Web Feature Service Implementation
+  type: title-main
+- content: Gazetteer Service - Application Profile of the Web Feature Service Implementation
     Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=15529
   type: obp
@@ -37,17 +37,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Jens Fitzke
+      completename:
+        content: Jens Fitzke
   role:
   - author
 - person:
     name:
-      completename: Rob Atkinson
+      completename:
+        content: Rob Atkinson
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -66,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

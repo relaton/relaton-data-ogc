@@ -1,22 +1,22 @@
 ---
 id: 20-050
 title:
-- type: title-main
-  content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
+- content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
     (Normative, Optional Extension).'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
+  type: title-main
+- content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
     (Normative, Optional Extension).'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/20-050/20-050.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-02-26'
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

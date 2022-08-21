@@ -1,22 +1,22 @@
 ---
 id: 18-021
 title:
-- type: title-main
-  content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
+- content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
+  type: title-main
+- content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-021.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-03-06'
@@ -75,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

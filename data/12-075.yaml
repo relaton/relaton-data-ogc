@@ -1,20 +1,20 @@
 ---
 id: 12-075
 title:
-- type: title-main
-  content: 'OGC 3D Portrayal Interoperability Experiment  FINAL REPORT '
+- content: 'OGC 3D Portrayal Interoperability Experiment  FINAL REPORT '
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC 3D Portrayal Interoperability Experiment  FINAL REPORT '
+  type: title-main
+- content: 'OGC 3D Portrayal Interoperability Experiment  FINAL REPORT '
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=49068
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Arne Schilling
+      completename:
+        content: Arne Schilling
   role:
   - author
 - person:
     name:
-      completename: Benjamin Hagedorn
+      completename:
+        content: Benjamin Hagedorn
   role:
   - author
 - person:
     name:
-      completename: 'Volker Coors '
+      completename:
+        content: 'Volker Coors '
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2012-08-22'
@@ -65,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

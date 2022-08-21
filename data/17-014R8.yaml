@@ -1,22 +1,22 @@
 ---
 id: 17-014r8
 title:
-- type: title-main
-  content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
+- content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
     Community Standard Version 1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
+  type: title-main
+- content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
     Community Standard Version 1.2
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/cs/17-014r8/17-014r8.html
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - person:
     name:
-      completename: Tamrat Belayneh
+      completename:
+        content: Tamrat Belayneh
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -74,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: community-standard
 editorialgroup:
   committee: technical

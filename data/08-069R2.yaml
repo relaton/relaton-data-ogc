@@ -1,20 +1,20 @@
 ---
 id: '08-069r2'
 title:
-- type: title-main
-  content: Web Coverage Processing Service (WCPS) Abstract Test Suite
+- content: Web Coverage Processing Service (WCPS) Abstract Test Suite
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Web Coverage Processing Service (WCPS) Abstract Test Suite
+  type: title-main
+- content: Web Coverage Processing Service (WCPS) Abstract Test Suite
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=32314
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -45,13 +46,12 @@ language:
 script:
 - Latn
 abstract:
-- content: ''
-  language:
+- language:
   - en
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

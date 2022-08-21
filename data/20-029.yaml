@@ -1,20 +1,20 @@
 ---
 id: 20-029
 title:
-- type: title-main
-  content: 3D Data Container Engineering Report
+- content: 3D Data Container Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 3D Data Container Engineering Report
+  type: title-main
+- content: 3D Data Container Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/20-029.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Timothy Miller
+      completename:
+        content: Timothy Miller
   role:
   - author
 - person:
     name:
-      completename: Gil Trenum
+      completename:
+        content: Gil Trenum
   role:
   - author
 - person:
     name:
-      completename: Josh Lieberman
+      completename:
+        content: Josh Lieberman
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-10-22'
@@ -66,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

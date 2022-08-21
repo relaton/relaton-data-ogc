@@ -1,20 +1,20 @@
 ---
 id: 06-129r1
 title:
-- type: title-main
-  content: FGDC CSDGM Application Profile for CSW 2.0
+- content: FGDC CSDGM Application Profile for CSW 2.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: FGDC CSDGM Application Profile for CSW 2.0
+  type: title-main
+- content: FGDC CSDGM Application Profile for CSW 2.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=16936
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Patrick Neal
+      completename:
+        content: Patrick Neal
   role:
   - author
 - person:
     name:
-      completename: John Davidson
+      completename:
+        content: John Davidson
   role:
   - author
 - person:
     name:
-      completename: Bruce Westcott
+      completename:
+        content: Bruce Westcott
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -66,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

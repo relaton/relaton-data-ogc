@@ -1,20 +1,20 @@
 ---
 id: 05-011
 title:
-- type: title-main
-  content: Recommended XML/GML 3.1.1 encoding of common CRS definitions
+- content: Recommended XML/GML 3.1.1 encoding of common CRS definitions
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Recommended XML/GML 3.1.1 encoding of common CRS definitions
+  type: title-main
+- content: Recommended XML/GML 3.1.1 encoding of common CRS definitions
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=8837
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Arliss Whiteside
+      completename:
+        content: Arliss Whiteside
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2005-01-28'
@@ -62,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

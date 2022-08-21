@@ -1,22 +1,22 @@
 ---
 id: 18-076
 title:
-- type: title-main
-  content: 'OGC Vector Tiles Pilot: Tiled Feature Data Conceptual Model Engineering
+- content: 'OGC Vector Tiles Pilot: Tiled Feature Data Conceptual Model Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC Vector Tiles Pilot: Tiled Feature Data Conceptual Model Engineering
+  type: title-main
+- content: 'OGC Vector Tiles Pilot: Tiled Feature Data Conceptual Model Engineering
     Report'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/18-076.html
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Jens Ingensand
+      completename:
+        content: Jens Ingensand
   role:
   - author
 - person:
     name:
-      completename: Kalimar Maia
+      completename:
+        content: Kalimar Maia
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-02-11'
@@ -65,7 +67,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 15-074r1
 title:
-- type: title-main
-  content: Spatial Data on the Web Use Cases & Requirements
+- content: Spatial Data on the Web Use Cases & Requirements
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Spatial Data on the Web Use Cases & Requirements
+  type: title-main
+- content: Spatial Data on the Web Use Cases & Requirements
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/15-074r1/15-074r1.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Frans Knibbe
+      completename:
+        content: Frans Knibbe
   role:
   - author
 - person:
     name:
-      completename: Alejandro Llaves
+      completename:
+        content: Alejandro Llaves
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -58,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

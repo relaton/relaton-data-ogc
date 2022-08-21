@@ -1,22 +1,22 @@
 ---
 id: 11-134
 title:
-- type: title-main
-  content: 'OWS-8 Tracking: Moving Target Indicator Process, Workflows and Implementation
+- content: 'OWS-8 Tracking: Moving Target Indicator Process, Workflows and Implementation
     Results ER'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OWS-8 Tracking: Moving Target Indicator Process, Workflows and Implementation
+  type: title-main
+- content: 'OWS-8 Tracking: Moving Target Indicator Process, Workflows and Implementation
     Results ER'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=46372
   type: obp
@@ -31,17 +31,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Rob Cass
+      completename:
+        content: Rob Cass
   role:
   - author
 - person:
     name:
-      completename: Mark Simms
+      completename:
+        content: Mark Simms
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2012-05-15'
@@ -61,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,34 +1,34 @@
 ---
 id: 12-097
 title:
-- type: title-intro
-  content: OWS-9 Engineering Report
+- content: OWS-9 Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: SSI
+  type: title-intro
+- content: SSI
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Bulk Data Transfer (GML Streaming)
+  type: title-main
+- content: Bulk Data Transfer (GML Streaming)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-9 Engineering Report - SSI - Bulk Data Transfer (GML Streaming)
+  type: title-part
+- content: OWS-9 Engineering Report - SSI - Bulk Data Transfer (GML Streaming)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=51998
   type: obp
@@ -43,12 +43,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jeff Harrison
+      completename:
+        content: Jeff Harrison
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2013-03-26'
@@ -70,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

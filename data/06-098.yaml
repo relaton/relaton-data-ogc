@@ -1,27 +1,27 @@
 ---
 id: 06-098
 title:
-- type: title-intro
-  content: 'Change Request: WCS: Proposal for WCS Transactional'
+- content: 'Change Request: WCS: Proposal for WCS Transactional'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: WCS-T
+  type: title-intro
+- content: WCS-T
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Change Request: WCS: Proposal for WCS Transactional - WCS-T'
+  type: title-main
+- content: 'Change Request: WCS: Proposal for WCS Transactional - WCS-T'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=20257
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Michael Gerlek
+      completename:
+        content: Michael Gerlek
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2007-08-13'
@@ -60,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: change-request-supporting-document
 editorialgroup:
   committee: technical

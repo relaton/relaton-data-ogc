@@ -1,20 +1,20 @@
 ---
 id: 04-100
 title:
-- type: title-main
-  content: OWS-2 Application Schema Development
+- content: OWS-2 Application Schema Development
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-2 Application Schema Development
+  type: title-main
+- content: OWS-2 Application Schema Development
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=8071
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2005-04-13'
@@ -54,7 +55,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

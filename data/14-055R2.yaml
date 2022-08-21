@@ -1,20 +1,20 @@
 ---
 id: 14-055r2
 title:
-- type: title-main
-  content: OGC OWS Context GeoJSON Encoding Standard
+- content: OGC OWS Context GeoJSON Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC OWS Context GeoJSON Encoding Standard
+  type: title-main
+- content: OGC OWS Context GeoJSON Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=68826
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Pedro Gonc&#807;alves
+      completename:
+        content: Pedro Gonc&#807;alves
   role:
   - author
 - person:
     name:
-      completename: Roger Brackin
+      completename:
+        content: Roger Brackin
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -77,7 +79,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

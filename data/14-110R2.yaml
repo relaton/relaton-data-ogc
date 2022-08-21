@@ -1,28 +1,28 @@
 ---
 id: 14-110r2
 title:
-- type: title-intro
-  content: OGC® GML Application Schema
+- content: OGC® GML Application Schema
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Coverages JPEG2000/JPIP Coverage Encoding Extension
+  type: title-intro
+- content: Coverages JPEG2000/JPIP Coverage Encoding Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding
+  type: title-main
+- content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding
     Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/14-110r2/14-110r2.html
   type: obp
@@ -37,12 +37,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Dimitri Sarafinof
+      completename:
+        content: Dimitri Sarafinof
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -72,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

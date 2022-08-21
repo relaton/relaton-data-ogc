@@ -1,22 +1,22 @@
 ---
 id: 15-037
 title:
-- type: title-main
-  content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for
+- content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for
     Oil Spill Response
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for
+  type: title-main
+- content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for
     Oil Spill Response
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=63334
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: 'George Percivall '
+      completename:
+        content: 'George Percivall '
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2015-10-01'
@@ -70,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

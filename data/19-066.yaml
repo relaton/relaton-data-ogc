@@ -1,22 +1,22 @@
 ---
 id: 19-066
 title:
-- type: title-main
-  content: Volume 14 OGC CDB Guidance on Conversion of CDB Shapefiles into CDB GeoPackages
+- content: Volume 14 OGC CDB Guidance on Conversion of CDB Shapefiles into CDB GeoPackages
     (Best Practice)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Volume 14 OGC CDB Guidance on Conversion of CDB Shapefiles into CDB GeoPackages
+  type: title-main
+- content: Volume 14 OGC CDB Guidance on Conversion of CDB Shapefiles into CDB GeoPackages
     (Best Practice)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/19-066.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Michala Hill
+      completename:
+        content: Michala Hill
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-02-26'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -1,20 +1,20 @@
 ---
 id: 05-086
 title:
-- type: title-main
-  content: OpenGIS Sensor Model Language (SensorML)
+- content: OpenGIS Sensor Model Language (SensorML)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Sensor Model Language (SensorML)
+  type: title-main
+- content: OpenGIS Sensor Model Language (SensorML)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=12606
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Mike Botts
+      completename:
+        content: Mike Botts
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2005-11-21'
@@ -49,7 +50,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -1,20 +1,20 @@
 ---
 id: 15-113r3
 title:
-- type: title-main
-  content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
+- content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
+  type: title-main
+- content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=72712
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -97,7 +98,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

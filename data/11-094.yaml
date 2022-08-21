@@ -1,20 +1,20 @@
 ---
 id: 11-094
 title:
-- type: title-main
-  content: WS-Agreement Application Profile for OGC Web Services
+- content: WS-Agreement Application Profile for OGC Web Services
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: WS-Agreement Application Profile for OGC Web Services
+  type: title-main
+- content: WS-Agreement Application Profile for OGC Web Services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=45403
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Bastian Baranski
+      completename:
+        content: Bastian Baranski
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2011-11-24'
@@ -52,7 +53,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

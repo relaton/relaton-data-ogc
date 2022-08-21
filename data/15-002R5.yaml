@@ -1,27 +1,27 @@
 ---
 id: 15-002r5
 title:
-- type: title-intro
-  content: OGC Compliance Overview
+- content: OGC Compliance Overview
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Guide for Software Acquisition
+  type: title-intro
+- content: Guide for Software Acquisition
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Compliance Overview - Guide for Software Acquisition
+  type: title-main
+- content: OGC Compliance Overview - Guide for Software Acquisition
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: http://docs.opengeospatial.org/wp/15-002r5/15-002r5.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Luis Bermudez
+      completename:
+        content: Luis Bermudez
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

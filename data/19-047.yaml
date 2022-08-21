@@ -1,20 +1,20 @@
 ---
 id: 19-047
 title:
-- type: title-main
-  content: Proposed OGC GeoPackage Enhancements
+- content: Proposed OGC GeoPackage Enhancements
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Proposed OGC GeoPackage Enhancements
+  type: title-main
+- content: Proposed OGC GeoPackage Enhancements
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/dp/19-047.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Jeff Yutzler
+      completename:
+        content: Jeff Yutzler
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-11-25'
@@ -73,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

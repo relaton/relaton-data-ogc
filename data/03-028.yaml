@@ -1,20 +1,20 @@
 ---
 id: 03-028
 title:
-- type: title-main
-  content: OGC Web Services UDDI Experiment
+- content: OGC Web Services UDDI Experiment
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC Web Services UDDI Experiment
+  type: title-main
+- content: OGC Web Services UDDI Experiment
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=1317
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Josh Lieberman
+      completename:
+        content: Josh Lieberman
   role:
   - author
 - person:
     name:
-      completename: Lou Reich
+      completename:
+        content: Lou Reich
   role:
   - author
 - person:
     name:
-      completename: Peter Vretanos
+      completename:
+        content: Peter Vretanos
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2003-01-17'
@@ -65,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

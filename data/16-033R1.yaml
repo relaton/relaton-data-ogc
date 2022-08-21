@@ -1,20 +1,20 @@
 ---
 id: 16-033r1
 title:
-- type: title-main
-  content: Testbed-12 WCS Profile Update Engineering Report
+- content: Testbed-12 WCS Profile Update Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Testbed-12 WCS Profile Update Engineering Report
+  type: title-main
+- content: Testbed-12 WCS Profile Update Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/16-033r1.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Ranjay Shrestha
+      completename:
+        content: Ranjay Shrestha
   role:
   - author
 - person:
     name:
-      completename: Liping Di
+      completename:
+        content: Liping Di
   role:
   - author
 - person:
     name:
-      completename: Eugene G. Yu
+      completename:
+        content: Eugene G. Yu
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -106,7 +109,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

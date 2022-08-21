@@ -1,20 +1,20 @@
 ---
 id: 19-025r1
 title:
-- type: title-main
-  content: Development of Spatial Data Infrastructures for Marine Data Management
+- content: Development of Spatial Data Infrastructures for Marine Data Management
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Development of Spatial Data Infrastructures for Marine Data Management
+  type: title-main
+- content: Development of Spatial Data Infrastructures for Marine Data Management
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=88037
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Robert Thomas
+      completename:
+        content: Robert Thomas
   role:
   - author
 - person:
     name:
-      completename: Terry Idol
+      completename:
+        content: Terry Idol
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -63,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

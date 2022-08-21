@@ -1,20 +1,20 @@
 ---
 id: 19-090r1
 title:
-- type: title-main
-  content: An Experiment to Link Geo-Referenced Multimedia and CityGML Features
+- content: An Experiment to Link Geo-Referenced Multimedia and CityGML Features
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: An Experiment to Link Geo-Referenced Multimedia and CityGML Features
+  type: title-main
+- content: An Experiment to Link Geo-Referenced Multimedia and CityGML Features
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=92039
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Ki-Joune Li
+      completename:
+        content: Ki-Joune Li
   role:
   - author
 - person:
     name:
-      completename: Sung-Hwan Kim
+      completename:
+        content: Sung-Hwan Kim
   role:
   - author
 - person:
     name:
-      completename: Yong-Bok Choi
+      completename:
+        content: Yong-Bok Choi
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +70,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

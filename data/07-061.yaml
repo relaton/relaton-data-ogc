@@ -1,28 +1,28 @@
 ---
 id: 07-061
 title:
-- type: title-intro
-  content: 'Revision Notes for OpenGIS® Implementation Specification: Geographic information'
+- content: 'Revision Notes for OpenGIS® Implementation Specification: Geographic information'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Geography Markup Language Version 3.2.1
+  type: title-intro
+- content: Geography Markup Language Version 3.2.1
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Revision Notes for OpenGIS® Implementation Specification: Geographic information
+  type: title-main
+- content: 'Revision Notes for OpenGIS® Implementation Specification: Geographic information
     - Geography Markup Language Version 3.2.1'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=26765
   type: obp
@@ -37,12 +37,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Clemens Portele
+      completename:
+        content: Clemens Portele
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2008-02-20'
@@ -59,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

@@ -1,27 +1,27 @@
 ---
 id: 15-104r5
 title:
-- type: title-intro
-  content: Topic 21
+- content: Topic 21
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Discrete Global Grid Systems Abstract Specification
+  type: title-intro
+- content: Discrete Global Grid Systems Abstract Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 21 - Discrete Global Grid Systems Abstract Specification
+  type: title-main
+- content: Topic 21 - Discrete Global Grid Systems Abstract Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/as/15-104r5/15-104r5.html
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Matthew Purss
+      completename:
+        content: Matthew Purss
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

@@ -1,34 +1,34 @@
 ---
 id: 20-030
 title:
-- type: title-intro
-  content: OGC API
+- content: OGC API
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Tiles
+  type: title-intro
+- content: Tiles
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: 3D (GeoVolumes) Engineering Report
+  type: title-main
+- content: 3D (GeoVolumes) Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC API - Tiles - 3D (GeoVolumes) Engineering Report
+  type: title-part
+- content: OGC API - Tiles - 3D (GeoVolumes) Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/20-030.html
   type: obp
@@ -43,12 +43,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Timothy Miller and Gil Trenum
+      completename:
+        content: Timothy Miller and Gil Trenum
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-10-22'
@@ -68,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

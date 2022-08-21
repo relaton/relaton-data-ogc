@@ -1,20 +1,20 @@
 ---
 id: 21-055
 title:
-- type: title-main
-  content: July 2021 OGC API Code Sprint Summary Engineering Report
+- content: July 2021 OGC API Code Sprint Summary Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: July 2021 OGC API Code Sprint Summary Engineering Report
+  type: title-main
+- content: July 2021 OGC API Code Sprint Summary Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/21-055.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Gobe Hobona
+      completename:
+        content: Gobe Hobona
   role:
   - author
 - person:
     name:
-      completename: Joana Simoes
+      completename:
+        content: Joana Simoes
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-11-29'
@@ -60,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

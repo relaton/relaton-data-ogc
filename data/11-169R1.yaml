@@ -1,22 +1,22 @@
 ---
 id: 11-169r1
 title:
-- type: title-main
-  content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for
+- content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for
     Stationary In-Situ Sensors
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for
+  type: title-main
+- content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for
     Stationary In-Situ Sensors
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=52803
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Simon Jirka
+      completename:
+        content: Simon Jirka
   role:
   - author
 - person:
     name:
-      completename: Christoph Stasch
+      completename:
+        content: Christoph Stasch
   role:
   - author
 - person:
     name:
-      completename: Arne Bröring
+      completename:
+        content: Arne Bröring
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -73,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

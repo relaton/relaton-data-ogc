@@ -1,20 +1,20 @@
 ---
 id: 06-010r6
 title:
-- type: title-main
-  content: OpenGIS Transducer Markup Language *RETIRED*
+- content: OpenGIS Transducer Markup Language *RETIRED*
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS Transducer Markup Language *RETIRED*
+  type: title-main
+- content: OpenGIS Transducer Markup Language *RETIRED*
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=19371
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Steve Havens
+      completename:
+        content: Steve Havens
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: other
 editorialgroup:
   committee: technical

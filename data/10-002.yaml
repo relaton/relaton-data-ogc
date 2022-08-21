@@ -1,20 +1,20 @@
 ---
 id: 10-002
 title:
-- type: title-main
-  content: OGC® Climate Challenge Integration Plugfest 2009 Engineering Report
+- content: OGC® Climate Challenge Integration Plugfest 2009 Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC® Climate Challenge Integration Plugfest 2009 Engineering Report
+  type: title-main
+- content: OGC® Climate Challenge Integration Plugfest 2009 Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=37839
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Raj Singh
+      completename:
+        content: Raj Singh
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2014-04-28'
@@ -56,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,20 +1,20 @@
 ---
 id: 19-003
 title:
-- type: title-main
-  content: Earth System Grid Federation (ESGF) Compute Challenge
+- content: Earth System Grid Federation (ESGF) Compute Challenge
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Earth System Grid Federation (ESGF) Compute Challenge
+  type: title-main
+- content: Earth System Grid Federation (ESGF) Compute Challenge
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-003.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Tom Landry
+      completename:
+        content: Tom Landry
   role:
   - author
 - person:
     name:
-      completename: David Byrns
+      completename:
+        content: David Byrns
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2019-09-24'
@@ -67,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

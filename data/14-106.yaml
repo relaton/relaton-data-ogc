@@ -1,20 +1,20 @@
 ---
 id: 14-106
 title:
-- type: title-main
-  content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
+- content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
+  type: title-main
+- content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/bp/14-106/14-106.html
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Carl Reed
+      completename:
+        content: Carl Reed
   role:
   - author
 - person:
     name:
-      completename: Jennifer Harne
+      completename:
+        content: Jennifer Harne
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2015-01-30'
@@ -62,7 +64,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

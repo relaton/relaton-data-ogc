@@ -1,20 +1,20 @@
 ---
 id: 17-003r2
 title:
-- type: title-main
-  content: OGC EO Dataset Metadata GeoJSON(-LD) Encoding Standard
+- content: OGC EO Dataset Metadata GeoJSON(-LD) Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC EO Dataset Metadata GeoJSON(-LD) Encoding Standard
+  type: title-main
+- content: OGC EO Dataset Metadata GeoJSON(-LD) Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/is/17-003r2/17-003r2.html
   type: obp
@@ -29,22 +29,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Y. Coene
+      completename:
+        content: Y. Coene
   role:
   - author
 - person:
     name:
-      completename: U. Voges
+      completename:
+        content: U. Voges
   role:
   - author
 - person:
     name:
-      completename: O. Barois
+      completename:
+        content: O. Barois
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -89,7 +92,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

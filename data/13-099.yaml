@@ -1,20 +1,20 @@
 ---
 id: 13-099
 title:
-- type: title-main
-  content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
+- content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
+  type: title-main
+- content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=55230
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Jan Herrmann
+      completename:
+        content: Jan Herrmann
   role:
   - author
 - person:
     name:
-      completename: Andreas Matheus
+      completename:
+        content: Andreas Matheus
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2013-11-06'
@@ -69,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

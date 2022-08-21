@@ -1,20 +1,20 @@
 ---
 id: 16-020
 title:
-- type: title-main
-  content: Testbed-12 ShapeChange Engineering Report
+- content: Testbed-12 ShapeChange Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Testbed-12 ShapeChange Engineering Report
+  type: title-main
+- content: Testbed-12 ShapeChange Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/16-020.html
   type: obp
@@ -29,12 +29,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Johannes Echterhoff
+      completename:
+        content: Johannes Echterhoff
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2017-04-04'
@@ -55,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

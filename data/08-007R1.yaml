@@ -1,20 +1,20 @@
 ---
 id: '08-007r1'
 title:
-- type: title-main
-  content: OpenGIS®  City Geography Markup Language (CityGML) Encoding Standard
+- content: OpenGIS®  City Geography Markup Language (CityGML) Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS®  City Geography Markup Language (CityGML) Encoding Standard
+  type: title-main
+- content: OpenGIS®  City Geography Markup Language (CityGML) Encoding Standard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=28802
   type: obp
@@ -29,27 +29,31 @@ date:
 contributor:
 - person:
     name:
-      completename: Gerhard Gröger
+      completename:
+        content: Gerhard Gröger
   role:
   - author
 - person:
     name:
-      completename: Thomas H. Kolbe
+      completename:
+        content: Thomas H. Kolbe
   role:
   - author
 - person:
     name:
-      completename: Angela Czerwinski
+      completename:
+        content: Angela Czerwinski
   role:
   - author
 - person:
     name:
-      completename: Claus Nagel
+      completename:
+        content: Claus Nagel
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -73,7 +77,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

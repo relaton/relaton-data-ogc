@@ -1,27 +1,27 @@
 ---
 id: 10-025r1
 title:
-- type: title-intro
-  content: Observations and Measurements
+- content: Observations and Measurements
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: XML Implementation
+  type: title-intro
+- content: XML Implementation
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Observations and Measurements - XML Implementation
+  type: title-main
+- content: Observations and Measurements - XML Implementation
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=41510
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Simon Cox
+      completename:
+        content: Simon Cox
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -66,7 +67,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

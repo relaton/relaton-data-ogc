@@ -1,35 +1,35 @@
 ---
 id: 20-040r3
 title:
-- type: title-intro
-  content: Topic 21
+- content: Topic 21
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Discrete Global Grid Systems
+  type: title-intro
+- content: Discrete Global Grid Systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Part 1 Core Reference system and Operations and Equal Area E
+  type: title-main
+- content: Part 1 Core Reference system and Operations and Equal Area E
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Topic 21 - Discrete Global Grid Systems - Part 1 Core Reference system
+  type: title-part
+- content: Topic 21 - Discrete Global Grid Systems - Part 1 Core Reference system
     and Operations and Equal Area E
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/as/20-040r3/20-040r3.html
   type: obp
@@ -44,12 +44,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Robert Gibb
+      completename:
+        content: Robert Gibb
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -75,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

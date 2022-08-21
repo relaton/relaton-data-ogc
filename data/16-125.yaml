@@ -1,22 +1,22 @@
 ---
 id: 16-125
 title:
-- type: title-main
-  content: Publishing and Using Earth Observation Data with the RDF Data Cube and
+- content: Publishing and Using Earth Observation Data with the RDF Data Cube and
     the Discrete Global Grid System
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Publishing and Using Earth Observation Data with the RDF Data Cube and
+  type: title-main
+- content: Publishing and Using Earth Observation Data with the RDF Data Cube and
     the Discrete Global Grid System
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://www.w3.org/TR/eo-qb/
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Dmitry Brizhinev
+      completename:
+        content: Dmitry Brizhinev
   role:
   - author
 - person:
     name:
-      completename: Sam Toyer
+      completename:
+        content: Sam Toyer
   role:
   - author
 - person:
     name:
-      completename: Kerry Taylor
+      completename:
+        content: Kerry Taylor
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2020-09-17'
@@ -73,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

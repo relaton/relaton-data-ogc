@@ -1,20 +1,20 @@
 ---
 id: '08-133'
 title:
-- type: title-main
-  content: OpenGIS® Sensor Event Service Interface Specification
+- content: OpenGIS® Sensor Event Service Interface Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OpenGIS® Sensor Event Service Interface Specification
+  type: title-main
+- content: OpenGIS® Sensor Event Service Interface Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=29576
   type: obp
@@ -29,17 +29,19 @@ date:
 contributor:
 - person:
     name:
-      completename: Johannes Echterhoff
+      completename:
+        content: Johannes Echterhoff
   role:
   - author
 - person:
     name:
-      completename: Thomas Everding
+      completename:
+        content: Thomas Everding
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2008-10-10'
@@ -61,7 +63,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

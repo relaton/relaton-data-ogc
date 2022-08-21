@@ -1,27 +1,27 @@
 ---
 id: 10-086r1
 title:
-- type: title-intro
-  content: OWS-7
+- content: OWS-7
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Authoritative Data Source Directory Engineering Report
+  type: title-intro
+- content: Authoritative Data Source Directory Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-7 - Authoritative Data Source Directory Engineering Report
+  type: title-main
+- content: OWS-7 - Authoritative Data Source Directory Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=40334
   type: obp
@@ -36,12 +36,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Andrew Turner
+      completename:
+        content: Andrew Turner
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -61,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,22 +1,22 @@
 ---
 id: 19-081
 title:
-- type: title-main
-  content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
+- content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
+  type: title-main
+- content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
     Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://docs.ogc.org/per/19-081.html
   type: obp
@@ -31,12 +31,13 @@ date:
 contributor:
 - person:
     name:
-      completename: Josh Lieberman
+      completename:
+        content: Josh Lieberman
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 revdate: '2021-03-23'
@@ -70,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -1,22 +1,22 @@
 ---
 id: 14-028r1
 title:
-- type: title-main
-  content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and
+- content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and
     WPS cases'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and
+  type: title-main
+- content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and
     WPS cases'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=59618
   type: obp
@@ -31,22 +31,25 @@ date:
 contributor:
 - person:
     name:
-      completename: Edric Keighan
+      completename:
+        content: Edric Keighan
   role:
   - author
 - person:
     name:
-      completename: Benjamin Pross
+      completename:
+        content: Benjamin Pross
   role:
   - author
 - person:
     name:
-      completename: Hervé Caumont
+      completename:
+        content: Hervé Caumont
   role:
   - author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
   - publisher
 edition:
@@ -67,7 +70,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 doctype: engineering-report
 editorialgroup:
   committee: technical
