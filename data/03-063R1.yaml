@@ -59,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-09-06'
+fetched: '2022-09-07'
 doctype: other
 editorialgroup:
   committee: technical
