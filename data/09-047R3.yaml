@@ -1,0 +1,66 @@
+---
+id: '09-047r3'
+title:
+- content: OGC-NA Name type specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: documents
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC-NA Name type specification - documents
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=41774
+  type: obp
+type: standard
+docid:
+- id: '09-047r3'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-03-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Simon Cox
+  role:
+  - author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - publisher
+edition:
+  content: '3'
+revdate: '2011-03-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document specifies a rule for constructing OGC names that may be used
+    for identifying documents and elements within a document.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-09-10'
+doctype: other
+editorialgroup:
+  committee: technical
