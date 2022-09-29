@@ -76,7 +76,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-09-28'
+fetched: '2022-09-29'
 doctype: discussion-paper
 editorialgroup:
   committee: technical
