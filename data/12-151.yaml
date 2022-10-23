@@ -73,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: engineering-report
 editorialgroup:
   committee: technical
