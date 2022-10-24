@@ -61,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-23'
+fetched: '2022-10-24'
 doctype: change-request-supporting-document
 editorialgroup:
   committee: technical
