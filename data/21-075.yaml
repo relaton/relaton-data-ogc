@@ -32,18 +32,18 @@ contributor:
       completename:
         content: Andrew Lavender
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: 'Samantha Lavender '
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2022-05-06'
 language:
 - en
@@ -65,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: other
 editorialgroup:
   committee: technical

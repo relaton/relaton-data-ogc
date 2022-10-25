@@ -34,12 +34,12 @@ contributor:
       completename:
         content: Ben Domenico
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2012-10-02'
 language:
 - en
@@ -65,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

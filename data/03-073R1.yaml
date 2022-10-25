@@ -39,12 +39,12 @@ contributor:
       completename:
         content: Roel Nicolai
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2003-10-16'
@@ -59,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: abstract-specification-topic
 editorialgroup:
   committee: technical

@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Peter Baumann
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Eric Hirschorn
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Joan Masó
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '6'
 revdate: '2017-09-15'
@@ -83,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

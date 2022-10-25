@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Frédéric Houbie
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Philippe Duchesne
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Patrick Maué
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '2'
 revdate: '2012-10-10'
@@ -67,7 +67,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

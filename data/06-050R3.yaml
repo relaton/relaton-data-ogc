@@ -32,12 +32,12 @@ contributor:
       completename:
         content: Carl Reed
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '3'
 revdate: '2006-07-19'
@@ -62,7 +62,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: general
 editorialgroup:

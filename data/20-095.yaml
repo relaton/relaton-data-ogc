@@ -34,12 +34,12 @@ contributor:
       completename:
         content: DGIWG
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2021-02-25'
 language:
 - en
@@ -56,7 +56,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

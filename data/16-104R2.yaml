@@ -46,12 +46,12 @@ contributor:
       completename:
         content: Paul Scarponcini
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '2'
 revdate: '2017-08-16'
@@ -73,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

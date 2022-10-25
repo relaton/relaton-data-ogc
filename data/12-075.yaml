@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Arne Schilling
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Benjamin Hagedorn
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: 'Volker Coors '
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2012-08-22'
 language:
 - en
@@ -68,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

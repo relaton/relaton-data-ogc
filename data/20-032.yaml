@@ -39,24 +39,24 @@ contributor:
       completename:
         content: Chris Little
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Peng Yue
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Steve Olson
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2020-10-22'
 language:
 - en
@@ -73,7 +73,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

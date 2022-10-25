@@ -32,30 +32,30 @@ contributor:
       completename:
         content: Chun-fu Lin
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Zhong-Hung Lee
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Jen-Chu Liu
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Kuo-Yu Chuang
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2010-02-01'
@@ -72,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

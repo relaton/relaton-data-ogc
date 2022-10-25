@@ -32,18 +32,18 @@ contributor:
       completename:
         content: Anneley McMillan
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Sam Meek
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '2'
 revdate: '2018-01-26'
@@ -68,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

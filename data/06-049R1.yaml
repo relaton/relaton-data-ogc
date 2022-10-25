@@ -32,12 +32,12 @@ contributor:
       completename:
         content: Peter Vretanos
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2006-05-08'
@@ -58,7 +58,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: profile
 editorialgroup:

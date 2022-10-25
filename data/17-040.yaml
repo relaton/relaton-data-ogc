@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Stephen McCann
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Roger Brackin
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Gobe Hobona
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2018-01-08'
 language:
 - en
@@ -74,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -32,18 +32,18 @@ contributor:
       completename:
         content: Simon J D Cox
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: 'Peter Taylor '
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2015-12-09'
@@ -66,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

@@ -32,36 +32,36 @@ contributor:
       completename:
         content: Christiaan Lemmen
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Peter van Oosterom
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Mohsen Kalantari
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Eva-Maria Unger
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Cornelis de Zeeuw
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2019-02-12'
@@ -96,7 +96,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: other
 editorialgroup:
   committee: technical

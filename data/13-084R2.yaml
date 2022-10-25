@@ -32,30 +32,30 @@ contributor:
       completename:
         content: Uwe Voges
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Frédéric Houbie
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Nicolas Lesage
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Marie-Lise Vautier
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '2'
 revdate: '2014-04-28'
@@ -85,7 +85,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: extension
 editorialgroup:

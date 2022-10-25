@@ -39,30 +39,30 @@ contributor:
       completename:
         content: Mark Burgoyne
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: David Blodgett
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Charles Heazel
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Chris Little
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '5'
 revdate: '2022-08-05'
@@ -110,7 +110,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

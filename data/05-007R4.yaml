@@ -32,18 +32,18 @@ contributor:
       completename:
         content: Peter Schut
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Arliss Whiteside
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '4'
 revdate: '2005-09-16'
@@ -68,7 +68,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 editorialgroup:
   committee: technical

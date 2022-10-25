@@ -39,12 +39,12 @@ contributor:
       completename:
         content: Eric LaMar
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2006-07-27'
@@ -61,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

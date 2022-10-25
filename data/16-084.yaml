@@ -40,42 +40,42 @@ contributor:
       completename:
         content: Giuseppe Conti
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Fabio Malabocchia
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: " Ki-Joune Li"
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: George Percivall
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Kirk Burroughs
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Stuart Strickland
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2016-08-01'
 language:
 - en
@@ -104,7 +104,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

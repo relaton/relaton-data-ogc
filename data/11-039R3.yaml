@@ -32,18 +32,18 @@ contributor:
       completename:
         content: Irina Dornblut
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Rob Atkinson
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '3'
 revdate: '2014-02-24'
@@ -66,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

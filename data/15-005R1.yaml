@@ -39,30 +39,30 @@ contributor:
       completename:
         content: Stefan Strobel
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Dimitri Sarafinof
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: David Wesloh
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Paul Lacey
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2016-02-01'
@@ -80,7 +80,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

@@ -39,12 +39,12 @@ contributor:
       completename:
         content: Gil Fuchs
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '7'
 revdate: '2008-09-04'
@@ -62,7 +62,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

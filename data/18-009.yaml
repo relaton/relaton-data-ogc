@@ -39,30 +39,30 @@ contributor:
       completename:
         content: P S Acharya
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Scott Simmons
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: A Kaushal
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: 'M K Munshi  '
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2020-02-24'
 language:
 - en
@@ -89,7 +89,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

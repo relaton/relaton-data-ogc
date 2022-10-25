@@ -34,18 +34,18 @@ contributor:
       completename:
         content: Genong (Eugene) Yu
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Liping Di
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2014-07-16'
 language:
 - en
@@ -65,7 +65,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Fre&#769;de&#769;ric Houbie
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Fabian Skive&#769;e
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Simon Jirka
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '2'
 revdate: '2010-04-02'
@@ -72,7 +72,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

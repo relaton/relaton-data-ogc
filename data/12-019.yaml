@@ -32,30 +32,30 @@ contributor:
       completename:
         content: Gerhard Gröger
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Thomas H. Kolbe
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Claus Nagel
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Karl-Heinz Häfele
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2012-04-04'
 language:
 - en
@@ -75,7 +75,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

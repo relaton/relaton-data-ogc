@@ -34,42 +34,42 @@ contributor:
       completename:
         content: Thomas H. Kolbe
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Tatjana Kutzner
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Carl Stephen Smyth
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Claus Nagel
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Carsten Roensdorf
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Charles Heazel
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2021-09-13'
 language:
 - en
@@ -93,7 +93,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

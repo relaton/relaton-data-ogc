@@ -32,30 +32,30 @@ contributor:
       completename:
         content: Gobe Hobona
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Angelos Tzotsos
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Tom Kralidis
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Martin Desruisseaux
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2021-04-12'
 language:
 - en
@@ -74,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

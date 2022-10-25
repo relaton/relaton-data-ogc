@@ -32,48 +32,48 @@ contributor:
       completename:
         content: Joseph Abhayaratna
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Linda van den Brink
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Nicholas Car
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Rob Atkinson
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Timo Homburg
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Frans Knibbe
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Kri
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2020-10-05'
@@ -105,7 +105,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: other
 editorialgroup:
   committee: technical

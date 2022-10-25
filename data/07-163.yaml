@@ -32,18 +32,18 @@ contributor:
       completename:
         content: David Rosinger
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Stan Tillman
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2008-05-02'
 language:
 - en
@@ -60,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

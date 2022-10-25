@@ -47,36 +47,36 @@ contributor:
       completename:
         content: Lorenzo Bigagli
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Doug Nebert
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Uwe Voges
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Panagiotis Vretanos
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Bruce Westcott
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '3'
 revdate: '2016-06-10'
@@ -92,7 +92,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: other
 editorialgroup:
   committee: technical

@@ -32,30 +32,30 @@ contributor:
       completename:
         content: Jerome Gasperi
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Frédéric Houbie
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Andrew Woolf
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Steven Smolders
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '3'
 revdate: '2012-06-12'
@@ -76,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Linda van den Brink
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Jantien Stoter
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Sisi Zlatanova
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2014-01-31'
 language:
 - en
@@ -69,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

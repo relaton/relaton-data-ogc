@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Y. Coene
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: U. Voges
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: O. Barois
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2021-04-21'
@@ -91,7 +91,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

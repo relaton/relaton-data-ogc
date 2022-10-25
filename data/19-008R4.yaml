@@ -32,36 +32,36 @@ contributor:
       completename:
         content: Emmanuel Devys
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Ted Habermann
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Chuck Heazel
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Roger Lott
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Even Rouault
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '4'
 revdate: '2019-09-14'
@@ -81,7 +81,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

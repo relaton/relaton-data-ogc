@@ -34,24 +34,24 @@ contributor:
       completename:
         content: John Herring
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: OAB
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Architecture WG
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2007-07-23'
@@ -68,7 +68,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

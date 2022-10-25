@@ -34,30 +34,30 @@ contributor:
       completename:
         content: Ajay Gupta
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Luis Bermudez
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Eddie Oldfield
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Scott Serich
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2020-03-30'
 language:
 - en
@@ -76,7 +76,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: other
 editorialgroup:
   committee: technical

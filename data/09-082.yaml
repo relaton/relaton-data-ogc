@@ -34,36 +34,36 @@ contributor:
       completename:
         content: Hsu-Chun James Yu
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Zhong-Hung Lee
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Cai-Fang Ye
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Lan-Kun Chung
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Yao-Min Fang
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2009-07-27'
 language:
 - en
@@ -78,7 +78,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

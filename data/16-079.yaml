@@ -32,42 +32,42 @@ contributor:
       completename:
         content: Armin Haller
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Krzysztof Janowicz
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Simon Cox
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Danh Le Phuoc
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Kerry Taylor
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Maxime Lefrançois
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2019-07-10'
 language:
 - en
@@ -91,7 +91,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Ron Lake
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Carl Reed
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: George Percivall
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '4'
 revdate: '2005-08-29'
@@ -66,7 +66,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: discussion-paper
 editorialgroup:
   committee: technical

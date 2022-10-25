@@ -32,36 +32,36 @@ contributor:
       completename:
         content: Benjamin Hagedorn
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Simon Thum
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Thorsten Reitz
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Voker Coors
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Ralf Gutbell
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '4'
 revdate: '2017-09-13'
@@ -83,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

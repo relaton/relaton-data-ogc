@@ -32,30 +32,30 @@ contributor:
       completename:
         content: Akinori Asahara
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Ryosuke Shibasaki
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Nobuhiro Ishimaru
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: David Burggraf
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2019-01-14'
 language:
 - en
@@ -69,7 +69,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 subdoctype: implementation
 editorialgroup:

@@ -34,42 +34,42 @@ contributor:
       completename:
         content: David Blodgett
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Byron Cochrane
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Rob Atkinson
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Sylvain Grellet
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Abdelfettah Feliachi
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Alistair Ritchi
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2019-02-11'
 language:
 - en
@@ -102,7 +102,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

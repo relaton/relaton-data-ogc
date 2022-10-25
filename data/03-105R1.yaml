@@ -32,36 +32,36 @@ contributor:
       completename:
         content: Simon Cox
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Paul Daisey
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Ron Lake
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Clemens Portele
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Arliss Whiteside
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2004-04-19'
@@ -78,7 +78,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

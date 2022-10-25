@@ -39,30 +39,30 @@ contributor:
       completename:
         content: Wenny Rahayu
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Torab Torabi
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Andrew Taylor-Harris
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Florian Puersch
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '2'
 revdate: '2012-01-25'
@@ -82,7 +82,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

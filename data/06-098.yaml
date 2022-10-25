@@ -39,12 +39,12 @@ contributor:
       completename:
         content: Michael Gerlek
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2007-08-13'
 language:
 - en
@@ -61,7 +61,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: change-request-supporting-document
 editorialgroup:
   committee: technical

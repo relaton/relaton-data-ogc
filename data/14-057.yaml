@@ -40,24 +40,24 @@ contributor:
       completename:
         content: Bart De Lathouwer
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Peter Cotroneo
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Paul Lacey
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2015-03-26'
 language:
 - en
@@ -78,7 +78,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

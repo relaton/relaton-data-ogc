@@ -34,42 +34,42 @@ contributor:
       completename:
         content: Marie-Françoise Voidrot-Martinez
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Chris Little
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Jürgen Seib
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Roy Ladner
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Adrian Custer
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Jeff de La B
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2014-04-14'
@@ -92,7 +92,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: best-practice
 subdoctype: general
 editorialgroup:

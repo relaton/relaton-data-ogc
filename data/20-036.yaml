@@ -32,24 +32,24 @@ contributor:
       completename:
         content: Emeric Beaufays
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: C.J. Stanbridge
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Rob Smith
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2021-01-13'
 language:
 - en
@@ -71,7 +71,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

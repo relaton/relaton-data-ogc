@@ -32,12 +32,12 @@ contributor:
       completename:
         content: Jean-Philippe Humblet
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2003-01-21'
 language:
 - en
@@ -53,7 +53,7 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: standard
 editorialgroup:
   committee: technical

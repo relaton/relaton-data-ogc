@@ -34,24 +34,24 @@ contributor:
       completename:
         content: Edric Keighan
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Benjamin Pross
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Hervé Caumont
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2014-10-14'
@@ -70,7 +70,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

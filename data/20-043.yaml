@@ -34,30 +34,30 @@ contributor:
       completename:
         content: Stefan Achtsnit
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Joachim Ungar
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: and Stephan Meißl (EOX)
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Anja Vrecko and Grega Milčinski (Sinergise)
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2020-10-22'
 language:
 - en
@@ -74,7 +74,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

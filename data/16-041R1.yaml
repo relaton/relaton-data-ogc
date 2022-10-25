@@ -32,30 +32,30 @@ contributor:
       completename:
         content: Liping Di
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Eugene G. Yu
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Md Shahinoor Rahman
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Ranjay Shrestha
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 revdate: '2017-06-30'
@@ -83,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical

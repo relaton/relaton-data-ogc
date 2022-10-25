@@ -32,36 +32,36 @@ contributor:
       completename:
         content: Giovanni Giacco
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Mauro Manente
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Pedro Gonçalves
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Martin Desruisseaux
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Even Rouault
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 revdate: '2022-01-24'
 language:
 - en
@@ -80,7 +80,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: engineering-report
 editorialgroup:
   committee: technical
