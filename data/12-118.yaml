@@ -55,7 +55,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-11-07'
+fetched: '2022-11-08'
 doctype: engineering-report
 editorialgroup:
   committee: technical
