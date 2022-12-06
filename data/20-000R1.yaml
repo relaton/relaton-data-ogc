@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 20-000r1
 title:
 - content: CityGML Urban Planning ADE for i-Urban Revitalization
@@ -97,7 +98,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: discussion-paper
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

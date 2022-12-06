@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 15-113r6
 title:
 - content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
@@ -62,8 +63,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

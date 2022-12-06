@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: '08-022r1'
 title:
 - content: Change Request
@@ -76,7 +77,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: change-request-supporting-document
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

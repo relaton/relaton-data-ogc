@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: '09-046r6'
 title:
 - content: OGC Naming Authority
@@ -70,7 +71,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

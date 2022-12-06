@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 13-084r2
 title:
 - content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
@@ -85,8 +86,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: extension
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

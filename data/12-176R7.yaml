@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 12-176r7
 title:
 - content: OGC® Catalogue Services 3.0 Specification
@@ -97,8 +98,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

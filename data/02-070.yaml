@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 02-070
 title:
 - content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
@@ -51,8 +52,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

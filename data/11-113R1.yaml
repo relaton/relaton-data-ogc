@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 11-113r1
 title:
 - content: OWS-8 Information Model for Moving Target Indicators and Moving Object
@@ -64,7 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: engineering-report
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

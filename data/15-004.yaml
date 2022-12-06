@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 15-004
 title:
 - content: OGC Common DataBase Volume 2 Appendices
@@ -83,8 +84,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: best-practice
 subdoctype: general
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

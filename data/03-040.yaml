@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 03-040
 title:
 - content: OGC Reference Model
@@ -52,7 +53,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: reference-model
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

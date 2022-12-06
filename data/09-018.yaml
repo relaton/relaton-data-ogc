@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: '09-018'
 title:
 - content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
@@ -62,7 +63,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: discussion-paper
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

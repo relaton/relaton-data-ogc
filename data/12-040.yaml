@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 12-040
 title:
 - content: OGC® Web Coverage Service Interface Standard
@@ -66,8 +67,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: extension
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

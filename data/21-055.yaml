@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 21-055
 title:
 - content: July 2021 OGC API Code Sprint Summary Engineering Report
@@ -62,7 +63,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: engineering-report
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

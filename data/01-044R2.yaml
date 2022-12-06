@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 01-044r2
 title:
 - content: Units of Measure and Quantity Datatypes
@@ -52,7 +53,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: discussion-paper
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

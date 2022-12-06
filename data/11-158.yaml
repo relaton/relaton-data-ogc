@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 11-158
 title:
 - content: Corrigendum 2 for OGC Web Services Common Specification v 1.1.0
@@ -64,8 +65,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

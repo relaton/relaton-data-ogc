@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 15-045r7
 title:
 - content: 'OGC MetOcean Application profile for WCS2.1: Part 0 MetOcean Metadata'
@@ -68,8 +69,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

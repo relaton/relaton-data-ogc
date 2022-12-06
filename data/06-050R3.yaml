@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 06-050r3
 title:
 - content: GeoRSS, An Introduction to
@@ -62,8 +63,10 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: general
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

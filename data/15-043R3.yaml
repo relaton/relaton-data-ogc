@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 15-043r3
 title:
 - content: 'Timeseries Profile of Observations and Measurements '
@@ -64,8 +65,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

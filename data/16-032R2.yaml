@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 16-032r2
 title:
 - content: 'OGC WaterML 2: Part 4 – GroundWaterML 2 (GWML2)'
@@ -53,8 +54,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 subdoctype: implementation
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

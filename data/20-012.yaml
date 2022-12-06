@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 20-012
 title:
 - content: UML-to-GML Application Schema Pilot (UGAS-2020) Engineering Report
@@ -102,7 +103,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: engineering-report
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

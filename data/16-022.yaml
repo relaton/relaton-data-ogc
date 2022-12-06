@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 16-022
 title:
 - content: Testbed-12 WPS Conflation Service Profile Engineering Report
@@ -61,7 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: engineering-report
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

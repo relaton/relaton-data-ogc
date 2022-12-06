@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 12-146
 title:
 - content: OGC® OWS-9 Web Feature Service Temporality Extension Engineering Report
@@ -58,7 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: engineering-report
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

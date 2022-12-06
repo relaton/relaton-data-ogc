@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: 03-036
 title:
 - content: Web Map Context Documents
@@ -53,7 +54,9 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-12-05'
+fetched: '2022-12-06'
 doctype: standard
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1
