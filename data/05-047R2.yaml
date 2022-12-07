@@ -62,7 +62,6 @@ abstract:
 docstatus:
   stage:
     value: draft
-fetched: '2022-12-06'
 doctype: standard
 editorialgroup:
   committee: technical

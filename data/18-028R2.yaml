@@ -83,7 +83,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-06'
 doctype: engineering-report
 editorialgroup:
   committee: technical
