@@ -64,15 +64,25 @@ abstract:
     Point Clouds. It defines a hierarchical data structure and a set of tile formats
     which deliver renderable content. 3D Tiles does not define explicit rules for
     visualization of the content; a client may visualize 3D Tiles data however it
-    sees fit.\r\n\r\nA 3D Tiles data set, called a tileset, contains any combination
-    of tile formats organized into a spatial data structure.\r\n\r\n3D Tiles are declarative,
-    extendable, and applicable to various types of 3D data. The following tile formats
-    have been specified as part of this document:\r\n\r\nBatched 3D Model\r\nInstanced
-    3D Model\r\nPoint Cloud\r\nComposite\r\nThis document also describes 3D Tile Styles,
-    a declarative styling specification which may be applied to tilesets.\r\n\r\nThe
-    3D Tiles specification for tilesets, associated tile formats, and the associated
-    styling specification are open formats that are not dependent on any vendor-specific
-    solution, technology, or products."
+    sees fit.\r\n\r\nA 3D Tiles data set, called a tileset, contains 3D data organized
+    into a spatial data structure. The primary format for delivering the 3D data is
+    glTF 2.0. Additional formats for geospatial tile data are also specified in this
+    document. These tile formats include Batched 3D Models, Instanced 3D Models, Point
+    Clouds and Composite tiles.\r\n\r\nThis document specifies the following elements
+    of a tileset:\r\n\r\nThe core data structures for tilesets\r\nTile formats for
+    delivering 3D data\r\nAn implicit representation of tilesets that are organized
+    in quadtrees or octrees\r\nMetadata that may be associated to elements of a tileset
+    on different levels of granularity\r\nDeclarative styling which may be applied
+    to tilesets for their visualization\r\nThe 3D Tiles specification for tilesets,
+    associated tile formats, metadata, and the associated styling specification are
+    open formats that are not dependent on any vendor-specific solution, technology,
+    or products.\r\n\r\nThe majority of the content in this OGC document is a direct
+    copy of the content contained at the 1.1 tag of the 3d-tiles repo. No normative
+    changes have been made to the content. This OGC document does contain content
+    not contained in the 1.1 tag of the 3d-tiles repo.\r\n\r\nCesium has published
+    the 3D Tiles 1.1 Reference Card as an approachable and concise guide to learning
+    about the main concepts in 3D Tiles, intended to jumpstart developers in adopting
+    3D Tiles."
   language:
   - en
   script:
