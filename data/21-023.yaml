@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.1
+id: 21-023
+title:
+- content: Earth Observation Cloud Platform Concept Development Study Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Earth Observation Cloud Platform Concept Development Study Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/21-023.html
+  type: obp
+type: standard
+docid:
+- id: 21-023
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-12-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Johannes Echterhoff
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Julia Wagemann
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Josh Lieberman
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2021-12-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Earth Observation Cloud Platform Concept Development Study (CDS) evaluates
+    the readiness of satellite data providers and cloud service providers, as well
+    as the maturity of their current systems, with regard to real-world deployment
+    of the new “Applications-to-the-Data” paradigm, using cloud environments for EO
+    data storage, processing, and retrieval.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.1
+id: 18-101
+title:
+- content: Vector Tiles Pilot Extension Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Vector Tiles Pilot Extension Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/18-101.html
+  type: obp
+type: standard
+docid:
+- id: 18-101
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-04-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jeff Yutzler
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2019-04-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The purpose of the OGC Vector Tiles Pilot Extension (VTPExt) was to address
+    portrayal and style encoding concerns that were discovered in the initial phase
+    of the Vector Tiles Pilot (VTP). During the VTPExt, participants selected a common
+    baseline style used by all participants and in some cases created additional style
+    offerings. The work conducted during the VTPExt has adhered to the established
+    findings from the initial VTP documented in the VTP Summary Engineering Report
+    (ER) [1].\r\n\r\nThis document describes the following:\r\n\r\nthe research and
+    evaluation to determine approach(es) to apply styling to Mapbox and GeoJSON Tiled
+    Feature Data through Web Feature Service (WFS) 3.0, Web Map Tile Service (WMTS)
+    1.0, and GeoPackage (GPKG) 1.2,\r\n\r\nthe styling approach, challenges, and interoperability
+    considerations discovered during the initiative, and\r\n\r\nany extensions required
+    or best practices recommended to facilitate development, encoding, offering, and
+    exchange of styles. This includes how styles are offered from servers, how the
+    desired style offering can be selected by the client from multiple server style
+    offerings (e.g. GetStyles request), and how clients can apply their own styles."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

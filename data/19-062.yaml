@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.1
+id: 19-062
+title:
+- content: OGC API Hackathon 2019 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC API Hackathon 2019 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/19-062.html
+  type: obp
+type: standard
+docid:
+- id: 19-062
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-11-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gobe Hobona
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2019-11-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The subject of this Engineering Report (ER) is a hackathon event that was
+    held from 20 to 21 June 2019 to advance the development of OGC Application Programming
+    Interface (API) specifications. An API is a standard set of documented and supported
+    functions and procedures that expose the capabilities or data of an operating
+    system, application or service to other applications (adapted from ISO/IEC TR
+    13066-2:2016). The OGC API Hackathon 2019, as the event was called, was hosted
+    by Geovation at its hub in London, United Kingdom. The event was sponsored by
+    the European Space Agency (ESA) and Ordnance Survey.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

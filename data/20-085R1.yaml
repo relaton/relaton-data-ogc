@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: 20-085r1
+title:
+- content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
+    3D Modeling, Simulation, and Game Engines
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
+    3D Modeling, Simulation, and Game Engines
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://usgif.org/usgif_msgwg_ogc_technical_paper_march_2021/
+  type: obp
+type: standard
+docid:
+- id: 20-085r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-03-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: USGIF & OGC
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2021-03-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The objectives of this MS&G\r\nTechnical Paper are focused on identifying
+    technology trends\r\nthat are influencing the convergence of GEOINT and M&S\r\ntradecraft.
+    The purpose is to advance ideas and techniques,\r\nsuch as reality modeling of
+    3D environments, which increase\r\nthe knowledge-base and capacity of the geospatial
+    analyst\r\ncommunity writ large."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

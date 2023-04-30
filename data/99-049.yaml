@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.1
+id: 99-049
+title:
+- content: OpenGIS Simple Features Implementation Specification for SQL
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Simple Features Implementation Specification for SQL
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=829
+  type: obp
+type: standard
+docid:
+- id: 99-049
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '1999-05-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Keith Ryden
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '1999-05-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Simple Feature Specification application programming interfaces (APIs)
+    provide for publishing, storage, access, and simple operations on Simple Features
+    (point, line, polygon, multi-point, etc).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

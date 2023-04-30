@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: 17-041
+title:
+- content: 'OGC Testbed-13: Vector Tiles Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-13: Vector Tiles Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/17-041.html
+  type: obp
+type: standard
+docid:
+- id: 17-041
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-02-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stefano Cavazzi
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2018-02-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) captures
+    the requirements, solutions, and implementation experiences of the Vector Tiling
+    work package in OGC Testbed-13 [Available at: http://www.opengeospatial.org/projects/initiatives/testbed13].
+    This ER describes the evaluation of existing vector tiling solutions. The evaluation
+    was used to define a conceptual model that integrates elements from different
+    approaches to vector tiling. This is followed by an overview of how the developed
+    implementation integrates vector tiles containing World Geodetic System 1984 (WGS84),
+    European Terrestrial Reference System 1989 (ETRS89) and British National Grid
+    projection data, standards based tile schemas and moving features. Best practice
+    guidelines for the use of Symbology Encoding (SE) and Styled Layer Descriptor
+    (SLD) are also provided ensuring the service is optimized for analysis and low-bandwidth
+    networks. The report concludes with an investigation on how existing OGC services
+    may be extended with the necessary capabilities enabling the full range of geometry
+    types and tiling strategies to support vector tiling.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

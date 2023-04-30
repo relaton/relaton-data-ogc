@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: 12-117r1
+title:
+- content: OGC Standard for Moving Features; Requirements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Standard for Moving Features; Requirements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=51623
+  type: obp
+type: standard
+docid:
+- id: 12-117r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-12-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ryosuke Shibasaki
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2012-12-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Applications using moving feature data, typically on vehicles and pedestrians,
+    have\r\nrecently been rapidly increasing. Innovative applications are expected
+    to require the\r\noverlay and integration of moving feature data from different
+    sources to create more\r\nsocial and business values. Efforts in this direction
+    should be encouraged by ensuring\r\nsmoother data exchange because handling and
+    integrating moving feature data will\r\nbroaden the market for geo-spatial information.
+    This discussion paper provides an\r\noverview of some actual and potential geo-spatial
+    applications using moving feature data\r\nand the existing international standards
+    or specifications on moving feature data handling.\r\nIt also summarizes the requirements
+    set on the standards for moving feature data, and\r\nfinally proposes the development
+    of a new OGC standard for moving features."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

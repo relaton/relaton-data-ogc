@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.1
+id: 07-163
+title:
+- content: OWS-5 Data View Architecture Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-5 Data View Architecture Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=27330
+  type: obp
+type: standard
+docid:
+- id: 07-163
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2008-05-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Rosinger
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Stan Tillman
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2008-05-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC document presents a summary of the Data View Architecture experiment
+    conducted as part of the Geo-Processing Workflow (GPW) thread in the OWS-5 test
+    bed. The main activities in this experiment were the storage of Data Views in
+    an ebRIM Catalog and the discovery and use of those Data Views by an Integrated
+    Client.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

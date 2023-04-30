@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.1
+id: 15-005r1
+title:
+- content: DGIWG
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Web Feature Service 2.0 Profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: DGIWG - Web Feature Service 2.0 Profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=66933
+  type: obp
+type: standard
+docid:
+- id: 15-005r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-02-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stefan Strobel
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dimitri Sarafinof
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: David Wesloh
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Paul Lacey
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2016-02-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document defines the DGIWG profile for the ISO\r\n19142:2010 - Web
+    Feature Service (WFS) including changes\r\nmade in the OpenGIS Web Feature Service
+    2.0 Interface\r\nStandard - Corrigendum. The Web Feature Service provides\r\naccess
+    to geospatial features in a manner independent of the\r\nunderlying data store."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

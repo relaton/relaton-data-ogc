@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 19-015
+title:
+- content: 'OGC Testbed-15: Federated Cloud Provenance ER'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-15: Federated Cloud Provenance ER'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/19-015.html
+  type: obp
+type: standard
+docid:
+- id: 19-015
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-02-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stephane Fellah
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2020-02-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The emergence of Federated Cloud processing and ‘Big Data’ have raised
+    many concerns over the use to which data is being put. This led to new requirements
+    for methodologies, and capabilities which can address transparency and trust in
+    data provenance in the Cloud. Distributed Ledger Technologies (DLTs) and more
+    specifically blockchains, have been proposed as a possible platform to address
+    provenance. This OGC Testbed 15 Engineering Report (ER) is a study of the application
+    of DLTs for managing provenance information in Federated Clouds.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

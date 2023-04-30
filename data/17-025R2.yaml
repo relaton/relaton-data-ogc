@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.1
+id: 17-025r2
+title:
+- content: 'OGC Testbed-13: Quality Assessment Service Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-13: Quality Assessment Service Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/17-025r2.html
+  type: obp
+type: standard
+docid:
+- id: 17-025r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-03-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aleksandar Balaban
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2018-03-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Engineering Report (ER) has been produced in conjunction with two
+    other engineering reports from the OGC Testbed 13, the Abstract Data Quality ER
+    [4] and the Data Quality Specification ER [5] to capture status quo, discussions,
+    and results in the context of requirements for data quality assessment for Quality
+    of Service in the Aviation Domain. It will, in particular, provide a Data Quality
+    Assessment Service Specification. Much of the ER is presented in the future tense,
+    using terms such as 'shall', in order to express requirements and constraints
+    on future Data Quality Assessment Service implementations. The service specification
+    includes design patterns, extension mechanisms, and service interface considerations.\r\n\r\nIn
+    recent years, the concept of data quality has generated a notable interest among
+    System Wide Information Management (SWIM) [17] implementers, both organization-specific
+    and global. In the context of SWIM — and Service Oriented Architecture (SOA) implementations
+    in general — data quality pertains to two major use cases, service advertising
+    and service validation:\r\n\r\nService advertising\r\na service makes known to
+    a potential consumer the quality of the data provided by the service. Based on
+    this information, the consumer can determine whether or not the service meets
+    its needs.\r\n\r\nService validation\r\nassurance is given that the quality of
+    the data provided by a service is consistent with the quality that is explicitly
+    defined in a service contract or any kind of agreement that may exist between
+    a service provider and service consumer.\r\n\r\nBoth use cases share two common
+    preconditions:\r\n\r\nAn unambiguous definition of the concept of data quality
+    exists.\r\n\r\nA set of measurable parameters that allow specifying data quality
+    is defined.\r\n\r\nThese are tasks that were performed as part of Testbed 13.
+    The findings of the tasks are documented in the Abstract Data Quality ER (FA001)[4]
+    and the Data Quality Specification ER (FA002)[5]."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.1
+id: 17-084r1
+title:
+- content: EO Collection GeoJSON(-LD) Encoding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: EO Collection GeoJSON(-LD) Encoding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/bp/17-084r1/17-084r1.html
+  type: obp
+type: standard
+docid:
+- id: 17-084r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-04-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Y. Coene
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: U. Voges
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: O. Barois
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2021-04-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "JavaScript Object Notation (JSON) [NR1] has been gaining in popularity
+    for encoding data in Web-based applications. JSON consists of sets of objects
+    described by name/value pairs. GeoJSON [NR2] is a format for encoding collections
+    of simple geographical features along with their non-spatial attributes using
+    JSON. This OGC Best Practice describes a GeoJSON [NR2] and JSON-LD [NR13] encoding
+    for Earth Observation (EO) metadata for collections (dataset series). This standard
+    can be applied to encode metadata based on the OGC 11-035r1 [OR20] or ISO19139
+    [OR27], ISO19139-2 [OR28] specifications, or as an encoding of the Unified Metadata
+    Model for Collections (UMM-C) conceptual model [OR2].\r\n\r\nThe GeoJSON encoding
+    defined in this document is defined as a compaction1 through a normative context,
+    of the proposed JSON-LD encoding, with some extensions as presented in section
+    8 of this document. Therefore, the JSON-LD encoding can also be applied to other
+    RDF [OR8] encodings including RDF/XML [OR11] and RDF Turtle [OR12].\r\n\r\nThis
+    document makes no assumptions as to the “service” interfaces through which the
+    metadata are accessed and applies equally well to a Service Oriented Architecture
+    as well as a Resource Oriented or RESTful Architecture.\r\n\r\nGeoJSON is a format
+    for encoding collections of simple geographical features along with their non-spatial
+    attributes using JSON. GeoJSON objects may represent a geometry, a feature, or
+    a collection of features. GeoJSON supports the following geometry types derived
+    from the OGC Simple Features specification: Point, LineString, Polygon, MultiPoint,
+    MultiLineString, MultiPolygon, and GeometryCollection. Features in GeoJSON contain
+    a geometry object and additional properties, and a feature collection represents
+    a list of features.\r\n\r\nJSON is human readable and easily parseable. However,
+    JSON is schemaless. JSON and GeoJSON documents do not include an explicit definition
+    of the structure of the JSON objects contained in them. Therefore, this standard
+    is based on a normative JSON-LD context which allows each property to be explicitly
+    defined as a URI. Furthermore, the JSON encoding is defined using JSON Schema
+    [OR7] which allows validation of instances against these schemas."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

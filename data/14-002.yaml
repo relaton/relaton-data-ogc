@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.1
+id: 14-002
+title:
+- content: OGC® Testbed 10 Annotations Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed 10 Annotations Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=58965
+  type: obp
+type: standard
+docid:
+- id: 14-002
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-07-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joan Masó and Raj Singh
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2014-07-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Engineering Report provides guidelines for dealing with geospatial\r\nannotations
+    in OGC standards. It proposes a generic data model and a set of mappings\r\ninto
+    different popular encodings This OGC® document is applicable to OWS context,\r\nGMLJP2
+    and any other standards that can require annotations."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

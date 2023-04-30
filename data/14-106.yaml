@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 14-106
+title:
+- content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/bp/14-106/14-106.html
+  type: obp
+type: standard
+docid:
+- id: 14-106
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2015-01-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jennifer Harne
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2015-01-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document provides an overview of the Unified Geo-data Reference Model
+    for Law Enforcement and Public Safety (Unified Model). The Unified Model was originally
+    developed by the GIS Center for Security (GIS CS), Abu Dhabi Police. The GIS CS
+    was initiated based on a UAE Ministry of Interior issued decree to establish GIS
+    CS with the core mission: “To geo-enable police services and applications using
+    International standards and best practices.” In 2010, the GIS SC initiated a program
+    to develop a Standardized GIS Environment (SGA). Part of this effort was to define
+    and implement a standard data model for sharing Law Enforcement and Public Safety
+    data.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

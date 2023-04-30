@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: 12-006
+title:
+- content: OGC® Sensor Observation Service Interface Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Sensor Observation Service Interface Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=47599
+  type: obp
+type: standard
+docid:
+- id: 12-006
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-04-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arne Bröring
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Christoph Stasch
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Johannes Echterhoff
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2012-04-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The SOS standard is applicable to use cases in which sensor data needs
+    to be managed in an\r\ninteroperable way. This standard defines a Web service
+    interface which allows querying\r\nobservations, sensor metadata, as well as representations
+    of observed features. Further, this\r\nstandard defines means to register new
+    sensors and to remove existing ones. Also, it defines\r\noperations to insert
+    new sensor observations. This standard defines this functionality in a binding\r\nindependent
+    way; two bindings are specified in this document: a KVP binding and a SOAP\r\nbinding."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.1
+id: 17-047r1
+title:
+- content: OGC OpenSearch-EO GeoJSON(-LD) Response Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC OpenSearch-EO GeoJSON(-LD) Response Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/17-047r1/17-047r1.html
+  type: obp
+type: standard
+docid:
+- id: 17-047r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-04-27'
+contributor:
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2020-04-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OpenSearch specification [NR3] is defined as a binding of the Abstract
+    Protocol Definition (APD) for the searchRetrieve operation, one of a set of documents
+    [NR4] for the OASIS Search Web Services (SWS) initiative [OR1]. The OpenSearch
+    Description Document (OSDD) allows clients to retrieve service metadata from an
+    OpenSearch implementation. The OSDD format allows the use of extensions that allow
+    search engines to inform clients about specific and contextual query parameters
+    and response formats. The OpenSearch extension for Earth Observation (EO) collections
+    and products search is defined in [OR20]. The mandatory response format is based
+    on Atom 1.0/XML [OR14].\r\n\r\nJavaScript Object Notation (JSON) [NR1] has been
+    gaining in popularity for encoding data in Web-based applications. JSON consists
+    of sets of objects described by name/value pairs.  GeoJSON [NR2] is a format for
+    encoding collections of simple geographical features along with their non-spatial
+    attributes using JSON. This OGC standard describes a GeoJSON [NR2] and JSON-LD
+    [NR15] encoding for OpenSearch Response documents.\r\n\r\nThe GeoJSON encoding
+    defined in this document is defined as a compaction[1] through a normative context,
+    of the proposed JSON-LD encoding, with some extensions as presented in section
+    8 of this document.  Therefore, the JSON-LD encoding can also be applied to other
+    RDF [OR8] encodings including RDF/XML [OR11] and RDF Turtle [OR12].\r\n\r\nAlthough
+    this document makes no assumptions as to the “service” interfaces through which
+    the Search Response is obtained and applies equally well to a Service Oriented
+    Architecture as well as a Resource Oriented or RESTful architecture.  The documented
+    approach is mainly intended to be applied in combination with the following technologies:\r\n\r\nOGC
+    OpenSearch extensions [OR19], [OR20], [NR3].\r\nGeoJSON is a format for encoding
+    collections of simple geographical features along with their non-spatial attributes
+    using JSON. GeoJSON objects may represent a geometry, a feature, or a collection
+    of features. GeoJSON supports the following geometry types derived from the OGC
+    Simple Features specification: Point, LineString, Polygon, MultiPoint, MultiLineString,
+    MultiPolygon and GeometryCollection. Features in GeoJSON contain a geometry object
+    and additional properties, and a feature collection represents a list of features.\r\n\r\nJSON
+    is human readable and easily parseable. However, JSON is schemaless.  JSON and
+    GeoJSON documents do not include an explicit definition of the structure of the
+    JSON objects contained in them.  Therefore, this standard is based on a normative
+    JSON-LD context which allows each property to be explicitly defined as a URI.
+    \ Furthermore, the JSON encoding is defined using JSON Schema [OR24] which allows
+    validation of instances against these schemas."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

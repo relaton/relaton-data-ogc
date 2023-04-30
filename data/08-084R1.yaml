@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.1
+id: '08-084r1'
+title:
+- content: OWS-5 CITE Summary Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-5 CITE Summary Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=29505
+  type: obp
+type: standard
+docid:
+- id: '08-084r1'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2008-08-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jen Marcus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2008-08-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document summarizes work completed in the OWS5 Compliance & Interoperability
+    Test & Evaluation thread.  This  document is applicable to the OGC Compliance
+    Test Program.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

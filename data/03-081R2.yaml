@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: 03-081r2
+title:
+- content: OpenGIS Web Terrain Service RFC
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Web Terrain Service RFC
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=11499
+  type: obp
+type: standard
+docid:
+- id: 03-081r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2003-11-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joshua Lieberman
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2003-11-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document is a companion specification to the OpenGIS Web Map Service
+    Interface Implementation Specification version 1.1.1 [4], hereinafter WMS 1.1.1.
+    \r\nWMS 1.1.1 specifies how individual map servers describe and provide their
+    map content.  The present Web Terrain Service specification describes a new operation,
+    GetView, and extended Capabilities which allow a 3D terrain view image to be requested,
+    given a map composition, a terrain model on which to drape the map, and a 3D viewpoint
+    from which to render the terrain view. A simple attempt is also made to reconcile
+    2D and 3D viewpoints by allowing the requested 3D area of view to be approximated
+    with a WMS 1.1.1 bounding box"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+doctype: standard
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

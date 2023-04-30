@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 18-036r1
+title:
+- content: 'OGC Testbed-14: WPS-T Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-14: WPS-T Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/18-036r1.html
+  type: obp
+type: standard
+docid:
+- id: 18-036r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-02-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Benjamin Pross
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Arnaud Cauchy
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2019-02-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Engineering Report describes a proposed transactional extension for
+    the OGC Web Processing Service (WPS) 2.0 standard including Key-Value Pair (KVP)
+    and Extensible Markup Language (XML) bindings and recommendations for a process
+    deployment profile for BPMN (Business Process Model and Notation).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

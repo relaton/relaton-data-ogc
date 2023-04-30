@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.1
+id: 16-027
+title:
+- content: Testbed-12 Web Service Implementation Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Testbed-12 Web Service Implementation Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/16-027.html
+  type: obp
+type: standard
+docid:
+- id: 16-027
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-05-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Johannes Echterhoff
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2017-05-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document is a deliverable of the OGC Testbed-12. It describes the
+    results of analyzing the Testbed-12 web service implementations.\r\n\r\nOGC has
+    been developing web service specifications since the OGC Web Mapping Testbed in
+    1999. In particular, the original OGC Web Map Service specification has been developed
+    during that testbed. 17 years later most current OGC web service standards still
+    follow the general approach that had been developed in 1999 (the capabilities
+    document, the remote procedure call via HTTP paradigm, etc).\r\n\r\nOver time,
+    the OGC web service approach has been amended and extended in different ways by
+    different OGC standards and profiles. In addition, some of the more flexible mechanisms
+    have been used in practice in different ways by different software vendors or
+    communities. The OGC Web Service Common standard had been a response by OGC to
+    these developments and aimed at maintaining a consistent approach across the different
+    OGC web service standards. However, this effort has been only partially successful
+    for several reasons, including shortcomings in the OWS Common standard, the existence
+    of multiple incompatible OWS Common versions and a reluctance by working groups
+    and communities to introduce incompatible changes to existing service types in
+    order to harmonize. All attempts in recent years to continue the work on OWS Common
+    have not seen much traction. While there seems to be general agreement that the
+    current situation is not optimal and that consistency is desirable, it is unclear
+    how to improve in a way that meets market demands.\r\n\r\nThis document summarizes
+    information about the web service implementations in Testbed-12. It is not and
+    should not be understood as a general analysis or assessment of the OGC web service
+    architecture, but a low-key effort to gain some insights from looking at a significant
+    number of web service implementations and their use in interoperability experiments
+    and demos.\r\n\r\nDuring the years since 1999 not only the OGC standards baseline
+    has evolved, but also the Web itself. The W3C has been working on identifying
+    Best Practices for Data on the Web and W3C and OGC are jointly working on extending
+    this with Best Practices for Spatial Data on the Web. The analysis also includes
+    an assessment about the OGC approach to web services with respect to the draft
+    best practices at the time of writing of this report.\r\n\r\nTo the extent possible,
+    we draw conclusions and recommendations from the information that has been gathered.
+    These fall into three categories:\r\n\r\nImproving the interoperability of OGC
+    web services as they are today\r\n\r\nSupport for new requirements in a consistent
+    way across service types\r\n\r\nImprovements to the standardization process\r\n\r\nIn
+    addition, there is also a specific case that does not fit into these general categories."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

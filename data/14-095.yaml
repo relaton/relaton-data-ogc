@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: 14-095
+title:
+- content: OGC Information Technology Standards for Sustainable Development
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Information Technology Standards for Sustainable Development
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=60920
+  type: obp
+type: standard
+docid:
+- id: 14-095
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2015-01-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lance McKee
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2015-01-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Sustainable development, meeting the needs of the present without compromising
+    the\r\nability of future generations to meet their own needs,1\r\n will be accomplished
+    by\r\nbalancing social, economic and environmental objectives. In this paper the
+    authors\r\nexplain that rigorous standards for communicating environmental data
+    are absolutely\r\nessential to enable social and economic progress in the Age
+    of the Environment2 – the\r\nAnthropocene Epoch3 – in which humanity's expanding
+    footprint has become the main\r\ncause of change in the planet's geology, water
+    bodies, atmosphere and biosphere. The\r\nauthors argue for a concerted and ongoing
+    global effort to 1) define data communication\r\nand system interoperability requirements
+    for environmental science, business and policy,\r\nand then 2) develop and implement
+    consensus-derived, free and open environmental\r\nInformation Technology (IT)
+    standards that meet those requirements and that co-evolve\r\nwith the larger IT
+    standards framework and advances in IT."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

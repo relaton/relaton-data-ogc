@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 14-009r1
+title:
+- content: 'OGC® Testbed-10 Rules for JSON and GeoJSON Adoption: Focus on OWS-Context'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC® Testbed-10 Rules for JSON and GeoJSON Adoption: Focus on OWS-Context'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=57477
+  type: obp
+type: standard
+docid:
+- id: 14-009r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-04-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Pedro Gonçalves
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2014-04-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document identifies the generic rules for obtaining JSON documents
+    directly from existing XML documents and schemas elements. It is primordially
+    targeting the OWS Context JSON Encoding design, but is presented in a generic
+    approach. Such generic approach can offer the guidelines for other OGC services,
+    when defining and using JSON encodings.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

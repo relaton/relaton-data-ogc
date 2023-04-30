@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: 05-013
+title:
+- content: Web Coordinate Transformation Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Web Coordinate Transformation Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=8847
+  type: obp
+type: standard
+docid:
+- id: 05-013
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2005-04-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Markus U. M
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2005-04-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document specifies the interface to a Web Coordinate Transformation
+    Service (WCTS), which can be used by geospatial applications and other services.
+    Transformation of geospatial data from one coordinate reference system (CRS) to
+    another is frequently required when using data from different sources in one application.
+    That is, geospatial data are often stored in different coordinate reference systems
+    (CRSs). To use together data stored in different CRSs, such data must be transformed
+    or converted into the same CRS. Not all applications or services are capable of
+    directly performing such transformations. \r\n\r\nThis document specifies an OGC
+    Web Service type of interface to a service that performs coordinate transformations.
+    Such transformations include all the types of coordinate operations, including
+    both transformations and conversions. This service inputs digital features or
+    coverages in one CRS and outputs the same features in a different CRS. The service
+    inputs include identifications of the input and output CRSs, and optionally the
+    coordinate transformation between these CRSs.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

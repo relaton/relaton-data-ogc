@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.1
+id: 16-007r3
+title:
+- content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=72723
+  type: obp
+type: standard
+docid:
+- id: 16-007r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-02-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sara Saeedi
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2017-02-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This Open Geospatial Consortium (OGC) standard defines the conceptual
+    model for the OGC CDB 1.0 Standard. The objective of this document is to provide
+    an abstract core conceptual model for a CDB data store (repository). The model
+    is represented using UML (unified modeling language). The conceptual model is
+    comprised of concepts, schema, classes and categories as well as their relationships,
+    which are used to understand, and/or represent an OGC CDB data store. This enables
+    a comparison and description of the CDB data store structure on a more detailed
+    level. This document was created by reverse-engineering a UML model and documentation
+    from the OGC CDB standard as a basis for supporting OGC interoperability. One
+    of the important roles of this conceptual model is to provide a UML model that
+    is consistent with the other OGC standards and to identify functional gaps between
+    the current CDB data store and the OGC standards baseline.  This document references
+    sections of Volume 1: OGC CDB Core Standard: Model and Physical Database Structure
+    [OGC 15-113].'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

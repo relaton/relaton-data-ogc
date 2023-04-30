@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: 17-059
+title:
+- content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
+    (1.1.0) for OGC
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
+    (1.1.0) for OGC
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/dp/17-059/17-059.html
+  type: obp
+type: standard
+docid:
+- id: 17-059
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-10-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lars Schylberg
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lubos Belka
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2017-10-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The DGIWG Portrayal Technical Panel (DPTP) has been investigating how
+    to standardize the portrayal of military context symbology within Web Services.
+    The team sought to use version 1.1.0 of OGC Style Layer Descriptor standard and
+    version 1.1.0 of Symbology Encoding (SLD and SE) standard to achieve this.\r\nThe
+    team sought to apply military-specific symbology to military-specific topographic
+    feature vector datasets within a number of software products.\r\nThe testing and
+    experimentation highlighted a number of deficiencies in the SLD and SE standards
+    which result in a barrier to interoperability. The ideal situation would be to
+    have SLD and SE descriptors interoperable between all software products that implement
+    the standard. This was found not to be the current situation.\r\nThis position
+    paper describes the findings and outlines recommendations for a revised future
+    version of the SLD and SE standards that resolves these issues.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

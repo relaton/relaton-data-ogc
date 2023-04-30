@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.1
+id: 12-000r2
+title:
+- content: 'OGC SensorML: Model and XML Encoding Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC SensorML: Model and XML Encoding Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/12-000r2/12-000r2.html
+  type: obp
+type: standard
+docid:
+- id: 12-000r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-08-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike Botts
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Alexandre Robin
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Eric Hirschorn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2020-08-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The primary focus of the Sensor Model Language (SensorML) is to provide
+    a robust and semantically-tied means of defining processes and processing components
+    associated with the measurement and post-measurement transformation of observations.
+    This includes sensors and actuators as well as computational processes applied
+    pre- and post-measurement.\r\n\r\nThe main objective is to enable interoperability,
+    first at the syntactic level and later at the semantic level (by using ontologies
+    and semantic mediation), so that sensors and processes can be better understood
+    by machines, utilized automatically in complex workflows, and easily shared between
+    intelligent sensor web nodes.\r\n\r\nThis standard is one of several implementation
+    standards produced under OGC’s Sensor Web Enablement (SWE) activity. This standard
+    is a revision of content that was previously integrated in the SensorML version
+    1.0 standard (OGC 07-000)."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

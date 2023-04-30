@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 11-058r1
+title:
+- content: "*FL Starfish Fungus Language for Sensor Description "
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: "*FL Starfish Fungus Language for Sensor Description "
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=44438
+  type: obp
+type: standard
+docid:
+- id: 11-058r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-07-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ingo Simonis
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chrsitian Malewski
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2011-07-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Starfish Fungus Language was developed in response to the high number
+    of complaints addressing issues with the OGC standard Sensor Model Language, SensorML.
+    Most complaints circled around the high flexibility of the language in combination
+    with unnecessary abstractions of technical terms, e.g. every sensor is not a sensor
+    but a process. Most beginners struggled with the composite pattern of those processes,
+    as there is no well-defined rule what needs to be described where. As a beginner,
+    it is almost impossible to write a simple sensor description without getting major
+    guidance through the SensorML development team or other experts.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

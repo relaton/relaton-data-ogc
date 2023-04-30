@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 11-013r6
+title:
+- content: 'OGC® Engineering Report: Water Information Services Concept Development
+    Study'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC® Engineering Report: Water Information Services Concept Development
+    Study'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=44834
+  type: obp
+type: standard
+docid:
+- id: 11-013r6
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-07-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Luis Bermudez
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: David Arctur
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '6'
+revdate: '2011-07-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The purpose of this report is to recommend appropriate architectures and
+    procedures for migrating the CUAHSI HIS to the OGC-based WaterML 2.0 encoding
+    (profile of OGC O&M standard) and OGC web services such as Sensor Observation
+    Service (SOS), Web Feature Service (WFS), Web Mapping Service (WMS), Web Coverage
+    Service (WCS), and Catalogue Service for the Web (CSW). This report may be used
+    as the basis for future OGC Interoperability Program initiatives.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: 15-028
+title:
+- content: OGC® Testbed 11 Data Broker Specifications Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed 11 Data Broker Specifications Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=63281
+  type: obp
+type: standard
+docid:
+- id: 15-028
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2015-08-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Balog
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2015-08-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document is a deliverable of the OGC Testbed 11 Interoperability initiative.
+    The report’s contents cover the summary of the interoperability work regarding
+    the Aviation Data Broker concept. This data broker concept enables the setup of
+    cascading OGC Web Feature Server (WFS) servers to form a data source chain, in
+    which one service is capable of providing information coming from one or more
+    other services. The objectives of this document are to research the feasibility
+    of this concept and to investigate a number of specific Data Broker responsibilities
+    and use cases, such as provenance and lineage, conflation, caching, scalability
+    and flexible management of data sources.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

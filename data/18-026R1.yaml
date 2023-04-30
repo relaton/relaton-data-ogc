@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.1
+id: 18-026r1
+title:
+- content: 'OGC Testbed-14: Security Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-14: Security Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/18-026r1.html
+  type: obp
+type: standard
+docid:
+- id: 18-026r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-03-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Juan José Doval
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Héctor Rodríguez
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2019-03-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Security Engineering Report (ER) covers several OGC Testbed-14 topics:\r\n\r\nBest
+    practices for the integration of OAuth2.0/OpenID Connect services\r\n\r\nMediation
+    services for different security environments\r\n\r\nFederated identity management\r\n\r\nSecuritization
+    of workflows\r\n\r\nThe first two topics are the main focus of this ER. During
+    this Testbed, a server that provides OAuth2.0 and OpenID Connect capabilities
+    was extended with a mediation service that allows for a centralized security authority
+    with users/clients that implement different security standards.\r\n\r\nThe remaining
+    two topics will expand on the close relationship between Security, Workflows and
+    Federated Clouds and the respective implementation challenges. On these specific
+    topics, this ER also outlines and provides a proof-of-concept for a simplistic
+    architecture approach that explores one of several Federated Clouds architectures."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 20-090
+title:
+- content: 'OGC API – Maps Sprint 2020: Summary Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC API – Maps Sprint 2020: Summary Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/20-090.html
+  type: obp
+type: standard
+docid:
+- id: 20-090
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gobe Hobona
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2021-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Engineering Report (ER) documents the results and recommendations
+    from a code sprint that was held from 28 to 29 July 2020 to advance the development
+    of the draft OGC API – Maps Standard. An Application Programming Interface (API)
+    is a standard set of documented and supported functions and procedures that expose
+    the capabilities or data of an operating system, application, or service to other
+    applications (adapted from ISO/IEC TR 13066-2:2016). The OGC API - Maps Sprint
+    was an online virtual event. The sprint was sponsored by Ordnance Survey.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

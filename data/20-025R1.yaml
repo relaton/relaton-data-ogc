@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.1
+id: 20-025r1
+title:
+- content: 'OGC Testbed-16: Data Access and Processing API Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-16: Data Access and Processing API Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/20-025r1.html
+  type: obp
+type: standard
+docid:
+- id: 20-025r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-01-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Luis Bermudez
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2021-01-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Testbed 16 Engineering Report documents the advancement of an
+    OGC Data Access and Processing API (DAPA).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

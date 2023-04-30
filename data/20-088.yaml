@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 20-088
+title:
+- content: Standardizing a Framework for Spatial and Spectral Error Propagation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Standardizing a Framework for Spatial and Spectral Error Propagation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/dp/20-088.html
+  type: obp
+type: standard
+docid:
+- id: 20-088
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-02-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: K. Navulur
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: M.C. Abrams
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2021-02-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Discussion Paper presents a proposal that recommends the development
+    of Open Geospatial Consortium (OGC) standards that define a framework for location-based
+    service metrics that inform the spatial, spectral, and temporal errors associated
+    with various data sources. This paper discusses current industry practices on
+    spatial errors, spectral errors, and error propagation. The paper also presents
+    a proposed framework and a recommended study effort.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

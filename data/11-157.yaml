@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: 11-157
+title:
+- content: Corrigendum 1 for OGC Web Services Common Standard v2.0.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Multilingual
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Corrigendum 1 for OGC Web Services Common Standard v2.0.0 - Multilingual
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=46435
+  type: obp
+type: standard
+docid:
+- id: 11-157
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-10-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jim Greenwood
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2011-10-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document being corrected specifies many of the aspects that are,
+    or should be, common to all or multiple OWS interface Implementation Specifications.
+    The Common Implementation Specification aspects specified by this document currently
+    include:\r\na) Operation request and response contents, most partial\r\nb) Parameters
+    and data structures included in operation requests and responses c) XML and KVP
+    encoding of operation requests and responses"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

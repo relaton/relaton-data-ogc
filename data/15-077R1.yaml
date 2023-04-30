@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: 15-077r1
+title:
+- content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage
+    of SOAP Across OGC Web service interfaces'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage
+    of SOAP Across OGC Web service interfaces'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=64406
+  type: obp
+type: standard
+docid:
+- id: 15-077r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-02-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ingo Simonis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2016-02-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "A number of OGC service interface standards define SOAP bindings. Despite
+    the current hype around REST or RESTful interfaces, SOAP services are still used
+    intensively, in particular in security-critical environments. A number of OGC
+    Web service interfaces support SOAP bindings (see chapter 6). Unfortunately, those
+    bindings are not fully consistent across the suite of OGC service standards. Differences
+    can be found in terms of SOAP versions, used namespaces, error handling, capabilities
+    documentation, or transport of non-XML data; i.e. aspects that should be harmonized
+    by a cross-standard working group. \r\nThis document seeks to provide an overview
+    of the current situation and guidance on future SOAP harmonization across all
+    OGC Web services. A number of change requests have been developed during the development
+    process for this document. Though this document provides recommendations in chapter
+    8, it is highly recommended to either form a new SOAP working group, or preferably
+    to assign the development of SOAP best practices to reduce the risk of missed
+    requirements and architecture arguments to the newly reformed OWS Common SWG.
+    The best practices could then be applied to all OGC service standards that offer
+    SOAP bindings.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

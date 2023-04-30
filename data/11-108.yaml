@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: 11-108
+title:
+- content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing
+    Implementation (Engineering Report)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing
+    Implementation (Engineering Report)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=46170
+  type: obp
+type: standard
+docid:
+- id: 11-108
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-05-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ingo Simonis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2012-05-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document describes the usability of OGC services and encodings to
+    implement the\r\nOWS-8 observation fusion and tracking thread in an abstract way.
+    The real deployment\r\nand an actual perspective on the engineering and technology
+    viewpoint can be found in\r\nOWS-8 engineering report OGC 11-134, ‘OWS-8 Tracking:
+    Moving Target Indicator\r\nProcess, Workflows and Implementation Results’. In
+    addition, it describes an XMLSchema\r\nbased implementation of the UML information
+    models defined in OWS-8\r\nengineering report “Information Model for Moving Target
+    Indicators and Moving Object\r\nBookmarks” (OGC 11-113).\r\nThe report is also
+    based on the results of the VMTI/GMTI and STANAG 4676 realization\r\nin the OGC
+    concept of operations study; performed as part of OWS 8 and the EC cofunded\r\nresearch
+    project Emergency Support System - ESS” (contract number 217951)."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

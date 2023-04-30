@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.1
+id: 12-027r3
+title:
+- content: OGC Web Feature Service (WFS) Temporality Extension
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Web Feature Service (WFS) Temporality Extension
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=58922
+  type: obp
+type: standard
+docid:
+- id: 12-027r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-07-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Timo Thomas
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2014-07-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC discussion paper provides a proposal for a temporality extension
+    for the WFS\r\n2.0 and FES 2.0 standard. It is based on the work of and experiences
+    made in several\r\nOWS test beds, in particular OWS-7, OWS-8 and OWS-9, Aviation
+    threads and\r\ndiscussions at the 2011 OGC TC meeting in Brussels, Belgium. It
+    partially replaces and\r\nadvances the document “OWS-8 Aviation: Guidance for
+    Retrieving AIXM 5.1 data via\r\nan OGC WFS 2.0” [4]."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

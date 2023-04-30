@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 14-048
+title:
+- content: OGC® Testbed 10 Cross Community Interoperability (CCI) Hydro Model Interoperability
+    Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed 10 Cross Community Interoperability (CCI) Hydro Model Interoperability
+    Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=58944
+  type: obp
+type: standard
+docid:
+- id: 14-048
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-07-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Genong (Eugene) Yu
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Liping Di
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2014-07-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC® document gives guidelines for enabling interoperability among
+    different hydro data models and services. The demonstration specifically gives
+    out best practices for supporting interoperability among the National Hydrographic
+    Network (NHN) of Canada, the National Hydrographic Dataset Plus (NHD+) of United
+    States, and the OGC HY_Features model developed and proposed by the World Meteorological
+    Organization (WMO). The discussed version of OGC HY_Features was adopted as the
+    mediation bridge model to exchange information among heterogeneous hydrological
+    models.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

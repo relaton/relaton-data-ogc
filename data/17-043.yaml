@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: 17-043
+title:
+- content: 'OGC Testbed-13: Executable Test Suites and Reference Implementations for
+    NSG WMTS 1.0 and WFS 2.0 Profiles with Extension'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-13: Executable Test Suites and Reference Implementations for
+    NSG WMTS 1.0 and WFS 2.0 Profiles with Extension'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/17-043.html
+  type: obp
+type: standard
+docid:
+- id: 17-043
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-01-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Nuno Oliveira
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2018-01-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Engineering Report (ER) describes the development of the compliance
+    tests and implementation in GeoServer of the Web Feature Service (WFS) 2.0 and
+    Web Map Tile Service (WMTS) 1.0 National System for Geospatial Intelligence (NSG)
+    profiles. The NSG of the United States (US) National Geospatial Intelligence Agency
+    (NGA) is the combination of technologies, policies, capabilities, doctrine, activities,
+    people, data and communities needed to produce geospatial intelligence (GEOINT)
+    in an integrated, multi-intelligence, multi-domain environment. The work can be
+    grouped into four main topics:\r\n\r\ncritical review of the NSG profiles for
+    WFS 2.0 and WMTS 1.0\r\n\r\nimplementation of the profiles in GeoServer\r\n\r\nvalidation
+    of the implementation using OGC Compliance tests and tools\r\n\r\nlessons learn
+    during the implementation of these profiles and their validation\r\n\r\nBoth NSG
+    profiles are Class 2 profiles. WMTS profiles OGC WMTS 1.0. WFS profiles the DGIWG
+    Profile of OGC WFS 2.0. The first topic provides a review of these profiles along
+    with a description of the main extensions and restrictions introduced by them.\r\n\r\nThe
+    second topic covers the implementation of the NSG profiles in GeoServer. It describes
+    the software architecture and technical decisions, along with the deployment and
+    configuration of the server.\r\n\r\nThe third topic covers the validation process
+    of the implementation using OGC validation (sometimes referred to as CITE) tests
+    and tools. It also covers how the tests can be run and how to configure GeoServer
+    for these tests.\r\n\r\nThe last topic contains an evaluation of the work, reached
+    goals, lessons learned and the best practices that can be applied in future work."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

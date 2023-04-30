@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.1
+id: 11-092r2
+title:
+- content: OWS-8 Report on Digital NOTAM Event Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-8 Report on Digital NOTAM Event Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=46243
+  type: obp
+type: standard
+docid:
+- id: 11-092r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-04-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Johannes Echterhoff
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Matthes Rieke
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2012-04-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document is a deliverable of the OGC Web Services (OWS) Initiative
+    - Phase 8 (OWS-8). It describes the results of the conceptual and schematron rule
+    based validation of the Digital NOTAM Event Specification (DNES). Various conceptual
+    aspects were identified which need clarification and/or revision. Schematron rules
+    were developed for a number of the DNES scenarios. This document contains coverage
+    tables which document normative statements from the DNES and indicate which of
+    them can be tested with existing schematron rules.\r\nSee:  <a href=http://dp.schemas.opengis.net/11-092r2>http://dp.schemas.opengis.net/11-092r2</a>"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

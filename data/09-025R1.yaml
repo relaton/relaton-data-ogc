@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.1
+id: '09-025r1'
+title:
+- content: OpenGIS Web Feature Service 2.0 Interface Standard (also ISO 19142)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Web Feature Service 2.0 Interface Standard (also ISO 19142)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=39967
+  type: obp
+type: standard
+docid:
+- id: '09-025r1'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-11-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2010-11-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This International Standard specifies the behaviour of a service that
+    provides transactions on and access to geographic features in a manner independent
+    of the underlying data store. It specifies discovery operations, query operations,
+    locking operations, transaction operations and operations to manage stored parameterized
+    query expressions.\r\nDiscovery operations allow the service to be interrogated
+    to determine its capabilities and to retrieve the application schema that defines
+    the feature types that the service offers.\r\nQuery operations allow features
+    or values of feature properties to be retrieved from the underlying data store
+    based upon constraints, defined by the client, on feature properties.\r\nLocking
+    operations allow exclusive access to features for the purpose of modifying or
+    deleting features.\r\nTransaction operations allow features to be created, changed,
+    replaced and deleted from the underlying data store.\r\nStored query operations
+    allow clients to create, drop, list and described parameterized query expressions
+    that are stored by the server and can be repeatedly invoked using different parameter
+    values."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

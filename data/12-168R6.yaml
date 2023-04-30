@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.1
+id: 12-168r6
+title:
+- content: OGC® Catalogue Services 3.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: General Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Catalogue Services 3.0 - General Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/12-168r6/12-168r6.html
+  type: obp
+type: standard
+docid:
+- id: 12-168r6
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-06-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Douglas Nebert
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Uwe Voges
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lorenzo Bigagli
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '6'
+revdate: '2016-06-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "OGC® Catalogue Services support the ability to publish and search collections
+    of\r\ndescriptive information (metadata records) for geospatial data, services,
+    and related\r\ninformation. Metadata in catalogues represent resource characteristics
+    that can be queried\r\nand presented for evaluation and further processing by
+    both humans and software.\r\nCatalogue services are required to support the discovery
+    and binding to registered\r\ninformation resources within an information community.\r\nThis
+    part of the Catalogue Services standard describes the common architecture for
+    OGC\r\nCatalogue Services. This document abstractly specifies the interfaces between
+    clients and\r\ncatalogue services, through the presentation of abstract models.
+    This common\r\narchitecture is Distributed Computing Platform neutral and uses
+    UML notation. Separate\r\n(Part) documents specify the protocol bindings for these
+    Catalogue services, which build\r\nupon this document, for the HTTP (or CSW) and
+    OpenSearch protocol bindings.\r\nAn Abstract Conformance Test Suite is not included
+    in this document. Such Suites shall\r\nbe developed by protocol bindings and Application
+    Profiles (see 8.5, ISO/IEC TR 10000-\r\n2:1998) that realize the conformance classes
+    listed herein. An application profile\r\nconsists of a set of metadata elements,
+    policies, and guidelines defined for a particular\r\napplication1.\r\nOGC document
+    number 14-014r3 – HTTP Protocol Binding – Abstract Test Suite is\r\navailable
+    to address conformance with the provisions of OGC document number 12-\r\n176r7
+    – HTTP Protocol Binding. All annexes to this document are informative."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

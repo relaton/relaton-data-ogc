@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.1
+id: 13-133r1
+title:
+- content: OGC® Publish/Subscribe Interface Standard 1.0 SOAP Protocol Binding Extension
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Publish/Subscribe Interface Standard 1.0 SOAP Protocol Binding Extension
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/13-133r1/13-133r1.html
+  type: obp
+type: standard
+docid:
+- id: 13-133r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-08-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aaron Braeckel
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lorenzo Bigagli
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2016-08-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Publish/Subscribe 1.0 is an interface specification that supports the
+    core components and concepts of the Publish/Subscribe message exchange pattern
+    with OGC Web Services.  The Publish/Subscribe pattern complements the Request/Reply
+    pattern historically specified by many OGC Web Services. This specification may
+    be used either in concert with, or independently of, existing OGC Web Services
+    to publish data of interest to subscribers.\r\n\r\nPublish/Subscribe 1.0 primarily
+    addresses subscription management capabilities such as creating a subscription,
+    renewing a subscription, and unsubscribing.  However, this standard also allows
+    Publish/Subscribe services to advertise and describe the supported message delivery
+    protocols such as SOAP messaging, ATOM, and AMQP.  Message delivery protocols
+    should be considered to be independent of the Publish/Subscribe 1.0 standard.
+    \ Therefore OGC Publish/Subscribe only includes metadata relating to message delivery
+    protocols in sufficient detail to allow for different implementations of Publish/Subscribe
+    1.0 to interoperate. \r\n\r\nThis specification defines an extension to the OGC
+    Publish/Subscribe (PubSub) 1.0 Core to allow for Publish/Subscribe communications
+    usingthe SOAP protocol."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

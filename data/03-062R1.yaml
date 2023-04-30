@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.1
+id: 03-062r1
+title:
+- content: 'Critical Infrastructure Collaborative Environment Architecture: Information
+    Viewpoint'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Critical Infrastructure Collaborative Environment Architecture: Information
+    Viewpoint'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=1271
+  type: obp
+type: standard
+docid:
+- id: 03-062r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2003-06-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Martell
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2003-06-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "*RETIRED* specifies the information viewpoint for the Critical Infrastructure
+    Collaborative Environment (CICE)."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.1
+id: '09-067r2'
+title:
+- content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=35334
+  type: obp
+type: standard
+docid:
+- id: '09-067r2'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2009-10-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Akiko Sato
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Nobuhiro Ishimaru
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Guo Tao
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Masaaki Tanizaki
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2009-10-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document described the Outdoor and Indoor 3D Routing and Services
+    which are used in the OGC OWS-6 Decision Support Systems (DSS) thread. The objective
+    is to enhance a network topology for the current CityGML specification based on
+    the knowledge acquired through the development and experimental evaluation of
+    this project. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

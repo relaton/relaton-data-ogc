@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: 10-086r1
+title:
+- content: OWS-7
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Authoritative Data Source Directory Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-7 - Authoritative Data Source Directory Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=40334
+  type: obp
+type: standard
+docid:
+- id: 10-086r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-08-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andrew Turner
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2010-08-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document presents the Authoritative Data Source Directory (ADSD) engineering
+    suggestions and results of the OGC OWS-7 ADSD thread. This group focused on creating
+    a workflow for geospatially referencing, finding, and federating data sources
+    with associated authority and relevance.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.1
+id: 22-000
+title:
+- content: OGC GeoPose Reviewers Guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC GeoPose Reviewers Guide
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/guides/22-000.html
+  type: obp
+type: standard
+docid:
+- id: 22-000
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-03-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: C. Perey
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: J.G. Morley
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: J. Lieberman
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: R. Smith
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: M. Salazar
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: C. Smyth
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2023-03-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The GeoPose Reviewers Guide is a public resource structured to provide
+    quick answers to questions which a reviewer may have about the OGC GeoPose specification.
+    This OGC document is provided to support professionals who need to understand
+    OGC GeoPose and/or are reviewing the GeoPose draft standard but do not wish to
+    implement it.\r\n\r\nGeoPose 1.0 is an OGC Implementation Standard for exchanging
+    the position and orientation (Poses) of real or virtual geometric objects within
+    reference frames anchored to the Earth’s surface (Geo) or within other astronomical
+    coordinate systems. The standard specifies two Basic forms with no configuration
+    options for common use cases, an Advanced form with more flexibility for more
+    complex applications, and five composite GeoPose structures that support time
+    series plus chain and graph structures."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

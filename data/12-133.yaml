@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: 12-133
+title:
+- content: OGC® Web Services Facade for OGC IP Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Web Services Facade for OGC IP Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=51178
+  type: obp
+type: standard
+docid:
+- id: 12-133
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-08-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: John Hudson
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2014-08-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document describes the Web Services Façade which was developed by
+    LISAsoft as part of the OWS-9 testbed. The document also includes discussions
+    about lessons learned during the development, and suggestions for future development.\r\nThis
+    Engineering Report documents the Web Services Façade work done within OWS-9 as
+    an extensible, open source tool, which supports translations between different
+    protocols for a specific web service. For the OWS-9 testbed, it has been set up
+    to translate between POST and SOAP services for a Web Feature Service. However,
+    it can be configured to support translations between multiple protocols, such
+    as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\nThe
+    Web Services Façade is an extensible, open source tool, which supports translations
+    between different protocols for a specific web service. For the OWS-9 testbed,
+    it has been set up to translate between POST and SOAP services for a Web Feature
+    Service. However, it can be configured to support translations between multiple
+    protocols, such as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

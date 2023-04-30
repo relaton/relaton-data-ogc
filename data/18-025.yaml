@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.1
+id: 18-025
+title:
+- content: 'OGC Testbed-14: CityGML and AR Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-14: CityGML and AR Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/18-025.html
+  type: obp
+type: standard
+docid:
+- id: 18-025
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-03-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jérôme Jacovella-St-Louis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2019-03-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Testbed-14 Engineering Report (ER) describes the results of the
+    Augmented Reality (AR) work performed in the Testbed-14 CityGML and Augmented
+    Reality work package which was part of the Next Generation Services thread.\r\n\r\nBy
+    integrating information available from urban models within a view of the real
+    world through a mobile device, this testbed activity explored the possibilities
+    offered by AR in a geospatial context. The ER additionally discusses the approach
+    used to bring in these urban models from various data sources. The experiments
+    also covered to some extent Virtual Reality (VR) where any city can be explored
+    freely from a computer display or potentially within a VR headset.\r\n\r\nA continuation
+    of these experiments would have looked at a combination of Augmented and Virtual
+    Reality (Mixed Reality). The portrayal of AR and three-dimensional (3D) content
+    through extending a common conceptual model to style classic geospatial features
+    (as explored in the Testbed-14 Portrayal work) is also touched upon. The efficient
+    transmission of 3D content is also a subject of this document through the use
+    of a simple 3D transmission format developed during the initiative.\r\n\r\nThis
+    ER provides many insights that showcase what is now made possible by the combination
+    of AR, VR and integrated urban models.\r\n\r\nThe testbed work shines light on
+    the benefits of applying a common portrayal approach to AR, bridging the gap between
+    AR applications and traditional Geographic Information Systems and services.\r\n\r\nThe
+    ER introduces a new, simple approach and conceptual model for transmitting 3D
+    geospatial content which could be the basis to define simple profiles for the
+    I3S and 3D Tiles community standards. It could also inform enhancements to the
+    3D Portrayal Service (3DPS) and/or next generation services (e.g., WFS 3.0) for
+    delivering 3D contents in a format agnostic manner.\r\n\r\nFinally, the ER covers
+    methods to bring in different types of geospatial content from various sources
+    for integration into AR applications.\r\n\r\nDuring Testbed-14, the participants
+    demonstrated AR experiences with geospatial datasets providing integrated views
+    of urban spaces. Two clients and two services were shown to be interoperable,
+    streaming AR content through a simple 3D transmission format, leveraging either
+    GeoJSON or GNOSIS Map Tiles, as well as E3D 3D model specifications.\r\n\r\nThe
+    feasibility of extending a classic portrayal conceptual model for AR was also
+    shown. In order to serve them to the clients in the supported transmission formats,
+    geospatial data sets of various types and in various formats were successfully
+    imported for consumption by the services."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

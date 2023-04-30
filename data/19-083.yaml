@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.1
+id: 19-083
+title:
+- content: OGC Citizen Science Interoperability Experiment Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Citizen Science Interoperability Experiment Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/19-083.html
+  type: obp
+type: standard
+docid:
+- id: 19-083
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-02-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joan Masó
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2020-02-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Engineering report describes the first phase of the Citizen Science
+    (CS) Interoperability Experiment (IE) organized by the EU H2020 WeObserve project
+    under the OGC Innovation Program and supported by the four H2020 Citizen Observatories
+    projects (SCENT, GROW, LandSense, and GroundTruth 2.0) as well as the EU H2020
+    NEXTGEOSS project. The activity covered aspects of data sharing architectures
+    for Citizen Science data, data quality, data definitions and user authentication.\r\n\r\nThe
+    final aim was to propose solutions on how Citizen Science data could be integrated
+    in the Global Earth Observation System of Systems (GEOSS). The solution is necessarily
+    a combination of technical and networking components, being the first ones the
+    focus of this work. The applications of international geospatial standards in
+    current Citizen Science and citizen observatory projects to improve interoperability
+    and foster innovation is one of the main tasks in the IE.\r\n\r\nThe main result
+    of the activity was to demonstrate that Sensor Observing Services can be used
+    for Citizen Science data (as proposed in the Open Geospatial Consortium (OGC)
+    Sensor Web Enablement for Citizen Science (SWE4CS) Discussion Paper) by implementing
+    SWE4CS in several clients and servers that have been combined to show Citizen
+    Science observations. In addition, an authentication server was used to create
+    a federation between three projects. This federated approach is part of the proposed
+    solution for GEOSS that can be found in the last chapter. Many open issues have
+    been identified and are expected to be addressed in the second phase of the experiment,
+    including the use of a definitions server."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

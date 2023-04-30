@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.1
+id: '09-138'
+title:
+- content: Fusion Standards Study Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Fusion Standards Study Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=36177
+  type: obp
+type: standard
+docid:
+- id: '09-138'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-03-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: George Percivall
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2010-03-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This OGC Engineering Report (ER) provides discussions and recommendations
+    for information fusion, with a focus on geospatial information. In this ER, fusion
+    is discussed in three categories: sensor fusion, object/feature fusion, and decision
+    fusion. Recommendations in this ER will be considered in the planning of future
+    activities including the OWS-7 Testbed.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

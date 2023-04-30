@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.1
+id: 15-051r3
+title:
+- content: 'Testbed-11 OGC IP Engineering Report Geo4NIEM Architecture Design and
+    Implementation Guidance and Fact Sheet '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Testbed-11 OGC IP Engineering Report Geo4NIEM Architecture Design and
+    Implementation Guidance and Fact Sheet '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=65419
+  type: obp
+type: standard
+docid:
+- id: 15-051r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-01-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jeff Harrison
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2016-01-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The goal of the Geo4NIEM thread in Testbed 11 was to assess the potential
+    for the National Information Exchange Model (NIEM) to be combined with security
+    tags from Intelligence Community (IC) Data Encoding Specifications for information
+    exchange. The assessment included reviewing Information Exchange Package Documentation
+    (IEPD) populated with relevant content and IC security tags – and then deploying
+    these instance documents on Open Geospatial Consortium (OGC) standards enabled
+    Web Services for testing. The security tags included Information Security Marking
+    Metadata (ISM) and Need-to-Know (NTK) Metadata for secure information exchange.
+    \r\nThe assessment included reviewing example IEPDs and performing tests and demonstrations
+    using OGC web services, such as Transactional Web Feature Services (WFS-T), Policy
+    Enforcement Points (PEPs) and OGC Attribute Stores to process geographic feature
+    with NIEM components and security tags. The Test and Demonstration included, but
+    was not limited to, feature retrieval and transactions. Results were documented
+    in this task to provide a preliminary architecture for Geo4NIEM in Testbed 11,
+    and were described in technical detail in other OGC Testbed 11 Engineering Reports.
+    \ \r\nThis document describes background considerations – and an overview of the
+    services, data encodings and access control frameworks that compose the Geo4NIEM
+    Testbed 11 architecture. This document must be reviewed in conjunction with the
+    following Testbed 11 Geo4NIEM ERs:\r\n•\t15-048 Testbed11_Engineering_Report_NIEM-IC
+    Data Encoding Specification Assessment and Recommendations\r\n•\t15-047 Testbed11_Engineering_Report
+    NIEM-IC Feature Processing API using OGC Web Services\r\n•\t15-050 Testbed11_Engineering_Report
+    Test and Demonstration Results for NIEM using IC Data Encoding Specifications\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

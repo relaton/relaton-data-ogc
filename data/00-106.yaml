@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.1
+id: 00-106
+title:
+- content: Topic 6
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: The Coverage Type
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Topic 6 - The Coverage Type
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=7198
+  type: obp
+type: standard
+docid:
+- id: 00-106
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2000-04-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Cliff Kottman
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Charles Roswell
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2000-04-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Incomplete. This document normatively references parts of the previous
+    version of AS Topic 6, document 00-106. Need to be updated to include Roswell
+    Change Proposal (01-011), which includes 19123 and retains material from Topic
+    6, v6.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

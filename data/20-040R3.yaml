@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.1
+id: 20-040r3
+title:
+- content: Abstract Specification Topic 21
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Discrete Global Grid Systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Part 1 Core Reference system and Operations and Equal Area Earth Reference
+    System
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Abstract Specification Topic 21 - Discrete Global Grid Systems - Part 1
+    Core Reference system and Operations and Equal Area Earth Reference System
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/as/20-040r3/20-040r3.html
+  type: obp
+type: standard
+docid:
+- id: 20-040r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-09-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Robert Gibb
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2021-09-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Abstract Specification lays the foundations for Discrete Global Grid
+    Systems (DGGS). It defines Common classes for spatio-temporal geometry, topology,
+    and reference systems using identifiers, a DGGS Core Reference system as a reference
+    system using zonal identifiers with structured geometry that may be spatio-temporal,
+    a suite of DGGS Core Functions, and it specifies Equal-Area Earth DGGS. The OGC
+    DGGS Abstract Specification supports the specification of standardized DGGS infrastructures
+    that enable the integrated analysis of very large, multi-source, multi-resolution,
+    multi-dimensional, distributed geospatial data. Interoperability between OGC DGGS
+    implementations is anticipated through implementation standards, and extension
+    interface encodings of OGC Web Services.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

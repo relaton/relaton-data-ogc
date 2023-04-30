@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 21-058
+title:
+- content: Interoperable Simulation and Gaming Sprint Year 2 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Interoperable Simulation and Gaming Sprint Year 2 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/21-058.html
+  type: obp
+type: standard
+docid:
+- id: 21-058
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-11-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Leonard Daly
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Rollin Phillips
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2021-11-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OGC Interoperable Simulation and Gaming Year 2 Sprint advanced the
+    use of relevant OGC and Khronos Group [1] standards in the modeling, simulation,
+    and training communities through capability development, compatibility testing,
+    and gap analysis. Of particular interest was the use of glTF models, game engines,
+    and 3rd-party mobile device libraries for the display and interaction with data
+    using OGC APIs.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

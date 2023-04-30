@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: 17-007r1
+title:
+- content: OGC Web Services Security
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Web Services Security
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/17-007r1/17-007r1.html
+  type: obp
+type: standard
+docid:
+- id: 17-007r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-01-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andreas Matheus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2019-01-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This standard applies to a deployed OGC Web Service instance for which
+    the protocol scheme of all operation endpoint URLs, exposed in the Capabilities
+    document, is ‘https’ as defined in RFC 7230, section 2.7.2.\r\n\r\nA security-annotated
+    Capabilities document is one which uses the <Constraint> element(s) to express
+    the existence of security controls on the operation of the service instance or
+    support for a particular security feature. Applying the tests as defined in the
+    Annexes can validate compliance for a service, the client and the OGC management
+    process. Basically, a service can be described by a Capabilities document that
+    includes security annotations as defined in this standard. A client loading these
+    Capabilities and parse for the <Constraint> element(s) can determine the security
+    controls implemented for each operation of the service instance. The string value
+    of this element’s name attribute contains the identifier of the implemented requirements
+    class.\r\n\r\nHow the client obtains the security-annotated capabilities is out
+    of scope for this standard.\r\n\r\nThis standard defines one common abstract Requirements
+    Class and three Capabilities document structure specific Requirements Classes.
+    The structure specific classes address how the requirements are implemented for
+    WMS 1.1.1, WMS 1.3 and OWS Common based service Capabilities documents.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

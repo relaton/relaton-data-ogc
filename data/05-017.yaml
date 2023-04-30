@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 05-017
+title:
+- content: Web Image Classification Service (WICS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Web Image Classification Service (WICS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=8981
+  type: obp
+type: standard
+docid:
+- id: 05-017
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2005-02-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Wenli Yang
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2005-02-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Web Image Classification Service (WICS) supports classification of
+    digital images. A digital image is composed of pixel values organized into one
+    or more two-dimensional arrays. The two dimensions of an image represent two axes
+    in space based on a spatial coordinate reference system. The dimensions of the
+    different 2-D arrays comprising an image must be the same and represent exactly
+    the same spatial locations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

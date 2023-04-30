@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.1
+id: '08-022r1'
+title:
+- content: Change Request
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: O&M Part 1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Move extensions to new namespace
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: Change Request - O&M Part 1 - Move extensions to new namespace
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=27697
+  type: obp
+type: standard
+docid:
+- id: '08-022r1'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2008-05-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Simon Cox
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2008-05-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The XML Schema implementation of optional/informative elements of the Observation
+    Schema was published in the om/1.0.0/extensions directory, in the same XML namespace
+    as the base schema. Those OGC implementations that have a dependency on the Observation
+    Schema (i.e. Sampling Features, SOS) <import> the “all-components” document om.xsd.
+    However, the all-components stub-schema document “om.xsd” does not include the
+    extensions. Thus, any application which requires one of the dependent OGC schemas
+    (Sampling Features, SOS) may not access the Observation Schema Extensions, since
+    the <import> of om.xsd clashes with any attempt to <import> om_extended.xsd. This
+    problem is a consequence of an error in the modularization strategy for optional
+    elements, combined with the rules for schema document resolution used by standard
+    processing environments.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: change-request-supporting-document
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

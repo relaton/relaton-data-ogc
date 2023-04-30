@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.1
+id: 11-159
+title:
+- content: The Open Geospatial Consortium and EarthCube
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: The Open Geospatial Consortium and EarthCube
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=46471&version=1
+  type: obp
+type: standard
+docid:
+- id: 11-159
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-10-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Maidment
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ben Domenico
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Alastair Gemmell
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Kerstin Lehnert
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: David Tarboton
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ilya Zaslavsky
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2011-10-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "EarthCube aims to create an integrated system to access, analyze and share
+    information that is\r\nused by the entire geosciences community. The Open Geospatial
+    Consortium (OGC) is an\r\norganization of which more than four hundred companies
+    and agencies are members, whose\r\npurpose is to create open source standards
+    for sharing geospatial and observational information.\r\nThe authors of this paper
+    are users of OGC standards in our work in hydrology, meteorology,\r\nclimatology,
+    oceanography and in the solid earth sciences, in other words, in key disciplinary\r\nfields
+    that contribute to the Geosciences. Moreover, the OGC has an effective process
+    for\r\nengaging individuals from many countries in standards development and interoperability
+    testing\r\nthat encourages them to set aside the roles they play in their home
+    organizations and instead\r\nfocus just on what is needed to share a particular
+    class of information across the globe. This\r\npaper examines the hypothesis that
+    an OGC-like process could be useful for broader sharing of\r\ninformation in the
+    geosciences."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

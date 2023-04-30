@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 06-141r6
+title:
+- content: Ordering Services Framework for Earth Observation Products  Interface Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Ordering Services Framework for Earth Observation Products  Interface Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=43928
+  type: obp
+type: standard
+docid:
+- id: 06-141r6
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-01-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniele Marchionni
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Stefania Pappagallo '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '6'
+revdate: '2012-01-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This  OGC® standard specifies the interfaces, bindings, requirements,
+    conformance classes, and a framework for implementing extensions that enable complete
+    workflows for ordering of Earth Observation (EO) data products. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

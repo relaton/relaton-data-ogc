@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.1
+id: 15-122r1
+title:
+- content: Implications for an OGC GeoPackage  Symbology Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Implications for an OGC GeoPackage  Symbology Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=66606
+  type: obp
+type: standard
+docid:
+- id: 15-122r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Randolph Gladish
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2016-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'The GeoPackage Standards Working Group (SWG) presents a discussion of
+    symbology encapsulation for conveying presentation information for vector features
+    contained within in a GeoPackage. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

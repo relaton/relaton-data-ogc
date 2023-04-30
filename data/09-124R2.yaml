@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: '09-124r2'
+title:
+- content: Harmonising Standards for Water Observation Data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Harmonising Standards for Water Observation Data - Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=39090
+  type: obp
+type: standard
+docid:
+- id: '09-124r2'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-06-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Taylor
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2010-06-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document investigates the potential for harmonisation of water data
+    standards, with the goal of developing an OGC compliant standard for the exchange
+    of water observation data. The work will be based on OGC‘s Observations and Measurements
+    abstract model [10-004r2] . The goal is to create an O&M profile for the water
+    domain. Development of the OGC compliant O&M profile will begin by examining the
+    content and structure of existing standards and suggesting future methodology
+    for developing a harmonised model for observation data. This approach will make
+    use of existing standards where possible.\r\n\r\nThe focus of this document is
+    in-situ style observations (which are generally related to water quantity). Ex-situ
+    measurements, such as those common to measuring water quality, will be addressed
+    in future work.\r\n2 Normative"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

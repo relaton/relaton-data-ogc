@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 14-016
+title:
+- content: OGC® Testbed-10 CCI VGI Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed-10 CCI VGI Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=58925
+  type: obp
+type: standard
+docid:
+- id: 14-016
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-07-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arne Bröring;Simon Jirka;Matthes Rieke
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Benjamin Pross
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2014-07-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Engineering Report was created as a deliverable for the OGC Testbed
+    10 (Testbed-\r\n10) initiative of the OGC Interoperability Program. This report
+    describes an approach for\r\nintegrating Volunteered Geographic Information (VGI)
+    into a spatial data infrastructure\r\nand reports on findings about the advancements
+    using VGI resources. It includes\r\noptimization ideas, service change recommendations,
+    and lessons learned.\r\nThis is not a normative document."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

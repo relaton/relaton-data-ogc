@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.1
+id: 12-080r2
+title:
+- content: OGC OWS Context Conceptual Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC OWS Context Conceptual Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=55182
+  type: obp
+type: standard
+docid:
+- id: 12-080r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-01-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Roger Brackin
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Pedro Gonçalves '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2014-01-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This standard describes the use cases, requirements and conceptual model
+    for the OWS Context encoding standard. The goal of this standard is to provide
+    a core model, which is extended and encoded as defined in extensions to this standard.
+    A ‘context document’ specifies a fully configured service set which can be exchanged
+    (with a consistent interpretation)  among clients supporting the standard.\r\nThe
+    OGC Web Services Context Document (OWS Context) was created to allow a set of
+    configured information resources (service set) to be passed between applications
+    primarily as a collection of services. OWS Context is developed to support in-line
+    content as well. The goal is to support use cases such as the distribution of
+    search results, the exchange of a set of resources such as OGC Web Feature Service
+    (WFS), Web Map Service (WMS), Web Map Tile Service (WMTS), Web Coverage Service
+    (WCS) and others in a ‘common operating picture’. Additionally OWS Context can
+    deliver a set of configured processing services (Web Processing Service (WPS))
+    parameters to allow the processing to be reproduced on different nodes.\r\nOWS
+    Context is aimed at replacing previous OGC attempts at providing such a capability
+    (the Web Map Context WMC) which was reasonably successful but limited to WMS.
+    Other work on the ‘Location Organizer Folder (LOF)’ was also taken into consideration.
+    The concept of OWS Context, and the first prototype document was produced as part
+    of OGC testbed OWS-7. See OGC 10-035r1, Information Sharing Engineering Report.
+    In order to achieve mass market appeal, as well as being useful to a wider community,
+    the use of OWS Context support to other existing standards was considered. Multiple
+    encoding formats for OWS Context have been developed (ATOM, JSON). Each of these
+    is described in a separate OWS Context Extensions to the Core model.\r\nThis document
+    concentrates on describing the OWS Context Model in abstract terms using UML.
+    The document defines requirements and use cases. It also includes an abstract
+    test suite to verify that encodings are compliant with the core specification.
+    The intent of OWS Context is to allow many types of OGC Data Delivery service
+    to be referenced and therefore exploited (for example, not just WMS but also WFS,
+    WCS and WPS) but it does not explicitly define the encoding of these services
+    in the core (only the general approach to be used for different types of service
+    interface). Service explicit encodings are defined within the extension documents
+    for ATOM and JSON.\r\nThe abbreviation owc is used throughout this document for
+    OWS Context.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

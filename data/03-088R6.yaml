@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: 03-088r6
+title:
+- content: OGC Web Services Common
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Web Services Common
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=4550
+  type: obp
+type: standard
+docid:
+- id: 03-088r6
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2004-01-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '6'
+revdate: '2004-01-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document specifies many of the aspects that are, or should be, common
+    to all or multiple OGC Web Service (OWS) interface Implementation Specifications.
+    These common aspects are primarily some of the parameters and data structures
+    used in operation requests and responses. Of course, each such Implementation
+    Specification must specify the additional aspects of that interface, including
+    specifying all additional parameters and data structures needed in all operation
+    requests and responses.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

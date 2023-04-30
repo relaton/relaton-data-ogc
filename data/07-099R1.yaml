@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 07-099r1
+title:
+- content: GeoXACML Implementation Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Extension B (GML3) Encoding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: GeoXACML Implementation Specification - Extension B (GML3) Encoding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=25220
+  type: obp
+type: standard
+docid:
+- id: 07-099r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2008-02-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andreas Matheus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2008-02-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification is a normative extension to the GeoXACML core Implementation
+    Specification. It defines the GML3 encoding for geometries.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

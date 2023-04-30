@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.1
+id: 22-025r4
+title:
+- content: 3D Tiles Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 3D Tiles Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/cs/22-025r4/22-025r4.html
+  type: obp
+type: standard
+docid:
+- id: 22-025r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-01-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Patrick Cozzi
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Sean Lilley
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2023-01-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document describes the specification for 3D Tiles, an open standard
+    for streaming massive heterogeneous 3D geospatial datasets.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: community-standard
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

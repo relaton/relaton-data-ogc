@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 05-110
+title:
+- content: Feature Portrayal Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Feature Portrayal Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=13186
+  type: obp
+type: standard
+docid:
+- id: 05-110
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-04-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Bill Woodward
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: co-editor
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2006-04-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document specifies the interface to a Feature Portrayal Service (FPS),
+    which applies styles to digital features to produce a map image. The styles applied
+    are identified or specified by the client, and are applied to digital feature
+    data retrieved from a Web Feature Service (WFS) identified by the client. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

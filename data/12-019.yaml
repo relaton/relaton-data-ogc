@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.1
+id: 12-019
+title:
+- content: OGC City Geography Markup Language (CityGML) Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC City Geography Markup Language (CityGML) Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=47842
+  type: obp
+type: standard
+docid:
+- id: 12-019
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-04-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gerhard Gröger
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Thomas H. Kolbe
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Claus Nagel
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Karl-Heinz Häfele
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2012-04-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "CityGML is an open data model and XML-based format for the storage and
+    exchange of virtual 3D city models. It is an application schema for the Geography
+    Markup Language version 3.1.1 (GML3), the extendible international standard for
+    spatial data exchange issued by the Open Geospatial Consortium (OGC) and the ISO
+    TC211.\r\n\r\nThe aim of the development of CityGML is to reach a common definition
+    of the basic entities, attributes, and relations of a 3D city model. This is especially
+    important with respect to the cost-effective sustainable maintenance of 3D city
+    models, allowing the reuse of the same data in different application fields. \r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

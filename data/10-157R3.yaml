@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.1
+id: 10-157r3
+title:
+- content: Earth Observation Metadata profile of Observations & Measurements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Earth Observation Metadata profile of Observations & Measurements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=47040
+  type: obp
+type: standard
+docid:
+- id: 10-157r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-06-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jerome Gasperi
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Frédéric Houbie
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Andrew Woolf
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Steven Smolders
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2012-06-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Implementation Standard defines a profile of Observations and
+    Measurements (ISO 19156) for describing Earth Observation products (EO products).\r\nAlthough
+    this standard has been developed in the context of the Heterogeneous Mission Accessibility
+    (HMA) project initiated by European Space Agency (ESA), the content is generic
+    to Earth Observation product description. The metadata model described in this
+    document is structured to follow the different types of products (Optical, Radar,
+    …) which are not HMA specific.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

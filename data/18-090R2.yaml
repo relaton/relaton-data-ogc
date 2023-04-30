@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.1
+id: 18-090r2
+title:
+- content: 'OGC Testbed-14: Federated Clouds Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-14: Federated Clouds Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/18-090r2.html
+  type: obp
+type: standard
+docid:
+- id: 18-090r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-10-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Craig A. Lee
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2019-10-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The geospatial community has had an on-going challenge with being able
+    to share data and compute resources in dynamic, collaborative environments that
+    span different administrative domains. For these types of requirements, the concept
+    of federation has been developed. The near-term goal of the Federated Cloud task
+    in Testbed-14 is to demonstrate a specific data-sharing scenario among two or
+    more administrative domains using existing security tooling, e.g., OpenID Connect
+    and OAuth. The main details of this work are reported as part of the Security
+    Engineering Report (ER) [1]. This Federated Cloud ER will dovetail with the Security
+    ER to:\r\n\r\nCoordinate across all federation-related tasks in Testbed-14, including
+    the Earth Observation Cloud and Workflow tasks,\r\n\r\nUnderstand the overall
+    federation design space,\r\n\r\nAnalyze and critique the scope, trade-offs and
+    limitations of the federation capabilities being built and demonstrated in Testbed-14,\r\n\r\nIdentify
+    and prioritize possible incremental development tasks for subsequent testbeds,
+    and\r\n\r\nLiaison with groups external to OGC, such as the NIST/IEEE Joint WG
+    on Federated Cloud, to promote the further development and adoption of federated
+    capabilities, and ultimately international standards."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

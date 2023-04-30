@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 20-059r4
+title:
+- content: Naming of OGC API Standards, Repositories & Specification Elements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Naming of OGC API Standards, Repositories & Specification Elements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/pol/20-059r4.html
+  type: obp
+type: standard
+docid:
+- id: 20-059r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-01-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gobe Hobona
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2021-01-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document is a policy of the OGC Naming Authority (OGC-NA), a sub-committee
+    of the OGC Technical Committee. The document defines a series of policy requirements
+    for OGC API standards, repositories, definitions, and specification elements.
+    The policy document is intended to be a specialization of the OGC-NA policy on
+    naming specification elements (OGC 10-103).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: 17-079r1
+title:
+- content: OGC SensorThings API Part 2 – Tasking Core
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC SensorThings API Part 2 – Tasking Core
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/17-079r1/17-079r1.html
+  type: obp
+type: standard
+docid:
+- id: 17-079r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-01-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Steve Liang
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tania Khalafbeigi
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2019-01-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OGC SensorThings API [OGC 15-078r6] provides an open, geospatial-enabled
+    and unified way to interconnect the Internet of Things (IoT) devices, data, and
+    applications over the Web. At a high level, the OGC SensorThings API provides
+    two main functions and each function is handled by the Sensing part or the Tasking
+    part. The Sensing part provides a standard way to manage and retrieve observations
+    and metadata from heterogeneous IoT sensor systems. The Tasking part provides
+    a standard way for parameterizing - also called tasking - of taskable IoT devices,
+    such as individual sensors and actuators, composite consumer / commercial / industrial
+    / smart cities in-situ platforms, mobile and wearable devices, or even unmanned
+    systems platforms such as drones, satellites, connected and autonomous vehicles,
+    etc. This document specifies core of the SensorThings Tasking part.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: 18-035
+title:
+- content: 'OGC Testbed-14: Semantically Enabled Aviation Data Models Engineering
+    Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-14: Semantically Enabled Aviation Data Models Engineering
+    Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/18-035.html
+  type: obp
+type: standard
+docid:
+- id: 18-035
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-02-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stephane Fellah
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2019-02-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Engineering Report (ER) summarizes the OGC Testbed-14 findings and
+    recommendations to “semantically enable” existing data and metadata models used
+    in the aviation industry. Examples of such data and metadata models include Aeronautical
+    Information Exchange Model (AIXM) [1], Weather Information Exchange Model (WXXM)
+    [2], Flight Information Exchange Model (FIXM) [3],Web Service Description Document
+    (WSDD), Service Description Conceptual Model (SDCM) [4]). These models use Linked
+    Data standards to represent this information and aim to improve the search and
+    discovery of services and information in the aviation domain using the System
+    Wide Information Management (SWIM) environment. This report provides a review
+    of the existing data models and explore different approaches to provide a semantic
+    representation of the current metadata and data models used in the aviation domain.
+    The ER also discusses the role and importance of the controlled vocabularies.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.1
+id: 17-026r1
+title:
+- content: 'OGC Testbed-13: Disconnected Networks Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-13: Disconnected Networks Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/17-026r1.html
+  type: obp
+type: standard
+docid:
+- id: 17-026r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-02-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Rob Cass
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2018-02-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The design of core OGC Web Services (OWS) does not entertain the possibility
+    of network unavailability, internet unavailability, or disconnected clients and
+    datastores. Deployments of these services, and the clients that consume them,
+    often happen in networking environments that have limited bandwidth, sporadic
+    connectivity and no connection to the internet. This Engineering Report (ER) focuses
+    on situations of Denied, Degraded, Intermittent, or Limited Bandwidth (DDIL).
+    Due to these DDIL networking limitations, OWS services and clients may not be
+    capable of effective data exchange and interpretation due to a reliance on external
+    resources and always-on networks.\r\n\r\nThis ER concerns the behavior of common
+    OWS services when used in DDIL environments. The ER documents proposed practices/considerations
+    for implementation of these services to support these environments. The ER also
+    describes software modules or extensions that might mitigate the effects of these
+    environments on both clients and services.\r\n\r\nThis ER intends to guide client
+    and service implementation, as well as deployment strategies for these challenging
+    environments.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

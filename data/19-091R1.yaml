@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.1
+id: 19-091r1
+title:
+- content: 'Built environment data standards and their integration: an analysis of
+    IFC, CityGML and LandInfra'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Built environment data standards and their integration: an analysis of
+    IFC, CityGML and LandInfra'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=92634
+  type: obp
+type: standard
+docid:
+- id: 19-091r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-03-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Thomas Gilbert
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Carsten Rönsdorf
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jim Plume
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Scott Simmons
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Nick Nisbet
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Hans-Christoph Gruler
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Thom
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2020-03-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Demand for digital representations of built environments is accelerating
+    and can only be satisfied through greater software interoperability and data integration.
+    The objective of the Integrated Digital Built Environment (IDBE) joint working
+    group is to address this challenge by bringing together experts from the Open
+    Geospatial Consortium and buildingSMART to coordinate the development of the relevant
+    data standards. This document is an output from IDBE in which we describe the
+    state of three of the most prominent built environment standards – CityGML, IFC
+    and LandInfra – and describe some of the problems that hinder their integration;
+    finally, we propose actions points for overcoming these problems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.1
+id: 07-152
+title:
+- content: FedEO Pilot Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: FedEO Pilot Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=25184
+  type: obp
+type: standard
+docid:
+- id: 07-152
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2008-01-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Corentin Guillo
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2008-01-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document was developed during the FedEO - GEO AIP initiative of the
+    OGC. It was contributed by the organizations involved in the Earth Observation
+    and Natural Resources and Environment Domain Working Group (EO/NRE DWG) in the
+    OGC Specification Program. The document describes recommendation for architecture
+    and specification that enables interoperability
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

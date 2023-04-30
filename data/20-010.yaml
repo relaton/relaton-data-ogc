@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.1
+id: 20-010
+title:
+- content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
+    Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
+    Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/20-010/20-010.html
+  type: obp
+type: standard
+docid:
+- id: 20-010
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-09-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Thomas H. Kolbe
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tatjana Kutzner
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Carl Stephen Smyth
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Claus Nagel
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Carsten Roensdorf
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Charles Heazel
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2021-09-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Standard defines the open CityGML Conceptual Model for the storage
+    and exchange of virtual 3D city models. The CityGML Conceptual Model is defined
+    by a Unified Modeling Language (UML) object model. This UML model builds on the
+    ISO Technical Committee 211 (ISO/TC 211) conceptual model standards for spatial
+    and temporal data. Building on the ISO foundation assures that the man-made features
+    described in the city models share the same spatiotemporal universe as the surrounding
+    countryside within which they reside.\r\n\r\nA key goal for the development of
+    the CityGML Conceptual Model is to provide a common definition of the basic entities,
+    attributes, and relations of a 3D city model. This is especially important with
+    respect to the cost-effective sustainable maintenance of 3D city models, allowing
+    the reuse of the same data in different application fields.\r\n\r\nThe class models
+    described in this standard are also available at https://github.com/opengeospatial/CityGML3-Workspace/tree/1.0/UML/CityGML"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

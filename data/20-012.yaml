@@ -1,0 +1,110 @@
+---
+schema-version: v1.2.1
+id: 20-012
+title:
+- content: UML-to-GML Application Schema Pilot (UGAS-2020) Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: UML-to-GML Application Schema Pilot (UGAS-2020) Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/20-012.html
+  type: obp
+type: standard
+docid:
+- id: 20-012
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Johannes Echterhoff
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2021-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "During UGAS-2020 emerging technology requirements for NAS employment in
+    the NSG, and with general applicability for the wider geospatial community, were
+    investigated and solutions developed in four areas.\r\n\r\nTo enable a wide variety
+    of analytic tradecrafts in the NSG to consistently and interoperably exchange
+    data, the NAS defines an NSG-wide standard UML-based application schema in accordance
+    with the ISO 19109 General Feature Model. In light of continuing technology evolution
+    in the commercial marketplace it is desirable to be able to employ (NAS-conformant)
+    JSON-based data exchanges alongside existing (NAS-conformant) XML-based data exchanges.
+    A prototype design and implementation of UML Application Schema to JSON Schema
+    rules (see the OWS-9 SSI UGAS Conversion Engineering Report) was reviewed and
+    revised based on the final draft IETF JSON Schema standard “draft 2019-09.” The
+    revised implementation was evaluated using NAS Baseline X-3. This work is reported
+    in section UML to JSON Schema Encoding Rule.\r\n\r\nTo maximize cross-community
+    data interoperability the NAS employs conceptual data schemas developed by communities
+    external to the NSG, for example as defined by the ISO 19100-series standards.
+    At the present time there are no defined JSON-based encodings for those conceptual
+    schemas. A JSON-based core profile was developed for key external community conceptual
+    schemas, particularly components of those ISO 19100-series standards used to enable
+    data discovery, access, control, and use in data exchange in general, including
+    in the NSG. This work is reported in section Features Core Profile of Key Community
+    Conceptual Schemas.\r\n\r\nThe Features Core Profile and its JSON encoding have
+    been specified with a broader scope than the NAS. It builds on the widely used
+    GeoJSON standard and extends it with minimal extensions to support additional
+    concepts that are important for the wider geospatial community and the OGC API
+    standards, including support for solids, coordinate reference systems, and time
+    intervals. These extensions have been kept minimal to keep implementation efforts
+    as low as possible. If there is interest in the OGC membership, the JSON encoding
+    of the Core Profile could be a starting point for a JSON encoding standard for
+    features in the OGC. A new Standards Working Group for a standard OGC Features
+    and Geometries JSON has been proposed.\r\n\r\nLinked data is increasingly important
+    in enabling “connect the dots” correlation and alignment among diverse, distributed
+    data sources and data repositories. Validation of both data content and link-based
+    data relationships is critical to ensuring that the resulting virtual data assemblage
+    has logical integrity and thus constitutes meaningful information. SHACL, a language
+    for describing and validating RDF graphs, appears to offer significant as yet
+    unrealized potential for enabling robust data validation in a linked-data environment.
+    The results of evaluating that potential – with emphasis on deriving SHACL from
+    a UML-based application schema - are reported in section Using SHACL for Validation
+    of Linked Data.\r\n\r\nThe OpenAPI initiative is gaining traction in the commercial
+    marketplace as a next-generation approach to defining machine-readable specifications
+    for RESTful APIs in web-based environments. The OGC is currently shifting towards
+    interface specifications based on the OpenAPI 3.1 specification. That specification
+    defines both the interface (interactions between the client and service) and the
+    structure of data payloads (content) offered by that service. It is desirable
+    to be able to efficiently model the service interface using UML and then automatically
+    derive the physical expression of that interface (for example, as a JSON file)
+    using Model Driven Engineering (MDE) techniques alongside the derivation of JSON
+    Schema defining data content. A preliminary analysis and design based on the OGC
+    API Features standard, parts 1 and 2, for sections other than for content schemas,
+    is reported in section Generating OpenAPI definitions from an application schema
+    in UML.\r\n\r\nAll ShapeChange enhancements developed within the UGAS-2020 Pilot
+    have been publicly released as a component of ShapeChange v2.10.0. https://shapechange.net
+    has been updated to document the enhancements."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

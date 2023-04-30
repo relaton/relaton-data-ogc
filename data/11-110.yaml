@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: 11-110
+title:
+- content: Open Source and Open Standards
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Open Source and Open Standards
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=45126
+  type: obp
+type: standard
+docid:
+- id: 11-110
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-08-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arnulf Christl and Carl Reed
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2011-08-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This article is a White Paper jointly published by OGC and OSGeo. It was
+    approved as an official joint OSGeo and OGC White Paper by the OSGeo Board of
+    Directors in their 2011-05-05 Board meeting. \r\nThe text was collaboratively
+    edited, reviewed and finalized by more than a a dozen active OSGeo and OGC members.
+    Thanks especially to Gavin Fleming, Lance McKee, Markus Neteler, Athina Trakas,
+    Michael Gerlek, Adrian Custer, Jeff McKenna, Cameron Shorter, Carl Reed, Frank
+    Warmerdam, Steven Ramage, Daniel Morissette, Arnulf Christl and others for their
+    contributions.\r\nPlease feel free to add comments, criticisms, links to other
+    concise definitions on the associated Talk page: http://wiki.osgeo.org/wiki/Open_Source_and_Open_Standards."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

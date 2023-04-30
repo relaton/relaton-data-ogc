@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 18-004r1
+title:
+- content: The Role of Geospatial in Edge-Fog-Cloud Computing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: An OGC White Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: The Role of Geospatial in Edge-Fog-Cloud Computing - An OGC White Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/wp/18-004r1/18-004r1.html
+  type: obp
+type: standard
+docid:
+- id: 18-004r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-07-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: George Percivall
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2018-07-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "“The cloud is dead – long live the cloud!” so begins an IEC White paper
+    on Edge Intelligence.[1]  The IEC White Paper continues that “Driven by the internet
+    of things (IoT), a new computing model – edge-cloud computing – is currently evolving,
+    which involves extending data processing to the edge of a network in addition
+    to computing in a cloud or a central data centre. Edge-Fog-Cloud computing models
+    operate both on premise and in public and private clouds, including via devices,
+    base stations, edge servers, micro data centres and networks.” "
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

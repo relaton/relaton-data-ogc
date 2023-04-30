@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.1
+id: 16-041r1
+title:
+- content: Testbed-12 WPS ISO Data Quality Service Profile Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Testbed-12 WPS ISO Data Quality Service Profile Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/16-041r1.html
+  type: obp
+type: standard
+docid:
+- id: 16-041r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-06-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Liping Di
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Eugene G. Yu
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Md Shahinoor Rahman
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ranjay Shrestha
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2017-06-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This Data Quality Engineering Report describes data quality handling requirements,
+    challenges and solutions. One focus is on data quality in general that needs to
+    be communicated from one service to another. In addition, it discusses WPS data
+    quality solutions. The ultimate goal is for it to be nominated as a WPS ISO Data
+    Quality Service Profile. ISO 19139 is used as the base to encode the data quality.
+    WPS and workflows are used to streamline and standardize the process of data quality
+    assurance and quality control. The main topics include: (1) generalized summary
+    and description of the design and best practices for analyzing data quality of
+    all feature data sources used in the Citizen Observatory WEB (COBWEB) project,
+    (2) solutions and recommendations for enabling provenance of data quality transparent
+    to end users when the data is processed through a WPS, (3) best practices and
+    recommendations for designing and prototyping the WPS profile to support data
+    quality service conformant to the NSG Metadata Framework, and (4) general solution
+    for data quality fit for both raster-based imageries and vector-based features.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

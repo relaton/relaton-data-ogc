@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.1
+id: 14-001
+title:
+- content: OGC® Testbed 10 Provenance Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed 10 Provenance Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=58967
+  type: obp
+type: standard
+docid:
+- id: 14-001
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-07-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joan Masó
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Guillem Closa Yolanda Gil and Benjamin Proß
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2014-07-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The provenance activities reported in this document were part of the OGC
+    Testbed 10\r\nCross Community Interoperability (CCI) thread. This OGC® document
+    gives guidelines\r\nfor the capture and documentation of provenance information
+    at dataset, feature and\r\nattribute level. It only considers vector features
+    (mainly, points and lines) and does not\r\nelaborate on the coverage data model
+    (so it does not talk about provenance of raster\r\ninformation). It proposes an
+    approach to use the W3C PROV standard with geospatial\r\ninformation that can
+    come from different sources and are integrated through different\r\nprocessing
+    steps. It also reviews the applicability of ISO19115 and ISO19115-2 lineage."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.1
+id: 16-042r1
+title:
+- content: Testbed-12 WMS/WMTS Enhanced Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Testbed-12 WMS/WMTS Enhanced Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/16-042r1.html
+  type: obp
+type: standard
+docid:
+- id: 16-042r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-06-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lingjun Kang
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Liping Di
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Eugene Yu
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2017-06-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Engineering Report (ER) describes requirements, challenges and solutions
+    regarding improving multidimensional Earth Observation (EO) data access, discovery
+    and visualization through Web Map Service (WMS), Web Map Tile Service (WMTS),
+    and corresponding extensions. The ER will highlight solutions and recommendations
+    of following main topics.\r\n1) WMTS enhancements for time-varying layer access/discovery\r\n\r\n2)
+    WMS enhancements for NetCDF\r\n\r\n3) WMTS enhancements for multidimensional domain
+    discovery\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

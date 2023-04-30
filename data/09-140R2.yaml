@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.1
+id: '09-140r2'
+title:
+- content: OGC® NSG Plugweek Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® NSG Plugweek Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=36336
+  type: obp
+type: standard
+docid:
+- id: '09-140r2'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-07-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Paul Daisey
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2010-07-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Open Geospatial Consortium (OGC®) conducted a series of tests that
+    examined the interoperability, suitability and performance of National System
+    for Geospatial- Intelligence (NSG) Profiles provided by the National Geospatial-Intelligence
+    Agency (NGA) of four OGC Standards, Web Map Service (WMS), Web Feature Service
+    (WFS), Web Coverage Service (WCS), and Catalog Service (CAT). In the study, vendors,
+    users, and other interested parties conducted Technology Integration Experiments
+    (TIEs) and mutually refined clients, services, interfaces and protocols in the
+    context of a hands-on engineering experience expected to shape the future NGA,
+    NSG and Geospatial Intelligence (GEOINT) web based distribution.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

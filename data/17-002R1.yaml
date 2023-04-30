@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.1
+id: 17-002r1
+title:
+- content: OGC GeoRSS Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC GeoRSS Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/cs/17-002r1/17-002r1.html
+  type: obp
+type: standard
+docid:
+- id: 17-002r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-08-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2017-08-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: GeoRSS is designed as a lightweight, community driven way to extend existing
+    RSS feeds with simple geographic information. The GeoRSS standard provides for
+    encoding location in an interoperable manner so that applications can request,
+    aggregate, share and map geographically tag feeds.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: community-standard
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

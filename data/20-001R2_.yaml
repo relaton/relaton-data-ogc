@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.1
+id: 20-001r2
+title:
+- content: Geospatial Data Science
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Geospatial Data Science
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/wp/20-001r2.html
+  type: obp
+type: standard
+docid:
+- id: '20-001r2 '
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-07-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: George Percivall
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2020-07-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This OGC White Paper describes Geospatial Data Science based on the Location
+    Powers: Data Science Summit of November 2019. The white paper provides a description
+    of the presentations and discussions of the summit along with recommendations
+    for OGC activities to advance the field of Geospatial Data Science.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

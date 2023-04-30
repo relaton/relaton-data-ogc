@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 14-008
+title:
+- content: OGC® Testbed 10 Report on Aviation Architecture
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed 10 Report on Aviation Architecture
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=58927
+  type: obp
+type: standard
+docid:
+- id: 14-008
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-07-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matthes Rieke
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2014-07-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). This
+    document describes the\r\narchitecture that was implemented in the Testbed-10
+    Aviation thread. Additionally, it provides\r\ndescriptions of all software components
+    involved in the Aviation architecture as well as a\r\ndedicated chapter focusing
+    on the evaluation and design of FIXM 2.0. Here, a special focus lies\r\non the
+    integration into the data provisioning components, namely the Web Feature and
+    Event\r\nServices."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

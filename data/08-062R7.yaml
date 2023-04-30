@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: '08-062r7'
+title:
+- content: OGC Reference Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Reference Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=47245
+  type: obp
+type: standard
+docid:
+- id: '08-062r7'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-12-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: George Percivall
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '7'
+revdate: '2011-12-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OGC Reference Model (ORM) describes the OGC Standards Baseline focusing
+    on relationships between the baseline documents. The OGC Standards Baseline (SB)
+    consists of the approved OGC Abstract and Implementation Standards (Interface,
+    Encoding, Profile, and Application Schema – normative documents) and OGC Best
+    Practice documents (informative documents).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: reference-model
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

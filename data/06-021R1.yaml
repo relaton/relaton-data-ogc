@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.1
+id: 06-021r1
+title:
+- content: OpenGIS Sensor Web Enablement Architecture Document
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Sensor Web Enablement Architecture Document
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=14140
+  type: obp
+type: standard
+docid:
+- id: 06-021r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-03-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike Botts
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Alex Robin
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: John Davidson
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ingo Simonis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2006-03-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The aim of this document is to provide a overview description of the general
+    architecture that applies to the Sensor Web Enablement (SWE). While this document
+    provides a synopsis of the relevant encodings and web services, it does not contain
+    interface descriptions of the components.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

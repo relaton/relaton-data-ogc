@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 21-050r1
+title:
+- content: Zarr Storage Specification 2.0 Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Zarr Storage Specification 2.0 Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/100727
+  type: obp
+type: standard
+docid:
+- id: 21-050r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-06-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Zarr Developers
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2022-06-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Community Standard refers to the Zarr V2 Specification. The Zarr
+    V2 Specification\r\nis hosted on the Zarr website at https://zarr.readthedocs.io/en/stable/spec/v2.html.
+    The\r\nZarr V2 Specification is the OGC Community Standard. Everything that follows
+    is a\r\nnon-normative, informal description of Zarr usage written for the benefit
+    of the geospatial\r\ncommunity."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: community-standard
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.1
+id: 11-086r1
+title:
+- content: OWS-8 Aviation Thread
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Authoritative AIXM Data Source Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-8 Aviation Thread - Authoritative AIXM Data Source Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=46019
+  type: obp
+type: standard
+docid:
+- id: 11-086r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-01-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jan Herrmann
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Andreas Matheus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2012-01-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This engineering report describes how to provide access control for WFS-T
+    2.0 instances\r\nin the OWS-8 Authoritative AIXM Data Source scenario."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

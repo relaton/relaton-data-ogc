@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: 10-126r3
+title:
+- content: 'OGC® WaterML 2.0: Part 1- Timeseries'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC® WaterML 2.0: Part 1- Timeseries'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=48531
+  type: obp
+type: standard
+docid:
+- id: 10-126r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-08-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Taylor
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2012-08-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document is an OGC® Encoding Standard for the representation of hydrological
+    observations data with a specific focus on time series structures. WaterML2.0
+    is implemented as an application schema of the Geography Markup Language version
+    3.2.1, making use of the OGC Observations & Measurements standards.\r\nWaterML2.0
+    is designed as an extensible schema to allow encoding of data to be used in a
+    variety of exchange scenarios. Example areas of usage are: exchange of data for
+    operational hydrological monitoring programs; supporting operation of infrastructure
+    (e.g. dams, supply systems); cross-border exchange of observational data; release
+    of data for public dissemination; enhancing disaster management through data exchange;
+    and exchange in support of national reporting. \r\nThe core aspect of the model
+    is in the correct, precise description of time series. Interpretation of time
+    series relies on understanding the nature of the process that generated them.
+    This standard provides the framework under which time series can be exchanged
+    with appropriate metadata to allow correct machine interpretation and thus correct
+    use for further analysis. Existing systems should be able to use this model as
+    a conceptual 'bridge' between existing schema or systems, allowing consistency
+    of the data to maintained.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.1
+id: 05-050
+title:
+- content: GML Performance Investigations by CubeWerx
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: GML Performance Investigations by CubeWerx
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=12983
+  type: obp
+type: standard
+docid:
+- id: 05-050
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-05-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Craig Bruce
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2006-05-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This report proposes and executes methods to evaluate the performance of
+    the use of the Geography Markup Language (GML) as encoded in various ways.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

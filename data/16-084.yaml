@@ -1,0 +1,112 @@
+---
+schema-version: v1.2.1
+id: 16-084
+title:
+- content: OGC Benefits of Indoor Location
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: " Use Case Survey of Lessons Learned and Expectations "
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Benefits of Indoor Location -  Use Case Survey of Lessons Learned
+    and Expectations '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=68604
+  type: obp
+type: standard
+docid:
+- id: 16-084
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-08-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Giuseppe Conti
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Fabio Malabocchia
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: " Ki-Joune Li"
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: George Percivall
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Kirk Burroughs
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Stuart Strickland
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2016-08-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Indoor location technologies are enjoying and increasing market success.
+    Technologies in the market have achieved maturity and have become a key driver
+    for innovation and business activities in several value added scenarios, e.g.
+    e-government services, eHealth, personal mobility, logistics, mobility, facility
+    management, retail, to name but a few. This paper collects the results of a survey
+    on the benefits of indoor location, which was jointly prepared and launched by
+    OGC – the Open Geospatial Consortium, InLocation Alliance and i-locate project
+    at the beginning of 2016. Overall, 153 survey responses were received from 33
+    countries.   Responses were categorized in two areas: Client Organizations and
+    Technology suppliers. The goal of the initiative was to acquire a broad view of
+    the requirements and use cases emerging from the wider industrial and user community,
+    beyond the memberships of the various organizations, in order to capture trends,
+    challenges and opportunities, as well as trends and barriers to widespread use
+    of indoor location technologies. This paper does not represent a view of the membership
+    involved in the different organizations; instead, it provides the opportunity
+    to capture recommendations of relevance for the industrial and standardization
+    community these organizations represent. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

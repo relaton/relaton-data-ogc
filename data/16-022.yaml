@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 16-022
+title:
+- content: Testbed-12 WPS Conflation Service Profile Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Testbed-12 WPS Conflation Service Profile Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/16-022.html
+  type: obp
+type: standard
+docid:
+- id: 16-022
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-06-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Benjamin Pross
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2017-06-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: One practical purpose of this ER will be to describe how a conflation tool
+    such as the Hootenanny software can be used for conflation tasks using the Web
+    Processing Service interface. The developed WPS REST (conflation) Service will
+    be described in detail. Special focus will be laid on more complex conflation
+    tasks that include user interaction. During earlier testbeds, we connected different
+    conflation tools to the WPS and performed different conflation tasks (see [1]
+    and [2]). The experiences gathered there together with the ones gathered in the
+    Testbed 12 will be captured in the ER. As the WPS REST (Conflation) Service will
+    be RESTful, this ER could be the basis for a REST binding extension for WPS 2.0.
+    Service profiles are an important aspect of the WPS 2.0 standard. We will investigate
+    how a WPS 2.0 Conflation Profile could look like in the hierarchical profiling
+    approach of WPS 2.0.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

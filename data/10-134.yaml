@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.1
+id: 10-134
+title:
+- content: Sensor Interface Descriptors
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Sensor Interface Descriptors
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=39664
+  type: obp
+type: standard
+docid:
+- id: 10-134
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-06-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arne Broering
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Stefan Below
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2010-06-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document presents the Sensor Interface Descriptor (SID) schema that
+    enables the declarative description of sensor interfaces, including the definition
+    of the communication protocol, sensor commands, processing steps and metadata
+    association. This schema is designed as a profile and extension of SensorML. Based
+    on this schema, SID interpreters can be implemented, independently of particular
+    sensor technology, which are able to translate between sensor protocol and SWE
+    protocols. They establish the connection to a sensor and are able to communicate
+    with it by using the sensor protocol definition of the SID. SID instances for
+    particular sensor types can be reused in different scenarios and can be shared
+    among user communities. The ability of an SID interpreter to connect sensors and
+    Sensor Web services in an ad hoc manner based on the sensor’s SID instance is
+    a next step towards realizing sensor plug & play within the Sensor Web.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

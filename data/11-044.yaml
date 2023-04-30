@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.1
+id: 11-044
+title:
+- content: OGC Geography Markup Language (GML) simple features profile Technical Note
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Geography Markup Language (GML) simple features profile Technical Note
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=43999
+  type: obp
+type: standard
+docid:
+- id: 11-044
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-05-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Linda van den Brink
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2011-05-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This technical note enhances the OGC GML simple features profile to include
+    circles, circular arc, and corrects the annex numbering, and clarifies how to
+    specify conformance classes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

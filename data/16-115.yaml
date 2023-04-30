@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 16-115
+title:
+- content: Future City Pilot 1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Recommendations on Serving IFC via WFS
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Future City Pilot 1 - Recommendations on Serving IFC via WFS
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/16-115.html
+  type: obp
+type: standard
+docid:
+- id: 16-115
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-10-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Guy Schumann
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2017-10-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Engineering Report (ER) gives recommendations on serving IFC via WFS
+    and discusses related issues. It was decided that the focus of this ER is to summarize
+    issues and give recommendations for future work and discuss the nature of such
+    work. In other words, this ER should be viewed as an initial set of discussion
+    points on the topic of serving IFC via WFS.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

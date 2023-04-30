@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.1
+id: 13-042
+title:
+- content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
+    Products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
+    Products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=55209
+  type: obp
+type: standard
+docid:
+- id: 13-042
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-04-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniele Marchionni
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2014-04-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Best Practices document specifies the interfaces, bindings, requirements,
+    conformance classes that enable complete workflows for ordering Earth Observation
+    (EO) data products. In fact it provides the interfaces for supporting the following
+    EO Product ordering scenarios:\r\n•\tOrdering products from EO Catalogues\r\n•\tSubscribing
+    to automatic delivery of EO products\r\n•\tBulk EO Product orders\r\nThe EO products
+    orders can be delivered on file via different online protocols (e.g. ftp, sftp,
+    ftps, etc.).\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

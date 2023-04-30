@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.1
+id: 04-052
+title:
+- content: OWS1.2 Image Handling Requirements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS1.2 Image Handling Requirements
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=6660
+  type: obp
+type: standard
+docid:
+- id: 04-052
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2004-09-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2004-09-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document was developed as part of the Image Handling Thread of the
+    OGC Web Services Initiative Phase 1 Thread Set 2 (OWS 1.2). This document specified
+    the requirements for the image handling functions to be supported by draft specifications
+    prepared under that thread. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

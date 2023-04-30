@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.1
+id: 01-009
+title:
+- content: Coordinate Transformation Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: OLE/COM
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Coordinate Transformation Services - OLE/COM
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=999
+  type: obp
+type: standard
+docid:
+- id: 01-009
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2001-01-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Martin Daly
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2001-01-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Provides interfaces for general positioning, coordinate systems, and coordinate
+    transformations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: profile
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

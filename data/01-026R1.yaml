@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.1
+id: 01-026r1
+title:
+- content: Geocoder
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Geocoder
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=1031
+  type: obp
+type: standard
+docid:
+- id: 01-026r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2001-03-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Serge Margoulies
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2001-03-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "*RETIRED* Geocoding is the process of linking words, terms and codes found
+    in a text string to their applicable geospatial features, with known locations.
+    (Locations are defined as geometry; usually points with x, y coordinates.)"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

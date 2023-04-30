@@ -1,0 +1,64 @@
+---
+id: 14-038r1
+title:
+- type: title-main
+  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
+    Data'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
+    Data'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://portal.ogc.org/files/?artifact_id=58117
+  type: obp
+type: standard
+docid:
+- id: 14-038r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: 0000-00-00
+contributor:
+- person:
+    name:
+      completename: Mark Hughes
+  role:
+  - author
+- organization:
+    name:
+    - Open Geospatial Consortium
+  role:
+  - publisher
+edition:
+  content: '1'
+revdate: 0000-00-00
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC document provides an analysis of the mapping between the NOAA
+    Web Gridded Document Service (WGDS) and the OGC Web Coverage Service (WCS)  and
+    describes an adapter which translates WCS 2.0 requests to WGDS requests and then
+    translates WGDS responses to WCS 2.0  responses.\r\nThis Engineering Report was
+    prepared as a deliverable for the OGC Testbed 10 (Testbed-10) initiative, specifically
+    the Testbed 10 Aviation Thread.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-08-11'
+doctype: engineering-report
+editorialgroup:
+  committee: technical

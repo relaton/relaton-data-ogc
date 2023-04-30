@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.1
+id: 02-019r1
+title:
+- content: Coverage Portrayal Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Coverage Portrayal Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=1121
+  type: obp
+type: standard
+docid:
+- id: 02-019r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2002-02-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jeff Lansing
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2002-02-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Coverage Portrayal Service (CPS) IPR proposes a standard interface
+    for producing visual pictures from coverage data.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

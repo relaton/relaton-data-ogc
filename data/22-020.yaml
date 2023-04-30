@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.1
+id: 22-020
+title:
+- content: 'Testbed-18: Identifiers for Reproducible Science Summary Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Testbed-18: Identifiers for Reproducible Science Summary Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/22-020.html
+  type: obp
+type: standard
+docid:
+- id: 22-020
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-01-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Paul Churchyard
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ajay Gupta
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2023-01-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC’s Testbed 18 initiative explored the following six tasks.\r\n\r\n1.)
+    Advanced Interoperability for Building Energy\r\n2.) Secure Asynchronous Catalogs\r\n3.)
+    Identifiers for Reproducible Science\r\n4.) Moving Features and Sensor Integration\r\n5.)
+    3D+ Data Standards and Streaming\r\n6.) Machine Learning Training Data\r\nTestbed
+    18 Task 3, Identifiers for Reproducible Science, explored and developed workflows
+    demonstrating best practices at the intersection of Findable, Accessible, Interoperable,
+    and Reusable (or FAIR) data and reproducible science.\r\n\r\nThe workflows developed
+    in this Testbed included:\r\n\r\nthe development of a Whole Tail workflow for
+    land cover classification (52 Degrees North);\r\nthe development of a reproducible
+    workflow for a deep learning application for target detection (Arizona State University);\r\nthe
+    implementation of reproducible workflows following the approach described in the
+    OGC API Process Part 3: Workflows and Chaining for Modular OGC API Workflows (Ecere);\r\nthe
+    development of a reproducible workflow that runs an OGC API — Process and Feature
+    Server instance within a Whole Tale environment (GeoLabs); and\r\nthe development
+    of a water body detection Application Package to cover the identifier assignment
+    and reproducibility from code to several execution scenarios (local, Exploitation
+    Platform, Whole Tale) (Terradue).\r\nTestbed 18 participants identified considerations
+    and limitations for reproducible workflows and recommendations for future work
+    to identify the benefits of reproducible science for healthcare use cases."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

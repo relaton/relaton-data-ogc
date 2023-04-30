@@ -1,0 +1,92 @@
+---
+schema-version: v1.2.1
+id: 15-003
+title:
+- content: OGC Common DataBase Volume 1 Main Body
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Common DataBase Volume 1 Main Body
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=61935
+  type: obp
+type: standard
+docid:
+- id: 15-003
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2015-07-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Graham
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2015-07-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The Common DataBase (CDB) Specification provides the means for a single,
+    versionable, simulation-rich, synthetic representation of the earth.  A database
+    that conforms to this Specification is referred to as a Common DataBase or CDB.
+    \ A CDB provides for a synthetic environment repository that is plug-and-play
+    interoperable between database authoring workstations.  Moreover, a CDB can be
+    used as a common on-line (or runtime) repository from which various simulator
+    client-devices can simultaneously retrieve and modify, in real-time, relevant
+    information to perform their respective runtime simulation tasks; in this case,
+    a CDB is plug-and-play interoperable between CDB-compliant simulators.  A CDB
+    can be readily used by existing simulation client-devices (legacy Image Generators,
+    Radar simulator, Computer Generated Forces, etc.) through a data publishing process
+    that is performed on-demand in real-time.\r\nThe application of CDB to future
+    simulator architectures will significantly reduce runtime-source level and algorithmic
+    correlation errors, while reducing development, update and configuration management
+    timelines.  With the addition of the HLA/FOM and DIS protocols, the application
+    of the CDB Specification provides a Common Environment to which inter-connected
+    simulators share a common view of the simulated environment.\r\nThe CDB Specification
+    is an open format Specification for the storage, access and modification of a
+    synthetic environment database.  The Specification defines the data representation,
+    organization and storage structure of a worldwide synthetic representation of
+    the earth as well as the conventions necessary to support all of the subsystems
+    of a full-mission simulator.  The Specification makes use of several commercial
+    and simulation data formats endorsed by leaders of the database tools industry.\r\nThe
+    CDB synthetic environment is a representation of the natural environment including
+    external features such as man-made structures and systems.  It encompasses the
+    terrain relief, terrain imagery, three-dimensional (3D) models of natural and
+    man-made cultural features, 3D models of dynamic vehicles, the ocean surface,
+    and the ocean bottom, including features (both natural and man-made) on the ocean
+    floor.  In addition, the synthetic environment includes the specific attributes
+    of the synthetic environment data as well as their relationships.\r\nA CDB contains
+    datasets organized in layers, tiles and levels-of-detail; together, these datasets
+    represent the features of a synthetic environment for the purposes of distributed
+    simulation applications.  The organization of the synthetic environmental data
+    in a CDB is specifically tailored for real-time applications. \r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: 11-052r4
+title:
+- content: OGC GeoSPARQL
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: A Geographic Query Language for RDF Data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC GeoSPARQL - A Geographic Query Language for RDF Data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=47664
+  type: obp
+type: standard
+docid:
+- id: 11-052r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-06-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matthew Perry and John Herring
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2012-06-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard defines a set of SPARQL extension functions [W3C SPARQL],
+    a set of RIF rules [W3C RIF Core], and a core RDF/OWL vocabulary for geographic
+    information based on the General Feature Model, Simple Features [ISO 19125-1],
+    Feature Geometry and SQL MM.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

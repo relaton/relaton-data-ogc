@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 21-064
+title:
+- content: OGC Disaster Pilot 2021 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Disaster Pilot 2021 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/21-064.html
+  type: obp
+type: standard
+docid:
+- id: 21-064
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-01-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andreas Matheus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2023-01-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Disaster Pilot ’21 (DP21) Engineering Report summarizes work done
+    in the Pilot to increase disaster awareness among a range of disaster management
+    stakeholders. Pilot participants implemented components of a data flow ecosystem
+    to leverage analysis-ready earth observations and other datasets (ARD) and produce
+    decision ready indicators (DRI) according to collaboratively developed workflow
+    recipes. DP21 focused on the hazards of flooding, landslides, and pandemic, as
+    well as the interactions and complications between them, in three regions including
+    the Piura and Rimac river basins in Peru; the Red River Basin in Manitoba, Canada;
+    and the greater New Orleans area in Louisiana, United States. The Pilot also prototyped
+    providing information to field practitioners in secure geopackage formats, as
+    well as leveraging linked data and structured web page information to optimize
+    public web searches for disaster information.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

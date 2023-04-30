@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.1
+id: 05-096r1
+title:
+- content: GML 3.1.1 grid CRSs profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: GML 3.1.1 grid CRSs profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=13205
+  type: obp
+type: standard
+docid:
+- id: 05-096r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-07-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2006-07-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document defines a profile of the Geography Markup Language (GML)
+    version 3.1.1 for encoding definitions of grid coverage (including image) Coordinate
+    Reference Systems (CRSs) plus related coordinate Transformations. This document
+    also specifies some Universal Resource Names (URNs) for definitions in the ogc
+    URN namespace, in addition to those specified in [OGC 05-010]. Additional specific
+    URNs are defined for definitions of the datums, coordinate systems, and coordinate
+    system axes which are often used in definitions of grid and image CRSs.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: profile
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

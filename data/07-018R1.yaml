@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.1
+id: 07-018r1
+title:
+- content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=21465
+  type: obp
+type: standard
+docid:
+- id: 07-018r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2007-08-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Philippe M
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2007-08-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This SPS EO profile document specifies at a lower level the interfaces
+    and parameters for requesting information describing the capabilities of a Sensor
+    Planning Service dedicated to the EO Sensor domain, for determining the feasibility
+    of an intended sensor planning request, for submitting such a request, for inquiring
+    about the status of such a request, for updating or cancelling such a request,
+    and for requesting information about further OGC Web services that provide access
+    to the data collected by the requested task.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 07-012
+title:
+- content: Compliance Test Engine Interoperability Program Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Compliance Test Engine Interoperability Program Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=20582
+  type: obp
+type: standard
+docid:
+- id: 07-012
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2007-09-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jennifer Marcus
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chuck Morris
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2007-09-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: As a work item in the OWS4/Conformance and Interoperability Test and Evaluation
+    (CITE) project, Northrop Grumman Information Technology (NGIT) provided an open
+    source web services compliance engine.  NGIT refers to this engine as the Test
+    Evaluation And Measurement (TEAM) Engine.  It executes scripts written in Compliance
+    Test Language (CTL), a grammar also developed by NGIT.  This IPR describes TEAM
+    Engine in detail and provides information on how it was used in OWS-4/CITE.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

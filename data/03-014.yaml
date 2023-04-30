@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.1
+id: 03-014
+title:
+- content: OGC Web Services SOAP Experiment Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Web Services SOAP Experiment Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=1337
+  type: obp
+type: standard
+docid:
+- id: 03-014
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2003-01-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: J
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2003-01-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document will discuss how OWS services can be ported to Web Services
+    and highlight various issues/problems that have been discovered and need further
+    discussion.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

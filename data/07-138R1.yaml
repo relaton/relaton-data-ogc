@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.1
+id: 07-138r1
+title:
+- content: OWS-5 GeoProcessing Workflow Architecture Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-5 GeoProcessing Workflow Architecture Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=30065
+  type: obp
+type: standard
+docid:
+- id: 07-138r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2008-09-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Michael Werling
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2008-09-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC® document describes the Workflow Architecture developed in support
+    of Geoprocessing Workflow and Sensor Web Enablement threads of OWS-5.  This information
+    includes the overall architecture description, concepts, and issues.  It also
+    provides detail on the Conflation Workflow created as an example implementation
+    for geoprocessing in a workflow.  This document establishes a sample architecture
+    and associated lessons learned as general guidance.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

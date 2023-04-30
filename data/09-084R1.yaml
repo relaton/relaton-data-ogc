@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.1
+id: '09-084r1'
+title:
+- content: OpenSearch Geospatial Extensions Draft Implementation Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenSearch Geospatial Extensions Draft Implementation Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=35983
+  type: obp
+type: standard
+docid:
+- id: '09-084r1'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2009-10-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jo Walsh
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Pedro Gonçalves
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Andrew Turner
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2009-10-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OpenSearch specification originates in a community effort built around
+    Amazon's A9.com. It was intended to allow syndication of search results that could
+    then be aggregated by one large index. The OpenSearch specification is made available
+    under the Creative Commons Attribution-Sharealike 2.5 license. In addition, the
+    OASIS Search Web Services group is publishing an Abstract Protocol Definition
+    of the interface or “binding”, which coincides with the community specification
+    published at http://opensearch.org. In 2007, Andrew Turner proposed a set of geospatial
+    extensions through OpenSearch.org.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

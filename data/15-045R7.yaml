@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: 15-045r7
+title:
+- content: 'OGC MetOcean Application profile for WCS2.1: Part 0 MetOcean Metadata'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC MetOcean Application profile for WCS2.1: Part 0 MetOcean Metadata'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/15-045r7/15-045r7.html
+  type: obp
+type: standard
+docid:
+- id: 15-045r7
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-03-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Trevelyan
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Paul Hershberg
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Steve Olson
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '7'
+revdate: '2021-03-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The purpose of this Met Ocean profile of WCS2.1 is to define the metadata
+    returned in the response documents resulting from the WCS2.1 operations: GetCapabilities,
+    and DescribeCoverage; for use within the meteorological and oceanographic communities.
+    It also defines the new operation DescribeCoverageCollection.\r\n\r\nThis work
+    has been done by members of the OGC MetOcean Domain Working Group."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.1
+id: 18-045
+title:
+- content: 'OGC Testbed-14: Next Generation Web APIs'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: WFS 3.0 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-14: Next Generation Web APIs - WFS 3.0 Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/18-045.html
+  type: obp
+type: standard
+docid:
+- id: 18-045
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-03-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jeff Harrison
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2019-03-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The objective of the Next Generation APIs - WFS 3.0 effort in OGC Testbed-14
+    was to develop and test the Web Feature Service (WFS) version 3.0 candidate standard.
+    The initiative assessed OpenAPI, security based on OpenID Connect and OAuth 2.0
+    and WFS 3.0 extensions. The effort also began to assess methods to ease geospatial
+    enterprise transition to next generation Application Programming Interfaces (APIs).\r\n\r\nThe
+    purpose of this effort was not to preempt other next generation work taking place
+    in OGC, but rather to inform and complement that work.\r\n\r\nThis Engineering
+    Report (ER) describes the implementations and experiments conducted by OGC Testbed-14
+    participants to test next generation Web APIs. It includes descriptions of APIs
+    to simplify and secure access to geospatial feature resources, and was tested
+    in a scenario that showed how WFS 3.0 can support humanitarian relief activities."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

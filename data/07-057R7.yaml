@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.1
+id: 07-057r7
+title:
+- content: OpenGIS Web Map Tile Service Implementation Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Web Map Tile Service Implementation Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=35326
+  type: obp
+type: standard
+docid:
+- id: 07-057r7
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-04-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joan Masó
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Keith Pomakis and Núria Julià
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '7'
+revdate: '2010-04-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Web Map Tile Service (WMTS) Implementation Standard provides a standard
+    based solution to serve digital maps using predefined image tiles. The service
+    advertises the tiles it has available through a standardized declaration in the
+    ServiceMetadata document common to all OGC web services. This declaration defines
+    the tiles available in each layer (i.e. each type of content), in each graphical
+    representation style, in each format, in each coordinate reference system, at
+    each scale, and over each geographic fragment of the total covered area. The ServiceMetadata
+    document also declares the communication protocols and encodings through which
+    clients can interact with the server. Clients can interpret the ServiceMetadata
+    document to request specific tiles.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

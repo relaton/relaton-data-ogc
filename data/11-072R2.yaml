@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.1
+id: 11-072r2
+title:
+- content: OWS-8 Aviation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: WXXM Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-8 Aviation - WXXM Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=46322
+  type: obp
+type: standard
+docid:
+- id: 11-072r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2012-01-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Wenny Rahayu
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Torab Torabi
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Andrew Taylor-Harris
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Florian Puersch
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2012-01-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC™ document specifies the advancement of WXXM and Weather Concepts
+    in\r\nthe OWS-8 Aviation Thread. The focus is on investigating and demonstrating
+    the\r\napplicability and suitability of WXXM in producing accurate, real-time
+    aircraft weather\r\nradar data using OGC™ Web Coverage Services (WCS) to be used
+    by meteorological\r\napplications and services supporting aviation. Such applications
+    provide information\r\nwhich enhances safe and efficient tactical and"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

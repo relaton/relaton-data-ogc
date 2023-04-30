@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.1
+id: 03-040
+title:
+- content: OGC Reference Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Reference Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=3836
+  type: obp
+type: standard
+docid:
+- id: 03-040
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2003-09-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: George Percivall
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2003-09-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The ORM describes a framework for the ongoing work of the Open Geospatial
+    Consortium and our specifications and implementing interoperable solutions and
+    applications for geospatial services, data, and applications.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: reference-model
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

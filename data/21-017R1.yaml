@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.1
+id: 21-017r1
+title:
+- content: 'OGC Testbed-17: OGC Features and Geometries JSON Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-17: OGC Features and Geometries JSON Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.ogc.org/per/21-017r1.html
+  type: obp
+type: standard
+docid:
+- id: 21-017r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-02-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2022-02-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC Testbed-17 Features and Geometries JSON task investigated proposals
+    for how feature data could be encoded in JSON so that:\r\n\r\n* Different Coordinate
+    Reference Systems (CRS) are supported and\r\n* Communities can build and formally
+    specify profiles of the fully CRS-enabled JSON with limited sets of supported
+    geometry types and with clear constraints for feature type definitions.\r\n\r\nGeoJSON,
+    a standard of the Internet Engineering Task Force (IETF), was used as a starting
+    point.\r\n\r\nThis Engineering Report (ER) captures the results and discussions,
+    including material that was submitted to the https://github.com/opengeospatial/OGC-feat-geo-json[OGC
+    Features and Geometries JSON Standards Working Group].\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

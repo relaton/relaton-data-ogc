@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.1
+id: 10-100r2
+title:
+- content: Geography Markup Language (GML) simple features profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Geography Markup Language (GML) simple features profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=39853
+  type: obp
+type: standard
+docid:
+- id: 10-100r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-10-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Linda van den Brink
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2010-10-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This approved OpenGIS® Implementation Standard defines a Simple Features
+    profile of the Geography Markup Language version 3.2. This Simple Features Profile
+    has been aligned with the OGC Simple Features standard for SQL version 1.2. Simple
+    Features include: Point, Curve (LineString), Surface (Polygon), Geometry, MultiPoint,
+    MultiCurve, MultiSurface, and MultiGeometry. The detailed abstract model for OGC
+    features and geometry can be found in the OGC Abstract Specification, Topic Volume
+    1: Features (which is equivalent to ISO 19107).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: profile
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.1
+id: 14-055r2
+title:
+- content: OGC OWS Context GeoJSON Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC OWS Context GeoJSON Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=68826
+  type: obp
+type: standard
+docid:
+- id: 14-055r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-04-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Pedro Gonc&#807;alves
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Roger Brackin
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2017-04-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This standard describes the GeoJSON encoding of the OGC Web Services (OWS)
+    Context conceptual model. This standard defines how to encode an OWS context document
+    that 1.) can be extended to allow a context referencing a fully configured service
+    set, and 2.) can be defined and consistently interpreted by clients.\r\nThe OWS
+    Context Document standard (OWS Context) was created to allow a set of configured
+    information resources to be passed between applications primarily as a collection
+    of services (but also potentially in-line content). The objective is to support
+    use cases such as the distribution of search results, the exchange of a set of
+    resources in a Common Operating Picture (COP), or delivery of a set of configured
+    processing services to allow the processing to be reproduced on different processing
+    nodes.\r\nThe goal for OWS Context is to replace previous OGC standards and best
+    practices that provide similar capability. Web Map Context (WMC) has been reasonably
+    successful but is limited to working with only Web Map Service (WMS) instances.
+    Other work on the Location Organizer Folder1 (LOF) was also taken into consideration.
+    The concept of OWS Context and the first prototype document was produced as part
+    of OWS Testbed 7 and documented in [OGC10-035r1], Information Sharing Engineering
+    Report.\r\nA principal goal of the OWS Context SWG was to develop encodings that
+    would appeal for use in mass market applications yet also provide facilities for
+    more advanced uses. OWS-7 originally considered the application of existing encoding
+    standards for OWS Context. The OGC Standards Working Group (SWG) has concluded
+    that this standard can have multiple encoding formats and that each encoding format
+    will be described in a separate OGC Extension to the Core model.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

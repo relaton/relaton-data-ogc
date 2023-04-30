@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 14-004
+title:
+- content: OGC Sensor Observation Service 2.0 Hydrology Profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Sensor Observation Service 2.0 Hydrology Profile
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=57327
+  type: obp
+type: standard
+docid:
+- id: 14-004
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-04-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: GEOWOW Consortium
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2014-04-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document an interoperable hydrology profile for OGC Sensor Observation
+    Service (SOS) 2.0 implementations serving OGC WaterML 2.0. This development is
+    based on previous activities and results (i.e. Hydrology Interoperability Experiments
+    as well as the European FP7 project GEOWOW). It is guided by the need to overcome
+    mostly semantic issues between different SOS instances serving hydrological data
+    and the according clients. Therefore, this profile focuses on how to use the entities
+    and requests of the standards and covers the necessary technical details. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

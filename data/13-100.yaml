@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 13-100
+title:
+- content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
+    Core
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
+    Core
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=55231
+  type: obp
+type: standard
+docid:
+- id: 13-100
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2013-11-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: 'Andreas Matheus '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2013-11-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This standard defines the version 3.0 of a geospatial extension to the
+    OASIS eXtensible Access Control Markup Language (XACML) Version 3.0 standard.
+    It thereby enables the interoperable definition of access rights / constraints
+    using the XACML 3.0 language, processing model and policy schema but extends the
+    ability to phrase conditions on geographic characteristics of subjects, resources
+    and objects. \r\nIn that sense, a GeoXACML policy could restrict access to geospatial
+    information, e.g. provided by OGC Web Services. However, a GeoXACML policy could
+    also restrict access to non geospatial assets by stating restrictions for access
+    based on the location of the user (or the mobile device used) trying to access
+    the protected assets. Therefore, this standard applies to main stream IT.\r\nFor
+    enabling processing of access control decisions based on geometry, Geospatial
+    eXensible Access Control Markup Language (GeoXACML) 3.0 Core inherits by normative
+    reference ISO 19125 which defines a geometry model and functions on geometry instances
+    which enrich the XACML 3.0 specification. \r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

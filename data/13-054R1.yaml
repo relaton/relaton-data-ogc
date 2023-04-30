@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.1
+id: 13-054r1
+title:
+- content: Summary and Recommendations of the Geospatial Enhancement for the National
+    Information Exchange Model (Geo4NIEM) Interoperabi
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Summary and Recommendations of the Geospatial Enhancement for the National
+    Information Exchange Model (Geo4NIEM) Interoperabi
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=55342
+  type: obp
+type: standard
+docid:
+- id: 13-054r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2013-11-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Martell
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2013-11-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Geospatial information technologies are increasingly a foundation for
+    supporting Information Sharing Environment (ISE), homeland security (HLS), homeland
+    defense (HLD), law enforcement (LE), emergency management (EM) and public safety
+    missions in the US.  The inability to transport, deliver and exchange geospatial
+    information for critical geospatial assets increases the risk to the nation.\r\nMany
+    ISE HLS/HDS/LE mission partners have developed stand-alone geospatial information
+    systems (GIS) or Common Operating Picture (COP) applications to support their
+    stakeholder communities during incidents and for daily operational support. While
+    different missions, these GIS/COP capabilities rely upon much of the same data
+    or generate specific data during an event.  The data are often stove-piped and
+    not exposed to a broader community that could benefit from these data, resulting
+    in duplication and delayed or incorrect decisions. While mission partners do not
+    need to use the same GIS/COP tools, they could benefit from shared access to the
+    common operating data and services used within these systems if they were exposed
+    and exchanged using open standards.\r\nUnder the auspices of the Program Manager
+    for the Information Sharing Environment (PM-ISE), an identified government-wide
+    information sharing shortfall will be resolved by funding work to enhance the
+    National Information Exchange Model (NIEM). The focus of this work is to further
+    enhance the framework’s geospatial exchange capability in light of guidelines
+    and standards issued by the Open Geospatial Consortium (OGC) so as to significantly
+    improve inter-government information sharing.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

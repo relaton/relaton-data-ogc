@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.1
+id: 19-040
+title:
+- content: WPS Routing API ER
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: WPS Routing API ER
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/19-040.html
+  type: obp
+type: standard
+docid:
+- id: 19-040
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-01-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Christian Autermann
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2020-01-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The goal of this OGC WPS Routing API Engineering Report (ER) is to document
+    the specification of an Application Programming Interface (API) which supports
+    geographic routing. The specification includes two alternative approaches to such
+    an API, one based on the current draft of the OGC API - Processes draft specification
+    and another based on the OGC API principles (and the OGC API - Common draft specification).
+    Both approaches facilitate a common Route Exchange Model.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

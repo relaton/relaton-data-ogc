@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.1
+id: 05-014
+title:
+- content: Image CRSs for IH4DS
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Image CRSs for IH4DS
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=8848
+  type: obp
+type: standard
+docid:
+- id: 05-014
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2005-01-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2005-01-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Discussion Paper specifies image coordinate reference system (CRS)
+    definitions designed for possible use by WCTS and WCS servers and clients, initially
+    in the IH4DS thread of the OWS 2 interoperability initiative. This report specifies
+    image CRS definitions suitable for both ungeorectified and georectified images,
+    where an ungeorectified image can be georeferenced or not.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

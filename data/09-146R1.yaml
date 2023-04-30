@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.1
+id: '09-146r1'
+title:
+- content: OGC® GML Application Schema
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Coverages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® GML Application Schema - Coverages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=41438
+  type: obp
+type: standard
+docid:
+- id: '09-146r1'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2010-10-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Baumann
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2010-10-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document specifies the GML coverage structure to be used by OGC standards.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: profile
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

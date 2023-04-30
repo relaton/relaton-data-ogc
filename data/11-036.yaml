@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: 11-036
+title:
+- content: OGC Standards and Cloud Computing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Standards and Cloud Computing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=43743
+  type: obp
+type: standard
+docid:
+- id: 11-036
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2011-04-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lance McKee
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Steven Ramage
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2011-04-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC White Paper discusses cloud computing from the perspective of
+    OGC’s\r\ngeospatial standards development activities and standards baseline. The
+    paper begins\r\nwith a discussion of what the cloud and cloud computing are. Unfortunately,
+    there is still\r\nconsiderable misunderstanding in the geospatial technology community
+    regarding cloud\r\ncomputing. The paper then discusses how standards figure into
+    the options, benefits and\r\nrisks of cloud computing for users and providers
+    of geospatial data and software. This\r\nperspective is important not only for
+    those immersed in geospatial technology, but also for\r\ncloud service providers,
+    customers and technology partners who may be unfamiliar with\r\nthe basic issues
+    surrounding geospatial technology. This white paper does not discuss\r\nvendor
+    specific cloud computing platforms."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.1
+id: 21-022
+title:
+- content: 'OGC Testbed-17: Sensor Integration Framework Assessment ER'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-17: Sensor Integration Framework Assessment ER'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/21-022.html
+  type: obp
+type: standard
+docid:
+- id: 21-022
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-01-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alex Robin
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2022-01-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Testbed 17 Engineering Report (ER) documents the outcomes of
+    a review and implementation of the Sensor Integration Framework Standards Profile
+    (SIF-SP) v1.0.1, published by the National Center for Geospatial Intelligence
+    Standards (NCGIS).\r\n\r\nThe Sensor Integration Framework Standard Profiles (SIF-SP)
+    authors rightly acknowledge that sensing systems and the environments they operate
+    in (e.g. hardware platform, computing resources, connectivity, ease of deployment,
+    etc.) are very heterogeneous and that there will never be a single suite of technology
+    or standards that can support the goal of providing unified access to sensor deployments
+    employed in complex applications.\r\n\r\nInstead, rather than trying to impose
+    a single standard or suite of standards, the SIF-SP approach defines common conceptual
+    models that can be mapped to existing and future standards, thus allowing integration
+    of all these standards in a single framework.\r\n\r\nThis approach is fully compatible
+    with the OGC Sensor Web Enablement (SWE) suite of standards that were designed
+    for this type of integration. Thus, existing and upcoming SWE standards defined
+    in the OGC can be used as the central pillar of a SIF implementation. The test
+    implementation developed in this testbed, and based on OpenSensorHub, focused
+    on demonstrating this aspect.\r\n\r\nIn addition to a thorough review of the SIF
+    material — including standards documents, UML models and ontologies — a prototype
+    implementation of the SIF standards was created during the Testbed using OpenSensorHub.
+    This allowed the testbed participants to check the practical feasibility of fulfilling
+    the SIF requirements using the OGC SWE suite of standards. Details and feedback
+    regarding this implementation are also provided in this ER.\r\n\r\nSuggestions
+    to improve SIF-SP and make it an integral part of the OGC standard baseline are
+    also provided.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

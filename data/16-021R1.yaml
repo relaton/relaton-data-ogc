@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: 16-021r1
+title:
+- content: Testbed-12 Low Bandwidth & Generalization Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Testbed-12 Low Bandwidth & Generalization Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/16-021r1.html
+  type: obp
+type: standard
+docid:
+- id: 16-021r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-05-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Benjamin Pross
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2017-05-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'For delivering of data that is offered by OGC services over (very) low
+    bandwidth, two options may be considered: On the one hand, the geospatial features
+    remain the same, but compression techniques are used to reduce the size of the
+    data that needs to be transferred. On the other hand, generalization techniques
+    may be used by reducing the details of geometries and/or attributes in order to
+    reduce the amount of data. The aim of this ER is to summarize the results of implementing
+    sample services using compression techniques for DGIWG WFS (U002) and providing
+    generalization processes using WPS (U003). The ER compares the results of the
+    different approaches and infers recommendations and best practices for supporting
+    data delivery of standard data and complex 3D data from OGC services over low
+    and very low bandwidth.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

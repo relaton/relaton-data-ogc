@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.1
+id: 21-031
+title:
+- content: 'OGC Testbed-17: UML Modeling Best Practice Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-17: UML Modeling Best Practice Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/21-031.html
+  type: obp
+type: standard
+docid:
+- id: 21-031
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-02-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sam Meek
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2022-02-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Best Practice provides readers with guidance on how to use the
+    Unified Modeling Language (UML) within the scope of OGC work. Recently there has
+    been a move to a resource-based approach for OGC Application Programming Interface
+    (API) definition through the OpenAPI Specification and away from the service-based
+    approach specified in OGC Web Service (OWS) standards. Previously, the interface
+    definitions were almost exclusively XML based, therefore models described using
+    UML class diagrams and conceptual models in general simply mapped 1:1 to derive
+    the XML schema. Using API resources has resulted in the possibility of deriving
+    multiple target technologies from a single standard and therefore, UML model.
+    An additional point of discussion within the OGC is the value added by conceptual
+    modeling using UML. Models included in OGC Standards vary from diagrams only,
+    to conceptual models and model fragments all the way through to Model Driven Architecture
+    (MDA) where UML models are used to directly derive implementable artifacts such
+    as schemas.\r\n\r\nUML has been the main modeling language of choice within the
+    OGC, although up until now, there has been little guidance within the OGC on appropriate
+    use of UML. These Best Practices do not seek to govern the use of UML within the
+    OGC as it is recognized that UML is a flexible language that has applications
+    beyond the current OGC doctrine. However, the practices seek to provide guidance
+    to assist in adherence to the following principles:\r\n\r\n Correctness — Adherence
+    to the Object Management Group (OMG) UML standard.\r\n Consistency — UML artifacts
+    should be consistent across OGC Standards and with supporting standards such as
+    those specified by ISO/TC 211.\r\n FAIRness — Findable, Accessible, Interoperable
+    and Reusable models.\r\n Value — Any modeling done, UML or otherwise, should add
+    value to the parent standard. That is, the modeling should do work for the community
+    that is not done elsewhere.\r\nThe Practices are as follows:\r\n\r\n Practice
+    1: UML models should follow the OMG UML 2.5.1 Standard ratified in 2017.\r\n Practice
+    2: OGC Conceptual Models should be represented as UML Class diagrams.\r\n Practice
+    3: OGC Conceptual Models should be platform independent.\r\n Practice 4: OGC Conceptual
+    Models should use concepts consistently across standards.\r\n Practice 5: OGC
+    Standards should contain a UML model at least at the conceptual level of detail.\r\n
+    Practice 6: UML models in OGC Standards should add value.\r\n Practice 7: UML
+    models should describe structure in the engineering process.\r\n Practice 8: Modeling
+    artifacts should be provided in full.\r\n Practice 9: UML models should at least
+    be consistent with supporting text, but ideally normative.\r\n Practice 10: UML
+    tooling should produce interoperable artifacts.\r\n Practice 11: UML can be used
+    for modeling semantics, although there are other technologies that are more appropriate.\r\n
+    Practice 12: OGC UML models should be machine readable (i.e. available in XMI
+    format, in addition to the format of the UML Editor used to create the model)."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

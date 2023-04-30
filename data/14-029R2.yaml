@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.1
+id: 14-029r2
+title:
+- content: OGC® Testbed 10 Virtual Global Gazetteer Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed 10 Virtual Global Gazetteer Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=59336
+  type: obp
+type: standard
+docid:
+- id: 14-029r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-07-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Martin Klopfer
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2014-07-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document provides a technical description of the Virtual Global Gazetteer
+    implemented for OGC Testbed 10.  \r\nThe Virtual Global Gazetteer integrates two
+    gazetteers – a copy of the USGS gazetteer containing domestic names and a copy
+    of the NGA gazetteer containing non-domestic names (hosted by Interactive Instruments)
+    and provides the capability to link to additional local gazetteers and linked
+    data information, allowing a user to retrieve extended information on locations
+    selected from either of the initial gazetteers. The access to linked data information
+    provided by these gazetteers was achieved by GeoSPARQL enabling these gazetteers
+    using semantic mapping components\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

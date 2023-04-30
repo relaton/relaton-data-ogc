@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: 12-093
+title:
+- content: 'OWS-9: UML-to-GML-Application-Schema (UGAS) Conversion Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OWS-9: UML-to-GML-Application-Schema (UGAS) Conversion Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=51784
+  type: obp
+type: standard
+docid:
+- id: 12-093
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2013-02-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2013-02-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The main scope of the schema automation activities in the OWS-9 initiative
+    was twofold:\r\n•\tSupport for the SWE Common 2.0 XML Schema encoding rule\r\n•\tDevelopment
+    of and support for an encoding rule for JSON instance data\r\nIn both cases the
+    scope includes implementation of the encoding rules in ShapeChange.\r\nIn addition,
+    an initial analysis of the possibilities for generating SWE Common 2.0 record
+    descriptions from schemas in UML has been conducted and the results are described
+    in this document.\r\nThe approach and results to both work items are described
+    and discussed in this engineering report. This Engineering Report has been prepared
+    as part of the OGC Web Services Phase 9 (OWS-9) initiative.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

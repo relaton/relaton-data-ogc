@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.1
+id: 14-110r2
+title:
+- content: OGC® GML Application Schema
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Coverages JPEG2000/JPIP Coverage Encoding Extension
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding
+    Extension
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/bp/14-110r2/14-110r2.html
+  type: obp
+type: standard
+docid:
+- id: 14-110r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-11-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dimitri Sarafinof
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2016-11-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Coverages represent space/time-varying phenomena, such as satellite imagery,
+    digital elevation models, or digital aerial imagery. OGC Abstract Topic 6 [OGC
+    07-011] – which is identical to ISO 19123 – defines an abstract model of coverages.
+    Coverage instances may be encoded using the GML Application Schema – Coverages
+    – JPEG2000 Coverage Encoding Extension version 1.0 [OGC 12-108] which is based
+    on the GML Application Schema – Coverages (GMLCOV) version 1.0 [OGC 09-146r2]
+    which in turn is based on the Geography Markup Language (GML) version 3.2 [07-036],
+    an XML grammar written in XML Schema for the description of application schemas
+    as well as the transport and storage of geographic information.\r\n\r\nThis extension
+    to the Web Coverage Service (WCS) 2.0 Interface Standard – Core (WCS) version
+    2.0 [OC 09-110r4] specifies the usage of the JPEG2000 coverage encoding and JPIP
+    streaming capabilities with WCS. The approach is based on the authoritative GML
+    Application Schema – Coverages – JPEG2000 Coverage Encoding Extension version
+    1.0 [OGC 12-108]."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

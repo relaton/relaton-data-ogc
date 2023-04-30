@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.1
+id: 18-094r1
+title:
+- content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple
+    Linked Data Application and Complex Analytic Applicat'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple
+    Linked Data Application and Complex Analytic Applicat'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/18-094r1.html
+  type: obp
+type: standard
+docid:
+- id: 18-094r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-02-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stephane Fellah
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2019-02-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Engineering Report (ER) enhances the understanding of the concept
+    of application profiles (AP) for ontologies based on the Web Ontology Language
+    (OWL) and used by Linked Data (LD) applications. The concept of an Application
+    Profile for Unified Modeling Language (UML) and Extensible Markup Language (XML)
+    schemas, in particular Geographic Markup Language (GML) application profiles,
+    is pretty well-defined and understood within the communities of Open Geospatial
+    Consortium (OGC) and International Organization for Standardization (ISO). Moreover,
+    in the context of Linked Data and ontologies, the term is still ill-defined, as
+    ontologies are defined using an Open World Assumption (OWA), as well as classes
+    and properties are first-class modeling objects in ontology modeling. The work
+    documented in this report includes:\r\n\r\nDefinition and characterization of
+    Resource Description Framework (RDF) application profiles for simple linked data
+    applications and complex analytic linked data applications.\r\n\r\nDetermination
+    of preliminary techniques for the development of subsets of ontologies to support
+    different types of applications (simple linked data and complex analytic)\r\n\r\nAn
+    initial model for defining metadata about application profiles, so they can be
+    searched and discovered by agents."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

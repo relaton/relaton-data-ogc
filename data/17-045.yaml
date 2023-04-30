@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.1
+id: 17-045
+title:
+- content: 'OGC Testbed-13: Portrayal Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-13: Portrayal Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/17-045.html
+  type: obp
+type: standard
+docid:
+- id: 17-045
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-03-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stephane Fellah
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2018-03-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Portrayal of geospatial information plays a crucial role in situation
+    awareness, analysis and decision-making. Visualizing geospatial information often
+    requires one to portray the information using symbology or cartographic presentation
+    rules from a community or organization. For example, among those in the law enforcement,
+    fire and rescue community, various local, national and international agencies
+    use different symbols and terminology for the same event, location and building,
+    employing syntactic, structural-based and document-centric data models (e.g.,
+    eXtensible Markup Language (XML) schemas and Style Layer Descriptors (SLD)). With
+    this approach, interoperability does not extend to the semantic level, which makes
+    it difficult to share, reuse and mediate unambiguous portrayal information between
+    agencies.\r\n\r\nThis Engineering Report (ER) captures the requirements, solutions,
+    models and implementations of the Testbed 13 Portrayal Package. This effort leverages
+    the work on Portrayal Ontology development and Semantic Portrayal Service conducted
+    during Testbed 10, 11 and 12. The objective of this Testbed 13 is to identify
+    and complete the gaps in the latest version of the portrayal ontology defined
+    in Testbed 12, complete the implementation of the Semantic Portrayal Service by
+    adding rendering capabilities and performing a demonstration of the portrayal
+    service that showcases the benefits of the proposed semantic-based approach."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

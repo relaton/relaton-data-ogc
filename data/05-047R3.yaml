@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.1
+id: 05-047r3
+title:
+- content: OpenGIS GML in JPEG 2000 for Geographic Imagery  Encoding Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS GML in JPEG 2000 for Geographic Imagery  Encoding Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=13252
+  type: obp
+type: standard
+docid:
+- id: 05-047r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-01-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Martin Kyle
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: David Burggraf
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Sean Forde
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ron Lake
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2006-01-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OpenGIS® GML in JPEG 2000 for Geographic Imagery Encoding Standard
+    defines the means by which the OpenGIS® Geography Markup Language (GML) Standard
+    http://www.opengeospatial.org/standards/gml is  used within JPEG 2000 http://www.jpeg.org/jpeg2000/
+    \ images for geographic imagery. The standard also provides packaging mechanisms
+    for including GML within JPEG 2000 data files and specific GML application schemas
+    to support the encoding of images within JPEG 2000 data files. JPEG 2000 is a
+    wavelet-based image compression standard that provides the ability to include
+    XML data for description of the image within the JPEG 2000 data file. \r\nSee
+    also the GML pages on OGC Network: http://www.ogcnetwork.net/gml .\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.1
+id: 07-118r9
+title:
+- content: OGC User Management Interfaces for Earth Observation Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC User Management Interfaces for Earth Observation Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=54929
+  type: obp
+type: standard
+docid:
+- id: 07-118r9
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-04-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: P. Denis
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: P. Jacques
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '9'
+revdate: '2014-04-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Best Practice describes how user and identity management information
+    may be included in the protocol specifications for OGC Services. The proposed
+    approach is applicable to the orchestration of EO services, to system of systems
+    and federation scenarios. The approach is meant to be independent from the specific
+    OGC service. The use cases potentially addressed are very wide and in general
+    may cover geospatial services and not only EO (Earth Observation) services. The
+    use cases may range from web map, feature or coverage services, web processing
+    services, to catalogue services. Examples of EO specific use cases are: ordering
+    (Ordering Services for Earth Observation Products [OGC 06-141r6]) and feasibility
+    analysis (OpenGIS Sensor Planning Service Application Profile for EO Sensors [OGC
+    10 135]). \r\nThe document was initially produced during the ESA HMA (Heterogeneous
+    Missions Accessibility) initiative [OR1] and related projects.\r\nThis document
+    is not an OGC standard.  This document describes how existing specifications from
+    W3C and OASIS can be used in combination to pass identity information to OGC Web
+    services.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

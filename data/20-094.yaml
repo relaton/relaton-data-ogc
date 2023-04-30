@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 20-094
+title:
+- content: Indoor Mapping Data Format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Indoor Mapping Data Format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/cs/20-094/index.html
+  type: obp
+type: standard
+docid:
+- id: 20-094
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-02-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Apple Inc.
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2021-02-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Indoor Mapping Data Format (referenced throughout this document as IMDF)
+    provides a generalized, yet comprehensive model for any indoor location, providing
+    a basis for orientation, navigation and discovery. In this release there are also
+    detailed instructions for modeling the spaces of an airport, a shopping mall,
+    and a train station.\r\n\r\nThis release also has an extension model which enables
+    a venue, organization, or even an industry to create valid features and validations
+    not available in the current specification for private or public use\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: community-standard
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

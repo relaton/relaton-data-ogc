@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: 05-008c1
+title:
+- content: OpenGIS Web Service Common Implementation Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Web Service Common Implementation Specification
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=8798
+  type: obp
+type: standard
+docid:
+- id: 05-008c1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2005-05-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2005-05-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document specifies many of the aspects that are, or should be, common
+    to all or multiple OWS interface Implementation Specifications. Those specifications
+    currently include the Web Map Service (WMS), Web Feature Service (WFS), and Web
+    Coverage Service (WCS). These common aspects include: operation request and response
+    contents; parameters included in operation requests and responses; and encoding
+    of operation requests and responses.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

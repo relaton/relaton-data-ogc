@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 99-109r1
+title:
+- content: Topic 9
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Accuracy
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Topic 9 - Accuracy
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=896
+  type: obp
+type: standard
+docid:
+- id: 99-109r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '1999-03-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Cliff Kottman
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '1999-03-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Topic 9 has been combined into AS Topic 11
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

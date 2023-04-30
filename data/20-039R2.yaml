@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.1
+id: 20-039r2
+title:
+- content: 'OGC Testbed-16: DGGS and DGGS API Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-16: DGGS and DGGS API Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/20-039r2.html
+  type: obp
+type: standard
+docid:
+- id: 20-039r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-01-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Robert Gibb
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Byron Cochrane
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Matthew Purss
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2021-01-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Testbed-16 Engineering Report (ER) documents the needs and key
+    requirements for drafting an OGC Discrete Global Grid Systems (DGGS) Application
+    Programming Interface (API) standard. The draft DGGS API is defined using the
+    OpenAPI 3.0 specification. The work documented in this ER represents the beginning
+    of a multi-initiative process to fully realize the benefits of standards compliant
+    DGGS implementations and to help drive adoption of DGGS as a key element in advanced
+    Spatial Data Architectures. The Testbed participants investigated a Client-Server
+    DGGS architecture involving one (or more) DGGS Server implementations, DGGS-enabled
+    Data Sources and a simple front-end DGGS Client. DGGS API functionality will be
+    tested using one (or more) simple use case scenarios focusing on the two-way translation
+    between geographic locations and DGGS Zonal Identifiers.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.1
+id: 06-027r1
+title:
+- content: OpenGIS Web Feature Service (WFS) Implementation Specification (Corrigendum)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Web Feature Service (WFS) Implementation Specification (Corrigendum)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=14145
+  type: obp
+type: standard
+docid:
+- id: 06-027r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-08-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2006-08-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document is a corrigendum for OGC Document 04-094. Specifically, this
+    document corrects the files referenced in ANNEX A and found in the OGC schema
+    repository.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

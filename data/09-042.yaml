@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.1
+id: '09-042'
+title:
+- content: 3D-Symbology Encoding Discussion Draft
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 3D-Symbology Encoding Discussion Draft
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=32904
+  type: obp
+type: standard
+docid:
+- id: '09-042'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2009-10-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Steffen Neubauer
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Alexander Zipf
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2009-10-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document present an extension of the Symbology Encoding (SE) /Styled
+    Layer Descriptor (SLD) specifications into 3D as a separate profile.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

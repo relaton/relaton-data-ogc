@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: 06-093
+title:
+- content: OpenGIS Web Map Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Application Profile for EO Products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Web Map Services - Application Profile for EO Products
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=16075
+  type: obp
+type: standard
+docid:
+- id: 06-093
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-10-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: Thomas H.G. Lankester
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2006-10-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The WMS configuration proposed in this profile is intended to support the
+    interactive visualization and evaluation of Earth Observation (EO) data products.  The
+    profile sets out to describe a consistent Web Map Server (WMS) configuration that
+    can be supported by many data providers (satellite operators, data distributors...),
+    most of whom have existing (and relatively complex) facilities for the management
+    of these data.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

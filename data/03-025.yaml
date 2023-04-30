@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.1
+id: 03-025
+title:
+- content: Web Services Architecture
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Web Services Architecture
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=1320
+  type: obp
+type: standard
+docid:
+- id: 03-025
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2003-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Josh Lieberman
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2003-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specifies and discusses a common architectural framework for OGC Web Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.1
+id: 06-021r4
+title:
+- content: Sensor Web Enablement Architecture
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Sensor Web Enablement Architecture
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=29405
+  type: obp
+type: standard
+docid:
+- id: 06-021r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2008-08-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ingo Simonis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2008-08-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document describes the architecture implemented by Open Geospatial
+    Consortium’s (OGC) Sensor Web Enablement Initiative (SWE). In contrast to other
+    OGC SWE stan-dards, this document is not an implementation standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

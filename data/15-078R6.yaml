@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: 15-078r6
+title:
+- content: 'OGC SensorThings API Part 1: Sensing'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC SensorThings API Part 1: Sensing'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/15-078r6/15-078r6.html
+  type: obp
+type: standard
+docid:
+- id: 15-078r6
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-07-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Steve Liang
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chih-Yuan Huang
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tania Khalafbeigi
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '6'
+revdate: '2016-07-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OGC SensorThings API provides an open, geospatial-enabled and unified
+    way to interconnect the Internet of Things (IoT) devices, data, and applications
+    over the Web. At a high level the OGC SensorThings API provides two main functionalities
+    and each function is handled by a part. The two parts are the Sensing part and
+    the Tasking part. The Sensing part provides a standard way to manage and retrieve
+    observations and metadata from heterogeneous IoT sensor systems. The Tasking part
+    is planned as a future work activity and will be defined in a separate document
+    as the Part II of the SensorThings API.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

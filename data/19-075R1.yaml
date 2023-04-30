@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.1
+id: 19-075r1
+title:
+- content: OGC Borehole Interoperability Experiment Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Borehole Interoperability Experiment Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/19-075r1
+  type: obp
+type: standard
+docid:
+- id: 19-075r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-05-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sylvain Grellet
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Eric Boisvert
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Bruce Simons
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jean-François Rainaud
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Henning Lorenz
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Rainer Haener
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2020-05-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document describes a conceptual model, logical model, and GML/XML
+    encoding schema for the exchange of borehole related data and especially all the
+    elements that are positioned along a borehole trajectory. In addition, this document
+    provides GML/XML encoding instances documents for guidance
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

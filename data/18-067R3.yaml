@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.1
+id: 18-067r3
+title:
+- content: 'OGC Symbology Conceptual Model: Core Part'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Symbology Conceptual Model: Core Part'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/18-067r3/18-067r3.html
+  type: obp
+type: standard
+docid:
+- id: 18-067r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-10-15'
+contributor:
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2020-10-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document presents the requirements for defining the Symbology Conceptual
+    Core Model (SymCore), the conceptual basis to define symbology rules for the portrayal
+    of geographical data. It is modular and extensible (one core model, many extensions),
+    also encoding agnostic (one symbology model, many encodings). It contains a minimal
+    set of abstract classes representing explicit extension points of the model.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

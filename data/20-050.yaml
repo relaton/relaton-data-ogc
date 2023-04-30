@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.1
+id: 20-050
+title:
+- content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
+    (Normative, Optional Extension).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
+    (Normative, Optional Extension).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/20-050/20-050.html
+  type: obp
+type: standard
+docid:
+- id: 20-050
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-02-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2021-02-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This optional OGC CDB extension defines the requirements and provides CDB
+    specific guidance on using GeoPackage containers in a CDB data store. There is
+    a companion CDB Best Practice document that provide rules and guidance for transforming
+    CDB structured Shapefiles into CDB structure GeoPackages that are compliant with
+    the requirements and conformance classes as defined in this document.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: 19-012r1
+title:
+- content: 'OGC Testbed-15: Delta Updates Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Testbed-15: Delta Updates Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/19-012r1.html
+  type: obp
+type: standard
+docid:
+- id: 19-012r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-12-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Benjamin Pross
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2019-12-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Testbed 15 Engineering Report (ER) documents the design of a
+    service architecture that allows the delivery of prioritized updates of features
+    to a client, possibly acting in a DDIL (Denied, Degraded, Intermitted or Limited
+    Bandwidth) environment. Two different technical scenarios were investigated and
+    tested:\r\n\r\nThe enhancement of Web Feature Service (WFS) instances to support
+    updates on features sets.\r\n\r\nUtilizing a Web Processing Service (WPS) instance
+    to access features, without the need to modify the downstream data service."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

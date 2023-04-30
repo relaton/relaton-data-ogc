@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.1
+id: 17-088r1
+title:
+- content: Strengthening Disaster Risk Reduction Across the Americas Summit
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Simulated Exercise Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Strengthening Disaster Risk Reduction Across the Americas Summit - Simulated
+    Exercise Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/17-088r1.html
+  type: obp
+type: standard
+docid:
+- id: 17-088r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-02-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Luis Bermudez
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2018-02-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Disasters are responsible for major socioeconomic damages. Global initiatives
+    call for the improvement of information technology infrastructure to better share
+    data and advance multinational collaboration.\r\n\r\nThe Strengthening Disaster
+    Risk Reduction Across the Americas: A Regional Summit on the Contributions of
+    Earth Observations held on September 3-8 in 2017 in Buenos Aires, Argentina strengthened
+    the collective ability to share the many challenges of disaster risk reduction
+    in Latin America and the Caribbean (LAC) while promoting the awareness and better
+    use of earth observations (EO).\r\n\r\nA simulation exercise took place during
+    the summit. The exercise brought together government, emergency managers, earth
+    observation data providers, academics, non-governmental organizations, and commercial
+    companies. The participants assessed the capabilities and needs of policymakers,
+    regional and on-the-ground decision makers, and learned what information products
+    can be produced, and when and how such products are available.\r\n\r\nThis ER
+    describes the description and results of the simulated scenario including the
+    post-exercise activity that captured the lessons learned from the participants.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

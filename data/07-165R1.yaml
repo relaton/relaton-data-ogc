@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.1
+id: 07-165r1
+title:
+- content: 'OGC Sensor Web Enablement: Overview and High Level Architecture'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Sensor Web Enablement: Overview and High Level Architecture'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/wp/07-165r1/
+  type: obp
+type: standard
+docid:
+- id: 07-165r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2013-04-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike Botts
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: George Percivall
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: John Davidson
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2013-04-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A sensor network is a computer accessible network of many, spatially distributed
+    devices using sensors to monitor conditions at different locations, such as temperature,
+    sound, vibration, pressure, motion or pollutants[1]. A Sensor Web refers to web
+    accessible sensor networks and archived sensor data that can be discovered and
+    accessed using standard protocols and application program interfaces (APIs).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

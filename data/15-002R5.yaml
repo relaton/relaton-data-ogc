@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.1
+id: 15-002r5
+title:
+- content: OGC Compliance Overview
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Guide for Software Acquisition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Compliance Overview - Guide for Software Acquisition
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://docs.opengeospatial.org/wp/15-002r5/15-002r5.html
+  type: obp
+type: standard
+docid:
+- id: 15-002r5
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2015-04-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Luis Bermudez
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '5'
+revdate: '2015-04-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Open Geospatial Consortium (OGC®) provides international standards
+    that are implemented worldwide in thousands of applications that use location
+    information. To reduce the risk of applications not implementing a standard correctly,
+    the OGC provides a compliance process for testing and certifying implementations.
+    OGC certification provides substantial evidence that an implementation that is
+    claimed to have implemented an OGC standard will interoperate as specified and
+    in the same manner as other compliant implementations, regardless of who developed
+    them. This white paper provides guidance regarding language to specify requirements
+    for OGC compliant and implementing products in software acquisition (procurement)
+    documents.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: other
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

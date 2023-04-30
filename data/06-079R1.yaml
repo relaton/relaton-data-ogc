@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.1
+id: 06-079r1
+title:
+- content: EO Application Profile for CSW 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: EO Application Profile for CSW 2.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=15547
+  type: obp
+type: standard
+docid:
+- id: 06-079r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-06-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Marc Gilles
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2006-06-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Explains how Catalogue Services based on the HMA (Heterogeneous Earth Observation
+    Missions Accessibility) Application Profile for the OGC Catalogue Services Specification
+    v2.0.1 [OGC 04-021r3] are organized and implemented for the discovery, retrieval
+    and management of Earth Observation products metadata.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.1
+id: 07-092r1
+title:
+- content: Definition identifier URNs in OGC namespace
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Definition identifier URNs in OGC namespace
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=24045
+  type: obp
+type: standard
+docid:
+- id: 07-092r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2007-11-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arliss Whiteside
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2007-11-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This Best Practices Paper specifies Universal Resource Names (URNs) in
+    the ogc URN namespace to be used for identifying definitions. This document specifies
+    the formats used by these URNs, plus a set of specific URNs for specific definitions.
+    These definitions should be used wherever applicable by implementations of various
+    OGC Implementation Specifications, including GML, WMS, WFS, and WCS. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

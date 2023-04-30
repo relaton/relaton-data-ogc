@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: 20-072r2
+title:
+- content: OGC CityJSON Community Standard 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC CityJSON Community Standard 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/cs/20-072r2/20-072r2.html
+  type: obp
+type: standard
+docid:
+- id: 20-072r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-08-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Hugo Ledoux
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2021-08-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: CityJSON is a JSON-based encoding for a well-documented subset of the OGC
+    CityGML data model (version 2.0.0). CityJSON defines how to store digital 3D models
+    of cities and landscapes. The aim of CityJSON is to offer an alternative to the
+    GML encoding of CityGML, which can be verbose and complex to read and manipulate.
+    CityJSON aims at being easy-to-use, both for reading datasets and for creating
+    them. It was designed with programmers in mind, so that tools and APIs supporting
+    it can be quickly built.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: community-standard
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

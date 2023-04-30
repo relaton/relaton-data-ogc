@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.1
+id: 16-093r1
+title:
+- content: Incident Management Information Sharing Internet of Things Protocol Mapping
+    Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Incident Management Information Sharing Internet of Things Protocol Mapping
+    Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/16-093r1.html
+  type: obp
+type: standard
+docid:
+- id: 16-093r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Steve Liang
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tania Khalafbeigi
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2018-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This engineering report details Pilot experiences in connecting a variety
+    of local communications protocols and message formats supported by low-cost sensor
+    devices with OGC SWE Web services published globally over IP networks. It describes
+    the Sensor Hub approach taken to support these connections and the mappings from
+    one protocol to another required to develop integrated SWE-IoT networks.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

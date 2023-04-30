@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.1
+id: 16-048r1
+title:
+- content: Testbed-12 OWS Common Security Extension ER
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Testbed-12 OWS Common Security Extension ER
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/16-048r1.html
+  type: obp
+type: standard
+docid:
+- id: 16-048r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2017-03-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andreas Matheus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2017-03-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC suite of standards address the interoperable exchange of geographic
+    information. The Web Service Implementation Standards define the discovery, delivery,
+    and processing services that make information exchange possible. Common aspects
+    of those Web Service standards have been collected into the OGC Web Services Common
+    standard. While there are multiple versions of OWS Common, and flexibility in
+    how it is applied, this combination of standards does enable interoperability.\r\n\r\nHowever,
+    OWS Common neglected to address security. As soon as a service endpoint (an OGC
+    Web Service instance) is secured, there is no guarantee of interoperability.\r\n\r\nThe
+    OWS Common - Security Standards Working Group (SWG) was approved by the TC in
+    September 2015 (http://www.opengeospatial.org/projects/groups/comsecurityswg).
+    It held its first meeting during the December 2015 TC meetings. The objective
+    of this SWG to define an extension to the existing OWS Common to ensure interoperability
+    between a secured service instance and client. This OWS Common Security Extension
+    adds content to the standard regarding the implementation of security controls
+    in such a way as to preserve interoperability. These additions will be in two
+    areas. The first extension will provide more detail on the use of the HTTP protocol,
+    particularly as it related to security controls. The second extension will address
+    discovery and negotiation of security controls. This will provide an annotation
+    model for the Capabilities document to enable a service provider to specify the
+    security implemented at a service instance (endpoint).\r\n\r\nThis ER shall serve
+    as the technical background to the OWS Common - Security SWG to ensure that the
+    standard that is to be created is comprehensive and suitable for all OGC Web Services
+    standards, to overcome the interoperability hurdle, and - at the same time - maintain
+    backwards compatibility.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

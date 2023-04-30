@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 15-067
+title:
+- content: OGC® Testbed-11 Multi-dimensional GeoPackage Supporting Terrain and Routes
+    Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed-11 Multi-dimensional GeoPackage Supporting Terrain and Routes
+    Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=63663
+  type: obp
+type: standard
+docid:
+- id: 15-067
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2015-11-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gobe Hobona;Roger Brackin
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2015-11-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Routing is one of the most widely used functions of mobile applications.
+    Routing often requires consideration of a variety of factors in order to provide
+    reasonable estimations of journey time and the cost of travel. Another widely
+    used function of mobile applications is the visualization of characteristics of
+    terrain such as slope or viewsheds. The goal of this engineering report is to
+    describe the work carried out in the OGC Testbed-11 for multidimensional terrain
+    and routing support on SQLite databases that conform to the OGC GeoPackage standard.
+    This OGC® Engineering Report (ER) describes an approach for the storage of routing
+    and multidimensional terrain data in such databases. The ER also presents the
+    results and lessons learnt from the experimentation conducted by the testbed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

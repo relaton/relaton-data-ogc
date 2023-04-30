@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 05-025r3
+title:
+- content: OpenGIS Catalogue Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: ebRIM (ISO/TS 15000-3) profile of CSW
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OpenGIS Catalogue Services - ebRIM (ISO/TS 15000-3) profile of CSW
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=12604
+  type: obp
+type: standard
+docid:
+- id: 05-025r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2006-10-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Martell
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2006-10-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OGC Catalogue Services 2.0 specification (OGC 04-021r3) establishes
+    a general framework for implementing catalogue services that can be applied to
+    meet the needs of stakeholders in a wide variety of domains. This application
+    profile is based on the HTTP protocol binding described in Clause 10 of the Catalogue
+    2.0 specification; it qualifies as a Class 2 profile under the terms of ISO 19106
+    since it includes extensions permitted within the context of the base specifications,
+    some of which are not part of the ISO 19100 series of geomatics standards.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

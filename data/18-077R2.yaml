@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.1
+id: 18-077r2
+title:
+- content: OGC CDB, Leveraging GeoPackage Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC CDB, Leveraging GeoPackage Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=82553
+  type: obp
+type: standard
+docid:
+- id: 18-077r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-01-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jay Freeman
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Kevin Bentley
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ronald Moore
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Samuel Chambers
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Glen Quesenberry
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2019-01-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This paper offers the results of research, design, and prototype efforts
+    to present the OGC standards working group an approach to creating “GeoCDB”—a
+    technology mashing of GeoPackage and OGC CDB—as a deterministic repository of
+    easily read data geospatial datasets suitable for storage, runtime access, and
+    dissemination for live, virtual, constructive, gaming, and mission command (MC)
+    systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

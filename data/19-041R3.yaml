@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: 19-041r3
+title:
+- content: OGC® Routing Pilot ER
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Routing Pilot ER
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/19-041r3.html
+  type: obp
+type: standard
+docid:
+- id: 19-041r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-01-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sam Meek
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Theo Brown
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2020-01-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The goal of this OGC Routing Pilot Engineering Report (ER) is to document
+    the proof of concept of an Application Programming Interface (API) conforming
+    to a profile of the draft OGC API - Processes specification that allows implementation
+    of vector routing across one or more routing engines. The components implemented
+    in the OGC Open Routing API Pilot 2019 included two clients, interfacing with
+    three implementations of the draft OGC API - Processes specification that in turn
+    communicated with three routing engines. This work resulted in the definition
+    of a proposed common interface and data exchange model supported by all components
+    for requesting, generating and returning routes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

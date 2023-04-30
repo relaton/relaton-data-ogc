@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: '09-007'
+title:
+- content: OWS-6 Common CBRN Sensor Interface (CCSI)-Sensor Web Enablement (SWE) Engineering
+    Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-6 Common CBRN Sensor Interface (CCSI)-Sensor Web Enablement (SWE) Engineering
+    Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=33355
+  type: obp
+type: standard
+docid:
+- id: '09-007'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2009-10-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Scott Fairgrieve
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2009-10-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document outlines the concepts, best practices, and lessons learned
+    gathered from integrating Common Chemical, Biological, Radiological, and Nuclear
+    (CBRN) Sensor Interface (CCSI) standard-compliant sensors into an OGC Sensor Web
+    Enablement (SWE)-based architecture.  The document also specifies a web service
+    interface for interacting with CCSI sensors and defines the basis for a profile
+    that can be used to represent CCSI sensor definitions, data, and commands in SWE
+    formats.  '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

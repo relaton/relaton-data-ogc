@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.1
+id: 16-070r3
+title:
+- content: 'Volume 4: OGC CDB Best Practice use of Shapefiles for Vector Data Storage'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Volume 4: OGC CDB Best Practice use of Shapefiles for Vector Data Storage'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/16-070r3
+  type: obp
+type: standard
+docid:
+- id: 16-070r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-12-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2018-12-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This CDB volume provides the information and guidance required to store
+    vector data and attributes using the Esri Shapefile specification in a CDB data
+    store.  All shape types are supported to represent point, line, and polygon features.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

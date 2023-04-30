@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.1
+id: 18-037r1
+title:
+- content: GeoPackage / OWS Context Harmonization Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: GeoPackage / OWS Context Harmonization Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/dp/18-037r1/18-037r1.html
+  type: obp
+type: standard
+docid:
+- id: 18-037r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2018-10-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jeff Yutzler
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2018-10-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC discussion paper presents an approach to harmonize the OGC GeoPackage
+    and OWS Context standards through a set of extensions. GeoPackage is an open,
+    standards-based, platform-independent, portable, self-describing, compact format
+    for storing and transferring geospatial data and information as part of an SQLite
+    database. OWS Context is an open format linking geospatial web services and information.
+    A draft standard has been produced and this Discussion Paper is designed to be
+    a companion to that draft standard to assist in discussion. The draft standard
+    contains extensions to both GeoPackage and OWS Context.\r\n\r\nThis document is
+    the work of collaboration between the GeoPackage and OWS Context Standards Working
+    Groups (SWGs)."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

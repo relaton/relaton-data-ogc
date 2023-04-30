@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.1
+id: 06-024r4
+title:
+- content: 'OGC Location Services (OpenLS): Tracking Service Interface Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Location Services (OpenLS): Tracking Service Interface Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=25487
+  type: obp
+type: standard
+docid:
+- id: 06-024r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2008-09-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: CS Smyth
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2008-09-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OpenGIS Tracking Service Interface Standard supports a very simple
+    functionality allowing a collection of movable objects to be tracked as they move
+    and change orientation. The standard addresses the absolute minimum in functionality
+    in order to address the need for a simple, robust, and easy-to-implement open
+    standard for geospatial tracking.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

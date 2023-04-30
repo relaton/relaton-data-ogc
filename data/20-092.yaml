@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.1
+id: 20-092
+title:
+- content: CDB X Conceptual Model with Prototyping Examples and Recommendations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: CDB X Conceptual Model with Prototyping Examples and Recommendations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/dp/20-092.html
+  type: obp
+type: standard
+docid:
+- id: 20-092
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2022-08-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Graham
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2022-08-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Discussion Paper documents the results and recommendations of the
+    rapid prototyping activities conducted during the 3D Geospatial Series Tech Sprint
+    II - OGC CDB 2.0 (aka CDB X). This activity was performed in support of Special
+    Operations Forces (SOF) Future Concepts. This effort hopes to accelerate evolution
+    of the OGC CDB standard to meet the needs of planning, rehearsal, and Mission
+    Command systems providing decision support to Special Operations Forces and enabling
+    SOF tactical and operational advantage. OGC industry standards enable interoperability
+    of geospatial data across systems and applications that SOF Operators and analysts
+    use across warfighting functions.\r\n\r\nShort summary of CDB X goal: Meeting
+    the requirements for tactical GEOINT that can be used across warfighting functions."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

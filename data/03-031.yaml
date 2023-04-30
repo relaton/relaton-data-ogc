@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.1
+id: 03-031
+title:
+- content: Style Management Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Style Management Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=1313
+  type: obp
+type: standard
+docid:
+- id: 03-031
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2003-01-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: William Lalonde
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2003-01-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document describes the proposed system design for the OGC Style Management
+    Service (SMS).\r\nThe SMS must manage distinct objects that represent styles and
+    symbols and provide the means to discover, query, insert, update, and delete these
+    objects.\r\nStyles provide the mapping from feature types and feature properties
+    and constraints to parameterized Symbols used in drawing maps. Symbols are bundles
+    of predefined graphical parameters and predefined fixed graphic images."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: '08-125r1'
+title:
+- content: OGC® KML Standard Development Best Practices
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® KML Standard Development Best Practices
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=30203
+  type: obp
+type: standard
+docid:
+- id: '08-125r1'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2009-02-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Tim Wilson
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: David Burggraf
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2009-02-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC® Best Practices Document provides guidelines for developing the
+    OGC KML standard in a manner that best serves and supports the KML application
+    developer and user communities. It applies to the extension of KML by application
+    developers and the subsequent enhancement of the KML standard by the OGC.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

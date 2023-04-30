@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.1
+id: 07-110r4
+title:
+- content: CSW-ebRIM Registry Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Part 1: ebRIM profile of CSW'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'CSW-ebRIM Registry Service - Part 1: ebRIM profile of CSW'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=31137
+  type: obp
+type: standard
+docid:
+- id: 07-110r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2009-02-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Martell
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2009-02-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This profile is based on the HTTP protocol binding described in Clause
+    10 of the Catalogue 2.0.2 specification; it qualifies as a ‘Class 2’ profile under
+    the terms of ISO 19106 since it includes extensions permitted within the context
+    of the base specifications, some of which are not part of the ISO 19100 series
+    of geomatics standards.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

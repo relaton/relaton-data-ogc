@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.1
+id: 11-053r1
+title:
+- content: OGC® Web Coverage Service Interface Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: CRS Extension
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Web Coverage Service Interface Standard - CRS Extension
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=54209
+  type: obp
+type: standard
+docid:
+- id: 11-053r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2014-03-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Baumann
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jinsongdi Yu
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2014-03-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document specifies parameters to the OGC Web Coverage Service (WCS)
+    GetCoverage request that allows a client, a service, or other application to specify
+    the Coordinate Reference System (CRS) in which coverages are delivered. Note that
+    the CRS of the input bounding box is already defined in the OGC WCS Core Implementation
+    Standard [OGC 09-110r3].
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: extension
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

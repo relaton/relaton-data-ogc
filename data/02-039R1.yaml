@@ -1,0 +1,61 @@
+---
+schema-version: v1.2.1
+id: 02-039r1
+title:
+- content: Web Pricing and Ordering
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Web Pricing and Ordering
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=11500
+  type: obp
+type: standard
+docid:
+- id: 02-039r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2002-10-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Roland Wagner
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2002-10-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This specification covers all standard geo-eBusiness processes like pricing,
+    ordering and online delivery for spatial products.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

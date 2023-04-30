@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.1
+id: 18-073r2
+title:
+- content: OGC PipelineML Conceptual and Encoding Model Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC PipelineML Conceptual and Encoding Model Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/18-073r2/18-073r2.html
+  type: obp
+type: standard
+docid:
+- id: 18-073r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: John Tisdale
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2019-08-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC PipelineML Conceptual and Encoding Model Standard defines concepts
+    supporting the interoperable interchange of data pertaining to oil and gas pipeline
+    systems. PipelineML supports the common exchange of oil and gas pipeline information.
+    This initial release of the PipelineML Core addresses two critical business use
+    cases that are specific to the pipeline industry: new construction surveys and
+    pipeline rehabilitation. This standard defines the individual pipeline components
+    with support for lightweight aggregation. Additional aggregation requirements
+    such as right-of-way and land management will utilize the OGC LandInfra standards
+    with utility extensions in the future. Future extensions to PipelineML Core will
+    include (non-limitative): cathodic protection, facility and safety. PipelineML
+    was advanced by an international team of contributors from the US, Canada, Belgium,
+    Norway, Netherlands, UK, Germany, Australia, Brazil, and Korea.\r\n\r\nThis standard
+    assumes the reader has a basic understanding of oil and gas pipeline industry
+    concepts."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

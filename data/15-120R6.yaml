@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: 15-120r6
+title:
+- content: 'Volume 0: OGC CDB Companion Primer for the CDB standard (Best Practice)'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Volume 0: OGC CDB Companion Primer for the CDB standard (Best Practice)'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/bp/15-120r6.html
+  type: obp
+type: standard
+docid:
+- id: 15-120r6
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-02-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '6'
+revdate: '2021-02-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The CDB standard defines a standardized model and structure for a single,
+    “versionable,” virtual representation of the earth. A CDB structured data store
+    provides for a geospatial content and model definition repository that is plug-and-play
+    interoperable between database authoring workstations. Moreover, a CDB structured
+    data store can be used as a common online (or runtime) repository from which various
+    simulator client-devices can simultaneously retrieve and modify, in real-time,
+    relevant information to perform their respective runtime simulation tasks. In
+    this case, a CDB is plug-and-play interoperable between CDB-compliant simulators.
+    A CDB can be readily used by existing simulation client-devices (legacy Image
+    Generators, Radar simulator, Computer Generated Forces, etc.) through a data publishing
+    process that is performed on-demand in real-time.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: best-practice
+subdoctype: general
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

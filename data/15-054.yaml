@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.1
+id: 15-054
+title:
+- content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
+    Services Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
+    Services Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=64405
+  type: obp
+type: standard
+docid:
+- id: 15-054
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2015-11-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stephane Fellah
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2015-11-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC® Engineering Report (ER) summarizes the approaches, findings
+    and the results\r\nof the Linked Data and Semantic Enablement of OGC Web Services
+    sub-thread activities\r\nof the OGC Testbed-11 Cross Community Interoperability
+    (CCI) Thread. This report\r\nprovides an overview of existing standards for geosemantics,
+    outlines the approaches\r\nadopted during the testbed, describes the conceptual
+    semantic models and services\r\ndeveloped during this testbed to leverage Linked
+    Data and semantic enabled OGC web\r\nservices."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

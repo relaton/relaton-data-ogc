@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.1
+id: 13-099
+title:
+- content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=55230
+  type: obp
+type: standard
+docid:
+- id: 13-099
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2013-11-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jan Herrmann
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Andreas Matheus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2013-11-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This specification defines the interfaces of the OGC (Geo)XACML Policy
+    Administration Web Service (OGC (Geo)XACML PAWS or simply PAWS in the following)
+    that supports the creation, modification, exchange, analysis, testing, transformation,
+    encrypting and signing of XACML and GeoXACML encoded access control policies.\r\nThis
+    draft specification was prepared as a deliverable for the OGC Web Services, Phase
+    9 (OWS-9) initiative of the OGC Interoperability Program. This document presents
+    the results of the work within add-on project of the OWS-9 Security and Services
+    Interoperability (SSI) thread. \r\nPlease note that currently the document only
+    contains the definition of the mandatory operations i.e. the basic conformance
+    class. The writing of the sections describing the optional operations is still
+    a to do. These sections need to define the following operations:\r\n•\tAnalyzePolicyElement
+    operation\r\n•\tOptimizePolicyElement operation \r\n•\tTransformPolicyElement
+    operation\r\n•\tTestPolicyElement operation \r\n•\tEncryptPolicy operation\r\n•\tSignPolicy
+    operation \r\nSuggested additions, changes, and comments on this report are welcome
+    and encouraged. Such suggestions may be submitted by email message or by making
+    suggested changes in an edited copy of this document.\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: '09-132r1'
+title:
+- content: Specification of the Sensor Service Architecture (SensorSA)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Specification of the Sensor Service Architecture (SensorSA)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=35888
+  type: obp
+type: standard
+docid:
+- id: '09-132r1'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2009-10-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Thomas Usländer (Ed.)
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2009-10-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specification of a generic service-oriented architecture integrating the
+    access to, the management and the processing of sensor-related information based
+    upon the emerging standards of the Open geospatial Consortium (OGC), and resulting
+    from the requirements analysis of diverse application domains such as maritime
+    risk management, observation of geo-hazards and monitoring of air quality.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

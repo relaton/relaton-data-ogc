@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: 11-111r1
+title:
+- content: Topic 11
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Metadata
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Topic 11 - Metadata
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798
+  type: obp
+type: standard
+docid:
+- id: 11-111r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2016-09-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: ISO
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2016-09-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Same as ISO 19115-1:2014. Abstract Specification Topic 11 was updated to
+    the latest version of the ISO metadata standard on 21 September 2016. Prior to
+    this date, this Topic was the same as ISO 19115:2003. Please note that many OGC
+    standards and other related work normatively refer to the previous version of
+    this Topic.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

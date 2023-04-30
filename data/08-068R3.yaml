@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.1
+id: '08-068r3'
+title:
+- content: Web Coverage Processing Service (WCPS) Language Interface Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Web Coverage Processing Service (WCPS) Language Interface Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/08-068r3/08-068r3.html
+  type: obp
+type: standard
+docid:
+- id: '08-068r3'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2021-06-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Baumann
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2021-06-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OGC Web Coverage Processing Service (WCPS) defines a protocol-independent
+    language for on-demand extraction, processing, and analysis of multi-dimensional
+    gridded coverages (datacubes) representing among others spatio-temporal sensor,
+    image, simulation, or statistics data.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

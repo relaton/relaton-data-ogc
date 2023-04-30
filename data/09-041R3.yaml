@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.1
+id: '09-041r3'
+title:
+- content: OWS-6 WPS Grid Processing Profile Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OWS-6 WPS Grid Processing Profile Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://portal.ogc.org/files/?artifact_id=34977
+  type: obp
+type: standard
+docid:
+- id: '09-041r3'
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2009-07-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bastian Baranski
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2009-07-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Engineering Report describes and reviews the Grid Computing related
+    activity completed during the OGC OWS-6 Interoperability testbed. The document
+    describes the WPS processes deployed in the different demonstration scenarios
+    and offers recommendations to the OGC community as to how to better harmonize
+    the standards work of the OGC with Grid Computing platforms and related concepts
+    and technologies.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
