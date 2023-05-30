@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'relaton-cli'
+gem 'relaton-ogc', github: 'relaton/relaton-ogc', branch: 'main'
