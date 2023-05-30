@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: 22-038r2
+title:
+- content: 'Testbed-18: Reference Frame Transformation Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Testbed-18: Reference Frame Transformation Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/22-038r2.html
+  type: obp
+type: standard
+docid:
+- id: 22-038r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-03-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Martin Desruisseaux
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2023-03-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Currently, most OGC standards focus on data that is observed on the ground
+    or directly above planet Earth. Other standards, such as GeoSciML, provide a data
+    model and transfer standard for geological data. Other projects have considered
+    data models and exchange standards for the seas and oceans. Extra-terrestrial
+    space and the exact location of remote spaceborne sensors has been less in focus.
+    This OGC Testbed 18 Engineering Report (ER) starts with an evaluation of current
+    standards and then proposes changes or extensions to those standards in order
+    to describe objects in orbit around any celestial body or in free flight in our
+    solar system with respect to their location, trajectory, and orientation. Finally
+    standard-based mechanisms to transform a location within a reference frame to
+    a location within another reference frame are examined.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

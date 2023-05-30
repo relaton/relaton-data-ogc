@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.3
+id: 20-082r4
+title:
+- content: 'OGC Abstract Specification Topic 20: Observations, measurements and samples'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Abstract Specification Topic 20: Observations, measurements and samples'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/as/20-082r4/20-082r4.html
+  type: obp
+type: standard
+docid:
+- id: 20-082r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-05-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Katharina Schleidt
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ilkka Rinne
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2023-05-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document defines a conceptual schema for observations, for features
+    involved in the observation process, and for features involved in sampling when
+    making observations. These provide models for the exchange of information describing
+    observation acts and their results, both within and between different scientific
+    and technical communities.\r\n\r\nObservations commonly involve sampling of an
+    ultimate feature-of-interest. This document defines a common set of sample types
+    according to their spatial, material (for ex situ observations) or statistical
+    nature. The schema includes relationships between sample features (sub-sampling,
+    derived samples).\r\n\r\nThis document concerns only externally visible interfaces
+    and places no restriction on the underlying implementations other than what is
+    needed to satisfy the interface specifications in the actual situation."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

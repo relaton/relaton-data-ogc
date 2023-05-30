@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.3
+id: 19-011r4
+title:
+- content: OGC® IndoorGML 1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® IndoorGML 1.1
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/19-011r4/19-011r4.html
+  type: obp
+type: standard
+docid:
+- id: 19-011r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2020-11-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jiyeong Lee
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ki-Joune Li
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Sisi Zlatanova
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Thomas H. Kolbe
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Claus Nagel
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Thomas Becker
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Hye-Young Kan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2020-11-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC® IndoorGML standard specifies an open data model and XML schema
+    of indoor spatial information. IndoorGML is an application schema of OGC® GML
+    3.2.1. While there are several 3D building modelling standards such as CityGML,
+    KML, and IFC, which deal with interior space of buildings from geometric, cartographic,
+    and semantic viewpoints, IndoorGML intentionally focuses on modeling indoor spaces
+    for navigation purposes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

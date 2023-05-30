@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: 05-016
 title:
 - content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'

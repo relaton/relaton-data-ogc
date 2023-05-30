@@ -1,0 +1,85 @@
+---
+schema-version: v1.2.3
+id: 19-072
+title:
+- content: OGC API
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Common
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Part 1: Core'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'OGC API - Common - Part 1: Core'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/19-072/19-072.html
+  type: obp
+type: standard
+docid:
+- id: 19-072
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-03-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Charles Heazel
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2023-03-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC has extended its suite of Standards to include Resource Oriented
+    Architectures and Web APIs. In the course of developing these Standards, some
+    practices proved to be common across multiple OGC Web API Standards. These common
+    practices are documented in the OGC API — Common Standard. The OGC API - Common
+    Standard is a multi-part standard that specifies reusable building-blocks that
+    can be used in the construction of OGC API Standards. This document presents Part
+    1, the Core, of the OGC API – Common Standard. Standards developers will use these
+    building-blocks in the construction of other OGC Standards that relate to Web
+    APIs. The result is a modular suite of coherent API standards which can be adapted
+    by a system designer for the unique requirements of their system.\r\n\r\nThe purpose
+    of the OGC API — Common — Part 1: Core Standard (API-Core) is to define those
+    fundamental building blocks and requirements which are applicable to all OGC Web
+    API Standards."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

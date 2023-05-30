@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: 12-128r11
 title:
 - content: OGC® GeoPackage Encoding Standard – With Corrigendum
@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=63378&version=1
+- content: https://portal.ogc.org/files/?artifact_id=63378
   type: obp
 type: standard
 docid:

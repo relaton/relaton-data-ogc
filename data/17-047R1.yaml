@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: 17-047r1
 title:
 - content: OGC OpenSearch-EO GeoJSON(-LD) Response Encoding Standard

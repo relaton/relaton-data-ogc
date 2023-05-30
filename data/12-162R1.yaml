@@ -1,20 +1,21 @@
 ---
+schema-version: v1.2.3
 id: 12-162r1
 title:
-- type: title-main
-  content: OWS-9 WCS Conformance Testing Engineering Report
+- content: OWS-9 WCS Conformance Testing Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OWS-9 WCS Conformance Testing Engineering Report
+  type: title-main
+- content: OWS-9 WCS Conformance Testing Engineering Report
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=51911
   type: obp
@@ -23,28 +24,26 @@ docid:
 - id: 12-162r1
   type: OGC
   primary: true
-date:
-- type: published
-  value: 0000-00-00
 contributor:
 - person:
     name:
-      completename: Jinsongdi Yu
+      completename:
+        content: Jinsongdi Yu
   role:
-  - author
+  - type: author
 - person:
     name:
-      completename: Peter Baumann
+      completename:
+        content: Peter Baumann
   role:
-  - author
+  - type: author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
-revdate: 0000-00-00
 language:
 - en
 script:
@@ -62,7 +61,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-11'
 doctype: engineering-report
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1

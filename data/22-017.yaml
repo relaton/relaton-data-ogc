@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.3
+id: 22-017
+title:
+- content: 'Testbed-18: Machine Learning Training Data ER'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Testbed-18: Machine Learning Training Data ER'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/22-017.html
+  type: obp
+type: standard
+docid:
+- id: 22-017
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-03-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sam Lavender
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Kate Williams
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Caitlin Adams
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Ivana Ivánová '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2023-03-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Testbed 18 Engineering Report (ER) documents work to develop a
+    foundation for future standardization of Training Datasets (TDS) for Earth Observation
+    (EO) applications. The work performed in the Testbed 18 activity is based on previous
+    OGC Machine Learning (ML) activities. TDS are essential to ML models, supporting
+    accurate predictions in performing the desired task. However, a historical absence
+    of standards has resulted in inconsistent and heterogeneous TDSs with limited
+    discoverability and interoperability. Therefore, there is a need for best practices
+    and guidelines for generating, structuring, describing, and curating TDSs that
+    would include developing example software/packages to support these activities.
+    Community and parallel OGC activities are working on these topics. This ER reviews
+    those activities in parallel with making recommendations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

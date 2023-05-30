@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: '08-001'
 title:
 - content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian

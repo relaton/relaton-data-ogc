@@ -1,22 +1,23 @@
 ---
+schema-version: v1.2.3
 id: 14-038r1
 title:
-- type: title-main
-  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
+- content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
     Data'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
+  type: title-main
+- content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
     Data'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://portal.ogc.org/files/?artifact_id=58117
   type: obp
@@ -25,23 +26,20 @@ docid:
 - id: 14-038r1
   type: OGC
   primary: true
-date:
-- type: published
-  value: 0000-00-00
 contributor:
 - person:
     name:
-      completename: Mark Hughes
+      completename:
+        content: Mark Hughes
   role:
-  - author
+  - type: author
 - organization:
     name:
-    - Open Geospatial Consortium
+    - content: Open Geospatial Consortium
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
-revdate: 0000-00-00
 language:
 - en
 script:
@@ -58,7 +56,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-08-11'
 doctype: engineering-report
 editorialgroup:
   committee: technical
+ext:
+  schema-version: v1.0.1
