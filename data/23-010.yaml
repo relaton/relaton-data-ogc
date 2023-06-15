@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.3
+id: 23-010
+title:
+- content: 'Towards a Federated Marine SDI: Connecting Land and Sea to Protect the
+    Arctic Environment Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Towards a Federated Marine SDI: Connecting Land and Sea to Protect the
+    Arctic Environment Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/23-010.html
+  type: obp
+type: standard
+docid:
+- id: 23-010
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-06-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Robert Thomas
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Sara Saeedi
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2023-06-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Engineering Report (ER) summarizes the main achievements of the Federated
+    Marine Spatial Data Infrastructure (FMSDI) Pilot Phase 3. It focused on a variety
+    of aspects contributing to an overarching scenario to aid in the better understanding
+    of both the challenges and potential opportunities for coastal communities, ecosystems,
+    and economic activities in the Arctic region.\r\n\r\nThe sub-scenarios, i.e.,
+    those scenarios developed by each participant, address aspects of the changing
+    Arctic landscape. These activities included the following.\r\n\r\nA sea-based,
+    health and safety scenario incorporating the land/sea interface in the Arctic.
+    This scenario demonstrates the technology and data used with OGC, IHO, and other
+    community standards in response to a grounding event and the evacuation of an
+    expedition cruise ship or research vessel in the Arctic. Demonstrating interoperability
+    between land and marine data that is necessary to aid first responders and other
+    stakeholders. This scenario incorporates, but is not be limited to:\r\n\r\nvoyage
+    planning information (e.g., Arctic Voyage Planning Guide, Safety of Navigation
+    products and services, Maritime Safety Information);\r\n\r\nland-based emergency
+    services/resources (e.g., Coast Guard stations, transit times to emergency services
+    or ports, medical facilities and resources, helicopter access);\r\n\r\ncoastal
+    environmental/topographic/hydrographic/maintenance data (e.g., deposition and
+    dredging of seafloor sediment, changes in coastline and bathymetry); and\r\n\r\nglobal
+    maritime traffic data in the Arctic (e.g., to help assess likelihood of other
+    ships in responding to a ship in distress).\r\n\r\nDemonstrating interoperability
+    between land and marine data that is necessary to understand coastal erosion (e.g.,
+    ocean currents, geology, permafrost characteristics, etc.).\r\n\r\nGeneral sensitivity
+    to climate change."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
