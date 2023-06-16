@@ -60,7 +60,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: abstract-specification-topic
+doctype: other
 editorialgroup:
   committee: technical
 ext:
