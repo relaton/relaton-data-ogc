@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.3
+id: 22-054r1
+title:
+- content: 2022 Web Mapping Code Sprint Summary Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 2022 Web Mapping Code Sprint Summary Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/22-054r1.html
+  type: obp
+type: standard
+docid:
+- id: 22-054r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-06-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gobe Hobona
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Joana Simoes '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2023-06-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The subject of this Engineering Report (ER) is a code sprint that was held
+    from November 29th to December 1st, 2022 to advance OGC API Standards that relate
+    to web mapping, and others that relate to styling and symbology encoding standards.
+    The code sprint was hosted by the Open Geospatial Consortium (OGC) and EuroGeographics.
+    The code sprint was sponsored by Ordnance Survey (OS), and was held as a hybrid
+    event with the face-to-face element hosted at the Mundo Madou centre in Brussels,
+    Belgium.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
