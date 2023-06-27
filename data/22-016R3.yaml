@@ -1,0 +1,66 @@
+---
+schema-version: v1.2.3
+id: 22-016r3
+title:
+- content: 'Testbed-18: Moving Features Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Testbed-18: Moving Features Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: ''
+  type: obp
+type: standard
+docid:
+- id: 22-016r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-06-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brittany Eaton
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2023-06-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Testbed-18 (TB-18) Engineering Report (ER) is based on previous
+    OGC Moving Features and Sensor Integration (MFSI) activities. The OGC TB-18 MFSI
+    task addressed the interoperability between sensors and between sensing systems
+    as well as the exchange of multiple sources of detected moving objects into one
+    common analytic client. This ER describes the architecture framework for multi-source
+    moving object detection into the client supported by OGC MFSI Standards and describes
+    challenges of multi-sensor integration in the context of Moving Features data.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
