@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.3
+id: 21-053r1
+title:
+- content: Abstract Specification Topic 23
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: GeoPackage Conceptual and Logical Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Abstract Specification Topic 23 - GeoPackage Conceptual and Logical Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/as/21-053r1/21-053r1.html
+  type: obp
+type: standard
+docid:
+- id: 21-053r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-06-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jeff Yutzler
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2023-06-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document presents the conceptual and logical models for version 1.x
+    of the OGC GeoPackage Standard. The intent is that these models can be used to
+    implement the GeoPackage standard using technology other than a SQLite database.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: abstract-specification-topic
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
