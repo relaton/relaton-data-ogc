@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: 20-040r3
 title:
-- content: Abstract Specification Topic 21
+- content: Topic 21
   language:
   - en
   script:
@@ -24,8 +24,8 @@ title:
   - Latn
   format: text/plain
   type: title-part
-- content: Abstract Specification Topic 21 - Discrete Global Grid Systems - Part 1
-    Core Reference system and Operations and Equal Area Earth Reference System
+- content: Topic 21 - Discrete Global Grid Systems - Part 1 Core Reference system
+    and Operations and Equal Area Earth Reference System
   language:
   - en
   script:

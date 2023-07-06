@@ -2,14 +2,14 @@
 schema-version: v1.2.3
 id: 20-082r4
 title:
-- content: 'OGC Abstract Specification Topic 20: Observations, measurements and samples'
+- content: 'Topic 20: Observations, measurements and samples'
   language:
   - en
   script:
   - Latn
   format: text/plain
   type: title-main
-- content: 'OGC Abstract Specification Topic 20: Observations, measurements and samples'
+- content: 'Topic 20: Observations, measurements and samples'
   language:
   - en
   script:
