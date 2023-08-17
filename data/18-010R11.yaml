@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.3
+id: 18-010r11
+title:
+- content: Geographic information — Well-known text representation of coordinate reference
+    systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Geographic information — Well-known text representation of coordinate reference
+    systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/18-010r11/18-010r11.pdf
+  type: obp
+type: standard
+docid:
+- id: 18-010r11
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-08-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Roger Lott
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '11'
+revdate: '2023-08-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This Standard defines the structure and content of well-known text strings
+    describing coordinate reference systems (CRSs) and coordinate operations between
+    coordinate reference systems. It does not prescribe how implementations should
+    read or write these strings.\r\nThis Standard provides an updated version of WKT
+    representation of coordinate reference systems that follows the provisions of
+    ISO 19111:2019 including its amendments 1 and 2. It extends the WKT in OGC document
+    12-063r5 (ISO 19162) which was based on ISO 19111:2007 and ISO 19111-2:2009. That
+    version consolidated several disparate versions of earlier WKT (so-called WKT1)
+    and added the description of coordinate operations. \r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

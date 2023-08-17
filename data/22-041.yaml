@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: 22-041
+title:
+- content: 'Testbed-18: Building Energy Data Interoperability Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Testbed-18: Building Energy Data Interoperability Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/per/22-041.html
+  type: obp
+type: standard
+docid:
+- id: 22-041
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-08-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Leigh St. Hilaire
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Aidan Brookson
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2023-08-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Testbed-18 Engineering Report (ER) represents deliverable D012
+    and D013 for the Building Energy Data Interoperability task.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
