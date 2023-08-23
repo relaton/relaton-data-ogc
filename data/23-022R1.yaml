@@ -1,0 +1,112 @@
+---
+schema-version: v1.2.3
+id: 23-022r1
+title:
+- content: Establishing the Framework of Disaster Early Warning Mechanisms
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: A Case Study of Slope Disaster
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Establishing the Framework of Disaster Early Warning Mechanisms - A Case
+    Study of Slope Disaster
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/dp/23-022r1.pdf
+  type: obp
+type: standard
+docid:
+- id: 23-022r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-08-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Hsiao-Yuan (Samuel) Yin
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Yi-Chia (Vincent) Lin
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chih-Wei (Will) Kuan
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Cheng-Yan Tsai
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lok-Man (Lawre
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2023-08-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The impact of global climate change has led to a rise in the frequency
+    of natural\r\ndisasters in numerous countries resulting in substantial losses
+    in terms of both human lives and the global economy. The establishment of a robust
+    disaster early-warning mechanism is recommended that will empower communities
+    to proactively engage in disaster reduction and prevention measures before such
+    calamities occur, thereby effectively reducing losses.\r\nThe Common Alerting
+    Protocol (CAP) is an internationally recognized digital\r\nmessage format and
+    protocol for all types of alarms and early warning notifications. It was officially
+    adopted by The Federal Emergency Management Agency (FEMA) in 2010 for its Integrated
+    Public Alert and Warning System (IPAWS). It has also been successfully implemented
+    in Taiwan for many years. However, different countries may employ other color-coded
+    warning systems to indicate varying degrees of disaster severity. This disparity
+    in warning standards can cause public confusion during emergencies, leading to
+    increased costs in disaster management. This paper proposes a framework that utilizes
+    red and yellow warning lights for issuing alerts. Adopting a standardized approach
+    will mitigate confusion and enhance the efficiency of disaster response and management.\r\nThis
+    study proposes a framework that uses red and yellow warning mechanisms for\r\nissuing
+    alerts such as the disaster early warning for debris flows and large-scale\r\nlandslides
+    established by the Soil and Water Conservation Bureau (SWCB). This\r\ninvestigation
+    will explore the feasibility of standardizing yellow and red warning\r\npublishing
+    rules."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
