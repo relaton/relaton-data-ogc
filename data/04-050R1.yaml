@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: 04-050r1
 title:
 - content: 'WMS Change Request: Support for WSDL & SOAP'

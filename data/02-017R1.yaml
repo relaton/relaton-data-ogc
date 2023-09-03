@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: 02-017r1
 title:
 - content: 'WMS Part 2: XML for Requests using HTTP Post'
