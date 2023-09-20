@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.4
+id: 23-008r3
+title:
+- content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 1: Conceptual Model Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 1: Conceptual Model Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/23-008r3/23-008r3.html
+  type: obp
+type: standard
+docid:
+- id: 23-008r3
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-09-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peng Yue
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Boyi Shangguan
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '3'
+revdate: '2023-09-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Standard aims to develop the UML model and encodings for geospatial machine learning
+    training data. Training data plays a fundamental role in Earth Observation (EO)
+    Artificial Intelligence Machine Learning (AI/ML), especially Deep Learning (DL).
+    It is used to train, validate, and test AI/ML models. This Standard defines a
+    UML model and encodings consistent with the OGC Standards baseline to exchange
+    and retrieve the training data in the Web environment.\r\n\r\nThe TrainingDML-AI
+    Standard provides detailed metadata for formalizing the information model of training
+    data. This includes but is not limited to the following aspects:\r\n\r\nHow the
+    training data is prepared, such as provenance or quality;\r\nHow to specify different
+    metadata used for different ML tasks such as scene/object/pixel levels;\r\nHow
+    to differentiate the high-level training data information model and extended information
+    models specific to various ML applications; and\r\nHow to introduce external classification
+    schemes and flexible means for representing ground truth labeling."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
