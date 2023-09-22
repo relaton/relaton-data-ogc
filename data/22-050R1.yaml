@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.4
+id: 22-050r1
+title:
+- content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+    JSON Profile v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+    JSON Profile v1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/22-050r1/22-050r1.html
+  type: obp
+type: standard
+docid:
+- id: 22-050r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-09-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andreas Matheus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2023-09-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC Geospatial eXtensible Access Control Markup Language (GeoXACML)
+    3.0 JSON Profile v1.0 (GeoXACML 3.0 JSON Profile) Standard defines an extension
+    to the JSON Profile of XACML 3.0 Version 1.1 for supporting GeoXACML Authorization
+    Decision Requests and Authorization Decision encoded in JSON. This ensures an
+    easy uptake in environments where JSON is the preferred encoding.\r\n\r\nFor supporting
+    Geometry as defined by the GeoXACML 3.0 Core conformance class, this profile extends
+    the Attribute DataType definition from JSON Profile of XACML 3.0 Version 1.1 with
+    the geometry data-type urn:ogc:def:geoxacml:3.0:data-type:geometry\r\n\r\nThe
+    GeoXACML 3.0 JSON Profile Standard supports the Attribute value to use Well-Known-Text
+    (WKT), Well-Known-Binary (WKB) hex-encoding or GeoJSON as an encoding alternative
+    for the geometry data-type defined in GeoXACML 3.0.\r\n\r\nTo support the use
+    of the GeoXACML 3.0 specific attributes SRID, Precision, Encoding, and AllowTransformation,
+    this profile extends the default JSON schema definition from JSON Profile of XACML
+    3.0 Version 1.1 accordingly."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

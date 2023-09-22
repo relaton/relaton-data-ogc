@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.4
+id: 22-049r1
+title:
+- content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://docs.ogc.org/is/22-049r1/22-049r1.html
+  type: obp
+type: standard
+docid:
+- id: 22-049r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-09-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andreas Matheus
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2023-09-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+    defines a geospatial extension to the OASIS eXtensible Access Control Markup Language
+    (XACML) Version 3.0 Standard. GeoXACML 3.0 supports the interoperable definition
+    of access rights including geographic conditions based on the XACML 3.0 language,
+    processing model and policy schema. GeoXACML 3.0 provides improvements based on
+    enhancements to the XACML Standard, primarily the support of access conditions
+    spanning different XACML categories. This enhancement empowers GeoXACML 3.0 to
+    be a powerful decision engine with support for spatiotemporal access conditions.\r\n\r\nAs
+    a result of the XACML 3.0 deployment model and corresponding implementation flexibility,
+    GeoXACML 3.0 can be operated as a traditional Policy Decision Point or as a cloud-native
+    API gateway.\r\n\r\nThe OGC GeoXACML 3.0 Standard defines different conformance
+    classes that supports flexible implementation conformance. Implementation of the
+    Core conformance class supports the ISO 19125 geometry model including topological
+    test (spatial relations) functions which enables the indexing of access conditions-based
+    geometry. The Spatial Analysis conformance class extends the topological test
+    functions for defining access conditions including the processing of geometries.
+    To support condition evaluation for geometries encoded in different Coordinate
+    Reference System (CRS), the CRS Transformation conformance class enables a compliant
+    implementation to undertake dynamic CRS transformation during decision-making
+    unless prohibited per request. Finally, the API conformance class enables operating
+    a GeoXACML 3.0 compliant implementation as an OGC API conformant service (Policy
+    Decision Point)."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

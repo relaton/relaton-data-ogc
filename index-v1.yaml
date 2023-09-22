@@ -1,4 +1,8 @@
 ---
+- :id: 22-050r1
+  :file: data/22-050R1.yaml
+- :id: 22-049r1
+  :file: data/22-049R1.yaml
 - :id: 23-008r3
   :file: data/23-008R3.yaml
 - :id: 21-056r11
