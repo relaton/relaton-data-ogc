@@ -45,7 +45,8 @@ language:
 script:
 - Latn
 abstract:
-- language:
+- content: ''
+  language:
   - en
   script:
   - Latn
