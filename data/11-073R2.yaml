@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: 11-073r2
 title:
 - content: 'OWS-8 Aviation: Guidance for Retrieving AIXM 5.1 data via an OGC WFS 2.0'
