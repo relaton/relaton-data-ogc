@@ -72,7 +72,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: best-practice
+doctype:
+  type: best-practice
 subdoctype: general
 editorialgroup:
   committee: technical

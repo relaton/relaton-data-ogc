@@ -59,7 +59,8 @@ abstract:
 docstatus:
   stage:
     value: draft
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
   committee: technical
 ext:

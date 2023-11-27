@@ -63,7 +63,8 @@ abstract:
 docstatus:
   stage:
     value: draft
-doctype: standard
+doctype:
+  type: standard
 subdoctype: general
 editorialgroup:
   committee: technical

@@ -53,7 +53,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: reference-model
+doctype:
+  type: reference-model
 editorialgroup:
   committee: technical
 ext:

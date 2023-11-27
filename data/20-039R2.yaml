@@ -75,7 +75,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: engineering-report
+doctype:
+  type: engineering-report
 editorialgroup:
   committee: technical
 ext:

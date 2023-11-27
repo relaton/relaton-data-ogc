@@ -77,7 +77,8 @@ abstract:
 docstatus:
   stage:
     value: draft
-doctype: discussion-paper
+doctype:
+  type: discussion-paper
 editorialgroup:
   committee: technical
 ext:

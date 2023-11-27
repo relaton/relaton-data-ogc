@@ -56,7 +56,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: other
+doctype:
+  type: other
 editorialgroup:
   committee: technical
 ext:

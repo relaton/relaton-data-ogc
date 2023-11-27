@@ -105,7 +105,8 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: discussion-paper
+doctype:
+  type: discussion-paper
 editorialgroup:
   committee: technical
 ext:
