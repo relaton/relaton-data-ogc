@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: 07-158
 title:
 - content: Wrapping OGC HTTP-GET/POST Services with SOAP

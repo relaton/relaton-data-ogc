@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: 07-000
 title:
 - content: OpenGIS Sensor Model Language (SensorML)
