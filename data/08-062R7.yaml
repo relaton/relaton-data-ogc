@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/orm/2.1
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=47245
   type: obp
 type: standard

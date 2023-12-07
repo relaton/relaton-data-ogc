@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/FCP1-IFCviaWFS
+  type: src
 - content: https://docs.ogc.org/per/16-115.html
   type: obp
 type: standard

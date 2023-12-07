@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/ie/3dpie
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=49068
   type: obp
 type: standard

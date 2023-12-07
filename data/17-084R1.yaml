@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/eoc-geojson/1.0
+  type: src
 - content: https://docs.ogc.org/bp/17-084r1/17-084r1.html
   type: obp
 type: standard

@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/gmlcov/1.0/jpip-jp2000/1.0
+  type: src
 - content: https://docs.ogc.org/bp/14-110r2/14-110r2.html
   type: obp
 type: standard

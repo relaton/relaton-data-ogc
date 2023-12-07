@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DIS/geopose/1.0
+  type: src
 - content: https://docs.ogc.org/dis/21-056r10/21-056r10.html
   type: obp
 type: standard

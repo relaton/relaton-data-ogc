@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/movingfeatures/xmlcore/1.0.2
+  type: src
 - content: https://docs.ogc.org/is/18-075/18-075.html
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/borehole-ie
+  type: src
 - content: https://portal.ogc.org/files/19-075r1
   type: obp
 type: standard

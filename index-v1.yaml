@@ -83,8 +83,6 @@
   :file: data/22-025R4.yaml
 - :id: 22-032r1
   :file: data/22-032R1.yaml
-- :id: 17-014r9
-  :file: data/17-014R9.yaml
 - :id: 21-064
   :file: data/21-064.yaml
 - :id: 21-054
@@ -155,8 +153,6 @@
   :file: data/21-035R1.yaml
 - :id: 21-017r1
   :file: data/21-017R1.yaml
-- :id: 21-018
-  :file: data/21-018.yaml
 - :id: 21-031
   :file: data/21-031.yaml
 - :id: 21-025

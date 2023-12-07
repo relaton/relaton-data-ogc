@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/IMIS-Profile-recs4-OWS
+  type: src
 - content: https://docs.ogc.org/per/15-118r1.html
   type: obp
 type: standard

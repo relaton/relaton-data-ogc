@@ -33,6 +33,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/AS/dggs/2.0
+  type: src
 - content: https://docs.ogc.org/as/20-040r3/20-040r3.html
   type: obp
 type: standard

@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: ''
+  type: src
 - content: http://portal.opengeospatial.org/files/?artifact_id=32620
   type: obp
 type: standard

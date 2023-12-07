@@ -17,8 +17,10 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/bp/21-068
+  type: src
 - content: https://docs.ogc.org/bp/21-068.pdf
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 21-068

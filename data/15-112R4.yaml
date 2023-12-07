@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/cdb-terms/1.2
+  type: src
 - content: https://docs.ogc.org/is/15-112r4/15-112r4.html
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/uicds
+  type: src
 - content: https://docs.ogc.org/per/17-048.html
   type: obp
 type: standard

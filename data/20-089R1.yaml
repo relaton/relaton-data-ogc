@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/eoap/1.0
+  type: src
 - content: https://docs.ogc.org/bp/20-089r1.html
   type: obp
 type: standard

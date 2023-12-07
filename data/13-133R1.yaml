@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/is/pubsub-soap/1.0
+  type: src
 - content: https://docs.ogc.org/is/13-133r1/13-133r1.html
   type: obp
 type: standard

@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/FCP1-autoUP
+  type: src
 - content: https://docs.ogc.org/per/16-099.html
   type: obp
 type: standard

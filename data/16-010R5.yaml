@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/CDB-model-guidance/1.2
+  type: src
 - content: https://docs.ogc.org/bp/16-010r5.html
   type: obp
 type: standard

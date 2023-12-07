@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/CS/i3s/1.2
+  type: src
 - content: https://docs.ogc.org/cs/17-014r8/17-014r8.html
   type: obp
 type: standard

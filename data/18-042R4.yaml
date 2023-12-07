@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/POL-NTS/Sensor/1.0
+  type: src
 - content: https://docs.ogc.org/pol/18-042r4.html
   type: obp
 type: standard

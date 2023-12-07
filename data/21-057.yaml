@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/geopackage-crs-wkt/1.1
+  type: src
 - content: https://docs.ogc.org/is/21-057/21-057.html
   type: obp
 type: standard

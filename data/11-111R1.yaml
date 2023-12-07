@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: ''
+  type: src
 - content: http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798
   type: obp
 type: standard

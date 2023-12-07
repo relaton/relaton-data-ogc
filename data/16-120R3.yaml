@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/is/movingfeatures-access/1.0
+  type: src
 - content: https://docs.ogc.org/is/16-120r3/16-120r3.html
   type: obp
 type: standard

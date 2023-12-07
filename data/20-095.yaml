@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/DGIWG-GeoTIFF/2.3
+  type: src
 - content: https://portal.ogc.org/files/95763
   type: obp
 type: standard

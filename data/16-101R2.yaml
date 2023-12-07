@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/standard/infragml/part1/1.0
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=75118
   type: obp
 type: standard

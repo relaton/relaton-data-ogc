@@ -18,6 +18,8 @@ title:
   type: main
 link:
 - content: https://www.w3.org/TR/covjson-overview/
+  type: src
+- content: https://www.w3.org/TR/covjson-overview/
   type: obp
 type: standard
 docid:

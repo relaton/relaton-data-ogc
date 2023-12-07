@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/cdb-multispectral-extension/1.0
+  type: src
 - content: https://docs.ogc.org/is/17-080r2/17-080r2.html
   type: obp
 type: standard

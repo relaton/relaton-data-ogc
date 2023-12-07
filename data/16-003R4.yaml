@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/CDB-navaids/1.2
+  type: src
 - content: https://docs.ogc.org/bp/16-003r4.html
   type: obp
 type: standard

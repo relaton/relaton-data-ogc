@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/CS/covjson/2.0
+  type: src
 - content: https://docs.ogc.org/cs/20-072r5/20-072r5.html
   type: obp
 type: standard

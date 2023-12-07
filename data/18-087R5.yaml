@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/disaster-sdi
+  type: src
 - content: https://portal.ogc.org/files/18-087r5
   type: obp
 type: standard

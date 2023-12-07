@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/testbed10/cci-hydro-model
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=58944
   type: obp
 type: standard

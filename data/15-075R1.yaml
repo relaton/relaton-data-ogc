@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/indoorgml-mls-nav-vi
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=64644
   type: obp
 type: standard

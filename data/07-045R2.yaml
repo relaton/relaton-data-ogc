@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/cat2.0.2-isometadata/1.0.2
+  type: src
 - content: https://portal.ogc.org/files/80534
   type: obp
 type: standard

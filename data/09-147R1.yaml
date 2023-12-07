@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: ''
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=41439
   type: obp
 type: standard

@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/AS/geopackage-conceptual-model/
+  type: src
 - content: https://docs.ogc.org/as/21-053r1/21-053r1.html
   type: obp
 type: standard

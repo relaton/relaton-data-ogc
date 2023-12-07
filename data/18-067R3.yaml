@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/SymCore/1.0
+  type: src
 - content: https://docs.ogc.org/is/18-067r3/18-067r3.html
   type: obp
 type: standard

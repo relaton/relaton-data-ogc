@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/geosciml/4.1
+  type: src
 - content: https://docs.ogc.org/is/16-008/16-008.html
   type: obp
 type: standard

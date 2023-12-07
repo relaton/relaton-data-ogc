@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/is/landinfra/1.0
+  type: src
 - content: https://docs.ogc.org/is/15-111r1/15-111r1.html
   type: obp
 type: standard

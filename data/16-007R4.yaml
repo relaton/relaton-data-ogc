@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/CDB-core-model/1.1
+  type: src
 - content: https://portal.ogc.org/files/16-007r4
   type: obp
 type: standard

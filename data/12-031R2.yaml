@@ -31,6 +31,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/waterml-timeseries-netcdf
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=49025
   type: obp
 type: standard

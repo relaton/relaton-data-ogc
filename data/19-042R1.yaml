@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/EO-JSON
+  type: src
 - content: https://docs.ogc.org/dp/19-042r1.html
   type: obp
 type: standard

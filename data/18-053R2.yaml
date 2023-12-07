@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/CS/3DTiles/1.0
+  type: src
 - content: https://docs.ogc.org/cs/18-053r2/18-053r2.html
   type: obp
 type: standard

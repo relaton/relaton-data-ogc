@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/POL/OGC-NA/1.2
+  type: src
 - content: https://docs.ogc.org/pol/09-046r5.html
   type: obp
 type: standard

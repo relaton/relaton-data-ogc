@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/tiled-elev-ext-geopackage
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=63289
   type: obp
 type: standard

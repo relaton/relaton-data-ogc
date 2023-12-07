@@ -17,8 +17,10 @@ title:
   format: text/plain
   type: main
 link:
+- content: ''
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=1081&format=pdf
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 01-068r3

@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/t11-aviation-arch
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=63793
   type: obp
 type: standard

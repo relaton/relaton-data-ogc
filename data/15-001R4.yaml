@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/3dps/1.0
+  type: src
 - content: https://docs.ogc.org/is/15-001r4/15-001r4.html
   type: obp
 type: standard

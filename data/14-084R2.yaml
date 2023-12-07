@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/movingfeatures/csv-extension/1.0
+  type: src
 - content: https://docs.ogc.org/is/14-084r2/14-084r2.html
   type: obp
 type: standard

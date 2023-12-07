@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/sos-hydrology/1.0
+  type: src
 - content: https://docs.ogc.org/bp/14-004r1/14-004r1.html
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/t11-data-broker-aviation
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=63281
   type: obp
 type: standard

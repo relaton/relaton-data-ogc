@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/ows-9-cci-conflation-provenance
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=51818
   type: obp
 type: standard

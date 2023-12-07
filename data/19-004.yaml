@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/dp/indoorgml-anchornode
+  type: src
 - content: https://docs.ogc.org/dp/19-004.html
   type: obp
 type: standard

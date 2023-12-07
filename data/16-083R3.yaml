@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/spec/GMLCOV/GMLCOVRGRID/1.0.1
+  type: src
 - content: https://docs.ogc.org/is/16-083r3/16-083r3.html
   type: obp
 type: standard

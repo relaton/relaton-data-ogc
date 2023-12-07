@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/wfs-gaz-ap
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=46964
   type: obp
 type: standard

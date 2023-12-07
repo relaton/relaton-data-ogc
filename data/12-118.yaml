@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/ows9-security
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=51806
   type: obp
 type: standard

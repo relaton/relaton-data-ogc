@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/ER/surface-water-ie
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=47989
   type: obp
 type: standard

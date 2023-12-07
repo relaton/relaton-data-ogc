@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/dp/netcdf-uncertainty
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=46702
   type: obp
 type: standard

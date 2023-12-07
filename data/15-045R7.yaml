@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/WCS_appilication-profile_metocean/1.0
+  type: src
 - content: https://docs.ogc.org/is/15-045r7/15-045r7.html
   type: obp
 type: standard

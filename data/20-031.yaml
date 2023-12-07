@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/3DT-Summary
+  type: src
 - content: https://docs.ogc.org/per/20-031.html
   type: obp
 type: standard

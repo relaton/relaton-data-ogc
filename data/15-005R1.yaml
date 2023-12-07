@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/dgiwg-wfs2.0-profile/2.0
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=66933
   type: obp
 type: standard

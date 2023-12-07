@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/geopackage-gr/1.1
+  type: src
 - content: https://docs.ogc.org/is/17-066r2/17-066r2.html
   type: obp
 type: standard

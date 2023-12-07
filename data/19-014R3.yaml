@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/AS/2D-tiles/1.0
+  type: src
 - content: https://docs.ogc.org/as/19-014r3/19-014r3.html
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/timeseries-profile-om/1.0
+  type: src
 - content: https://docs.ogc.org/is/15-043r3/15-043r3.html
   type: obp
 type: standard

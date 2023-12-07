@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/ER/ows8-tracking-vmti
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=46372
   type: obp
 type: standard

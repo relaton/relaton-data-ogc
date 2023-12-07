@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/AS/dggs/1.0
+  type: src
 - content: https://docs.ogc.org/as/15-104r5/15-104r5.html
   type: obp
 type: standard

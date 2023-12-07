@@ -19,8 +19,10 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/RN/I3S/1.1
+  type: src
 - content: https://docs.ogc.org/cs/17-014r7/19-034r1.pdf
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 19-034r1

@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/UG/CityGML-user-guide/3.0
+  type: src
 - content: https://docs.ogc.org/guides/20-066.html
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/WP/bigdata
+  type: src
 - content: https://docs.ogc.org/wp/16-131r2/16-131r2.html
   type: obp
 type: standard

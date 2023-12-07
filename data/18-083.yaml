@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/vtp-wmts1
+  type: src
 - content: https://docs.ogc.org/per/18-083.html
   type: obp
 type: standard

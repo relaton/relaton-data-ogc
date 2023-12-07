@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/as/om/3.0
+  type: src
 - content: https://docs.ogc.org/as/20-082r4/20-082r4.html
   type: obp
 type: standard

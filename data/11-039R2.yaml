@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/hy-features
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=47831
   type: obp
 type: standard

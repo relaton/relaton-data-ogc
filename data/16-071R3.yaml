@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: https://www.w3.org/TR/owl-time/
+  type: src
 - content: https://www.w3.org/TR/2020/CR-owl-time-20200326/
   type: obp
 type: standard

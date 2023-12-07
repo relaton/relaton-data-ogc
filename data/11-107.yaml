@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/ows-8_domain_modelling
+  type: src
 - content: https://portal.ogc.org/files/11-107
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/SWE-JSON/1.0
+  type: src
 - content: https://docs.ogc.org/bp/17-011r2/17-011r2.html
   type: obp
 type: standard

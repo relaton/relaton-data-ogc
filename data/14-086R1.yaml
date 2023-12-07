@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/AAtSH_Summary
+  type: src
 - content: https://portal.ogc.org/files/60176
   type: obp
 type: standard

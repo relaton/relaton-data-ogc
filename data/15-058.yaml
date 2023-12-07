@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/t11-symbology-mediation
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=64385
   type: obp
 type: standard

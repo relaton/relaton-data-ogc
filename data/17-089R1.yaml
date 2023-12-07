@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/wcs-core/2.1
+  type: src
 - content: https://docs.ogc.org/is/17-089r1/17-089r1.html
   type: obp
 type: standard

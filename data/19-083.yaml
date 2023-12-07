@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/CitSciIE-1
+  type: src
 - content: https://docs.ogc.org/per/19-083.html
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/is/sensorthings-staplus/1.0
+  type: src
 - content: https://docs.ogc.org/is/22-022r1/22-022r1.html
   type: obp
 type: standard

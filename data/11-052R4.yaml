@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/geosparql/1.0
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=47664
   type: obp
 type: standard

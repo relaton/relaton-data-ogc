@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/OWS-9-Aviation-Architecture
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=51823
   type: obp
 type: standard

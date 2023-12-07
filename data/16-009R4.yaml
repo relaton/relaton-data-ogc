@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/CDB/openflight/1.1
+  type: src
 - content: https://portal.ogc.org/files/16-009r4
   type: obp
 type: standard

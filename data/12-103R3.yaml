@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/ows9-cci-semantic-mediation
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=51840
   type: obp
 type: standard

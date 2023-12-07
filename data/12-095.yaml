@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/ows9-wcs-opendap
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=52783
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/cis/1.1.1
+  type: src
 - content: https://docs.ogc.org/is/09-146r8/09-146r8.html
   type: obp
 type: standard

@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/fes/2.0.3
+  type: src
 - content: https://docs.ogc.org/is/09-026r2/09-026r2.html
   type: obp
 type: standard

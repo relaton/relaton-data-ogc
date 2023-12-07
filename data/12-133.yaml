@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengeospatial.org/doc/PER/ows9/ws-facade
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=51178
   type: obp
 type: standard

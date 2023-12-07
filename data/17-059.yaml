@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/dp/dgiwg-sld
+  type: src
 - content: https://docs.ogc.org/dp/17-059/17-059.html
   type: obp
 type: standard

@@ -25,6 +25,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/sdrraasse
+  type: src
 - content: https://docs.ogc.org/per/17-088r1.html
   type: obp
 type: standard

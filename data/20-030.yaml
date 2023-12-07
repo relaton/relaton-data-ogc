@@ -31,6 +31,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/3DT-api-3d-tiles
+  type: src
 - content: https://docs.ogc.org/per/20-030.html
   type: obp
 type: standard

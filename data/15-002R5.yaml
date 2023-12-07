@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: ''
+  type: src
 - content: http://docs.opengeospatial.org/wp/15-002r5/15-002r5.html
   type: obp
 type: standard

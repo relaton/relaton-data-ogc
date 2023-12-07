@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: ''
+  type: src
 - content: https://docs.ogc.org/wp/07-165r1/
   type: obp
 type: standard

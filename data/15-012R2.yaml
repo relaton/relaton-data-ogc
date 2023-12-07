@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/1.0/geopackage-plugfest
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=63285
   type: obp
 type: standard

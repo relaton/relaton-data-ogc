@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/ows8-wcs2.0-eo-ap-compliance
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=47826
   type: obp
 type: standard

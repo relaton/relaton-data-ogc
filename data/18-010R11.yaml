@@ -19,8 +19,10 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/is/crs-wkt/2.1.11
+  type: src
 - content: https://docs.ogc.org/is/18-010r11/18-010r11.pdf
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 18-010r11

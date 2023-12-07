@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/cdb-core-primer/1.2
+  type: src
 - content: https://docs.ogc.org/bp/15-120r6.html
   type: obp
 type: standard

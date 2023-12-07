@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/SOS-hydrology-profile
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=57327
   type: obp
 type: standard

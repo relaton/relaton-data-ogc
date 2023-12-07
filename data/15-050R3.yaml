@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/tb11-niem-ic-data
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=65421
   type: obp
 type: standard

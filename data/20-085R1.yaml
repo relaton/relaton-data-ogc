@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/WP/usgif_msgwg
+  type: src
 - content: https://usgif.org/usgif_msgwg_ogc_technical_paper_march_2021/
   type: obp
 type: standard

@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/FMSDI3
+  type: src
 - content: https://docs.ogc.org/per/23-010.html
   type: obp
 type: standard

@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/wcps/1.1
+  type: src
 - content: https://docs.ogc.org/is/08-068r3/08-068r3.html
   type: obp
 type: standard

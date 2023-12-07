@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/waterml2.0-part2/1.0
+  type: src
 - content: https://docs.ogc.org/is/15-018r2/15-018r2.html
   type: obp
 type: standard

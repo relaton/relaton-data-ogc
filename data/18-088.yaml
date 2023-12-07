@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/is/sensorthings/1.1
+  type: src
 - content: https://docs.ogc.org/is/18-088/18-088.html
   type: obp
 type: standard

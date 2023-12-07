@@ -26,6 +26,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/tb11-sbvr-guidance
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=63794
   type: obp
 type: standard

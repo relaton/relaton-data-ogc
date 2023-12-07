@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/ER/ows-8-mobile-objectprocessing
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=46170
   type: obp
 type: standard

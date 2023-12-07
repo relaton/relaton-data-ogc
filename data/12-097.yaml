@@ -31,6 +31,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/OWS-9-bulk-data-transfer-gml
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=51998
   type: obp
 type: standard

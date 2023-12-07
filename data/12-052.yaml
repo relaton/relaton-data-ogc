@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/wcs-core-2.0.1-notes
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=48650
   type: obp
 type: standard

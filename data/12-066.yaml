@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/BP/ade-citygml-in-uml
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=49000
   type: obp
 type: standard

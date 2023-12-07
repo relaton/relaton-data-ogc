@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/geopackage/1.2
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=74225
   type: obp
 type: standard

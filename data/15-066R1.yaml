@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/t11-linked-data-nhd
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=64173
   type: obp
 type: standard

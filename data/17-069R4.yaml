@@ -31,6 +31,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/ogcapi-features-1/1.0.1
+  type: src
 - content: https://docs.ogc.org/is/17-069r4/17-069r4.html
   type: obp
 type: standard

@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/NOTE/21-066r1
+  type: src
 - content: https://docs.ogc.org/is/17-083r4/21-066r1.html
   type: obp
 type: standard

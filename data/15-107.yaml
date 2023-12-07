@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: ''
+  type: src
 - content: https://www.w3.org/TR/sdw-bp/
   type: obp
 type: standard

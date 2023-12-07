@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/HDF5/data-model/1.0
+  type: src
 - content: https://docs.ogc.org/is/18-043r3/18-043r3.html
   type: obp
 type: standard

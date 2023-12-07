@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/wfs/2.0.2
+  type: src
 - content: https://docs.ogc.org/is/09-025r2/09-025r2.html
   type: obp
 type: standard

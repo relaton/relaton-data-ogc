@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/imis_iot
+  type: src
 - content: https://docs.ogc.org/per/16-014r2.html
   type: obp
 type: standard

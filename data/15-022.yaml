@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/t11-common-security
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=63312
   type: obp
 type: standard

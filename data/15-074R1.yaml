@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/sdwwg-usecases/1
+  type: src
 - content: https://docs.ogc.org/dp/15-074r1/15-074r1.html
   type: obp
 type: standard

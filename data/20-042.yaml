@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/EOAppsPilot-Terradue
+  type: src
 - content: https://docs.ogc.org/per/20-042.html
   type: obp
 type: standard

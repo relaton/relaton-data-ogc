@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: ''
+  type: src
 - content: https://www.iso.org/standard/26012.html
   type: obp
 type: standard

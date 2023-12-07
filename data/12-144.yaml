@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/ows9-aviation-registry
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=53255
   type: obp
 type: standard

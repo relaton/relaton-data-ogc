@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/arml/2.0
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=62168
   type: obp
 type: standard

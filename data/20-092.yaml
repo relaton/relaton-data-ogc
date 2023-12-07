@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/DP/CDB-X-Study
+  type: src
 - content: https://docs.ogc.org/dp/20-092.html
   type: obp
 type: standard

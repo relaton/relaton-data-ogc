@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/eoep-Hack2018
+  type: src
 - content: https://docs.ogc.org/per/18-046.html
   type: obp
 type: standard

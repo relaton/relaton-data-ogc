@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/testbed10/aviation-portrayal-notams
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=58929
   type: obp
 type: standard

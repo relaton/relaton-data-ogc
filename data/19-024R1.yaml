@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/t15-D019
+  type: src
 - content: https://docs.ogc.org/per/19-024r1.html
   type: obp
 type: standard

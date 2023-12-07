@@ -19,8 +19,10 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/bp/dgiwg-gmljp2-img2.1.2
+  type: src
 - content: https://docs.ogc.org/bp/21-007/21-007.pdf
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 21-007

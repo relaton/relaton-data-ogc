@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/EOAppsPilot-Spacebel
+  type: src
 - content: https://docs.ogc.org/per/20-034.html
   type: obp
 type: standard

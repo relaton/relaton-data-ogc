@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/CS/las/1.4
+  type: src
 - content: https://portal.ogc.org/files/?artifact_id=74523
   type: obp
 type: standard

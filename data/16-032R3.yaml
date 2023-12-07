@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/GWML/2.2.1
+  type: src
 - content: https://docs.ogc.org/is/19-013/19-013.html
   type: obp
 type: standard

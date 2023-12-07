@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/per/FGDC-api-assessment
+  type: src
 - content: https://portal.ogc.org/files/17-061
   type: obp
 type: standard

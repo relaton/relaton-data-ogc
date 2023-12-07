@@ -24,6 +24,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/AS/FG/P1/FM/1.0
+  type: src
 - content: https://docs.ogc.org/as/17-087r13/17-087r13.html
   type: obp
 type: standard

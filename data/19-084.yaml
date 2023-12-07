@@ -19,6 +19,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/PER/vtp2-D002
+  type: src
 - content: https://docs.ogc.org/per/19-084.html
   type: obp
 type: standard

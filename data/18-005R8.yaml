@@ -19,8 +19,10 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/AS/topic-2/6.0
+  type: src
 - content: https://docs.ogc.org/as/18-005r8/18-005r8.pdf
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 18-005r8

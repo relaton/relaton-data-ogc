@@ -18,6 +18,8 @@ title:
   type: main
 link:
 - content: https://www.w3.org/TR/qb4st/
+  type: src
+- content: https://www.w3.org/TR/qb4st/
   type: obp
 type: standard
 docid:

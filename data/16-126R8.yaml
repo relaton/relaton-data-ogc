@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/Notes/geopackage/1.2
+  type: src
 - content: https://portal.ogc.org/files/16-126r8
   type: obp
 type: standard

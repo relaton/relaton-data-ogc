@@ -17,6 +17,8 @@ title:
   format: text/plain
   type: main
 link:
+- content: http://www.opengis.net/doc/IS/gwml/2.2
+  type: src
 - content: https://docs.ogc.org/is/16-032r2/16-032r2.html
   type: obp
 type: standard
