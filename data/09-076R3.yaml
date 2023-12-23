@@ -2,14 +2,21 @@
 schema-version: v1.2.7
 id: '09-076r3'
 title:
-- content: 'Uses and summary of Topic 2: Spatial referencing by coordinates'
+- content: Uses and summary of Topic 2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Spatial referencing by coordinates
   language:
   - en
   script:
   - Latn
   format: text/plain
   type: title-main
-- content: 'Uses and summary of Topic 2: Spatial referencing by coordinates'
+- content: Uses and summary of Topic 2 - Spatial referencing by coordinates
   language:
   - en
   script:

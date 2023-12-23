@@ -2,16 +2,21 @@
 schema-version: v1.2.7
 id: 18-005r8
 title:
-- content: "OGC Abstract Specification Topic 2: Referencing by coordinates (Including
-    corrigendum 1 and corrigendum\t2)"
+- content: Topic 2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: "Referencing by coordinates (Including corrigendum 1 and corrigendum\t2)"
   language:
   - en
   script:
   - Latn
   format: text/plain
   type: title-main
-- content: "OGC Abstract Specification Topic 2: Referencing by coordinates (Including
-    corrigendum 1 and corrigendum\t2)"
+- content: "Topic 2 - Referencing by coordinates (Including corrigendum 1 and corrigendum\t2)"
   language:
   - en
   script:
