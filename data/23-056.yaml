@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.8
+id: 23-056
+title:
+- content: Mobility Data Science Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Mobility Data Science Discussion Paper
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/dp/mobility-data-science
+  type: src
+- content: https://docs.ogc.org/dp/23-056.html
+  type: obp
+type: standard
+docid:
+- id: 23-056
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-01-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Song WU
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mahmoud SAKR
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-01-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Almost every activity in our modern life leaves a digital trace, typically
+    including location and time. Either captured by a sensor, manually input, or extracted
+    from a social media post, the increase in the volume, variety, and velocity of
+    spatiotemporal data is unprecedented. The ability to manage and analyze this data
+    is important for many application domains, including smart cities, health, transportation,
+    agriculture, sports, biodiversity, et cetera. It is critical to not only effectively
+    manage and analyze the data but also to uphold privacy and ethical considerations.
+    Since the civilian use of GPS was allowed in 1980, followed by the technological
+    advances in other location tracking systems – wifi, RFID, bluetooth, etc., it
+    is becoming more and more easy to track moving objects. The Mobility Data Science
+    Summit was an opportunity to discuss the challenges of managing this data and
+    making sense of it, with a focus on the tooling and standardization requirements.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: discussion-paper
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.8
+id: 22-047r1
+title:
+- content: OGC GeoSPARQL
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: A Geographic Query Language for RDF Data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC GeoSPARQL - A Geographic Query Language for RDF Data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/geosparql/1.1
+  type: src
+- content: https://docs.ogc.org/is/22-047r1/22-047r1.html
+  type: obp
+type: standard
+docid:
+- id: 22-047r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-01-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Nicholas J. Car
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2024-01-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "GeoSPARQL contains a small spatial domain OWL ontology that allow literal
+    representations of geometries to be associated with spatial features and for features
+    to be associated with other features using spatial relations.\r\n\r\nGeoSPARQL
+    also contains SPARQL extension function definitions that can be used to calculate
+    relations between spatial objects.\r\n\r\nSeveral other supporting assets are
+    also contained within GeoSPARQL such as vocabularies of Simple Feature types and
+    data validators.\r\n\r\nThe namespace for the GeoSPARQL ontology is http://www.opengis.net/ont/geosparql#\r\n\r\nThe
+    suggested prefix for this namespace is geo\r\n\r\nThe namespace for the GeoSPARQL
+    functions is http://www.opengis.net/def/function/geosparql/\r\n\r\nThe suggested
+    prefix for this namespace is geof\r\n\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: standard
+subdoctype: implementation
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1

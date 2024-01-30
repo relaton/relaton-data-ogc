@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.8
+id: 23-020r2
+title:
+- content: Engineering report for OGC Climate Resilience Pilot
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Engineering report for OGC Climate Resilience Pilot
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/per/climate-resilience-pilot
+  type: src
+- content: https://docs.ogc.org/per/23-020r2.html
+  type: obp
+type: standard
+docid:
+- id: 23-020r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-01-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Guy Schumann
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Albert Kettner
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Nils Hempelmann
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2024-01-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC Climate Resilience Pilot marked the beginning of a series of enduring
+    climate initiatives with the primary goal of evaluating the value chain encompassing
+    raw data to climate information processes within Climate Resilience Information
+    Systems. This includes the transformation of geospatial data into meaningful knowledge
+    for various stakeholders, including decision-makers, scientists, policymakers,
+    data providers, software developers, service providers, and emergency managers.
+    The results of the OGC Climate Resilience Pilot support the location community
+    to develop more powerful visualization and communication tools to accurately address
+    ongoing climate threats such as heat, drought, floods, and wild-fires as well
+    as supporting governments in meeting commitments for their climate strategies.
+    This will be accomplished through evolving geospatial data, technologies, and
+    other capabilities into valuable information for decision-makers, scientists,
+    policymakers, data providers, software developers, and service providers so they
+    can make valuable, informed decisions to improve climate action. One of the most
+    significant challenges so far has been converting the outputs of global and regional
+    climate models into specific impacts and risks at the local level. The climate
+    science community has adopted standards and there are now numerous climate resilience
+    information systems available online, allowing experts to exchange and compare
+    data effectively. However, professionals outside the weather and climate domain,
+    such as planners and GIS analysts working for agencies dealing with climate change
+    impacts, have limited familiarity with and capacity to utilize climate data.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: engineering-report
+editorialgroup:
+  committee: technical
+ext:
+  schema-version: v1.0.1
