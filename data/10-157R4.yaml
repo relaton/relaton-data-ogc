@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/eompom/1.1
+- content: http://www.opengis.net/doc/IS/eompom/1.1.0
   type: src
 - content: https://docs.ogc.org/is/10-157r4/10-157r4.html
   type: obp

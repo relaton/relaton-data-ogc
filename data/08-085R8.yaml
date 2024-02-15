@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/GMLJP2/2.1
+- content: http://www.opengis.net/doc/IS/GMLJP2/2.1.0
   type: src
 - content: https://docs.ogc.org/is/08-085r8/08-085r8.html
   type: obp

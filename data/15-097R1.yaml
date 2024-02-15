@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/guf-conceptual/1.0
+- content: http://www.opengis.net/doc/IS/guf-conceptual/1.0.0
   type: src
 - content: https://docs.ogc.org/is/15-097r1/15-097r1.html
   type: obp

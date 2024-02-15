@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/SensorML/2.1
+- content: http://www.opengis.net/doc/IS/SensorML/2.1.0
   type: src
 - content: https://docs.ogc.org/is/12-000r2/12-000r2.html
   type: obp

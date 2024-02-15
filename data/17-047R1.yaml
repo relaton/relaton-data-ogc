@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/os-geojson/1.0
+- content: http://www.opengis.net/doc/IS/os-geojson/1.0.0
   type: src
 - content: https://docs.ogc.org/is/17-047r1/17-047r1.html
   type: obp

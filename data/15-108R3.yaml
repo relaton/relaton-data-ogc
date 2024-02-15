@@ -19,7 +19,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/WCS_application-profile_metocean_corridor/1.0
+- content: http://www.opengis.net/doc/IS/WCS_application-profile_metocean_corridor/1.0.0
   type: src
 - content: https://docs.ogc.org/is/15-108r3/15-108r3.html
   type: obp

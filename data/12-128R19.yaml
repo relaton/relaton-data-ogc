@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/geopackage/1.4
+- content: http://www.opengis.net/doc/IS/geopackage/1.4.0
   type: src
 - content: https://www.geopackage.org/spec140/index.html
   type: obp

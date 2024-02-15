@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/is/geoxacml-core/3.0
+- content: http://www.opengis.net/doc/is/geoxacml-core/3.0.0
   type: src
 - content: https://docs.ogc.org/is/22-049r1/22-049r1.html
   type: obp

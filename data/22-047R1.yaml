@@ -24,7 +24,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/geosparql/1.1
+- content: http://www.opengis.net/doc/IS/geosparql/1.1.0
   type: src
 - content: https://docs.ogc.org/is/22-047r1/22-047r1.html
   type: obp

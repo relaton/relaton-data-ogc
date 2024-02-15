@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/CDB-core/1.0
+- content: http://www.opengis.net/doc/IS/CDB-core/1.0.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=72712
   type: obp

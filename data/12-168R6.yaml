@@ -24,7 +24,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/cat/3.0
+- content: http://www.opengis.net/doc/IS/cat/3.0.0
   type: src
 - content: https://docs.ogc.org/is/12-168r6/12-168r6.html
   type: obp

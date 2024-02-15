@@ -19,7 +19,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/is/timeseriesml/1.3
+- content: http://www.opengis.net/doc/is/timeseriesml/1.3.0
   type: src
 - content: https://docs.ogc.org/is/15-042r6/15-042r6.pdf
   type: pdf

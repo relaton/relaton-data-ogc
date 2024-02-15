@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/waterml/2.0
+- content: http://www.opengis.net/doc/IS/waterml/2.0.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=48531
   type: obp

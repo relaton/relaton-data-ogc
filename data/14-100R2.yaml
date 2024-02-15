@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/cf-netcdf3-encoding-gml-as/2.0
+- content: http://www.opengis.net/doc/IS/cf-netcdf3-encoding-gml-as/2.0.0
   type: src
 - content: https://docs.ogc.org/is/14-100r2/14-100r2.html
   type: obp

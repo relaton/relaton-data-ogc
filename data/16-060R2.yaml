@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/CIS-GRIB2/1.0
+- content: http://www.opengis.net/doc/IS/CIS-GRIB2/1.0.0
   type: src
 - content: https://docs.ogc.org/is/16-060r2/16-060r2.html
   type: obp

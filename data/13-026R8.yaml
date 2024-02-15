@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/is/opensearch-eo/1.0
+- content: http://www.opengis.net/doc/is/opensearch-eo/1.0.0
   type: src
 - content: https://docs.ogc.org/is/13-026r8/13-026r8.html
   type: obp

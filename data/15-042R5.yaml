@@ -19,7 +19,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/tsml/1.2
+- content: http://www.opengis.net/doc/IS/tsml/1.2.0
   type: src
 - content: https://docs.ogc.org/is/15-042r5/15-042r5.html
   type: obp

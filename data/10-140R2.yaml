@@ -25,7 +25,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/WCS-EO-AP/1.1
+- content: http://www.opengis.net/doc/IS/WCS-EO-AP/1.1.0
   type: src
 - content: https://docs.ogc.org/is/10-140r2/10-140r2.html
   type: obp

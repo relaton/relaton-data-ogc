@@ -31,7 +31,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/ogcapi-tiles-1/1.0
+- content: http://www.opengis.net/doc/IS/ogcapi-tiles-1/1.0.0
   type: src
 - content: https://docs.ogc.org/is/20-057/20-057.html
   type: obp

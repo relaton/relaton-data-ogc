@@ -19,7 +19,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/cdb-geopackage/1.2
+- content: http://www.opengis.net/doc/IS/cdb-geopackage/1.2.0
   type: src
 - content: https://docs.ogc.org/is/20-050/20-050.html
   type: obp

@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/indoorgml/1.0
+- content: http://www.opengis.net/doc/IS/indoorgml/1.0.0
   type: src
 - content: https://docs.ogc.org/is/14-005r3/14-005r3.html
   type: obp
