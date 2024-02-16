@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://www.opengis.net/doc/IS/wmts-simple/1.0/
+- content: http://www.opengis.net/doc/IS/wmts-simple/1.0
   type: src
 - content: https://docs.ogc.org/is/13-082r2/13-082r2.html
   type: obp
