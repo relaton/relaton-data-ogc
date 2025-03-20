@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: 22-051r7
+title:
+- content: OGC GGXF geodetic data grid exchange format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC GGXF geodetic data grid exchange format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://www.opengis.net/doc/GGXF/1.0
+  type: src
+- content: https://docs.ogc.org/is/22-051r7/22-051r7.pdf
+  type: pdf
+type: standard
+docid:
+- id: 22-051r7
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-04-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Roger Lott
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '7'
+revdate: '2024-04-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The Geodetic data Grid eXchange Format (GGXF) is designed to be a single
+    file format that may be used\r\nfor a wide range of geodetic applications requiring
+    interpolation of regularly gridded data, including (but\r\nnot limited to):\r\n•
+    Transformation of latitude and longitude coordinates from one geodetic coordinate
+    reference\r\nsystem to another;\r\n• Transformation of gravity-related heights
+    from one vertical coordinate reference system to\r\nanother;\r\n• Reduction of
+    ellipsoid heights to the geoid, quasi-geoid or a surface of a vertical reference
+    frame;\r\nand\r\n• The description of coordinate changes due to deformation.\r\nThe
+    GGXF format has been designed specifically for carrying gridded geodetic parameters
+    supporting\r\ncoordinate transformations and point motion operations but has no
+    restriction on the type of content\r\nthat may be included."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

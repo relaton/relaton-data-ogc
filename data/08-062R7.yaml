@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '08-062r7'
 title:
 - content: OGC Reference Model
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/orm/2.1
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=47245
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: '08-062r7'
@@ -59,9 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: reference-model
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: reference-model
+  editorialgroup:
+    committee: technical

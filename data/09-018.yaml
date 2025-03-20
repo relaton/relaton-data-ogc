@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '09-018'
 title:
 - content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
@@ -17,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=32195
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: '09-018'
@@ -65,9 +63,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

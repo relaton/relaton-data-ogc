@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 10-030
 title:
 - content: Topic 19
@@ -31,10 +31,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://www.iso.org/standard/32566.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 10-030
@@ -67,9 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: abstract-specification-topic
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: abstract-specification-topic
+  editorialgroup:
+    committee: technical

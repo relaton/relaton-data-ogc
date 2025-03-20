@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 19-081
 title:
 - content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/MUDDI
   type: src
 - content: https://docs.ogc.org/per/19-081.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 19-081
@@ -74,9 +74,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

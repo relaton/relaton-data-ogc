@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 21-067
 title:
 - content: 'OGC: Towards Data Cube Interoperability'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/GDC
   type: src
 - content: https://docs.ogc.org/dp/21-067.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 21-067
@@ -70,9 +70,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 10-069r2
 title:
 - content: 'OWS-7 Engineering Report '
@@ -24,10 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=39476
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 10-069r2
@@ -67,9 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

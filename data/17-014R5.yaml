@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 17-014r5
 title:
 - content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package Format Specification
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/CS/i3s/1.0
   type: src
 - content: https://docs.ogc.org/cs/17-014r5/17-014r5.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 17-014r5
@@ -73,9 +73,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

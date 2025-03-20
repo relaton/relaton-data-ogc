@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: 23-033
+title:
+- content: 'Testbed-19: Machine Learning Models Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Testbed-19: Machine Learning Models Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/T19-D003
+  type: src
+- content: https://docs.ogc.org/per/23-033.html
+  type: html
+type: standard
+docid:
+- id: 23-033
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Samantha Lavender
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Trent Tinker
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC Testbed 19 initiative explored six tasks including this task focused
+    on Machine Learning: Transfer Learning for Geospatial Applications. \r\n\r\nThis
+    OGC Testbed 19 Engineering Report (ER) documents work to develop the foundation
+    for future standardization of Machine Learning models for transfer learning within
+    geospatial, especially Earth Observation, applications. The ER reviews the findings
+    of transfer learning experiments and makes recommendations about the next steps
+    in terms of both the experiments conducted and broader implications for OGC."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

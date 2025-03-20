@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-142
 title:
 - content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
@@ -20,7 +20,7 @@ link:
 - content: https://www.w3.org/TR/qb4st/
   type: src
 - content: https://www.w3.org/TR/qb4st/
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-142
@@ -66,9 +66,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

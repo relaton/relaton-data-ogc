@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-038
 title:
 - content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/EOAppsPilot-SatCen
   type: src
 - content: https://docs.ogc.org/per/20-038.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-038
@@ -63,9 +63,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

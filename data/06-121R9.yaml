@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 06-121r9
 title:
 - content: OGC Web Service Common Implementation Specification
@@ -17,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=38867
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 06-121r9
@@ -33,7 +31,13 @@ contributor:
 - person:
     name:
       completename:
-        content: 'Arliss Whiteside Jim Greenwood '
+        content: Arliss Whiteside
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Jim Greenwood '
   role:
   - type: author
 - organization:
@@ -61,10 +65,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

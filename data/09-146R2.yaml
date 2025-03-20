@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '09-146r2'
 title:
 - content: OGC® Coverage Implementation Schema
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/GML/GMLCOV/1.0.1
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=48553
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: '09-146r2'
@@ -63,10 +63,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: profile
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: profile
+  editorialgroup:
+    committee: technical

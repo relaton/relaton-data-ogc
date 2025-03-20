@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-094
 title:
 - content: Indoor Mapping Data Format
@@ -17,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://docs.ogc.org/cs/20-094/index.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-094
@@ -59,9 +57,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

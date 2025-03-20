@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-056
 title:
 - content: OGC SensorThings API Tasking Core Discussion Paper
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/SensotThings-tasking
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=79179
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 18-056
@@ -67,9 +67,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

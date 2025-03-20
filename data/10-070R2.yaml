@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 10-070r2
 title:
 - content: OpenGIS® Georeferenced Table Joining Service Implementation Standard
@@ -17,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=40095
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 10-070r2
@@ -57,10 +55,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-013r1
 title:
 - content: OGC® Testbed-10 Service Integration Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/ER/testbed10/wis
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=58892
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-013r1
@@ -59,9 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

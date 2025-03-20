@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 19-066
 title:
 - content: Volume 14 OGC CDB Guidance on Conversion of CDB Shapefiles into CDB GeoPackages
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/BP/CDB-gpkg/1.2
   type: src
 - content: https://docs.ogc.org/bp/19-066.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 19-066
@@ -60,10 +60,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

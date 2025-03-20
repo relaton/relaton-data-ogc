@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 12-128r14
 title:
 - content: OGC® GeoPackage Encoding Standard
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/geopackage/1.2.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=74225
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 12-128r14
@@ -64,10 +64,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

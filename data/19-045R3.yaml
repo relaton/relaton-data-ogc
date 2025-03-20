@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 19-045r3
 title:
 - content: OGC Moving Features Encoding Extension
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/IS/mf-json/1.0.0
   type: src
 - content: https://docs.ogc.org/is/19-045r3/19-045r3.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 19-045r3
@@ -76,10 +76,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

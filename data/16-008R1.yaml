@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-008r1
 title:
 - content: OGC Geoscience Markup Language 4.1 (GeoSciML)
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/geosciml/4.1
   type: src
 - content: https://docs.ogc.org/is/16-008/16-008r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-008r1
@@ -40,7 +40,7 @@ contributor:
 - person:
     name:
       completename:
-        content: 'eoSciML Modeling Team '
+        content: 'GeoSciML Modeling Team '
   role:
   - type: author
 - organization:
@@ -73,10 +73,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

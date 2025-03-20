@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 00-116
 title:
 - content: Topic 16
@@ -24,10 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=7200
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 00-116
@@ -66,9 +64,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: abstract-specification-topic
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: abstract-specification-topic
+  editorialgroup:
+    committee: technical

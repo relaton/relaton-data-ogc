@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 22-049r1
 title:
 - content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/is/geoxacml-core/3.0.0
   type: src
 - content: https://docs.ogc.org/is/22-049r1/22-049r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 22-049r1
@@ -76,10 +76,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

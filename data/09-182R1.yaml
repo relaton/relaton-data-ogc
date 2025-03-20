@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '09-182r1'
 title:
 - content: End to End Discovery and Access Engineering Report GEO Architecture Implementation
@@ -19,10 +19,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=36889
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: '09-182r1'
@@ -67,9 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

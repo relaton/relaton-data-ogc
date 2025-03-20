@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: 12-128r12a
+title:
+- content: OGC® GeoPackage Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: With Corrigendum
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC® GeoPackage Encoding Standard - With Corrigendum
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/geopackage/1.0.1
+  type: src
+- content: https://www.geopackage.org/spec
+  type: html
+type: standard
+docid:
+- id: 12-128r12a
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2015-04-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Paul Daisey
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2015-04-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC® Encoding Standard defines GeoPackages for exchange and GeoPackage
+    SQLite Extensions for direct use of vector geospatial features and / or tile matrix
+    sets of earth images and raster maps at various scales. Direct use means the ability
+    to access and update data in a “native” storage format without intermediate format
+    translations in an environment (e.g. through an API) that guarantees data model
+    and data set integrity and identical access and update results in response to
+    identical requests from different client applications.  GeoPackages are interoperable
+    across all enterprise and personal computing environments, and are particularly
+    useful on mobile devices like cell phones and tablets in communications environments
+    with limited connectivity and bandwidth.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

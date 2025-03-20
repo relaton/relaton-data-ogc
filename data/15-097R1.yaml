@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-097r1
 title:
 - content: 'OGC® Geospatial User Feedback Standard: Conceptual Model'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/guf-conceptual/1.0.0
   type: src
 - content: https://docs.ogc.org/is/15-097r1/15-097r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 15-097r1
@@ -33,7 +33,13 @@ contributor:
 - person:
     name:
       completename:
-        content: 'Joan Masó and Lucy Bastin '
+        content: Joan Masó
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Lucy Bastin '
   role:
   - type: author
 - organization:
@@ -68,10 +74,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

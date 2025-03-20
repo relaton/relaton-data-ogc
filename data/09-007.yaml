@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '09-007'
 title:
 - content: OWS-6 Common CBRN Sensor Interface (CCSI)-Sensor Web Enablement (SWE) Engineering
@@ -19,10 +19,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=33355
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: '09-007'
@@ -61,9 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

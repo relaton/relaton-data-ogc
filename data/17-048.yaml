@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 17-048
 title:
 - content: OGC Underground Infrastructure Concept Study Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/uicds
   type: src
 - content: https://docs.ogc.org/per/17-048.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 17-048
@@ -63,9 +63,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

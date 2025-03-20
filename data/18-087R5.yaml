@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-087r5
 title:
 - content: OGC Development of Disaster Spatial Data Infrastructures for Disaster Resilience
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/per/disaster-sdi
   type: src
 - content: https://portal.ogc.org/files/18-087r5
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 18-087r5
@@ -73,9 +73,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

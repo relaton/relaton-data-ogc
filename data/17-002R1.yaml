@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 17-002r1
 title:
 - content: OGC GeoRSS Encoding Standard
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/CS/georss/1.0
   type: src
 - content: https://docs.ogc.org/cs/17-002r1/17-002r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 17-002r1
@@ -58,9 +58,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

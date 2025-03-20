@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-000
 title:
 - content: 'Testbed 10 Engineering Report: GML for Aviation Conformance Testing'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/ER/testbed10/gml-for-aviation-conformance
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=58995
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-000
@@ -63,9 +63,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

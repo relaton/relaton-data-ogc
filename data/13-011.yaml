@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 13-011
 title:
 - content: 'OWS-9: Summary of the  OGC Web Services, Phase 9 (OWS-9) Interoperability
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/per/ows-9-summary
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=53036
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 13-011
@@ -56,9 +56,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

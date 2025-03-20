@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 23-020r2
 title:
 - content: Engineering report for OGC Climate Resilience Pilot
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/per/climate-resilience-pilot
   type: src
 - content: https://docs.ogc.org/per/23-020r2.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 23-020r2
@@ -87,9 +87,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

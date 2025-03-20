@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 17-086r3
 title:
 - content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/IS/WCS_application-profile_metocean_polygon/1.0.0
   type: src
 - content: https://docs.ogc.org/is/17-086r3/17-086r3.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 17-086r3
@@ -74,10 +74,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

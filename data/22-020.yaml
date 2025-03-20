@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 22-020
 title:
 - content: 'Testbed-18: Identifiers for Reproducible Science Summary Engineering Report'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/T18-D041
   type: src
 - content: https://docs.ogc.org/per/22-020.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 22-020
@@ -77,9 +77,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

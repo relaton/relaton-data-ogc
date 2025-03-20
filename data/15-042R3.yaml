@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-042r3
 title:
 - content: TimeseriesML 1.0 – XML Encoding of the Timeseries Profile of Observations
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/is/tsml/1.0.0
   type: src
 - content: https://docs.ogc.org/is/15-042r3/15-042r3.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 15-042r3
@@ -35,7 +35,13 @@ contributor:
 - person:
     name:
       completename:
-        content: James Tomkins and Dominic Lowe
+        content: James Tomkins
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dominic Lowe
   role:
   - type: author
 - organization:
@@ -61,10 +67,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

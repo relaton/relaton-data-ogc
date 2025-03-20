@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 11-111r1
 title:
 - content: Topic 11
@@ -24,10 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 11-111r1
@@ -66,9 +64,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: abstract-specification-topic
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: abstract-specification-topic
+  editorialgroup:
+    committee: technical

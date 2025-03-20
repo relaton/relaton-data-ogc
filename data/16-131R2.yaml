@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-131r2
 title:
 - content: Big Geospatial Data – an OGC White Paper
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/WP/bigdata
   type: src
 - content: https://docs.ogc.org/wp/16-131r2/16-131r2.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-131r2
@@ -64,9 +64,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

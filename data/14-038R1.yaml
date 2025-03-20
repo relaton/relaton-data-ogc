@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-038r1
 title:
 - content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
@@ -22,12 +22,15 @@ link:
 - content: http://www.opengis.net/doc/PER/testbed10/wcs-wgds-adapter
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=58117
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-038r1
   type: OGC
   primary: true
+date:
+- type: published
+  value: '2014-07-16'
 contributor:
 - person:
     name:
@@ -42,6 +45,7 @@ contributor:
   - type: publisher
 edition:
   content: '1'
+revdate: '2014-07-16'
 language:
 - en
 script:
@@ -58,9 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

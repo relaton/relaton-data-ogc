@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.9
+id: 22-010r4
+title:
+- content: Topic 24
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Functional Model for Crustal Deformation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Topic 24 - Functional Model for Crustal Deformation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/AS/Topic-24/1.0
+  type: src
+- content: https://docs.ogc.org/as/22-010r4/22-010r4.html
+  type: html
+type: standard
+docid:
+- id: 22-010r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-04-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Crook
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '4'
+revdate: '2024-04-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Abstract Specification (AS) defines a general parameterization
+    of surface deformation models.\r\n\r\nAll objects on the surface of the Earth
+    are moving. Apparently fixed features such as buildings are moving with the Earth’s
+    crust, being subject to ongoing plate tectonic movement and episodic deformation
+    events such as earthquakes.\r\n\r\nIncreasingly, applications and users rely on
+    global positioning methods, such as Global Navigation Satellite Systems (GNSS)
+    observations, to precisely determine the coordinates of features. The resulting
+    coordinates are then stored in databases and used in a wide range of applications,
+    such as Geographic Information Systems (GIS). However, the coordinates from GNSS
+    are referenced to global reference frames and coordinate reference systems (CRSs).
+    In these reference frames the coordinates of apparently fixed objects are continually
+    changing.\r\n\r\nThis creates a challenge for the geospatial and positioning community:
+    How to account for this movement when comparing data sets observed at different
+    times, or how to locate an object observed in the past.\r\n\r\nThis problem is
+    generally addressed in one of two ways:\r\n\r\nDefining a reference epoch for
+    the CRS of coordinates held in the GIS, often by defining a CRS with a reference
+    epoch, or\r\nUsing a CRS which is fixed relative to the surface of the Earth.\r\nIn
+    practice there is little difference between these two approaches. Neither the
+    position at a reference epoch, nor the coordinates in a static CRS, can be directly
+    measured by global positioning methods.\r\n\r\nPropagating the observed coordinates
+    to a reference epoch, or transforming to a static CRS, requires a deformation
+    model — a mathematical model of the deformation of the Earth’s surface.\r\n\r\nCommon
+    uses of a deformation model include:\r\n\r\nDetermining the current location of
+    an object based on historic measurement of its location,\r\nPropagation of the
+    current observed location of an object to the reference epoch of a static CRS,\r\nDetermining
+    the spatial relationship of data sets observed at different times, and\r\nPredicting
+    the location of an object at some future time.\r\nCurrently, many national geodetic
+    agencies have developed or are planning to develop regional deformation models.
+    However, the current models generally use customized formats and software developed
+    by each agency.\r\n\r\nThis AS describes a way of parameterizing a deformation
+    model such that it can be encoded into a data set and used in software for coordinate
+    operations. The AS defines how to calculate the displacement of a point between
+    two different epochs. It provides a common understanding between producers of
+    deformation models and developers of software about what the deformation is and
+    how it will be used.\r\n\r\nThis AS will allow users of compliant software applying
+    a compliant deformation model to be confident that the model is being used as
+    intended by its producers."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: abstract-specification-topic
+  editorialgroup:
+    committee: technical

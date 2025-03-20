@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 06-098
 title:
 - content: 'Change Request: WCS: Proposal for WCS Transactional'
@@ -24,10 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=20257
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 06-098
@@ -64,9 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: change-request-supporting-document
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: change-request-supporting-document
+  editorialgroup:
+    committee: technical

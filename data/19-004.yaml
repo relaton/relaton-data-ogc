@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 19-004
 title:
 - content: Anchor Node Extension in IndoorGML
@@ -28,7 +28,7 @@ link:
 - content: http://www.opengis.net/doc/dp/indoorgml-anchornode
   type: src
 - content: https://docs.ogc.org/dp/19-004.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 19-004
@@ -74,9 +74,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

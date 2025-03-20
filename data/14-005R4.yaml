@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-005r4
 title:
 - content: OGC® IndoorGML
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/IS/indoorgml/1.0.2
   type: src
 - content: http://docs.opengeospatial.org/is/14-005r4/14-005r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 14-005r4
@@ -97,10 +97,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

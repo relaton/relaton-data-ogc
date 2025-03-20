@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '08-134r11'
 title:
 - content: Compliance Testing Program Policies & Procedures
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/pol/compliance/1.1
   type: src
 - content: https://docs.ogc.org/pol/08-134r11.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: '08-134r11'
@@ -58,9 +58,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  editorialgroup:
+    committee: technical

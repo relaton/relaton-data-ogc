@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-059r4
 title:
 - content: Naming of OGC API Standards, Repositories & Specification Elements
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/pol/ogcapi-naming/1.0
   type: src
 - content: https://docs.ogc.org/pol/20-059r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-059r4
@@ -59,9 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

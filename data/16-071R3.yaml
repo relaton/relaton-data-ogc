@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-071r3
 title:
 - content: Time Ontology in OWL
@@ -20,7 +20,7 @@ link:
 - content: https://www.w3.org/TR/owl-time/
   type: src
 - content: https://www.w3.org/TR/2020/CR-owl-time-20200326/
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-071r3
@@ -68,10 +68,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

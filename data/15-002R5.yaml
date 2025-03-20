@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-002r5
 title:
 - content: OGC Compliance Overview
@@ -24,10 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: http://docs.opengeospatial.org/wp/15-002r5/15-002r5.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 15-002r5
@@ -71,9 +69,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

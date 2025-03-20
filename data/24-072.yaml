@@ -1,0 +1,97 @@
+---
+schema-version: v1.2.9
+id: 24-072
+title:
+- content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering
+    Report:  NYC  GISMO Team '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering
+    Report:  NYC  GISMO Team '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/TP/cdrp2024-extreme-heat
+  type: src
+- content: https://portal.ogc.org/files/?artifact_id=110242&version=1
+  type: pdf
+type: standard
+docid:
+- id: 24-072
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alan Leidner
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Joel Cline,David Green,Dean Hintz
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ajay K Gupta
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Paul A Churchyard
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Bandana Kar
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Jiin '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This study of extreme heat focuses on developing an understanding of how
+    extreme heat \r\nevents can affect a community north and east of Central Park,
+    in the Borough of Manhattan in New York City, bounded by 110th Street, Fifth Avenue,
+    East 96th Street, the East River, the Harlem River, and the Hudson River. This
+    area contains the communities of Harlem, \r\nWashington Heights, and Inwood. "
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

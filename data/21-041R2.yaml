@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 21-041r2
 title:
 - content: OGC Conceptual Modeling Discussion Paper
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/conceptual-modeling
   type: src
 - content: https://docs.ogc.org/dp/21-041r2.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 21-041r2
@@ -83,9 +83,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

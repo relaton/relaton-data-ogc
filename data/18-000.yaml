@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-000
 title:
 - content: OGC GeoPackage Related Tables Extension
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/gpkg-rte/1.0.0
   type: src
 - content: https://docs.ogc.org/is/18-000/18-000.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 18-000
@@ -64,10 +64,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

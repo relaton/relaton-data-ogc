@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 17-089r1
 title:
 - content: OGC Web Coverage Service (WCS) 2.1 Interface Standard
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/IS/wcs-core/2.1.0
   type: src
 - content: https://docs.ogc.org/is/17-089r1/17-089r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 17-089r1
@@ -72,10 +72,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

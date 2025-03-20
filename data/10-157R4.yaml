@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 10-157r4
 title:
 - content: OGC® Earth Observation Metadata profile of Observations & Measurements
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/eompom/1.1.0
   type: src
 - content: https://docs.ogc.org/is/10-157r4/10-157r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 10-157r4
@@ -107,10 +107,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

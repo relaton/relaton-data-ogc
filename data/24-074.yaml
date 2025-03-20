@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: 24-074
+title:
+- content: 'OGC Climate Disaster and Resilience Pilot 2024: Landslide Demonstrators
+    Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Climate Disaster and Resilience Pilot 2024: Landslide Demonstrators
+    Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/TP/cdrp2024-D131
+  type: src
+- content: https://portal.ogc.org/files/?artifact_id=110244&version=1
+  type: pdf
+type: standard
+docid:
+- id: 24-074
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gérald Fenoy
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Rajat Shinde
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Landslides pose a significant threat, often triggered by extreme weather
+    events like heavy \r\nrainfall or earthquakes, leading to extensive damage and
+    loss of life. Traditional methods for \r\ndetecting and measuring landslides are
+    typically time-consuming and lack accuracy. This report \r\nintroduces Landslideflow,
+    a workflow based on the Common Workflow Language (CWL) \r\ndesigned to improve
+    the detection and measurement of landslides. Utilizing remote sensing \r\ndata,
+    such as satellite images and digital elevation models, Landslideflow generates
+    precise \r\nlandslide displacement maps. The workflow is scalable and cloud-optimized,
+    enabling it to \r\nhandle large data volumes efficiently. Moreover, Landslideflow
+    leverages advanced computer \r\nvision and machine learning techniques to enhance
+    accuracy, offering a robust solution that is \r\neasy to deploy on cloud platforms.
+    As an open-source tool, Landslideflow is freely accessible, \r\nproviding a valuable
+    resource for researchers and practitioners in the field. Landslideflow is a \r\npowerful
+    tool for detecting and measuring landslides. It is accurate, scalable, cloud-optimized,
+    \r\nand open source. Landslideflow can be used by scientists, engineers, and policymakers
+    to better \r\nunderstand and mitigate the risks associated with landslides."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

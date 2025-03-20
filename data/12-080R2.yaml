@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 12-080r2
 title:
 - content: OGC OWS Context Conceptual Model
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/owc-conceptual/1.0.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=55182
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 12-080r2
@@ -93,10 +93,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

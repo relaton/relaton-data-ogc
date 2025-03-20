@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-045
 title:
 - content: 'OGC Testbed-14: Next Generation Web APIs'
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/PER/t14-D021
   type: src
 - content: https://docs.ogc.org/per/18-045.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 18-045
@@ -76,9 +76,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

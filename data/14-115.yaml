@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-115
 title:
 - content: OGC Smart Cities Spatial Information Framework
@@ -17,10 +17,10 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
+- content: http://www.opengis.net/doc/WP/smart-cities-sif
   type: src
-- content: https://portal.ogc.org/files/?artifact_id=61188
-  type: obp
+- content: https://portal.ogc.org/files/61188
+  type: pdf
 type: standard
 docid:
 - id: 14-115
@@ -48,13 +48,13 @@ script:
 - Latn
 abstract:
 - content: "This White Paper supports development of a Smart Cities Spatial Information
-    Framework\r\nbased on these themes:\r\nK Smart Cities are high-density generators
-    of innovation and information.\r\nK Location information is a major enabler of
-    Smart City technology benefits.\r\nK Benefits of smart technology must be judged
-    by benefits to residents.\r\nK Reuse and repurpose is vital to urban resilience\r\nK
+    Framework\r\nbased on these themes:\r\n- Smart Cities are high-density generators
+    of innovation and information.\r\n- Location information is a major enabler of
+    Smart City technology benefits.\r\n- Benefits of smart technology must be judged
+    by benefits to residents.\r\n- Reuse and repurpose is vital to urban resilience\r\n-
     Open standards are needed for interoperability, efficiency, application innovation\r\nand
     cost effectiveness.\r\nDiscussion of these themes and this white paper will occur
-    at the OGC Smart Cities\r\nLocation Powers Summit in Tokyo on December 2, 2014,\r\n1
+    at the OGC Smart Cities\r\nLocation Powers Summit in Tokyo on December 2, 2014,1
     the co-located OGC Technical\r\nCommittee meeting, and in many other forums in
     the future. As described in this paper,\r\nthere are many standards initiatives
     that focus on Smart Cities. Most Smart Cities use\r\ncases in some way involve
@@ -68,9 +68,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

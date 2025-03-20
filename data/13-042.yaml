@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 13-042
 title:
 - content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/BP/roseo/1.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=55209
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 13-042
@@ -61,10 +61,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

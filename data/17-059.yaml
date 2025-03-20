@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 17-059
 title:
 - content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/dp/dgiwg-sld
   type: src
 - content: https://docs.ogc.org/dp/17-059/17-059.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 17-059
@@ -72,9 +72,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

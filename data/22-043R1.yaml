@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 22-043r1
 title:
 - content: Joint OGC and ISO Code Sprint 2022 Summary Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/ogc-iso-codesprint2022
   type: src
 - content: https://docs.ogc.org/per/22-043r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 22-043r1
@@ -67,9 +67,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

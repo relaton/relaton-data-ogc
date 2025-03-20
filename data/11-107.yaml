@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 11-107
 title:
 - content: OGC  OWS-8 Domain Modelling Cookbook
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/ows-8_domain_modelling
   type: src
 - content: https://portal.ogc.org/files/11-107
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 11-107
@@ -67,9 +67,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

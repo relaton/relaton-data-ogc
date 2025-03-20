@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-000r1
 title:
 - content: CityGML Urban Planning ADE for i-Urban Revitalization
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/dp/citygml-up-ade4iurban
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=92113
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 20-000r1
@@ -100,9 +100,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

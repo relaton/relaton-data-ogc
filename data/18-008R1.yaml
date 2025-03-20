@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-008r1
 title:
 - content: OGC White Paper on Land Administration
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/wp/land-admin
   type: src
 - content: https://docs.ogc.org/wp/18-008r1/18-008r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 18-008r1
@@ -99,9 +99,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

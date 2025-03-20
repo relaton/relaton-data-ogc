@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-082r4
 title:
 - content: Topic 20
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/as/om/3.0
   type: src
 - content: https://docs.ogc.org/as/20-082r4/20-082r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-082r4
@@ -78,9 +78,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: abstract-specification-topic
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: abstract-specification-topic
+  editorialgroup:
+    committee: technical

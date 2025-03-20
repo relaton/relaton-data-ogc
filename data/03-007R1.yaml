@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 03-007r1
 title:
 - content: 'OpenGIS Location Services (OpenLS): Navigation Service [Part 6]'
@@ -17,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=3840
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 03-007r1
@@ -58,9 +56,9 @@ abstract:
 docstatus:
   stage:
     value: draft
-doctype:
-  type: standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  editorialgroup:
+    committee: technical

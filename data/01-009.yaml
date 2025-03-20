@@ -1,22 +1,15 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 01-009
 title:
-- content: Coordinate Transformation Services
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: OLE/COM
+- content: OpenGIS Coordinate Transformation Service Implementation Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
   type: title-main
-- content: Coordinate Transformation Services - OLE/COM
+- content: OpenGIS Coordinate Transformation Service Implementation Specification
   language:
   - en
   script:
@@ -24,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=999
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 01-009
@@ -54,17 +45,21 @@ language:
 script:
 - Latn
 abstract:
-- content: Provides interfaces for general positioning, coordinate systems, and coordinate
-    transformations.
+- content: 'The OpenGIS® Coordinate Transformation Service Standard (CTS)  provides
+    a standard way for software to specify and access coordinate transformation services
+    for use on specified spatial data. This standard addresses a key requirement for
+    overlaying views of geodata (“maps”) from diverse sources: the ability to perform
+    coordinate transformation in such a way that all spatial data are defined relative
+    to the same spatial reference system.  '
   language:
   - en
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: profile
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

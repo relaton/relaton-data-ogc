@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 11-169
 title:
 - content: Lightweight SOS Profile for Stationary In-Situ Sensors Discussion Paper
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/lightweight-sos-dp
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=46693
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 11-169
@@ -75,9 +75,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,114 @@
+---
+schema-version: v1.2.9
+id: 23-050
+title:
+- content: OGC Testbed-19 Agile Reference Architecture Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed-19 Agile Reference Architecture Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/T19-D021
+  type: src
+- content: https://docs.ogc.org/per/23-050.html
+  type: html
+type: standard
+docid:
+- id: 23-050
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lucio Colaiacomo
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The concepts of agile architecture and reference architecture may not
+    be new ideas in information or geospatial technologies, but what is meant by the
+    term Agile Reference Architecture?\r\n\r\nAgile Reference Architecture is the
+    long-term vision of the complex and changing nature of how problems will be solved
+    in the future within the location-referenced and geospatial realms. This includes
+    consideration of network availability, as containers integrated with Linked Data,
+    and Application Programming Interfaces (APIs) serve data as secure, trusted, and
+    self-describing resources.\r\n\r\nWhile the Open Geospatial Consortium (OGC) focuses
+    on geospatial information and technologies, that community is also dependent on
+    the overall state of information and communications technology (ICT), including
+    developing cyber, cryptographic, and internet technologies.\r\n\r\nIn today’s
+    infrastructures, the collection, exchange, and continuous processing of geospatial
+    resources typically happens at pre-defined network endpoints of a spatial data
+    infrastructure. Each participating operator hosts some capability at a network
+    endpoint. Whereas some network operator endpoints may provide data access, other
+    endpoints provide processing functionality and other endpoints may support the
+    uploading of capabilities. In other words, such an infrastructure is not agile
+    in the sense that it cannot adapt by itself to meet the needs of the moment. One
+    of the biggest challenges resulting from the static characteristics is ensuring
+    effective and efficient operations of the overall system and at the same time
+    maintaining trust and provenance.\r\n\r\nThis OGC Testbed 19 Engineering Report
+    (ER) outlines novel concepts for establishing a federated agile infrastructure
+    of collaborative trusted systems (FACTS) that is capable of acting autonomously
+    to ensure fit-for-purpose cooperation across the entire system. One of the key
+    objectives is to not create a new data product, but instead a collaborative object
+    is offered leveraging FACTS that allows for obtaining the data product via well-defined
+    interfaces and functions provided by the collaborative object.\r\n\r\nTrust and
+    assurance are two key aspects when operating a network of collaborative objects
+    leveraging STANAG 4774/4778. STANAG 4774 outlines the metadata syntax required
+    for a confidentiality label to better facilitate and protect sensitive information
+    sharing. In addition, STANAG 4778 defines how a confidentiality label is bound
+    to the data throughout its lifecycle and between the sharing parties.The agile
+    aspect is achieved by the object’s ability to activate, deactivate, and order
+    well-defined capabilities from other objects. These capabilities are encapsulated
+    in building blocks. Each building block is well defined in terms of accessibility,
+    functionality, and ordering options. This allows building blocks to roam around
+    collaborative objects as needed to ensure a well-balanced network load and suitable
+    processing power of individual nodes from the network.\r\n\r\nEqually trusted
+    partners in the infrastructure participate in FACTS. They can collect data from
+    other partners and create derived products via collaborative objects. The sharing
+    of data products is only possible directly, meaning direct communication with
+    data consumer and it is only possible via the objects. This guarantees that fundamental
+    trust operations are applied to the data and provenance records are produced before
+    the data product is made available to others. The use of Blockchain technology
+    and Smart contracts is one example of how this fundamental behavior can be planted
+    into collaborative objects. As in trusted networks that are using Evaluation Assurance
+    Level (EAL) approved hardware and software components, the objects will have to
+    undergo a similar assurance process.\r\n\r\nFor ensuring the acceptance and interoperability
+    of an agile reference architecture, built on top of FACTS with collaborative objects
+    and building blocks, standardization is a key aspect. In particular, the core
+    (fundamental) requirements for FACTS as well as the interfaces and capabilities
+    of the collaborative objects and pluggable building blocks should be standardized.
+    The OGC provides a consensus based collaborative standardization environment fits
+    these requirements very well."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

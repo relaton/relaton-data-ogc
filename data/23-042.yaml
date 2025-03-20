@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: 23-042
+title:
+- content: OGC Testbed-19 — Non-Terrestrial Geospatial Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed-19 — Non-Terrestrial Geospatial Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/T19-D001
+  type: src
+- content: https://docs.ogc.org/per/23-042.html
+  type: html
+type: standard
+docid:
+- id: 23-042
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-07-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sina Taghavikish
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-07-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Testbed-18 explored the potential use of OGC Standards for non-terrestrial
+    applications and was scoped as a paper study. Validation of the Testbed-18 recommendations
+    has been left for Testbed-19. This OGC Engineering Report (ER) documents recommended
+    changes to OGC Standards and the implementation experience to justify those changes.\r\n\r\nThe
+    use of OGC Standards include geospatial applications for non-Earth planets as
+    well as interplanetary spatiotemporal applications. Two Standards emerged as key:
+    ISO 19111 (OGC Abstract Specification 2: Referencing by coordinates) and OGC 21-056r11
+    (OGC GeoPose 1.0 Data Exchange Standard). Extensions to ISO 19111 were identified
+    which would support the representation of non-terrestrial planetary spatial reference
+    systems as well as interplanetary spatiotemporal reference systems.\r\n\r\nThe
+    GeoPose Standard (GeoPose) was explored as a mechanism to integrate the large
+    number of reference systems and transformations needed to model the geometry of
+    interplanetary spacetime.\r\n\r\nIn the context of the Double Asteroid Redirection
+    Test (DART) scenario, positions and orientations in different coordinate reference
+    systems and associated attributes such as velocities of non-terrestrial objects
+    were encoded using two different approaches: as sequences of extended GeoPoses,
+    and as OGC Moving Features JSON (MF-JSON). These encoded data were then used as
+    the basis for a 3D visualization demonstration.\r\n\r\nThis work is not intended
+    to replace the existing standards already used in astronomy such as the World
+    Coordinate System (WCS). The recommendations provided in this ER are rather intended
+    to improve interoperability by specifying how to export a subset of a WCS description
+    as OGC/ISO data structures for consumption by GIS software or other geospatial
+    technology applications.\r\n\r\nTestbed-18 also investigated how GeoPose could
+    be integrated with mobile location-aware devices such as smartphones. Engineering
+    Report OGC 22-016r3 (Testbed-18: Moving Features) concluded that GeoPose could
+    enrich data with location and orientation information synchronized to video and
+    other sensors and identified two suitable road network use cases for study using
+    WebVMT in Testbed-19."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

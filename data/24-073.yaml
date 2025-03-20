@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: 24-073
+title:
+- content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support
+    Climate and Disaster Resilience
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support
+    Climate and Disaster Resilience
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/TP/cdrp2024-sdi2gki
+  type: src
+- content: https://portal.ogc.org/files/?artifact_id=110243&version=1
+  type: pdf
+type: standard
+docid:
+- id: 24-073
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Nathan McEachen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Justin Lewis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "One of the key objectives of the Open Geospatial Consortium (OGC) Climate
+    and Disaster Resilience Pilot 2024 (CDRP) is to encourage innovations that can
+    achieve scale for emergency management analysis, decision support, and preparedness.
+    Multiple and interrelated challenges across sectors impacted by climate change
+    can collectively produce a larger negative effect. However, there are a number
+    of barriers to achieving cross-sectoral collaboration and analysis \r\nat needed
+    scale. In addition to the need for more scientific knowledge, the information
+    systems, data, and data management practices used to address these challenges
+    are siloed, making it difficult to share knowledge and understand the Cumulative
+    Effects (CE) and regional impacts due to varying geography, environments, and
+    populations."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

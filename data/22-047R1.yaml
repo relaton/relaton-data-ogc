@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 22-047r1
 title:
 - content: OGC GeoSPARQL
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/IS/geosparql/1.1.0
   type: src
 - content: https://docs.ogc.org/is/22-047r1/22-047r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 22-047r1
@@ -71,10 +71,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

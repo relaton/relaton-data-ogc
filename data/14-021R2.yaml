@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-021r2
 title:
 - content: OGC® Testbed 10 CCI Profile Interoperability Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/ER/testbed10/cci-profile-interoperability
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=57336
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-021r2
@@ -71,9 +71,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

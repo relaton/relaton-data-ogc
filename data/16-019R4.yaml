@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-019r4
 title:
 - content: OGC® Open Geospatial APIs
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/WP/api-whitepaper
   type: src
 - content: https://docs.ogc.org/wp/16-019r4/16-019r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-019r4
@@ -65,9 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

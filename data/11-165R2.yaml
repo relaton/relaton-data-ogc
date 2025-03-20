@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 11-165r2
 title:
 - content: CF-netCDF3 Data Model Extension standard
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/is/netcdf-data-model-extension/1.0.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=51908
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 11-165r2
@@ -33,7 +33,13 @@ contributor:
 - person:
     name:
       completename:
-        content: 'Ben Domenico and Stefano Nativi '
+        content: Ben Domenico
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Stefano Nativi '
   role:
   - type: author
 - organization:
@@ -63,10 +69,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

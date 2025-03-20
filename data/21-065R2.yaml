@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.9
+id: 21-065r2
+title:
+- content: Common Query Language (CQL2)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Common Query Language (CQL2)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/cql2/1.0
+  type: src
+- content: https://docs.ogc.org/is/21-065r2/21-065r2.html
+  type: html
+type: standard
+docid:
+- id: 21-065r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-07-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2024-07-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "A fundamental operation performed on a collection of features is that
+    of filtering in order to obtain a subset of the data which contains feature instances
+    that satisfy some filtering criteria. This document specifies\r\n\r\nA filter
+    grammar called Common Query Language (CQL2);\r\n\r\nTwo encodings for CQL2 - a
+    text and a JSON encoding.\r\n\r\nThe Common Query Language (CQL2) defined in this
+    document is a generic filter grammar that can be used to specify how resource
+    instances in a source collection of any item type, including features, can be
+    filtered to identify a results set. Typically, CQL2 is used in query operations
+    to identify the subset of resources, such as features, that should be included
+    in a response document. However, CQL2 can also be used in other operations, such
+    as updates, to identify the subset of resources that should be affected by an
+    operation.\r\n\r\nEach resource instance in the source collection is evaluated
+    against a filtering expression. The filter expression always evaluates to true,
+    false or null. If the expression evaluates to true, the resource instance satisfies
+    the expression and is marked as being in the result set. If the overall filter
+    expression evaluates to false or null, the data instance is not in the result
+    set. Thus, the net effect of evaluating a filter expression is a set of resources
+    that satisfy the predicates in the expression.\r\n\r\nThe Common Query Language
+    and its text encoding are not new, but this is the first time that the language
+    is formally specified. The Common Query Language with the acronym CQL was originally
+    created as a text encoding for use with implementations of the OGC Catalogue Service
+    Implementation Specification. The language is based on the capabilities in the
+    OGC Filter Encoding Standard, which was originally part of the Web Feature Service
+    (WFS) Standard.\r\n\r\nThe Common Query Language as specified in this document
+    is a revision of this earlier version. While the language design including the
+    classification of operators are consistent with the earlier specification, there
+    have been a number of changes and existing implementations of CQL will need to
+    be updated to process filter expressions specified by this document. This document
+    therefore uses the acronym CQL2 to refer to the current version of the Common
+    Query Language."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

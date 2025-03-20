@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: 23-026
+title:
+- content: Engineering Report for OGC Disaster Pilot 2023
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Engineering Report for OGC Disaster Pilot 2023
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/DP23-summary
+  type: src
+- content: https://docs.ogc.org/per/23-026.html
+  type: html
+type: standard
+docid:
+- id: 23-026
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sara Sadri
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Disaster Pilot ’23 (DP23) Engineering Report summarizes technical
+    work done in the Pilot to increase drought and wildfires awareness among various
+    disaster management stakeholders. Pilot participants implemented components of
+    a data flow ecosystem to leverage analysis-ready earth observations and other
+    datasets (ARD) and produce decision-ready indicators (DRI) according to collaboratively
+    developed workflow recipes. DP23 focused on the hazards of drought, wildfires,
+    and floods, the interactions and complications among them, as well as climate
+    change scenario effects on hydropower production, in regions of Canada, United
+    States, and Italy. The Pilot also prototyped providing information to field practitioners
+    in secure package formats and leveraging linked data and structured web page information
+    to optimize public web searches for disaster information.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

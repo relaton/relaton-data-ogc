@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-072r5
 title:
 - content: CityJSON Community Standard 2.0
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/CS/covjson/2.0
   type: src
 - content: https://docs.ogc.org/cs/20-072r5/20-072r5.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-072r5
@@ -67,9 +67,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

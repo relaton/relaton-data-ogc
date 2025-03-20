@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-006
 title:
 - content: OGC CDB Version 1.2 Release Notes
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/NOTE/CDB-notes/1.2
   type: src
 - content: https://docs.ogc.org/note/20-006.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-006
@@ -54,9 +54,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

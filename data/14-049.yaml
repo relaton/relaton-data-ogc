@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-049
 title:
 - content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/testbed10/cci-ontology
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=58974
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-049
@@ -69,9 +69,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

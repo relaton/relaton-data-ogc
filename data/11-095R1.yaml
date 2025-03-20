@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 11-095r1
 title:
 - content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/ows8-wcs2.0-eo-ap-compliance
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=47826
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 11-095r1
@@ -64,9 +64,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

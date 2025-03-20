@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 17-084r1
 title:
 - content: EO Collection GeoJSON(-LD) Encoding
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/BP/eoc-geojson/1.0
   type: src
 - content: https://docs.ogc.org/bp/17-084r1/17-084r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 17-084r1
@@ -94,10 +94,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

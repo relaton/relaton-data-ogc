@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-097
 title:
 - content: OGC Environmental Linked Features Interoperability Experiment Engineering
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/elfie-er
   type: src
 - content: https://docs.ogc.org/per/18-097.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 18-097
@@ -105,9 +105,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

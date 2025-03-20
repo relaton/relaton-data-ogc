@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: 24-010
+title:
+- content: Releasable Basemap Tiles in GeoPackage Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Releasable Basemap Tiles in GeoPackage Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/ER/RBT-GPKG-Sprint/1.0
+  type: src
+- content: https://docs.ogc.org/per/24-010.html
+  type: html
+type: standard
+docid:
+- id: 24-010
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jérôme Jacovella-St-Louis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Engineering Report describes an extension for storing Releasable Basemap
+    Tiles (RBT) in GeoPackage developed during an OGC Code Sprint initiative sponsored
+    by the US Army Geospatial Center (AGC) which took place in March 2024. During
+    this initiative, participants Ecere Corporation, Compusult Limited and TechMaven
+    Geospatial, assembled into this single extension document draft extensions developed
+    in previous OGC initiatives for storing vector tiles, semantic annotations and
+    portrayal styles in GeoPackages. Minor updates and clarifications to the requirements
+    of these draft extensions were made based on additional experimentation performed
+    during the sprint. Additional requirements and recommendations were also introduced
+    for this extension, including requirements specific to RBT content, a recommendation
+    to include fonts used by styles, requirements to support compressed vector tiles,
+    as well as requirements further restricting how to store vector tiles in the context
+    of this extension to improve interoperability.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

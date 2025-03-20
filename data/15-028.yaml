@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-028
 title:
 - content: OGC® Testbed 11 Data Broker Specifications Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/t11-data-broker-aviation
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=63281
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 15-028
@@ -61,9 +61,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

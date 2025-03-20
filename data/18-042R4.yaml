@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-042r4
 title:
 - content: OGC Name Type Specification
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/POL-NTS/Sensor/1.0
   type: src
 - content: https://docs.ogc.org/pol/18-042r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 18-042r4
@@ -71,9 +71,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

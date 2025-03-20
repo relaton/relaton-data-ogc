@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 10-004r3
 title:
 - content: Topic 20
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/as/om/2.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=41579
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 10-004r3
@@ -72,9 +72,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: abstract-specification-topic
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: abstract-specification-topic
+  editorialgroup:
+    committee: technical

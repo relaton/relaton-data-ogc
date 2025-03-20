@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-113r6
 title:
 - content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/CDB-core/1.2.0
   type: src
 - content: https://docs.ogc.org/is/15-113r6/15-113r6.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 15-113r6
@@ -65,10 +65,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

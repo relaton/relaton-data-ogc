@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-106r2
 title:
 - content: 'OGC InfraGML 1.0: Part 6 – LandInfra Survey'
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/standard/infragml/part6/1.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=75123
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 16-106r2
@@ -69,10 +69,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

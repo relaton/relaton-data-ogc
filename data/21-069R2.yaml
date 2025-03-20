@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 21-069r2
 title:
 - content: OGC CoverageJSON Community Standard
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/CS/covjson/1.0
   type: src
 - content: https://docs.ogc.org/cs/21-069r2/21-069r2.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 21-069r2
@@ -100,9 +100,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

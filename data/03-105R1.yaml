@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 03-105r1
 title:
 - content: OpenGIS Geography Markup Language (GML) Encoding Specification
@@ -17,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=4700
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 03-105r1
@@ -81,10 +79,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

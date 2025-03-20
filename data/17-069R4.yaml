@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 17-069r4
 title:
 - content: OGC API
@@ -34,7 +34,7 @@ link:
 - content: http://www.opengis.net/doc/IS/ogcapi-features-1/1.0.1
   type: src
 - content: https://docs.ogc.org/is/17-069r4/17-069r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 17-069r4
@@ -88,10 +88,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

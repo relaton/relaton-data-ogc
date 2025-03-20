@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-096
 title:
 - content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/DP/mf-app
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=64623
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 15-096
@@ -76,9 +76,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

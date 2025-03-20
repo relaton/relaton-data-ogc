@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: 24-071
+title:
+- content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in
+    Wildland Fire Management Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in
+    Wildland Fire Management Engineering Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://zenodo.org/records/12721058
+  type: src
+- content: https://portal.ogc.org/files/?artifact_id=110241
+  type: pdf
+type: standard
+docid:
+- id: 24-071
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matt Tricomi
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Kevin Hope
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "As part of OGC Disasters and Climate Resilience Pilot IV (D123 — AI Advances
+    of SDIs Report Section), this D-123 Generative AI in Wildland Fire (WF) Management
+    Engineering Report \r\nfocus was to assess the domain adaptation needed for Generative
+    AI to support advancements in the wildland fire community as informed by user
+    needs assessments as well as technical assessments of potential advances and efficiencies.\r\nThe
+    Wildland Fire community leverages data and advanced tools to enhance planning
+    and \r\noperational decision-making, aiming to supplement rather than replace
+    experiential knowledge \r\nand anecdotal evidence. GenAI, while early in its technical
+    evolution, with a human-in-the-loop approach, offers transformative potential
+    by enabling scalability in data processing beyond human capabilities.\r\nExploring
+    GenAI further, particularly in scenarios where significant efficiency gains are
+    feasible, \r\nis imperative. Integrating GenAI into wildfire management necessitates
+    a comprehensive strategy encompassing data, process, technical, and ethical considerations.
+    This report explores the needed input, tools, challenges, and recommendations
+    for next steps to implementing GenAI to support the Wildland Fire Management lifecycle."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-047r3
 title:
 - content: Testbed-11 NIEM-IC Feature Processing API using OGC Web Services
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/tb-11-geo4niem-wfs-api
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=65418
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 15-047r3
@@ -79,9 +79,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: 24-057
+title:
+- content: 'Enabling information continuity across BIM-GIS domains: A bSI and OGC
+    strategic roadmap'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Enabling information continuity across BIM-GIS domains: A bSI and OGC
+    strategic roadmap'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/tp/enable-bim-gis
+  type: src
+- content: https://docs.ogc.org/wp/24-057.pdf
+  type: pdf
+type: standard
+docid:
+- id: 24-057
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jagannath Mallela
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Abhishek Bhargava
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This strategic roadmap is a work product of a joint working group of buildingSMART
+    International (bSI) and the Open Geospatial Consortium (OGC). It is the latest
+    attempt in a decade-long effort by these organizations to bridge the gap between
+    building information modeling (BIM) and geographic information systems (GIS) to
+    leverage open data standards and foster continuity of information across any business
+    domain (e.g., environment, transportation, infrastructure, buildings) where both
+    BIM and GIS data are needed for informed decision-making. The roadmap seeks to
+    tap into the membership, activities, and reach of both organizations while at
+    the same time aligning with other similar efforts within the larger industry to
+    enhance infrastructure lifecycle management and support sustainable development. '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

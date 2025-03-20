@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-004r3
 title:
 - content: 'Volume 5: OGC CDB Radar Cross Section (RCS) Models'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/BP/cdb-radar/1.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=72716
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 16-004r3
@@ -61,10 +61,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 21-055
 title:
 - content: July 2021 OGC API Code Sprint Summary Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/202107APISprintER
   type: src
 - content: https://docs.ogc.org/per/21-055.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 21-055
@@ -65,9 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

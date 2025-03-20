@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-092
 title:
 - content: CDB X Conceptual Model with Prototyping Examples and Recommendations
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/CDB-X-Study
   type: src
 - content: https://docs.ogc.org/dp/20-092.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-092
@@ -68,9 +68,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

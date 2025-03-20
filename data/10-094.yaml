@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 10-094
 title:
 - content: 'OWS-7: Summary of the  OGC Web Services, Phase 7 (OWS-7) Interoperability
@@ -19,10 +19,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=40840
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 10-094
@@ -57,9 +55,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-074r1
 title:
 - content: Spatial Data on the Web Use Cases & Requirements
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/sdwwg-usecases/1
   type: src
 - content: https://docs.ogc.org/dp/15-074r1/15-074r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 15-074r1
@@ -63,9 +63,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

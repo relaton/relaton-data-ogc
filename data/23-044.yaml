@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: 23-044
+title:
+- content: OGC Testbed 19 High Performance Geospatial Computing Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed 19 High Performance Geospatial Computing Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/T19-D081
+  type: src
+- content: https://docs.ogc.org/per/23-044.html
+  type: html
+type: standard
+docid:
+- id: 23-044
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eugene Yu
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Liping Di
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Large-scale geospatial analytical computation is critically needed for
+    tackling a wide range of sustainability problems, such as climate change, disaster
+    management, and food and water security. However, such computation often requires
+    high-performance computing (HPC) resources that are not easily accessible or usable
+    by geospatial researchers and practitioners from various domains. To address this
+    challenge, there is a need for developing and standardizing tools and interfaces
+    that can bridge the gap between user frontend and HPC backends and enable effective
+    and efficient use of High-Performance Geospatial Computing (HPGC) resources for
+    geospatial analytics.\r\n\r\nThis OGC Testbed 19 Engineering Report (ER) presents
+    the results of a testbed task that:\r\n\r\n* evaluated previous and current work
+    in the application of HPC for geospatial analytics, and\r\n* developed draft standards
+    for HPGC resource definitions and processing interfaces.\r\n\r\nThis ER provides
+    an overview of the Testbed 19 motivation, objectives, scope, and methodology,
+    as well as a summary of the main findings, recommendations, and future work directions.\r\n\r\nCyberGIS-Compute
+    is reviewed and used as a reference to develop the HPGC API. “CyberGIS-Compute
+    is an open-sourced geospatial middleware framework that provides integrated access
+    to high-performance computing (HPC) resources through a Python-based SDK and core
+    middleware services.”<<CyberGIS_definition>>  The OGC API - Processes<<api_processes>>
+    is adopted as the base API for standardizing and developing the HPGC API. A Python
+    client library is developed to demonstrate the process of client generation by
+    leveraging the OpenAPI client stub/model automatic generation capability<<openapi_generator>>.
+    Typical use cases and scenarios are demonstrated and scripted in Jupyter Notebooks."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

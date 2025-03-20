@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-070r4
 title:
 - content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/BP/shapefile-guidance/1.2
   type: src
 - content: https://docs.ogc.org/bp/16-070r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-070r4
@@ -59,10 +59,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

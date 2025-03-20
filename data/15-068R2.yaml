@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-068r2
 title:
 - content: OGC® Testbed 11 GeoPackaging Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/tb11-geopackaging
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=64189
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 15-068r2
@@ -64,9 +64,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

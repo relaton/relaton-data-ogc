@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-022
 title:
 - content: 'OGC® Testbed 11 Engineering Report: Implementing Common Security Across
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/t11-common-security
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=63312
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 15-022
@@ -57,9 +57,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

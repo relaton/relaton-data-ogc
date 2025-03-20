@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-051
 title:
 - content: Testbed-12 Javascript-JSON-JSON-LD Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/t12-A005-2
   type: src
 - content: https://docs.ogc.org/per/16-051.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-051
@@ -71,9 +71,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

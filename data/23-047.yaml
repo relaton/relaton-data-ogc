@@ -1,0 +1,97 @@
+---
+schema-version: v1.2.9
+id: 23-047
+title:
+- content: OGC Testbed-19 GeoDataCubes Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed-19 GeoDataCubes Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/T19-D011
+  type: src
+- content: https://docs.ogc.org/per/23-047.html
+  type: html
+type: standard
+docid:
+- id: 23-047
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-07-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alexander Jacob
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-07-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "OGC Testbed-19 has continued and furthered an ongoing discussion about
+    how to interact with GeoDataCubes (GDC) in the most interoperable way (see Chapter
+    1 for more Introduction). Testbed 19 participants produced a draft OGC GDC API
+    standard that incorporates the most relevant developments in the field in and
+    outside of OGC. This work advanced the common understanding of available solutions
+    while discovering to a much better degree the advantages and drawbacks of current
+    solutions. Testbed 19 participants produced prototypes of five back-end implementations
+    and six client implementations as well as an automated test suite, which are described
+    in full detail in Chapter 4. Many of the researched solutions are also available
+    as open source and hence offer a perfect starting point for further GDC activities.\r\n\r\nThe
+    main technologies that were evaluated in Testbed 19 included the OGC API Standards
+    suite1, the openEO API2 and the Spatiotemporal Asset Catalog3 (STAC) specification.
+    Based on cross walk comparisons (see Chapter 2), a unified draft GDC API was developed
+    integrating as much as possible the existing solutions. openEO is largely compliant
+    with the OGC API- Common Standard. As such, the openEO API specification provided
+    the foundation for defining a draft OGC GDC API draft standard. During the Testbed
+    19 period, more building blocks from the OCG API were incorporated into the draft
+    GDC API document. These building blocks included parts of OGC API — Common, OGC
+    API — Coverages, and OGC API – Processes. There is also future potential for visualization
+    services through maps or tiles or even including components or elements of the
+    OGC Web Services suite of Standards, such as WMS, WMTS, WCS, etc.\r\n\r\nThe current
+    version of the draft GDC API, described in D71 of T19, supports different scenarios
+    enabling implementations of the draft standard to offer only minimal support for
+    data access with minimal manipulation of the data. Minimal manipulation is in
+    terms of subsetting and reprojecting or including more advanced processing capabilities
+    by incorporating building blocks from the openEO specification or from the OGC
+    API — Processes – Part 1: Core Standard. Chapter 3 gives an overview of the draft
+    standard.\r\n\r\nThe interaction capabilities between the different servers and
+    clients developed are described in Chapter 5 and first impressions on usability
+    in Chapter 6.\r\n\r\nFuture work could include the ability to link two processing
+    options into one “integrated” option that supports either submitting openEO process
+    graphs to a OGC API – Processes endpoint (extending and working on Processes — Part
+    3), or supports integration of an OGC API – Processes process in the process graph
+    of openEO through an extended concept of user defined functions in openEO. Further
+    discussion is also needed on the pros and cons of including authentication in
+    the draft standard. More details about lessons learned and suggestions can be
+    found in Chapters 7 and 8 of this ER."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

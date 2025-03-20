@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 23-011r1
 title:
 - content: 'Testbed-18: 3D+ Data Space Object Engineering Report'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/T18-D024
   type: src
 - content: https://docs.ogc.org/per/23-011r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 23-011r1
@@ -69,9 +69,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: 23-030
+title:
+- content: 'OGC Disaster Pilot: Decision Ready Operational Capacity Guide'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Disaster Pilot: Decision Ready Operational Capacity Guide'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/DP23-operational-capacity-guide
+  type: src
+- content: https://docs.ogc.org/per/23-030.html
+  type: html
+type: standard
+docid:
+- id: 23-030
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andrew Lavender
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dr Samantha Lavender
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: he Operational Capacity Guide aims to provide disaster and emergency management
+    communities with a set of incremental strategic actions to help them develop and
+    enhance the infrastructure, training, support, and operational processes needed
+    to deliver an effective and efficient geospatial response to disaster events.
+    This guide was produced as part of the Open Geospatial Consortium’s Disaster Pilot
+    2023 initiative.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

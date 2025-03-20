@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-050r3
 title:
 - content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/tb11-niem-ic-data
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=65421
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 15-050r3
@@ -77,9 +77,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-111r6
 title:
 - content: 'OGC® WaterML 2: Part 3'
@@ -35,7 +35,7 @@ link:
 - content: http://www.opengis.net/doc/IS/hy-features/1.0.0
   type: src
 - content: https://docs.ogc.org/is/14-111r6/14-111r6.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 14-111r6
@@ -93,10 +93,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

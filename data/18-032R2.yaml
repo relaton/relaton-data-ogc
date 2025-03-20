@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-032r2
 title:
 - content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/t14-D022
   type: src
 - content: https://docs.ogc.org/per/18-032r2.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 18-032r2
@@ -61,9 +61,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

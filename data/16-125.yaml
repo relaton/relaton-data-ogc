@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-125
 title:
 - content: Publishing and Using Earth Observation Data with the RDF Data Cube and
@@ -22,7 +22,7 @@ link:
 - content: https://www.w3.org/TR/eo-qb/
   type: src
 - content: https://www.w3.org/TR/eo-qb/
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-125
@@ -79,9 +79,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-005r2
 title:
 - content: Defence Profile of OGC Web Feature Service 2.0
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/BP/DGIWG-WFS/2.0
   type: src
 - content: https://portal.ogc.org/files/94152
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 15-005r2
@@ -58,10 +58,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

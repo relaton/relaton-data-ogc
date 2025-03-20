@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: 23-040
+title:
+- content: OGC Guidance for the Development of Model-Driven Standards
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Guidance for the Development of Model-Driven Standards
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/dp/guidance_model-driven_standards
+  type: src
+- content: https://docs.ogc.org/dp/23-040.html
+  type: html
+type: standard
+docid:
+- id: 23-040
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-07-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ronald Tse
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Carsten Roensdorf
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Allan Jamieson
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Nick Nicholas
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jeffrey Lau
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-07-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This OGC Discussion Paper provides guidelines on how to create a specification
+    of a conceptual model through use of a Unified Modeling Language (UML) editor
+    and an AsciiDoc compiler. This document references Sparx Systems Enterprise Architect
+    and the Metanorma AsciiDoc toolchain in examples that implement the OGC model-driven
+    standards process, described in OGC 21-035r1.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

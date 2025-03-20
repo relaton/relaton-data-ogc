@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-066r1
 title:
 - content: Release Notes for OGC GeoPackage Encoding Standard v1.3.0
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/NOTE/18-066r1
   type: src
 - content: https://docs.ogc.org/is/12-128r17/18-066r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 18-066r1
@@ -62,9 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

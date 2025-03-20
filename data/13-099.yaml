@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 13-099
 title:
 - content: OGC GeoXACML and XACML  Policy Administration Web Service (PAWS)
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/dp/geoxacml-xacml-paws
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=55230
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 13-099
@@ -74,9 +74,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

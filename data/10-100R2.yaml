@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 10-100r2
 title:
 - content: Geography Markup Language (GML) simple features profile
@@ -17,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=39853
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 10-100r2
@@ -73,10 +71,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: profile
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: profile
+  editorialgroup:
+    committee: technical

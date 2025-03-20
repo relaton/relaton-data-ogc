@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-009r1
 title:
 - content: 'OGC® Testbed-10 Rules for JSON and GeoJSON Adoption: Focus on OWS-Context'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/owc-json
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=57477
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-009r1
@@ -59,9 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

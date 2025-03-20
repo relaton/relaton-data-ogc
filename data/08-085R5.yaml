@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '08-085r5'
 title:
 - content: 'OGC GML in JPEG 2000 (GMLJP2) Encoding StandardPart 1: Core'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/GMLJP2/2.0.1
   type: src
 - content: https://docs.ogc.org/is/08-085r5/08-085r5.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: '08-085r5'
@@ -72,10 +72,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

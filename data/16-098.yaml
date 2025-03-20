@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 16-098
 title:
 - content: Future City Pilot 1 Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/FCP1-ER
   type: src
 - content: https://docs.ogc.org/per/16-098.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 16-098
@@ -86,9 +86,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '09-046r5'
 title:
 - content: 'OGC Naming Authority – Policies and Procedures '
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/POL/OGC-NA/1.2
   type: src
 - content: https://docs.ogc.org/pol/09-046r5.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: '09-046r5'
@@ -62,9 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  editorialgroup:
+    committee: technical

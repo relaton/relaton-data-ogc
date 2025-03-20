@@ -1,0 +1,129 @@
+---
+schema-version: v1.2.9
+id: 23-027
+title:
+- content: OGC Federated Marine Spatial Data Infrastructure Pilot 2023
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Connecting Land and Sea for Global Awareness
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Federated Marine Spatial Data Infrastructure Pilot 2023 - Connecting
+    Land and Sea for Global Awareness
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/FMSDI2023-ER
+  type: src
+- content: https://docs.ogc.org/per/23-027.html
+  type: html
+type: standard
+docid:
+- id: 23-027
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Glenn Laughlin
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Rising sea levels together with increasing storm surges are amongst the
+    most challenging issues for coastal communities in the context of global warming.
+    The retreating ice sheets of the Circumpolar Arctic are a key contributor to sea
+    level rise with consequences felt around the world.\r\n\r\nThe Federated Marine
+    Spatial Data Infrastructure (FMSDI) initiative is a key component of OGC and the
+    Marine Domain Working Group. The program is designed to engage with stakeholders
+    from the marine dataspace to identify opportunities to assist, improve, and scale
+    out core business processes complemented by the OGC suite of standards and best
+    practices. The FMSDI-2023 pilot represents the fourth phase of the program with
+    a focus on the interface between land and sea. A primary goal of this pilot is
+    to advance the FMSDI concept to increasing threats posed by climate change.\r\n\r\nThe
+    project is divided into three threads, each with application to distinct geographies.\r\n\r\nThread
+    1: Digital Twin of Land and Sea Interfaces — Singapore\r\nWith approximately 30%
+    of Singapore’s land mass being less than 5m above sea level, the seamless integration
+    of land and marine data is integral to Singapore’s focus on coastal protection
+    and climate resilience. The management of land and water is separated organizationally
+    between the Singapore Land Authority (SLA) and the Maritime & Port Authority (MPA),
+    respectively. Each agency is responsible for data assets specific to their jurisdiction
+    presenting a challenge for cross-organizational concerns. This theme addresses
+    the geospatial integration requirements through the development of a multi-dimensional
+    Digital Twin of the Singapore coastline.\r\n\r\nThread 2: Digital Arctic Connecting
+    Land and Sea — Canada\r\nThis thread addresses the data integration issues in
+    the context of Digital Twins for the Canadian Arctic. With the loss of sea ice,
+    continuing ocean warming, stronger winds and currents, and accelerated shoreline
+    erosion affecting Arctic communities, efficient data usage and analysis is of
+    the utmost importance for Canada.\r\nFigure 1\r\n\r\nThread 3: Integrating Land
+    & Sea for Various Use Cases — Caribbean\r\nThis thread investigates how data developed
+    primarily for navigation at sea can be used to better understand the opportunities
+    in the Caribbean to support local capacity building and the application of marine
+    data in expanded sea-land contexts.\r\n\r\nApproach\r\n\r\nThe FMSDI 2023 pilot
+    is managed through the OGC Collaborative Solutions and Innovation (COSI) Program.
+    Each thread is a distinct project with a set of participants tackling specific
+    use cases and scenarios important to the respective project sponsor.\r\n\r\nWeekly
+    project meetings are scheduled to encourage collaboration between the participants
+    and sponsors and provide checkpoints to ensure the project scope meets the sponsor’s
+    expectations.\r\n\r\nThe FMSDI 2023 pilot also features a series of persistent
+    demonstrators as one of its outputs. These demonstrators are workflows and applications
+    that stakeholders can access for outreach, testing, and experimentation purposes.
+    The demonstrators will be available even after the project is completed and are
+    therefore referenced as persistent, but will only be available until December
+    2024. These demonstrators showcase how geospatial data can be used in an operational
+    context or highlight the gaps in the resources available online, including data
+    sources, metadata, access processes, and standards. As each participant has a
+    unique solution platform, each has taken different approaches, all of which are
+    available for review by stakeholders. Security concerns, such as authentication
+    and authorization, are unique to each participant and have been communicated to
+    stakeholders and participant contacts. For further details and access to the demonstrators,
+    please refer to the link provided.\r\n\r\nCommon across the three threads is the
+    application of the OGC FAIR principles — Findable, Accessible, Interoperable,
+    and Reusable. Underpinning the use of the FAIR principles is the role of the core
+    OGC Standards and Best Practices. Previous work products related to FMSDI form
+    the core information model while the OGC standards, enhanced through the alignment
+    and support of industry standards such as the IHO S-100 standard, address many
+    of the requirements central to each thread.\r\n\r\nAttention is drawn to the possibility
+    that some of the elements of this document may be the subject of patent rights.
+    The Open Geospatial Consortium shall not be held responsible for identifying any
+    or all such patent rights.\r\n\r\nRecipients of this document are requested to
+    submit, with their comments, notification of any relevant patent claims or other
+    intellectual property rights of which the recipients may be aware that might be
+    infringed by any implementation of the standard set forth in this document, and
+    to provide supporting documentation."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

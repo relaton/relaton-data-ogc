@@ -1,4 +1,80 @@
 ---
+- :id: 24-007r1
+  :file: data/24-007R1.yaml
+- :id: 24-006r1
+  :file: data/24-006R1.yaml
+- :id: 24-057
+  :file: data/24-057.yaml
+- :id: 24-075
+  :file: data/24-075.yaml
+- :id: 24-073
+  :file: data/24-073.yaml
+- :id: 24-072
+  :file: data/24-072.yaml
+- :id: 24-074
+  :file: data/24-074.yaml
+- :id: 24-071
+  :file: data/24-071.yaml
+- :id: 24-010
+  :file: data/24-010.yaml
+- :id: 23-026
+  :file: data/23-026.yaml
+- :id: 23-030
+  :file: data/23-030.yaml
+- :id: 22-003r3
+  :file: data/22-003R3.yaml
+- :id: 23-057r1
+  :file: data/23-057R1.yaml
+- :id: 19-092
+  :file: data/19-092.yaml
+- :id: 07-011r2
+  :file: data/07-011R2.yaml
+- :id: 20-058
+  :file: data/20-058.yaml
+- :id: 21-065r2
+  :file: data/21-065R2.yaml
+- :id: 19-079r2
+  :file: data/19-079R2.yaml
+- :id: 23-048
+  :file: data/23-048.yaml
+- :id: 23-047
+  :file: data/23-047.yaml
+- :id: 24-008
+  :file: data/24-008.yaml
+- :id: 23-043
+  :file: data/23-043.yaml
+- :id: 23-024
+  :file: data/23-024.yaml
+- :id: 23-042
+  :file: data/23-042.yaml
+- :id: 21-060r2
+  :file: data/21-060R2.yaml
+- :id: 24-025
+  :file: data/24-025.yaml
+- :id: 23-040
+  :file: data/23-040.yaml
+- :id: 05-020r29
+  :file: data/05-020R29.yaml
+- :id: 22-051r7
+  :file: data/22-051R7.yaml
+- :id: 21-074r2
+  :file: data/21-074R2.yaml
+- :id: 22-010r4
+  :file: data/22-010R4.yaml
+- :id: 21-075r2
+  :file: data/21-075R2.yaml
+- :id: 23-044
+  :file: data/23-044.yaml
+- :id: 23-050
+  :file: data/23-050.yaml
+- :id: 23-033
+  :file: data/23-033.yaml
+- :id: 23-027
+  :file: data/23-027.yaml
+- :id: 23-059
+  :file: data/23-059.yaml
+- :id: 23-028
+  :file: data/23-028.yaml
 - :id: 23-018r1
   :file: data/23-018R1.yaml
 - :id: 12-128r19
@@ -77,6 +153,8 @@
   :file: data/22-020R1.yaml
 - :id: 22-017
   :file: data/22-017.yaml
+- :id: 22-036r1
+  :file: data/22-036R1.yaml
 - :id: 22-038r2
   :file: data/22-038R2.yaml
 - :id: 22-000
@@ -93,6 +171,8 @@
   :file: data/22-025R4.yaml
 - :id: 22-032r1
   :file: data/22-032R1.yaml
+- :id: 17-014r9
+  :file: data/17-014R9.yaml
 - :id: 21-064
   :file: data/21-064.yaml
 - :id: 21-054
@@ -163,6 +243,8 @@
   :file: data/21-035R1.yaml
 - :id: 21-017r1
   :file: data/21-017R1.yaml
+- :id: 21-018
+  :file: data/21-018.yaml
 - :id: 21-031
   :file: data/21-031.yaml
 - :id: 21-025
@@ -401,8 +483,8 @@
   :file: data/19-045R3.yaml
 - :id: 17-061
   :file: data/17-061.yaml
-- :id: 13-026r8
-  :file: data/13-026R8.yaml
+- :id: 13-026r9
+  :file: data/13-026R9.yaml
 - :id: 19-075r1
   :file: data/19-075R1.yaml
 - :id: 19-077
@@ -915,6 +997,8 @@
   :file: data/16-012R1.yaml
 - :id: 15-111r1
   :file: data/15-111R1.yaml
+- :id: 13-026r8
+  :file: data/13-026R8.yaml
 - :id: 13-057r1
   :file: data/13-057R1.yaml
 - :id: 14-110r2
@@ -975,14 +1059,8 @@
   :file: data/09-044R3.yaml
 - :id: 12-026
   :file: data/12-026.yaml
-- :id: 07-165r1
-  :file: data/07-165R1.yaml
 - :id: 11-159
   :file: data/11-159.yaml
-- :id: 14-115
-  :file: data/14-115.yaml
-- :id: 14-095
-  :file: data/14-095.yaml
 - :id: 15-002r5
   :file: data/15-002R5.yaml
 - :id: 15-018r2
@@ -991,6 +1069,8 @@
   :file: data/15-077R1.yaml
 - :id: 15-005r1
   :file: data/15-005R1.yaml
+- :id: '09-102r3a'
+  :file: data/09-102R3A.yaml
 - :id: 15-011r2
   :file: data/15-011R2.yaml
 - :id: 15-010r4
@@ -1069,6 +1149,8 @@
   :file: data/15-004.yaml
 - :id: 15-074
   :file: data/15-074.yaml
+- :id: 12-128r12a
+  :file: data/12-128R12A.yaml
 - :id: 12-063r5
   :file: data/12-063R5.yaml
 - :id: '09-026r2'
@@ -1089,6 +1171,10 @@
   :file: data/14-079R1.yaml
 - :id: 14-106
   :file: data/14-106.yaml
+- :id: 14-095
+  :file: data/14-095.yaml
+- :id: 14-115
+  :file: data/14-115.yaml
 - :id: 14-114r1
   :file: data/14-114R1.yaml
 - :id: 13-039
@@ -1257,6 +1343,8 @@
   :file: data/12-095.yaml
 - :id: 03-105r1
   :file: data/03-105R1.yaml
+- :id: 07-165r1
+  :file: data/07-165R1.yaml
 - :id: 13-011
   :file: data/13-011.yaml
 - :id: 12-097
@@ -2019,8 +2107,8 @@
   :file: data/05-007R2.yaml
 - :id: 05-036
   :file: data/05-036.yaml
-- :id: 01-009
-  :file: data/01-009.yaml
+- :id: 01-009a
+  :file: data/01-009A.yaml
 - :id: 02-058
   :file: data/02-058.yaml
 - :id: 03-064r10
@@ -2197,6 +2285,8 @@
   :file: data/02-069.yaml
 - :id: 99-051
   :file: data/99-051.yaml
+- :id: 01-009
+  :file: data/01-009.yaml
 - :id: 01-068r3
   :file: data/01-068R3.yaml
 - :id: 99-049

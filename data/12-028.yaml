@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 12-028
 title:
 - content: Guidance and Profile of GML for use with Aviation Data
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/gml-aviation-guidance
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=47859
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 12-028
@@ -60,9 +60,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

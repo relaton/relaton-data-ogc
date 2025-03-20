@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 19-003
 title:
 - content: Earth System Grid Federation (ESGF) Compute Challenge
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/ESGF-er
   type: src
 - content: https://docs.ogc.org/per/19-003.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 19-003
@@ -72,9 +72,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

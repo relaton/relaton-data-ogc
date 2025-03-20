@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.9
+id: 23-043
+title:
+- content: OGC Testbed 19 Analysis Ready Data Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed 19 Analysis Ready Data Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/T19-D051
+  type: src
+- content: https://docs.ogc.org/per/23-043.html
+  type: html
+type: standard
+docid:
+- id: 23-043
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-07-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Liping Di
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: David J. Meyer,r Eugene Yu
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2024-07-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Implementations of the Analysis Ready Data (ARD) concept are consistent
+    with the FAIR principles of finding, accessing, interoperating, and reusing physical,
+    social, and applied science data with ease. The goal of this Testbed 19 OGC Engineering
+    Report (ER) is to advance the provision of geospatial information by creating,
+    developing, identifying, and implementing ARD definitions and capabilities. Specifically,
+    this ER aims to increase the ease of use of ARD through improved backend standardization
+    and varied application scenarios. Additionally, this work seeks to inform ARD
+    implementers and users about standards and workflows to enhance the capabilities
+    and operations of ARD. Ultimately, the goal of the work described in this ER is
+    to maximize ARD capabilities and operations and contribute to the enhancement
+    of geospatial information provision.\r\n\r\nFour distinct scenarios – gentrification,
+    synthetic data, coverage analysis, and coastal studies – are explored to reveal
+    both the strengths and limitations of the current ARD framework. The gentrification
+    scenario, which utilizes existing Committee on Earth Observation Satellites (CEOS)
+    ARD data, highlights the need to expand ARD’s scope beyond Earth Observation (EO)
+    data. The integration of diverse data types, such as building footprints and socio-economic
+    statistics, is crucial for comprehensive analysis. The synthetic data scenario
+    explores the potential of simulated EO imagery to enhance data availability and
+    diversity for machine learning applications. However, challenges in standardization
+    and quality assessment require further investigation. The analysis of coverages
+    for ARD reveals the importance of clear pixel interpretation (“pixel-is-point”
+    vs. “pixel-is-area”) and standardized units of measure for seamless integration
+    and analysis. Additionally, enriching the metadata structure with defined extensions
+    is crucial for efficient data discovery and understanding. The coastal study scenario,
+    where in-situ data needs to be elevated to ARD, emphasizes the need for flexible
+    levels of readiness. Different analytical tasks may require distinct data properties,
+    necessitating adaptable standards that cater to temporal emphasis, spatial alignment,
+    and non-GIS applications like machine learning.\r\n\r\nThis work identified several
+    key areas for improvement:\r\n\r\nencompassing non-EO data such as building footprints,
+    socio-economic statistics, synthetic data, and in-situ measurements;\r\nestablishing
+    guidelines and quality controls for incorporating diverse data types;\r\ntailoring
+    data specifications to accommodate different analytical needs, including temporal
+    emphasis and non-GIS applications; and\r\nimplementing structured metadata with
+    defined extensions for enhanced data discovery, understanding, and provenance
+    tracking.\r\nIn addition to the above recommendations, the interoperability and
+    support of ARD in wider communities warrants further exploration and implementation.
+    Additionally, areas such as uniform evaluation and compliance certification could
+    be further investigated to ensure consistency in data readiness across various
+    hierarchies and application domains."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-050
 title:
 - content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/IS/cdb-geopackage/1.2.0
   type: src
 - content: https://docs.ogc.org/is/20-050/20-050.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-050
@@ -59,10 +59,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

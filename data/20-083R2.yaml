@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-083r2
 title:
 - content: 'Building Energy Mapping and Analytics: Concept Development Study Report'
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/BEMA-CDS
   type: src
 - content: https://docs.ogc.org/per/20-083r2.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-083r2
@@ -59,9 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

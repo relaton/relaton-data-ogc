@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-004r1
 title:
 - content: The Role of Geospatial in Edge-Fog-Cloud Computing
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/whitepaper/edge-fog-cloud
   type: src
 - content: https://docs.ogc.org/wp/18-004r1/18-004r1.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 18-004r1
@@ -68,9 +68,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

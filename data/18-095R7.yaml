@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 18-095r7
 title:
 - content: Geospatial Coverages Data Cube Community Practice
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/CS/dataCubeCP
   type: src
 - content: https://portal.ogc.org/files/18-095r7
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 18-095r7
@@ -59,9 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-practice
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-practice
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 15-012r2
 title:
 - content: OGC GeoPackage Plugfest Discussion Paper
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/1.0/geopackage-plugfest
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=63285
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 15-012r2
@@ -58,9 +58,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

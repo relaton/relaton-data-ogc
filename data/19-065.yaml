@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 19-065
 title:
 - content: OGC OpenFlight Scene Description Database Specification 16.0 Community
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/CS/openflight/16.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=92038
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 19-065
@@ -64,9 +64,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 21-077
 title:
 - content: The HDF5 profile for labeled point cloud data
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/HDF5-LPC
   type: src
 - content: https://docs.ogc.org/dp/21-077.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 21-077
@@ -82,9 +82,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

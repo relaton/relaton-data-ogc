@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 12-157
 title:
 - content: OGC® OWS-9 Engineering Report
@@ -34,7 +34,7 @@ link:
 - content: http://www.opengis.net/doc/per-ows9-map-tiling
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=52757
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 12-157
@@ -72,9 +72,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

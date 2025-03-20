@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '09-026r2'
 title:
 - content: OGC Filter Encoding 2.0 Encoding Standard
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/IS/fes/2.0.3
   type: src
 - content: https://docs.ogc.org/is/09-026r2/09-026r2.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: '09-026r2'
@@ -81,10 +81,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

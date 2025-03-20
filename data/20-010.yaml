@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-010
 title:
 - content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/IS/CityGML-1/3.0.0
   type: src
 - content: https://docs.ogc.org/is/20-010/20-010.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-010
@@ -96,10 +96,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

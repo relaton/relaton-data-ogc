@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.9
+id: 24-075
+title:
+- content: 'OGC Climate and Disaster Resilience Pilot 2024: Analysis Ready Data (ARD)
+    to Decision Ready Information (DRI) Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Climate and Disaster Resilience Pilot 2024: Analysis Ready Data (ARD)
+    to Decision Ready Information (DRI) Report'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/TP/cdrp2024-D118
+  type: src
+- content: https://portal.ogc.org/files/?artifact_id=110245&version=1
+  type: pdf
+type: standard
+docid:
+- id: 24-075
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dean Hintz
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-01-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Safe Software explored key aspects and challenges related to building data
+    value chains from raw data to ARD and DRI in order to support disaster response
+    and climate resilience applications, both in this and previous OGC disaster and
+    climate pilots. As discussed in prior pilots, while ARD - Analysis Ready Data
+    - was initially developed for EO (earth observation) applications; it can also
+    be useful to apply ARD approaches to analytic model results to make these results
+    more widely accessible.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

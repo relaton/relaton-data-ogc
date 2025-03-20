@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 13-082r2
 title:
 - content: OGC® Web Map Tile Service (WMTS) Simple Profile
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/wmts-simple/1.0
   type: src
 - content: https://docs.ogc.org/is/13-082r2/13-082r2.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 13-082r2
@@ -66,10 +66,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: profile
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: profile
+  editorialgroup:
+    committee: technical

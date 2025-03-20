@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-055r2
 title:
 - content: OGC OWS Context GeoJSON Encoding Standard
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/ows-context-geojson/1.0.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=68826
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-055r2
@@ -33,7 +33,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Pedro Gonc&#807;alves
+        content: Pedro Gonçalves
   role:
   - type: author
 - person:
@@ -82,10 +82,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

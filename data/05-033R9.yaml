@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 05-033r9
 title:
 - content: GML simple features profile
@@ -17,10 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: ''
-  type: src
 - content: https://portal.ogc.org/files/?artifact_id=11266
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 05-033r9
@@ -59,9 +57,9 @@ abstract:
 docstatus:
   stage:
     value: draft
-doctype:
-  type: standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  editorialgroup:
+    committee: technical

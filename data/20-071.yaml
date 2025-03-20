@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 20-071
 title:
 - content: OGC API
@@ -34,7 +34,7 @@ link:
 - content: http://www.opengis.net/doc/UG/ogcapi-common/1.0
   type: src
 - content: https://docs.ogc.org/guides/20-071.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 20-071
@@ -73,9 +73,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: other
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

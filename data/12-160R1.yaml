@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 12-160r1
 title:
 - content: OGC® OWS 9 Data Quality and Web Mapping Engineering Report
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/per/ows9-data_quality_web_mapping
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=52884
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 12-160r1
@@ -71,9 +71,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

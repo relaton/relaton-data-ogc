@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-121r2
 title:
 - content: 'OGC® Web Query Service '
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/dp/wqs/
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=72295
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-121r2
@@ -65,9 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

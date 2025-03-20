@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 22-025r4
 title:
 - content: 3D Tiles Specification
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/cs/3D-Tiles/1.1
   type: src
 - content: https://docs.ogc.org/cs/22-025r4/22-025r4.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 22-025r4
@@ -62,9 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

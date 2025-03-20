@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: 05-020r29
+title:
+- content: Technical Committee Policies and Procedures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Technical Committee Policies and Procedures
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/pol/tcpnp/29.0
+  type: src
+- content: https://docs.ogc.org/pol/05-020r29/05-020r29.html
+  type: html
+type: standard
+docid:
+- id: 05-020r29
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2023-05-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Scott Simmons
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '29'
+revdate: '2023-05-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC provides a collaborative, consensus process for developing and
+    approving open, international Standards and supporting content for the geospatial
+    domain, collectively known as OGC Products. To guide the OGC Product development
+    and approval process, a member-approved Policies and Procedures document for the
+    Technical Committee (TC) is required.\r\n\r\nThis document describes the TC Policies
+    and Procedures (TC PnP). The TC has been granted authority to operate by the OGC
+    Bylaws. The TC is composed of individuals representing organizations that are
+    duly recognized members in good standing of the OGC.\r\n\r\nAs the needs and purpose
+    of the TC change, changes to these policies and procedures are approved by an
+    electronic vote of the Voting Members of the OGC TC. These policies and procedures
+    may be augmented or clarified by Policy Directives issued and approved by the
+    TC or the Executive Planning Committee (EPC). Such directives are databased and
+    hyperlinked to/from the appropriate portion of this document."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  editorialgroup:
+    committee: technical

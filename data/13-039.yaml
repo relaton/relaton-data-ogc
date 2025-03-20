@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 13-039
 title:
 - content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/BP/os-for-eo/1.0
   type: src
 - content: https://docs.ogc.org/bp/13-039/13-039.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 13-039
@@ -71,10 +71,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

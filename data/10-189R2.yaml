@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 10-189r2
 title:
 - content: Cataloguing Earth Observation Products for ebXML Registry Information Model
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/BP/cat-eo-ebxml-rim-3.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=47409
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 10-189r2
@@ -65,10 +65,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

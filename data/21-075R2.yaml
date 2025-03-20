@@ -1,0 +1,110 @@
+---
+schema-version: v1.2.9
+id: 21-075r2
+title:
+- content: 'OGC Disaster Pilot: User Readiness Guide'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Disaster Pilot: User Readiness Guide'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/DP21-user-readiness
+  type: src
+- content: https://docs.ogc.org/per/21-075r2.html
+  type: html
+type: standard
+docid:
+- id: 21-075r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-04-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andrew Lavender
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Samantha Lavender
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2024-04-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Disasters are geographic events and therefore, geospatial information,
+    tools and applications have the potential to support the management of, and response
+    to, disaster scenarios.\r\n\r\nHowever, the use of geospatial data varies significantly
+    across disaster and emergency communities. This can often make it difficult to
+    share information between different organizations, and sometimes even within the
+    same organization, involved in disaster response. This could mean that not everyone
+    involved will have the same situational awareness information.\r\n\r\nThere are
+    many reasons for why geospatial information is fully used and exploited, included
+    a lack of awareness of what geospatial options are available, lack of geospatial
+    technology and skills, lack of funding, etc. The Disaster Pilot User Guide aims
+    to address some of these issues by providing a non-technical showcase of the workflows
+    and tools developed by the Pilot participants demonstrating what opportunities
+    there are for disaster and emergency management communities to use geospatial
+    solutions in practice.\r\n\r\nFor over 20 years, the Open Geospatial Consortium
+    (OGC) has been working on the challenges of information sharing for emergency
+    and disaster planning, management, and response. In Disaster Pilot 23 (DP23) the
+    aims were to:\r\n\r\nDevelop flexible, scalable, timely and resilient information
+    data workflows to support critical disaster management decisions, enabling stakeholder
+    collaboration, and\r\nProvide applications and visualization tools to promote
+    the wider understanding of how geospatial data can support emergency and disaster
+    communities.\r\nAs part of DP23, a trilogy of Guides were developed to improve
+    knowledge and understanding of how geospatial data and tools and could support
+    disaster and emergency communities. Alongside the User Guide is a Provider Guide
+    giving all the detail technical details behind the work, and a companion Operational
+    Capacity Guide describing the steps needed to develop geospatial readiness.\r\n\r\nThe
+    User Guide contains a summary of the work undertaken in DP23, and Disaster Pilot
+    21 (DP21), where participants have worked on disaster scenarios relating to:\r\n\r\nDroughts\r\nWildland
+    Fires\r\nFlooding\r\nLandslides\r\nHealth & Earth Observation Data for Pandemic
+    Response\r\nCase Studies have focused on the hazards of drought in Manitoba, Canada;
+    wildland fires in western United States; flooding in the Red River basin, Canada;
+    landslides and flooding in Peru; and Pandemic response in Louisiana, United States.
+    The participants have developed various data flows, alongside tools to support
+    the collection, discovery, or visualization of data to support disaster management
+    and response.\r\n\r\nAnnex A describes the tools and applications developed within
+    the Pilots alongside the benefits these can offers. The Guide finishes with details
+    of future possibilities, and where the Disaster Pilot initiative could focus next.
+    Annexes B to E give descriptions of the data flows developed, including the aspects
+    of disaster management or response the data flow relates to; together with the
+    benefits it offers and the type of decisions it can support.\r\n\r\nThis document
+    is for first responders, emergency managers, decision-makers, and anyone interested
+    in encouraging disaster and emergency communities to realize the value of geospatial
+    data to save lives and limit damage."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

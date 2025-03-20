@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: '08-068r3'
 title:
 - content: Web Coverage Processing Service (WCPS) Language Interface Standard
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/wcps/1.1.0
   type: src
 - content: https://docs.ogc.org/is/08-068r3/08-068r3.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: '08-068r3'
@@ -58,10 +58,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

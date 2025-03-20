@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 11-038R2
 title:
 - content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/IS/netcdf-enhanced/1.0.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=50294
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 11-038R2
@@ -68,10 +68,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: implementation
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

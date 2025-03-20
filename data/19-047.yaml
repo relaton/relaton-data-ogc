@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 19-047
 title:
 - content: Proposed OGC GeoPackage Enhancements
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/proposed-gpkg-enhance
   type: src
 - content: https://docs.ogc.org/dp/19-047.html
-  type: obp
+  type: html
 type: standard
 docid:
 - id: 19-047
@@ -77,9 +77,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

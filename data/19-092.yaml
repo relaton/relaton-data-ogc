@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: 19-092
+title:
+- content: Topic 1.0
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: ISO 19107:2019 Geographic information — Spatial schema
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Topic 1.0 - ISO 19107:2019 Geographic information — Spatial schema
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://www.iso.org/standard/66175.html
+  type: html
+type: standard
+docid:
+- id: 19-092
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2019-12-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: ISO
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2019-12-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document specifies conceptual schemas for describing the spatial characteristics
+    of geographic entities, and a set of spatial operations consistent with these
+    schemas. It treats vector geometry and topology. It defines standard spatial operations
+    for use in access, query, management, processing and data exchange of geographic
+    information for spatial (geometric and topological) objects. Because of the nature
+    of geographic information, these geometric coordinate spaces will normally have
+    up to three spatial dimensions, one temporal dimension and any number of other
+    spatially dependent parameters as needed by the applications. In general, the
+    topological dimension of the spatial projections of the geometric objects will
+    be at most three.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: abstract-specification-topic
+  editorialgroup:
+    committee: technical

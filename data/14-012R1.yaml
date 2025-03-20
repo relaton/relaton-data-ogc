@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 14-012r1
 title:
 - content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation
@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/BP/rest-sps-for-eo-tasking/1.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=57203
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 14-012r1
@@ -87,10 +87,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: best-practice
-subdoctype: general
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: best-practice
+  subdoctype: general
+  editorialgroup:
+    committee: technical

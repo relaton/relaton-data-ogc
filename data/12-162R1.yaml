@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 12-162r1
 title:
 - content: OWS-9 WCS Conformance Testing Engineering Report
@@ -20,12 +20,15 @@ link:
 - content: http://www.opengis.net/doc/per/ows9_wcs_conformance_testing
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=51911
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 12-162r1
   type: OGC
   primary: true
+date:
+- type: published
+  value: '2013-06-18'
 contributor:
 - person:
     name:
@@ -46,6 +49,7 @@ contributor:
   - type: publisher
 edition:
   content: '1'
+revdate: '2013-06-18'
 language:
 - en
 script:
@@ -63,9 +67,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: engineering-report
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

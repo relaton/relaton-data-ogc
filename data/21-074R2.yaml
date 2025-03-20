@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.9
+id: 21-074r2
+title:
+- content: 'OGC Disaster Pilot: Provider Readiness Guide'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'OGC Disaster Pilot: Provider Readiness Guide'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/DP21-provider-readiness
+  type: src
+- content: https://docs.ogc.org/per/21-074r2.html
+  type: html
+type: standard
+docid:
+- id: 21-074r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2024-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Samantha Lavender
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Andrew Lavender
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2024-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "Disasters are geographic events and, therefore, geospatial information,
+    tools, and applications have the potential to support the management of, and response
+    to, disaster scenarios to save lives and limit damage.\r\n\r\nThe use of geospatial
+    data varies significantly across disaster and emergency communities, making the
+    exploitation of geospatial information across a community more difficult. The
+    issue is particularly noticeable when sharing between different organizations
+    involved in disaster response.\r\n\r\nThis difficulty can be mitigated by establishing
+    the right processes to enable data to be shared smoothly and efficiently within
+    a disaster and emergency community. To do this requires the right partnerships,
+    policies, standards, architecture, and technologies to be in place before the
+    disaster strikes. Having such a set-up will enable the technological and human
+    capabilities to quickly find, access, share, integrate, and visualize a range
+    of actionable geospatial information, and provide this rapidly to disaster response
+    managers and first responders.\r\n\r\nFor over 20 years, the Open Geospatial Consortium
+    (OGC) has been working on the challenges of information sharing for emergency
+    and disaster planning, management, and response. In Disaster Pilot 23 (DP23) the
+    aims were to:\r\n\r\ndevelop flexible, scalable, timely and resilient information
+    data workflows to support critical disaster management decisions, enabling stakeholder
+    collaboration; and\r\nprovide applications and visualization tools to promote
+    the wider understanding of how geospatial data can support emergency and disaster
+    communities.\r\nThe Disaster Pilot Provider Guide describes the technical requirements,
+    data structures, and operational standards required to implement the data flows
+    or tools developed in DP23 and Disaster Pilot 21 (DP21) where participants have
+    worked on disaster scenarios relating to the following.\r\n\r\nDroughts\r\nWildland
+    Fires\r\nFlooding\r\nLandslides\r\nHealth & Earth Observation Data for Pandemic
+    Response\r\nCase Studies have focused on the hazards of drought in Manitoba, Canada;
+    wildland fires in the western United States; flooding in the Red River basin,
+    Canada; landslides and flooding in Peru; and pandemic response in Louisiana, United
+    States. The participants have developed a series of data specific workflows to
+    generate either Analysis Ready Datasets (ARD) or Decision Ready Indicators (DRI)
+    alongside a number of tools and applications to support data discovery, collection,
+    or visualization.\r\n\r\nAnnex A describes the tools and applications developed
+    within the Pilots along with technical details and the benefits offered similar
+    to the data flows. The Guide finishes with details of future possibilities and
+    where the Disaster Pilot initiatives could focus next. Annexes B to E give descriptions
+    of the data flows developed, including technical details of input data, processing
+    and transformations undertaken, standards applied, and outputs produced with details
+    of the aspect of disaster management or response supported, benefits offered,
+    and the type of decisions assisted with.\r\n\r\nThe Provider Guide is one of three
+    Guides produced within DP23 together with the User Guide and the Operational Capacity
+    Guide. While the Guides are separate individual documents, the Provider and User
+    Guides work together, mirroring each other in terms of structure. The Operational
+    Capacity Guide is a stand-alone document effectively underpinning the other two.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

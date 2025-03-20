@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 12-039
 title:
 - content: OGC® Web Coverage Service Interface Standard
@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/IS/WCS_scaling_extension/1.0.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=54504
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 12-039
@@ -68,10 +68,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: extension
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: extension
+  editorialgroup:
+    committee: technical

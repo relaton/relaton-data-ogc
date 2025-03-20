@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 13-084r2
 title:
 - content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/ISx/csw-ebrim-i15/1.0
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=56905
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 13-084r2
@@ -88,10 +88,10 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: standard
-subdoctype: extension
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: extension
+  editorialgroup:
+    committee: technical

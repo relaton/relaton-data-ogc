@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 21-050r1
 title:
 - content: Zarr Storage Specification 2.0 Community Standard
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/CS/zarr/2.0
   type: src
 - content: https://portal.ogc.org/files/100727
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 21-050r1
@@ -59,9 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: community-standard
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: 12-117r1
 title:
 - content: OGC Standard for Moving Features; Requirements
@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/dp/moving-features-requirements
   type: src
 - content: https://portal.ogc.org/files/?artifact_id=51623
-  type: obp
+  type: pdf
 type: standard
 docid:
 - id: 12-117r1
@@ -65,9 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: discussion-paper
-editorialgroup:
-  committee: technical
 ext:
   schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical
