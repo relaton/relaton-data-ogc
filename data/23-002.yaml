@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: 23-002
+title:
+- content: OGC API
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Connected Systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Part 2: Dynamic Data'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'OGC API - Connected Systems - Part 2: Dynamic Data'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/ogcapi-connectedsystems-2/1.0
+  type: src
+- content: https://docs.ogc.org/is/23-002/23-002.html
+  type: html
+type: standard
+docid:
+- id: 23-002
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-07-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alexandre Robin
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-07-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "(“Part 2 — Dynamic Data”) defines the resources, encodings and protocols
+    that allow efficient exchange of dynamic (time-varying) data related to these
+    features, in a way that is also aligned with SOSA/SSN."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

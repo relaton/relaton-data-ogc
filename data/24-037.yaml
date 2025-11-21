@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: 24-037
+title:
+- content: OGC Testbed 20 GDC Usability Testing Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed 20 GDC Usability Testing Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/t20-D021
+  type: src
+- content: https://docs.ogc.org/per/24-037.html
+  type: html
+type: standard
+docid:
+- id: 24-037
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-06-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Zellner
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jonas Eberle
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-06-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The goal of the OGC Testbed-20 GeoDataCube (GDC) initiative was to investigate
+    streamlining APIs for GDC access and processing, such as implementations of the
+    OGC API — Coverages, OGC API – Processes Standards and the OGC openEO and STAC
+    Community Standards. The original hypothesis was to define a draft standard that
+    unified aspects of these standards. However, integrating and co-existing with
+    the existing OGC API baseline standards proved more promising than creating a
+    new standard. The key enabler is interoperability — the seamless transfer of data
+    between API implementations. Usability and integration testing identified gaps
+    in input and output mechanisms, with integration tests across five backends (Ecere,
+    Eurac Research, CRIM, Ellipsis Drive, MMS) highlighting the need for best practices
+    and conversion methods.\r\n\r\nFocusing on access mechanism alignment enhances
+    user experience by fostering interoperability, enabling users to integrate and
+    switch between different API processing chains. Developers benefit from common
+    references, reducing custom solutions and simplifying conversions between protocols
+    such as STAC and OGC API — Coverages implementations. Expanding tests to more
+    implementations will further enhance API interoperability and support future standardization
+    efforts within the GDC ecosystem."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: 24-039
+title:
+- content: OGC Testbed 20 Coverage Format Selection Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed 20 Coverage Format Selection Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/t20-D012
+  type: src
+- content: https://docs.ogc.org/per/24-039.html
+  type: html
+type: standard
+docid:
+- id: 24-039
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joan Masó Pau
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Núria Julià Selvas
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-08-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC Testbed 20 Coverage Format Selection Report (this document) provides
+    an overview of use cases where the High Efficiency Image File Format (HEIF) can
+    be used. For each use case, the different items and properties provided by the
+    HEIF specification or by the proposed Geographic High Efficiency Image Format
+    (GeoHEIF) extensions are selected. The use cases start with simple ones such as
+    panchromatic or grey scale image and extend beyond photographic images into model
+    outputs such as land cover classifications, atmosphere evolution, and weather
+    forecast runs. Some other use cases consider actions such as map browsing (pan,
+    zoom, clip…​), or special cases such as confidentiality or extraterrestrial imagery.\r\n\r\nThe
+    three annexes in this Report include different points of view and considerations
+    for how to do benchmarking of tiled imagery that can be the basis for a practical
+    benchmarking future exercise.\r\n\r\nThe use case exercise was limited to still
+    imagery and time series. In the future the set of use cases should be extended
+    to motion imagery.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

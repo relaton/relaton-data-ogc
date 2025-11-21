@@ -69,6 +69,6 @@ abstract:
 ext:
   schema-version: v1.0.1
   doctype:
-    type: other
+    type: discussion-paper
   editorialgroup:
     committee: technical

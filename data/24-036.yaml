@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: 24-036
+title:
+- content: OGC Testbed 20 GDC Provenance Demonstration Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed 20 GDC Provenance Demonstration Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/t20-D022
+  type: src
+- content: https://docs.ogc.org/per/24-036.html
+  type: html
+type: standard
+docid:
+- id: 24-036
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-06-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jonas Eberle
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-06-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The goal of the OGC Testbed 20 GeoDataCube (GDC) Provenance Demonstrator
+    was to establish a standardized approach for exchanging metadata and provenance
+    information in geospatial workflows. By utilizing the GDC API Profiles, this Testbed
+    task demonstrated how transparency and reproducibility can be ensured, enabling
+    users to access essential details about data sources and processing methods. This
+    is particularly beneficial for both open science initiatives and restricted workflows,
+    where traceability and accountability are crucial.\r\n\r\nA primary objective
+    of this Testbed 20 task was to enhance the draft GDC API Profiles specification
+    to enable seamless metadata and provenance exchange for GeoDataCubes. The work
+    focused on improving interoperability by aligning with established metadata standards
+    and enhancing the tracking of workflow identifiers, metadata definitions, and
+    remote process chains. Additionally, the task participants aimed to refine STAC
+    metadata to improve transparency in geospatial data processing.\r\n\r\nSupporting
+    open science was another key objective, achieved through machine-readable outputs.
+    Through these efforts, the GDC Provenance Demonstrator enhances the reproducibility
+    of both scientific and restricted workflows while providing a reliable and standardized
+    framework for geospatial data management."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

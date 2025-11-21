@@ -1,0 +1,97 @@
+---
+schema-version: v1.2.9
+id: 24-063
+title:
+- content: Nov 2024 Metadata CodeSprint Summary Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Nov 2024 Metadata CodeSprint Summary Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/dp/metadata-codesprint-2024
+  type: src
+- content: https://docs.ogc.org/dp/24-063.html
+  type: html
+type: standard
+docid:
+- id: 24-063
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-11-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Rob Atkinson
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Peter Parslow
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: David Stolarz
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Byron Cochrane
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-11-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The Metadata Code Sprint was planned to have a primary focus on the following
+    group of tools, APIs and encodings.\r\n\r\nOGC GeoDCAT – (under development) a
+    spatio-temporal profile of the W3C DCAT Recommendation DCAT, and provide guidance
+    about its use and further specialization. OGC GeoDCAT is inspired by the GeoDCAT-AP
+    specification but defines just the internationally relevant concepts to allow
+    wider application. The key areas to consider are around the expression of place
+    and time, such as GeoDCAT-AP properties-for-location\r\n\r\nOGC API – Records
+    provides a way to browse or search a curated collection of records of geospatial
+    resources, known as a catalog. A record makes a resource discoverable by providing
+    summary information (e.g. metadata) about the geospatial resource.\r\n\r\nISO
+    19115 Standards define the schema required for describing geographic information
+    and services by means of metadata. Of particular interest will be recent developments
+    on JSON encodings provided by ISO 19115-4.\r\n\r\nSTAC provides a common structure
+    for describing and cataloging spatiotemporal assets. A spatiotemporal asset is
+    any file that represents information about the earth captured in a certain space
+    and time.\r\n\r\nOther metadata standards, such as CDIF, EML, and Local Context
+    may be included where the use of these have important implications on the utility
+    of geospatial metadata.\r\n\r\nParticular focus will be placed on use of OGC modular
+    “building blocks for location” that address both simple and the most complex use-cases."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

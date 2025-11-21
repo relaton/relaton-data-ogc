@@ -1,0 +1,79 @@
+---
+schema-version: v1.2.9
+id: 24-041
+title:
+- content: OGC Testbed-20 GIMI Benchmarking Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed-20 GIMI Benchmarking Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/t20-D011
+  type: src
+- content: https://docs.ogc.org/per/24-041.html
+  type: html
+type: standard
+docid:
+- id: 24-041
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sina Taghavikish
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-08-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Testbed 20 GIMI Benchmarking Report documents the evaluation
+    of implementations of the OGC Geographic Tagged Image File Format (GeoTIFF) Standard
+    and Cloud Optimized GeoTIFFs (COGs) to see how they perform compared to the new
+    GEOINT Imagery Media for ISR (GIMI) standard. The Testbed 20 GIMI participants
+    created various datasets using data from satellites such as Sentinel-1 and Landsat
+    and for comparison synthetic data. Synthetic data are artificially generated rather
+    than produced by real-world events.\r\n\r\nCOGs were tested under controlled conditions
+    and practical situations. The participants noted challenges such as managing complex
+    data during conversion and limitations of support in certain programming environments.
+    Also, using implementations of the High Efficiency Image Format (HEIF) can significantly
+    reduce file sizes compared to PNG tiles. This makes GeoHEIF comparable to PNG
+    even for simple files when combined with a low-overhead image file format. Furthermore,
+    the assessment included comparing the performance of reading GeoTIFF and GeoHEIF
+    files using a custom pure-Java reader and a C/C++ GDAL library binding in a Java
+    environment. The experiment highlighted the need for repeated full benchmarks
+    and the use of specialized tools for accurate statistical analysis due to variations
+    in execution time. The focus was on understanding the costs and efficiency of
+    these different methods, particularly in terms of how data is managed across programming
+    languages."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

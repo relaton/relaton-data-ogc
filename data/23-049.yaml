@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.9
+id: 23-049
+title:
+- content: Topic 25
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Abstract Conceptual Model for Time
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Topic 25 - Abstract Conceptual Model for Time
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/AS/temporal-conceptual-model/1.0
+  type: src
+- content: https://docs.ogc.org/as/23-049/23-049.html
+  type: html
+type: standard
+docid:
+- id: 23-049
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-05-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Little
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Charles Heazel
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ronald Tse
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-05-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The primary goal of the Abstract Conceptual Model for Time is to establish
+    clear concepts, their relationships, and terminology.\r\n\r\nThe fundamental concepts
+    of events, clocks, timescales, coordinates and calendars have been long established,
+    but there is no clear, straightforward defining document. This Abstract Specification
+    provides clear consistent definitions of the fundamental concepts and terminology.
+    The conceptual model enables advantages and disadvantages of adopting a particular
+    technological approach to be identified and provides an opportunity for communities
+    to build consistent, interoperable representations regardless of implementation.\r\n\r\nTraditionally,
+    geospatial communities used 2D coordinates and the vertical (third dimension)
+    and temporal aspects were considered attributes rather than valid components of
+    coordinate systems. In an increasingly dynamic, faster and multidimensional world,
+    much confusion and lack of interoperability has occurred because of inconsistent
+    approaches to defining and expressing time. Various international bodies expended
+    considerable effort to establish the Gregorian Calendar as a consistent timeline.
+    The Gregorian Calendar suffices for low precision applications, such as to the
+    nearest minute, but not so when second or sub-second accuracy is required. For
+    example, there have been differing practices and no consensus on whether leap
+    seconds should be part of the Gregorian timeline.\r\n\r\nThis document is consistent
+    with ISO 19111:2019 and W3C Time Ontology in OWL."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: abstract-specification-topic
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: 23-001
+title:
+- content: OGC API
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Connected Systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Part 1: Feature Resources'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'OGC API - Connected Systems - Part 1: Feature Resources'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/ogcapi-connectedsystems-1/1.0
+  type: src
+- content: https://docs.ogc.org/is/23-001/23-001.html
+  type: html
+type: standard
+docid:
+- id: 23-001
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-07-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alexandre Robin
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-07-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "“Part 1 — Feature Resources” (this Part) defines resource types and encodings
+    for providing metadata about systems and their deployments, as well as the procedures
+    and sampling strategies used by these systems. Resource types defined in Part
+    1 are modeled on concepts from the Semantic Sensor Network Ontology (SOSA/SSN).
+    They are all feature types except for the Property resource that is used to describe
+    feature properties. Part 1 also defines additional filtering capabilities and
+    requirements for the Create/Replace/Delete/Update operations."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

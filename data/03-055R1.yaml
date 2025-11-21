@@ -64,6 +64,6 @@ abstract:
 ext:
   schema-version: v1.0.1
   doctype:
-    type: other
+    type: engineering-report
   editorialgroup:
     committee: technical

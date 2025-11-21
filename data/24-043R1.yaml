@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.9
+id: 24-043r1
+title:
+- content: OGC Climate and Disaster Resilience Pilot 2024 Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Climate and Disaster Resilience Pilot 2024 Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/cdrp2024
+  type: src
+- content: https://docs.ogc.org/per/24-043r1.html
+  type: html
+type: standard
+docid:
+- id: 24-043r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-06-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dean Hintz
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ingo Simonis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2025-06-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The Open Geospatial Consortium (OGC) Climate and Disaster Resilience Pilot
+    2024 (CDRP24) was driven by the urgent need for new methods, tools, and systems
+    to better understand, predict, and address phenomena such as the intensification
+    and changing patterns of typhoons, landslides, flooding, and extreme heat events.\r\n\r\nTo
+    meet these needs, the CDRP24 initiative brought together private sector, research,
+    and government organizations to develop and prototype new information frameworks,
+    data and analytical services, and software tools that can enhance forecasting
+    and preparedness. In particular, this pilot addressed critical gaps in Analysis-Ready
+    Data (ARD) needed to understand natural hazard risks like landslides and extreme
+    heat. It also explored how these gaps can be addressed by applying open standards
+    to value-added data flows, ensuring that decision-makers and the broader community
+    receive the timely information they need to act—both to improve resilience and
+    to mitigate the effects of these hazards.\r\n\r\nGeospatial information and technologies
+    are essential for enhancing the climate resilience of communities worldwide. They
+    also play a central role in designing and implementing the next generation of
+    emergency and disaster management systems. This solutions-oriented pilot explored
+    both dimensions, leveraging OGC standards, OGC’s Agile Reference Architecture
+    for geospatial systems, and the contributions of OGC’s member organizations.\r\n\r\nThree
+    main lessons can be learned from the CDRP24 project:\r\n\r\nSome technical components
+    required to assemble workflows that integrate diverse datasets are relatively
+    mature and have been proven useful in practice. This is evidenced by their implementation
+    in multiple application-specific workflows for tasks such as enhanced typhoon
+    monitoring, landslide detection and prediction, and weather event modeling. Solidifying
+    the shift to API-based architectures, pervasive throughout the applications developed
+    in the CDRP, is vital to this maturation.\r\nThe expectation that model outputs
+    will be available as Analysis-Ready Data (ARD), Decision-Ready Indicators (DRI),
+    contextualized information, and comprehensible representations to non-technical/geospatial
+    specialists has continued to increase. Integrating AI into the geospatial toolkit
+    reshapes expectations for communicating analysis and modeling results.\r\nThe
+    effective incorporation of contextual and domain-specific knowledge within information
+    systems is considered necessary to improve the discoverability of relevant data
+    and information. Effective incorporation includes ‘true’ semantic interoperability
+    of workflows and interpretability of processes. Multiple methods to integrate
+    contextual and domain information are being explored and have been proven as viable
+    options, including knowledge graphs, AI generated syntheses of extensive bodies
+    of knowledge, and processes for human experts producing documentation."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: 25-004
+title:
+- content: SpatioTemporal Asset Catalog (STAC) Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: SpatioTemporal Asset Catalog (STAC) Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/CS/stac/1.1
+  type: src
+- content: https://docs.ogc.org/cs/25-004/25-004.html
+  type: html
+type: standard
+docid:
+- id: 25-004
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-10-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: STAC Community
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-10-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The STAC specifications define related JSON object types connected by
+    link relations to support a HATEOAS-style traversable interface and a RESTful
+    API providing additional browse and search interfaces. Typically, several STAC
+    specifications are composed together to create an implementation. The Item, Catalog,
+    and Collection specifications define a minimal core of the most frequently used
+    JSON object types. Because of the hierarchical structure between these objects,
+    a STAC catalog can be implemented in a completely ‘static’ manner as a group of
+    hyperlinked Catalog, Collection, and Item URLs, enabling data publishers to expose
+    their data as a browsable set of files. If more complex query abilities are desired,
+    such as spatial or temporal predicates, the STAC API specification can be implemented
+    as a web service interface to query over a group of STAC objects, usually held
+    in a database.\r\n\r\nTo the greatest extent possible, STAC uses and extends existing
+    specifications. The most important object in STAC is an Item, which is simply
+    a GeoJSON Feature with a well-defined set of additional attributes (“foreign members”).
+    The STAC API extends the OGC API - Features - Part 1: Core with additional web
+    service endpoints and object attributes."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

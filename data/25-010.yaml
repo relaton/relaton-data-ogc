@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: 25-010
+title:
+- content: OGC Climate and Disaster Resilience Pilot 2024.2 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Climate and Disaster Resilience Pilot 2024.2 Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/CDRP-2024.2/D001
+  type: src
+- content: https://docs.ogc.org/per/25-010.html
+  type: html
+type: standard
+docid:
+- id: 25-010
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-07-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stelios Contarinis
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Vyron Antoniou
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Micah Brachman '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-07-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'CDRP.2 aims to improve global readiness for climate change and disasters
+    by enhancing how raw data is transformed into actionable insights to  Use Generative
+    AI to improve climate communication and decision-making, Advance wildfire risk
+    modeling and insurance workflows, develop ontologies for emergency and disaster
+    management and Improve FAIR data services (Findable, Accessible, Interoperable,
+    Reusable). '
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,74 @@
+---
+schema-version: v1.2.9
+id: 24-034
+title:
+- content: July 2024 Open Standards Code Sprint Summary Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: July 2024 Open Standards Code Sprint Summary Engineering Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/per/202407-OS-codesprint
+  type: src
+- content: https://docs.ogc.org/per/24-034.html
+  type: html
+type: standard
+docid:
+- id: 24-034
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-08-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gobe Hobona
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Joana Simoes '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-08-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The subject of this Engineering Report (ER) is a code sprint that was held
+    from July 10th to 12th, 2024 to advance the support and development of open standards
+    within the developer community. The code sprint was organized by the Open Geospatial
+    Consortium (OGC) and hosted by Geovation in London, England. The code sprint was
+    sponsored by Google and supported by Natural Resources Canada (NRCan). The code
+    sprint included activities involving several OGC API Standards and data encoding
+    standards, as well as special tracks on Data Quality & Artificial Intelligence,
+    Map Markup Language (MapML) and Validators.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

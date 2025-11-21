@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: 23-000
+title:
+- content: OGC SensorML Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC SensorML Encoding Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/SensorML/3.0
+  type: src
+- content: https://docs.ogc.org/is/23-000/23-000.html
+  type: html
+type: standard
+docid:
+- id: 23-000
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-07-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alexandre Robin
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-07-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The primary focus of the Sensor Model Language (SensorML) is to provide
+    a robust and semantically-tied means of defining processes and processing components
+    associated with the measurement and post-measurement transformation of observations.
+    This includes sensors and actuators as well as computational processes applied
+    pre- and post-measurement.\r\n\r\nThe main objective is to enable interoperability,
+    first at the syntactic level and later at the semantic level (by using ontologies
+    and semantic mediation), so that sensors and processes can be better understood
+    by machines, utilized automatically in complex workflows, and easily shared between
+    intelligent sensor web nodes.\r\n\r\nThis standard is one of several implementation
+    standards produced under OGC’s Sensor Web Enablement (SWE) activity. This standard
+    is a revision of content that was previously integrated in the SensorML version
+    1.0 standard (OGC 07-000), version 2.0 (OGC 12-000), and version 2.1 (OGC 12-000r2)."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

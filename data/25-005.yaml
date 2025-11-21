@@ -1,0 +1,76 @@
+---
+schema-version: v1.2.9
+id: 25-005
+title:
+- content: SpatioTemporal Asset Catalog (STAC) API Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: SpatioTemporal Asset Catalog (STAC) API Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/CS/stac-api/1.0
+  type: src
+- content: https://docs.ogc.org/cs/25-005/25-005.html
+  type: html
+type: standard
+docid:
+- id: 25-005
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-10-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: STAC Community
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-10-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "A STAC API is a dynamic version of a SpatioTemporal Asset Catalog. This
+    repository defines the three STAC API foundation specifications – STAC API - Core,
+    STAC API - Features, and STAC API - Item Search – which can be composed with Extensions
+    to define a specific STAC API implementation.\r\n\r\nA STAC API can be used to
+    retrieve STAC Catalog, Collection, Item, or STAC API ItemCollection objects from
+    various endpoints. Catalog and Collection objects are JSON, while Item and ItemCollection
+    objects are GeoJSON-compliant entities with foreign members. Typically, a Feature
+    is used when returning a single Item object, and FeatureCollection when multiple
+    Item objects (rather than a JSON array of Item entities).\r\n\r\nThe API can be
+    implemented in compliance with the OGC API - Features standard (OAFeat is a shorthand).
+    In this case STAC API can be thought of as a specialized Features API to search
+    STAC catalogs, where the features returned are STAC Item objects, that have common
+    properties, links to their assets and geometries that represent the footprints
+    of the geospatial assets.\r\n\r\nThe specification for STAC API is provided as
+    files that follow the OpenAPI 3.0 specification, rendered online into HTML at
+    https://api.stacspec.org/v1.0.0, in addition to human-readable documentation."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical

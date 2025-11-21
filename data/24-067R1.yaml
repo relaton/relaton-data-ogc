@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.9
+id: 24-067r1
+title:
+- content: Urban Digital Twin Interoperability Pilot Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Urban Digital Twin Interoperability Pilot Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/UDTIP
+  type: src
+- content: https://docs.ogc.org/per/24-067r1.html
+  type: html
+type: standard
+docid:
+- id: 24-067r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-06-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Soheil Sabri
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Sina Taghavikish
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2025-06-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This initiative addresses the challenges of data interoperability and
+    multi-system integration within Urban Digital Twins (UDTs). It explores the development
+    and interoperability of various modules within an Urban Digital Twin (UDT) framework,
+    leveraging OGC standards to enable seamless data exchange and communication.\r\n\r\nThe
+    effort focuses on two key applications: noise modeling and Geo-AI analysis.\r\n\r\nFor
+    noise modeling, the program utilizes 3D city models in CityGML format, traffic
+    profiles, and noise sensor readings. This data is used to simulate and visualize
+    noise levels in urban environments, supporting urban planning and management decisions
+    aimed at mitigating noise pollution.\r\n\r\nFor Geo-AI analysis, the undertaking
+    processes camera imagery, INS metadata, and labeled training data. This data is
+    converted into formats such as GeoPose and TrainingDML to support machine learning
+    tasks like object detection (e.g., identifying obstacles or illegal dumping) and
+    road surface classification.\r\n\r\nThe initiative employs various OGC APIs for
+    data access and processing, ensuring interoperability across modules. Key outcomes
+    include the development of prototype APIs, workflows, and visualization tools
+    that demonstrate the value of OGC standards in building a robust and interoperable
+    UDT ecosystem.\r\n\r\nThis project also emphasizes the importance of stakeholder
+    engagement, involving sponsors such as the Land and Housing Agency of Korea and
+    user groups like the United Nations, to ensure the practical relevance of the
+    UDT applications.\r\n\r\nAlthough the current focus is on two applications, the
+    framework is designed to be extensible, allowing for additional or alternative
+    applications in the future and aims to serve as a reference framework for building
+    UDTs using OGC standards.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

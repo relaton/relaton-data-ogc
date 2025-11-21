@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: 24-038r1
+title:
+- content: OGC Testbed 20 GEOINT Imagery Media for ISR (GIMI) Specification Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed 20 GEOINT Imagery Media for ISR (GIMI) Specification Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/t20-D010
+  type: src
+- content: https://docs.ogc.org/per/24-038r1.html
+  type: html
+type: standard
+docid:
+- id: 24-038r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joan Masó Pau
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Núria Julià Selvas
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2025-08-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Testbed 20 Report defines a draft OGC Specification for Geographic
+    High Efficiency Image Format (GeoHEIF). The Report specifies requirements and
+    encoding rules for using the High Efficiency Image File Format (HEIF) for the
+    exchange of georeferenced or geocoded imagery. The GeoHEIF specification defines
+    HEIF properties to include the georeference information in one or more image items.
+    In addition, other HEIF properties are added to define the semantics of dimensions
+    and cell properties that together allow for converting HEIF into a datacube container.\r\n\r\nPlease
+    note that while the intent is to submit this document to the OGC for consideration
+    as an OGC Standard, this document is internally referred to as an OGC Testbed
+    20 Report or more simply “this Report” or “this specification”."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

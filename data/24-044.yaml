@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: 24-044
+title:
+- content: Testbed 20 High-Performance Geospatial Computing Optimized Formats Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Testbed 20 High-Performance Geospatial Computing Optimized Formats Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/t20-D030
+  type: src
+- content: https://docs.ogc.org/per/24-044.html
+  type: html
+type: standard
+docid:
+- id: 24-044
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-04-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eugene Yu
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Liping Di '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2025-04-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "High-Performance Geospatial Computing (HPGC) is crucial for addressing
+    the increasing complexity and volume of geospatial data across sectors such as
+    meteorology, disaster management, and climate change. While High Performance Computing
+    (HPC) offers significant potential, integrating it with geospatial tools remains
+    a challenge. The OGC Testbed 20 High-Performance Geospatial Computing Optimized
+    Formats Report (this Report) investigates the potential of cloud-optimized formats
+    (such as Cloud Optimized GeoTIFF (COG), GeoZarr, and GeoParquet) to optimize HPGC
+    performance by addressing data transfer bottlenecks and enabling efficient data
+    access. By evaluating these formats and exploring data indexing and partitioning
+    strategies, the goal is to develop a framework for scalable and efficient HPGC
+    workflows. The Testbed found that using Cloud-Optimized GeoTIFFs (COGs) in HPC
+    environments offers efficient data access and flexible data management, but balancing
+    file sizes and read requests can affect performance. GeoZarr provides scalable
+    data management and efficient parallel read/write operations, though it generates
+    many files that can cause I/O issues in traditional block-storage systems. GeoParquet’s
+    columnar layout and multithreading capabilities enhance storage efficiency and
+    data retrieval, but the lack of a spatial index and the need to decompress entire
+    chunks can complicate data management.\r\n\r\n"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

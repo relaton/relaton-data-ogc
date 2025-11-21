@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.9
+id: 24-042r1
+title:
+- content: OGC Testbed-20 GIMI Open Source Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC Testbed-20 GIMI Open Source Report
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/t20-D014
+  type: src
+- content: https://docs.ogc.org/per/24-042r1.html
+  type: html
+type: standard
+docid:
+- id: 24-042r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sina Taghavikish
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2025-08-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This OGC Testbed 20 GIMI Open-Source Report documents the results of the
+    OGC Testbed 20 work performed to evaluate and enhance open source libraries and
+    tools in support of the GEOINT Imagery Media for ISR (GIMI) format.\r\n\r\nThe
+    GIMI format has the potential to grow and gain popularity by building upon existing
+    open source software. Recent integration work, particularly with libheif, aims
+    to align with the GIMI profile and enhance architectural robustness. The libheif
+    library provides the capability to decode and generate all conformant still-image
+    HEIF/AVIF files, including High Dynamic Range (HDR), and uses the color transformation
+    matrices specified in the color profile. The High-Efficiency Image File Format
+    (HEIF) is a digital container format for storing individual digital images and
+    image sequences."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

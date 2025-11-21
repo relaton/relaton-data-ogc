@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: 21-038r1
+title:
+- content: OGC API
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Discrete Global Grid Systems
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Part 1: Core'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'OGC API - Discrete Global Grid Systems - Part 1: Core'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: https://www.opengis.net/doc/is/ogcapi-dggs-1/1.0
+  type: src
+- content: https://docs.ogc.org/is/21-038r1/21-038r1.html
+  type: html
+type: standard
+docid:
+- id: 21-038r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-10-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matthew Brian John Purss
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jérôme Jacovella-St-Louis
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2025-10-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC API — Discrete Global Grid Systems — Part 1: Core Standard defines
+    requirements that can be implemented and integrated into a deployed Web API. The
+    DGGS API allows to retrieve geospatial data for a specific area, time and resolution
+    of interest, based on a specific DGGRS. Additionally, the DGGS API defines operations
+    to query the list of DGGRS zones from which data is available and/or matching
+    a specified query. Such queries are expressed by combining HTTP query parameters,
+    including the possibility to express more complex filtering queries using the
+    OGC Common Query Language (CQL2).\r\n\r\nReaders are strongly encouraged to first
+    familiarize themselves with the DGGS concepts defined in OGC Abstract Specification
+    Topic 21 laying the foundation for this Standard.\r\n\r\nPlease note that in the
+    remainder of this document, the Standard will be referred to as the “OGC API –
+    DGGS Standard”, “the DGGS API” or “this Standard”."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

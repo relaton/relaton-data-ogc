@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: 22-045r5
+title:
+- content: OGC IndoorGML 2.0 Part 1 – Conceptual Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: OGC IndoorGML 2.0 Part 1 – Conceptual Model
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/indoorgml/2.0
+  type: src
+- content: https://docs.ogc.org/is/22-045r5/22-045r5.html
+  type: html
+type: standard
+docid:
+- id: 22-045r5
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2025-06-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sisi Zlatanova
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Abdoulaye Diakite
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Taehoon Kim
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: 'Ki-Joune Li '
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '5'
+revdate: '2025-06-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The OGC IndoorGML Part I – Conceptual Model Standard (this Standard) specifies
+    an UML model for indoor information. Part 2 of the standard specifies technical
+    implementation schemas in GML, SQL and JSON. While there are several standards
+    supporting 3D modelling concepts such as CityGML, KML, IFC, LADM, and IMDF that
+    deal with interiors of buildings from geometric, cartographic, and semantic viewpoints,
+    IndoorGML focuses on modeling indoor spaces and their neighborhood relationships
+    to support indoor location-based services. This document describes the conceptual
+    model (Part 1) of IndoorGML that addresses spaces and networks for indoor navigation.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical
