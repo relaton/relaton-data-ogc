@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: 23-034
+title:
+- content: OGC CDB Version 2
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Part 1: Core Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'OGC CDB Version 2 - Part 1: Core Standard'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/CDB-core/2.0
+  type: src
+- content: https://docs.ogc.org/is/23-034/23-034.html
+  type: html
+type: standard
+docid:
+- id: 23-034
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-01-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Carl Reed
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2026-01-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "CDB Version 2.0 is a major revision to the CDB Standard. The CDB Version
+    2.0: Core Standard specifies requirements (rules) defining a standardized model
+    and structure for a single, versionable, virtual representation of the earth.
+    The full CDB Standard is comprised of a fundamental core, Parts (extensions to
+    the core), and profiles. The core consists of a suite of mandatory and optional
+    requirements classes and conformance classes that are components in any extension,
+    profile, and implementation. Core requirements can be profiled (restricted). An
+    overarching design principle is that a CDB data store is focused on the ability
+    to store, manage, and access extremely large volumes of geographic content and
+    related assets such as model definitions in as deterministic manner as possible.\r\n\r\nA
+    CDB compliant structured data store provides a geospatial content and model repository
+    that is plug-and-play interoperable between applications within a domain and potentially
+    between domains. In the CDB context, a domain represents an information community,
+    such as gaming, tactical analysis, or simulation, that has a common set of requirements
+    for data content including access."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

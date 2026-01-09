@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.9
+id: 15-113r7
+title:
+- content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/CDB-core/1.3
+  type: src
+- content: https://docs.ogc.org/is/15-113r7/15-113r7.html
+  type: html
+type: standard
+docid:
+- id: 15-113r7
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-01-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Carl Reed; David Graham; Sara Saeedi
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '7'
+revdate: '2026-01-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The CDB standard defines a standardized model and structure for a single,
+    versionable, virtual representation of the earth. A CDB structured data store
+    provides for a geospatial content and model definition repository that is plug-and-play
+    interoperable between database authoring workstations. Moreover, a CDB structured
+    data store can be used as a common online (or runtime) repository from which various
+    simulator client-devices can simultaneously retrieve and modify, in real-time,
+    relevant information to perform their respective runtime simulation tasks. In
+    this case, a CDB is plug-and-play interoperable between CDB-compliant simulators.
+    A CDB can be readily used by existing simulation client-devices (legacy Image
+    Generators, Radar simulator, Computer Generated Forces, etc.) through a data publishing
+    process that is performed on-demand in real-time.\r\n\r\nThe application of CDB
+    to future simulation architectures will significantly reduce runtime-source level
+    and algorithmic correlation errors, while reducing development, update and configuration
+    management timelines. With the addition of the High Level Architecture - Federation
+    Object Model (HLA/FOM) and Distributed Interactive Simulation (DIS) protocols,
+    the application of the CDB standard provides a common environment to which inter-connected
+    simulators share a common view of the simulated environment."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical
