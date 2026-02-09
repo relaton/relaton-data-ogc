@@ -1,0 +1,118 @@
+---
+schema-version: v1.2.9
+id: 24-061
+title:
+- content: Summary Report for OGC Federated Marine SDI 2024 Pilot
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Bridging Land and Sea
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Summary Report for OGC Federated Marine SDI 2024 Pilot - Bridging Land
+    and Sea
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/PER/FMSDI-2024-summary
+  type: src
+- content: https://docs.ogc.org/per/24-061.html
+  type: html
+type: standard
+docid:
+- id: 24-061
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-02-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Stelios Contarinis
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Christos Kastrisios
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2026-02-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The Federated Marine Spatial Data Infrastructure (FMSDI) 5 Pilot addresses
+    the growing challenge of integrating terrestrial and marine datasets across the
+    dynamic and operationally critical intertidal zone. Intertidal areas, where land
+    meets sea, present complex environmental and data management challenges, especially
+    as coastal dynamics intensify under climate change.\r\n\r\nThe FMSDI 5 Pilot was
+    designed to respond directly to the needs and objectives articulated by the project
+    sponsors, including the UK Hydrographic Office (UKHO), the US National Oceanic
+    and Atmospheric Administration (NOAA), and the National Geospatial-Intelligence
+    Agency (NGA). Supporting organizations such as Ordnance Survey, the US Geological
+    Survey (USGS), and the Canadian Hydrographic Service (CHS) contributed valuable
+    expertise and alignment with national geospatial strategies. Sponsors prioritized
+    improving interoperability between land and sea datasets, accelerating the adoption
+    of open standards, and promoting sustainable, scalable approaches to coastal data
+    integration, monitoring, and management.\r\n\r\nThe pilot brought together Compusult,
+    Pangaea Innovations, and TCarta to explore innovative, standards-based solutions
+    that enable seamless land-sea data integration. Each organization contributed
+    a complementary approach:\r\n\r\nCompusult demonstrated a web-based platform that
+    combines land and sea data into unified visualizations and supports navigational
+    decision-making through dynamic tidal modeling.\r\nPangaea Innovations showcased
+    the use of Discrete Global Grid Systems (DGGS) to link diverse terrestrial and
+    marine datasets using a simple, scalable indexing system that eliminates the need
+    for complex data harmonization.\r\nTCarta applied satellite technologies to generate
+    dynamic, real-time shoreline and bathymetric data, offering a cost-effective solution
+    for continuous coastal monitoring.\r\nAdditionally, a separate Draft Guide and
+    Best Practices Engineering Report developed by OceanWise and Pelagis captures
+    key lessons and provides practical recommendations for integrating terrestrial
+    and marine data across the coastal zone.\r\n\r\nKey findings from the pilot include:\r\n\r\nThe
+    adoption of a Unified Geospatial Reference using modern vertical datums and separation
+    surfaces enables precise integration of land and marine elevation data, eliminating
+    discontinuities at the coastline.\r\nApplying FAIR Data Principles through rich
+    metadata and international catalog standards improves data discoverability, automation,
+    and reuse across federated systems.\r\nAddressing intertidal data voids—through
+    the Mind the Gap approach—ensures that spatial and temporal gaps between land
+    and sea datasets are filled using remote sensing, targeted surveys, or documented
+    interpolation.\r\nImplementing Coordinated Governance frameworks such as IGIF-Hydro
+    clarifies institutional responsibilities, reduces duplication, and accelerates
+    policy alignment across sectors.\r\nScalable Resolution Management allows the
+    fusion of multi-scale elevation datasets using techniques like TINs and DGGS,
+    balancing local detail with regional context for resilient coastal planning.\r\nFMSDI
+    5 confirms that a next-generation Marine Spatial Data Infrastructure must be dynamic,
+    federated, and standards-driven to support coastal resilience, environmental stewardship,
+    and operational effectiveness. The pilot’s results lay the groundwork for future
+    implementations that will empower coastal communities and maritime stakeholders
+    to make better, faster, and more informed decisions."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: engineering-report
+  editorialgroup:
+    committee: technical

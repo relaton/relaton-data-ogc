@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.9
+id: 25-018
+title:
+- content: Bathymetric Attributed Grid (BAG) 2.0.1 Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Bathymetric Attributed Grid (BAG) 2.0.1 Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/CS/bag
+  type: src
+- content: https://docs.ogc.org/cs/25-018.25-018.pdf
+  type: pdf
+type: standard
+docid:
+- id: 25-018
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-02-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Open Navigation Surface Working Group
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2026-02-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document describes the BAG format and the conduct of the ONSWG and
+    its\r\nderivatives that maintain the BAG format reference implementation. For\r\ninformation
+    on using the BAG reference implementation, please see the How-to\r\nGuide."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical
