@@ -1,79 +1,78 @@
 ---
-schema-version: v1.2.9
-id: 18-042r4
-title:
-- content: OGC Name Type Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Sensor Models and Parameters
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Name Type Specification - Sensor Models and Parameters
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/POL-NTS/Sensor/1.0
-  type: src
-- content: https://docs.ogc.org/pol/18-042r4.html
-  type: html
+id: 18042r4
 type: standard
-docid:
-- id: 18-042r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Name Type Specification
+  type: title-intro
+- language: en
+  script: Latn
+  content: Sensor Models and Parameters
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Name Type Specification - Sensor Models and Parameters
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/POL-NTS/Sensor/1.0
+- type: html
+  content: https://docs.ogc.org/pol/18-042r4.html
+docidentifier:
+- content: 18-042r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-10-31'
+  at: '2019-10-31'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gobe Hobona
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Simon Cox
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2019-10-31'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document specifies a rule for constructing OGC names that may be
+- language: en
+  script: Latn
+  content: 'This document specifies a rule for constructing OGC names that may be
     used for identifying definitions of sensor models and their parameters. This document
     is formally a profile of the OGC policy ''OGC-NA Name type specification - definitions:
     Part 1 - basic name'' (OGC 09-048r5).'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

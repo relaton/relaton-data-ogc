@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 24-040r1
-title:
-- content: 'OGC Testbed 20: GIMI Lessons Learned and Best Practices Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed 20: GIMI Lessons Learned and Best Practices Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t20-D013
-  type: src
-- content: https://docs.ogc.org/per/24-040r1.html
-  type: html
+id: 24040r1
 type: standard
-docid:
-- id: 24-040r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed 20: GIMI Lessons Learned and Best Practices Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed 20: GIMI Lessons Learned and Best Practices Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t20-D013
+- type: html
+  content: https://docs.ogc.org/per/24-040r1.html
+docidentifier:
+- content: 24-040r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-08-08'
+  at: '2025-08-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Masó Pau
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Núria Julià Selvas
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Rob Smith
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2025-08-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC Testbed 20 Report documents the work performed and the findings
+- language: en
+  script: Latn
+  content: This OGC Testbed 20 Report documents the work performed and the findings
     of the GEOINT Imagery Media for ISR (GIMI) Task. The primary goal of the OGC Testbed
     20 GIMI task was to develop, implement, and validate content that will form the
     basis of a future GIMI Standard, addressing specific standardization issues within
@@ -72,14 +80,8 @@ abstract:
     especially when comparing it to Cloud Optimized GeoTIFF (COG). Therefore, part
     of the GIMI task was to develop those benchmarks and propose their incorporation
     into the OGC Compliance and Interoperability Test Environment (CITE).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

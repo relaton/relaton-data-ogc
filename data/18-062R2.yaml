@@ -1,75 +1,77 @@
 ---
-schema-version: v1.2.9
-id: 18-062r2
-title:
-- content: OGC API
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Processes
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Part 1: Core'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: 'OGC API - Processes - Part 1: Core'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/ogcapi-processes-1/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/18-062r2/18-062r2.html
-  type: html
+id: 18062r2
 type: standard
-docid:
-- id: 18-062r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC API
+  type: title-intro
+- language: en
+  script: Latn
+  content: Processes
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Part 1: Core'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'OGC API - Processes - Part 1: Core'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/ogcapi-processes-1/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/18-062r2/18-062r2.html
+docidentifier:
+- content: 18-062r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-12-20'
+  at: '2021-12-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Benjamin Pross
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2021-12-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC API — Processes — Part 1: Core Standard supports the wrapping
+- language: en
+  script: Latn
+  content: "The OGC API — Processes — Part 1: Core Standard supports the wrapping
     of computational tasks into executable processes that can be offered by a server
     through a Web API and be invoked by a client application. The standard specifies
     a processing interface to communicate over a RESTful protocol using JavaScript
@@ -92,15 +94,9 @@ abstract:
     OGC API — Processes Standard are listed in Table 1 below and include information
     about the server, the list of available processes (Process list and Process description),
     jobs (running processes) and results of process executions."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

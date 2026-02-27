@@ -1,67 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 19-077
-title:
-- content: OGC Body of Knowledge
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Version 0.1
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Discussion Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: OGC Body of Knowledge - Version 0.1 - Discussion Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/bok
-  type: src
-- content: https://docs.ogc.org/dp/19-077.html
-  type: html
+id: '19077'
 type: standard
-docid:
-- id: 19-077
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Body of Knowledge
+  type: title-intro
+- language: en
+  script: Latn
+  content: Version 0.1
+  type: title-main
+- language: en
+  script: Latn
+  content: Discussion Paper
+  type: title-part
+- language: en
+  script: Latn
+  content: OGC Body of Knowledge - Version 0.1 - Discussion Paper
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/bok
+- type: html
+  content: https://docs.ogc.org/dp/19-077.html
+docidentifier:
+- content: 19-077
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-05-04'
+  at: '2020-05-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gobe Hobona
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2020-05-04'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OGC Body of Knowledge is a structured collection of concepts and related
+- language: en
+  script: Latn
+  content: The OGC Body of Knowledge is a structured collection of concepts and related
     resources that can be found in the OGC library. It is, in effect, a view of explicit
     knowledge available from the OGC Virtual Knowledge Store and related components
     such as the OGC Definitions Server and the OGC Glossary of Terms. The OGC Body
@@ -70,14 +72,8 @@ abstract:
     Body of Knowledge and presents the results of the approach. It is intended to
     encourage and facilitate discussion within the OGC membership and wider geospatial
     community.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

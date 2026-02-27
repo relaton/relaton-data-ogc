@@ -1,60 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 12-128r12a
-title:
-- content: OGC® GeoPackage Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: With Corrigendum
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® GeoPackage Encoding Standard - With Corrigendum
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/geopackage/1.0.1
-  type: src
-- content: https://www.geopackage.org/spec
-  type: html
+id: 12128r12a
 type: standard
-docid:
-- id: 12-128r12a
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® GeoPackage Encoding Standard
+  type: title-intro
+- language: en
+  script: Latn
+  content: With Corrigendum
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® GeoPackage Encoding Standard - With Corrigendum
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/geopackage/1.0.1
+- type: html
+  content: https://www.geopackage.org/spec
+docidentifier:
+- content: 12-128r12a
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-04-20'
+  at: '2015-04-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Paul Daisey
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-04-20'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC® Encoding Standard defines GeoPackages for exchange and GeoPackage
+- language: en
+  script: Latn
+  content: This OGC® Encoding Standard defines GeoPackages for exchange and GeoPackage
     SQLite Extensions for direct use of vector geospatial features and / or tile matrix
     sets of earth images and raster maps at various scales. Direct use means the ability
     to access and update data in a “native” storage format without intermediate format
@@ -64,15 +69,9 @@ abstract:
     across all enterprise and personal computing environments, and are particularly
     useful on mobile devices like cell phones and tablets in communications environments
     with limited connectivity and bandwidth.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

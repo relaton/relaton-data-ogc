@@ -1,68 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 20-082r4
-title:
-- content: Topic 20
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Observations, measurements and samples
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Topic 20 - Observations, measurements and samples
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/as/om/3.0
-  type: src
-- content: https://docs.ogc.org/as/20-082r4/20-082r4.html
-  type: html
+id: 20082r4
 type: standard
-docid:
-- id: 20-082r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 20
+  type: title-intro
+- language: en
+  script: Latn
+  content: Observations, measurements and samples
+  type: title-main
+- language: en
+  script: Latn
+  content: Topic 20 - Observations, measurements and samples
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/as/om/3.0
+- type: html
+  content: https://docs.ogc.org/as/20-082r4/20-082r4.html
+docidentifier:
+- content: 20-082r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-05-26'
+  at: '2023-05-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Katharina Schleidt
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ilkka Rinne
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2023-05-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document defines a conceptual schema for observations, for features
+- language: en
+  script: Latn
+  content: "This document defines a conceptual schema for observations, for features
     involved in the observation process, and for features involved in sampling when
     making observations. These provide models for the exchange of information describing
     observation acts and their results, both within and between different scientific
@@ -73,14 +78,8 @@ abstract:
     derived samples).\r\n\r\nThis document concerns only externally visible interfaces
     and places no restriction on the underlying implementations other than what is
     needed to satisfy the interface specifications in the actual situation."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 18-001r1
-title:
-- content: GeoDCAT-AP
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: GeoDCAT-AP
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/GeoDCAT-AP
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=82475
-  type: pdf
+id: 18001r1
 type: standard
-docid:
-- id: 18-001r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GeoDCAT-AP
+  type: title-main
+- language: en
+  script: Latn
+  content: GeoDCAT-AP
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/GeoDCAT-AP
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=82475
+docidentifier:
+- content: 18-001r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-01-09'
+  at: '2019-01-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Lieven Raes
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Danny Vandenbroucke
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tomas Reznik
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-01-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Improving discoverability of open geo-data and information is vital to
+- language: en
+  script: Latn
+  content: "Improving discoverability of open geo-data and information is vital to
     increasing the use of these data in- and outside the geospatial expert community.
     \r\nIn this document we start to compare existing metadata standards, e.g., Dublin
     Core, ISO 19115/57/19, and INSPIRE, in the geospatial- and open data context.
@@ -82,14 +90,8 @@ abstract:
     and to publish metadata in data portals and directly on the world wide web. To
     conclude a GeoDCAT alignment exercise has been done with ISO 19115/19 and INSPIRE
     to improve the open data and geospatial metadata alignment in the future.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

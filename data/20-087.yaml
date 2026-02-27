@@ -1,73 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 20-087
-title:
-- content: Interoperable Simulation and Gaming Sprint Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Interoperable Simulation and Gaming Sprint Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/ISG-Sprint
-  type: src
-- content: https://docs.ogc.org/per/20-087.html
-  type: html
+id: '20087'
 type: standard
-docid:
-- id: 20-087
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Interoperable Simulation and Gaming Sprint Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Interoperable Simulation and Gaming Sprint Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/ISG-Sprint
+- type: html
+  content: https://docs.ogc.org/per/20-087.html
+docidentifier:
+- content: 20-087
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-01-26'
+  at: '2021-01-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Leonard Daly
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Scott Serich
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-01-26'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OGC Interoperable Simulation and Gaming Sprint advanced the use of
+- language: en
+  script: Latn
+  content: The OGC Interoperable Simulation and Gaming Sprint advanced the use of
     relevant OGC and Khronos standards in the modeling and simulation community through
     practical exercise and testing of the GeoVolumes API draft specification produced
     by the 3D Data Container and Tiles API Pilot. Of particular interest was the handling
     and integration of glTF models coming from multiple sources, but the sprint also
     examined the specification’s implementability, consistency, completeness, and
     maturity.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

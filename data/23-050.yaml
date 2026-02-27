@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 23-050
-title:
-- content: OGC Testbed-19 Agile Reference Architecture Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Testbed-19 Agile Reference Architecture Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T19-D021
-  type: src
-- content: https://docs.ogc.org/per/23-050.html
-  type: html
+id: '23050'
 type: standard
-docid:
-- id: 23-050
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed-19 Agile Reference Architecture Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed-19 Agile Reference Architecture Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T19-D021
+- type: html
+  content: https://docs.ogc.org/per/23-050.html
+docidentifier:
+- content: 23-050
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-04-26'
+  at: '2024-04-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Lucio Colaiacomo
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2024-04-26'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The concepts of agile architecture and reference architecture may not
+- language: en
+  script: Latn
+  content: "The concepts of agile architecture and reference architecture may not
     be new ideas in information or geospatial technologies, but what is meant by the
     term Agile Reference Architecture?\r\n\r\nAgile Reference Architecture is the
     long-term vision of the complex and changing nature of how problems will be solved
@@ -101,14 +109,8 @@ abstract:
     of the collaborative objects and pluggable building blocks should be standardized.
     The OGC provides a consensus based collaborative standardization environment fits
     these requirements very well."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

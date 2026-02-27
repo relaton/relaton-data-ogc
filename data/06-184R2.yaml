@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 06-184r2
-title:
-- content: GeoDRM Engineering Viewpoint and supporting Architecture
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: GeoDRM Engineering Viewpoint and supporting Architecture
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=21285
-  type: pdf
+id: '06184r2'
 type: standard
-docid:
-- id: 06-184r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GeoDRM Engineering Viewpoint and supporting Architecture
+  type: title-main
+- language: en
+  script: Latn
+  content: GeoDRM Engineering Viewpoint and supporting Architecture
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=21285
+docidentifier:
+- content: 06-184r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-08-14'
+  at: '2007-08-14'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Christian Elfers
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Roland M. Wagner
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2007-08-14'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This GeoDRM engineering viewpoint document describes use cases and concepts
+- language: en
+  script: Latn
+  content: 'This GeoDRM engineering viewpoint document describes use cases and concepts
     for GeoDRM, as well as references to distributed computing concepts which are
     not GeoDRM sensu stricto but are required for any GeoDRM implementation. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

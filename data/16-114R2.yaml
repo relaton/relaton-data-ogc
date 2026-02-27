@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 16-114r2
-title:
-- content: 'OGC Moving Features Encoding Extension: netCDF'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Moving Features Encoding Extension: netCDF'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/moving-features-ext-netCDF
-  type: src
-- content: https://docs.ogc.org/dp/16-114r2/16-114r2.html
-  type: html
+id: 16114r2
 type: standard
-docid:
-- id: 16-114r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Moving Features Encoding Extension: netCDF'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Moving Features Encoding Extension: netCDF'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/moving-features-ext-netCDF
+- type: html
+  content: https://docs.ogc.org/dp/16-114r2/16-114r2.html
+docidentifier:
+- content: 16-114r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-04-15'
+  at: '2018-04-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Martin Desruisseaux
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2018-04-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The netCDF Moving Features encoding extension is a summary of conventions
+- language: en
+  script: Latn
+  content: 'The netCDF Moving Features encoding extension is a summary of conventions
     that supports efficient exchange of simple moving features as binary files. This
     Discussion Paper is a complement to the Moving Features Encoding Part I: XML Core
     and an alternative to the Simple Comma Separated Values (CSV) extension. Compared
     to the CSV encoding, this netCDF encoding offers more compact storage and better
     performance at the cost of additional restrictions on the kinds of features that
     can be stored.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

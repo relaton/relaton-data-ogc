@@ -1,51 +1,59 @@
 ---
-schema-version: v1.2.9
-id: 05-015
-title:
-- content: Imagery Metadata
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Imagery Metadata
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=8826
-  type: pdf
+id: '05015'
 type: standard
-docid:
-- id: 05-015
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Imagery Metadata
+  type: title-main
+- language: en
+  script: Latn
+  content: Imagery Metadata
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=8826
+docidentifier:
+- content: 05-015
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2005-01-27'
+  at: '2005-01-27'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Barry Schlesinger
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2005-01-27'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'Special XML schemas have been created for individual data sets, based
+- language: en
+  script: Latn
+  content: 'Special XML schemas have been created for individual data sets, based
     on ISO 19115 and a general schema for the RSE. However, a generalized metadata
     XML schema should be available where possible; it should not be necessary to create
     special schemas for each data set. ISO 19139 can serve as such a general XML implementation
@@ -58,14 +66,8 @@ abstract:
     are supported by 19139, to what extent they are supported by metadata specified
     in the new ISO standards or the RSE, and to what extent new metadata elements
     are needed. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

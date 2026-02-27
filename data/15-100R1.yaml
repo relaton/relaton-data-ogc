@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 15-100r1
-title:
-- content: OGC Observations and Measurements – JSON implementation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Observations and Measurements – JSON implementation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/om-json/
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=64910
-  type: pdf
+id: 15100r1
 type: standard
-docid:
-- id: 15-100r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Observations and Measurements – JSON implementation
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Observations and Measurements – JSON implementation
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/om-json/
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=64910
+docidentifier:
+- content: 15-100r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-12-09'
+  at: '2015-12-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Simon J D Cox
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Peter Taylor '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2015-12-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Discussion Paper specifies a potential OGC Candidate Standard for
+- language: en
+  script: Latn
+  content: "This Discussion Paper specifies a potential OGC Candidate Standard for
     a JSON implementation of the OGC and ISO Observations and Measurements (O&M) conceptual
     model (OGC Observations and Measurements v2.0 also published as ISO/DIS 19156).
     This encoding is expected to be useful in RESTful implementations of observation
@@ -64,14 +72,8 @@ abstract:
     These provide document models for the exchange of information describing observation
     acts and their results, both within and between different scientific and technical
     communities.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

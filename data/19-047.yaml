@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 19-047
-title:
-- content: Proposed OGC GeoPackage Enhancements
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Proposed OGC GeoPackage Enhancements
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/DP/proposed-gpkg-enhance
-  type: src
-- content: https://docs.ogc.org/dp/19-047.html
-  type: html
+id: '19047'
 type: standard
-docid:
-- id: 19-047
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Proposed OGC GeoPackage Enhancements
+  type: title-main
+- language: en
+  script: Latn
+  content: Proposed OGC GeoPackage Enhancements
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/DP/proposed-gpkg-enhance
+- type: html
+  content: https://docs.ogc.org/dp/19-047.html
+docidentifier:
+- content: 19-047
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-11-25'
+  at: '2019-11-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Yutzler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-11-25'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Open Geospatial Consortium (OGC) GeoPackage Encoding Standard was
+- language: en
+  script: Latn
+  content: "The Open Geospatial Consortium (OGC) GeoPackage Encoding Standard was
     developed for the purpose of providing an open, standards-based, platform-independent,
     portable, self-describing, compact format for transferring geospatial information.
     GeoPackage has proven to be an effective container mechanism for bundling and
@@ -72,14 +80,8 @@ abstract:
     environments. This will help ensure that GeoPackage production-consumption lifecycles
     and supporting application tools and services are better aligned with stakeholder
     missions."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

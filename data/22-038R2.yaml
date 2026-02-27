@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 22-038r2
-title:
-- content: 'Testbed-18: Reference Frame Transformation Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Testbed-18: Reference Frame Transformation Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T18-D025
-  type: src
-- content: https://docs.ogc.org/per/22-038r2.html
-  type: html
+id: 22038r2
 type: standard
-docid:
-- id: 22-038r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Testbed-18: Reference Frame Transformation Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Testbed-18: Reference Frame Transformation Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T18-D025
+- type: html
+  content: https://docs.ogc.org/per/22-038r2.html
+docidentifier:
+- content: 22-038r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-03-09'
+  at: '2023-03-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Martin Desruisseaux
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2023-03-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Currently, most OGC standards focus on data that is observed on the ground
+- language: en
+  script: Latn
+  content: Currently, most OGC standards focus on data that is observed on the ground
     or directly above planet Earth. Other standards, such as GeoSciML, provide a data
     model and transfer standard for geological data. Other projects have considered
     data models and exchange standards for the seas and oceans. Extra-terrestrial
@@ -60,14 +68,8 @@ abstract:
     solar system with respect to their location, trajectory, and orientation. Finally
     standard-based mechanisms to transform a location within a reference frame to
     a location within another reference frame are examined.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

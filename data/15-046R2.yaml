@@ -1,69 +1,77 @@
 ---
-schema-version: v1.2.9
-id: 15-046r2
-title:
-- content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
-    Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
-    Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/tb11_ucr_flood_er
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=64174
-  type: pdf
+id: 15046r2
 type: standard
-docid:
-- id: 15-046r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
+    Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed-11 High Resolution Flood Information Scenario Engineering
+    Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/tb11_ucr_flood_er
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=64174
+docidentifier:
+- content: 15-046r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-01-18'
+  at: '2016-01-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Eugene G. Yu
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Liping Di
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ranjay Shrestha
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2016-01-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This OGC Engineering Report describes the high-resolution flood information
+- language: en
+  script: Latn
+  content: 'This OGC Engineering Report describes the high-resolution flood information
     scenario carried out under the Urban Climate Resilience Thread of the Testbed
     11 Initiative. The scenario was developed for two areas of interest: the San Francisco
     Bay Area and in Mozambique. The scenarios for these two locations demonstrate
@@ -75,14 +83,8 @@ abstract:
     OGC geospatial Web Service standards in supporting the on-demand, dynamic serving
     of flood information from models with forecasting capacity. Change requests to
     OGC standards have also been identified through the Testbed activity.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

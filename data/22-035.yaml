@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 22-035
-title:
-- content: 'Testbed-18: 3D+ Data Streaming Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Testbed-18: 3D+ Data Streaming Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T18-D026
-  type: src
-- content: https://docs.ogc.org/per/22-035.html
-  type: html
+id: '22035'
 type: standard
-docid:
-- id: 22-035
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Testbed-18: 3D+ Data Streaming Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Testbed-18: 3D+ Data Streaming Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T18-D026
+- type: html
+  content: https://docs.ogc.org/per/22-035.html
+docidentifier:
+- content: 22-035
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-09-01'
+  at: '2023-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jérôme Jacovella-St-Louis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2023-09-01'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Testbed 18 3D Plus Data Standards and Streaming Engineering Report
+- language: en
+  script: Latn
+  content: "This OGC Testbed 18 3D Plus Data Standards and Streaming Engineering Report
     (ER) reviews existing specifications that support interoperable descriptions of
     orbital and non-orbital space-based assets, objects, and observations as well
     as terrestrial observations. The ER suggests a framework consolidating these specifications
@@ -55,14 +63,8 @@ abstract:
     assets operating at any location in our solar system (3D+ data). This framework
     enables the streaming of 3D+ data to visualization devices (displays, AR, VR)
     for presentation.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

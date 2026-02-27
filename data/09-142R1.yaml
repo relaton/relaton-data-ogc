@@ -1,81 +1,83 @@
 ---
-schema-version: v1.2.9
-id: '09-142r1'
-title:
-- content: 'OGC®: Open GeoSMS Specification'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC®: Open GeoSMS Specification'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=36261
-  type: pdf
+id: '09142r1'
 type: standard
-docid:
-- id: '09-142r1'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC®: Open GeoSMS Specification'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC®: Open GeoSMS Specification'
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=36261
+docidentifier:
+- content: '09-142r1'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-02-01'
+  at: '2010-02-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Chun-fu Lin
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Zhong-Hung Lee
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jen-Chu Liu
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kuo-Yu Chuang
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2010-02-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard specifies the location formats to be used by SMS for mobile
+- language: en
+  script: Latn
+  content: This standard specifies the location formats to be used by SMS for mobile
     phones and in other systems handling the SMS with location formats produced by
     mobile phones or LBS services.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

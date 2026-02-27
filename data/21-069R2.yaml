@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 21-069r2
-title:
-- content: OGC CoverageJSON Community Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC CoverageJSON Community Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/CS/covjson/1.0
-  type: src
-- content: https://docs.ogc.org/cs/21-069r2/21-069r2.html
-  type: html
+id: 21069r2
 type: standard
-docid:
-- id: 21-069r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC CoverageJSON Community Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC CoverageJSON Community Standard
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/CS/covjson/1.0
+- type: html
+  content: https://docs.ogc.org/cs/21-069r2/21-069r2.html
+docidentifier:
+- content: 21-069r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-08-22'
+  at: '2023-08-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Chris Little
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jon Blower
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Maik Riechert '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2023-08-22'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Based on JavaScript Object Notation (JSON), CoverageJSON is a format for
+- language: en
+  script: Latn
+  content: "Based on JavaScript Object Notation (JSON), CoverageJSON is a format for
     publishing spatiotemporal data to the Web. The primary design goals are simplicity,
     machine and human readability and efficiency. While other use cases are possible,
     the primary CoverageJSON use case is enabling the development of interactive visual
@@ -95,14 +103,8 @@ abstract:
     documents. A simple example of this use case is encoding each time step of a dataset
     into a separate file, but the tiles could also be divided spatially in a manner
     similar to a tiled map server."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: community-standard
-  editorialgroup:
-    committee: technical
+    content: community-standard
+  flavor: ogc

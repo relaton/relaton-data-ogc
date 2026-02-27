@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 19-007
-title:
-- content: OGC CDB Vector Data in GeoPackage Interoperability Experiment
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC CDB Vector Data in GeoPackage Interoperability Experiment
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/CDB-GPKG-IE
-  type: src
-- content: https://docs.ogc.org/per/19-007.html
-  type: html
+id: '19007'
 type: standard
-docid:
-- id: 19-007
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC CDB Vector Data in GeoPackage Interoperability Experiment
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC CDB Vector Data in GeoPackage Interoperability Experiment
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/CDB-GPKG-IE
+- type: html
+  content: https://docs.ogc.org/per/19-007.html
+docidentifier:
+- content: 19-007
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-08-20'
+  at: '2019-08-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-08-20'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Engineering Report (ER) documents the results of the CDB Vector
+- language: en
+  script: Latn
+  content: "This OGC Engineering Report (ER) documents the results of the CDB Vector
     Data in GeoPackage Interoperability Experiment (IE). The participants in this
     IE tested transforming CDB Shapefile vector data into one or more GeoPackage(s)
     and storing the result in a CDB data store. GeoPackage Version 1.2 and CDB Version
@@ -58,14 +66,8 @@ abstract:
     encodings and/or containers other than Shapefiles. These suggested changes requests
     and/or best/practices will be used as the basis for CDB Standards Working Group
     (SWG) discussions related to possible revisions to the CDB standard."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

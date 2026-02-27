@@ -1,57 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 15-048r3
-title:
-- content: OGC Testbed-11 NIEM & IC Data Encoding Specification Assessment and Recommendations
-    Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Testbed-11 NIEM & IC Data Encoding Specification Assessment and Recommendations
-    Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t11-niem-encoding
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=65420
-  type: pdf
+id: 15048r3
 type: standard
-docid:
-- id: 15-048r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed-11 NIEM & IC Data Encoding Specification Assessment and Recommendations
+    Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed-11 NIEM & IC Data Encoding Specification Assessment and Recommendations
+    Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t11-niem-encoding
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=65420
+docidentifier:
+- content: 15-048r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-01-25'
+  at: '2016-01-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Harrison
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2016-01-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The goal of the Geo4NIEM thread in Testbed 11 was to gain Intelligence
+- language: en
+  script: Latn
+  content: "The goal of the Geo4NIEM thread in Testbed 11 was to gain Intelligence
     Community\r\n(IC) concurrence of the National Information Exchange Model (NIEM)
     Version 3.0\r\narchitecture through the development, implementations, test, and
     robust demonstration\r\nmaking use of IC specifications, Geography Markup Language
@@ -69,14 +77,8 @@ abstract:
     by multiple client applications. Results from this task\r\nprovided a preliminary
     architecture that was tested and demonstrated in Testbed 11, and\r\nsummarized
     in other OGC Testbed 11 Engineering Reports."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

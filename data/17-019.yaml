@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 17-019
-title:
-- content: 'OGC Testbed-13: MapML Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: MapML Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-NR002
-  type: src
-- content: https://docs.ogc.org/per/17-019.html
-  type: html
+id: '17019'
 type: standard
-docid:
-- id: 17-019
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: MapML Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: MapML Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-NR002
+- type: html
+  content: https://docs.ogc.org/per/17-019.html
+docidentifier:
+- content: 17-019
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-01-11'
+  at: '2018-01-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Maso
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2018-01-11'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report discusses the approach of Map Markup Language
+- language: en
+  script: Latn
+  content: "This Engineering Report discusses the approach of Map Markup Language
     (MapML) and Map for HyperText Markup Language (Map4HTML) described in: https://github.com/Maps4HTML
     and supported by the community in https://www.w3.org/community/maps4html/. The
     objective of MapML is to define a hypermedia type for geospatial maps on the web
@@ -70,14 +78,8 @@ abstract:
     Service (WMTS) as services that can be used to deliver MapML documents with small
     modifications.\r\n\r\nAnother consideration on the ER is the inclusion of the
     time dimension and directions operation in MapML."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

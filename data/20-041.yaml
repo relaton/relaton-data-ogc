@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 20-041
-title:
-- content: 'OGC Testbed-16: Analysis Ready Data Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-16: Analysis Ready Data Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t16-D018
-  type: src
-- content: https://docs.ogc.org/per/20-041.html
-  type: html
+id: '20041'
 type: standard
-docid:
-- id: 20-041
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-16: Analysis Ready Data Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-16: Analysis Ready Data Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t16-D018
+- type: html
+  content: https://docs.ogc.org/per/20-041.html
+docidentifier:
+- content: 20-041
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-01-13'
+  at: '2021-01-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Maso
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-01-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Committee on Earth Observation Satellites (CEOS) defines Analysis
+- language: en
+  script: Latn
+  content: "The Committee on Earth Observation Satellites (CEOS) defines Analysis
     Ready Data (ARD) for Land (CARD4L) as satellite data that have been processed
     to a minimum set of requirements and organized into a form that allows immediate
     analysis with a minimum of additional user effort and interoperability both through
@@ -59,14 +67,8 @@ abstract:
     allow and favor code transmission and remote execution. This ER also considers
     a workflow in which new processes are triggered as soon as new data becomes available.
     This is part of the event driven discussion."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

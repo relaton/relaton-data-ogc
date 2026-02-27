@@ -1,62 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 16-083r2
-title:
-- content: OGC Coverage Implementation Schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: ReferenceableGridCoverage Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/spec/GMLCOV/GMLCOVRGRID/1.0
-  type: src
-- content: https://docs.ogc.org/is/16-083r2/16-083r2.html
-  type: html
+id: 16083r2
 type: standard
-docid:
-- id: 16-083r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Coverage Implementation Schema
+  type: title-intro
+- language: en
+  script: Latn
+  content: ReferenceableGridCoverage Extension
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/spec/GMLCOV/GMLCOVRGRID/1.0
+- type: html
+  content: https://docs.ogc.org/is/16-083r2/16-083r2.html
+docidentifier:
+- content: 16-083r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-06-15'
+  at: '2017-06-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Eric Hirschorn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2017-06-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC GML Application Schema - Coverages (“GMLCOV”) version 1.0 [OGC
+- language: en
+  script: Latn
+  content: "The OGC GML Application Schema - Coverages (“GMLCOV”) version 1.0 [OGC
     09-146r2], recently renamed the OGC Coverage Implementation Schema version 1.0,
     provides a ReferenceableGridCoverage element for representing coverages on a referenceable
     grid.  However, GMLCOV provides no instantiable subtypes of a critical sub-element
@@ -70,15 +75,9 @@ abstract:
     elements for use as sub-elements of ReferenceableGridCoverage.  Three of these
     elements have been adapted from GML 3.3, while a fourth emerged from work on a
     Testbed-11 Engineering Report[2]."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,83 +1,91 @@
 ---
-schema-version: v1.2.9
-id: 16-079
-title:
-- content: Semantic Sensor Network Ontology
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Semantic Sensor Network Ontology
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://www.w3.org/TR/vocab-ssn/
-  type: src
-- content: https://www.w3.org/TR/2017/REC-vocab-ssn-20171019/
-  type: html
+id: '16079'
 type: standard
-docid:
-- id: 16-079
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Semantic Sensor Network Ontology
+  type: title-main
+- language: en
+  script: Latn
+  content: Semantic Sensor Network Ontology
+  type: main
+source:
+- type: src
+  content: https://www.w3.org/TR/vocab-ssn/
+- type: html
+  content: https://www.w3.org/TR/2017/REC-vocab-ssn-20171019/
+docidentifier:
+- content: 16-079
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-07-10'
+  at: '2019-07-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Armin Haller
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Krzysztof Janowicz
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Simon Cox
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Danh Le Phuoc
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kerry Taylor
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Maxime Lefrançois
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-07-10'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Semantic Sensor Network (SSN) ontology is an ontology for describing
+- language: en
+  script: Latn
+  content: The Semantic Sensor Network (SSN) ontology is an ontology for describing
     sensors and their observations, the involved procedures, the studied features
     of interest, the samples used to do so, and the observed properties, as well as
     actuators. SSN follows a horizontal and vertical modularization architecture by
@@ -89,15 +97,9 @@ abstract:
     social sensing, citizen science, observation-driven ontology engineering, and
     the Web of Things. Both ontologies are described below, and examples of their
     usage are given.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

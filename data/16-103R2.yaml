@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 16-103r2
-title:
-- content: 'OGC InfraGML 1.0: Part 3'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Alignments
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: 'OGC InfraGML 1.0: Part 3 - Alignments - Encoding Standard'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/standard/infragml/part3/1.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=75120
-  type: pdf
+id: 16103r2
 type: standard
-docid:
-- id: 16-103r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC InfraGML 1.0: Part 3'
+  type: title-intro
+- language: en
+  script: Latn
+  content: Alignments
+  type: title-main
+- language: en
+  script: Latn
+  content: Encoding Standard
+  type: title-part
+- language: en
+  script: Latn
+  content: 'OGC InfraGML 1.0: Part 3 - Alignments - Encoding Standard'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/standard/infragml/part3/1.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=75120
+docidentifier:
+- content: 16-103r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-08-16'
+  at: '2017-08-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Paul Scarponcini
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2017-08-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC InfraGML Encoding Standard presents the implementation-dependent,
+- language: en
+  script: Latn
+  content: "This OGC InfraGML Encoding Standard presents the implementation-dependent,
     GML encoding of concepts supporting land and civil engineering infrastructure
     facilities specified in the OGC Land and Infrastructure Conceptual Model Standard
     (LandInfra), OGC 15-111r1. Conceptual model subject areas include land features,
@@ -71,15 +73,9 @@ abstract:
     and survey results), land division, and condominiums.\r\nInfraGML is published
     as a multi-part standard. This Part 3 addresses the Alignment Requirements Class
     from LandInfra."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

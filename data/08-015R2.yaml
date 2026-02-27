@@ -1,69 +1,68 @@
 ---
-schema-version: v1.2.9
-id: '08-015r2'
-title:
-- content: Topic 2
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Spatial referencing by coordinates
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Topic 2 - Spatial referencing by coordinates
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=39049
-  type: pdf
+id: '08015r2'
 type: standard
-docid:
-- id: '08-015r2'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 2
+  type: title-intro
+- language: en
+  script: Latn
+  content: Spatial referencing by coordinates
+  type: title-main
+- language: en
+  script: Latn
+  content: Topic 2 - Spatial referencing by coordinates
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=39049
+docidentifier:
+- content: '08-015r2'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-04-27'
+  at: '2010-04-27'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Roger Lott
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2010-04-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document is consistent with the second edition (2007) of ISO 19111,
+- language: en
+  script: Latn
+  content: This document is consistent with the second edition (2007) of ISO 19111,
     Geographic Information - Spatial referencing by coordinates  [ISO 19111:2007]
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

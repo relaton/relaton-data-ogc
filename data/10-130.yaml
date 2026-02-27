@@ -1,71 +1,70 @@
 ---
-schema-version: v1.2.9
-id: 10-130
-title:
-- content: OWS-7 Aviation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: FUSE Deployment Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-7 Aviation - FUSE Deployment Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=40114
-  type: pdf
+id: '10130'
 type: standard
-docid:
-- id: 10-130
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-7 Aviation
+  type: title-intro
+- language: en
+  script: Latn
+  content: FUSE Deployment Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-7 Aviation - FUSE Deployment Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=40114
+docidentifier:
+- content: 10-130
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-08-18'
+  at: '2010-08-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Debbie Wilson
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2010-08-18'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document describes the integration results of deploying OGC Web Services
+- language: en
+  script: Latn
+  content: This document describes the integration results of deploying OGC Web Services
     on the FAA chosen Enterprise Service Bus (ESB) - FUSE. Snowflake Software were
     commissioned to evaluate the impacts of the FAA SWIM security requirements for
     both secure messaging and user authentication and gain an understanding of the
     requirements for deploying OGC web services into the Apache FUSE Enterprise Service
     Bus (ESB).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

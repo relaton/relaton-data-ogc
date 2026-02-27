@@ -1,77 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 21-023
-title:
-- content: Earth Observation Cloud Platform Concept Development Study Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Earth Observation Cloud Platform Concept Development Study Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/EO-Cloud-Platform-CDS-ER
-  type: src
-- content: https://docs.ogc.org/per/21-023.html
-  type: html
+id: '21023'
 type: standard
-docid:
-- id: 21-023
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Earth Observation Cloud Platform Concept Development Study Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Earth Observation Cloud Platform Concept Development Study Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/EO-Cloud-Platform-CDS-ER
+- type: html
+  content: https://docs.ogc.org/per/21-023.html
+docidentifier:
+- content: 21-023
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-12-13'
+  at: '2021-12-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Johannes Echterhoff
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Julia Wagemann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Josh Lieberman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-12-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Earth Observation Cloud Platform Concept Development Study (CDS) evaluates
+- language: en
+  script: Latn
+  content: The Earth Observation Cloud Platform Concept Development Study (CDS) evaluates
     the readiness of satellite data providers and cloud service providers, as well
     as the maturity of their current systems, with regard to real-world deployment
     of the new “Applications-to-the-Data” paradigm, using cloud environments for EO
     data storage, processing, and retrieval.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

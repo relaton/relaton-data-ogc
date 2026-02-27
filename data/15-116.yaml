@@ -1,79 +1,78 @@
 ---
-schema-version: v1.2.9
-id: 15-116
-title:
-- content: AHA-ML (Active and Healthy Ageing Mark-up Language) an O&M profile
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Discussion Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: AHA-ML (Active and Healthy Ageing Mark-up Language) an O&M profile - Discussion
-    Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/aha-ml
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=68040
-  type: pdf
+id: '15116'
 type: standard
-docid:
-- id: 15-116
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: AHA-ML (Active and Healthy Ageing Mark-up Language) an O&M profile
+  type: title-intro
+- language: en
+  script: Latn
+  content: Discussion Paper
+  type: title-main
+- language: en
+  script: Latn
+  content: AHA-ML (Active and Healthy Ageing Mark-up Language) an O&M profile - Discussion
+    Paper
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/aha-ml
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=68040
+docidentifier:
+- content: 15-116
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-04-26'
+  at: '2016-04-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Giuseppe Conti
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Fabio Roncato
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2016-04-26'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document provides a proposal for a new O&M (Observations and Measurements)
+- language: en
+  script: Latn
+  content: This document provides a proposal for a new O&M (Observations and Measurements)
     profile focused on Active and Healthy Ageing, called AHA-ML (Active and Healthy
     Ageing Mark-up Language) an O&M profile - Discussion Paper). This document introduces
     the overall need for such a profile and it discusses the measures which have been
     identified.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

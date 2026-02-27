@@ -1,62 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 15-104r5
-title:
-- content: Topic 21
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Discrete Global Grid Systems Abstract Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Topic 21 - Discrete Global Grid Systems Abstract Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/AS/dggs/1.0
-  type: src
-- content: https://docs.ogc.org/as/15-104r5/15-104r5.html
-  type: html
+id: 15104r5
 type: standard
-docid:
-- id: 15-104r5
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 21
+  type: title-intro
+- language: en
+  script: Latn
+  content: Discrete Global Grid Systems Abstract Specification
+  type: title-main
+- language: en
+  script: Latn
+  content: Topic 21 - Discrete Global Grid Systems Abstract Specification
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/AS/dggs/1.0
+- type: html
+  content: https://docs.ogc.org/as/15-104r5/15-104r5.html
+docidentifier:
+- content: 15-104r5
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-08-01'
+  at: '2017-08-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Matthew Purss
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '5'
-revdate: '2017-08-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document specifies the core Abstract Specification and extension mechanisms
+- language: en
+  script: Latn
+  content: This document specifies the core Abstract Specification and extension mechanisms
     for Discrete Global Grid Systems (DGGS). A DGGS is a spatial reference system
     that uses a hierarchical tessellation of cells to partition and address the globe.
     DGGS are characterized by the properties of their cell structure, geo-encoding,
@@ -66,14 +71,8 @@ abstract:
     multi-dimensional, distributed geospatial data. Interoperability between OGC DGGS
     implementations is anticipated through implementation standards, and extension
     interface encodings of OGC Web Services.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

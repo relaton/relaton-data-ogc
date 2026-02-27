@@ -1,73 +1,72 @@
 ---
-schema-version: v1.2.9
-id: 16-019r4
-title:
-- content: OGC® Open Geospatial APIs
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: White Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Open Geospatial APIs - White Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/WP/api-whitepaper
-  type: src
-- content: https://docs.ogc.org/wp/16-019r4/16-019r4.html
-  type: html
+id: 16019r4
 type: standard
-docid:
-- id: 16-019r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Open Geospatial APIs
+  type: title-intro
+- language: en
+  script: Latn
+  content: White Paper
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Open Geospatial APIs - White Paper
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/WP/api-whitepaper
+- type: html
+  content: https://docs.ogc.org/wp/16-019r4/16-019r4.html
+docidentifier:
+- content: 16-019r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-02-23'
+  at: '2017-02-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: George Percivall
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2017-02-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: OGC defines interfaces that enable interoperability of geospatial applications.
+- language: en
+  script: Latn
+  content: OGC defines interfaces that enable interoperability of geospatial applications.
     API’s are a popular method to implement interfaces for accessing spatial data.
     This White Paper provides a discussion of Application Programming Interfaces (APIs)
     to support discussion of possible actions in the Open Geospatial Consortium (OGC).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

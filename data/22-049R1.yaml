@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 22-049r1
-title:
-- content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/is/geoxacml-core/3.0.0
-  type: src
-- content: https://docs.ogc.org/is/22-049r1/22-049r1.html
-  type: html
+id: 22049r1
 type: standard
-docid:
-- id: 22-049r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/is/geoxacml-core/3.0.0
+- type: html
+  content: https://docs.ogc.org/is/22-049r1/22-049r1.html
+docidentifier:
+- content: 22-049r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-09-21'
+  at: '2023-09-21'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Andreas Matheus
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2023-09-21'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+- language: en
+  script: Latn
+  content: "The Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
     defines a geospatial extension to the OASIS eXtensible Access Control Markup Language
     (XACML) Version 3.0 Standard. GeoXACML 3.0 supports the interoperable definition
     of access rights including geographic conditions based on the XACML 3.0 language,
@@ -71,15 +79,9 @@ abstract:
     unless prohibited per request. Finally, the API conformance class enables operating
     a GeoXACML 3.0 compliant implementation as an OGC API conformant service (Policy
     Decision Point)."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

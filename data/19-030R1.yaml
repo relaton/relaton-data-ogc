@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 19-030r1
-title:
-- content: OGC Mixed Reality to the Edge Concept Development Study
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Mixed Reality to the Edge Concept Development Study
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/mr-cds
-  type: src
-- content: https://docs.ogc.org/per/19-030r1.html
-  type: html
+id: 19030r1
 type: standard
-docid:
-- id: 19-030r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Mixed Reality to the Edge Concept Development Study
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Mixed Reality to the Edge Concept Development Study
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/mr-cds
+- type: html
+  content: https://docs.ogc.org/per/19-030r1.html
+docidentifier:
+- content: 19-030r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-08-20'
+  at: '2019-08-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-08-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Mixed Reality (MR), also referred to as hybrid reality, is the merging
+- language: en
+  script: Latn
+  content: "Mixed Reality (MR), also referred to as hybrid reality, is the merging
     of real and virtual worlds to produce new environments and visualizations where
     physical and digital objects co-exist and interact in real time. MR has great
     potential in enhancing situation awareness and otherwise augmenting the experiences
@@ -60,14 +68,8 @@ abstract:
     with a focus on discussing the state of needed interoperability and standards.\r\n\r\nThe
     term mixed reality was originally introduced in a 1994 paper by Paul Milgram and
     Fumio Kishino, A Taxonomy of Mixed Reality Visual Displays. What is mixed reality?."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

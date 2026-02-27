@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-049r1
-title:
-- content: 'OGC Testbed-14: Application Package Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: Application Package Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D008
-  type: src
-- content: https://docs.ogc.org/per/18-049r1.html
-  type: html
+id: 18049r1
 type: standard
-docid:
-- id: 18-049r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Application Package Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Application Package Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D008
+- type: html
+  content: https://docs.ogc.org/per/18-049r1.html
+docidentifier:
+- content: 18-049r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-07'
+  at: '2019-02-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Paulo Sacramento
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-02-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report (ER) describes the work performed by the Participants
+- language: en
+  script: Latn
+  content: "This Engineering Report (ER) describes the work performed by the Participants
     in the Exploitation Platforms Earth Observation Clouds (EOC) Thread of OGC Testbed-14
     in regard to the Application Package (AP).\r\n\r\nThe AP serves as a means to
     convey different kinds of information describing a certain application - often,
@@ -82,14 +90,8 @@ abstract:
     identified in Testbed-13, and embracing the new and changed Sponsor requirements,
     this ER explains the trade-offs, decisions and conclusions taken by the Participants
     throughout the project."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

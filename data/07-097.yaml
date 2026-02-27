@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 07-097
-title:
-- content: Reference Model for the ORCHESTRA Architecture
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Reference Model for the ORCHESTRA Architecture
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=23286
-  type: pdf
+id: '07097'
 type: standard
-docid:
-- id: 07-097
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Reference Model for the ORCHESTRA Architecture
+  type: title-main
+- language: en
+  script: Latn
+  content: Reference Model for the ORCHESTRA Architecture
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=23286
+docidentifier:
+- content: 07-097
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-10-05'
+  at: '2007-10-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Thomas Uslander (Ed.)
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2007-10-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document specifies the Reference Model for the ORCHESTRA Architecture
+- language: en
+  script: Latn
+  content: 'This document specifies the Reference Model for the ORCHESTRA Architecture
     (RM-OA). It is an extension of the OGC Reference Model and contains a specification
     framework for the design of geospatial service-oriented architectures and service
     networks. The RM-OA comprises the generic aspects of service-oriented architectures,
     i.e., those aspects that are independent of the risk management domain and thus
     applicable to other application domains. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

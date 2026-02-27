@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 18-030
-title:
-- content: 'OGC Testbed-14: Secure Client Test Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: Secure Client Test Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D003
-  type: src
-- content: https://docs.ogc.org/per/18-030.html
-  type: html
+id: '18030'
 type: standard
-docid:
-- id: 18-030
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Secure Client Test Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Secure Client Test Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D003
+- type: html
+  content: https://docs.ogc.org/per/18-030.html
+docidentifier:
+- content: 18-030
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-03-06'
+  at: '2019-03-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sara Saeedi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-03-06'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report (ER) describes the development of compliance tests
+- language: en
+  script: Latn
+  content: "This Engineering Report (ER) describes the development of compliance tests
     and their implementation in the OGC Test, Evaluation, And Measurement (TEAM) Engine
     to validate a client’s ability to make secure requests according to the OGC Web
     Services Security Candidate Standard. The goal of the candidate standard is to
@@ -60,14 +68,8 @@ abstract:
     different authentication methods\r\n\r\nmaking recommendations to the OGC Web
     Services Security Standards Working Group (SWG) based on the experiences made
     while developing the validator\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,61 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 07-004
-title:
-- content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=20431
-  type: pdf
+id: '07004'
 type: standard
-docid:
-- id: 07-004
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
+  type: title-main
+- language: en
+  script: Latn
+  content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=20431
+docidentifier:
+- content: 07-004
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-05-07'
+  at: '2007-05-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2007-05-07'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OpenGIS(r) document describes the API for two web services capable
+- language: en
+  script: Latn
+  content: "This OpenGIS(r) document describes the API for two web services capable
     of generating several simplified data formats including GeoRSS and the Basic XML
     Feature Schema\r\n(BXFS). \r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

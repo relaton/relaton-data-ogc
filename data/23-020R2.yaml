@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 23-020r2
-title:
-- content: Engineering report for OGC Climate Resilience Pilot
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Engineering report for OGC Climate Resilience Pilot
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/climate-resilience-pilot
-  type: src
-- content: https://docs.ogc.org/per/23-020r2.html
-  type: html
+id: 23020r2
 type: standard
-docid:
-- id: 23-020r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Engineering report for OGC Climate Resilience Pilot
+  type: title-main
+- language: en
+  script: Latn
+  content: Engineering report for OGC Climate Resilience Pilot
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/climate-resilience-pilot
+- type: html
+  content: https://docs.ogc.org/per/23-020r2.html
+docidentifier:
+- content: 23-020r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-01-29'
+  at: '2024-01-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Guy Schumann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Albert Kettner
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Nils Hempelmann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2024-01-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC Climate Resilience Pilot marked the beginning of a series of enduring
+- language: en
+  script: Latn
+  content: "The OGC Climate Resilience Pilot marked the beginning of a series of enduring
     climate initiatives with the primary goal of evaluating the value chain encompassing
     raw data to climate information processes within Climate Resilience Information
     Systems. This includes the transformation of geospatial data into meaningful knowledge
@@ -82,14 +90,8 @@ abstract:
     data effectively. However, professionals outside the weather and climate domain,
     such as planners and GIS analysts working for agencies dealing with climate change
     impacts, have limited familiarity with and capacity to utilize climate data.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

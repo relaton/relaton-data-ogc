@@ -1,84 +1,86 @@
 ---
-schema-version: v1.2.9
-id: 07-165r1
-title:
-- content: 'OGC® Sensor Web Enablement: Overview And High Level Architecture'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC® Sensor Web Enablement: Overview And High Level Architecture'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/wp/swe-high-level-architecture
-  type: src
-- content: https://docs.ogc.org/wp/07-165r1/
-  type: html
+id: 07165r1
 type: standard
-docid:
-- id: 07-165r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC® Sensor Web Enablement: Overview And High Level Architecture'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC® Sensor Web Enablement: Overview And High Level Architecture'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/wp/swe-high-level-architecture
+- type: html
+  content: https://docs.ogc.org/wp/07-165r1/
+docidentifier:
+- content: 07-165r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-04-02'
+  at: '2013-04-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Mike Botts
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: George Percivall
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: John Davidson
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2013-04-02'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC White Paper provides a high-level overview of and architecture
+- language: en
+  script: Latn
+  content: "This OGC White Paper provides a high-level overview of and architecture
     for the Open Geospatial\r\nConsortium (OGC) standards activities that focus on
     sensors, sensor networks, and a concept called the\r\n“Sensor Web”. This OGC focus
     area is known as Sensor Web Enablement (SWE)."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

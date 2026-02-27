@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 16-023r3
-title:
-- content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A067
-  type: src
-- content: https://docs.ogc.org/per/16-023r3.html
-  type: html
+id: 16023r3
 type: standard
-docid:
-- id: 16-023r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 Implementing Asynchronous Services Response Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A067
+- type: html
+  content: https://docs.ogc.org/per/16-023r3.html
+docidentifier:
+- content: 16-023r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-06-30'
+  at: '2017-06-30'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Benjamin Pross
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2017-06-30'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'Most of current OGC specifications define synchronous communication patterns,
+- language: en
+  script: Latn
+  content: 'Most of current OGC specifications define synchronous communication patterns,
     i.e. after sending a request to an OGC service, clients need to wait for the response.
     But several applications, e.g. delivery of information about events or executing
     complex environmental models with long runtime, need asynchronous client-server
@@ -61,14 +69,8 @@ abstract:
     and the third option is developed by the OGC Publish-Subscribe Working Group.
     This ER summarizes and compares the results from the different activities for
     asynchronous service responses and provides recommendations for future activities.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

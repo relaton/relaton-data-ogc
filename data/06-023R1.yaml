@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 06-023r1
-title:
-- content: Definition identifier URNs in OGC namespace
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Definition identifier URNs in OGC namespace
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=16339
-  type: pdf
+id: 06023r1
 type: standard
-docid:
-- id: 06-023r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Definition identifier URNs in OGC namespace
+  type: title-main
+- language: en
+  script: Latn
+  content: Definition identifier URNs in OGC namespace
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=16339
+docidentifier:
+- content: 06-023r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-08-08'
+  at: '2006-08-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arliss Whiteside
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2006-08-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "*** Corrigendum - updated 2006-08-08 ***\r\n\r\nThis revised version of
+- language: en
+  script: Latn
+  content: "*** Corrigendum - updated 2006-08-08 ***\r\n\r\nThis revised version of
     this document adds additional allowed authority and objectType values, plus specifies
     URNs for data types, as proposed in change requests OGC 05-091r2 and 05-060. In
     addition, corrections have been made to the XML documents listed in Annex A. The
@@ -58,15 +66,9 @@ abstract:
     URNs for specific definitions. These definitions should be used wherever applicable
     by implementations of various OGC Implementation Specifications, including GML,
     WMS, WFS, and WCS."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

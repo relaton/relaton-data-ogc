@@ -1,61 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 05-078
-title:
-- content: Styled Layer Descriptor Profile of the Web Map Service Implementation Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Styled Layer Descriptor Profile of the Web Map Service Implementation Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=12637
-  type: pdf
+id: '05078'
 type: standard
-docid:
-- id: 05-078
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Styled Layer Descriptor Profile of the Web Map Service Implementation Specification
+  type: title-main
+- language: en
+  script: Latn
+  content: Styled Layer Descriptor Profile of the Web Map Service Implementation Specification
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=12637
+docidentifier:
+- content: 05-078
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-04-21'
+  at: '2006-04-21'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Dr. Markus M
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2006-04-21'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Document specifies how a Web Map Service can be extended to allow
+- language: en
+  script: Latn
+  content: This Document specifies how a Web Map Service can be extended to allow
     user-defined styling. Different modes for utilizing Symbology Encoding for this
     purpose are discussed.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

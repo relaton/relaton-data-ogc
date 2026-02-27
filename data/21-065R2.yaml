@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 21-065r2
-title:
-- content: Common Query Language (CQL2)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Common Query Language (CQL2)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/cql2/1.0
-  type: src
-- content: https://docs.ogc.org/is/21-065r2/21-065r2.html
-  type: html
+id: 21065r2
 type: standard
-docid:
-- id: 21-065r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Common Query Language (CQL2)
+  type: title-main
+- language: en
+  script: Latn
+  content: Common Query Language (CQL2)
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/cql2/1.0
+- type: html
+  content: https://docs.ogc.org/is/21-065r2/21-065r2.html
+docidentifier:
+- content: 21-065r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-07-26'
+  at: '2024-07-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2024-07-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "A fundamental operation performed on a collection of features is that
+- language: en
+  script: Latn
+  content: "A fundamental operation performed on a collection of features is that
     of filtering in order to obtain a subset of the data which contains feature instances
     that satisfy some filtering criteria. This document specifies\r\n\r\nA filter
     grammar called Common Query Language (CQL2);\r\n\r\nTwo encodings for CQL2 - a
@@ -85,15 +93,9 @@ abstract:
     be updated to process filter expressions specified by this document. This document
     therefore uses the acronym CQL2 to refer to the current version of the Common
     Query Language."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

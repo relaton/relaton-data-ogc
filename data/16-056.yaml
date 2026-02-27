@@ -1,62 +1,64 @@
 ---
-schema-version: v1.2.9
-id: 16-056
-title:
-- content: Testbed-12 TopoJSON, GML Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 TopoJSON, GML Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A005-3
-  type: src
-- content: https://docs.ogc.org/per/16-056.html
-  type: html
+id: '16056'
 type: standard
-docid:
-- id: 16-056
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 TopoJSON, GML Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 TopoJSON, GML Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A005-3
+- type: html
+  content: https://docs.ogc.org/per/16-056.html
+docidentifier:
+- content: 16-056
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-05-15'
+  at: '2017-05-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Harrison
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-05-15'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC document evaluates TopoJSON as an encoding that may be delivered
+- language: en
+  script: Latn
+  content: This OGC document evaluates TopoJSON as an encoding that may be delivered
     across a common, standard OGC service interface such as WFS.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

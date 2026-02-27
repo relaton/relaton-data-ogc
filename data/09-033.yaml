@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: '09-033'
-title:
-- content: OWS-6 SensorML Profile for Discovery Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-6 SensorML Profile for Discovery Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=33284
-  type: pdf
+id: '09033'
 type: standard
-docid:
-- id: '09-033'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-6 SensorML Profile for Discovery Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-6 SensorML Profile for Discovery Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=33284
+docidentifier:
+- content: '09-033'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-07-29'
+  at: '2009-07-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Simon Jirka
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Arne Bröring
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2009-07-29'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document defines a basic SensorML profile for discovery purposes.
+- language: en
+  script: Latn
+  content: This document defines a basic SensorML profile for discovery purposes.
     Besides a minimum set of metadata also the structure of according SensorML documents
     is defined in order to ensure a consistent metadata description. This goal is
     achieved by a set of Schematron rules that can be used to validate if a given
     SensorML document complies with the profile described in this engineering report.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

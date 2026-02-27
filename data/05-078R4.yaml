@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 05-078r4
-title:
-- content: OpenGIS Styled Layer Descriptor Profile of the Web Map Service Implementation
-    Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OpenGIS Styled Layer Descriptor Profile of the Web Map Service Implementation
-    Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=22364
-  type: pdf
+id: '05078r4'
 type: standard
-docid:
-- id: 05-078r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenGIS Styled Layer Descriptor Profile of the Web Map Service Implementation
+    Specification
+  type: title-main
+- language: en
+  script: Latn
+  content: OpenGIS Styled Layer Descriptor Profile of the Web Map Service Implementation
+    Specification
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=22364
+docidentifier:
+- content: 05-078r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-08-14'
+  at: '2007-08-14'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Markus Lupp
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2007-08-14'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OpenGIS® Styled Layer Descriptor (SLD) Profile of the OpenGIS® Web
+- language: en
+  script: Latn
+  content: "The OpenGIS® Styled Layer Descriptor (SLD) Profile of the OpenGIS® Web
     Map Service (WMS) Encoding Standard [http://www.opengeospatial.org/standards/wms
     ] defines an encoding that extends the WMS standard to allow user-defined symbolization
     and coloring of geographic feature[http://www.opengeospatial.org/ogc/glossary/f
@@ -61,15 +69,9 @@ abstract:
     this language, while the SLD profile of WMS enables application of SE to WMS layers
     using extensions of WMS operations. Additionally, SLD defines an operation for
     standardized access to legend symbols.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

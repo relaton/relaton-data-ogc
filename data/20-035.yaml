@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 20-035
-title:
-- content: 'OGC Testbed-16: Earth Observation Application Packages with Jupyter Notebooks'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-16: Earth Observation Application Packages with Jupyter Notebooks'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t16-D027
-  type: src
-- content: https://docs.ogc.org/per/20-035.html
-  type: html
+id: '20035'
 type: standard
-docid:
-- id: 20-035
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-16: Earth Observation Application Packages with Jupyter Notebooks'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-16: Earth Observation Application Packages with Jupyter Notebooks'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t16-D027
+- type: html
+  content: https://docs.ogc.org/per/20-035.html
+docidentifier:
+- content: 20-035
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-01-13'
+  at: '2021-01-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Christophe Noël
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-01-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC Testbed-16 Engineering Report (ER) describes all results and experiences
+- language: en
+  script: Latn
+  content: This OGC Testbed-16 Engineering Report (ER) describes all results and experiences
     from the “Earth Observation Application Packages with Jupyter Notebook” thread
     of OGC Testbed-16. The aim of this thread was to extend the Earth Observation
     Applications architecture developed in OGC Testbeds 13, 14, and 15 with support
@@ -55,14 +63,8 @@ abstract:
     the Data Access and Processing API (DAPA) developed in the Testbed-16 Data Access
     and Processing API (DAPA) for Geospatial Data task and tested in joint Technology
     Integration Experiments.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

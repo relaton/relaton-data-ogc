@@ -1,74 +1,76 @@
 ---
-schema-version: v1.2.9
-id: 05-110
-title:
-- content: Feature Portrayal Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Feature Portrayal Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=13186
-  type: pdf
+id: '05110'
 type: standard
-docid:
-- id: 05-110
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Feature Portrayal Service
+  type: title-main
+- language: en
+  script: Latn
+  content: Feature Portrayal Service
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=13186
+docidentifier:
+- content: 05-110
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-04-19'
+  at: '2006-04-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arliss Whiteside
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Bill Woodward
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: co-editor
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2006-04-19'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document specifies the interface to a Feature Portrayal Service (FPS),
+- language: en
+  script: Latn
+  content: 'This document specifies the interface to a Feature Portrayal Service (FPS),
     which applies styles to digital features to produce a map image. The styles applied
     are identified or specified by the client, and are applied to digital feature
     data retrieved from a Web Feature Service (WFS) identified by the client. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

@@ -1,69 +1,68 @@
 ---
-schema-version: v1.2.9
-id: '09-146r1'
-title:
-- content: OGC® GML Application Schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Coverages
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® GML Application Schema - Coverages
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=41438
-  type: pdf
+id: '09146r1'
 type: standard
-docid:
-- id: '09-146r1'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® GML Application Schema
+  type: title-intro
+- language: en
+  script: Latn
+  content: Coverages
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® GML Application Schema - Coverages
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=41438
+docidentifier:
+- content: '09-146r1'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-10-27'
+  at: '2010-10-27'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2010-10-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document specifies the GML coverage structure to be used by OGC standards.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: This document specifies the GML coverage structure to be used by OGC standards.
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: profile
-  editorialgroup:
-    committee: technical
+  flavor: ogc

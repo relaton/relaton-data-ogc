@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-048r1
-title:
-- content: 'OGC Testbed-14: Point Cloud Data Handling Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: Point Cloud Data Handling Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D013
-  type: src
-- content: https://docs.ogc.org/per/18-048r1.html
-  type: html
+id: 18048r1
 type: standard
-docid:
-- id: 18-048r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Point Cloud Data Handling Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Point Cloud Data Handling Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D013
+- type: html
+  content: https://docs.ogc.org/per/18-048r1.html
+docidentifier:
+- content: 18-048r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-03-08'
+  at: '2019-03-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Howard Butler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-03-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report (ER) describes requirements that a point cloud
+- language: en
+  script: Latn
+  content: "This Engineering Report (ER) describes requirements that a point cloud
     web service must satisfy to enable application developers to provide convenient
     remote access to point clouds. It provides a short contrast of five point cloud
     web service software approaches (Esri I3S, 3D Tiles, Greyhound, PotreeConverter,
@@ -57,14 +65,8 @@ abstract:
     small industry survey about these requirements is also provided in support of
     the report’s discussion about formats, web service requirements, industry support,
     and industry desire on these topics.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

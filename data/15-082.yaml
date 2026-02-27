@@ -1,63 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 15-082
-title:
-- content: OGC GroundWaterML 2 – GW2IE FINAL REPORT
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC GroundWaterML 2 – GW2IE FINAL REPORT
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/GW2IE
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=64688
-  type: pdf
+id: '15082'
 type: standard
-docid:
-- id: 15-082
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC GroundWaterML 2 – GW2IE FINAL REPORT
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC GroundWaterML 2 – GW2IE FINAL REPORT
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/GW2IE
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=64688
+docidentifier:
+- content: 15-082
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-04-27'
+  at: '2016-04-27'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Boyan Brodaric
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2016-04-27'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document describes a conceptual model, logical model, and GML/XML
+- language: en
+  script: Latn
+  content: 'This document describes a conceptual model, logical model, and GML/XML
     encoding rules for the exchange of groundwater data.  In addition, this document
     provides GML/XML encoding examples for guidance. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

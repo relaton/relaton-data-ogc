@@ -1,63 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 23-008r3
-title:
-- content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
-    Part 1: Conceptual Model Standard'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
-    Part 1: Conceptual Model Standard'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/is/trainingdml-ai-1/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/23-008r3/23-008r3.html
-  type: html
+id: 23008r3
 type: standard
-docid:
-- id: 23-008r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 1: Conceptual Model Standard'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 1: Conceptual Model Standard'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/is/trainingdml-ai-1/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/23-008r3/23-008r3.html
+docidentifier:
+- content: 23-008r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-09-19'
+  at: '2023-09-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peng Yue
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Boyi Shangguan
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2023-09-19'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+- language: en
+  script: Latn
+  content: "The Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
     Standard aims to develop the UML model and encodings for geospatial machine learning
     training data. Training data plays a fundamental role in Earth Observation (EO)
     Artificial Intelligence Machine Learning (AI/ML), especially Deep Learning (DL).
@@ -71,15 +79,9 @@ abstract:
     to differentiate the high-level training data information model and extended information
     models specific to various ML applications; and\r\nHow to introduce external classification
     schemes and flexible means for representing ground truth labeling."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 15-113r3
-title:
-- content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/CDB-core/1.0.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=72712
-  type: pdf
+id: 15113r3
 type: standard
-docid:
-- id: 15-113r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/CDB-core/1.0.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=72712
+docidentifier:
+- content: 15-113r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-02-23'
+  at: '2017-02-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2017-02-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The CDB standard defines a standardized model and structure for a single,
+- language: en
+  script: Latn
+  content: "The CDB standard defines a standardized model and structure for a single,
     versionable, virtual representation of the earth. A CDB structured data store
     provides for a geospatial content and model definition repository that is plug-and-play
     interoperable between database authoring workstations.  Moreover, a CDB structured
@@ -96,15 +104,9 @@ abstract:
     the purposes of distributed simulation applications.  The organization of the
     synthetic environmental data in a CDB compliant data store is specifically tailored
     for real-time applications.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

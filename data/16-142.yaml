@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 16-142
-title:
-- content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://www.w3.org/TR/qb4st/
-  type: src
-- content: https://www.w3.org/TR/qb4st/
-  type: html
+id: '16142'
 type: standard
-docid:
-- id: 16-142
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
+  type: main
+source:
+- type: src
+  content: https://www.w3.org/TR/qb4st/
+- type: html
+  content: https://www.w3.org/TR/qb4st/
+docidentifier:
+- content: 16-142
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-09-17'
+  at: '2020-09-17'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Rob Atkinson
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2020-09-17'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document describes an extension to the existing RDF Data Cube ontology
+- language: en
+  script: Latn
+  content: This document describes an extension to the existing RDF Data Cube ontology
     to support specification of key metadata required to interpret spatio-temporal
     data. The RDF Data Cube defines CodedProperties, which relate to a reference system
     based on a list of terms, QB4ST provides generalized support for numeric and other
@@ -61,14 +69,8 @@ abstract:
     the scope and consistency of dataset metadata, and hence discovery and interpretation
     of spatio-temporal data through its spatio-temporal reference system and bounding
     values.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

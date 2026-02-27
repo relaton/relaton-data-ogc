@@ -1,81 +1,89 @@
 ---
-schema-version: v1.2.9
-id: 11-159
-title:
-- content: The Open Geospatial Consortium and EarthCube
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: The Open Geospatial Consortium and EarthCube
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=46471&version=1
-  type: pdf
+id: '11159'
 type: standard
-docid:
-- id: 11-159
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Open Geospatial Consortium and EarthCube
+  type: title-main
+- language: en
+  script: Latn
+  content: The Open Geospatial Consortium and EarthCube
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46471&version=1
+docidentifier:
+- content: 11-159
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-10-19'
+  at: '2011-10-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: David Maidment
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ben Domenico
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Alastair Gemmell
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kerstin Lehnert
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: David Tarboton
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ilya Zaslavsky
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2011-10-19'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "EarthCube aims to create an integrated system to access, analyze and share
+- language: en
+  script: Latn
+  content: "EarthCube aims to create an integrated system to access, analyze and share
     information that is\r\nused by the entire geosciences community. The Open Geospatial
     Consortium (OGC) is an\r\norganization of which more than four hundred companies
     and agencies are members, whose\r\npurpose is to create open source standards
@@ -89,14 +97,8 @@ abstract:
     class of information across the globe. This\r\npaper examines the hypothesis that
     an OGC-like process could be useful for broader sharing of\r\ninformation in the
     geosciences."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

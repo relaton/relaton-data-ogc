@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 21-054
-title:
-- content: OGC Disaster Pilot JSON-LD Structured Data Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Disaster Pilot JSON-LD Structured Data Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/DP21-JSON-LD
-  type: src
-- content: https://docs.ogc.org/per/21-054.html
-  type: html
+id: '21054'
 type: standard
-docid:
-- id: 21-054
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Disaster Pilot JSON-LD Structured Data Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Disaster Pilot JSON-LD Structured Data Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/DP21-JSON-LD
+- type: html
+  content: https://docs.ogc.org/per/21-054.html
+docidentifier:
+- content: 21-054
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-01-05'
+  at: '2023-01-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sergio Taleisnik
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2023-01-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Disaster Pilot JSON-LD Structured Data Engineering Report documents
+- language: en
+  script: Latn
+  content: "This Disaster Pilot JSON-LD Structured Data Engineering Report documents
     the analysis, discussions, results, and recommendations that emerge from the efforts
     carried out regarding the use of JSON-LD with OGC APIs to generate structured
     web page data for search engine optimization of disaster related information.\r\n\r\nThis
@@ -61,14 +69,8 @@ abstract:
     of Linked Data to help other industries understand its value and implement it
     within their domains, or it could serve as a baseline for adding Linked Data support
     to one or several OGC API standards."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

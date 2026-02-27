@@ -1,63 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 05-014
-title:
-- content: Image CRSs for IH4DS
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Image CRSs for IH4DS
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=8848
-  type: pdf
+id: '05014'
 type: standard
-docid:
-- id: 05-014
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Image CRSs for IH4DS
+  type: title-main
+- language: en
+  script: Latn
+  content: Image CRSs for IH4DS
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=8848
+docidentifier:
+- content: 05-014
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2005-01-31'
+  at: '2005-01-31'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arliss Whiteside
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2005-01-31'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Discussion Paper specifies image coordinate reference system (CRS)
+- language: en
+  script: Latn
+  content: This Discussion Paper specifies image coordinate reference system (CRS)
     definitions designed for possible use by WCTS and WCS servers and clients, initially
     in the IH4DS thread of the OWS 2 interoperability initiative. This report specifies
     image CRS definitions suitable for both ungeorectified and georectified images,
     where an ungeorectified image can be georeferenced or not.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

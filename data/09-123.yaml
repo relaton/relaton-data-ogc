@@ -1,61 +1,63 @@
 ---
-schema-version: v1.2.9
-id: '09-123'
-title:
-- content: GeoRM Role Model
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: GeoRM Role Model
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=35516
-  type: pdf
+id: '09123'
 type: standard
-docid:
-- id: '09-123'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GeoRM Role Model
+  type: title-main
+- language: en
+  script: Latn
+  content: GeoRM Role Model
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=35516
+docidentifier:
+- content: '09-123'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-10-13'
+  at: '2009-10-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Roland M. Wagner
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2009-10-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The scope of this document is the update and the definition of GeoRM roles
+- language: en
+  script: Latn
+  content: The scope of this document is the update and the definition of GeoRM roles
     as a sub model of the GDI.NRW reference model (process model and architecture
     model). Key relationships are defined between these roles.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

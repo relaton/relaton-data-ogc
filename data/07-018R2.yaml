@@ -1,66 +1,68 @@
 ---
-schema-version: v1.2.9
-id: 07-018r2
-title:
-- content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=25199
-  type: pdf
+id: '07018r2'
 type: standard
-docid:
-- id: 07-018r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
+  type: title-main
+- language: en
+  script: Latn
+  content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=25199
+docidentifier:
+- content: 07-018r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2008-01-21'
+  at: '2008-01-21'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Philippe M
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2008-01-21'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The SPS configuration proposed in this profile is intended to support the
+- language: en
+  script: Latn
+  content: The SPS configuration proposed in this profile is intended to support the
     programming process of Earth Observation (EO) sensors system. This profile describes
     a consistent SPS configuration that can be supported by many satellite data providers,
     most of whom have existing facilities for the management of these programming
     requests.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

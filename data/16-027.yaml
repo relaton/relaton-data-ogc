@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 16-027
-title:
-- content: Testbed-12 Web Service Implementation Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 Web Service Implementation Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A090
-  type: src
-- content: https://docs.ogc.org/per/16-027.html
-  type: html
+id: '16027'
 type: standard
-docid:
-- id: 16-027
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 Web Service Implementation Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 Web Service Implementation Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A090
+- type: html
+  content: https://docs.ogc.org/per/16-027.html
+docidentifier:
+- content: 16-027
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-05-12'
+  at: '2017-05-12'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Johannes Echterhoff
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-05-12'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document is a deliverable of the OGC Testbed-12. It describes the
+- language: en
+  script: Latn
+  content: "This document is a deliverable of the OGC Testbed-12. It describes the
     results of analyzing the Testbed-12 web service implementations.\r\n\r\nOGC has
     been developing web service specifications since the OGC Web Mapping Testbed in
     1999. In particular, the original OGC Web Map Service specification has been developed
@@ -88,14 +96,8 @@ abstract:
     web services as they are today\r\n\r\nSupport for new requirements in a consistent
     way across service types\r\n\r\nImprovements to the standardization process\r\n\r\nIn
     addition, there is also a specific case that does not fit into these general categories."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,71 +1,70 @@
 ---
-schema-version: v1.2.9
-id: 11-089r1
-title:
-- content: OWS-8 Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Guidelines for International Civil Aviation Organization (ICAO) portrayal
-    using SLD/SE
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-8 Engineering Report - Guidelines for International Civil Aviation
-    Organization (ICAO) portrayal using SLD/SE
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=46228
-  type: pdf
+id: 11089r1
 type: standard
-docid:
-- id: 11-089r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-8 Engineering Report
+  type: title-intro
+- language: en
+  script: Latn
+  content: Guidelines for International Civil Aviation Organization (ICAO) portrayal
+    using SLD/SE
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-8 Engineering Report - Guidelines for International Civil Aviation
+    Organization (ICAO) portrayal using SLD/SE
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46228
+docidentifier:
+- content: 11-089r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-11-23'
+  at: '2011-11-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Daniel Tagesson
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2011-11-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This OGC® document gives guidelines to portrayal of AIXM according to
+- language: en
+  script: Latn
+  content: 'This OGC® document gives guidelines to portrayal of AIXM according to
     ICAO aviation symbology using SLD/SE. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

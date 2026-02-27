@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 24-067r1
-title:
-- content: Urban Digital Twin Interoperability Pilot Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Urban Digital Twin Interoperability Pilot Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/UDTIP
-  type: src
-- content: https://docs.ogc.org/per/24-067r1.html
-  type: html
+id: 24067r1
 type: standard
-docid:
-- id: 24-067r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Urban Digital Twin Interoperability Pilot Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Urban Digital Twin Interoperability Pilot Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/UDTIP
+- type: html
+  content: https://docs.ogc.org/per/24-067r1.html
+docidentifier:
+- content: 24-067r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-06-26'
+  at: '2025-06-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Soheil Sabri
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Sina Taghavikish
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2025-06-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This initiative addresses the challenges of data interoperability and
+- language: en
+  script: Latn
+  content: "This initiative addresses the challenges of data interoperability and
     multi-system integration within Urban Digital Twins (UDTs). It explores the development
     and interoperability of various modules within an Urban Digital Twin (UDT) framework,
     leveraging OGC standards to enable seamless data exchange and communication.\r\n\r\nThe
@@ -78,14 +86,8 @@ abstract:
     framework is designed to be extensible, allowing for additional or alternative
     applications in the future and aims to serve as a reference framework for building
     UDTs using OGC standards.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

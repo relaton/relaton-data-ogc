@@ -1,78 +1,77 @@
 ---
-schema-version: v1.2.9
-id: 11-030r1
-title:
-- content: 'OGC®: Open GeoSMS Standard'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Core
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC®: Open GeoSMS Standard - Core'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/GeoSMS-core/1.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=44146
-  type: pdf
+id: 11030r1
 type: standard
-docid:
-- id: 11-030r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC®: Open GeoSMS Standard'
+  type: title-intro
+- language: en
+  script: Latn
+  content: Core
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC®: Open GeoSMS Standard - Core'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/GeoSMS-core/1.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=44146
+docidentifier:
+- content: 11-030r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-01-19'
+  at: '2012-01-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Kuan-Mei Chen
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2012-01-19'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The OpenGIS® Open GeoSMS standard defines an encoding for location enabling
+- language: en
+  script: Latn
+  content: 'The OpenGIS® Open GeoSMS standard defines an encoding for location enabling
     a text message to be communicated using a Short Messages System (SMS). '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

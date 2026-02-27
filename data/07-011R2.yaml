@@ -1,74 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 07-011r2
-title:
-- content: Topic 6.1
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: 'Schema for Coverage Geometry and Functions – Part 1: Fundamentals'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Topic 6.1 - Schema for Coverage Geometry and Functions – Part 1: Fundamentals'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/AS/Topic-6.1/2.0
-  type: src
-- content: https://docs.ogc.org/as/07-011r2/07-011r2.pdf
-  type: pdf
+id: 07011r2
 type: standard
-docid:
-- id: 07-011r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 6.1
+  type: title-intro
+- language: en
+  script: Latn
+  content: 'Schema for Coverage Geometry and Functions – Part 1: Fundamentals'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Topic 6.1 - Schema for Coverage Geometry and Functions – Part 1: Fundamentals'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/AS/Topic-6.1/2.0
+- type: pdf
+  content: https://docs.ogc.org/as/07-011r2/07-011r2.pdf
+docidentifier:
+- content: 07-011r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-08-29'
+  at: '2024-08-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2024-08-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document is consistent with the ISO 19123-1:2023, Geographic Information
+- language: en
+  script: Latn
+  content: "This document is consistent with the ISO 19123-1:2023, Geographic Information
     - Schema for\r\ncoverage geometry and functions - Part 1: Fundamentals. ISO 19123-1:2023
     was prepared by\r\nTechnical Committee ISO/TC 211, Geographic information/Geomatics,
     in close collaboration with\r\nthe Open Geospatial Consortium (OGC). This document
     replaces OGC 07-011."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

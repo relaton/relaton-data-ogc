@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 17-083r2
-title:
-- content: OGC Two Dimensional Tile Matrix Set
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Two Dimensional Tile Matrix Set
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/tms/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/17-083r2/17-083r2.html
-  type: html
+id: 17083r2
 type: standard
-docid:
-- id: 17-083r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Two Dimensional Tile Matrix Set
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Two Dimensional Tile Matrix Set
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/tms/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/17-083r2/17-083r2.html
+docidentifier:
+- content: 17-083r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-10-06'
+  at: '2019-10-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Masó
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2019-10-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The OGC Tile Matrix Set standard defines the rules and requirements for
+- language: en
+  script: Latn
+  content: 'The OGC Tile Matrix Set standard defines the rules and requirements for
     a tile matrix set as a way to index space based on a set of regular grids defining
     a domain (tile matrix) for a limited list of scales in a Coordinate Reference
     System (CRS) as defined in [OGC 08-015r2] Abstract Specification Topic 2: Spatial
@@ -62,15 +70,9 @@ abstract:
     tile matrix sets and tile matrix set limits. Finally, the document offers practical
     examples of tile matrix sets both for common global projections and for specific
     regions.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

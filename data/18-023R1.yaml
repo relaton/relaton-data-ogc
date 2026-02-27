@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-023r1
-title:
-- content: 'OGC Testbed-14: MapML Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: MapML Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D012
-  type: src
-- content: https://docs.ogc.org/per/18-023r1.html
-  type: html
+id: 18023r1
 type: standard
-docid:
-- id: 18-023r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: MapML Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: MapML Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D012
+- type: html
+  content: https://docs.ogc.org/per/18-023r1.html
+docidentifier:
+- content: 18-023r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-03-06'
+  at: '2019-03-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Masó
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-03-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This is the second Engineering Report (ER) about the Map Markup Language
+- language: en
+  script: Latn
+  content: "This is the second Engineering Report (ER) about the Map Markup Language
     (MapML) cite:[Rushforth2018] resulting from OGC Testbed initiatives. To find an
     introduction of MapML and how it works, please, refer to the previous ER OGC 17-019
     cite:[Maso2018]. MapML is a new media type that can be included in a <layer> element
@@ -66,14 +74,8 @@ abstract:
     and makes proposals for increasing the interoperability of the proposed encoding
     with the OGC standards baseline and future generations of OGC standards for maps
     and tiles."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

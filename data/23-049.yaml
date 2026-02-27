@@ -1,72 +1,77 @@
 ---
-schema-version: v1.2.9
-id: 23-049
-title:
-- content: Topic 25
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Abstract Conceptual Model for Time
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Topic 25 - Abstract Conceptual Model for Time
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/AS/temporal-conceptual-model/1.0
-  type: src
-- content: https://docs.ogc.org/as/23-049/23-049.html
-  type: html
+id: '23049'
 type: standard
-docid:
-- id: 23-049
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 25
+  type: title-intro
+- language: en
+  script: Latn
+  content: Abstract Conceptual Model for Time
+  type: title-main
+- language: en
+  script: Latn
+  content: Topic 25 - Abstract Conceptual Model for Time
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/AS/temporal-conceptual-model/1.0
+- type: html
+  content: https://docs.ogc.org/as/23-049/23-049.html
+docidentifier:
+- content: 23-049
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-05-30'
+  at: '2025-05-30'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Chris Little
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Charles Heazel
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ronald Tse
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2025-05-30'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The primary goal of the Abstract Conceptual Model for Time is to establish
+- language: en
+  script: Latn
+  content: "The primary goal of the Abstract Conceptual Model for Time is to establish
     clear concepts, their relationships, and terminology.\r\n\r\nThe fundamental concepts
     of events, clocks, timescales, coordinates and calendars have been long established,
     but there is no clear, straightforward defining document. This Abstract Specification
@@ -85,14 +90,8 @@ abstract:
     example, there have been differing practices and no consensus on whether leap
     seconds should be part of the Gregorian timeline.\r\n\r\nThis document is consistent
     with ISO 19111:2019 and W3C Time Ontology in OWL."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

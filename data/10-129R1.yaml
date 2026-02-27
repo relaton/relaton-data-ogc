@@ -1,75 +1,74 @@
 ---
-schema-version: v1.2.9
-id: 10-129r1
-title:
-- content: OGC® Geography Markup Language (GML)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Extended schemas and encoding rules
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Geography Markup Language (GML) - Extended schemas and encoding rules
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/spec/GML/3.3
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=46568
-  type: pdf
+id: 10129r1
 type: standard
-docid:
-- id: 10-129r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Geography Markup Language (GML)
+  type: title-intro
+- language: en
+  script: Latn
+  content: Extended schemas and encoding rules
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Geography Markup Language (GML) - Extended schemas and encoding rules
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/spec/GML/3.3
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46568
+docidentifier:
+- content: 10-129r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-02-07'
+  at: '2012-02-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2012-02-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Geography Markup Language (GML) is an XML encoding in compliance with
+- language: en
+  script: Latn
+  content: The Geography Markup Language (GML) is an XML encoding in compliance with
     ISO 19118 for the transport and storage of geographic information modelled in
     accordance with the conceptual modelling framework used in the ISO 19100 series
     of International Standards and including both the spatial and non-spatial properties
     of geographic features.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

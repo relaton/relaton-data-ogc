@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 14-115
-title:
-- content: OGC Smart Cities Spatial Information Framework
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Smart Cities Spatial Information Framework
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/WP/smart-cities-sif
-  type: src
-- content: https://portal.ogc.org/files/61188
-  type: pdf
+id: '14115'
 type: standard
-docid:
-- id: 14-115
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Smart Cities Spatial Information Framework
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Smart Cities Spatial Information Framework
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/WP/smart-cities-sif
+- type: pdf
+  content: https://portal.ogc.org/files/61188
+docidentifier:
+- content: 14-115
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-01-21'
+  at: '2015-01-21'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: George Percivall
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-01-21'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This White Paper supports development of a Smart Cities Spatial Information
+- language: en
+  script: Latn
+  content: "This White Paper supports development of a Smart Cities Spatial Information
     Framework\r\nbased on these themes:\r\n- Smart Cities are high-density generators
     of innovation and information.\r\n- Location information is a major enabler of
     Smart City technology benefits.\r\n- Benefits of smart technology must be judged
@@ -63,14 +71,8 @@ abstract:
     that are involved with Smart Cities.\r\nThis white paper builds on the OGC - Directions
     Magazine webinar: “Making Location\r\nWork for Smart Cities – the Case for Location
     Standards”2."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

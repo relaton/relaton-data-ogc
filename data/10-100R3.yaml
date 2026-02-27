@@ -1,65 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 10-100r3
-title:
-- content: Geography Markup Language (GML) simple features profile (with Corrigendum)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Geography Markup Language (GML) simple features profile (with Corrigendum)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=42729
-  type: pdf
+id: 10100r3
 type: standard
-docid:
-- id: 10-100r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geography Markup Language (GML) simple features profile (with Corrigendum)
+  type: title-main
+- language: en
+  script: Latn
+  content: Geography Markup Language (GML) simple features profile (with Corrigendum)
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=42729
+docidentifier:
+- content: 10-100r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-05-11'
+  at: '2011-05-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Linda van den Brink
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2011-05-11'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This approved OGC Implementation Standard defines a Simple Features profile
+- language: en
+  script: Latn
+  content: "This approved OGC Implementation Standard defines a Simple Features profile
     of the Geography Markup Language version 3.2. This Simple Features Profile has
     been aligned with the OGC Simple Features standard for SQL version 1.2. Simple
     Features include: Point, Curve (LineString), Surface (Polygon), Geometry, MultiPoint,
@@ -72,15 +80,9 @@ abstract:
     In OGC Interoperability Initiatives, international teams of technology providers
     work together to solve specific geo-processing interoperability problems posed
     by Initiative. \r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: profile
-  editorialgroup:
-    committee: technical
+  flavor: ogc

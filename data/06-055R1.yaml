@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 06-055r1
-title:
-- content: OpenGIS GML 3.2 image geopositioning metadata application schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OpenGIS GML 3.2 image geopositioning metadata application schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=16081
-  type: pdf
+id: 06055r1
 type: standard
-docid:
-- id: 06-055r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenGIS GML 3.2 image geopositioning metadata application schema
+  type: title-main
+- language: en
+  script: Latn
+  content: OpenGIS GML 3.2 image geopositioning metadata application schema
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=16081
+docidentifier:
+- content: 06-055r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-07-12'
+  at: '2006-07-12'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arliss Whiteside
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2006-07-12'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document specifies a GML 3.2 Application Schema for image geopositioning
+- language: en
+  script: Latn
+  content: This document specifies a GML 3.2 Application Schema for image geopositioning
     metadata, which is also an Application Schema of ISO 19139. This geopositioning
     metadata schema is used by the separately specified Image Geopositioning Service
     (IGS) interface that adjusts the georeferencing coordinate transformations of
     images.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

@@ -1,74 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 13-131r1
-title:
-- content: OGC® Publish/Subscribe Interface Standard 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Core
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Publish/Subscribe Interface Standard 1.0 - Core
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/pubsub-core/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/13-131r1/13-131r1.html
-  type: html
+id: 13131r1
 type: standard
-docid:
-- id: 13-131r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Publish/Subscribe Interface Standard 1.0
+  type: title-intro
+- language: en
+  script: Latn
+  content: Core
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Publish/Subscribe Interface Standard 1.0 - Core
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/pubsub-core/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/13-131r1/13-131r1.html
+docidentifier:
+- content: 13-131r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-08-22'
+  at: '2016-08-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: 'Aaron Braeckel '
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Lorenzo Bigagli '
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Johannes Echterhoff
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2016-08-22'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Publish/Subscribe 1.0 is an interface specification that supports the
+- language: en
+  script: Latn
+  content: "Publish/Subscribe 1.0 is an interface specification that supports the
     core components and concepts of the Publish/Subscribe message exchange pattern
     with OGC Web Services. The Publish/Subscribe pattern complements the Request/Reply
     pattern specified by many existing OGC Web Services. This specification may be
@@ -85,15 +90,9 @@ abstract:
     functionality independently of the binding technology (e.g., KVP, SOAP, REST).
     Extensions to this specification may realize these core concepts with specific
     binding technologies."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

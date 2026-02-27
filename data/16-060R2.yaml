@@ -1,70 +1,72 @@
 ---
-schema-version: v1.2.9
-id: 16-060r2
-title:
-- content: 'OGC GML Application Schema – Coverages : GRIB2 Coverage Encoding Profile'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC GML Application Schema – Coverages : GRIB2 Coverage Encoding Profile'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/CIS-GRIB2/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/16-060r2/16-060r2.html
-  type: html
+id: 16060r2
 type: standard
-docid:
-- id: 16-060r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC GML Application Schema – Coverages : GRIB2 Coverage Encoding Profile'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC GML Application Schema – Coverages : GRIB2 Coverage Encoding Profile'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/CIS-GRIB2/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/16-060r2/16-060r2.html
+docidentifier:
+- content: 16-060r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-11-27'
+  at: '2018-11-27'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Daniel Lee
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2018-11-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC standard is a profile of the OGC GML Application Schema - Coverages
+- language: en
+  script: Latn
+  content: This OGC standard is a profile of the OGC GML Application Schema - Coverages
     version 1.0 [OC 09-146r2]. That document was renamed OGC Coverage Implementation
     Schema (CIS) for clarification in version 1.1. This standard specifies the usage
     of the GRIB2 data format for the encoding of OGC coverages. The GRIB2 specification
     is maintained by the World Meteorological Organization (WMO) and is the standard
     encoding for the exchange and storage of general regularly distributed information
     expressed in binary form.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,67 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 20-083r2
-title:
-- content: 'Building Energy Mapping and Analytics: Concept Development Study Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Building Energy Mapping and Analytics: Concept Development Study Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/BEMA-CDS
-  type: src
-- content: https://docs.ogc.org/per/20-083r2.html
-  type: html
+id: 20083r2
 type: standard
-docid:
-- id: 20-083r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Building Energy Mapping and Analytics: Concept Development Study Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Building Energy Mapping and Analytics: Concept Development Study Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/BEMA-CDS
+- type: html
+  content: https://docs.ogc.org/per/20-083r2.html
+docidentifier:
+- content: 20-083r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-05-10'
+  at: '2021-05-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Josh Lieberman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2021-05-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This report details the results of the OGC Building Energy Mapping and
+- language: en
+  script: Latn
+  content: This report details the results of the OGC Building Energy Mapping and
     Analysis Concept Development Study (BEMA CDS). Sponsored by NRCan and drawing
     on numerous previous studies, the CDS released a Request for Information on building
     energy data and applications. The responses were presented and validated in 3
     public workshops and form the basis for an Energy SDI notional architecture.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

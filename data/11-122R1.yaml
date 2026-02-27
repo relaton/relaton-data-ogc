@@ -1,69 +1,74 @@
 ---
-schema-version: v1.2.9
-id: 11-122r1
-title:
-- content: Gazetteer Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Application Profile of the Web Feature Service Best Practice
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Gazetteer Service - Application Profile of the Web Feature Service Best
-    Practice
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/wfs-gaz-ap
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=46964
-  type: pdf
+id: 11122r1
 type: standard
-docid:
-- id: 11-122r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Gazetteer Service
+  type: title-intro
+- language: en
+  script: Latn
+  content: Application Profile of the Web Feature Service Best Practice
+  type: title-main
+- language: en
+  script: Latn
+  content: Gazetteer Service - Application Profile of the Web Feature Service Best
+    Practice
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/wfs-gaz-ap
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46964
+docidentifier:
+- content: 11-122r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-02-17'
+  at: '2012-02-17'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jeff Harrison
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2012-02-17'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document defines a Gazetteer Service profile of the OGC Web Feature
+- language: en
+  script: Latn
+  content: "This document defines a Gazetteer Service profile of the OGC Web Feature
     Service Standard. The OGC Gazetteer Service allows a client to search and retrieve
     elements of a georeferenced vocabulary of well-known place-names.\r\nThis profile
     extends the WFS interface in a way that a client is able to\r\n–\tDetermine if
@@ -73,15 +78,9 @@ abstract:
     by the service\r\n–\tUpdate place-name features using WFS transactions\r\n–\tFetch
     place-name features that have Parent-Child relationships and then follow those
     links\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

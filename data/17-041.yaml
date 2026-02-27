@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 17-041
-title:
-- content: 'OGC Testbed-13: Vector Tiles Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: Vector Tiles Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-DS001
-  type: src
-- content: https://docs.ogc.org/per/17-041.html
-  type: html
+id: '17041'
 type: standard
-docid:
-- id: 17-041
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: Vector Tiles Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: Vector Tiles Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-DS001
+- type: html
+  content: https://docs.ogc.org/per/17-041.html
+docidentifier:
+- content: 17-041
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-02-22'
+  at: '2018-02-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Stefano Cavazzi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2018-02-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) captures
+- language: en
+  script: Latn
+  content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) captures
     the requirements, solutions, and implementation experiences of the Vector Tiling
     work package in OGC Testbed-13 [Available at: http://www.opengeospatial.org/projects/initiatives/testbed13].
     This ER describes the evaluation of existing vector tiling solutions. The evaluation
@@ -61,14 +69,8 @@ abstract:
     networks. The report concludes with an investigation on how existing OGC services
     may be extended with the necessary capabilities enabling the full range of geometry
     types and tiling strategies to support vector tiling.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

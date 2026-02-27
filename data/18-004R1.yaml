@@ -1,76 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 18-004r1
-title:
-- content: The Role of Geospatial in Edge-Fog-Cloud Computing
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: An OGC White Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: The Role of Geospatial in Edge-Fog-Cloud Computing - An OGC White Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/whitepaper/edge-fog-cloud
-  type: src
-- content: https://docs.ogc.org/wp/18-004r1/18-004r1.html
-  type: html
+id: 18004r1
 type: standard
-docid:
-- id: 18-004r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Role of Geospatial in Edge-Fog-Cloud Computing
+  type: title-intro
+- language: en
+  script: Latn
+  content: An OGC White Paper
+  type: title-main
+- language: en
+  script: Latn
+  content: The Role of Geospatial in Edge-Fog-Cloud Computing - An OGC White Paper
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/whitepaper/edge-fog-cloud
+- type: html
+  content: https://docs.ogc.org/wp/18-004r1/18-004r1.html
+docidentifier:
+- content: 18-004r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-07-31'
+  at: '2018-07-31'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: George Percivall
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2018-07-31'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "“The cloud is dead – long live the cloud!” so begins an IEC White paper
+- language: en
+  script: Latn
+  content: "“The cloud is dead – long live the cloud!” so begins an IEC White paper
     on Edge Intelligence.[1]  The IEC White Paper continues that “Driven by the internet
     of things (IoT), a new computing model – edge-cloud computing – is currently evolving,
     which involves extending data processing to the edge of a network in addition
     to computing in a cloud or a central data centre. Edge-Fog-Cloud computing models
     operate both on premise and in public and private clouds, including via devices,
     base stations, edge servers, micro data centres and networks.” "
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

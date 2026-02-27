@@ -1,82 +1,78 @@
 ---
-schema-version: v1.2.9
-id: 12-104r1
-title:
-- content: OGC® OWS-9 Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: CCI
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Single Point of Entry Global Gazetteer
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: OGC® OWS-9 Engineering Report - CCI - Single Point of Entry Global Gazetteer
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/ows9-spegg
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=52065
-  type: pdf
+id: 12104r1
 type: standard
-docid:
-- id: 12-104r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® OWS-9 Engineering Report
+  type: title-intro
+- language: en
+  script: Latn
+  content: CCI
+  type: title-main
+- language: en
+  script: Latn
+  content: Single Point of Entry Global Gazetteer
+  type: title-part
+- language: en
+  script: Latn
+  content: OGC® OWS-9 Engineering Report - CCI - Single Point of Entry Global Gazetteer
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/ows9-spegg
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=52065
+docidentifier:
+- content: 12-104r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-06-18'
+  at: '2013-06-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2013-06-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document provides a technical description of the Single Point of Entry
+- language: en
+  script: Latn
+  content: This document provides a technical description of the Single Point of Entry
     Global Gazetteer (SPEGG) implemented for the OWS9 test bed.  The SPEGG integrates
     two gazetteers – a copy of the USGS gazetteers containing domestic names (hosted
     by CubeWerx Inc.) and the NGA gazetteer containing foreign names (originally hosted
     at NGA but currently hosted by Intergraph Corp.).  Both integrated gazetteers
     and the SPEGG implement the Web Feature Service (WFS) standard.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

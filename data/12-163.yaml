@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 12-163
-title:
-- content: OGC® OWS-9 Data Transmission Management
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® OWS-9 Data Transmission Management
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/ows9-data-transmission
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=51812
-  type: pdf
+id: '12163'
 type: standard
-docid:
-- id: 12-163
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® OWS-9 Data Transmission Management
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® OWS-9 Data Transmission Management
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/ows9-data-transmission
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51812
+docidentifier:
+- content: 12-163
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-06-18'
+  at: '2013-06-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Thibault Dacla; Eriza Hafid Fazli; Charles Chen; Stuart Wilson
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2013-06-18'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OWS-9 Engineering Report documents investigations, findings, lessons
+- language: en
+  script: Latn
+  content: "This OWS-9 Engineering Report documents investigations, findings, lessons
     learned and\r\nproposed future work for the Data Transmission Management unit,
     invented and\r\nprototyped in OWS-9.\r\nThe purpose of the Data Transmission Management
     unit is to optimize, customize and\r\nmake reliable the information exchange between
     the aircraft and the different web\r\nservices on the ground."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 20-039r2
-title:
-- content: 'OGC Testbed-16: DGGS and DGGS API Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-16: DGGS and DGGS API Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t16-D017
-  type: src
-- content: https://docs.ogc.org/per/20-039r2.html
-  type: html
+id: 20039r2
 type: standard
-docid:
-- id: 20-039r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-16: DGGS and DGGS API Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-16: DGGS and DGGS API Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t16-D017
+- type: html
+  content: https://docs.ogc.org/per/20-039r2.html
+docidentifier:
+- content: 20-039r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-01-13'
+  at: '2021-01-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Robert Gibb
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Byron Cochrane
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Matthew Purss
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2021-01-13'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC Testbed-16 Engineering Report (ER) documents the needs and key
+- language: en
+  script: Latn
+  content: This OGC Testbed-16 Engineering Report (ER) documents the needs and key
     requirements for drafting an OGC Discrete Global Grid Systems (DGGS) Application
     Programming Interface (API) standard. The draft DGGS API is defined using the
     OpenAPI 3.0 specification. The work documented in this ER represents the beginning
@@ -72,14 +80,8 @@ abstract:
     Data Sources and a simple front-end DGGS Client. DGGS API functionality will be
     tested using one (or more) simple use case scenarios focusing on the two-way translation
     between geographic locations and DGGS Zonal Identifiers.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

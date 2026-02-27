@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 24-014
-title:
-- content: OGC SWE Common Data Model Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC SWE Common Data Model Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/SWE/3.0
-  type: src
-- content: https://docs.ogc.org/is/24-014/24-014.html
-  type: html
+id: '24014'
 type: standard
-docid:
-- id: 24-014
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC SWE Common Data Model Encoding Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC SWE Common Data Model Encoding Standard
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/SWE/3.0
+- type: html
+  content: https://docs.ogc.org/is/24-014/24-014.html
+docidentifier:
+- content: 24-014
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-07-16'
+  at: '2025-07-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Alexandre Robin
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2025-07-16'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The primary focus of the SWE Common Data Model is to define and package
+- language: en
+  script: Latn
+  content: "The primary focus of the SWE Common Data Model is to define and package
     data in a self-describing and semantically enabled way. The main objective is
     to achieve interoperability, first at the syntactic level, and later at the semantic
     level (by using ontologies and probably semantic mediation) so that (sensor) data
@@ -57,15 +65,9 @@ abstract:
     is a revision of content that was previously developed in the context of the Sensor
     Web Enablement initiative. These common data models are intended to be used in
     various OGC standards, and in particular, SensorML and OGC API — Connected Systems."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

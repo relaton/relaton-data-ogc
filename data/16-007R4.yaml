@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 16-007r4
-title:
-- content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/CDB-core-model/1.1.0
-  type: src
-- content: https://portal.ogc.org/files/16-007r4
-  type: pdf
+id: 16007r4
 type: standard
-docid:
-- id: 16-007r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Volume 11: OGC CDB Core Standard Conceptual Model'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/CDB-core-model/1.1.0
+- type: pdf
+  content: https://portal.ogc.org/files/16-007r4
+docidentifier:
+- content: 16-007r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-12-19'
+  at: '2018-12-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sara Saeedi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2018-12-19'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Open Geospatial Consortium (OGC) standard defines the conceptual
+- language: en
+  script: Latn
+  content: "This Open Geospatial Consortium (OGC) standard defines the conceptual
     model for the OGC CDB Standard. The objective of this document is to provide an
     abstract core conceptual model for a CDB data store (repository). The model is
     represented using UML (unified modeling language). The conceptual model is comprised
@@ -67,15 +75,9 @@ abstract:
     or structured data store that is required for use by simulation clients. From
     the geospatial community perspective, these data are essentially the same as GIS
     data but with, in some cases, special attributes, such as radar reflectivity.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

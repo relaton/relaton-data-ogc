@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-022r1
-title:
-- content: 'OGC Testbed-14: SWIM Information Registry Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: SWIM Information Registry Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D001
-  type: src
-- content: https://docs.ogc.org/per/18-022r1.html
-  type: html
+id: 18022r1
 type: standard
-docid:
-- id: 18-022r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: SWIM Information Registry Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: SWIM Information Registry Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D001
+- type: html
+  content: https://docs.ogc.org/per/18-022r1.html
+docidentifier:
+- content: 18-022r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-11'
+  at: '2019-02-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Yann Le Franc
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-02-11'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Engineering Report (ER) summarizes the findings and recommendations
+- language: en
+  script: Latn
+  content: This Engineering Report (ER) summarizes the findings and recommendations
     for building an information registry working together with the existing Federal
     Aviation Administration (FAA) System Wide Information Management (SWIM) aviation
     service registries, the National Airspace System Service Registry and Repository
@@ -70,14 +78,8 @@ abstract:
     further service discoverability and the added-values of using the Data Catalog
     (DCAT) or Semantic Registry Information Model (SRIM) to better describe and retrieve
     ATM services.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

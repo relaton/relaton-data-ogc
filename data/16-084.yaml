@@ -1,91 +1,96 @@
 ---
-schema-version: v1.2.9
-id: 16-084
-title:
-- content: OGC Benefits of Indoor Location
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: " Use Case Survey of Lessons Learned and Expectations "
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Benefits of Indoor Location -  Use Case Survey of Lessons Learned
-    and Expectations '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/benefitsOfIndoorLocation
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=68604
-  type: pdf
+id: '16084'
 type: standard
-docid:
-- id: 16-084
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Benefits of Indoor Location
+  type: title-intro
+- language: en
+  script: Latn
+  content: " Use Case Survey of Lessons Learned and Expectations "
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Benefits of Indoor Location -  Use Case Survey of Lessons Learned
+    and Expectations '
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/benefitsOfIndoorLocation
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=68604
+docidentifier:
+- content: 16-084
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-08-01'
+  at: '2016-08-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Giuseppe Conti
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Fabio Malabocchia
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: " Ki-Joune Li"
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: George Percivall
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kirk Burroughs
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Stuart Strickland
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2016-08-01'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'Indoor location technologies are enjoying and increasing market success.
+- language: en
+  script: Latn
+  content: 'Indoor location technologies are enjoying and increasing market success.
     Technologies in the market have achieved maturity and have become a key driver
     for innovation and business activities in several value added scenarios, e.g.
     e-government services, eHealth, personal mobility, logistics, mobility, facility
@@ -102,14 +107,8 @@ abstract:
     involved in the different organizations; instead, it provides the opportunity
     to capture recommendations of relevance for the industrial and standardization
     community these organizations represent. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

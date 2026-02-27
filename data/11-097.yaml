@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 11-097
-title:
-- content: OWS-8 AIXM 5.1 Compression Benchmarking
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-8 AIXM 5.1 Compression Benchmarking
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/ows8-aixm-compression
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=46394
-  type: pdf
+id: '11097'
 type: standard
-docid:
-- id: 11-097
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-8 AIXM 5.1 Compression Benchmarking
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-8 AIXM 5.1 Compression Benchmarking
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/ows8-aixm-compression
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46394
+docidentifier:
+- content: 11-097
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-12-19'
+  at: '2011-12-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jérôme JANSOU
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Thibault DACLA
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2011-12-19'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "AIXM stands today for the de-facto standard for Aeronautical Information
+- language: en
+  script: Latn
+  content: "AIXM stands today for the de-facto standard for Aeronautical Information
     Publication, used by air control service providers from Europe, USA and Australia.
     With version 5.1, it reaches a level of maturity allowing the support of Digital
     NOTAMs, as the first official version of these messages was published this year.\r\nIn
@@ -62,14 +70,8 @@ abstract:
     to D-NOTAMs. As D-NOTAM is aimed at aircrafts pilots, their transmission to the
     aircraft will use air/ground data link. Today, datalink communications lack bandwidth
     and future datalink will still have a limited capacity.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

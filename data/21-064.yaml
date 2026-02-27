@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 21-064
-title:
-- content: OGC Disaster Pilot 2021 Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Disaster Pilot 2021 Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/DP21
-  type: src
-- content: https://docs.ogc.org/per/21-064.html
-  type: html
+id: '21064'
 type: standard
-docid:
-- id: 21-064
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Disaster Pilot 2021 Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Disaster Pilot 2021 Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/DP21
+- type: html
+  content: https://docs.ogc.org/per/21-064.html
+docidentifier:
+- content: 21-064
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-01-10'
+  at: '2023-01-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Andreas Matheus
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2023-01-10'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC Disaster Pilot ’21 (DP21) Engineering Report summarizes work done
+- language: en
+  script: Latn
+  content: This OGC Disaster Pilot ’21 (DP21) Engineering Report summarizes work done
     in the Pilot to increase disaster awareness among a range of disaster management
     stakeholders. Pilot participants implemented components of a data flow ecosystem
     to leverage analysis-ready earth observations and other datasets (ARD) and produce
@@ -59,14 +67,8 @@ abstract:
     providing information to field practitioners in secure geopackage formats, as
     well as leveraging linked data and structured web page information to optimize
     public web searches for disaster information.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

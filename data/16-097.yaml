@@ -1,67 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 16-097
-title:
-- content: 'Future City Pilot 1: Using IFC/CityGML in Urban Planning Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Future City Pilot 1: Using IFC/CityGML in Urban Planning Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/FCP1-UPrules
-  type: src
-- content: https://docs.ogc.org/per/16-097.html
-  type: html
+id: '16097'
 type: standard
-docid:
-- id: 16-097
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Future City Pilot 1: Using IFC/CityGML in Urban Planning Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Future City Pilot 1: Using IFC/CityGML in Urban Planning Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/FCP1-UPrules
+- type: html
+  content: https://docs.ogc.org/per/16-097.html
+docidentifier:
+- content: 16-097
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-10-03'
+  at: '2017-10-03'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Mohsen Kalantari
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-10-03'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Numerous and diverse technologies push cities towards open and platform-independent
+- language: en
+  script: Latn
+  content: Numerous and diverse technologies push cities towards open and platform-independent
     information infrastructures to manage human, natural, and physical systems. The
     Future Cities Pilot 1 (FCP1), as an OGC Innovation Program initiative, demonstrated
     how cities can benefit from open standards when used in urban planning workflows.
     This report details the lessons learned of implementing both the OGC CityGML and
     the buildingSMART Industry Foundation Classes (IFC) standards for visualizing
     and processing 3D spatial data when used in urban planning processes.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

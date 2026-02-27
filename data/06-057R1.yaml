@@ -1,70 +1,72 @@
 ---
-schema-version: v1.2.9
-id: 06-057r1
-title:
-- content: City Geography Markup Language
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: City Geography Markup Language
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=16675
-  type: pdf
+id: 06057r1
 type: standard
-docid:
-- id: 06-057r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: City Geography Markup Language
+  type: title-main
+- language: en
+  script: Latn
+  content: City Geography Markup Language
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=16675
+docidentifier:
+- content: 06-057r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-08-18'
+  at: '2006-08-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Thomas Kolbe
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Gerhard Groeger and Angela Czerwinski
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2006-08-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: CityGML is an open data model and XML-based format for the storage and
+- language: en
+  script: Latn
+  content: CityGML is an open data model and XML-based format for the storage and
     exchange of virtual 3D city models. It is an application schema for the Geography
     Markup Language 3 (GML3), the extendible international standard for spatial data
     exchange issued by the Open Geospatial Consortium (OGC) and the ISO TC211.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

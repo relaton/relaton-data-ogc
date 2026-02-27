@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 04-049r1
-title:
-- content: 'WCS Change Request: Support for WSDL & SOAP'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'WCS Change Request: Support for WSDL & SOAP'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=9540
-  type: pdf
+id: '04049r1'
 type: standard
-docid:
-- id: 04-049r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'WCS Change Request: Support for WSDL & SOAP'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'WCS Change Request: Support for WSDL & SOAP'
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=9540
+docidentifier:
+- content: 04-049r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2005-04-22'
+  at: '2005-04-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Philippe Duschene
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jerome Sonnet
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2005-04-22'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OpenGIS has been a precursor in Web Services matter, nevertheless,
+- language: en
+  script: Latn
+  content: "The OpenGIS has been a precursor in Web Services matter, nevertheless,
     the pattern that has been used is not recognized by the industry as a standard
     XML Web Services. The work done during the the OpenGIS Web Service 2 initiative
     has provided the OpenGIS with interfaces that use the XML-related technologies
@@ -61,14 +69,8 @@ abstract:
     interface description language, and UDDI for registering and searching services.\r\n\r\nThis
     change proposal present the required change to the WCS specification to interoperate
     with the industry standards.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

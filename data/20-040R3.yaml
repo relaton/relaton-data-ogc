@@ -1,71 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 20-040r3
-title:
-- content: Topic 21
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Discrete Global Grid Systems
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Part 1 Core Reference system and Operations and Equal Area Earth Reference
-    System
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Topic 21 - Discrete Global Grid Systems - Part 1 Core Reference system
-    and Operations and Equal Area Earth Reference System
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/AS/dggs/2.0
-  type: src
-- content: https://docs.ogc.org/as/20-040r3/20-040r3.html
-  type: html
+id: 20040r3
 type: standard
-docid:
-- id: 20-040r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 21
+  type: title-intro
+- language: en
+  script: Latn
+  content: Discrete Global Grid Systems
+  type: title-main
+- language: en
+  script: Latn
+  content: Part 1 Core Reference system and Operations and Equal Area Earth Reference
+    System
+  type: title-part
+- language: en
+  script: Latn
+  content: Topic 21 - Discrete Global Grid Systems - Part 1 Core Reference system
+    and Operations and Equal Area Earth Reference System
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/AS/dggs/2.0
+- type: html
+  content: https://docs.ogc.org/as/20-040r3/20-040r3.html
+docidentifier:
+- content: 20-040r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-09-23'
+  at: '2021-09-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Robert Gibb
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2021-09-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Abstract Specification lays the foundations for Discrete Global Grid
+- language: en
+  script: Latn
+  content: This Abstract Specification lays the foundations for Discrete Global Grid
     Systems (DGGS). It defines Common classes for spatio-temporal geometry, topology,
     and reference systems using identifiers, a DGGS Core Reference system as a reference
     system using zonal identifiers with structured geometry that may be spatio-temporal,
@@ -75,14 +77,8 @@ abstract:
     multi-dimensional, distributed geospatial data. Interoperability between OGC DGGS
     implementations is anticipated through implementation standards, and extension
     interface encodings of OGC Web Services.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

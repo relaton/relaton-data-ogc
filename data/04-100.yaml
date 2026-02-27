@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 04-100
-title:
-- content: OWS-2 Application Schema Development
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-2 Application Schema Development
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=8071
-  type: pdf
+id: '04100'
 type: standard
-docid:
-- id: 04-100
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-2 Application Schema Development
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-2 Application Schema Development
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=8071
+docidentifier:
+- content: 04-100
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2005-04-13'
+  at: '2005-04-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2005-04-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OWS-2 Application Schema Development Discussion Paper describes the
+- language: en
+  script: Latn
+  content: "The OWS-2 Application Schema Development Discussion Paper describes the
     process for creating ISO 19109:2005 Application Schemas [http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39891]
     in UML. It also describes the process used during the OWS-2 Initiative [http://www.opengeospatial.org/projects/initiatives/ows-2]
     for creating GML [http://www.opengeospatial.org/standards/gml] Application Schemas
     from ISO 19109:2005 Application Schemas.\r\n\r\nSee also the GML pages on OGC
     Network: http://www.ogcnetwork.net/gml .\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

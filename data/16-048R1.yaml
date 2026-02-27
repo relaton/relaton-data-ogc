@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 16-048r1
-title:
-- content: Testbed-12 OWS Common Security Extension ER
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 OWS Common Security Extension ER
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A065
-  type: src
-- content: https://docs.ogc.org/per/16-048r1.html
-  type: html
+id: 16048r1
 type: standard
-docid:
-- id: 16-048r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 OWS Common Security Extension ER
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 OWS Common Security Extension ER
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A065
+- type: html
+  content: https://docs.ogc.org/per/16-048r1.html
+docidentifier:
+- content: 16-048r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-03-10'
+  at: '2017-03-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Andreas Matheus
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2017-03-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC suite of standards address the interoperable exchange of geographic
+- language: en
+  script: Latn
+  content: "The OGC suite of standards address the interoperable exchange of geographic
     information. The Web Service Implementation Standards define the discovery, delivery,
     and processing services that make information exchange possible. Common aspects
     of those Web Service standards have been collected into the OGC Web Services Common
@@ -73,14 +81,8 @@ abstract:
     standard that is to be created is comprehensive and suitable for all OGC Web Services
     standards, to overcome the interoperability hurdle, and - at the same time - maintain
     backwards compatibility.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

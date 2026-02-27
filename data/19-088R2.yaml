@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 19-088r2
-title:
-- content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/VTP2-summary
-  type: src
-- content: https://docs.ogc.org/per/19-088r2.html
-  type: html
+id: 19088r2
 type: standard
-docid:
-- id: 19-088r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Vector Tiles Pilot 2: Summary Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/VTP2-summary
+- type: html
+  content: https://docs.ogc.org/per/19-088r2.html
+docidentifier:
+- content: 19-088r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-07-07'
+  at: '2020-07-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gobe Hobona
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Terry Idol
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2020-07-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Engineering Report (ER) provides a summary of the research and
+- language: en
+  script: Latn
+  content: "This OGC Engineering Report (ER) provides a summary of the research and
     findings from Phase 2 of the OGC Vector Tiles Pilot (VTP2). The goal of VTP2 was
     to deliver a consistent, interoperable online/offline architecture for vector
     tiles based on feature and tile servers, as well as GeoPackage. All Application
@@ -73,14 +81,8 @@ abstract:
     usability of geospatial applications. Therefore, the value of the VTP2 work to
     organizations is expected to be in the efficiencies and productivity that comes
     from greater interoperability and usability."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

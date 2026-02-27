@@ -1,51 +1,59 @@
 ---
-schema-version: v1.2.9
-id: 04-095c1
-title:
-- content: Filter Encoding Implementation Specification Corrigendum 1
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Filter Encoding Implementation Specification Corrigendum 1
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=51130
-  type: pdf
+id: '04095c1'
 type: standard
-docid:
-- id: 04-095c1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Filter Encoding Implementation Specification Corrigendum 1
+  type: title-main
+- language: en
+  script: Latn
+  content: Filter Encoding Implementation Specification Corrigendum 1
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51130
+docidentifier:
+- content: 04-095c1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2005-05-03'
+  at: '2005-05-03'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2005-05-03'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OpenGIS® Filter Encoding Standard (FES) defines an XML encoding for
+- language: en
+  script: Latn
+  content: "The OpenGIS® Filter Encoding Standard (FES) defines an XML encoding for
     filter expressions. A filter expression logically combines constraints on the\r\nproperties
     of a feature in order to identify a particular subset of features to be operated
     upon.  For example, a subset of features might be identified to render them in
@@ -56,15 +64,9 @@ abstract:
     [http://www.opengeospatial.org/standards/wfs], the Catalogue Service [http://www.opengeospatial.org/standards/cat]
     and the Styled Layer Descriptor Standard [http://www.opengeospatial.org/standards/sld].
     \r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

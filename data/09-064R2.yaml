@@ -1,62 +1,64 @@
 ---
-schema-version: v1.2.9
-id: '09-064r2'
-title:
-- content: OWS-6 Sensor Web Enablement (SWE) Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-6 Sensor Web Enablement (SWE) Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=34147
-  type: pdf
+id: '09064r2'
 type: standard
-docid:
-- id: '09-064r2'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-6 Sensor Web Enablement (SWE) Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-6 Sensor Web Enablement (SWE) Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=34147
+docidentifier:
+- content: '09-064r2'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-09-11'
+  at: '2009-09-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2009-09-11'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This OGC® document summarizes work completed in the OWS-6 Sensor Web Enablement
+- language: en
+  script: Latn
+  content: 'This OGC® document summarizes work completed in the OWS-6 Sensor Web Enablement
     (SWE) thread.  '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

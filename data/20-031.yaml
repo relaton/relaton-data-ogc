@@ -1,77 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 20-031
-title:
-- content: 3D Data Container and Tiles API Pilot Summary Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 3D Data Container and Tiles API Pilot Summary Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/3DT-Summary
-  type: src
-- content: https://docs.ogc.org/per/20-031.html
-  type: html
+id: '20031'
 type: standard
-docid:
-- id: 20-031
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 3D Data Container and Tiles API Pilot Summary Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: 3D Data Container and Tiles API Pilot Summary Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/3DT-Summary
+- type: html
+  content: https://docs.ogc.org/per/20-031.html
+docidentifier:
+- content: 20-031
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-10-22'
+  at: '2020-10-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Tim Miller
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Gil Trenum
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2020-10-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Engineering Report summarizes the purpose and key results of the 3D
+- language: en
+  script: Latn
+  content: This Engineering Report summarizes the purpose and key results of the 3D
     Data Container and Tiles API Pilot, an OGC Innovation Program initiative conducted
     between October 2019 and July 2020. In the context of both existing and emerging
     3D and 2D standards, the focus of the Pilot was on the exchange and visualization
     of 3D data using open standards.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: '09-182r1'
-title:
-- content: End to End Discovery and Access Engineering Report GEO Architecture Implementation
-    Pilot, Phase 2
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: End to End Discovery and Access Engineering Report GEO Architecture Implementation
-    Pilot, Phase 2
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=36889
-  type: pdf
+id: '09182r1'
 type: standard
-docid:
-- id: '09-182r1'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: End to End Discovery and Access Engineering Report GEO Architecture Implementation
+    Pilot, Phase 2
+  type: title-main
+- language: en
+  script: Latn
+  content: End to End Discovery and Access Engineering Report GEO Architecture Implementation
+    Pilot, Phase 2
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=36889
+docidentifier:
+- content: '09-182r1'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-02-16'
+  at: '2010-02-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Josh Lieberman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2010-02-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This Architecture Implementation Pilot, Phase 2 Engineering Report (AIP-2
+- language: en
+  script: Latn
+  content: 'This Architecture Implementation Pilot, Phase 2 Engineering Report (AIP-2
     ER) describes the practice of deploying, documenting, and registering contributed
     resources from the point of view of classes of GEOSS users who rely on GEOSS to
     support discovery and access to those resources. It emphasizes two paradigms for
@@ -60,14 +68,8 @@ abstract:
     to the bidirectional connection between desired discovery practices and goals
     on the user end; and the required resource interfaces and documentation on the
     provider end.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

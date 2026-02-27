@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 24-043r1
-title:
-- content: OGC Climate and Disaster Resilience Pilot 2024 Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Climate and Disaster Resilience Pilot 2024 Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/cdrp2024
-  type: src
-- content: https://docs.ogc.org/per/24-043r1.html
-  type: html
+id: 24043r1
 type: standard
-docid:
-- id: 24-043r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Climate and Disaster Resilience Pilot 2024 Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Climate and Disaster Resilience Pilot 2024 Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/cdrp2024
+- type: html
+  content: https://docs.ogc.org/per/24-043r1.html
+docidentifier:
+- content: 24-043r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-06-26'
+  at: '2025-06-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Dean Hintz
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2025-06-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Open Geospatial Consortium (OGC) Climate and Disaster Resilience Pilot
+- language: en
+  script: Latn
+  content: "The Open Geospatial Consortium (OGC) Climate and Disaster Resilience Pilot
     2024 (CDRP24) was driven by the urgent need for new methods, tools, and systems
     to better understand, predict, and address phenomena such as the intensification
     and changing patterns of typhoons, landslides, flooding, and extreme heat events.\r\n\r\nTo
@@ -91,14 +99,8 @@ abstract:
     contextual and domain information are being explored and have been proven as viable
     options, including knowledge graphs, AI generated syntheses of extensive bodies
     of knowledge, and processes for human experts producing documentation."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

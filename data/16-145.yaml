@@ -1,65 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 16-145
-title:
-- content: Overview of the CoverageJSON format
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Overview of the CoverageJSON format
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://www.w3.org/TR/covjson-overview/
-  type: src
-- content: https://www.w3.org/TR/covjson-overview/
-  type: html
+id: '16145'
 type: standard
-docid:
-- id: 16-145
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Overview of the CoverageJSON format
+  type: title-main
+- language: en
+  script: Latn
+  content: Overview of the CoverageJSON format
+  type: main
+source:
+- type: src
+  content: https://www.w3.org/TR/covjson-overview/
+- type: html
+  content: https://www.w3.org/TR/covjson-overview/
+docidentifier:
+- content: 16-145
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-09-17'
+  at: '2020-09-17'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jon Blower
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Maik Riechert
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Bill Roberts
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2020-09-17'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This Note describes CoverageJSON, a data format for describing coverage
+- language: en
+  script: Latn
+  content: 'This Note describes CoverageJSON, a data format for describing coverage
     data in JavaScript Object Notation (JSON), and provides an overview of its design
     and capabilities. The primary intended purpose of the format is to enable data
     transfer between servers and web browsers, to support the development of interactive,
@@ -72,14 +80,8 @@ abstract:
     users to produce and consume data in this format. This Note does not attempt to
     describe the full CoverageJSON specification in detail: this is available at the
     project website.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

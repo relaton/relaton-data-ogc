@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 19-081
-title:
-- content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
-    Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
-    Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/MUDDI
-  type: src
-- content: https://docs.ogc.org/per/19-081.html
-  type: html
+id: '19081'
 type: standard
-docid:
-- id: 19-081
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
+    Report
+  type: title-main
+- language: en
+  script: Latn
+  content: MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering
+    Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/MUDDI
+- type: html
+  content: https://docs.ogc.org/per/19-081.html
+docidentifier:
+- content: 19-081
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-03-23'
+  at: '2021-03-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Josh Lieberman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-03-23'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Underground Infrastructure Concept Development Study (UICDS) Engineering
+- language: en
+  script: Latn
+  content: The Underground Infrastructure Concept Development Study (UICDS) Engineering
     Report [1] examined the present state of underground infrastructure information
     (UGII), costs and benefits of that state, as well as future opportunities for
     an improved state. That report describes a number of candidate models for UGII
@@ -69,14 +77,8 @@ abstract:
     as similar implementations and deployments in realistic application scenarios.
     The present model is also suitable as input to begin development of a formal conceptual
     model standard.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

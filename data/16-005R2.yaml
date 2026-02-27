@@ -1,66 +1,68 @@
 ---
-schema-version: v1.2.9
-id: 16-005r2
-title:
-- content: 'Volume 2: OGC CDB Core: Model and Physical Structure: Informative Annexes'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Volume 2: OGC CDB Core: Model and Physical Structure: Informative Annexes'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/BP/CDB-core-annexes/1.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=72713
-  type: pdf
+id: 16005r2
 type: standard
-docid:
-- id: 16-005r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Volume 2: OGC CDB Core: Model and Physical Structure: Informative Annexes'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Volume 2: OGC CDB Core: Model and Physical Structure: Informative Annexes'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/BP/CDB-core-annexes/1.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=72713
+docidentifier:
+- content: 16-005r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-02-23'
+  at: '2017-02-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2017-02-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document provides the Annexes for the CDB Core: Model and Physical
+- language: en
+  script: Latn
+  content: 'This document provides the Annexes for the CDB Core: Model and Physical
     Structure standard. The only exception is Annex A, Abstract Test Suite. The CDB
     ATS Annex is in Volume 1: Core document.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

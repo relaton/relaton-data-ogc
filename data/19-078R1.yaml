@@ -1,91 +1,99 @@
 ---
-schema-version: v1.2.9
-id: 19-078r1
-title:
-- content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/wp/using-semantic-graph
-  type: src
-- content: https://docs.ogc.org/wp/19-078r1/19-078r1.html
-  type: html
+id: 19078r1
 type: standard
-docid:
-- id: 19-078r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/wp/using-semantic-graph
+- type: html
+  content: https://docs.ogc.org/wp/19-078r1/19-078r1.html
+docidentifier:
+- content: 19-078r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-10-05'
+  at: '2020-10-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joseph Abhayaratna
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Linda van den Brink
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Nicholas Car
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Rob Atkinson
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Timo Homburg
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Frans Knibbe
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kri
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2020-10-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This paper does four things. Firstly, it describes the benefits of representing
+- language: en
+  script: Latn
+  content: "This paper does four things. Firstly, it describes the benefits of representing
     geospatial data using semantics, graph, and web technologies. Secondly, it gives
     an overview of the current capabilities of the GeoSPARQL standard, showing that
     many benefits of semantic and graph technologies are already within reach. Thirdly,
@@ -103,14 +111,8 @@ abstract:
     of GeoSPARQL with non-geographic spatial data, those that see opportunities for
     using spatial data in a broad sense together with the aforementioned technologies
     are cordially invited to share their views."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

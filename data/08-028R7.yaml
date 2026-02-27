@@ -1,72 +1,71 @@
 ---
-schema-version: v1.2.9
-id: '08-028r7'
-title:
-- content: 'OpenGIS Location Services (OpenLS): Part 6'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Navigation Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OpenGIS Location Services (OpenLS): Part 6 - Navigation Service'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=28493
-  type: pdf
+id: '08028r7'
 type: standard
-docid:
-- id: '08-028r7'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OpenGIS Location Services (OpenLS): Part 6'
+  type: title-intro
+- language: en
+  script: Latn
+  content: Navigation Service
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OpenGIS Location Services (OpenLS): Part 6 - Navigation Service'
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=28493
+docidentifier:
+- content: '08-028r7'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2008-09-04'
+  at: '2008-09-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gil Fuchs
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '7'
-revdate: '2008-09-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This OpenGIS Implementation Standard defines the interfaces for OpenGIS
+- language: en
+  script: Latn
+  content: 'This OpenGIS Implementation Standard defines the interfaces for OpenGIS
     Location Services (OpenLS): Part 6 - Navigation Service (formerly the Full Profile
     of the Route Determination Service), which is part of the GeoMobility Server (GMS),
     an open location services platform. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

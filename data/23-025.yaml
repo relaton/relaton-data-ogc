@@ -1,92 +1,94 @@
 ---
-schema-version: v1.2.9
-id: 23-025
-title:
-- content: 2023 Open Standards and Open Source Software Code Sprint Summary Engineering
-    Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 2023 Open Standards and Open Source Software Code Sprint Summary Engineering
-    Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/ogc-osgeo-asf-codesprint2023
-  type: src
-- content: https://docs.ogc.org/per/23-025.html
-  type: html
+id: '23025'
 type: standard
-docid:
-- id: 23-025
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 2023 Open Standards and Open Source Software Code Sprint Summary Engineering
+    Report
+  type: title-main
+- language: en
+  script: Latn
+  content: 2023 Open Standards and Open Source Software Code Sprint Summary Engineering
+    Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/ogc-osgeo-asf-codesprint2023
+- type: html
+  content: https://docs.ogc.org/per/23-025.html
+docidentifier:
+- content: 23-025
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-11-01'
+  at: '2023-11-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gobe Hobona
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Joana Simoes
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tom Kralidis
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Martin Desruisseaux
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Angelos Tzotsos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2023-11-01'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The subject of this Engineering Report (ER) is a code sprint that was held
+- language: en
+  script: Latn
+  content: The subject of this Engineering Report (ER) is a code sprint that was held
     from the 25th to the 27th of April 2023 to advance support of open geospatial
     standards within the developer community, while also advancing the standards themselves.
     The code sprint was organized by the Open Geospatial Consortium (OGC), the Open
     Source Geospatial Foundation (OSGeo), and the Apache Software Foundation (ASF).
     The code sprint was sponsored by the Ordnance Survey and hosted by Camptocamp.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 16-024r2
-title:
-- content: Testbed-12 — Catalog Services for Aviation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 — Catalog Services for Aviation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-E001
-  type: src
-- content: https://docs.ogc.org/per/16-024r2.html
-  type: html
+id: 16024r2
 type: standard
-docid:
-- id: 16-024r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 — Catalog Services for Aviation
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 — Catalog Services for Aviation
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-E001
+- type: html
+  content: https://docs.ogc.org/per/16-024r2.html
+docidentifier:
+- content: 16-024r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-06-15'
+  at: '2017-06-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: R. Martell
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2017-06-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Engineering Report (ER) presents guidance concerning the use of OGC®
+- language: en
+  script: Latn
+  content: This Engineering Report (ER) presents guidance concerning the use of OGC®
     catalog services in the aviation domain. A wide variety of metadata resources
     can be readily published and discovered using the OGC CSW-ebRIM application profile,
     which marries the CSW catalog interface to the OASIS ebXML registry information
@@ -57,14 +65,8 @@ abstract:
     the FAA and Eurocontrol do not implement any OGC standards. This report explores
     the prospects for enhancing SWIM registries by a) integrating OGC catalog functionality,
     and b) accommodating OGC service descriptions.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

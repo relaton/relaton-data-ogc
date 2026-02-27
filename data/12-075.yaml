@@ -1,79 +1,81 @@
 ---
-schema-version: v1.2.9
-id: 12-075
-title:
-- content: 'OGC 3D Portrayal Interoperability Experiment  FINAL REPORT '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC 3D Portrayal Interoperability Experiment  FINAL REPORT '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/ie/3dpie
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=49068
-  type: pdf
+id: '12075'
 type: standard
-docid:
-- id: 12-075
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC 3D Portrayal Interoperability Experiment  FINAL REPORT '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC 3D Portrayal Interoperability Experiment  FINAL REPORT '
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/ie/3dpie
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=49068
+docidentifier:
+- content: 12-075
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-08-22'
+  at: '2012-08-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arne Schilling
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Benjamin Hagedorn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Volker Coors '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2012-08-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document describes the results of an OGC Interoperability Experiment
+- language: en
+  script: Latn
+  content: 'This document describes the results of an OGC Interoperability Experiment
     (IE) on the portrayal of 3D geospatial information. It contains technical details
     on processing 3D information in an OGC service environment as well as best practices
     on how to portray large data sets in urban planning scenarios, taking into account
     architectures and capabilities of interactive 3D graphics. Especially Web 3D Service
     and Web View Service, two draft standards (published as OGC discussions paper),
     have been in the focus of 3DPIE. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

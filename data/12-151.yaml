@@ -1,65 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 12-151
-title:
-- content: OWS-9 Aviation Portrayal Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-9 Aviation Portrayal Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/ows9-aviation-portrayal
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=51898
-  type: pdf
+id: '12151'
 type: standard
-docid:
-- id: 12-151
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-9 Aviation Portrayal Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-9 Aviation Portrayal Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/ows9-aviation-portrayal
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51898
+docidentifier:
+- content: 12-151
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-02-06'
+  at: '2013-02-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Daniel Balog
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Roger Brackin
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Robin Houtmeyers
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2013-02-06'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document provides an overview of the portrayal work within the OWS-9
+- language: en
+  script: Latn
+  content: This document provides an overview of the portrayal work within the OWS-9
     Aviation thread. Using open standards, a web services architecture was designed
     and prototyped to enable the retrieval of static airport maps in support of an
     ePIB. An ePIB, or Digitally Enhanced Pre-Flight Information Bulletin, provides
@@ -71,14 +79,8 @@ abstract:
     so that the effect of the NOTAM is clear. This approach avoids the pilot scanning
     through pages of textual description for potentially relevant NOTAMs, reducing
     the workload and the risk of missing a critical piece of information.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

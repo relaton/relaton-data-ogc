@@ -1,103 +1,99 @@
 ---
-schema-version: v1.2.9
-id: 14-014r3
-title:
-- content: OGC® Catalogue Services Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: HTTP protocol binding
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Abstract Test Suite
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: OGC® Catalogue Services Specification - HTTP protocol binding - Abstract
-    Test Suite
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/cat/csw-ats/3.0.0
-  type: src
-- content: https://docs.ogc.org/is/14-014r3/14-014r3.html
-  type: html
+id: 14014r3
 type: standard
-docid:
-- id: 14-014r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Catalogue Services Specification
+  type: title-intro
+- language: en
+  script: Latn
+  content: HTTP protocol binding
+  type: title-main
+- language: en
+  script: Latn
+  content: Abstract Test Suite
+  type: title-part
+- language: en
+  script: Latn
+  content: OGC® Catalogue Services Specification - HTTP protocol binding - Abstract
+    Test Suite
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/cat/csw-ats/3.0.0
+- type: html
+  content: https://docs.ogc.org/is/14-014r3/14-014r3.html
+docidentifier:
+- content: 14-014r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-06-10'
+  at: '2016-06-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Lorenzo Bigagli
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Doug Nebert
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Uwe Voges
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Panagiotis Vretanos
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Bruce Westcott
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2016-06-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: See OGC 12-176r7 -- OGC® Catalogue Services Specification - HTTP Protocol
+- language: en
+  script: Latn
+  content: See OGC 12-176r7 -- OGC® Catalogue Services Specification - HTTP Protocol
     Binding.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

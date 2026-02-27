@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 22-020
-title:
-- content: 'Testbed-18: Identifiers for Reproducible Science Summary Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Testbed-18: Identifiers for Reproducible Science Summary Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T18-D041
-  type: src
-- content: https://docs.ogc.org/per/22-020.html
-  type: html
+id: '22020'
 type: standard
-docid:
-- id: 22-020
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Testbed-18: Identifiers for Reproducible Science Summary Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Testbed-18: Identifiers for Reproducible Science Summary Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T18-D041
+- type: html
+  content: https://docs.ogc.org/per/22-020.html
+docidentifier:
+- content: 22-020
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-01-03'
+  at: '2023-01-03'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Paul Churchyard
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ajay Gupta
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2023-01-03'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC’s Testbed 18 initiative explored the following six tasks.\r\n\r\n1.)
+- language: en
+  script: Latn
+  content: "The OGC’s Testbed 18 initiative explored the following six tasks.\r\n\r\n1.)
     Advanced Interoperability for Building Energy\r\n2.) Secure Asynchronous Catalogs\r\n3.)
     Identifiers for Reproducible Science\r\n4.) Moving Features and Sensor Integration\r\n5.)
     3D+ Data Standards and Streaming\r\n6.) Machine Learning Training Data\r\nTestbed
@@ -72,14 +80,8 @@ abstract:
     Platform, Whole Tale) (Terradue).\r\nTestbed 18 participants identified considerations
     and limitations for reproducible workflows and recommendations for future work
     to identify the benefits of reproducible science for healthcare use cases."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

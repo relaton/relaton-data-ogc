@@ -1,76 +1,78 @@
 ---
-schema-version: v1.2.9
-id: 14-111r6
-title:
-- content: 'OGC® WaterML 2: Part 3'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Surface Hydrology Features (HY_Features)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Conceptual Model
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: 'OGC® WaterML 2: Part 3 - Surface Hydrology Features (HY_Features) - Conceptual
-    Model'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/hy-features/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/14-111r6/14-111r6.html
-  type: html
+id: 14111r6
 type: standard
-docid:
-- id: 14-111r6
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC® WaterML 2: Part 3'
+  type: title-intro
+- language: en
+  script: Latn
+  content: Surface Hydrology Features (HY_Features)
+  type: title-main
+- language: en
+  script: Latn
+  content: Conceptual Model
+  type: title-part
+- language: en
+  script: Latn
+  content: 'OGC® WaterML 2: Part 3 - Surface Hydrology Features (HY_Features) - Conceptual
+    Model'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/hy-features/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/14-111r6/14-111r6.html
+docidentifier:
+- content: 14-111r6
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-01-08'
+  at: '2018-01-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: David Blodgett
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Irina Dornblut
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '6'
-revdate: '2018-01-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC Surface Hydrology Features (HY_Features) standard defines a common
+- language: en
+  script: Latn
+  content: "The OGC Surface Hydrology Features (HY_Features) standard defines a common
     conceptual information model for identification of specific hydrologic features
     independent of their geometric representation and scale. The model describes types
     of surface hydrologic features by defining fundamental relationships among various
@@ -88,15 +90,9 @@ abstract:
     the same catchment, river, or other hydrologic feature in several ways is critical
     for aggregation of cross-referenced or related features into integrated data sets
     and data products on global, regional, or basin scales."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

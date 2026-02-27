@@ -1,76 +1,78 @@
 ---
-schema-version: v1.2.9
-id: 06-131r6
-title:
-- content: 'OGC® Catalogue Services Standard 2.0 Extension Package for ebRIM Application
-    Profile: Earth Observation Products'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC® Catalogue Services Standard 2.0 Extension Package for ebRIM Application
-    Profile: Earth Observation Products'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=35528
-  type: pdf
+id: 06131r6
 type: standard
-docid:
-- id: 06-131r6
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC® Catalogue Services Standard 2.0 Extension Package for ebRIM Application
+    Profile: Earth Observation Products'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC® Catalogue Services Standard 2.0 Extension Package for ebRIM Application
+    Profile: Earth Observation Products'
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=35528
+docidentifier:
+- content: 06-131r6
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-02-10'
+  at: '2010-02-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Frédéric Houbie
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Lorenzo Bigagli
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '6'
-revdate: '2010-02-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document describes the mapping of Earth Observation Products – defined
+- language: en
+  script: Latn
+  content: 'This document describes the mapping of Earth Observation Products – defined
     in the OGC® GML 3.1.1 Application schema for Earth Observation products [OGC 06-080r4]
     (version 0.9.3) – to an ebRIM structure within an OGC® Catalogue 2.0.2 (Corrigendum
     2 Release) [OGC 07-006r1] implementing the CSW-ebRIM Registry Service – part 1:
     ebRIM profile of CSW [OGC 07-110r4]. This standard defines the way Earth Observation
     products metadata resources are organized and implemented in the Catalogue for
     discovery, retrieval and management.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

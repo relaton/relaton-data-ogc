@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 18-078
-title:
-- content: 'OGC Vector Tiles Pilot: WFS 3.0 Vector Tiles Extension Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Vector Tiles Pilot: WFS 3.0 Vector Tiles Extension Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/vtp-wfs3
-  type: src
-- content: https://docs.ogc.org/per/18-078.html
-  type: html
+id: '18078'
 type: standard
-docid:
-- id: 18-078
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Vector Tiles Pilot: WFS 3.0 Vector Tiles Extension Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Vector Tiles Pilot: WFS 3.0 Vector Tiles Extension Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/vtp-wfs3
+- type: html
+  content: https://docs.ogc.org/per/18-078.html
+docidentifier:
+- content: 18-078
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-11'
+  at: '2019-02-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-02-11'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Feature data tiling, colloquially referred to as 'vector tiling', is a
+- language: en
+  script: Latn
+  content: "Feature data tiling, colloquially referred to as 'vector tiling', is a
     data delivery method that allows for large vector feature datasets to be systematically
     split into subsets or tiles [1]. This engineering report (ER) presents an extension
     specification for publishing of vector tiles data through an Application Programming
@@ -56,14 +64,8 @@ abstract:
     to geospatial information at the feature level. The WFS standard specifies discovery
     and query operations for web services that publish feature data. Extensions to
     the WFS 3.0 Core API offer other capabilities such as transaction operations.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

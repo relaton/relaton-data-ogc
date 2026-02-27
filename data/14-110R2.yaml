@@ -1,63 +1,68 @@
 ---
-schema-version: v1.2.9
-id: 14-110r2
-title:
-- content: OGC® GML Application Schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Coverages JPEG2000/JPIP Coverage Encoding Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding
-    Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/BP/gmlcov/1.0/jpip-jp2000/1.0
-  type: src
-- content: https://docs.ogc.org/bp/14-110r2/14-110r2.html
-  type: html
+id: 14110r2
 type: standard
-docid:
-- id: 14-110r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® GML Application Schema
+  type: title-intro
+- language: en
+  script: Latn
+  content: Coverages JPEG2000/JPIP Coverage Encoding Extension
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding
+    Extension
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/BP/gmlcov/1.0/jpip-jp2000/1.0
+- type: html
+  content: https://docs.ogc.org/bp/14-110r2/14-110r2.html
+docidentifier:
+- content: 14-110r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-11-02'
+  at: '2016-11-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Dimitri Sarafinof
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2016-11-02'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Coverages represent space/time-varying phenomena, such as satellite imagery,
+- language: en
+  script: Latn
+  content: "Coverages represent space/time-varying phenomena, such as satellite imagery,
     digital elevation models, or digital aerial imagery. OGC Abstract Topic 6 [OGC
     07-011] – which is identical to ISO 19123 – defines an abstract model of coverages.
     Coverage instances may be encoded using the GML Application Schema – Coverages
@@ -71,15 +76,9 @@ abstract:
     streaming capabilities with WCS. The approach is based on the authoritative GML
     Application Schema – Coverages – JPEG2000 Coverage Encoding Extension version
     1.0 [OGC 12-108]."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

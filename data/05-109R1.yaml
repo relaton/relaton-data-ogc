@@ -1,68 +1,70 @@
 ---
-schema-version: v1.2.9
-id: 05-109r1
-title:
-- content: Catalog 2.0 IPR for ebRIM
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Catalog 2.0 IPR for ebRIM
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=14143
-  type: pdf
+id: '05109r1'
 type: standard
-docid:
-- id: 05-109r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Catalog 2.0 IPR for ebRIM
+  type: title-main
+- language: en
+  script: Latn
+  content: Catalog 2.0 IPR for ebRIM
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=14143
+docidentifier:
+- content: 05-109r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-05-09'
+  at: '2006-05-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Rento Primavera
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2006-05-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The purpose of this document is to show how to map the various types of
+- language: en
+  script: Latn
+  content: The purpose of this document is to show how to map the various types of
     metadata documents to be used in the OWS3 project into the ebRIM.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

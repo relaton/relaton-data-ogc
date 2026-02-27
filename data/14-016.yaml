@@ -1,72 +1,74 @@
 ---
-schema-version: v1.2.9
-id: 14-016
-title:
-- content: OGC® Testbed-10 CCI VGI Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed-10 CCI VGI Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/testbed10/cci-vgi
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=58925
-  type: pdf
+id: '14016'
 type: standard
-docid:
-- id: 14-016
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed-10 CCI VGI Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed-10 CCI VGI Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/testbed10/cci-vgi
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=58925
+docidentifier:
+- content: 14-016
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-07-15'
+  at: '2014-07-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arne Bröring;Simon Jirka;Matthes Rieke
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Benjamin Pross
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2014-07-15'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report was created as a deliverable for the OGC Testbed
+- language: en
+  script: Latn
+  content: "This Engineering Report was created as a deliverable for the OGC Testbed
     10 (Testbed-\r\n10) initiative of the OGC Interoperability Program. This report
     describes an approach for\r\nintegrating Volunteered Geographic Information (VGI)
     into a spatial data infrastructure\r\nand reports on findings about the advancements
     using VGI resources. It includes\r\noptimization ideas, service change recommendations,
     and lessons learned.\r\nThis is not a normative document."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

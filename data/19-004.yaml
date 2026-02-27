@@ -1,67 +1,72 @@
 ---
-schema-version: v1.2.9
-id: 19-004
-title:
-- content: Anchor Node Extension in IndoorGML
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Seamless Navigation between Indoor and Outdoor Space
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Anchor Node Extension in IndoorGML - Seamless Navigation between Indoor
-    and Outdoor Space
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/indoorgml-anchornode
-  type: src
-- content: https://docs.ogc.org/dp/19-004.html
-  type: html
+id: '19004'
 type: standard
-docid:
-- id: 19-004
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Anchor Node Extension in IndoorGML
+  type: title-intro
+- language: en
+  script: Latn
+  content: Seamless Navigation between Indoor and Outdoor Space
+  type: title-main
+- language: en
+  script: Latn
+  content: Anchor Node Extension in IndoorGML - Seamless Navigation between Indoor
+    and Outdoor Space
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/indoorgml-anchornode
+- type: html
+  content: https://docs.ogc.org/dp/19-004.html
+docidentifier:
+- content: 19-004
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-12-11'
+  at: '2019-12-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Kyoung-Sook Kim
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jiyeong Lee
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-12-11'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC discussion paper provides an extension module of OGC Indoor Geography
+- language: en
+  script: Latn
+  content: This OGC discussion paper provides an extension module of OGC Indoor Geography
     Markup Language (IndoorGML) for the seamless navigation between indoor and outdoor
     spaces. The OGC IndoorGML standard has an issue on the data model that affects
     the connection of indoor and outdoor spaces via an “Anchor Node,” which is a conceptual
@@ -69,14 +74,8 @@ abstract:
     use cases of how IndoorGML can connect with other geospatial standards that represent
     outdoor spaces (and road networks), such as OGC City Geography Markup Language
     (CityGML) and version 5.0 of the Geographic Data Files (GDF) format.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

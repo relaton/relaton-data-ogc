@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 10-171
-title:
-- content: 'Sensor Instance Registry Discussion Paper '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Sensor Instance Registry Discussion Paper '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=40609
-  type: pdf
+id: '10171'
 type: standard
-docid:
-- id: 10-171
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Sensor Instance Registry Discussion Paper '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Sensor Instance Registry Discussion Paper '
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=40609
+docidentifier:
+- content: 10-171
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-10-12'
+  at: '2010-10-12'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Simon Jirka
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Daniel Nüst
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2010-10-12'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Discussion paper introduces the Sensor Instance Registry (SIR), a
+- language: en
+  script: Latn
+  content: This Discussion paper introduces the Sensor Instance Registry (SIR), a
     web service interface for managing the metadata and status information of sensors.
     Furthermore this service is capable of automatically harvesting sensor metadata,
     transforming the collected metadata sets into a data model compatible to OGC Catalogs
     and to push harvested metadata into OGC Catalog instances.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

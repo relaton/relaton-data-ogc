@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 17-023
-title:
-- content: 'OGC Testbed-13: EP Application Package Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: EP Application Package Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-ES001
-  type: src
-- content: https://docs.ogc.org/per/17-023.html
-  type: html
+id: '17023'
 type: standard
-docid:
-- id: 17-023
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: EP Application Package Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: EP Application Package Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-ES001
+- type: html
+  content: https://docs.ogc.org/per/17-023.html
+docidentifier:
+- content: 17-023
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-01-30'
+  at: '2018-01-30'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Pedro Gonçalves
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2018-01-30'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Application Package OGC Engineering Report (ER) defines a data model
+- language: en
+  script: Latn
+  content: "The Application Package OGC Engineering Report (ER) defines a data model
     and serialization for Thematic Exploitation Platforms (TEP) Application Packages.
     A TEP refers to a computing platform that follows a given set of scenarios for
     users, data and ICT provision aggregated around an Earth Science thematic area.
@@ -71,14 +79,8 @@ abstract:
     software will always run the same, regardless of where it’s deployed. A discussion
     on application deployment and execution is presented in the separate OGC Testbed-13
     Application Deployment and Execution Service ER [1].\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,63 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 15-026
-title:
-- content: OGC® Testbed-11 Aviation Feature Schema Recommendations Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed-11 Aviation Feature Schema Recommendations Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=63306
-  type: pdf
+id: '15026'
 type: standard
-docid:
-- id: 15-026
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed-11 Aviation Feature Schema Recommendations Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed-11 Aviation Feature Schema Recommendations Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=63306
+docidentifier:
+- content: 15-026
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-10-30'
+  at: '2015-10-30'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Thomas Forbes
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Alberto Olivares
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Richard Rombouts
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-10-30'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Developed by EUROCONTROL, the Aviation Feature Schema (AFX) is a template
+- language: en
+  script: Latn
+  content: "Developed by EUROCONTROL, the Aviation Feature Schema (AFX) is a template
     for\r\napplication schemas to implement by adding their operational attributes.
     For example, the\r\nAirport Mapping format can be implemented by extending AFX.
     The AFX defines\r\nconcepts of geometry and temporality through predefined classes
@@ -70,14 +78,8 @@ abstract:
     GIS entry level for aviation data, providing recommendations of suitability and
     areas\r\nof improvement. The report is aimed at system and client developers that
     shall use AFX."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

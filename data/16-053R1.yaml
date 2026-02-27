@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 16-053r1
-title:
-- content: 'Testbed-12 OWS Context: JSON, JSON-LD and HTML5 ER'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Testbed-12 OWS Context: JSON, JSON-LD and HTML5 ER'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A086
-  type: src
-- content: https://docs.ogc.org/per/16-053r1.html
-  type: html
+id: 16053r1
 type: standard
-docid:
-- id: 16-053r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Testbed-12 OWS Context: JSON, JSON-LD and HTML5 ER'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Testbed-12 OWS Context: JSON, JSON-LD and HTML5 ER'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A086
+- type: html
+  content: https://docs.ogc.org/per/16-053r1.html
+docidentifier:
+- content: 16-053r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-06-16'
+  at: '2017-06-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Masó
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2017-06-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "At the time of finalizing this ER the OGC TC has approved the OWS Context
+- language: en
+  script: Latn
+  content: "At the time of finalizing this ER the OGC TC has approved the OWS Context
     JSON encoding that is available here: http://www.opengeospatial.org/standards/owc
     This is the second encoding proposed for the OWS context standard precided by
     the Atom Encoding [OGC 12-084r2]. The OWS Context JSON enconding is based on the
@@ -75,14 +83,8 @@ abstract:
     context based on GeoJSON. The intention is to map the OWS Context model into the
     schema.org model to recognize that they are very similar and propose a encoding
     in HTML5 that can be done in the 3 alternative proposed by schema.org.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

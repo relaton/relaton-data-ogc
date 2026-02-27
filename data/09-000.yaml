@@ -1,57 +1,65 @@
 ---
-schema-version: v1.2.9
-id: '09-000'
-title:
-- content: OGC® Sensor Planning Service Implementation Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Sensor Planning Service Implementation Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=38478
-  type: pdf
+id: '09000'
 type: standard
-docid:
-- id: '09-000'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Sensor Planning Service Implementation Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Sensor Planning Service Implementation Standard
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=38478
+docidentifier:
+- content: '09-000'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-03-28'
+  at: '2011-03-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Johannes Echterhoff
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2011-03-28'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The OpenGIS® Sensor Planning Service Interface Standard (SPS) defines
+- language: en
+  script: Latn
+  content: 'The OpenGIS® Sensor Planning Service Interface Standard (SPS) defines
     interfaces for queries that provide information about the capabilities of a sensor
     and how to task the sensor. The standard is designed to support queries that have
     the following purposes: to determine the feasibility of a sensor planning request;
@@ -60,15 +68,9 @@ abstract:
     other OGC Web services that provide access to the data collected by the requested
     task. This is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
     suite of standards.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

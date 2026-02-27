@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 18-084
-title:
-- content: OGC Geospatial to the Edge Plugfest Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Geospatial to the Edge Plugfest Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://docs.opengeospatial.org/per/18-084
-  type: src
-- content: https://docs.ogc.org/per/18-084.html
-  type: html
+id: '18084'
 type: standard
-docid:
-- id: 18-084
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Geospatial to the Edge Plugfest Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Geospatial to the Edge Plugfest Engineering Report
+  type: main
+source:
+- type: src
+  content: http://docs.opengeospatial.org/per/18-084
+- type: html
+  content: https://docs.ogc.org/per/18-084.html
+docidentifier:
+- content: 18-084
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-01-20'
+  at: '2019-01-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Luis Bermudez
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-01-20'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Geospatial to the Edge Interoperability Plugfest, co-sponsored by the
+- language: en
+  script: Latn
+  content: The Geospatial to the Edge Interoperability Plugfest, co-sponsored by the
     Army Geospatial Center and the National Geospatial-Intelligence Agency (NGA/CIO&T),
     brought together technology implementers and data providers to advance the interoperability
     of geospatial products and services based on profiles of OGC standards. Specifically,
@@ -56,14 +64,8 @@ abstract:
     for Geospatial Intelligence (NSG) profiles, were exercised and improved in various
     clients. Compliance Tests were executed and advanced based on feedback from the
     participants.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

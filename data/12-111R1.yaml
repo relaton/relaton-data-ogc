@@ -1,87 +1,95 @@
 ---
-schema-version: v1.2.9
-id: 12-111r1
-title:
-- content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent
-    or Elevation-Dependent Data
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent
-    or Elevation-Dependent Data
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/bp/wms-tnz/1.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=56394
-  type: pdf
+id: 12111r1
 type: standard
-docid:
-- id: 12-111r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent
+    or Elevation-Dependent Data
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent
+    or Elevation-Dependent Data
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/bp/wms-tnz/1.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=56394
+docidentifier:
+- content: 12-111r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-04-14'
+  at: '2014-04-14'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Marie-Françoise Voidrot-Martinez
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Chris Little
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jürgen Seib
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Roy Ladner
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Adrian Custer
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jeff de La B
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2014-04-14'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document proposes a set of best practices and guidelines for implementing
+- language: en
+  script: Latn
+  content: This document proposes a set of best practices and guidelines for implementing
     and using the Open Geospatial Consortium (OGC) Web Map Service (WMS) to serve
     maps which are time-dependent or elevation-dependent. In particular, clarifications
     and restrictions on the use of WMS are defined to allow unambiguous and safe interoperability
@@ -90,15 +98,9 @@ abstract:
     specifically to WMS version 1.3, but many of the concepts and recommendations
     will be applicable to other versions of WMS or to other OGC services, such as
     the Web Coverage Service.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

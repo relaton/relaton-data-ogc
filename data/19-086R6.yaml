@@ -1,80 +1,85 @@
 ---
-schema-version: v1.2.9
-id: 19-086r6
-title:
-- content: OGC API
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Environmental Data Retrieval Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC API - Environmental Data Retrieval Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/ogcapi-edr-1/1.1.0
-  type: src
-- content: https://docs.ogc.org/is/19-086r6/19-086r6.html
-  type: html
+id: 19086r6
 type: standard
-docid:
-- id: 19-086r6
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC API
+  type: title-intro
+- language: en
+  script: Latn
+  content: Environmental Data Retrieval Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC API - Environmental Data Retrieval Standard
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/ogcapi-edr-1/1.1.0
+- type: html
+  content: https://docs.ogc.org/is/19-086r6/19-086r6.html
+docidentifier:
+- content: 19-086r6
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-07-27'
+  at: '2023-07-27'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Mark Burgoyne
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: David Blodgett
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Charles Heazel
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Chris Little
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '6'
-revdate: '2023-07-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC API — Environmental Data Retrieval (EDR) standard provides a family
+- language: en
+  script: Latn
+  content: "The OGC API — Environmental Data Retrieval (EDR) standard provides a family
     of lightweight query interfaces to access spatiotemporal data resources by requesting
     data at a Position, within an Area, along a Trajectory or through a Corridor.
     A spatio-temporal data resource is a collection of spatio-temporal data that can
@@ -109,15 +114,9 @@ abstract:
     defines the resources and access paths that are supported by all OGC APIs. The
     resources are listed in Table 1. This document extends that foundation to define
     the EDR API."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 17-026r1
-title:
-- content: 'OGC Testbed-13: Disconnected Networks Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: Disconnected Networks Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-NG004
-  type: src
-- content: https://docs.ogc.org/per/17-026r1.html
-  type: html
+id: 17026r1
 type: standard
-docid:
-- id: 17-026r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: Disconnected Networks Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: Disconnected Networks Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-NG004
+- type: html
+  content: https://docs.ogc.org/per/17-026r1.html
+docidentifier:
+- content: 17-026r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-02-22'
+  at: '2018-02-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Rob Cass
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2018-02-22'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The design of core OGC Web Services (OWS) does not entertain the possibility
+- language: en
+  script: Latn
+  content: "The design of core OGC Web Services (OWS) does not entertain the possibility
     of network unavailability, internet unavailability, or disconnected clients and
     datastores. Deployments of these services, and the clients that consume them,
     often happen in networking environments that have limited bandwidth, sporadic
@@ -64,14 +72,8 @@ abstract:
     environments on both clients and services.\r\n\r\nThis ER intends to guide client
     and service implementation, as well as deployment strategies for these challenging
     environments.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

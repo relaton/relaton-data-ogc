@@ -1,72 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 21-053r1
-title:
-- content: Topic 23
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: GeoPackage Conceptual and Logical Model
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Topic 23 - GeoPackage Conceptual and Logical Model
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/AS/geopackage-conceptual-model/
-  type: src
-- content: https://docs.ogc.org/as/21-053r1/21-053r1.html
-  type: html
+id: 21053r1
 type: standard
-docid:
-- id: 21-053r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 23
+  type: title-intro
+- language: en
+  script: Latn
+  content: GeoPackage Conceptual and Logical Model
+  type: title-main
+- language: en
+  script: Latn
+  content: Topic 23 - GeoPackage Conceptual and Logical Model
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/AS/geopackage-conceptual-model/
+- type: html
+  content: https://docs.ogc.org/as/21-053r1/21-053r1.html
+docidentifier:
+- content: 21-053r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-06-29'
+  at: '2023-06-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Yutzler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2023-06-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document presents the conceptual and logical models for version 1.x
+- language: en
+  script: Latn
+  content: This document presents the conceptual and logical models for version 1.x
     of the OGC GeoPackage Standard. The intent is that these models can be used to
     implement the GeoPackage standard using technology other than a SQLite database.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

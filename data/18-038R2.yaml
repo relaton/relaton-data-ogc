@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-038r2
-title:
-- content: 'OGC Testbed-14: Machine Learning Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: Machine Learning Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D030
-  type: src
-- content: https://docs.ogc.org/per/18-038r2.html
-  type: html
+id: 18038r2
 type: standard
-docid:
-- id: 18-038r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Machine Learning Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Machine Learning Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D030
+- type: html
+  content: https://docs.ogc.org/per/18-038r2.html
+docidentifier:
+- content: 18-038r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-04'
+  at: '2019-02-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Tom Landry
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2019-02-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Engineering Report (ER) describes the application and use of
+- language: en
+  script: Latn
+  content: "This OGC Engineering Report (ER) describes the application and use of
     OGC Web Services (OWS) for integrating Machine Learning (ML), Deep Learning (DL)
     and Artificial Intelligence (AI) in the OGC Testbed-14 Modeling, Portrayal, and
     Quality of Service (MoPoQ) Thread. This report is intended to present a holistic
@@ -60,14 +68,8 @@ abstract:
     patterns, application schemas, and use of controlled vocabularies. It is expected
     that the description of workflows for geospatial feature extraction will be more
     complex than the implementations found in the deliverables."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

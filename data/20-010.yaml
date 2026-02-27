@@ -1,85 +1,93 @@
 ---
-schema-version: v1.2.9
-id: 20-010
-title:
-- content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
-    Standard'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
-    Standard'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/CityGML-1/3.0.0
-  type: src
-- content: https://docs.ogc.org/is/20-010/20-010.html
-  type: html
+id: '20010'
 type: standard
-docid:
-- id: 20-010
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
+    Standard'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC City Geography Markup Language (CityGML) Part 1: Conceptual Model
+    Standard'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/CityGML-1/3.0.0
+- type: html
+  content: https://docs.ogc.org/is/20-010/20-010.html
+docidentifier:
+- content: 20-010
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-09-13'
+  at: '2021-09-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Thomas H. Kolbe
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tatjana Kutzner
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Carl Stephen Smyth
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Claus Nagel
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Carsten Roensdorf
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Charles Heazel
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-09-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Standard defines the open CityGML Conceptual Model for the storage
+- language: en
+  script: Latn
+  content: "This Standard defines the open CityGML Conceptual Model for the storage
     and exchange of virtual 3D city models. The CityGML Conceptual Model is defined
     by a Unified Modeling Language (UML) object model. This UML model builds on the
     ISO Technical Committee 211 (ISO/TC 211) conceptual model standards for spatial
@@ -91,15 +99,9 @@ abstract:
     respect to the cost-effective sustainable maintenance of 3D city models, allowing
     the reuse of the same data in different application fields.\r\n\r\nThe class models
     described in this standard are also available at https://github.com/opengeospatial/CityGML3-Workspace/tree/1.0/UML/CityGML"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

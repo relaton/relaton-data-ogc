@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 04-051
-title:
-- content: OWS1.2 Image Handling Design
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS1.2 Image Handling Design
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=6621
-  type: pdf
+id: '04051'
 type: standard
-docid:
-- id: 04-051
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS1.2 Image Handling Design
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS1.2 Image Handling Design
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=6621
+docidentifier:
+- content: 04-051
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2004-09-26'
+  at: '2004-09-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: George Percivall
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2004-09-26'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'Image Handling is a thread in the OGC Web Services 1.2 (OWS1.2).  This
+- language: en
+  script: Latn
+  content: 'Image Handling is a thread in the OGC Web Services 1.2 (OWS1.2).  This
     document defines the system design for Image Handling in OWS1.2.  The system design
     responds to the requirements in OWS 1.2 Image Handling Requirements.  The system
     design specifies two main services: Image Archive Service and Image Catalogue
     Service.  Interfaces for these two services are defined using previously defined
     OWS service interfaces.  '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

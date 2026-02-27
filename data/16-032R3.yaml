@@ -1,72 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 16-032r3
-title:
-- content: 'OGC WaterML 2: Part 4'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: GroundWaterML 2 (GWML2)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC WaterML 2: Part 4 - GroundWaterML 2 (GWML2)'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/GWML/2.2.1
-  type: src
-- content: https://docs.ogc.org/is/19-013/19-013.html
-  type: html
+id: 16032r3
 type: standard
-docid:
-- id: 16-032r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC WaterML 2: Part 4'
+  type: title-intro
+- language: en
+  script: Latn
+  content: GroundWaterML 2 (GWML2)
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC WaterML 2: Part 4 - GroundWaterML 2 (GWML2)'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/GWML/2.2.1
+- type: html
+  content: https://docs.ogc.org/is/19-013/19-013.html
+docidentifier:
+- content: 16-032r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-01-20'
+  at: '2021-01-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Boyan Brodaric
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2021-01-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard describes a conceptual and logical model for the exchange
+- language: en
+  script: Latn
+  content: This standard describes a conceptual and logical model for the exchange
     of groundwater data, as well as a GML/XML encoding with examples.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

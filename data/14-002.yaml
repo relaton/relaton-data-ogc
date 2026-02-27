@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 14-002
-title:
-- content: OGC® Testbed 10 Annotations Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed 10 Annotations Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/testbed10/annotations
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=58965
-  type: pdf
+id: '14002'
 type: standard
-docid:
-- id: 14-002
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed 10 Annotations Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed 10 Annotations Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/testbed10/annotations
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=58965
+docidentifier:
+- content: 14-002
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-07-15'
+  at: '2014-07-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Masó and Raj Singh
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2014-07-15'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Engineering Report provides guidelines for dealing with geospatial\r\nannotations
+- language: en
+  script: Latn
+  content: "This OGC Engineering Report provides guidelines for dealing with geospatial\r\nannotations
     in OGC standards. It proposes a generic data model and a set of mappings\r\ninto
     different popular encodings This OGC® document is applicable to OWS context,\r\nGMLJP2
     and any other standards that can require annotations."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,70 +1,72 @@
 ---
-schema-version: v1.2.9
-id: 14-038r1
-title:
-- content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
-    Data'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
-    Data'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/testbed10/wcs-wgds-adapter
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=58117
-  type: pdf
+id: 14038r1
 type: standard
-docid:
-- id: 14-038r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
+    Data'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
+    Data'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/testbed10/wcs-wgds-adapter
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=58117
+docidentifier:
+- content: 14-038r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-07-16'
+  at: '2014-07-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Mark Hughes
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2014-07-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC document provides an analysis of the mapping between the NOAA
+- language: en
+  script: Latn
+  content: "This OGC document provides an analysis of the mapping between the NOAA
     Web Gridded Document Service (WGDS) and the OGC Web Coverage Service (WCS)  and
     describes an adapter which translates WCS 2.0 requests to WGDS requests and then
     translates WGDS responses to WCS 2.0  responses.\r\nThis Engineering Report was
     prepared as a deliverable for the OGC Testbed 10 (Testbed-10) initiative, specifically
     the Testbed 10 Aviation Thread.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

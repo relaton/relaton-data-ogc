@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 11-058r1
-title:
-- content: "*FL Starfish Fungus Language for Sensor Description "
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: "*FL Starfish Fungus Language for Sensor Description "
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=44438
-  type: pdf
+id: 11058r1
 type: standard
-docid:
-- id: 11-058r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: "*FL Starfish Fungus Language for Sensor Description "
+  type: title-main
+- language: en
+  script: Latn
+  content: "*FL Starfish Fungus Language for Sensor Description "
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=44438
+docidentifier:
+- content: 11-058r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-07-08'
+  at: '2011-07-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Chrsitian Malewski
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2011-07-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Starfish Fungus Language was developed in response to the high number
+- language: en
+  script: Latn
+  content: The Starfish Fungus Language was developed in response to the high number
     of complaints addressing issues with the OGC standard Sensor Model Language, SensorML.
     Most complaints circled around the high flexibility of the language in combination
     with unnecessary abstractions of technical terms, e.g. every sensor is not a sensor
@@ -61,14 +69,8 @@ abstract:
     as there is no well-defined rule what needs to be described where. As a beginner,
     it is almost impossible to write a simple sensor description without getting major
     guidance through the SensorML development team or other experts.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

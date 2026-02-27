@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 19-023r1
-title:
-- content: 'OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t15-D011
-  type: src
-- content: https://docs.ogc.org/per/19-023r1.html
-  type: html
+id: 19023r1
 type: standard
-docid:
-- id: 19-023r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering
+    Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering
+    Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t15-D011
+- type: html
+  content: https://docs.ogc.org/per/19-023r1.html
+docidentifier:
+- content: 19-023r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-12-11'
+  at: '2019-12-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Andrea Aime
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-12-11'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC Testbed 15 Engineering Report (ER) describes a style encoding
+- language: en
+  script: Latn
+  content: This OGC Testbed 15 Engineering Report (ER) describes a style encoding
     and metadata conceptual model that provides information for understanding styles
     intended usage, availability, compatibility with existing layers, and supporting
     style search. A style is a sequence of rules of symbolizing instructions to be
     applied by a rendering engine on one or more features and/or coverages
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

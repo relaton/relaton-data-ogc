@@ -1,73 +1,81 @@
 ---
-schema-version: v1.2.9
-id: 22-045r5
-title:
-- content: OGC IndoorGML 2.0 Part 1 – Conceptual Model
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC IndoorGML 2.0 Part 1 – Conceptual Model
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/indoorgml/2.0
-  type: src
-- content: https://docs.ogc.org/is/22-045r5/22-045r5.html
-  type: html
+id: 22045r5
 type: standard
-docid:
-- id: 22-045r5
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC IndoorGML 2.0 Part 1 – Conceptual Model
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC IndoorGML 2.0 Part 1 – Conceptual Model
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/indoorgml/2.0
+- type: html
+  content: https://docs.ogc.org/is/22-045r5/22-045r5.html
+docidentifier:
+- content: 22-045r5
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-06-26'
+  at: '2025-06-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sisi Zlatanova
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Abdoulaye Diakite
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Taehoon Kim
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Ki-Joune Li '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '5'
-revdate: '2025-06-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OGC IndoorGML Part I – Conceptual Model Standard (this Standard) specifies
+- language: en
+  script: Latn
+  content: The OGC IndoorGML Part I – Conceptual Model Standard (this Standard) specifies
     an UML model for indoor information. Part 2 of the standard specifies technical
     implementation schemas in GML, SQL and JSON. While there are several standards
     supporting 3D modelling concepts such as CityGML, KML, IFC, LADM, and IMDF that
@@ -75,15 +83,9 @@ abstract:
     IndoorGML focuses on modeling indoor spaces and their neighborhood relationships
     to support indoor location-based services. This document describes the conceptual
     model (Part 1) of IndoorGML that addresses spaces and networks for indoor navigation.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

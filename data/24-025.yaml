@@ -1,91 +1,99 @@
 ---
-schema-version: v1.2.9
-id: 24-025
-title:
-- content: 'Urban Digital Twins: Integrating Infrastructure, natural environment and
-    people'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Urban Digital Twins: Integrating Infrastructure, natural environment and
-    people'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/UDT
-  type: src
-- content: https://docs.ogc.org/dp/24-025.html
-  type: html
+id: '24025'
 type: standard
-docid:
-- id: 24-025
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Urban Digital Twins: Integrating Infrastructure, natural environment and
+    people'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Urban Digital Twins: Integrating Infrastructure, natural environment and
+    people'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/UDT
+- type: html
+  content: https://docs.ogc.org/dp/24-025.html
+docidentifier:
+- content: 24-025
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-07-02'
+  at: '2024-07-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carsten Rönsdorf
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: " Fabrice Servant"
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: H.C. Gruler
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Nick Giannias
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kyoungsook Kim
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Zubran Soleiman
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Dim
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2024-07-02'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This position paper is aimed at city officials and domain professionals
+- language: en
+  script: Latn
+  content: "This position paper is aimed at city officials and domain professionals
     working in an urban data context. Its goal is to clarify the concept of Urban
     Digital Twins (UDT) and to position it in regards of Digital Twins in general
     as well as the emerging Metaverse. \r\n\r\nOverall, the UDT concept is an approach
@@ -117,14 +125,8 @@ abstract:
     and the governance of that type of platform is still a challenge. OGC is keen
     on supporting and collaborating on projects to help create the best practices
     on that matter."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

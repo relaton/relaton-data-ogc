@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 10-003r1
-title:
-- content: Summary of the Architecture, Engineering, Construction, Owner Operator
-    Phase 1 (AECOO-1) Joint Testbed
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Summary of the Architecture, Engineering, Construction, Owner Operator
-    Phase 1 (AECOO-1) Joint Testbed
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=37223
-  type: pdf
+id: 10003r1
 type: standard
-docid:
-- id: 10-003r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Summary of the Architecture, Engineering, Construction, Owner Operator
+    Phase 1 (AECOO-1) Joint Testbed
+  type: title-main
+- language: en
+  script: Latn
+  content: Summary of the Architecture, Engineering, Construction, Owner Operator
+    Phase 1 (AECOO-1) Joint Testbed
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=37223
+docidentifier:
+- content: 10-003r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-06-04'
+  at: '2010-06-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Louis Hecht
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jr.
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Raj Singh
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2010-06-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Architecture, Engineering, Construction, Owner Operator, Phase 1 (AECOO-1)
+- language: en
+  script: Latn
+  content: The Architecture, Engineering, Construction, Owner Operator, Phase 1 (AECOO-1)
     Testbed developed and implemented methods to streamline communications between
     parties in the conceptual design phase to get an early understanding of the tradeoffs
     between construction cost and energy efficiency. To that end, the project developed
@@ -74,15 +82,9 @@ abstract:
     need to practice the best way they know, and practice profitably; software interoperability
     problems must not hold them back. Non-interoperable software and data is cause
     for loss of competition across the market.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

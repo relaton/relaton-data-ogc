@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 16-008
-title:
-- content: OGC Geoscience Markup Language 4.1 (GeoSciML)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Geoscience Markup Language 4.1 (GeoSciML)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/geosciml/4.1
-  type: src
-- content: https://docs.ogc.org/is/16-008/16-008.html
-  type: html
+id: '16008'
 type: standard
-docid:
-- id: 16-008
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Geoscience Markup Language 4.1 (GeoSciML)
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Geoscience Markup Language 4.1 (GeoSciML)
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/geosciml/4.1
+- type: html
+  content: https://docs.ogc.org/is/16-008/16-008.html
+docidentifier:
+- content: 16-008
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-01-31'
+  at: '2017-01-31'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: GeoSciML Modeling Team
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-01-31'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "GeoSciML is a model of geological features commonly described and portrayed
+- language: en
+  script: Latn
+  content: "GeoSciML is a model of geological features commonly described and portrayed
     in geological maps, cross sections, geological reports and databases.  The model
     was developed by the IUGS CGI (Commission for the Management and Application of
     Geoscience Information) and version 4.1 is the first version officially submitted
@@ -59,15 +67,9 @@ abstract:
     specification also provides patterns, profiles (most notably of Observations and
     Measurements - ISO19156), and best practices to deal with common geoscience use
     cases. \r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

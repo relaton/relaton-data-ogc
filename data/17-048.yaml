@@ -1,71 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 17-048
-title:
-- content: OGC Underground Infrastructure Concept Study Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Underground Infrastructure Concept Study Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/uicds
-  type: src
-- content: https://docs.ogc.org/per/17-048.html
-  type: html
+id: '17048'
 type: standard
-docid:
-- id: 17-048
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Underground Infrastructure Concept Study Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Underground Infrastructure Concept Study Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/uicds
+- type: html
+  content: https://docs.ogc.org/per/17-048.html
+docidentifier:
+- content: 17-048
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-08-31'
+  at: '2017-08-31'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Josh Lieberman
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Andy Ryan
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-08-31'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This report documents the progress made to date by OGC and its members
+- language: en
+  script: Latn
+  content: This report documents the progress made to date by OGC and its members
     to build a complete picture of the present situation and develop a conceptual
     framework for action to improve underground infrastructure data interoperability.
     The report also identifies the most important steps to be taken next in order
     to develop the necessary data standards and foster their adoption.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,63 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 10-192
-title:
-- content: 'Authentication IE Enginerring Report '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Authentication IE Enginerring Report '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=41734
-  type: pdf
+id: '10192'
 type: standard
-docid:
-- id: 10-192
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Authentication IE Enginerring Report '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Authentication IE Enginerring Report '
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=41734
+docidentifier:
+- content: 10-192
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-01-03'
+  at: '2011-01-03'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Harrison
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2011-01-03'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'Results of the Auth IE are presented in this Engineering Report document
+- language: en
+  script: Latn
+  content: 'Results of the Auth IE are presented in this Engineering Report document
     and serve as guidance to both implementers and organizations deploying solutions
     that involve basic authentication. It is the belief of the Auth IE participants
     that if such a document is made available to the community more OGC implementing
     products will natively support authentication. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

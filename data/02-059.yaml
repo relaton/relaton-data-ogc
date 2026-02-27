@@ -1,62 +1,64 @@
 ---
-schema-version: v1.2.9
-id: 02-059
-title:
-- content: Filter Encoding
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Filter Encoding
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=1171
-  type: pdf
+id: '02059'
 type: standard
-docid:
-- id: 02-059
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Filter Encoding
+  type: title-main
+- language: en
+  script: Latn
+  content: Filter Encoding
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=1171
+docidentifier:
+- content: 02-059
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2001-05-01'
+  at: '2001-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2001-05-01'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: A filter is a construct used to describe constraints on properties of a
+- language: en
+  script: Latn
+  content: A filter is a construct used to describe constraints on properties of a
     feature class for the purpose of identifying a subset of feature instances to
     be operated upon in some way.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

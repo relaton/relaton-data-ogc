@@ -1,96 +1,98 @@
 ---
-schema-version: v1.2.9
-id: 19-075r1
-title:
-- content: OGC Borehole Interoperability Experiment Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Borehole Interoperability Experiment Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/borehole-ie
-  type: src
-- content: https://portal.ogc.org/files/19-075r1
-  type: pdf
+id: 19075r1
 type: standard
-docid:
-- id: 19-075r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Borehole Interoperability Experiment Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Borehole Interoperability Experiment Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/borehole-ie
+- type: pdf
+  content: https://portal.ogc.org/files/19-075r1
+docidentifier:
+- content: 19-075r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-05-06'
+  at: '2020-05-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sylvain Grellet
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Eric Boisvert
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Bruce Simons
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jean-François Rainaud
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Henning Lorenz
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Rainer Haener
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2020-05-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document describes a conceptual model, logical model, and GML/XML
+- language: en
+  script: Latn
+  content: This document describes a conceptual model, logical model, and GML/XML
     encoding schema for the exchange of borehole related data and especially all the
     elements that are positioned along a borehole trajectory. In addition, this document
     provides GML/XML encoding instances documents for guidance
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

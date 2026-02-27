@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 15-054
-title:
-- content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
-    Services Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
-    Services Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t11-linked-data
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=64405
-  type: pdf
+id: '15054'
 type: standard
-docid:
-- id: 15-054
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
+    Services Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
+    Services Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t11-linked-data
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=64405
+docidentifier:
+- content: 15-054
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-11-18'
+  at: '2015-11-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Stephane Fellah
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-11-18'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC® Engineering Report (ER) summarizes the approaches, findings
+- language: en
+  script: Latn
+  content: "This OGC® Engineering Report (ER) summarizes the approaches, findings
     and the results\r\nof the Linked Data and Semantic Enablement of OGC Web Services
     sub-thread activities\r\nof the OGC Testbed-11 Cross Community Interoperability
     (CCI) Thread. This report\r\nprovides an overview of existing standards for geosemantics,
     outlines the approaches\r\nadopted during the testbed, describes the conceptual
     semantic models and services\r\ndeveloped during this testbed to leverage Linked
     Data and semantic enabled OGC web\r\nservices."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

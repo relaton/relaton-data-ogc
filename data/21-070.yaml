@@ -1,83 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 21-070
-title:
-- content: OGC Integrated Methane Sensor Web for Emissions Management Best Practice
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Part I
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Fugitive Emissions Management based on AE
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: OGC Integrated Methane Sensor Web for Emissions Management Best Practice
-    - Part I - Fugitive Emissions Management based on AE
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/BP/imsw-fm-aer60/1.0
-  type: src
-- content: https://docs.ogc.org/bp/21-070/21-070.html
-  type: html
+id: '21070'
 type: standard
-docid:
-- id: 21-070
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Integrated Methane Sensor Web for Emissions Management Best Practice
+  type: title-intro
+- language: en
+  script: Latn
+  content: Part I
+  type: title-main
+- language: en
+  script: Latn
+  content: Fugitive Emissions Management based on AE
+  type: title-part
+- language: en
+  script: Latn
+  content: OGC Integrated Methane Sensor Web for Emissions Management Best Practice
+    - Part I - Fugitive Emissions Management based on AE
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/BP/imsw-fm-aer60/1.0
+- type: html
+  content: https://docs.ogc.org/bp/21-070/21-070.html
+docidentifier:
+- content: 21-070
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2022-07-13'
+  at: '2022-07-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Steve Liang
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2022-07-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Methane (CH4) is one of the most potent greenhouse gases, and the comparative
+- language: en
+  script: Latn
+  content: Methane (CH4) is one of the most potent greenhouse gases, and the comparative
     impact of methane is 25 times greater than CO2 over a 100-year period. Methane
     is an invisible and odorless gas, and it is very labor intensive and time consuming
     in order to detect and repair leaks. Regulations play a critical role in methane
     emissions reduction, and how methane emissions are detected, repaired, and managed
     is highly dependent on local regulations. This OGC Best Practice document defines
     a SensorThings API for fugitive methane emissions management.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

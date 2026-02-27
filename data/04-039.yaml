@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 04-039
-title:
-- content: Geospatial Portal Reference Architecture
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Geospatial Portal Reference Architecture
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=6669
-  type: pdf
+id: '04039'
 type: standard
-docid:
-- id: 04-039
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geospatial Portal Reference Architecture
+  type: title-main
+- language: en
+  script: Latn
+  content: Geospatial Portal Reference Architecture
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=6669
+docidentifier:
+- content: 04-039
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2004-09-22'
+  at: '2004-09-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Louis Rose
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2004-09-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This Guide has been developed by the members of the Open Geospatial Consortium,
+- language: en
+  script: Latn
+  content: 'This Guide has been developed by the members of the Open Geospatial Consortium,
     Inc. to assist the global geospatial technology community in implementing standards-based
     geospatial portal solutions that are compatible with Spatial Data Infrastructures
     in every nation.  We offer this document as a resource for rapid development and
     informed acquisition of portals and portal-exploiting applications that can plug
     and play with geospatial data and services in your organization and other organizations
     in your community and around the world.    '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

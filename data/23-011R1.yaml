@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 23-011r1
-title:
-- content: 'Testbed-18: 3D+ Data Space Object Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Testbed-18: 3D+ Data Space Object Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T18-D024
-  type: src
-- content: https://docs.ogc.org/per/23-011r1.html
-  type: html
+id: 23011r1
 type: standard
-docid:
-- id: 23-011r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Testbed-18: 3D+ Data Space Object Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Testbed-18: 3D+ Data Space Object Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T18-D024
+- type: html
+  content: https://docs.ogc.org/per/23-011r1.html
+docidentifier:
+- content: 23-011r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-06-26'
+  at: '2023-06-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Martin Desruisseaux
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Logan Stark
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2023-06-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "With the growing commercialization of space there is a need to look beyond
+- language: en
+  script: Latn
+  content: "With the growing commercialization of space there is a need to look beyond
     the earth and explore the integration of sensors or assets in celestial orbits
     or in free flight in our solar system. Their exact tracking and localization are
     becoming increasingly important as space emerges as the newest area in need for
@@ -64,14 +72,8 @@ abstract:
     Object Engineering Report (ER) describes existing standards in terms of their
     ability to represent a suite of multidimensional Coordinate Reference Systems
     (CRS) and associated geometries as well as identifies shortfalls in these standards."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

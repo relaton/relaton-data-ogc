@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 12-154
-title:
-- content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format
-    (NITF) Engineering Report '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format
-    (NITF) Engineering Report '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/ows-9-nitf-for-gmljp2
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=51889
-  type: pdf
+id: '12154'
 type: standard
-docid:
-- id: 12-154
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format
+    (NITF) Engineering Report '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format
+    (NITF) Engineering Report '
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/ows-9-nitf-for-gmljp2
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51889
+docidentifier:
+- content: 12-154
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-02-05'
+  at: '2013-02-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Darko Androsevic
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2013-02-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC® document provides mapping of the national imagery transmission
+- language: en
+  script: Latn
+  content: "This OGC® document provides mapping of the national imagery transmission
     format (NITF) version 2.1 format and NITF tagged record extensions (TRE) to GMLJP2
     v2.0 (draft) format.\r\nThis Engineering Report was prepared as a deliverable
     for the OGC Web Services, Phase 9 (OWS-9) initiative. \r\nThis document further
     describes study results of analyses of NITF and NITF extensions (TRE) capabilities
     and how they can be supported by GMLJP2 2.0 (draft). This activity was a part
     of the OGC OWS-9 Innovations thread.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

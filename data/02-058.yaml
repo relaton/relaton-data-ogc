@@ -1,61 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 02-058
-title:
-- content: Web Feature Service (Transactional)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Web Feature Service (Transactional)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=7176
-  type: pdf
+id: '02058'
 type: standard
-docid:
-- id: 02-058
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Web Feature Service (Transactional)
+  type: title-main
+- language: en
+  script: Latn
+  content: Web Feature Service (Transactional)
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=7176
+docidentifier:
+- content: 02-058
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2002-05-17'
+  at: '2002-05-17'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2002-05-17'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The purpose of the Web Feature Server Interface Specification (WFS) is
+- language: en
+  script: Latn
+  content: The purpose of the Web Feature Server Interface Specification (WFS) is
     to describe data manipulation operations on OpenGIS
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: profile
-  editorialgroup:
-    committee: technical
+  flavor: ogc

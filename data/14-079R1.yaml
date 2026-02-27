@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 14-079r1
-title:
-- content: USGS OGC® Interoperability Assessment Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: USGS OGC® Interoperability Assessment Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/usgs-interop-assessment
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=59983
-  type: pdf
+id: 14079r1
 type: standard
-docid:
-- id: 14-079r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: USGS OGC® Interoperability Assessment Report
+  type: title-main
+- language: en
+  script: Latn
+  content: USGS OGC® Interoperability Assessment Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/usgs-interop-assessment
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=59983
+docidentifier:
+- content: 14-079r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-02-02'
+  at: '2015-02-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2015-02-02'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The USGS Interoperability assessment was conducted under the OGC Interoperability\r\nProgram
+- language: en
+  script: Latn
+  content: "The USGS Interoperability assessment was conducted under the OGC Interoperability\r\nProgram
     with the goal to better understand how USGS customers make use of OGC\r\ncompliant
     Web services operated by USGS. For this assessment, USGS customers have\r\nbeen
     invited to share their experiences and to describe their use cases and experiences\r\nmade
     with USGS data services and products. From those descriptions, recommendations\r\nhave
     been derived that help USGS to better understand their user community and\r\noptimize
     their service offerings."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,62 +1,64 @@
 ---
-schema-version: v1.2.9
-id: '09-073'
-title:
-- content: OWS-6 SWE PulseNet™ Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-6 SWE PulseNet™ Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=34145
-  type: pdf
+id: '09073'
 type: standard
-docid:
-- id: '09-073'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-6 SWE PulseNet™ Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-6 SWE PulseNet™ Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=34145
+docidentifier:
+- content: '09-073'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-08-05'
+  at: '2009-08-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: James Ressler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2009-08-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document summarizes work delivered on the Sensor Web Enablement (SWE)
+- language: en
+  script: Latn
+  content: This document summarizes work delivered on the Sensor Web Enablement (SWE)
     thread of OWS-6. In particular, Northrop Grumman’s contribution from PulseNet™
     to the Common Chemical, Biological, Radiological, and Nuclear (CBRN) Sensor Interface
     (CCSI) standard-compliant sensors into an OGC SWE-based architecture.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

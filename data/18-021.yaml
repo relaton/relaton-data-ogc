@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-021
-title:
-- content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D040
-  type: src
-- content: https://docs.ogc.org/per/18-021.html
-  type: html
+id: '18021'
 type: standard
-docid:
-- id: 18-021
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
+    Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14 Next Generation APIs: Complex Feature Handling Engineering
+    Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D040
+- type: html
+  content: https://docs.ogc.org/per/18-021.html
+docidentifier:
+- content: 18-021
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-03-06'
+  at: '2019-03-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-03-06'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "OGC Web Feature Service (WFS) 3.0 is a revision of the WFS standard that
+- language: en
+  script: Latn
+  content: "OGC Web Feature Service (WFS) 3.0 is a revision of the WFS standard that
     proposes a modernized service architecture, that follows the current Web architecture,
     has a focus on the developer experience, supports the OpenAPI specification, and
     modularizes WFS into building blocks for fine-grained access to spatial data that
@@ -74,14 +82,8 @@ abstract:
     the NextGen approach improves the consistency of the interface and removes redundancies
     (e.g., between the feature access in WFS and the feature info requests in the
     other standards)."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

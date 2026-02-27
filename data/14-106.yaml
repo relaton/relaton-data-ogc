@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 14-106
-title:
-- content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/BP/ugrm-for-leaps/1.0
-  type: src
-- content: https://docs.ogc.org/bp/14-106/14-106.html
-  type: html
+id: '14106'
 type: standard
-docid:
-- id: 14-106
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
+  type: title-main
+- language: en
+  script: Latn
+  content: Unified Geo-data Reference Model for Law Enforcement and Public Safety
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/BP/ugrm-for-leaps/1.0
+- type: html
+  content: https://docs.ogc.org/bp/14-106/14-106.html
+docidentifier:
+- content: 14-106
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-01-30'
+  at: '2015-01-30'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jennifer Harne
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-01-30'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document provides an overview of the Unified Geo-data Reference Model
+- language: en
+  script: Latn
+  content: 'This document provides an overview of the Unified Geo-data Reference Model
     for Law Enforcement and Public Safety (Unified Model). The Unified Model was originally
     developed by the GIS Center for Security (GIS CS), Abu Dhabi Police. The GIS CS
     was initiated based on a UAE Ministry of Interior issued decree to establish GIS
@@ -62,15 +70,9 @@ abstract:
     to develop a Standardized GIS Environment (SGA). Part of this effort was to define
     and implement a standard data model for sharing Law Enforcement and Public Safety
     data.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

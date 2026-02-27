@@ -1,73 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 21-055
-title:
-- content: July 2021 OGC API Code Sprint Summary Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: July 2021 OGC API Code Sprint Summary Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/202107APISprintER
-  type: src
-- content: https://docs.ogc.org/per/21-055.html
-  type: html
+id: '21055'
 type: standard
-docid:
-- id: 21-055
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: July 2021 OGC API Code Sprint Summary Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: July 2021 OGC API Code Sprint Summary Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/202107APISprintER
+- type: html
+  content: https://docs.ogc.org/per/21-055.html
+docidentifier:
+- content: 21-055
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-11-29'
+  at: '2021-11-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gobe Hobona
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Joana Simoes
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-11-29'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The subject of this Engineering Report (ER) is a virtual code sprint that
+- language: en
+  script: Latn
+  content: The subject of this Engineering Report (ER) is a virtual code sprint that
     was held from July 21st to July 23rd, 2021 to advance the development of the OGC
     API - Processes draft standard, OGC API - Records draft standard, and the OGC
     API – Coverages draft standard. An Application Programming Interface (API) is
     a standard set of documented and supported functions and procedures that expose
     the capabilities or data of an operating system, application or service to other
     applications (adapted from ISO/IEC TR 13066-2:2016).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

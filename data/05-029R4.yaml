@@ -1,75 +1,77 @@
 ---
-schema-version: v1.2.9
-id: 05-029r4
-title:
-- content: GML Point Profile
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: GML Point Profile
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=11606
-  type: pdf
+id: '05029r4'
 type: standard
-docid:
-- id: 05-029r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GML Point Profile
+  type: title-main
+- language: en
+  script: Latn
+  content: GML Point Profile
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=11606
+docidentifier:
+- content: 05-029r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2005-08-29'
+  at: '2005-08-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ron Lake
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: George Percivall
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2005-08-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document defines a profile of the Geography Markup Language (GML)
+- language: en
+  script: Latn
+  content: 'This document defines a profile of the Geography Markup Language (GML)
     for a point geometry. Attention is drawn to the fact that this is a profile of
     GML version 3.1.1. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 12-007r2
-title:
-- content: OGC KML 2.3
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC KML 2.3
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/kml/2.3.0
-  type: src
-- content: https://docs.ogc.org/is/12-007r2/12-007r2.html
-  type: html
+id: 12007r2
 type: standard
-docid:
-- id: 12-007r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC KML 2.3
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC KML 2.3
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/kml/2.3.0
+- type: html
+  content: https://docs.ogc.org/is/12-007r2/12-007r2.html
+docidentifier:
+- content: 12-007r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-08-04'
+  at: '2015-08-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: David Burggraf
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2015-08-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "KML is an XML grammar used to encode and transport representations of
+- language: en
+  script: Latn
+  content: "KML is an XML grammar used to encode and transport representations of
     geographic data for display in an earth browser.  Put simply: KML encodes what
     to show in an earth browser, and how to show it.  KML uses a tag-based structure
     with nested elements and attributes and is based on the XML standard.\r\n\r\nThe
@@ -65,15 +73,9 @@ abstract:
     images (if any) may be compressed using the ZIP format into KMZ archives.  KML
     documents and KMZ archives may be shared by e&#8209;mail, hosted locally for sharing
     within a private internet, or hosted on a web server."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

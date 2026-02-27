@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 21-013
-title:
-- content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
-    and Cumulative Effects CDS'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
-    and Cumulative Effects CDS'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/Mod-SDI-CDS
-  type: src
-- content: https://docs.ogc.org/per/21-013.html
-  type: html
+id: '21013'
 type: standard
-docid:
-- id: 21-013
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
+    and Cumulative Effects CDS'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
+    and Cumulative Effects CDS'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/Mod-SDI-CDS
+- type: html
+  content: https://docs.ogc.org/per/21-013.html
+docidentifier:
+- content: 21-013
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-05-27'
+  at: '2021-05-27'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Robert Thomas
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Josh Lieberman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-05-27'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This engineering report (ER) presents the results of a Concept Development
+- language: en
+  script: Latn
+  content: "This engineering report (ER) presents the results of a Concept Development
     Study (CDS) on Modernizing Spatial Data Infrastructure (SDI), sponsored by Natural
     Resources Canada, executed by the Open Geospatial Consortium (OGC). The focus
     of this study was to understand how to best support the modernization of SDI(s)
@@ -80,14 +88,8 @@ abstract:
     core components of a possible future SDI.\r\n\r\nThe outflow of this report may
     be used to help define reference use-cases and scenarios for possible future research
     and follow-on OGC Innovation Program activities."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

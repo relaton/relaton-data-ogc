@@ -1,73 +1,78 @@
 ---
-schema-version: v1.2.9
-id: 14-057
-title:
-- content: OGC® and Ordnance Survey
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: 'UK Interoperability Assessment Plugfest (UKIAP) Engineering Report '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC® and Ordnance Survey - UK Interoperability Assessment Plugfest (UKIAP)
-    Engineering Report '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/UKIAP2014
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=61057
-  type: pdf
+id: '14057'
 type: standard
-docid:
-- id: 14-057
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® and Ordnance Survey
+  type: title-intro
+- language: en
+  script: Latn
+  content: 'UK Interoperability Assessment Plugfest (UKIAP) Engineering Report '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC® and Ordnance Survey - UK Interoperability Assessment Plugfest (UKIAP)
+    Engineering Report '
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/UKIAP2014
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=61057
+docidentifier:
+- content: 14-057
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-03-26'
+  at: '2015-03-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Bart De Lathouwer
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Peter Cotroneo
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Paul Lacey
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-03-26'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Open Geospatial Consortium (OGC), the UK Ordnance Survey, AGI and Dstl
+- language: en
+  script: Latn
+  content: The Open Geospatial Consortium (OGC), the UK Ordnance Survey, AGI and Dstl
     conducted a first of a series of events called the United Kingdom Interoperability
     Assessment Plugfest (UKIAP) 2014. The purpose of UKIAP 2014 is to advance the
     interoperability of geospatial products and services based on OGC standards within
@@ -76,14 +81,8 @@ abstract:
     or implement geospatial web services or products based on OGC standards.  UKIAP
     2014 is open to open- and closed source vendors and to all GI organizations in
     the UK to involve as many participants in the initiative as possible.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

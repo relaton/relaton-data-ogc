@@ -1,57 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 13-054r1
-title:
-- content: Summary and Recommendations of the Geospatial Enhancement for the National
-    Information Exchange Model (Geo4NIEM) Interoperabi
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Summary and Recommendations of the Geospatial Enhancement for the National
-    Information Exchange Model (Geo4NIEM) Interoperabi
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/Geo4NIEM
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=55342
-  type: pdf
+id: 13054r1
 type: standard
-docid:
-- id: 13-054r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Summary and Recommendations of the Geospatial Enhancement for the National
+    Information Exchange Model (Geo4NIEM) Interoperabi
+  type: title-main
+- language: en
+  script: Latn
+  content: Summary and Recommendations of the Geospatial Enhancement for the National
+    Information Exchange Model (Geo4NIEM) Interoperabi
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/Geo4NIEM
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=55342
+docidentifier:
+- content: 13-054r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-11-07'
+  at: '2013-11-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Richard Martell
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2013-11-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Geospatial information technologies are increasingly a foundation for
+- language: en
+  script: Latn
+  content: "Geospatial information technologies are increasingly a foundation for
     supporting Information Sharing Environment (ISE), homeland security (HLS), homeland
     defense (HLD), law enforcement (LE), emergency management (EM) and public safety
     missions in the US.  The inability to transport, deliver and exchange geospatial
@@ -72,14 +80,8 @@ abstract:
     enhance the framework’s geospatial exchange capability in light of guidelines
     and standards issued by the Open Geospatial Consortium (OGC) so as to significantly
     improve inter-government information sharing.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

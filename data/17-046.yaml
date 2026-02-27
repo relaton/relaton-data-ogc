@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 17-046
-title:
-- content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-NG002
-  type: src
-- content: https://docs.ogc.org/per/17-046.html
-  type: html
+id: '17046'
 type: standard
-docid:
-- id: 17-046
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
+    Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
+    Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-NG002
+- type: html
+  content: https://docs.ogc.org/per/17-046.html
+docidentifier:
+- content: 17-046
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-03-05'
+  at: '2018-03-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Volker Coors
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2018-03-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Testbed 13 Engineering Report (ER) documents the overall architecture
+- language: en
+  script: Latn
+  content: "This OGC Testbed 13 Engineering Report (ER) documents the overall architecture
     developed in the Interoperability of 3D Tiles and I3S using a 3D Portrayal Service
     and performance study of 3D tiling algorithms activity. The report also summarizes
     a proof-of-concept of the use of 3D Tiles and I3S as data delivery formats for
@@ -69,14 +77,8 @@ abstract:
     from Ecere’s GNOSIS rendering client;\r\n\r\nCDB visualized directly from Ecere’s
     GNOSIS rendering client; and\r\n\r\nI3S visualized from Ecere’s GNOSIS rendering
     client.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

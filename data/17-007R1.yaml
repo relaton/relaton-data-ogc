@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 17-007r1
-title:
-- content: OGC Web Services Security
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Web Services Security
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/security/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/17-007r1/17-007r1.html
-  type: html
+id: 17007r1
 type: standard
-docid:
-- id: 17-007r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Web Services Security
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Web Services Security
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/security/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/17-007r1/17-007r1.html
+docidentifier:
+- content: 17-007r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-01-28'
+  at: '2019-01-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Andreas Matheus
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-01-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This standard applies to a deployed OGC Web Service instance for which
+- language: en
+  script: Latn
+  content: "This standard applies to a deployed OGC Web Service instance for which
     the protocol scheme of all operation endpoint URLs, exposed in the Capabilities
     document, is ‘https’ as defined in RFC 7230, section 2.7.2.\r\n\r\nA security-annotated
     Capabilities document is one which uses the <Constraint> element(s) to express
@@ -66,15 +74,9 @@ abstract:
     Class and three Capabilities document structure specific Requirements Classes.
     The structure specific classes address how the requirements are implemented for
     WMS 1.1.1, WMS 1.3 and OWS Common based service Capabilities documents.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

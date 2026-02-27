@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 16-049r1
-title:
-- content: Testbed-12 Multi-Tile Retrieval ER
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 Multi-Tile Retrieval ER
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A077
-  type: src
-- content: https://docs.ogc.org/per/16-049r1.html
-  type: html
+id: 16049r1
 type: standard
-docid:
-- id: 16-049r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 Multi-Tile Retrieval ER
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 Multi-Tile Retrieval ER
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A077
+- type: html
+  content: https://docs.ogc.org/per/16-049r1.html
+docidentifier:
+- content: 16-049r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-06-16'
+  at: '2017-06-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Masó
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2017-06-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "With the consolidation of tiling services and the increasing number of
+- language: en
+  script: Latn
+  content: "With the consolidation of tiling services and the increasing number of
     instances implementing the WMTS standard, there is a need for having a way to
     transfer a collection of tiles from one service to another. This might also be
     useful to transfer all necessary tiles from a WMTS service to a GeoPackage. Currently
@@ -64,14 +72,8 @@ abstract:
     that contains the tiles preferably in a single package. Depending on the proposed
     architecture, these tasks are done directly in the client, in the WMTS server
     or in an intermediate WPS."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

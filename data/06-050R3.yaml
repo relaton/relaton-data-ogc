@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 06-050r3
-title:
-- content: GeoRSS, An Introduction to
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: GeoRSS, An Introduction to
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=15755
-  type: pdf
+id: 06050r3
 type: standard
-docid:
-- id: 06-050r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GeoRSS, An Introduction to
+  type: title-main
+- language: en
+  script: Latn
+  content: GeoRSS, An Introduction to
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=15755
+docidentifier:
+- content: 06-050r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-07-19'
+  at: '2006-07-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2006-07-19'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: GeoRSS is simple proposal for geo-enabling, or tagging, really simple syndication
+- language: en
+  script: Latn
+  content: GeoRSS is simple proposal for geo-enabling, or tagging, really simple syndication
     (RSS) feeds with location information. GeoRSS proposes a standardized way in which
     location is encoded with enough simplicity and descriptive power to satisfy most
     needs to describe the location of Web content. GeoRSS may not work for every use,
@@ -55,18 +63,12 @@ abstract:
     with useful defaults but extensible and upwardly-compatible with more sophisticated
     encoding standards such as the OGC (Open Geospatial Consortium) GML (Geography
     Markup Language).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+status:
   stage:
-    value: draft
+    content: draft
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

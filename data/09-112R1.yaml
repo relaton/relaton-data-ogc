@@ -1,75 +1,77 @@
 ---
-schema-version: v1.2.9
-id: '09-112r1'
-title:
-- content: Sensor Observable Registry (SOR) Discussion Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Sensor Observable Registry (SOR) Discussion Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=40571
-  type: pdf
+id: '09112r1'
 type: standard
-docid:
-- id: '09-112r1'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sensor Observable Registry (SOR) Discussion Paper
+  type: title-main
+- language: en
+  script: Latn
+  content: Sensor Observable Registry (SOR) Discussion Paper
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=40571
+docidentifier:
+- content: '09-112r1'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-10-12'
+  at: '2010-10-12'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Simon Jirka
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Arne Bröring
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Daniel Nüst
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2010-10-12'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Discussion paper introduces the Sensor Observable Registry (SOR),
+- language: en
+  script: Latn
+  content: This Discussion paper introduces the Sensor Observable Registry (SOR),
     a web service interface for managing the definitions of phenomena measured by
     sensors as well as exploring semantic relationships between these phenomena.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

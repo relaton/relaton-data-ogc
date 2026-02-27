@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 18-000
-title:
-- content: OGC GeoPackage Related Tables Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC GeoPackage Related Tables Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/gpkg-rte/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/18-000/18-000.html
-  type: html
+id: '18000'
 type: standard
-docid:
-- id: 18-000
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC GeoPackage Related Tables Extension
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC GeoPackage Related Tables Extension
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/gpkg-rte/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/18-000/18-000.html
+docidentifier:
+- content: 18-000
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-05-08'
+  at: '2019-05-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Yutzler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-05-08'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "A GeoPackage [geopackage] is a platform-independent SQLite [sqlite] database
+- language: en
+  script: Latn
+  content: "A GeoPackage [geopackage] is a platform-independent SQLite [sqlite] database
     file that contains GeoPackage data and metadata tables. GeoPackages, as described
     by the GeoPackage Encoding Standard [GPKG1_2] are designed to be extensible, including
     support for additional data types. This document defines the Related Tables Extension
@@ -59,15 +67,9 @@ abstract:
     the RTE can be used including relating parcel (land lot) features to pictures
     of that parcel or linking census boundaries to the related demographic census
     data."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

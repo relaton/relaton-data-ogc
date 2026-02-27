@@ -1,62 +1,64 @@
 ---
-schema-version: v1.2.9
-id: 04-019r2
-title:
-- content: Sensor Model Language (SensorML) for In-situ and Remote Sensors
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Sensor Model Language (SensorML) for In-situ and Remote Sensors
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=7927
-  type: pdf
+id: '04019r2'
 type: standard
-docid:
-- id: 04-019r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sensor Model Language (SensorML) for In-situ and Remote Sensors
+  type: title-main
+- language: en
+  script: Latn
+  content: Sensor Model Language (SensorML) for In-situ and Remote Sensors
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=7927
+docidentifier:
+- content: 04-019r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2004-11-02'
+  at: '2004-11-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Mike Botts
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2004-11-02'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Sensor Model Language work proposes an XML schema for describing the
+- language: en
+  script: Latn
+  content: The Sensor Model Language work proposes an XML schema for describing the
     geometric, dynamic, and observational characteristics of sensor types and instances.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

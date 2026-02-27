@@ -1,73 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 14-003
-title:
-- content: WaterML-WQ – an O&M and WaterML 2.0 profile for water quality data
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: WaterML-WQ – an O&M and WaterML 2.0 profile for water quality data
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/BP/watermlwq/1.0
-  type: src
-- content: https://docs.ogc.org/bp/14-003/14-003.html
-  type: html
+id: '14003'
 type: standard
-docid:
-- id: 14-003
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: WaterML-WQ – an O&M and WaterML 2.0 profile for water quality data
+  type: title-main
+- language: en
+  script: Latn
+  content: WaterML-WQ – an O&M and WaterML 2.0 profile for water quality data
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/BP/watermlwq/1.0
+- type: html
+  content: https://docs.ogc.org/bp/14-003/14-003.html
+docidentifier:
+- content: 14-003
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-12-02'
+  at: '2014-12-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Simon J D Cox
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Bruce A Simons
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2014-12-02'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Best Practice describes how to configure XML documents for single
+- language: en
+  script: Latn
+  content: This Best Practice describes how to configure XML documents for single
     and time series water quality measurements.  In addition to stating the rules
     for using the O&M and WML 2 standards, along with the appropriate content ontologies,
     this Best Practice provides guidance through examples. This document is intended
     to complement WaterML 2.0 as part of a suite of standards for water observation
     data.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

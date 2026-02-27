@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 20-020
-title:
-- content: 'OGC Testbed-16: Aviation Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-16: Aviation Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t16-D001
-  type: src
-- content: https://docs.ogc.org/per/20-020.html
-  type: html
+id: '20020'
 type: standard
-docid:
-- id: 20-020
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-16: Aviation Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-16: Aviation Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t16-D001
+- type: html
+  content: https://docs.ogc.org/per/20-020.html
+docidentifier:
+- content: 20-020
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-01-13'
+  at: '2021-01-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sergio Taleisnik
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-01-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Testbed-16 Aviation Engineering Report (ER) summarizes the implementations,
+- language: en
+  script: Latn
+  content: "This Testbed-16 Aviation Engineering Report (ER) summarizes the implementations,
     findings and recommendations that emerged from the efforts of further advancing
     interoperability and usage of Linked Data within the Federal Aviation Administration
     (FAA) System Wide Information Management (SWIM) context. The goal of this effort
@@ -61,14 +69,8 @@ abstract:
     Application Programming Interface (API) definitions to simplify access to geospatial
     information, an exploration of solutions for data distribution that complement
     those currently used by SWIM is presented."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

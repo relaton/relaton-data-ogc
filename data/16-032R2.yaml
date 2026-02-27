@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 16-032r2
-title:
-- content: 'OGC WaterML 2: Part 4 – GroundWaterML 2 (GWML2)'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC WaterML 2: Part 4 – GroundWaterML 2 (GWML2)'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/gwml/2.2.0
-  type: src
-- content: https://docs.ogc.org/is/16-032r2/16-032r2.html
-  type: html
+id: 16032r2
 type: standard
-docid:
-- id: 16-032r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC WaterML 2: Part 4 – GroundWaterML 2 (GWML2)'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC WaterML 2: Part 4 – GroundWaterML 2 (GWML2)'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/gwml/2.2.0
+- type: html
+  content: https://docs.ogc.org/is/16-032r2/16-032r2.html
+docidentifier:
+- content: 16-032r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-03-06'
+  at: '2017-03-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Boyan Brodaric
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2017-03-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard describes a conceptual and logical model for the exchange
+- language: en
+  script: Latn
+  content: This standard describes a conceptual and logical model for the exchange
     of groundwater data, as well as a GML/XML encoding with examples.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 06-010r6
-title:
-- content: OpenGIS Transducer Markup Language *RETIRED*
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OpenGIS Transducer Markup Language *RETIRED*
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=19371
-  type: pdf
+id: 06010r6
 type: standard
-docid:
-- id: 06-010r6
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenGIS Transducer Markup Language *RETIRED*
+  type: title-main
+- language: en
+  script: Latn
+  content: OpenGIS Transducer Markup Language *RETIRED*
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=19371
+docidentifier:
+- content: 06-010r6
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-07-02'
+  at: '2007-07-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Steve Havens
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '6'
-revdate: '2007-07-02'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "*THIS STANDARD HAS BEEN RETIRED* \r\n\r\nThe OpenGIS® Transducer Markup
+- language: en
+  script: Latn
+  content: "*THIS STANDARD HAS BEEN RETIRED* \r\n\r\nThe OpenGIS® Transducer Markup
     Language Encoding Standard (TML) is an application and presentation layer communication
     protocol for exchanging live streaming or archived data to (i.e. control data)
     and/or sensor data from any sensor system. A sensor system can be one or more
@@ -64,14 +72,8 @@ abstract:
     semantic relationships of components, thus enabling sensor fusion.\r\n\r\nThis
     is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
     suite of standards.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

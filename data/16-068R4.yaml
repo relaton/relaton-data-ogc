@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 16-068r4
-title:
-- content: Testbed-12 Vector Tiling Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 Vector Tiling Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A008
-  type: src
-- content: https://docs.ogc.org/per/16-068r4.html
-  type: html
+id: 16068r4
 type: standard
-docid:
-- id: 16-068r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 Vector Tiling Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 Vector Tiling Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A008
+- type: html
+  content: https://docs.ogc.org/per/16-068r4.html
+docidentifier:
+- content: 16-068r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-06-16'
+  at: '2017-06-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Daniel Balog
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Robin Houtmeyers
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2017-06-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Testbed 12 Engineering Report discusses the topic of vector tiling.\r\n\r\nWhile
+- language: en
+  script: Latn
+  content: "This OGC Testbed 12 Engineering Report discusses the topic of vector tiling.\r\n\r\nWhile
     tiling and the use of multiple levels of details are a proven technique for raster
     data, it is relatively new for vector data. This is due to the increased complexity
     for tiling vector data compared to raster tiling. Further, there is a lack of
@@ -86,14 +94,8 @@ abstract:
     format is not covered. A study of implementing vector tiles in OGC GeoPackage
     is part of a separate Engineering Report, OGC 16-067, that builds on the results
     of this ER.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

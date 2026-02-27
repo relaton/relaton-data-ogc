@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 25-006
-title:
-- content: Towards Material Metadata Standardization
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Towards Material Metadata Standardization
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/DP/material-metadata
-  type: src
-- content: https://docs.ogc.org/dp/25-006.html
-  type: html
+id: '25006'
 type: standard
-docid:
-- id: 25-006
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Towards Material Metadata Standardization
+  type: title-main
+- language: en
+  script: Latn
+  content: Towards Material Metadata Standardization
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/DP/material-metadata
+- type: html
+  content: https://docs.ogc.org/dp/25-006.html
+docidentifier:
+- content: 25-006
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-10-06'
+  at: '2025-10-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Diego Alexander Diaz Pabon
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Andrew Miller
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2025-10-06'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The industries dedicated to the Architecture, Engineering, Construction,
+- language: en
+  script: Latn
+  content: "The industries dedicated to the Architecture, Engineering, Construction,
     and Operation of Infrastructure Assets (AECO) have been adopting state of the
     art advancements in information technologies, including Building Information Modeling
     (BIM), Internet of Things (IoT), and Artificial Intelligence (AI). These efforts
@@ -71,14 +79,8 @@ abstract:
     MI, a commercial Materials Data Management (MDM) system by Ansys — relevant for
     AECO industries. This is done in light of the needs for machine-understanding
     of materials in a DT for AECO."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

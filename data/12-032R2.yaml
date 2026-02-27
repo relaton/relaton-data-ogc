@@ -1,82 +1,81 @@
 ---
-schema-version: v1.2.9
-id: 12-032r2
-title:
-- content: 'WAMI Services: Dissemination Services for Wide Area Motion Imagery'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Best Practice
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'WAMI Services: Dissemination Services for Wide Area Motion Imagery - Best
-    Practice'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/bp/wami/1.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=50486
-  type: pdf
+id: 12032r2
 type: standard
-docid:
-- id: 12-032r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'WAMI Services: Dissemination Services for Wide Area Motion Imagery'
+  type: title-intro
+- language: en
+  script: Latn
+  content: Best Practice
+  type: title-main
+- language: en
+  script: Latn
+  content: 'WAMI Services: Dissemination Services for Wide Area Motion Imagery - Best
+    Practice'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/bp/wami/1.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=50486
+docidentifier:
+- content: 12-032r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-12-05'
+  at: '2012-12-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Rahul Thakkar
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Michael Maraist
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2012-12-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC Best Practice (BP) describes web interface specifications for
+- language: en
+  script: Latn
+  content: This OGC Best Practice (BP) describes web interface specifications for
     the access and dissemination of Wide Area Motion Imagery (WAMI) products and metadata.
     This BP also describes a framework and interface specifications common to all
     WAMI services. A <a href=https://portal.ogc.org/files/?artifact_id=50485>WAMI
     - Primer</a> has been developed to help you implement this Best Practice.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,62 +1,64 @@
 ---
-schema-version: v1.2.9
-id: 03-003r10
-title:
-- content: Level 0 Profile of GML3 for WFS
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Level 0 Profile of GML3 for WFS
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=4347
-  type: pdf
+id: 03003r10
 type: standard
-docid:
-- id: 03-003r10
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Level 0 Profile of GML3 for WFS
+  type: title-main
+- language: en
+  script: Latn
+  content: Level 0 Profile of GML3 for WFS
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=4347
+docidentifier:
+- content: 03-003r10
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2004-05-10'
+  at: '2004-05-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '10'
-revdate: '2004-05-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "*RETIRED* This is a GML application profile known as Level 0 - also known
+- language: en
+  script: Latn
+  content: "*RETIRED* This is a GML application profile known as Level 0 - also known
     as Simple GML."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

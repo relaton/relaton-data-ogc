@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 18-043r3
-title:
-- content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/HDF5/data-model/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/18-043r3/18-043r3.html
-  type: html
+id: 18043r3
 type: standard
-docid:
-- id: 18-043r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Hierarchical Data Format Version 5 (HDF5®) Core Standard
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/HDF5/data-model/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/18-043r3/18-043r3.html
+docidentifier:
+- content: 18-043r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-10-28'
+  at: '2019-10-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Aleksandar Jelenak
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ted Habermann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Gerd Heber
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2019-10-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Hierarchical Data Format Version 5 (HDF5®) is a data model, a programming
+- language: en
+  script: Latn
+  content: "Hierarchical Data Format Version 5 (HDF5®) is a data model, a programming
     interface, and a storage model for keeping and managing data. It supports an unlimited
     variety of data types, and is designed to be flexible and efficient for large
     and complex data. HDF5 is extensible via customizing data types, allowing communities
@@ -72,15 +80,9 @@ abstract:
     yet versatile, capable of supporting complex data relationships and dependencies
     through its grouping and linking mechanisms. It is also self-describing by accommodating
     user-defined metadata."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,61 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 11-055
-title:
-- content: OGC SAA Pilot Study Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC SAA Pilot Study Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=44939
-  type: pdf
+id: '11055'
 type: standard
-docid:
-- id: 11-055
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC SAA Pilot Study Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC SAA Pilot Study Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=44939
+docidentifier:
+- content: 11-055
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-11-23'
+  at: '2011-11-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Steve Miller
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2011-11-23'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC® document describes the architecture used for the implementation
+- language: en
+  script: Latn
+  content: This OGC® document describes the architecture used for the implementation
     of the SAA Dissemination Pilot Study demonstrations. This includes an overview
     of the implemented components and workflows, and discussions of lessons learned.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

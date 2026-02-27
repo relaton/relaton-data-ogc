@@ -1,72 +1,74 @@
 ---
-schema-version: v1.2.9
-id: 19-021
-title:
-- content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t15-D001
-  type: src
-- content: https://docs.ogc.org/per/19-021.html
-  type: html
+id: '19021'
 type: standard
-docid:
-- id: 19-021
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-15: Semantic Web Link Builder and Triple Generator'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t15-D001
+- type: html
+  content: https://docs.ogc.org/per/19-021.html
+docidentifier:
+- content: 19-021
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-12-17'
+  at: '2019-12-17'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Esther Kok
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Stephane Fellah
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-12-17'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC Testbed 15 Engineering Report (ER) describes a generalized approach
+- language: en
+  script: Latn
+  content: This OGC Testbed 15 Engineering Report (ER) describes a generalized approach
     towards performing data fusion from multiple heterogeneous geospatial linked data
     sources. The specific use case is semantic enrichment of hydrographic features
     provided by Natural Resources Canada (NRCan). The ER attempts to define and formalize
     the integration pipeline necessary to perform a fusion process for producing semantically
     coherent fused entities.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

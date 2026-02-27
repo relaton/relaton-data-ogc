@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 16-036r1
-title:
-- content: Testbed-12 Big Data Database Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 Big Data Database Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A076
-  type: src
-- content: https://docs.ogc.org/per/16-036r1.html
-  type: html
+id: 16036r1
 type: standard
-docid:
-- id: 16-036r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 Big Data Database Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 Big Data Database Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A076
+- type: html
+  content: https://docs.ogc.org/per/16-036r1.html
+docidentifier:
+- content: 16-036r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-06-30'
+  at: '2017-06-30'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Christian Autermann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2017-06-30'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The amount of (geospatial) data collected and transferred is rapidly increasing.
+- language: en
+  script: Latn
+  content: "The amount of (geospatial) data collected and transferred is rapidly increasing.
     The purpose of this ER is to describe options and recommendations for the delivery
     of large amounts of data as database delivery. This ER therefore describes and
     evaluates different aspects of this challenge:\r\n\r\nData management: How to
@@ -64,14 +72,8 @@ abstract:
     well. The objective of this ER is to provide recommendations of how the delivery
     of large amounts of raster data as database delivery can be considered within
     OGC specifications and future activities."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

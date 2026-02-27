@@ -1,71 +1,73 @@
 ---
-schema-version: v1.2.9
-id: '09-018'
-title:
-- content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=32195
-  type: pdf
+id: '09018'
 type: standard
-docid:
-- id: '09-018'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
+  type: title-main
+- language: en
+  script: Latn
+  content: Web Coverage Service (WCS) 1.1 extension for CF-netCDF 3.0 encoding
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=32195
+docidentifier:
+- content: '09-018'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-04-08'
+  at: '2009-04-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ben Domenico
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Stefano Nativi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2009-04-08'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This extension of the WCS standard specifies an Information Community
+- language: en
+  script: Latn
+  content: "This extension of the WCS standard specifies an Information Community
     data model with the related encoding that may optionally be implemented by WCS
     servers. This extension specification allows clients to evaluate, request and
     use data encoded in CF-netCDF3 format from a WCS server.\r\nThis document is an
     extension of the Web Coverage Service (WCS) 1.1 Corrigendum 2 (version 1.1.2)
     Implementation Standard [OGC 07-067r5]. With small changes, this extension is
     expected to also apply to WCS 1.2. \r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

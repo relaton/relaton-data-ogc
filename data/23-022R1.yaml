@@ -1,87 +1,92 @@
 ---
-schema-version: v1.2.9
-id: 23-022r1
-title:
-- content: Establishing the Framework of Disaster Early Warning Mechanisms
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: A Case Study of Slope Disaster
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Establishing the Framework of Disaster Early Warning Mechanisms - A Case
-    Study of Slope Disaster
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/dewm
-  type: src
-- content: https://docs.ogc.org/dp/23-022r1.pdf
-  type: pdf
+id: 23022r1
 type: standard
-docid:
-- id: 23-022r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Establishing the Framework of Disaster Early Warning Mechanisms
+  type: title-intro
+- language: en
+  script: Latn
+  content: A Case Study of Slope Disaster
+  type: title-main
+- language: en
+  script: Latn
+  content: Establishing the Framework of Disaster Early Warning Mechanisms - A Case
+    Study of Slope Disaster
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/dewm
+- type: pdf
+  content: https://docs.ogc.org/dp/23-022r1.pdf
+docidentifier:
+- content: 23-022r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-08-22'
+  at: '2023-08-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Hsiao-Yuan (Samuel) Yin
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Yi-Chia (Vincent) Lin
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Chih-Wei (Will) Kuan
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Cheng-Yan Tsai
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Lok-Man (Lawre
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2023-08-22'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The impact of global climate change has led to a rise in the frequency
+- language: en
+  script: Latn
+  content: "The impact of global climate change has led to a rise in the frequency
     of natural\r\ndisasters in numerous countries resulting in substantial losses
     in terms of both human lives and the global economy. The establishment of a robust
     disaster early-warning mechanism is recommended that will empower communities
@@ -102,14 +107,8 @@ abstract:
     established by the Soil and Water Conservation Bureau (SWCB). This\r\ninvestigation
     will explore the feasibility of standardizing yellow and red warning\r\npublishing
     rules."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

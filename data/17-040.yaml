@@ -1,65 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 17-040
-title:
-- content: 'OGC Testbed-13: DCAT/SRIM Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: DCAT/SRIM Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-UG002
-  type: src
-- content: https://docs.ogc.org/per/17-040.html
-  type: html
+id: '17040'
 type: standard
-docid:
-- id: 17-040
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: DCAT/SRIM Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: DCAT/SRIM Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-UG002
+- type: html
+  content: https://docs.ogc.org/per/17-040.html
+docidentifier:
+- content: 17-040
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-01-08'
+  at: '2018-01-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Stephen McCann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Roger Brackin
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Gobe Hobona
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2018-01-08'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This engineering report captures the requirements, solutions, and implementation
+- language: en
+  script: Latn
+  content: This engineering report captures the requirements, solutions, and implementation
     experiences of the Semantic Registry work package in Testbed-13. The engineering
     report describes the implementation of a RESTful Semantic Registry that supports
     the Semantic Registry Information Model (SRIM) which is based on the Data Catalog
@@ -72,14 +80,8 @@ abstract:
     that asynchronous access has to offer web services, a description of the work
     undertaken by the testbed in implementing publish/subscribe functionality between
     a Semantic Registry and a Catalogue Service for the Web (CSW) is also presented.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

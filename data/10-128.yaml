@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 10-128
-title:
-- content: OGC Compliance Testing White Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Compliance Testing White Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=41359
-  type: pdf
+id: '10128'
 type: standard
-docid:
-- id: 10-128
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Compliance Testing White Paper
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Compliance Testing White Paper
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=41359
+docidentifier:
+- content: 10-128
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-10-22'
+  at: '2010-10-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Luis Bermudez
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2010-10-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This white paper describes the OGC Compliance Testing Program. It provides\r\ninformation
+- language: en
+  script: Latn
+  content: "This white paper describes the OGC Compliance Testing Program. It provides\r\ninformation
     about:\r\n• The need for compliance testing to enable interoperability\r\n• How
     to obtain compliance certification\r\n• The difference between implementing and
     being certified\r\n• How compliance benefits providers and users of technology\r\n•
     The proper use of the “Certified OGC Compliant” mark\r\n• Suggested language for
     procurement documents\r\n• Trademark licensing fees\r\n• An example of an OGC
     compliance test "
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

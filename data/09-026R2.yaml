@@ -1,62 +1,67 @@
 ---
-schema-version: v1.2.9
-id: '09-026r2'
-title:
-- content: OGC Filter Encoding 2.0 Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: 'With Corrigendum '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Filter Encoding 2.0 Encoding Standard - With Corrigendum '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/fes/2.0.3
-  type: src
-- content: https://docs.ogc.org/is/09-026r2/09-026r2.html
-  type: html
+id: '09026r2'
 type: standard
-docid:
-- id: '09-026r2'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Filter Encoding 2.0 Encoding Standard
+  type: title-intro
+- language: en
+  script: Latn
+  content: 'With Corrigendum '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Filter Encoding 2.0 Encoding Standard - With Corrigendum '
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/fes/2.0.3
+- type: html
+  content: https://docs.ogc.org/is/09-026r2/09-026r2.html
+docidentifier:
+- content: '09-026r2'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-08-18'
+  at: '2014-08-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2014-08-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "A fundamental operation performed on a set of data or resources is that
+- language: en
+  script: Latn
+  content: "A fundamental operation performed on a set of data or resources is that
     of querying in order to obtain a subset of the data which contains certain desired
     information that satisfies some query criteria and which is also, perhaps, sorted
     in some specified manner.\r\n\r\nThis International Standard defines an abstract
@@ -76,15 +81,9 @@ abstract:
     the projection, selection and sorting clauses of a query expression. The intent
     is that this neutral representation can be easly validated, parsed and then translated
     into some target query language such as SPARQL or SQL for processing."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

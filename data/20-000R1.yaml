@@ -1,85 +1,93 @@
 ---
-schema-version: v1.2.9
-id: 20-000r1
-title:
-- content: CityGML Urban Planning ADE for i-Urban Revitalization
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: CityGML Urban Planning ADE for i-Urban Revitalization
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/citygml-up-ade4iurban
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=92113
-  type: pdf
+id: 20000r1
 type: standard
-docid:
-- id: 20-000r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CityGML Urban Planning ADE for i-Urban Revitalization
+  type: title-main
+- language: en
+  script: Latn
+  content: CityGML Urban Planning ADE for i-Urban Revitalization
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/citygml-up-ade4iurban
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=92113
+docidentifier:
+- content: 20-000r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-04-17'
+  at: '2020-04-17'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Nobuhiro Ishimaru
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Chikako Kurokawa
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Yuichi Tanaka
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tomohisa Oishi
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kentaro Akahoshi
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tatjana Kutzne
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2020-04-17'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Discussion Paper introduces the CityGML Urban Planning Application
+- language: en
+  script: Latn
+  content: "This OGC Discussion Paper introduces the CityGML Urban Planning Application
     Domain Extension (ADE) published by the Japanese government for the i-Urban Revitalization
     (i-UR).\r\nThe i-UR is an information infrastructure dedicated for urban planning
     to contribute to data-driven urban development and urban revitalization. OGC KML
@@ -95,14 +103,8 @@ abstract:
     of i-Urban Revitalization, data model of the Urban Planning ADE and data experiment
     examples to discuss further utilization of the Urban Planning ADE in urban planning
     applications.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

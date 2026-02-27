@@ -1,74 +1,76 @@
 ---
-schema-version: v1.2.9
-id: 06-121r9
-title:
-- content: OGC Web Service Common Implementation Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Web Service Common Implementation Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=38867
-  type: pdf
+id: 06121r9
 type: standard
-docid:
-- id: 06-121r9
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Web Service Common Implementation Specification
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Web Service Common Implementation Specification
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=38867
+docidentifier:
+- content: 06-121r9
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-04-07'
+  at: '2010-04-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arliss Whiteside
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Jim Greenwood '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '9'
-revdate: '2010-04-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document specifies many of the aspects that are, or should be, common
+- language: en
+  script: Latn
+  content: This document specifies many of the aspects that are, or should be, common
     to all or multiple OGC Web Service (OWS) interface Implementation Standards. These
     common aspects are primarily some of the parameters and data structures used in
     operation requests and responses. Of course, each such Implementation Standard
     must specify the additional aspects of that interface, including specifying all
     additional parameters and data structures needed in all operation requests and
     responses.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

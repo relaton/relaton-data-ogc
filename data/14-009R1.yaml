@@ -1,67 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 14-009r1
-title:
-- content: 'OGC® Testbed-10 Rules for JSON and GeoJSON Adoption: Focus on OWS-Context'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC® Testbed-10 Rules for JSON and GeoJSON Adoption: Focus on OWS-Context'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/owc-json
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=57477
-  type: pdf
+id: 14009r1
 type: standard
-docid:
-- id: 14-009r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC® Testbed-10 Rules for JSON and GeoJSON Adoption: Focus on OWS-Context'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC® Testbed-10 Rules for JSON and GeoJSON Adoption: Focus on OWS-Context'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/owc-json
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=57477
+docidentifier:
+- content: 14-009r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-04-15'
+  at: '2014-04-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Pedro Gonçalves
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2014-04-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document identifies the generic rules for obtaining JSON documents
+- language: en
+  script: Latn
+  content: This document identifies the generic rules for obtaining JSON documents
     directly from existing XML documents and schemas elements. It is primordially
     targeting the OWS Context JSON Encoding design, but is presented in a generic
     approach. Such generic approach can offer the guidelines for other OGC services,
     when defining and using JSON encodings.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

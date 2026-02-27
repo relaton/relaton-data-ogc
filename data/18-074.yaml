@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-074
-title:
-- content: 'OGC Vector Tiles Pilot: GeoPackage 1.2 Vector Tiles Extensions Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Vector Tiles Pilot: GeoPackage 1.2 Vector Tiles Extensions Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/vtp-VTPD005
-  type: src
-- content: https://docs.ogc.org/per/18-074.html
-  type: html
+id: '18074'
 type: standard
-docid:
-- id: 18-074
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Vector Tiles Pilot: GeoPackage 1.2 Vector Tiles Extensions Engineering
+    Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Vector Tiles Pilot: GeoPackage 1.2 Vector Tiles Extensions Engineering
+    Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/vtp-VTPD005
+- type: html
+  content: https://docs.ogc.org/per/18-074.html
+docidentifier:
+- content: 18-074
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-15'
+  at: '2019-02-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Yutzler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-02-15'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Tiled feature data, colloquially referred to as 'vector tiles', can be
+- language: en
+  script: Latn
+  content: "Tiled feature data, colloquially referred to as 'vector tiles', can be
     used to optimize the delivery of vector data over the web. This data may subsequently
     be used to support visualization (particularly through maps) as well as limited
     analysis activities. One goal of the OGC Vector Tiles Pilot was to define candidate
@@ -76,14 +84,8 @@ abstract:
     via either the second or third extension. The other extensions are purely optional.\r\n\r\nThese
     extensions, like all GeoPackage extensions, are intended to be transparent and
     to not interfere with GeoPackage-compliant, but non-supporting, software packages."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

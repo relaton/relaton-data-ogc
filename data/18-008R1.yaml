@@ -1,79 +1,87 @@
 ---
-schema-version: v1.2.9
-id: 18-008r1
-title:
-- content: OGC White Paper on Land Administration
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC White Paper on Land Administration
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/wp/land-admin
-  type: src
-- content: https://docs.ogc.org/wp/18-008r1/18-008r1.html
-  type: html
+id: 18008r1
 type: standard
-docid:
-- id: 18-008r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC White Paper on Land Administration
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC White Paper on Land Administration
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/wp/land-admin
+- type: html
+  content: https://docs.ogc.org/wp/18-008r1/18-008r1.html
+docidentifier:
+- content: 18-008r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-12'
+  at: '2019-02-12'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Christiaan Lemmen
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Peter van Oosterom
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Mohsen Kalantari
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Eva-Maria Unger
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Cornelis de Zeeuw
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-02-12'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This white paper provides an overview of the land administration domain
+- language: en
+  script: Latn
+  content: "This white paper provides an overview of the land administration domain
     and proposes actions needed for design and develop implementation standards this
     domain. A close cooperation between the Open Geospatial Consortium (OGC) and ISO
     is expected to accelerate those developments.\r\n\r\nA huge task is waiting: the
@@ -94,14 +102,8 @@ abstract:
     community, many different scientific and professional disciplines meet. Depending
     on the stage of development and the level of societal acceptance of the land administration,
     those disciplines involved may be different."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

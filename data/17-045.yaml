@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 17-045
-title:
-- content: 'OGC Testbed-13: Portrayal Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: Portrayal Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-NG008
-  type: src
-- content: https://docs.ogc.org/per/17-045.html
-  type: html
+id: '17045'
 type: standard
-docid:
-- id: 17-045
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: Portrayal Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: Portrayal Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-NG008
+- type: html
+  content: https://docs.ogc.org/per/17-045.html
+docidentifier:
+- content: 17-045
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-03-05'
+  at: '2018-03-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Stephane Fellah
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2018-03-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Portrayal of geospatial information plays a crucial role in situation
+- language: en
+  script: Latn
+  content: "Portrayal of geospatial information plays a crucial role in situation
     awareness, analysis and decision-making. Visualizing geospatial information often
     requires one to portray the information using symbology or cartographic presentation
     rules from a community or organization. For example, among those in the law enforcement,
@@ -65,14 +73,8 @@ abstract:
     in Testbed 12, complete the implementation of the Semantic Portrayal Service by
     adding rendering capabilities and performing a demonstration of the portrayal
     service that showcases the benefits of the proposed semantic-based approach."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

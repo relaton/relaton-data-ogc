@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 11-116
-title:
-- content: OWS-8 Geoprocessing for Earth Observations Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-8 Geoprocessing for Earth Observations Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/ows8-geoprocessing-eo
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=46793
-  type: pdf
+id: '11116'
 type: standard
-docid:
-- id: 11-116
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-8 Geoprocessing for Earth Observations Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-8 Geoprocessing for Earth Observations Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/ows8-geoprocessing-eo
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46793
+docidentifier:
+- content: 11-116
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-12-19'
+  at: '2011-12-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2011-12-19'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Ad-hoc processing of Earth Observation (EO) data available through online
+- language: en
+  script: Latn
+  content: "Ad-hoc processing of Earth Observation (EO) data available through online
     resources is\r\ngaining more and more attention. Expected benefits include\r\n-
     More versatile EO data access\r\n- More convenient EO data access\r\n- Consequently,
     broadened use and exploitation of EO data\r\n- An important step towards integration
@@ -55,14 +63,8 @@ abstract:
     data access: indicating the exact desired result and evaluating\r\nprocessing
     code close to the coverage data source (i.e., on the server) minimizes\r\nnetwork
     traffic, one of today’s critical performance limiting factors."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

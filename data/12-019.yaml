@@ -1,71 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 12-019
-title:
-- content: OGC City Geography Markup Language (CityGML) Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC City Geography Markup Language (CityGML) Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/spec/citygml/2.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=47842
-  type: pdf
+id: '12019'
 type: standard
-docid:
-- id: 12-019
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC City Geography Markup Language (CityGML) Encoding Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC City Geography Markup Language (CityGML) Encoding Standard
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/spec/citygml/2.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=47842
+docidentifier:
+- content: 12-019
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-04-04'
+  at: '2012-04-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gerhard Gröger
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Thomas H. Kolbe
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Claus Nagel
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Karl-Heinz Häfele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2012-04-04'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "CityGML is an open data model and XML-based format for the storage and
+- language: en
+  script: Latn
+  content: "CityGML is an open data model and XML-based format for the storage and
     exchange of virtual 3D city models. It is an application schema for the Geography
     Markup Language version 3.1.1 (GML3), the extendible international standard for
     spatial data exchange issued by the Open Geospatial Consortium (OGC) and the ISO
@@ -73,15 +81,9 @@ abstract:
     of the basic entities, attributes, and relations of a 3D city model. This is especially
     important with respect to the cost-effective sustainable maintenance of 3D city
     models, allowing the reuse of the same data in different application fields. \r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

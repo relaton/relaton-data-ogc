@@ -1,67 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 12-096
-title:
-- content: 'OWS-9: Engineering Report: Use of SWE Common and SensorML for GPS Messaging '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OWS-9: Engineering Report: Use of SWE Common and SensorML for GPS Messaging '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/OWS9-GPS-SWE
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=52162
-  type: pdf
+id: '12096'
 type: standard
-docid:
-- id: 12-096
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OWS-9: Engineering Report: Use of SWE Common and SensorML for GPS Messaging '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OWS-9: Engineering Report: Use of SWE Common and SensorML for GPS Messaging '
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/OWS9-GPS-SWE
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=52162
+docidentifier:
+- content: 12-096
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-02-01'
+  at: '2013-02-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Mike Botts
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2013-02-01'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document is an Engineering Report for the OWS-9 Interoperability Test
+- language: en
+  script: Latn
+  content: This document is an Engineering Report for the OWS-9 Interoperability Test
     Bed. The focus of the document is discussion and demonstration on the use of SWE
     Common Data 2.0 encodings to support an interoperable messaging description and
     encoding for the next generation GPS message streams into and out of the GPS navigation
     accuracy improvement services. The connection of SWE Common to SensorML 2.0 and
     the application of SensorML to describe the processing surrounding GPS navigation
     improvement will also be discussed.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

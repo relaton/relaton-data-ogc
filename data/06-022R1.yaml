@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 06-022r1
-title:
-- content: Temporal Standard Recommendations
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Temporal Standard Recommendations
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=14898
-  type: pdf
+id: 06022r1
 type: standard
-docid:
-- id: 06-022r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Temporal Standard Recommendations
+  type: title-main
+- language: en
+  script: Latn
+  content: Temporal Standard Recommendations
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=14898
+docidentifier:
+- content: 06-022r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-04-21'
+  at: '2006-04-21'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: James Resler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2006-04-21'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document summarizes recommendations for extending geospatial standards
+- language: en
+  script: Latn
+  content: 'This document summarizes recommendations for extending geospatial standards
     with regard to time-varying information. These proposals are the result of the
     National Technology Alliance program called Temporal Evaluation and Assessment
     (TEA). '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

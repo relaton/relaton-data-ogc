@@ -1,96 +1,98 @@
 ---
-schema-version: v1.2.9
-id: 24-008
-title:
-- content: OGC Geotech Interoperability Experiment Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Geotech Interoperability Experiment Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/geotech-ie
-  type: src
-- content: https://docs.ogc.org/per/24-008.html
-  type: html
+id: '24008'
 type: standard
-docid:
-- id: 24-008
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Geotech Interoperability Experiment Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Geotech Interoperability Experiment Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/geotech-ie
+- type: html
+  content: https://docs.ogc.org/per/24-008.html
+docidentifier:
+- content: 24-008
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-07-05'
+  at: '2024-07-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Mickael Beaufils
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kathi Schleidt
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Hylke van der Schaaf
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Dan Ponti
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Neil Chadwick
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Derrick Dasenbrock
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2024-07-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report (ER) describes the outcomes of the Open Geospatial
+- language: en
+  script: Latn
+  content: "This Engineering Report (ER) describes the outcomes of the Open Geospatial
     Consortium (OGC) Geotech Interoperability Experiment (IE). The objective of this
     IE was to develop a common conceptual model for describing geotechnical engineering
     data that bridges existing specifications for encoding those data and which could
     be integrated across OGC and buildingSMART International Standards,\r\n\r\nThis
     ER is directly imported from the project wiki found here: https://github.com/opengeospatial/Geotech/wiki."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

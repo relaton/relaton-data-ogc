@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 03-081r2
-title:
-- content: OpenGIS Web Terrain Service RFC
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OpenGIS Web Terrain Service RFC
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=11499
-  type: pdf
+id: '03081r2'
 type: standard
-docid:
-- id: 03-081r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenGIS Web Terrain Service RFC
+  type: title-main
+- language: en
+  script: Latn
+  content: OpenGIS Web Terrain Service RFC
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=11499
+docidentifier:
+- content: 03-081r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2003-11-07'
+  at: '2003-11-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joshua Lieberman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2003-11-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document is a companion specification to the OpenGIS Web Map Service
+- language: en
+  script: Latn
+  content: "This document is a companion specification to the OpenGIS Web Map Service
     Interface Implementation Specification version 1.1.1 [4], hereinafter WMS 1.1.1.
     \r\nWMS 1.1.1 specifies how individual map servers describe and provide their
     map content.  The present Web Terrain Service specification describes a new operation,
@@ -56,17 +64,11 @@ abstract:
     from which to render the terrain view. A simple attempt is also made to reconcile
     2D and 3D viewpoints by allowing the requested 3D area of view to be approximated
     with a WMS 1.1.1 bounding box"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-docstatus:
+status:
   stage:
-    value: draft
+    content: draft
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
-  editorialgroup:
-    committee: technical
+    content: standard
+  flavor: ogc

@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 12-158
-title:
-- content: OGC® OWS-9 Report on Aviation Performance Study
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® OWS-9 Report on Aviation Performance Study
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/ows9-aviation-performance
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=51817
-  type: pdf
+id: '12158'
 type: standard
-docid:
-- id: 12-158
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® OWS-9 Report on Aviation Performance Study
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® OWS-9 Report on Aviation Performance Study
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/ows9-aviation-performance
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51817
+docidentifier:
+- content: 12-158
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-06-18'
+  at: '2013-06-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Matthes Rieke
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2013-06-18'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document is a deliverable of the OGC Web Services (OWS) Initiative
+- language: en
+  script: Latn
+  content: This document is a deliverable of the OGC Web Services (OWS) Initiative
     - Phase 9 (OWS-9). The report summarizes the work carried out regarding performance
     and endurance testing of data provision services, namely Web Feature Service and
     Event Service. More specifically, the report deals with the performance and endurance
@@ -56,14 +64,8 @@ abstract:
     models and the results are documented in detail. Furthermore, a description of
     the service test environment is documented in alignment with the overall OWS-9
     service architecture
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

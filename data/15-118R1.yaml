@@ -1,63 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 15-118r1
-title:
-- content: Incident Management Information Sharing Profile Recommendations for OGC
-    Web Services Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Incident Management Information Sharing Profile Recommendations for OGC
-    Web Services Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/IMIS-Profile-recs4-OWS
-  type: src
-- content: https://docs.ogc.org/per/15-118r1.html
-  type: html
+id: 15118r1
 type: standard
-docid:
-- id: 15-118r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Incident Management Information Sharing Profile Recommendations for OGC
+    Web Services Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Incident Management Information Sharing Profile Recommendations for OGC
+    Web Services Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/IMIS-Profile-recs4-OWS
+- type: html
+  content: https://docs.ogc.org/per/15-118r1.html
+docidentifier:
+- content: 15-118r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-04-23'
+  at: '2018-04-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Simon Jirka
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Christoph Stasch
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2018-04-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Incident Management Information Sharing (IMIS) Internet of Things
+- language: en
+  script: Latn
+  content: "The Incident Management Information Sharing (IMIS) Internet of Things
     (IoT) Pilot established the following objectives:\r\n\r\n•        Apply OGC principles
     and practices for collaborative development to existing standards and technology
     to prototype an IoT approach to sensor use for incident management;\r\n\r\n•        Employ
@@ -70,14 +78,8 @@ abstract:
     on the findings gathered during the implementation and work on these objectives,
     this Engineering Report describes recommendations on profiles for OGC Web services
     that shall be used to build IMIS systems."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

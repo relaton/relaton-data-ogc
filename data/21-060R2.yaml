@@ -1,63 +1,68 @@
 ---
-schema-version: v1.2.9
-id: 21-060r2
-title:
-- content: Topic 6.3
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: 'Schema for Coverage Geometry and Functions – Part 3: Processing Fundamentals'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Topic 6.3 - Schema for Coverage Geometry and Functions – Part 3: Processing
-    Fundamentals'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/AS/Topic-6.3/1.0
-  type: src
-- content: https://docs.ogc.org/as/21-060r2/21-060r2.pdf
-  type: pdf
+id: 21060r2
 type: standard
-docid:
-- id: 21-060r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 6.3
+  type: title-intro
+- language: en
+  script: Latn
+  content: 'Schema for Coverage Geometry and Functions – Part 3: Processing Fundamentals'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Topic 6.3 - Schema for Coverage Geometry and Functions – Part 3: Processing
+    Fundamentals'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/AS/Topic-6.3/1.0
+- type: pdf
+  content: https://docs.ogc.org/as/21-060r2/21-060r2.pdf
+docidentifier:
+- content: 21-060r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-07-05'
+  at: '2024-07-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: 'Peter Baumann '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2024-07-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "NOTE: OGC and ISO have aligned Coverages Standards; Topics 6.1 and 6.3
+- language: en
+  script: Latn
+  content: "NOTE: OGC and ISO have aligned Coverages Standards; Topics 6.1 and 6.3
     are equivalent to ISO 19123-1 and 19123-3, respectively.\r\n\r\n\r\nThis document
     defines, at a high, implementation-independent level, operations on coverages
     - i.e., digital representations of space-time varying geographic phenomena - as
@@ -66,14 +71,8 @@ abstract:
     as further coverage types from ISO19123-1, such as point clouds and meshes in
     particular. While the core functionality is expected to be generic and applicable
     for any coverage, there may be special functionality for particular coverage types."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

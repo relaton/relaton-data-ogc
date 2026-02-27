@@ -1,75 +1,74 @@
 ---
-schema-version: v1.2.9
-id: 11-086r1
-title:
-- content: OWS-8 Aviation Thread
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Authoritative AIXM Data Source Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-8 Aviation Thread - Authoritative AIXM Data Source Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=46019
-  type: pdf
+id: 11086r1
 type: standard
-docid:
-- id: 11-086r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-8 Aviation Thread
+  type: title-intro
+- language: en
+  script: Latn
+  content: Authoritative AIXM Data Source Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-8 Aviation Thread - Authoritative AIXM Data Source Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46019
+docidentifier:
+- content: 11-086r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-01-25'
+  at: '2012-01-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jan Herrmann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Andreas Matheus
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2012-01-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This engineering report describes how to provide access control for WFS-T
+- language: en
+  script: Latn
+  content: "This engineering report describes how to provide access control for WFS-T
     2.0 instances\r\nin the OWS-8 Authoritative AIXM Data Source scenario."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

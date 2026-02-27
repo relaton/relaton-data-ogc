@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 11-014r3
-title:
-- content: OGC Open Modelling Interface Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Open Modelling Interface Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/openmi/2.0.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=59022
-  type: pdf
+id: 11014r3
 type: standard
-docid:
-- id: 11-014r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Open Modelling Interface Interface Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Open Modelling Interface Interface Standard
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/openmi/2.0.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=59022
+docidentifier:
+- content: 11-014r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-05-26'
+  at: '2014-05-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Stanislav Vanecek
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Roger Moore
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2014-05-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "<p>The purpose of the Open Modelling Interface (OpenMI) is to enable the
+- language: en
+  script: Latn
+  content: "<p>The purpose of the Open Modelling Interface (OpenMI) is to enable the
     runtime exchange of data between process simulation models and also between models
     and other modelling tools such as databases and analytical and visualization applications.
     Its creation has been driven by the need to understand how processes interact
@@ -74,15 +82,9 @@ abstract:
     components are provided by the OpenMI Association and third-­&#8208;party software
     vendors – visit www.openmi.org for further documentation.</p>\r\n<p>\r\n<a href=https://portal.ogc.org/files/?artifact_id=59022>pdf</a>
     <br>\r\n<a href=https://portal.ogc.org/files/?artifact_id=59022&format=docx>docx</a>\r\n</p>"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

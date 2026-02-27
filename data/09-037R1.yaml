@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: '09-037r1'
-title:
-- content: OWS-6 UTDS-CityGML Implementation Profile
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-6 UTDS-CityGML Implementation Profile
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=34098
-  type: pdf
+id: '09037r1'
 type: standard
-docid:
-- id: '09-037r1'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-6 UTDS-CityGML Implementation Profile
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-6 UTDS-CityGML Implementation Profile
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=34098
+docidentifier:
+- content: '09-037r1'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-07-20'
+  at: '2009-07-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2009-07-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC document specifies a CityGML-based application schema for a subset
+- language: en
+  script: Latn
+  content: "This OGC document specifies a CityGML-based application schema for a subset
     of an Urban Topographic Data Store (UTDS) as specified by the US National Geospatial-Intelligence
     Agency (NGA).\r\nThe particular focus of this implementation profile was to test
     the applicability of CityGML to UTDS data. \r\nThis document specifies the implementation
     profile as well as the findings.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

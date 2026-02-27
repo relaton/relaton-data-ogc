@@ -1,71 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 21-049
-title:
-- content: OGC Points of Interest (POI) Conceptual Model Standard 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Points of Interest (POI) Conceptual Model Standard 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/is/poi/1.0
-  type: src
-- content: https://docs.ogc.org/is/21-049/21-049.html
-  type: html
+id: '21049'
 type: standard
-docid:
-- id: 21-049
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Points of Interest (POI) Conceptual Model Standard 1.0
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Points of Interest (POI) Conceptual Model Standard 1.0
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/is/poi/1.0
+- type: html
+  content: https://docs.ogc.org/is/21-049/21-049.html
+docidentifier:
+- content: 21-049
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-04-02'
+  at: '2025-04-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Charles Heazel
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Matthew Purss
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Howard Trickey
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Christine Perey
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2025-04-02'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC Points of Interest (POI) Conceptual Model is an open data model
+- language: en
+  script: Latn
+  content: "The OGC Points of Interest (POI) Conceptual Model is an open data model
     for representing information about POI. The model is defined using a Unified Modeling
     Language (UML) object model. This UML model extends the ISO Technical Committee
     211 (TC211) conceptual model standards for spatial and temporal data. Building
@@ -78,15 +86,9 @@ abstract:
     or more complex such as a three-dimensional model of a building with names in
     various languages, information about open and closed hours, and a civic address.”
     W3C"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

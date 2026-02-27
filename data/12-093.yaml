@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 12-093
-title:
-- content: 'OWS-9: UML-to-GML-Application-Schema (UGAS) Conversion Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OWS-9: UML-to-GML-Application-Schema (UGAS) Conversion Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/ows9-ssi-ugas
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=51784
-  type: pdf
+id: '12093'
 type: standard
-docid:
-- id: 12-093
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OWS-9: UML-to-GML-Application-Schema (UGAS) Conversion Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OWS-9: UML-to-GML-Application-Schema (UGAS) Conversion Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/ows9-ssi-ugas
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51784
+docidentifier:
+- content: 12-093
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-02-05'
+  at: '2013-02-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2013-02-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The main scope of the schema automation activities in the OWS-9 initiative
+- language: en
+  script: Latn
+  content: "The main scope of the schema automation activities in the OWS-9 initiative
     was twofold:\r\n•\tSupport for the SWE Common 2.0 XML Schema encoding rule\r\n•\tDevelopment
     of and support for an encoding rule for JSON instance data\r\nIn both cases the
     scope includes implementation of the encoding rules in ShapeChange.\r\nIn addition,
@@ -56,14 +64,8 @@ abstract:
     in this document.\r\nThe approach and results to both work items are described
     and discussed in this engineering report. This Engineering Report has been prepared
     as part of the OGC Web Services Phase 9 (OWS-9) initiative.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

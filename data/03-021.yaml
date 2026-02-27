@@ -1,60 +1,62 @@
 ---
-schema-version: v1.2.9
-id: 03-021
-title:
-- content: Integrated Client for Multiple OGC-compliant Services
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Integrated Client for Multiple OGC-compliant Services
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=1328
-  type: pdf
+id: '03021'
 type: standard
-docid:
-- id: 03-021
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Integrated Client for Multiple OGC-compliant Services
+  type: title-main
+- language: en
+  script: Latn
+  content: Integrated Client for Multiple OGC-compliant Services
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=1328
+docidentifier:
+- content: 03-021
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2003-01-20'
+  at: '2003-01-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Yutzler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2003-01-20'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Provides an overview of the requirements, architecture, and design of Integrated
+- language: en
+  script: Latn
+  content: Provides an overview of the requirements, architecture, and design of Integrated
     Clients developed during the OGC Open Web Services
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

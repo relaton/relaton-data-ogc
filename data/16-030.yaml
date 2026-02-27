@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 16-030
-title:
-- content: Testbed-12 Testbed-12 GeoPackage Mobile Apps Integration Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 Testbed-12 GeoPackage Mobile Apps Integration Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A083
-  type: src
-- content: https://docs.ogc.org/per/16-030.html
-  type: html
+id: '16030'
 type: standard
-docid:
-- id: 16-030
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 Testbed-12 GeoPackage Mobile Apps Integration Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 Testbed-12 GeoPackage Mobile Apps Integration Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A083
+- type: html
+  content: https://docs.ogc.org/per/16-030.html
+docidentifier:
+- content: 16-030
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-05-15'
+  at: '2017-05-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Yutzler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-05-15'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Testbed 12 work evaluates the interoperability of the Common Map API tool
+- language: en
+  script: Latn
+  content: Testbed 12 work evaluates the interoperability of the Common Map API tool
     with commercial vendor tools supporting GeoPackage. Ideally data can be shared
     and exchanged between apps on a single device via GeoPackage. The demonstration
     will show the vector and/or routing data being used by disparate applications.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

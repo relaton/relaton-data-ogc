@@ -1,85 +1,87 @@
 ---
-schema-version: v1.2.9
-id: 20-043
-title:
-- content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna
-    Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna
-    Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/EOAppsPilot-EOX
-  type: src
-- content: https://docs.ogc.org/per/20-043.html
-  type: html
+id: '20043'
 type: standard
-docid:
-- id: 20-043
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna
+    Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna
+    Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/EOAppsPilot-EOX
+- type: html
+  content: https://docs.ogc.org/per/20-043.html
+docidentifier:
+- content: 20-043
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-10-22'
+  at: '2020-10-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Stefan Achtsnit
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Joachim Ungar
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: and Stephan Meißl (EOX)
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Anja Vrecko and Grega Milčinski (Sinergise)
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2020-10-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Engineering Report documents findings, achievements, and learnings
+- language: en
+  script: Latn
+  content: This Engineering Report documents findings, achievements, and learnings
     gained through activities during the OGC Earth Observation (EO) Applications Pilot
     by the EOX team (EOX, DLR, UVT, Sinergise, and Terrasigna). Both perspectives,
     from application developer’s as well as from platform provider’s view, are represented
     here.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

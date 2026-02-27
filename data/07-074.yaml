@@ -1,63 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 07-074
-title:
-- content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=22122
-  type: pdf
+id: '07074'
 type: standard
-docid:
-- id: 07-074
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=22122
+docidentifier:
+- content: 07-074
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2008-09-08'
+  at: '2008-09-08'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Marwa Mabrouk
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2008-09-08'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This OpenGIS Interface Standard defines OpenGIS Location Services (OpenLS):
+- language: en
+  script: Latn
+  content: 'This OpenGIS Interface Standard defines OpenGIS Location Services (OpenLS):
     Core Services, Parts 1-5, which consists of the composite set of basic services
     comprising the OpenLS Platform. This platform is also referred to as the GeoMobility
     Server (GMS), an open location services platform.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

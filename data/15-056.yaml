@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 15-056
-title:
-- content: 'OGC® Testbed 11 Catalogue Service and Discovery Engineering Report '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC® Testbed 11 Catalogue Service and Discovery Engineering Report '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t11-cat-discovery
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=64382
-  type: pdf
+id: '15056'
 type: standard
-docid:
-- id: 15-056
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC® Testbed 11 Catalogue Service and Discovery Engineering Report '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC® Testbed 11 Catalogue Service and Discovery Engineering Report '
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t11-cat-discovery
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=64382
+docidentifier:
+- content: 15-056
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-10-01'
+  at: '2015-10-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Wenwen Li
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Sheng Wu
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-10-01'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This OGC Testbed 11 Engineering Report provides a comprehensive review
+- language: en
+  script: Latn
+  content: 'This OGC Testbed 11 Engineering Report provides a comprehensive review
     and comparison in terms of architecture, functionality, and usability of the OGC
     catalogue service standards CSW 2.0.2 and CSW 3.0. We are especially interested
     in how well the two standards provide support for open searches and federated
@@ -68,14 +76,8 @@ abstract:
     using the above strategies. Recommendations for adoption of CSW standards as well
     as tasks in advancing catalogue search and data discovery in future testbeds is
     also discussed. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

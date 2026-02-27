@@ -1,91 +1,90 @@
 ---
-schema-version: v1.2.9
-id: 11-072r2
-title:
-- content: OWS-8 Aviation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: WXXM Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-8 Aviation - WXXM Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=46322
-  type: pdf
+id: 11072r2
 type: standard
-docid:
-- id: 11-072r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-8 Aviation
+  type: title-intro
+- language: en
+  script: Latn
+  content: WXXM Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-8 Aviation - WXXM Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46322
+docidentifier:
+- content: 11-072r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-01-25'
+  at: '2012-01-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Wenny Rahayu
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Torab Torabi
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Andrew Taylor-Harris
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Florian Puersch
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2012-01-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC™ document specifies the advancement of WXXM and Weather Concepts
+- language: en
+  script: Latn
+  content: "This OGC™ document specifies the advancement of WXXM and Weather Concepts
     in\r\nthe OWS-8 Aviation Thread. The focus is on investigating and demonstrating
     the\r\napplicability and suitability of WXXM in producing accurate, real-time
     aircraft weather\r\nradar data using OGC™ Web Coverage Services (WCS) to be used
     by meteorological\r\napplications and services supporting aviation. Such applications
     provide information\r\nwhich enhances safe and efficient tactical and"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 18-034r3
-title:
-- content: 'OGC Testbed-14: Compliance Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: Compliance Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D027
-  type: src
-- content: https://docs.ogc.org/per/18-034r3.html
-  type: html
+id: 18034r3
 type: standard
-docid:
-- id: 18-034r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Compliance Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Compliance Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D027
+- type: html
+  content: https://docs.ogc.org/per/18-034r3.html
+docidentifier:
+- content: 18-034r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-07'
+  at: '2019-02-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Andrea Aime
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Emanuele Tajariol
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Simone Giannecchini
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2019-02-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC Compliance Program provides a free online testing facility based
+- language: en
+  script: Latn
+  content: "The OGC Compliance Program provides a free online testing facility based
     on TeamEngine and a set of test suites dedicated to specific protocols and versions,
     as well as specification profiles and extension.\r\n\r\nThis document reviews
     the work that has been carried out as part of the Testbed-14 compliance activity,
@@ -79,14 +87,8 @@ abstract:
     And Measurement (TEAM) Engine and eventually land on the OGC beta compliance test
     engine (availability on the primary site is subject to the WFS 3.0 specification
     being finalized and the tests being adapted to it)."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

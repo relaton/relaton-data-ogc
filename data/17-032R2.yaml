@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 17-032r2
-title:
-- content: 'OGC Testbed-13: Aviation Abstract Quality Model Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: Aviation Abstract Quality Model Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-FA001
-  type: src
-- content: https://docs.ogc.org/per/17-032r2.html
-  type: html
+id: 17032r2
 type: standard
-docid:
-- id: 17-032r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: Aviation Abstract Quality Model Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: Aviation Abstract Quality Model Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-FA001
+- type: html
+  content: https://docs.ogc.org/per/17-032r2.html
+docidentifier:
+- content: 17-032r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-01-26'
+  at: '2018-01-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Anneley McMillan
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Sam Meek
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2018-01-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC® Engineering Report (ER) describes an Abstract Quality Model (AQM)
+- language: en
+  script: Latn
+  content: This OGC® Engineering Report (ER) describes an Abstract Quality Model (AQM)
     for data in the aviation domain. Requirements for data quality in aviation are
     stringent, as the data is often used for safety critical purposes. The services
     considered are those that serve aeronautical information, flight information and
@@ -66,14 +74,8 @@ abstract:
     of the timeliness of a piece of data, as information utility degrades with time.
     The result is an ISO compliant data quality model with the required extensions
     included.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

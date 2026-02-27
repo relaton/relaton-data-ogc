@@ -1,81 +1,77 @@
 ---
-schema-version: v1.2.9
-id: 07-022r1
-title:
-- content: Observations and Measurements
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Part 1
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Observation schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Observations and Measurements - Part 1 - Observation schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=22466
-  type: pdf
+id: 07022r1
 type: standard
-docid:
-- id: 07-022r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Observations and Measurements
+  type: title-intro
+- language: en
+  script: Latn
+  content: Part 1
+  type: title-main
+- language: en
+  script: Latn
+  content: Observation schema
+  type: title-part
+- language: en
+  script: Latn
+  content: Observations and Measurements - Part 1 - Observation schema
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=22466
+docidentifier:
+- content: 07-022r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-12-26'
+  at: '2007-12-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Simon Cox
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2007-12-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The OpenGIS® Observations and Measurements Encoding Standard (O&M) defines
+- language: en
+  script: Latn
+  content: 'The OpenGIS® Observations and Measurements Encoding Standard (O&M) defines
     an abstract model and an XML schema [www.w3.org/XML/Schema] encoding for observations
     and it provides support for common sampling strategies. O&M also provides a general
     framework for systems that deal in technical measurements in science and engineering.
     This is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
     suite of standards. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

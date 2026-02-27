@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 07-026r2
-title:
-- content: Geospatial eXtensible Access Control Markup Language (GeoXACML)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Geospatial eXtensible Access Control Markup Language (GeoXACML)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=25218
-  type: pdf
+id: 07026r2
 type: standard
-docid:
-- id: 07-026r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geospatial eXtensible Access Control Markup Language (GeoXACML)
+  type: title-main
+- language: en
+  script: Latn
+  content: Geospatial eXtensible Access Control Markup Language (GeoXACML)
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=25218
+docidentifier:
+- content: 07-026r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2008-02-23'
+  at: '2008-02-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Andreas Matheus
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jan Herrmann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2008-02-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The OpenGIS® Geospatial eXtensible Access Control Markup Language Encoding
+- language: en
+  script: Latn
+  content: 'The OpenGIS® Geospatial eXtensible Access Control Markup Language Encoding
     Standard (GeoXACML) defines a geospatial extension to the OASIS standard “eXtensible
     Access Control Markup Language (XACML)” [www.oasis-open.org/committees/xacml/].
     This extension incorporates spatial data types and spatial authorization decision
@@ -65,15 +73,9 @@ abstract:
     is not designed to be a rights expression language and is therefore not an extension
     of the OGC GeoDRM Reference Model (Topic 18 in the OpenGIS® Abstract Specification
     [http://www.opengeospatial.org/standards/as]). '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

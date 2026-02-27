@@ -1,85 +1,93 @@
 ---
-schema-version: v1.2.9
-id: 18-097
-title:
-- content: OGC Environmental Linked Features Interoperability Experiment Engineering
-    Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Environmental Linked Features Interoperability Experiment Engineering
-    Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/elfie-er
-  type: src
-- content: https://docs.ogc.org/per/18-097.html
-  type: html
+id: '18097'
 type: standard
-docid:
-- id: 18-097
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Environmental Linked Features Interoperability Experiment Engineering
+    Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Environmental Linked Features Interoperability Experiment Engineering
+    Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/elfie-er
+- type: html
+  content: https://docs.ogc.org/per/18-097.html
+docidentifier:
+- content: 18-097
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-11'
+  at: '2019-02-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: David Blodgett
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Byron Cochrane
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Rob Atkinson
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Sylvain Grellet
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Abdelfettah Feliachi
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Alistair Ritchi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-02-11'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Systems that maintain and disseminate information representing and/or related
+- language: en
+  script: Latn
+  content: Systems that maintain and disseminate information representing and/or related
     to spatial features often lack mechanisms to describe or discover how features
     relate to each other, to other kinds of features, and to a wide variety of related
     information that may be relevant. The Environmental Linked Features Interoperability
@@ -100,14 +108,8 @@ abstract:
     and publication of linked data URIs, establishing conventions for URI dereferencing
     behavior and default content given multiple options for a resource remain for
     future work.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

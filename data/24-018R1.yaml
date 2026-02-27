@@ -1,80 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 24-018r1
-title:
-- content: OGC® Web Coverage Service Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: " Interpolation Extension"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Web Coverage Service Interface Standard -  Interpolation Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/wcs-interpolation/1.1
-  type: src
-- content: https://docs.ogc.org/is/24-018r1/24-018r1.pdf
-  type: pdf
+id: 24018r1
 type: standard
-docid:
-- id: 24-018r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Web Coverage Service Interface Standard
+  type: title-intro
+- language: en
+  script: Latn
+  content: " Interpolation Extension"
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Web Coverage Service Interface Standard -  Interpolation Extension
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/wcs-interpolation/1.1
+- type: pdf
+  content: https://docs.ogc.org/is/24-018r1/24-018r1.pdf
+docidentifier:
+- content: 24-018r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-10-03'
+  at: '2025-10-03'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jinsongdi Yu
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2025-10-03'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OGC Web Coverage Service (WCS) –Interpolation Extension defines an
+- language: en
+  script: Latn
+  content: The OGC Web Coverage Service (WCS) –Interpolation Extension defines an
     extension to the WCS Core [OGC 17-089r1] to control interpolation during processing
     of a GetCover-age request. This affects all operations that require interpolation,
     such as subsetting, scaling and Coordinate Reference System (CRS) transformation.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

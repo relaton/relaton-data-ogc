@@ -1,81 +1,83 @@
 ---
-schema-version: v1.2.9
-id: 16-042r1
-title:
-- content: Testbed-12 WMS/WMTS Enhanced Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 WMS/WMTS Enhanced Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-NA005
-  type: src
-- content: https://docs.ogc.org/per/16-042r1.html
-  type: html
+id: 16042r1
 type: standard
-docid:
-- id: 16-042r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 WMS/WMTS Enhanced Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 WMS/WMTS Enhanced Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-NA005
+- type: html
+  content: https://docs.ogc.org/per/16-042r1.html
+docidentifier:
+- content: 16-042r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-06-14'
+  at: '2017-06-14'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Lingjun Kang
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Liping Di
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Eugene Yu
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2017-06-14'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report (ER) describes requirements, challenges and solutions
+- language: en
+  script: Latn
+  content: "This Engineering Report (ER) describes requirements, challenges and solutions
     regarding improving multidimensional Earth Observation (EO) data access, discovery
     and visualization through Web Map Service (WMS), Web Map Tile Service (WMTS),
     and corresponding extensions. The ER will highlight solutions and recommendations
     of following main topics.\r\n1) WMTS enhancements for time-varying layer access/discovery\r\n\r\n2)
     WMS enhancements for NetCDF\r\n\r\n3) WMTS enhancements for multidimensional domain
     discovery\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

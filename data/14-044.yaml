@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 14-044
-title:
-- content: OGC® Testbed 10 Summary Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed 10 Summary Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/testbed10_summary_er
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=61108
-  type: pdf
+id: '14044'
 type: standard
-docid:
-- id: 14-044
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed 10 Summary Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed 10 Summary Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/testbed10_summary_er
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=61108
+docidentifier:
+- content: 14-044
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-02-02'
+  at: '2015-02-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Lew Leinenweber
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-02-02'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OGC Testbed 10 was an initiative of OGC’s Interoperability Program
+- language: en
+  script: Latn
+  content: The OGC Testbed 10 was an initiative of OGC’s Interoperability Program
     to collaboratively extend and demonstrate OGC’s baseline for geospatial interoperability.
     The majority of work for Testbed 10 was conducted between October 2013 and April
     2014.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

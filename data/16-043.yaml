@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 16-043
-title:
-- content: Testbed-12 Web Integration Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 Web Integration Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A078
-  type: src
-- content: https://docs.ogc.org/per/16-043.html
-  type: html
+id: '16043'
 type: standard
-docid:
-- id: 16-043
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 Web Integration Service
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 Web Integration Service
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A078
+- type: html
+  content: https://docs.ogc.org/per/16-043.html
+docidentifier:
+- content: 16-043
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-03-10'
+  at: '2017-03-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-03-10'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "For many years OGC has been developing a suite of standards defining web
+- language: en
+  script: Latn
+  content: "For many years OGC has been developing a suite of standards defining web
     services interfaces and encodings for geospatial processing. The suite includes
     a Web Map Service (WMS), a Web Map Tiling Service (WMTS), a Web Feature Service
     (WFS), a Web Coverage Service (WCS), a Web Catalogue Service (CSW), the Sensor
@@ -97,14 +105,8 @@ abstract:
     is specified that defines ebRIM object types, associations, classifications and
     stored queries that support the description of integrated OGC web service and
     their artifacts within the catalogue."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 01-009
-title:
-- content: OpenGIS Coordinate Transformation Service Implementation Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OpenGIS Coordinate Transformation Service Implementation Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=999
-  type: pdf
+id: '01009'
 type: standard
-docid:
-- id: 01-009
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenGIS Coordinate Transformation Service Implementation Specification
+  type: title-main
+- language: en
+  script: Latn
+  content: OpenGIS Coordinate Transformation Service Implementation Specification
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=999
+docidentifier:
+- content: 01-009
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2001-01-12'
+  at: '2001-01-12'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Martin Daly
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2001-01-12'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The OpenGIS® Coordinate Transformation Service Standard (CTS)  provides
+- language: en
+  script: Latn
+  content: 'The OpenGIS® Coordinate Transformation Service Standard (CTS)  provides
     a standard way for software to specify and access coordinate transformation services
     for use on specified spatial data. This standard addresses a key requirement for
     overlaying views of geodata (“maps”) from diverse sources: the ability to perform
     coordinate transformation in such a way that all spatial data are defined relative
     to the same spatial reference system.  '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

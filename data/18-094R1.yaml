@@ -1,57 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 18-094r1
-title:
-- content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple
-    Linked Data Application and Complex Analytic Applicat'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple
-    Linked Data Application and Complex Analytic Applicat'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D022-1
-  type: src
-- content: https://docs.ogc.org/per/18-094r1.html
-  type: html
+id: 18094r1
 type: standard
-docid:
-- id: 18-094r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple
+    Linked Data Application and Complex Analytic Applicat'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple
+    Linked Data Application and Complex Analytic Applicat'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D022-1
+- type: html
+  content: https://docs.ogc.org/per/18-094r1.html
+docidentifier:
+- content: 18-094r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-04'
+  at: '2019-02-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Stephane Fellah
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-02-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report (ER) enhances the understanding of the concept
+- language: en
+  script: Latn
+  content: "This Engineering Report (ER) enhances the understanding of the concept
     of application profiles (AP) for ontologies based on the Web Ontology Language
     (OWL) and used by Linked Data (LD) applications. The concept of an Application
     Profile for Unified Modeling Language (UML) and Extensible Markup Language (XML)
@@ -68,14 +76,8 @@ abstract:
     different types of applications (simple linked data and complex analytic)\r\n\r\nAn
     initial model for defining metadata about application profiles, so they can be
     searched and discovered by agents."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

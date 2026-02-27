@@ -1,60 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 23-048
-title:
-- content: OGC Testbed 19 Draft API
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Geodatacubes specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Testbed 19 Draft API - Geodatacubes specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T19-D071
-  type: src
-- content: https://docs.ogc.org/per/23-048.html
-  type: html
+id: '23048'
 type: standard
-docid:
-- id: 23-048
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed 19 Draft API
+  type: title-intro
+- language: en
+  script: Latn
+  content: Geodatacubes specification
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed 19 Draft API - Geodatacubes specification
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T19-D071
+- type: html
+  content: https://docs.ogc.org/per/23-048.html
+docidentifier:
+- content: 23-048
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-07-22'
+  at: '2024-07-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Matthias Mohr
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2024-07-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Testbed 19 Engineering Report documents a draft OGC API — GeoDataCube
+- language: en
+  script: Latn
+  content: "This OGC Testbed 19 Engineering Report documents a draft OGC API — GeoDataCube
     Standard (aka GDC API). The OGC Member participants in this Testbed 19 activity
     developed, documented, and tested the draft OGC GDC API Standard. The draft will
     be submitted to the OGC GeoDataCube Standards Working Group (SWG) as a new standards
@@ -72,14 +77,8 @@ abstract:
     extensible through additional implementations of OGC API Standards or openEO API
     parts. Documentation is available in machine-readable YAML and human-friendly
     HTML through a GitHub repository."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

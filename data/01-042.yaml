@@ -1,66 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 01-042
-title:
-- content: Topic Domain 1
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Telecommunications Domain
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Topic Domain 1 - Telecommunications Domain
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=1046
-  type: pdf
+id: '01042'
 type: standard
-docid:
-- id: 01-042
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic Domain 1
+  type: title-intro
+- language: en
+  script: Latn
+  content: Telecommunications Domain
+  type: title-main
+- language: en
+  script: Latn
+  content: Topic Domain 1 - Telecommunications Domain
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=1046
+docidentifier:
+- content: 01-042
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2001-10-09'
+  at: '2001-10-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Tom Strickland
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2001-10-09'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Domain Model for telecommunications Networks
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: Domain Model for telecommunications Networks
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

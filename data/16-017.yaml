@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 16-017
-title:
-- content: Testbed-12 Asynchronous Messaging for Aviation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 Asynchronous Messaging for Aviation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-E003
-  type: src
-- content: https://docs.ogc.org/per/16-017.html
-  type: html
+id: '16017'
 type: standard
-docid:
-- id: 16-017
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 Asynchronous Messaging for Aviation
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 Asynchronous Messaging for Aviation
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-E003
+- type: html
+  content: https://docs.ogc.org/per/16-017.html
+docidentifier:
+- content: 16-017
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-04-25'
+  at: '2017-04-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Matthes Rieke
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Aleksandar Balaban
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-04-25'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Asynchronous Messaging for Aviation Engineering Report (ER) focuses
+- language: en
+  script: Latn
+  content: "The Asynchronous Messaging for Aviation Engineering Report (ER) focuses
     on the design of an architecture to create an Publish/Subscribe (PubSub) messaging
     layer between different Aviation components such as clients, data provider instances
     and Data Brokers. In order to achieve interoperability among these components,
@@ -69,14 +77,8 @@ abstract:
     Aviation Administration (FAA) System-Wide Information Management (SWIM) and Single
     European Sky ATM Research Programme (SESAR) SWIM) have been investigated but an
     implementation has not been fulfilled."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

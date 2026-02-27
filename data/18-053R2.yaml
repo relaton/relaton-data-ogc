@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 18-053r2
-title:
-- content: OGC 3D Tiles Specification 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC 3D Tiles Specification 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/CS/3DTiles/1.0
-  type: src
-- content: https://docs.ogc.org/cs/18-053r2/18-053r2.html
-  type: html
+id: 18053r2
 type: standard
-docid:
-- id: 18-053r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC 3D Tiles Specification 1.0
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC 3D Tiles Specification 1.0
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/CS/3DTiles/1.0
+- type: html
+  content: https://docs.ogc.org/cs/18-053r2/18-053r2.html
+docidentifier:
+- content: 18-053r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-01-31'
+  at: '2019-01-31'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Patrick Cozzi
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Sean Lilley
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Gabby Getz
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2019-01-31'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "3D Tiles is designed for streaming and rendering massive 3D geospatial
+- language: en
+  script: Latn
+  content: "3D Tiles is designed for streaming and rendering massive 3D geospatial
     content such as Photogrammetry, 3D Buildings, BIM/CAD, Instanced Features, and
     Point Clouds. It defines a hierarchical data structure and a set of tile formats
     which deliver renderable content. 3D Tiles does not define explicit rules for
@@ -85,14 +93,8 @@ abstract:
     the 3D Tiles 1.1 Reference Card as an approachable and concise guide to learning
     about the main concepts in 3D Tiles, intended to jumpstart developers in adopting
     3D Tiles."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: community-standard
-  editorialgroup:
-    committee: technical
+    content: community-standard
+  flavor: ogc

@@ -1,62 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 22-010r4
-title:
-- content: Topic 24
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Functional Model for Crustal Deformation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Topic 24 - Functional Model for Crustal Deformation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/AS/Topic-24/1.0
-  type: src
-- content: https://docs.ogc.org/as/22-010r4/22-010r4.html
-  type: html
+id: 22010r4
 type: standard
-docid:
-- id: 22-010r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 24
+  type: title-intro
+- language: en
+  script: Latn
+  content: Functional Model for Crustal Deformation
+  type: title-main
+- language: en
+  script: Latn
+  content: Topic 24 - Functional Model for Crustal Deformation
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/AS/Topic-24/1.0
+- type: html
+  content: https://docs.ogc.org/as/22-010r4/22-010r4.html
+docidentifier:
+- content: 22-010r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-04-29'
+  at: '2024-04-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Chris Crook
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2024-04-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Abstract Specification (AS) defines a general parameterization
+- language: en
+  script: Latn
+  content: "This OGC Abstract Specification (AS) defines a general parameterization
     of surface deformation models.\r\n\r\nAll objects on the surface of the Earth
     are moving. Apparently fixed features such as buildings are moving with the Earth’s
     crust, being subject to ongoing plate tectonic movement and episodic deformation
@@ -93,14 +98,8 @@ abstract:
     how it will be used.\r\n\r\nThis AS will allow users of compliant software applying
     a compliant deformation model to be confident that the model is being used as
     intended by its producers."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

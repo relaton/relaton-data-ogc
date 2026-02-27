@@ -1,63 +1,65 @@
 ---
-schema-version: v1.2.9
-id: '09-122'
-title:
-- content: CF-netCDF Encoding Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: CF-netCDF Encoding Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=35505
-  type: pdf
+id: '09122'
 type: standard
-docid:
-- id: '09-122'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CF-netCDF Encoding Specification
+  type: title-main
+- language: en
+  script: Latn
+  content: CF-netCDF Encoding Specification
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=35505
+docidentifier:
+- content: '09-122'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-10-13'
+  at: '2009-10-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ben Domenico
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2009-10-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: NetCDF (network Common Data Form) is a data model for array-oriented scientific
+- language: en
+  script: Latn
+  content: NetCDF (network Common Data Form) is a data model for array-oriented scientific
     data, a freely distributed collection of access libraries implementing support
     for that data model, and a machine-independent format. Together, the interfaces,
     libraries, and format support the creation, access, and sharing of scientific
     data.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

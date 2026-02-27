@@ -1,63 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 01-026r1
-title:
-- content: Geocoder
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Geocoder
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=1031
-  type: pdf
+id: 01026r1
 type: standard
-docid:
-- id: 01-026r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geocoder
+  type: title-main
+- language: en
+  script: Latn
+  content: Geocoder
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=1031
+docidentifier:
+- content: 01-026r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2001-03-28'
+  at: '2001-03-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Serge Margoulies
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2001-03-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "*RETIRED* Geocoding is the process of linking words, terms and codes found
+- language: en
+  script: Latn
+  content: "*RETIRED* Geocoding is the process of linking words, terms and codes found
     in a text string to their applicable geospatial features, with known locations.
     (Locations are defined as geometry; usually points with x, y coordinates.)"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

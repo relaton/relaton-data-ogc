@@ -1,74 +1,70 @@
 ---
-schema-version: v1.2.9
-id: 10-020
-title:
-- content: Topic 2.1
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Spatial Referencing by Coordinates
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Extension for Parametric Values
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-part
-- content: Topic 2.1 - Spatial Referencing by Coordinates - Extension for Parametric
-    Values
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=37761
-  type: pdf
+id: '10020'
 type: standard
-docid:
-- id: 10-020
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 2.1
+  type: title-intro
+- language: en
+  script: Latn
+  content: Spatial Referencing by Coordinates
+  type: title-main
+- language: en
+  script: Latn
+  content: Extension for Parametric Values
+  type: title-part
+- language: en
+  script: Latn
+  content: Topic 2.1 - Spatial Referencing by Coordinates - Extension for Parametric
+    Values
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=37761
+docidentifier:
+- content: 10-020
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-04-16'
+  at: '2014-04-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Paul Cooper
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2014-04-16'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: ''
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: ''
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

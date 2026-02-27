@@ -1,61 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 02-070
-title:
-- content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=1188
-  type: pdf
+id: '02070'
 type: standard
-docid:
-- id: 02-070
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
+  type: title-main
+- language: en
+  script: Latn
+  content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=1188
+docidentifier:
+- content: 02-070
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2002-08-19'
+  at: '2002-08-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Bill Lalonde
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2002-08-19'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The SLD is an encoding for how the Web Map Server (WMS 1.0 & 1.1) specification
+- language: en
+  script: Latn
+  content: The SLD is an encoding for how the Web Map Server (WMS 1.0 & 1.1) specification
     can be extended to allow user-defined symbolization of feature data.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

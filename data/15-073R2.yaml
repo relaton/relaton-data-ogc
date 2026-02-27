@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 15-073r2
-title:
-- content: OGC® Testbed-11 DGIWG GMLJP2 testing results Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed-11 DGIWG GMLJP2 testing results Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t11-dgiwg-gmljp2
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=65887
-  type: pdf
+id: 15073r2
 type: standard
-docid:
-- id: 15-073r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed-11 DGIWG GMLJP2 testing results Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed-11 DGIWG GMLJP2 testing results Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t11-dgiwg-gmljp2
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=65887
+docidentifier:
+- content: 15-073r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-11-18'
+  at: '2015-11-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: E. Devys
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: L.Colaiacomo
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: P. Baumann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2015-11-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Engineering Report (ER) describes work done in OGC Testbed 11
+- language: en
+  script: Latn
+  content: "This OGC Engineering Report (ER) describes work done in OGC Testbed 11
     to test\r\nGMLJP2 in terms of defining a DGIWG GMLJP2 version 1 profile.\r\nThe
     requirements for a DGIWG profile of GMLJP2 have been documented in the\r\nDGIWG
     GMLJP2 version 1 profile. The Imagery WG inside DGIWG has developed a\r\nfilter
@@ -71,14 +79,8 @@ abstract:
     are coming directly from the adoption inside the DGIWG of the\r\nnew OGC GMLJP2
     version 2.\r\nThis Testbed 11 activity is a response to the need of harmonization
     between DGIWG and\r\nOGC."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

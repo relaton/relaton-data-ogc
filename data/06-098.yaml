@@ -1,70 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 06-098
-title:
-- content: 'Change Request: WCS: Proposal for WCS Transactional'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: WCS-T
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Change Request: WCS: Proposal for WCS Transactional - WCS-T'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=20257
-  type: pdf
+id: '06098'
 type: standard
-docid:
-- id: 06-098
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Change Request: WCS: Proposal for WCS Transactional'
+  type: title-intro
+- language: en
+  script: Latn
+  content: WCS-T
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Change Request: WCS: Proposal for WCS Transactional - WCS-T'
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=20257
+docidentifier:
+- content: 06-098
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-08-13'
+  at: '2007-08-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Michael Gerlek
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2007-08-13'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'Version 1.0 of the Web Coverage Service (WCS) Specification does not address
+- language: en
+  script: Latn
+  content: 'Version 1.0 of the Web Coverage Service (WCS) Specification does not address
     how coverage data gets added to or deleted from a server; it is assumed that some
     implementation-specific process exists for handling this, likely on the back end
     (server-side).  One of the goals of OWS-4 was to extend WCS to support these operations,
     generally referred to as '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: change-request-supporting-document
-  editorialgroup:
-    committee: technical
+    content: change-request-supporting-document
+  flavor: ogc

@@ -1,62 +1,64 @@
 ---
-schema-version: v1.2.9
-id: 14-065
-title:
-- content: OGC® WPS 2.0 Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® WPS 2.0 Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/wps/2.0.0
-  type: src
-- content: https://docs.ogc.org/is/14-065/14-065r0.html
-  type: html
+id: '14065'
 type: standard
-docid:
-- id: 14-065
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® WPS 2.0 Interface Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® WPS 2.0 Interface Standard
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/wps/2.0.0
+- type: html
+  content: https://docs.ogc.org/is/14-065/14-065r0.html
+docidentifier:
+- content: 14-065
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-03-05'
+  at: '2015-03-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Matthias Mueller
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-03-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: ''
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: ''
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

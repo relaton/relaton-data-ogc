@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 23-028
-title:
-- content: OGC Testbed 19 Extraterrestrial GeoTIFF Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Testbed 19 Extraterrestrial GeoTIFF Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T19-D002
-  type: src
-- content: https://docs.ogc.org/per/23-028.html
-  type: html
+id: '23028'
 type: standard
-docid:
-- id: 23-028
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed 19 Extraterrestrial GeoTIFF Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed 19 Extraterrestrial GeoTIFF Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T19-D002
+- type: html
+  content: https://docs.ogc.org/per/23-028.html
+docidentifier:
+- content: 23-028
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-04-16'
+  at: '2024-04-16'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Michael Leedahl
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2024-04-16'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: With the growing number of space assets and missions, the space industry
+- language: en
+  script: Latn
+  content: With the growing number of space assets and missions, the space industry
     needs a way to locate extra-terrestrial objects within the captured imagery. The
     current GeoTIFF Standard provides the location of terrestrial objects using TIFF
     tags. However, objects in space are relative to the observer and the distance
@@ -59,14 +67,8 @@ abstract:
     of a sphere or the camera location. The Testbed 19 Engineering Report (ER) extends
     GeoTIFF to work for all images including both terrestrial and non-terrestrial
     observations within the image.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

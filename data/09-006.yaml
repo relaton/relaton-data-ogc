@@ -1,68 +1,67 @@
 ---
-schema-version: v1.2.9
-id: '09-006'
-title:
-- content: OWS-6 DSS Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: SOAP/XML and REST in WMTS
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-6 DSS Engineering Report - SOAP/XML and REST in WMTS
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=33269
-  type: pdf
+id: '09006'
 type: standard
-docid:
-- id: '09-006'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-6 DSS Engineering Report
+  type: title-intro
+- language: en
+  script: Latn
+  content: SOAP/XML and REST in WMTS
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-6 DSS Engineering Report - SOAP/XML and REST in WMTS
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=33269
+docidentifier:
+- content: '09-006'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-08-05'
+  at: '2009-08-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Keith Pomakis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2009-08-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC® document reports the results achieved in the Decision Support
+- language: en
+  script: Latn
+  content: This OGC® document reports the results achieved in the Decision Support
     Services (DSS) subtask of the OWS-6 testbed initiative as it relates to the development
     of SOAP/XML and REST interfaces for the Web Map Tiling Service (WMTS).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

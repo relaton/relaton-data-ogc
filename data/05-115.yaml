@@ -1,51 +1,59 @@
 ---
-schema-version: v1.2.9
-id: 05-115
-title:
-- content: Geo Video Web Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Geo Video Web Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=12899
-  type: pdf
+id: '05115'
 type: standard
-docid:
-- id: 05-115
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geo Video Web Service
+  type: title-main
+- language: en
+  script: Latn
+  content: Geo Video Web Service
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=12899
+docidentifier:
+- content: 05-115
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-03-28'
+  at: '2006-03-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joe Lewis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2006-03-28'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "A GeoVideo Web Service (GVS) is a web service that facilitates the viewing
+- language: en
+  script: Latn
+  content: "A GeoVideo Web Service (GVS) is a web service that facilitates the viewing
     of live and/or archived feeds from video cameras. The feeds may be composed of:\r\n-
     A video stream\r\n- Textual data in a caption stream (e.g. GPS data, camera states
     and characteristics, custom XML data, such as SensorMLTML)\r\n- A combination
@@ -53,14 +61,8 @@ abstract:
     may be viewed in the Windows Media Player. The textual data is extracted through
     scripting events that are generated as the caption stream is processed and displayed
     by the Windows Media Player."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

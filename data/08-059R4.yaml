@@ -1,81 +1,80 @@
 ---
-schema-version: v1.2.9
-id: '08-059r4'
-title:
-- content: OGC® Web Coverage Service WCS Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Processing Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Web Coverage Service WCS Interface Standard - Processing Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/wcs_processing_extension/2.0.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=54506
-  type: pdf
+id: '08059r4'
 type: standard
-docid:
-- id: '08-059r4'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Web Coverage Service WCS Interface Standard
+  type: title-intro
+- language: en
+  script: Latn
+  content: Processing Extension
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Web Coverage Service WCS Interface Standard - Processing Extension
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/wcs_processing_extension/2.0.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=54506
+docidentifier:
+- content: '08-059r4'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-02-26'
+  at: '2014-02-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jinsongdi Yu
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2014-02-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OGC Web Coverage Service (WCS)– Processing Extension defines an extension
+- language: en
+  script: Latn
+  content: The OGC Web Coverage Service (WCS)– Processing Extension defines an extension
     to the WCS Core [OGC 09-110], the ProcessCoverages request type, which allows
     clients to initi-ate server-side processing and filtering of coverages and to
     download the resulting coverage or value sets based on the query language defined
     in the Web Coverage Processing Service (WCPS) interface standard [OGC 08-068].
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: extension
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 24-044
-title:
-- content: Testbed 20 High-Performance Geospatial Computing Optimized Formats Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed 20 High-Performance Geospatial Computing Optimized Formats Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t20-D030
-  type: src
-- content: https://docs.ogc.org/per/24-044.html
-  type: html
+id: '24044'
 type: standard
-docid:
-- id: 24-044
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed 20 High-Performance Geospatial Computing Optimized Formats Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed 20 High-Performance Geospatial Computing Optimized Formats Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t20-D030
+- type: html
+  content: https://docs.ogc.org/per/24-044.html
+docidentifier:
+- content: 24-044
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-04-04'
+  at: '2025-04-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Eugene Yu
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Liping Di '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2025-04-04'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "High-Performance Geospatial Computing (HPGC) is crucial for addressing
+- language: en
+  script: Latn
+  content: "High-Performance Geospatial Computing (HPGC) is crucial for addressing
     the increasing complexity and volume of geospatial data across sectors such as
     meteorology, disaster management, and climate change. While High Performance Computing
     (HPC) offers significant potential, integrating it with geospatial tools remains
@@ -71,14 +79,8 @@ abstract:
     columnar layout and multithreading capabilities enhance storage efficiency and
     data retrieval, but the lack of a spatial index and the need to decompress entire
     chunks can complicate data management.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

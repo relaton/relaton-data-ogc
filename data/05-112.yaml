@@ -1,63 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 05-112
-title:
-- content: Symbology Management
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Symbology Management
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=13285
-  type: pdf
+id: '05112'
 type: standard
-docid:
-- id: 05-112
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Symbology Management
+  type: title-main
+- language: en
+  script: Latn
+  content: Symbology Management
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=13285
+docidentifier:
+- content: 05-112
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-04-19'
+  at: '2006-04-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Milan Trninic
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2006-04-19'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document describes Symbology Management System which is a system
+- language: en
+  script: Latn
+  content: "This document describes Symbology Management System which is a system
     closely related to OpenGIS Style Management Services (SMS) (described in the document
     OGC 04-040). Having in mind their identical purpose, the system described in this
     document will also be referred to as SMS.\r\nThe SMS manages styles and symbols
     and defines their use in the process of producing maps from source GML data.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

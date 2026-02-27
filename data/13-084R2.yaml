@@ -1,73 +1,81 @@
 ---
-schema-version: v1.2.9
-id: 13-084r2
-title:
-- content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/ISx/csw-ebrim-i15/1.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=56905
-  type: pdf
+id: 13084r2
 type: standard
-docid:
-- id: 13-084r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC I15 (ISO19115 Metadata) Extension Package of CS-W ebRIM Profile 1.0
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/ISx/csw-ebrim-i15/1.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=56905
+docidentifier:
+- content: 13-084r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-04-28'
+  at: '2014-04-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Uwe Voges
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Frédéric Houbie
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Nicolas Lesage
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Marie-Lise Vautier
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2014-04-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC Catalogue Services 2.0 specification (OGC 07-006r1) establishes
+- language: en
+  script: Latn
+  content: "The OGC Catalogue Services 2.0 specification (OGC 07-006r1) establishes
     a general framework for implementing catalogue services that can be applied to
     meet the needs of stakeholders in a wide variety of domains.\r\nThe ebRIM application
     profile (OGC 07-110r4) is based on the HTTP protocol binding described in Clause
@@ -83,15 +91,9 @@ abstract:
     [HMA] and related projects. Some input came from the OGC OWS9 initiative.\r\nThis
     document supersedes the former document OGC Cataloguing of ISO Metadata (CIM)
     using the ebRIM profile of CS-W, OGC 07-038r3 (Version: 0.1.12).\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: extension
-  editorialgroup:
-    committee: technical
+  flavor: ogc

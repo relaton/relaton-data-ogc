@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 11-085r1
-title:
-- content: OWS-8 Bulk Geodata Transfer Using GML Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-8 Bulk Geodata Transfer Using GML Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=46679
-  type: pdf
+id: 11085r1
 type: standard
-docid:
-- id: 11-085r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-8 Bulk Geodata Transfer Using GML Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-8 Bulk Geodata Transfer Using GML Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46679
+docidentifier:
+- content: 11-085r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-11-07'
+  at: '2011-11-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2011-11-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document describes the work done during the OWS-8 test bed investigating
+- language: en
+  script: Latn
+  content: This document describes the work done during the OWS-8 test bed investigating
     methods and apparatus for distributing individual geospatial data sets and/or
     collections of data sets in a consistent manner between machines that may or may
     not be connected via a network.  The investigation focuses on the initialization
@@ -56,14 +64,8 @@ abstract:
     a target WFS (either electronically or physically via some media) and then imported
     into the target WFS.  From that point on, the two WFS's are maintained in synchrony
     using a Geosynchronization Service (see OGC 10-069r2).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

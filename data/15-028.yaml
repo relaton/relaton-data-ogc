@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 15-028
-title:
-- content: OGC® Testbed 11 Data Broker Specifications Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed 11 Data Broker Specifications Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t11-data-broker-aviation
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=63281
-  type: pdf
+id: '15028'
 type: standard
-docid:
-- id: 15-028
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed 11 Data Broker Specifications Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed 11 Data Broker Specifications Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t11-data-broker-aviation
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=63281
+docidentifier:
+- content: 15-028
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-08-19'
+  at: '2015-08-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Daniel Balog
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2015-08-19'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document is a deliverable of the OGC Testbed 11 Interoperability initiative.
+- language: en
+  script: Latn
+  content: This document is a deliverable of the OGC Testbed 11 Interoperability initiative.
     The report’s contents cover the summary of the interoperability work regarding
     the Aviation Data Broker concept. This data broker concept enables the setup of
     cascading OGC Web Feature Server (WFS) servers to form a data source chain, in
@@ -56,14 +64,8 @@ abstract:
     of this concept and to investigate a number of specific Data Broker responsibilities
     and use cases, such as provenance and lineage, conflation, caching, scalability
     and flexible management of data sources.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

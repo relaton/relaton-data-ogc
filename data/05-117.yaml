@@ -1,61 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 05-117
-title:
-- content: Schema Maintenance and Tailoring
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Schema Maintenance and Tailoring
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=12893
-  type: pdf
+id: '05117'
 type: standard
-docid:
-- id: 05-117
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Schema Maintenance and Tailoring
+  type: title-main
+- language: en
+  script: Latn
+  content: Schema Maintenance and Tailoring
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=12893
+docidentifier:
+- content: 05-117
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2006-05-02'
+  at: '2006-05-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Clemens Portele
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2006-05-02'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Description of the schema tailoring process for the application schema
+- language: en
+  script: Latn
+  content: Description of the schema tailoring process for the application schema
     development in the decision support services thread (GeoDSS) during the OWS-3
     initiative
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

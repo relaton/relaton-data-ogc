@@ -1,57 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 22-050r1
-title:
-- content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
-    JSON Profile v1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
-    JSON Profile v1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/is/geoxacml-json/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/22-050r1/22-050r1.html
-  type: html
+id: 22050r1
 type: standard
-docid:
-- id: 22-050r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+    JSON Profile v1.0
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+    JSON Profile v1.0
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/is/geoxacml-json/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/22-050r1/22-050r1.html
+docidentifier:
+- content: 22-050r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-09-21'
+  at: '2023-09-21'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Andreas Matheus
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2023-09-21'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC Geospatial eXtensible Access Control Markup Language (GeoXACML)
+- language: en
+  script: Latn
+  content: "The OGC Geospatial eXtensible Access Control Markup Language (GeoXACML)
     3.0 JSON Profile v1.0 (GeoXACML 3.0 JSON Profile) Standard defines an extension
     to the JSON Profile of XACML 3.0 Version 1.1 for supporting GeoXACML Authorization
     Decision Requests and Authorization Decision encoded in JSON. This ensures an
@@ -65,15 +73,9 @@ abstract:
     of the GeoXACML 3.0 specific attributes SRID, Precision, Encoding, and AllowTransformation,
     this profile extends the default JSON schema definition from JSON Profile of XACML
     3.0 Version 1.1 accordingly."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

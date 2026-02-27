@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 19-032
-title:
-- content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML
-    ADE ER'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML
-    ADE ER'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/NIST-PSF-CityGMLade
-  type: src
-- content: https://docs.ogc.org/per/19-032.html
-  type: html
+id: '19032'
 type: standard
-docid:
-- id: 19-032
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML
+    ADE ER'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML
+    ADE ER'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/NIST-PSF-CityGMLade
+- type: html
+  content: https://docs.ogc.org/per/19-032.html
+docidentifier:
+- content: 19-032
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2020-07-30'
+  at: '2020-07-30'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Steven Chau & Mohsen Kalantari
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2020-07-30'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document defines an Application Domain Extension (ADE) of CityGML
+- language: en
+  script: Latn
+  content: "This document defines an Application Domain Extension (ADE) of CityGML
     for public safety use cases. The ADE has been developed as part of OGC’s Indoor
     Mapping and Modeling Pilot project sponsored by the National Institute of Standards
     and Technology (NIST), Communications Technology Laboratory (CTL), Public Safety
@@ -66,14 +74,8 @@ abstract:
     methodology to transform NAPSG symbology to data elements;\r\n\r\nA need for an
     extension of a reference to four existing CityGML classes; and\r\n\r\nThe creation
     of seven new CityGML classes that are critical for public safety use cases."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,73 +1,81 @@
 ---
-schema-version: v1.2.9
-id: 22-036r1
-title:
-- content: 'Testbed-18: 3D+ Standards Framework Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Testbed-18: 3D+ Standards Framework Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T18-D023
-  type: src
-- content: https://docs.ogc.org/per/22-036r1.html
-  type: html
+id: 22036r1
 type: standard
-docid:
-- id: 22-036r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Testbed-18: 3D+ Standards Framework Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Testbed-18: 3D+ Standards Framework Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T18-D023
+- type: html
+  content: https://docs.ogc.org/per/22-036r1.html
+docidentifier:
+- content: 22-036r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-03-09'
+  at: '2023-03-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Frieder Schmid
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Mohammad J. Tourian
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Charles Heazel
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Nico Sneeuw '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2023-03-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Currently, most OGC Standards focus on data that is observed on the ground
+- language: en
+  script: Latn
+  content: Currently, most OGC Standards focus on data that is observed on the ground
     or near the Earth’s surface. Extra-terrestrial space and the exact location of
     remote sensors has been less in focus. Current OGC Standardizations cannot be
     applied to this type of spatial data processing. This OGC Testbed 18 Engineering
@@ -76,14 +84,8 @@ abstract:
     various coordinate and time systems are presented and improvements or extensions
     to existing Standards are proposed to describe objects in orbit around any celestial
     body or interplanetary flight through our solar system.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

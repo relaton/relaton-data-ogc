@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 14-100r2
-title:
-- content: OGC® CF-netCDF 3.0 encoding using GML Coverage Application Schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® CF-netCDF 3.0 encoding using GML Coverage Application Schema
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/cf-netcdf3-encoding-gml-as/2.0.0
-  type: src
-- content: https://docs.ogc.org/is/14-100r2/14-100r2.html
-  type: html
+id: 14100r2
 type: standard
-docid:
-- id: 14-100r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® CF-netCDF 3.0 encoding using GML Coverage Application Schema
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® CF-netCDF 3.0 encoding using GML Coverage Application Schema
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/cf-netcdf3-encoding-gml-as/2.0.0
+- type: html
+  content: https://docs.ogc.org/is/14-100r2/14-100r2.html
+docidentifier:
+- content: 14-100r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-11-18'
+  at: '2015-11-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ben Domenico
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Stefano Nativi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2015-11-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC CF-netCDF data model supports multi-dimensional gridded data and
+- language: en
+  script: Latn
+  content: "The OGC CF-netCDF data model supports multi-dimensional gridded data and
     multidimensional multi-point data, representing space and time-varying phenomena.
     In particular, this extension standard is limited to multi-point, and regular
     and warped grids.\r\nThis standard specifies the CF-netCDF data model encoding
@@ -66,15 +74,9 @@ abstract:
     exchange CF-netCDF data.\r\nAs per the GML 3.3. standard, GML 3.3 imports the
     3.2 schema. The canonical location of the 3.2 all components schema document for
     3.3 is\r\nhttp://schemas.opengis.net/gml/3.2.1/gml.xsd"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

@@ -1,77 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 07-056r1
-title:
-- content: The Specification Model -- Structuring an OGC specification to encourage
-    implementation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: The Specification Model -- Structuring an OGC specification to encourage
-    implementation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=21976
-  type: pdf
+id: 07056r1
 type: standard
-docid:
-- id: 07-056r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: The Specification Model -- Structuring an OGC specification to encourage
+    implementation
+  type: title-main
+- language: en
+  script: Latn
+  content: The Specification Model -- Structuring an OGC specification to encourage
+    implementation
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=21976
+docidentifier:
+- content: 07-056r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-07-23'
+  at: '2007-07-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: John Herring
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: OAB
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Architecture WG
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2007-07-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This standard specifies some desirable characteristics of a standards
+- language: en
+  script: Latn
+  content: 'This standard specifies some desirable characteristics of a standards
     specification that will encourage implementations by minimizing difficulty and
     optimizing usability and interoperability. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

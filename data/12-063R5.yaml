@@ -1,57 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 12-063r5
-title:
-- content: Geographic information — Well known text representation of coordinate reference
-    systems
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Geographic information — Well known text representation of coordinate reference
-    systems
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/wkt-crs/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/12-063r5/12-063r5.html
-  type: html
+id: 12063r5
 type: standard
-docid:
-- id: 12-063r5
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geographic information — Well known text representation of coordinate reference
+    systems
+  type: title-main
+- language: en
+  script: Latn
+  content: Geographic information — Well known text representation of coordinate reference
+    systems
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/wkt-crs/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/12-063r5/12-063r5.html
+docidentifier:
+- content: 12-063r5
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-05-01'
+  at: '2015-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Roger Lott
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '5'
-revdate: '2015-05-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Standard provides an updated version of WKT representation of coordinate
+- language: en
+  script: Latn
+  content: "This Standard provides an updated version of WKT representation of coordinate
     reference systems that follows the provisions of ISO 19111:2007 and ISO 19111-2:2009.
     It extends the earlier WKT to allow for the description of coordinate operations.
     This International Standard defines the structure and content of well-known text
@@ -60,15 +68,9 @@ abstract:
     publication as an International Standard document. The version incorporates comments
     made during both the OGC Public Comment Period as well as the ISO ballot for DIS
     (ISO TC211 document N3750). \r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

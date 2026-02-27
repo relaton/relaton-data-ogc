@@ -1,73 +1,75 @@
 ---
-schema-version: v1.2.9
-id: 06-154
-title:
-- content: OWS 4 WFS Temporal Investigation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS 4 WFS Temporal Investigation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=19580
-  type: pdf
+id: '06154'
 type: standard
-docid:
-- id: 06-154
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS 4 WFS Temporal Investigation
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS 4 WFS Temporal Investigation
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=19580
+docidentifier:
+- content: 06-154
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-08-14'
+  at: '2007-08-14'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: David S. Burggraf
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ron Lake
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Darko Androsevic
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2007-08-14'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The objective of the proposed temporal extensions to the WFS is to enable
+- language: en
+  script: Latn
+  content: 'The objective of the proposed temporal extensions to the WFS is to enable
     temporal/geospatial queries using the GML temporal types against GML dynamic features
     employing either the snapshot or time history model (time slices).  '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

@@ -1,66 +1,68 @@
 ---
-schema-version: v1.2.9
-id: 16-031r1
-title:
-- content: Testbed-12 GeoPackage Change Request Evaluations
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 GeoPackage Change Request Evaluations
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A085
-  type: src
-- content: https://docs.ogc.org/per/16-031r1.html
-  type: html
+id: 16031r1
 type: standard
-docid:
-- id: 16-031r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 GeoPackage Change Request Evaluations
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 GeoPackage Change Request Evaluations
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A085
+- type: html
+  content: https://docs.ogc.org/per/16-031r1.html
+docidentifier:
+- content: 16-031r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-05-12'
+  at: '2017-05-12'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Yutzler
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2017-05-12'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Testbed 12 work has resulted in Change Requests (CRs) to the GeoPackage
+- language: en
+  script: Latn
+  content: Testbed 12 work has resulted in Change Requests (CRs) to the GeoPackage
     Encoding Standard. CRs have been submitted to the GeoPackage Standards Working
     Group (SWG) as GitHub issues. This engineering report (ER) summarizes the results
     of these activities.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

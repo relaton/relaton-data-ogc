@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 16-052
-title:
-- content: Testbed-12 OWS Context / Capabilities Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Testbed-12 OWS Context / Capabilities Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t12-A073
-  type: src
-- content: https://docs.ogc.org/per/16-052.html
-  type: html
+id: '16052'
 type: standard
-docid:
-- id: 16-052
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 OWS Context / Capabilities Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 OWS Context / Capabilities Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A073
+- type: html
+  content: https://docs.ogc.org/per/16-052.html
+docidentifier:
+- content: 16-052
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-05-22'
+  at: '2017-05-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Joan Masó
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-05-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The OGC service metadata document (sometimes also called capabilities
+- language: en
+  script: Latn
+  content: "The OGC service metadata document (sometimes also called capabilities
     document) is a key part in the service discovery. It describes the service and
     also the resources that the service expose. Resources are listed in the service
     metadata document inside a section named as Contents by OWS Common. There are
@@ -65,14 +73,8 @@ abstract:
     to request a subset of the resources that the service can provide access to. In
     that sense, the use of the OGC 10-032r8 OpenSearchGeo can provide the long time
     needed geospatial and temporal filter capabilities."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

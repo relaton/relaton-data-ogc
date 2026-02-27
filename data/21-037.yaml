@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 21-037
-title:
-- content: OGC Technical Paper on the Standards Landscape for Building Data
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Technical Paper on the Standards Landscape for Building Data
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/DP/NBLS
-  type: src
-- content: https://docs.ogc.org/dp/21-037.html
-  type: html
+id: '21037'
 type: standard
-docid:
-- id: 21-037
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Technical Paper on the Standards Landscape for Building Data
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Technical Paper on the Standards Landscape for Building Data
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/DP/NBLS
+- type: html
+  content: https://docs.ogc.org/dp/21-037.html
+docidentifier:
+- content: 21-037
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-07-02'
+  at: '2021-07-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Josh Lieberman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-07-02'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Data about buildings and building structures play roles at scales from
+- language: en
+  script: Latn
+  content: Data about buildings and building structures play roles at scales from
     neighborhoods to nations in creating, protecting, regulating, and understanding
     the built environment. This report examines standards which may be useful in defining
     the structure and content of building data at a national scale, a national building
@@ -62,14 +70,8 @@ abstract:
     layer definition which can be applied to a reasonably wide set of use cases. This
     definition may in turn be a standardization candidate for adoption by other national
     geographic data collections.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

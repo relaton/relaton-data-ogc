@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 05-089r1
-title:
-- content: Sensor Planning Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Sensor Planning Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=12971
-  type: pdf
+id: '05089r1'
 type: standard
-docid:
-- id: 05-089r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sensor Planning Service
+  type: title-main
+- language: en
+  script: Latn
+  content: Sensor Planning Service
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=12971
+docidentifier:
+- content: 05-089r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2005-12-01'
+  at: '2005-12-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2005-12-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Sensor Planning Service (SPS) is intended to provide a standard interface
+- language: en
+  script: Latn
+  content: "The Sensor Planning Service (SPS) is intended to provide a standard interface
     to collection assets (i.e., sensors, and other information gathering assets) and
     to the support systems that surround them. \r\nThe SPS is designed to be flexible
     enough to handle a wide variety of configurations."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

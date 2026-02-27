@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 10-090r3
-title:
-- content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=43732
-  type: pdf
+id: 10090r3
 type: standard
-docid:
-- id: 10-090r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=43732
+docidentifier:
+- content: 10-090r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-04-05'
+  at: '2011-04-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ben Domenico
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2011-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document specifies the network Common Data Form (netCDF) core standard
+- language: en
+  script: Latn
+  content: "This document specifies the network Common Data Form (netCDF) core standard
     and extension mechanisms. The OGC netCDF encoding supports electronic encoding
     of geospatial data, specifically digital geospatial information representing space
     and time-varying phenomena.\r\nNetCDF is a data model for array-oriented scientific
@@ -55,15 +63,9 @@ abstract:
     for that data model, and a machine-independent format are available. Together,
     the interfaces, libraries, and format support the crea-tion, access, and sharing
     of multi-dimensional scientific data.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

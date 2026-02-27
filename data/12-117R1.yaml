@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 12-117r1
-title:
-- content: OGC Standard for Moving Features; Requirements
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Standard for Moving Features; Requirements
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/moving-features-requirements
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=51623
-  type: pdf
+id: 12117r1
 type: standard
-docid:
-- id: 12-117r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Standard for Moving Features; Requirements
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Standard for Moving Features; Requirements
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/moving-features-requirements
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51623
+docidentifier:
+- content: 12-117r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2012-12-06'
+  at: '2012-12-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ryosuke Shibasaki
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2012-12-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Applications using moving feature data, typically on vehicles and pedestrians,
+- language: en
+  script: Latn
+  content: "Applications using moving feature data, typically on vehicles and pedestrians,
     have\r\nrecently been rapidly increasing. Innovative applications are expected
     to require the\r\noverlay and integration of moving feature data from different
     sources to create more\r\nsocial and business values. Efforts in this direction
@@ -60,14 +68,8 @@ abstract:
     or specifications on moving feature data handling.\r\nIt also summarizes the requirements
     set on the standards for moving feature data, and\r\nfinally proposes the development
     of a new OGC standard for moving features."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

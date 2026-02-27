@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 17-059
-title:
-- content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
-    (1.1.0) for OGC
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
-    (1.1.0) for OGC
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/dgiwg-sld
-  type: src
-- content: https://docs.ogc.org/dp/17-059/17-059.html
-  type: html
+id: '17059'
 type: standard
-docid:
-- id: 17-059
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
+    (1.1.0) for OGC
+  type: title-main
+- language: en
+  script: Latn
+  content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
+    (1.1.0) for OGC
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/dgiwg-sld
+- type: html
+  content: https://docs.ogc.org/dp/17-059/17-059.html
+docidentifier:
+- content: 17-059
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2017-10-30'
+  at: '2017-10-30'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Lars Schylberg
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Lubos Belka
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2017-10-30'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The DGIWG Portrayal Technical Panel (DPTP) has been investigating how
+- language: en
+  script: Latn
+  content: "The DGIWG Portrayal Technical Panel (DPTP) has been investigating how
     to standardize the portrayal of military context symbology within Web Services.
     The team sought to use version 1.1.0 of OGC Style Layer Descriptor standard and
     version 1.1.0 of Symbology Encoding (SLD and SE) standard to achieve this.\r\nThe
@@ -67,14 +75,8 @@ abstract:
     the standard. This was found not to be the current situation.\r\nThis position
     paper describes the findings and outlines recommendations for a revised future
     version of the SLD and SE standards that resolves these issues.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

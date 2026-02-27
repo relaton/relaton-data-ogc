@@ -1,63 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 17-014r8
-title:
-- content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
-    Community Standard Version 1.2
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
-    Community Standard Version 1.2
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/CS/i3s/1.2
-  type: src
-- content: https://docs.ogc.org/cs/17-014r8/17-014r8.html
-  type: html
+id: 17014r8
 type: standard
-docid:
-- id: 17-014r8
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
+    Community Standard Version 1.2
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
+    Community Standard Version 1.2
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/CS/i3s/1.2
+- type: html
+  content: https://docs.ogc.org/cs/17-014r8/17-014r8.html
+docidentifier:
+- content: 17-014r8
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-12-15'
+  at: '2021-12-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tamrat Belayneh
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '8'
-revdate: '2021-12-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Indexed 3D Scene Layer (I3S) format is an open 3D content delivery
+- language: en
+  script: Latn
+  content: "The Indexed 3D Scene Layer (I3S) format is an open 3D content delivery
     format used to rapidly stream and distribute large volumes of 3D GIS data to mobile,
     web and desktop clients. I3S content can be shared across enterprise systems using
     both physical and cloud servers.\r\n\r\nA single I3S data set, referred to as
@@ -74,14 +82,8 @@ abstract:
     I3S is designed to support 3D geospatial content and supports the requisite coordinate
     reference systems and height models in conjunction with a rich set of layer types.\r\n\r\nThe
     open community GitHub source for this Community Standard is here."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: community-standard
-  editorialgroup:
-    committee: technical
+    content: community-standard
+  flavor: ogc

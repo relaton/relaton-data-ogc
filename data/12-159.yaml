@@ -1,72 +1,74 @@
 ---
-schema-version: v1.2.9
-id: 12-159
-title:
-- content: OWS-9 CCI Conflation with Provenance Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-9 CCI Conflation with Provenance Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/ows-9-cci-conflation-provenance
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=51818
-  type: pdf
+id: '12159'
 type: standard
-docid:
-- id: 12-159
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-9 CCI Conflation with Provenance Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-9 CCI Conflation with Provenance Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/ows-9-cci-conflation-provenance
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51818
+docidentifier:
+- content: 12-159
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-02-05'
+  at: '2013-02-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Matthes Rieke
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Benjamin Pross
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2013-02-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC® Engineering Report describes the architecture of a WPS capable
+- language: en
+  script: Latn
+  content: "This OGC® Engineering Report describes the architecture of a WPS capable
     of conflating two datasets while capturing provenance information about the process.
     The report also provides information about defining and encoding conflation rules
     and about encoding provenance information. \r\nThis Engineering Report was created
     as a deliverable for the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC
     Interoperability Program.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

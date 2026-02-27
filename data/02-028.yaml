@@ -1,61 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 02-028
-title:
-- content: Sensor Collection Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Sensor Collection Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=1141
-  type: pdf
+id: '02028'
 type: standard
-docid:
-- id: 02-028
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Sensor Collection Service
+  type: title-main
+- language: en
+  script: Latn
+  content: Sensor Collection Service
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=1141
+docidentifier:
+- content: 02-028
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2002-04-19'
+  at: '2002-04-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Tom  McCarty
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2002-04-19'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The basic function of the Sensor Collection Service (SCS) is to provide
+- language: en
+  script: Latn
+  content: 'The basic function of the Sensor Collection Service (SCS) is to provide
     a web-enabled interface to a sensor, collection of sensors or sensor proxy.  Sensors
     are defined as devices that measure physical quantities. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

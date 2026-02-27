@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 07-092r3
-title:
-- content: Definition identifier URNs in OGC namespace
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Definition identifier URNs in OGC namespace
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=30575
-  type: pdf
+id: '07092r3'
 type: standard
-docid:
-- id: 07-092r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Definition identifier URNs in OGC namespace
+  type: title-main
+- language: en
+  script: Latn
+  content: Definition identifier URNs in OGC namespace
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=30575
+docidentifier:
+- content: 07-092r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-01-15'
+  at: '2009-01-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arliss Whiteside
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2009-01-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document specifies Universal Resource Names (URNs) in the “ogc” URN
+- language: en
+  script: Latn
+  content: 'This document specifies Universal Resource Names (URNs) in the “ogc” URN
     namespace to be used for identifying definitions. These definitions include definitions
     of Coordinate Reference Systems (CRSs) and related objects, as specified in OGC
     Abstract Specification Topic 2: Spatial referencing by coordinates, plus several
@@ -56,15 +64,9 @@ abstract:
     can reference definitions recorded in the EPSG database and by other authorities.
     This document also specifies URNs for some specific definitions for which OGC
     is the custodian.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

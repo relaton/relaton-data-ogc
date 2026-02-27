@@ -1,69 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 18-032r2
-title:
-- content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
-    Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D022
-  type: src
-- content: https://docs.ogc.org/per/18-032r2.html
-  type: html
+id: 18032r2
 type: standard
-docid:
-- id: 18-032r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
+    Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
+    Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D022
+- type: html
+  content: https://docs.ogc.org/per/18-032r2.html
+docidentifier:
+- content: 18-032r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-04'
+  at: '2019-02-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Johannes Echterhoff
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2019-02-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This report enhances the understanding of the relationships between application
+- language: en
+  script: Latn
+  content: This report enhances the understanding of the relationships between application
     schemas based on the Unified Modeling Language (UML) and ontologies based on the
     Web Ontology Language (OWL). The work documented in this report provides and improves
     tools and principled techniques for the development of Resource Description Framework
     (RDF) based schemas from ISO 19109-conformant application schemas.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

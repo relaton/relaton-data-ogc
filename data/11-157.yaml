@@ -1,72 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 11-157
-title:
-- content: Corrigendum 1 for OGC Web Services Common Standard v2.0.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Multilingual
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Corrigendum 1 for OGC Web Services Common Standard v2.0.0 - Multilingual
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=46435
-  type: pdf
+id: '11157'
 type: standard
-docid:
-- id: 11-157
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Corrigendum 1 for OGC Web Services Common Standard v2.0.0
+  type: title-intro
+- language: en
+  script: Latn
+  content: Multilingual
+  type: title-main
+- language: en
+  script: Latn
+  content: Corrigendum 1 for OGC Web Services Common Standard v2.0.0 - Multilingual
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=46435
+docidentifier:
+- content: 11-157
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-10-18'
+  at: '2011-10-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jim Greenwood
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2011-10-18'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document being corrected specifies many of the aspects that are,
+- language: en
+  script: Latn
+  content: "This document being corrected specifies many of the aspects that are,
     or should be, common to all or multiple OWS interface Implementation Specifications.
     The Common Implementation Specification aspects specified by this document currently
     include:\r\na) Operation request and response contents, most partial\r\nb) Parameters
     and data structures included in operation requests and responses c) XML and KVP
     encoding of operation requests and responses"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

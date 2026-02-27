@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 21-042
-title:
-- content: May 2021 OGC API Code Sprint Summary Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: May 2021 OGC API Code Sprint Summary Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/202105APISprintER
-  type: src
-- content: https://docs.ogc.org/per/21-042.html
-  type: html
+id: '21042'
 type: standard
-docid:
-- id: 21-042
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: May 2021 OGC API Code Sprint Summary Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: May 2021 OGC API Code Sprint Summary Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/202105APISprintER
+- type: html
+  content: https://docs.ogc.org/per/21-042.html
+docidentifier:
+- content: 21-042
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2021-11-29'
+  at: '2021-11-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gobe Hobona
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2021-11-29'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The subject of this Engineering Report (ER) is a code sprint that was held
+- language: en
+  script: Latn
+  content: The subject of this Engineering Report (ER) is a code sprint that was held
     from 26 to 28 May 2021 to advance the development of the OGC API - Maps draft
     standard, OGC API - Tiles draft standard, and the OGC API – Styles draft standard.
     An Application Programming Interface (API) is a standard set of documented and
@@ -55,14 +63,8 @@ abstract:
     operating system, application or service to other applications (adapted from ISO/IEC
     TR 13066-2:2016). The code sprint was hosted online. The code sprint was sponsored
     by Ordnance Survey (OS) and Natural Resources Canada (NRCan).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

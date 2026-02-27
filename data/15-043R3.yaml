@@ -1,76 +1,78 @@
 ---
-schema-version: v1.2.9
-id: 15-043r3
-title:
-- content: 'Timeseries Profile of Observations and Measurements '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Timeseries Profile of Observations and Measurements '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/timeseries-profile-om/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/15-043r3/15-043r3.html
-  type: html
+id: 15043r3
 type: standard
-docid:
-- id: 15-043r3
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Timeseries Profile of Observations and Measurements '
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Timeseries Profile of Observations and Measurements '
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/timeseries-profile-om/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/15-043r3/15-043r3.html
+docidentifier:
+- content: 15-043r3
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-09-09'
+  at: '2016-09-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: James Tomkins
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Dominic Lowe '
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2016-09-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OGC Timeseries Profile of Observations and Measurements is a conceptual
+- language: en
+  script: Latn
+  content: The OGC Timeseries Profile of Observations and Measurements is a conceptual
     model for the representation of observations data as timeseries, with the intent
     of enabling the exchange of such data sets across information systems. This standard
     does not define an encoding for the conceptual model; however there is an accompanying
     OGC Standard which defines an XML encoding (OGC TimeseriesML 1.0 - XML Encoding
     of the Timeseries Profile of Observations and Measurements). Other encodings may
     be developed in future.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

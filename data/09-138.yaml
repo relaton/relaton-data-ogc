@@ -1,63 +1,65 @@
 ---
-schema-version: v1.2.9
-id: '09-138'
-title:
-- content: Fusion Standards Study Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Fusion Standards Study Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=36177
-  type: pdf
+id: '09138'
 type: standard
-docid:
-- id: '09-138'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Fusion Standards Study Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Fusion Standards Study Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=36177
+docidentifier:
+- content: '09-138'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2010-03-21'
+  at: '2010-03-21'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: George Percivall
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2010-03-21'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This OGC Engineering Report (ER) provides discussions and recommendations
+- language: en
+  script: Latn
+  content: 'This OGC Engineering Report (ER) provides discussions and recommendations
     for information fusion, with a focus on geospatial information. In this ER, fusion
     is discussed in three categories: sensor fusion, object/feature fusion, and decision
     fusion. Recommendations in this ER will be considered in the planning of future
     activities including the OWS-7 Testbed.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

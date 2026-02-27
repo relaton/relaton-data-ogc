@@ -1,61 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 13-039
-title:
-- content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best
-    Practice'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best
-    Practice'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/BP/os-for-eo/1.0
-  type: src
-- content: https://docs.ogc.org/bp/13-039/13-039.html
-  type: html
+id: '13039'
 type: standard
-docid:
-- id: 13-039
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best
+    Practice'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best
+    Practice'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/BP/os-for-eo/1.0
+- type: html
+  content: https://docs.ogc.org/bp/13-039/13-039.html
+docidentifier:
+- content: 13-039
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-12-29'
+  at: '2014-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Nicolas Fanjeau
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Sebastian Ulrich
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2014-12-29'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document provides a specification of an OpenSearch extension for
+- language: en
+  script: Latn
+  content: "This document provides a specification of an OpenSearch extension for
     Earth Observation Satellites Tasking.\r\n\r\nThis OGC Best Practice is intended
     to provide a very simple way to task Earth Observation (EO) satellites sensors,
     to allow simple syndication between, and to provide a basic federated query of
@@ -66,15 +74,9 @@ abstract:
     (LTDP) program.\r\n\r\nThe document was initially produced during the ESA HMA
     (Heterogeneous Missions Accessibility) initiative (see ‘Normative References’
     section) related projects."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

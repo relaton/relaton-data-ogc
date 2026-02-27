@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 18-025
-title:
-- content: 'OGC Testbed-14: CityGML and AR Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: CityGML and AR Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D028
-  type: src
-- content: https://docs.ogc.org/per/18-025.html
-  type: html
+id: '18025'
 type: standard
-docid:
-- id: 18-025
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: CityGML and AR Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: CityGML and AR Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D028
+- type: html
+  content: https://docs.ogc.org/per/18-025.html
+docidentifier:
+- content: 18-025
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-03-07'
+  at: '2019-03-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jérôme Jacovella-St-Louis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-03-07'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Testbed-14 Engineering Report (ER) describes the results of the
+- language: en
+  script: Latn
+  content: "This OGC Testbed-14 Engineering Report (ER) describes the results of the
     Augmented Reality (AR) work performed in the Testbed-14 CityGML and Augmented
     Reality work package which was part of the Next Generation Services thread.\r\n\r\nBy
     integrating information available from urban models within a view of the real
@@ -81,14 +89,8 @@ abstract:
     shown. In order to serve them to the clients in the supported transmission formats,
     geospatial data sets of various types and in various formats were successfully
     imported for consumption by the services."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

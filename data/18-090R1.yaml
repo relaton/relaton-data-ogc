@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-090r1
-title:
-- content: 'OGC Testbed-14: Federated Clouds Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: Federated Clouds Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D023
-  type: src
-- content: https://docs.ogc.org/per/18-090r1.html
-  type: html
+id: 18090r1
 type: standard
-docid:
-- id: 18-090r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Federated Clouds Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: Federated Clouds Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D023
+- type: html
+  content: https://docs.ogc.org/per/18-090r1.html
+docidentifier:
+- content: 18-090r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-03-05'
+  at: '2019-03-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Dr. Craig A. Lee
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-03-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The geospatial community has had an on-going challenge with being able
+- language: en
+  script: Latn
+  content: "The geospatial community has had an on-going challenge with being able
     to share data and compute resources in dynamic, collaborative environments that
     span different administrative domains. For these types of requirements, the concept
     of federation has been developed. The near-term goal of the Federated Cloud task
@@ -67,14 +75,8 @@ abstract:
     and Electronics Engineers (IEEE) Joint Working Group on Federated Cloud, to promote
     the further development and adoption of federated capabilities, and ultimately
     international standards.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

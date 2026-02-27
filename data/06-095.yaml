@@ -1,71 +1,73 @@
 ---
-schema-version: v1.2.9
-id: 06-095
-title:
-- content: Web Notification Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Web Notification Service
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=18776
-  type: pdf
+id: '06095'
 type: standard
-docid:
-- id: 06-095
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Web Notification Service
+  type: title-main
+- language: en
+  script: Latn
+  content: Web Notification Service
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=18776
+docidentifier:
+- content: 06-095
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-01-25'
+  at: '2007-01-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Johannes Echterhoff
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2007-01-25'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: " A service by which a client may conduct asynchronous dialogues (message
+- language: en
+  script: Latn
+  content: " A service by which a client may conduct asynchronous dialogues (message
     interchanges) with one or more other services. This service is useful when many
     collaborating services are required to satisfy a client request, and/or when significant
     delays are involved is satisfying the request. This service was defined under
     OWS 1.2 in support of SPS operations. WNS has broad applicability in many such
     multi-service applications. It is now used in several SWE scenarios."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

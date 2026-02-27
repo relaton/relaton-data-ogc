@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 17-042
-title:
-- content: 'OGC Testbed-13: CDB Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-13: CDB Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t13-NG001
-  type: src
-- content: https://docs.ogc.org/per/17-042.html
-  type: html
+id: '17042'
 type: standard
-docid:
-- id: 17-042
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: CDB Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-13: CDB Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t13-NG001
+- type: html
+  content: https://docs.ogc.org/per/17-042.html
+docidentifier:
+- content: 17-042
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-01-11'
+  at: '2018-01-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sara Saeedi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2018-01-11'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report (ER) summarizes the CDB sub-thread work in Testbed
+- language: en
+  script: Latn
+  content: "This Engineering Report (ER) summarizes the CDB sub-thread work in Testbed
     13. The document is structured in three phases and includes a feasibility study;
     the implementation of data models and schemas mapping that are based on the feasibility
     study results; and a set of OGC web services that implement the CDB in the form
@@ -62,14 +70,8 @@ abstract:
     requirements and constraints for extending the CDB feature data dictionary (FDD)
     and attribute schemas;\r\n\r\nThe development and prototyping of the WFS and WCS
     access to the CDB datastore for a NAS based urban military scenario."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

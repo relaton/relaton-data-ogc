@@ -1,66 +1,68 @@
 ---
-schema-version: v1.2.9
-id: '09-075r1'
-title:
-- content: OWS-6 3D Flythrough (W3DS) Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-6 3D Flythrough (W3DS) Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=33949
-  type: pdf
+id: '09075r1'
 type: standard
-docid:
-- id: '09-075r1'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-6 3D Flythrough (W3DS) Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-6 3D Flythrough (W3DS) Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=33949
+docidentifier:
+- content: '09-075r1'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-08-05'
+  at: '2009-08-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Arne Schilling
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2009-08-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document describes the 3D portrayal server components which were
+- language: en
+  script: Latn
+  content: 'This document describes the 3D portrayal server components which were
     used in the OGC OWS-6 Decision Support Systems (DSS) thread. The objective pf
     this activity was to efficiently stream and display GML 3 content in internet
     or wireless networks with limited bandwidth, especially focusing on the CityGML
     application profile. The server for delivering landscape and city models is implemented
     as Web 3D Service (W3DS) that is designed as portrayal service. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

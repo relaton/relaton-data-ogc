@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 18-086r1
-title:
-- content: 'OGC Vector Tiles Pilot: Summary Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Vector Tiles Pilot: Summary Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/vtp-summary
-  type: src
-- content: https://docs.ogc.org/per/18-086r1.html
-  type: html
+id: 18086r1
 type: standard
-docid:
-- id: 18-086r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Vector Tiles Pilot: Summary Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Vector Tiles Pilot: Summary Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/vtp-summary
+- type: html
+  content: https://docs.ogc.org/per/18-086r1.html
+docidentifier:
+- content: 18-086r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-15'
+  at: '2019-02-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sam Meek
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2019-02-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Engineering Report (ER) provides the summary findings resulting
+- language: en
+  script: Latn
+  content: "This OGC Engineering Report (ER) provides the summary findings resulting
     from completion of the OGC Vector Tiles Pilot (VTP or Pilot). The requirements
     for the Pilot were generated from a combination of sponsor input and analysis
     of typical use cases for tiling of vector feature data across the OGC Standards
@@ -92,14 +100,8 @@ abstract:
     of vector tiles. This engineering report therefore interchangeably uses both tiled
     feature data and vector tiles to refer to the approach of tiling vector feature
     data.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

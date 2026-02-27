@@ -1,77 +1,79 @@
 ---
-schema-version: v1.2.9
-id: 06-155
-title:
-- content: OWS-4 CSW ebRIM Modelling Guidelines IPR
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-4 CSW ebRIM Modelling Guidelines IPR
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=20430
-  type: pdf
+id: '06155'
 type: standard
-docid:
-- id: 06-155
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-4 CSW ebRIM Modelling Guidelines IPR
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-4 CSW ebRIM Modelling Guidelines IPR
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=20430
+docidentifier:
+- content: 06-155
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-06-06'
+  at: '2007-06-06'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Tim Wilson
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Renato Primavera
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Panagiotis (Peter) A. Vretanos
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2007-06-06'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OWS-4 CSW ebRIM Modelling Guidelines Interoperability Program Report
+- language: en
+  script: Latn
+  content: The OWS-4 CSW ebRIM Modelling Guidelines Interoperability Program Report
     (IPR) provides guidance for creating a standard methodology for mapping geospatial
     domain information models to ebRIM [www.oasis-open.org/committees/regrep/documents/2.0/specs/ebrim.pdf].
     It also presents the results of mapping specific Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
     and Feature Catalog domain models to ebRIM for use with OpenGIS Catalog Service
     Standard [http://www.opengeospatial.org/standards/cat] implementations in the
     OWS-4 Initiative [http://www.opengeospatial.org/projects/initiatives/ows-4].
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

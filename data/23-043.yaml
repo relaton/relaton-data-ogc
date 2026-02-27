@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 23-043
-title:
-- content: OGC Testbed 19 Analysis Ready Data Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Testbed 19 Analysis Ready Data Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T19-D051
-  type: src
-- content: https://docs.ogc.org/per/23-043.html
-  type: html
+id: '23043'
 type: standard
-docid:
-- id: 23-043
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed 19 Analysis Ready Data Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed 19 Analysis Ready Data Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T19-D051
+- type: html
+  content: https://docs.ogc.org/per/23-043.html
+docidentifier:
+- content: 23-043
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-07-05'
+  at: '2024-07-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Liping Di
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: David J. Meyer,r Eugene Yu
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2024-07-05'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Implementations of the Analysis Ready Data (ARD) concept are consistent
+- language: en
+  script: Latn
+  content: "Implementations of the Analysis Ready Data (ARD) concept are consistent
     with the FAIR principles of finding, accessing, interoperating, and reusing physical,
     social, and applied science data with ease. The goal of this Testbed 19 OGC Engineering
     Report (ER) is to advance the provision of geospatial information by creating,
@@ -92,14 +100,8 @@ abstract:
     Additionally, areas such as uniform evaluation and compliance certification could
     be further investigated to ensure consistency in data readiness across various
     hierarchies and application domains."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

@@ -1,75 +1,77 @@
 ---
-schema-version: v1.2.9
-id: 12-162r1
-title:
-- content: OWS-9 WCS Conformance Testing Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-9 WCS Conformance Testing Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/per/ows9_wcs_conformance_testing
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=51911
-  type: pdf
+id: 12162r1
 type: standard
-docid:
-- id: 12-162r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-9 WCS Conformance Testing Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-9 WCS Conformance Testing Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/per/ows9_wcs_conformance_testing
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=51911
+docidentifier:
+- content: 12-162r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2013-06-18'
+  at: '2013-06-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jinsongdi Yu
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2013-06-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Engineering Report was prepared as a deliverable for the OGC Web
+- language: en
+  script: Latn
+  content: "This Engineering Report was prepared as a deliverable for the OGC Web
     Services, Phase\r\n9 (OWS-9) initiative of the OGC Interoperability Program. The
     document presents the\r\nwork completed with respect to the Conformance & Interoperability
     Testing &\r\nEvaluation sub-thread within OWS-9.\r\nThis Engineering Report describes
     and evaluates the specification of WCS 2.0 core\r\ncorrigenda and extensions’
     Abstract Test Suite (ATS) and the implementation of ETS for\r\nuse within an OGC
     SOA processing chain."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

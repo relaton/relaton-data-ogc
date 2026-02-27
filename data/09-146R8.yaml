@@ -1,67 +1,75 @@
 ---
-schema-version: v1.2.9
-id: '09-146r8'
-title:
-- content: OGC Coverage Implementation Schema with Corrigendum
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Coverage Implementation Schema with Corrigendum
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/cis/1.1.1
-  type: src
-- content: https://docs.ogc.org/is/09-146r8/09-146r8.html
-  type: html
+id: '09146r8'
 type: standard
-docid:
-- id: '09-146r8'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Coverage Implementation Schema with Corrigendum
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Coverage Implementation Schema with Corrigendum
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/cis/1.1.1
+- type: html
+  content: https://docs.ogc.org/is/09-146r8/09-146r8.html
+docidentifier:
+- content: '09-146r8'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-10-28'
+  at: '2019-10-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Eric Hirschorn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Joan Masó
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '8'
-revdate: '2019-10-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Coverages represent homogeneous collections of values located in space/time,
+- language: en
+  script: Latn
+  content: "Coverages represent homogeneous collections of values located in space/time,
     such as spatio-temporal sensor, image, simulation, and statistics data. Common
     examples include 1-D timeseries, 2-D imagery, 3-D x/y/t image timeseries and x/y/z
     geophysical voxel models, as well as 4-D x/y/z/t climate and ocean data. Generally,
@@ -81,15 +89,9 @@ abstract:
     [8]. The coverage structure can serve a wide range of coverage application domains,
     thereby contributing to harmon­ization and interoperability between and across
     these domains."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

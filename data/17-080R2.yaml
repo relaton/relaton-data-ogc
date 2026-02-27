@@ -1,68 +1,70 @@
 ---
-schema-version: v1.2.9
-id: 17-080r2
-title:
-- content: CDB Multi-Spectral Imagery Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: CDB Multi-Spectral Imagery Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/cdb-multispectral-extension/1.0.0
-  type: src
-- content: https://docs.ogc.org/is/17-080r2/17-080r2.html
-  type: html
+id: 17080r2
 type: standard
-docid:
-- id: 17-080r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: CDB Multi-Spectral Imagery Extension
+  type: title-main
+- language: en
+  script: Latn
+  content: CDB Multi-Spectral Imagery Extension
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/cdb-multispectral-extension/1.0.0
+- type: html
+  content: https://docs.ogc.org/is/17-080r2/17-080r2.html
+docidentifier:
+- content: 17-080r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-09-20'
+  at: '2018-09-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ryan Franz
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2018-09-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The “Multi-Spectral Imagery” extension defines how to encode and store
+- language: en
+  script: Latn
+  content: 'The “Multi-Spectral Imagery” extension defines how to encode and store
     reflected electromagnetic radiation from the infrared wavelengths into a CDB.  The
     portion of the spectrum targeted is between the visible spectrum (current imagery
     and texture in CDB), and longer wavelength infrared that is primarily emissive
     and can be simulated based on the material temperature. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

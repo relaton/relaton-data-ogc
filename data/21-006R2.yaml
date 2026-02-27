@@ -1,85 +1,93 @@
 ---
-schema-version: v1.2.9
-id: 21-006r2
-title:
-- content: 'OGC City Geography Markup Language (CityGML) Part 2: GML Encoding Standard'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC City Geography Markup Language (CityGML) Part 2: GML Encoding Standard'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/CityGML-2/3.0.0
-  type: src
-- content: https://docs.ogc.org/is/21-006r2/21-006r2.html
-  type: html
+id: 21006r2
 type: standard
-docid:
-- id: 21-006r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC City Geography Markup Language (CityGML) Part 2: GML Encoding Standard'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC City Geography Markup Language (CityGML) Part 2: GML Encoding Standard'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/CityGML-2/3.0.0
+- type: html
+  content: https://docs.ogc.org/is/21-006r2/21-006r2.html
+docidentifier:
+- content: 21-006r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2023-06-20'
+  at: '2023-06-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Tatjana Kutzner
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Carl Stephen Smyth
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Claus Nagel
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Volker Coors
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Diego Vinasco-Alvarez
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Nobuhiro Ishi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2023-06-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This Standard documents the OGC GML Implementation Specification (IS)
+- language: en
+  script: Latn
+  content: "This Standard documents the OGC GML Implementation Specification (IS)
     for the CityGML 3.0 Conceptual Model. The CityGML 3.0 conceptual model is a Platform
     Independent Model (PIM). It defines concepts in a manner which is independent
     of any implementing technology. As such, the CityGML Conceptual Model cannot be
@@ -90,15 +98,9 @@ abstract:
     standard defines the PSMs and schemas for the CityGML 3.0 Implementation Specification
     (IS) for Geography Markup Language (GML) implemenations. The GML schemas are explained
     in an overview and design decisions that have been made are documented as well.\r\n\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

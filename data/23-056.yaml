@@ -1,59 +1,67 @@
 ---
-schema-version: v1.2.9
-id: 23-056
-title:
-- content: Mobility Data Science Discussion Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Mobility Data Science Discussion Paper
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/dp/mobility-data-science
-  type: src
-- content: https://docs.ogc.org/dp/23-056.html
-  type: html
+id: '23056'
 type: standard
-docid:
-- id: 23-056
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Mobility Data Science Discussion Paper
+  type: title-main
+- language: en
+  script: Latn
+  content: Mobility Data Science Discussion Paper
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/dp/mobility-data-science
+- type: html
+  content: https://docs.ogc.org/dp/23-056.html
+docidentifier:
+- content: 23-056
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-01-29'
+  at: '2024-01-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Song WU
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Mahmoud SAKR
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2024-01-29'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Almost every activity in our modern life leaves a digital trace, typically
+- language: en
+  script: Latn
+  content: Almost every activity in our modern life leaves a digital trace, typically
     including location and time. Either captured by a sensor, manually input, or extracted
     from a social media post, the increase in the volume, variety, and velocity of
     spatiotemporal data is unprecedented. The ability to manage and analyze this data
@@ -65,14 +73,8 @@ abstract:
     is becoming more and more easy to track moving objects. The Mobility Data Science
     Summit was an opportunity to discuss the challenges of managing this data and
     making sense of it, with a focus on the tooling and standardization requirements.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

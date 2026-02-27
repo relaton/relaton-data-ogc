@@ -1,60 +1,62 @@
 ---
-schema-version: v1.2.9
-id: 01-035
-title:
-- content: Geoparser
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Geoparser
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=1040
-  type: pdf
+id: '01035'
 type: standard
-docid:
-- id: 01-035
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Geoparser
+  type: title-main
+- language: en
+  script: Latn
+  content: Geoparser
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=1040
+docidentifier:
+- content: 01-035
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2001-03-27'
+  at: '2001-03-27'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Jeff Lansing
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2001-03-27'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "*RETIRED* Geoparsing refers to the capability to process a textual document
+- language: en
+  script: Latn
+  content: "*RETIRED* Geoparsing refers to the capability to process a textual document
     and identify key words and phrases that have a spatial context."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

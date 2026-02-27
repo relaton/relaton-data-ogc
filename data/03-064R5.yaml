@@ -1,67 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 03-064r5
-title:
-- content: GO-1 Application Objects
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: GO-1 Application Objects
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=5936
-  type: pdf
+id: 03064r5
 type: standard
-docid:
-- id: 03-064r5
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: GO-1 Application Objects
+  type: title-main
+- language: en
+  script: Latn
+  content: GO-1 Application Objects
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=5936
+docidentifier:
+- content: 03-064r5
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2004-06-25'
+  at: '2004-06-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Eric Bertel
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '5'
-revdate: '2004-06-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The GO-1 Application Objects specification defines a set of core packages
+- language: en
+  script: Latn
+  content: The GO-1 Application Objects specification defines a set of core packages
     that support a small set of Geometries, a basic set of renderable Graphics that
     correspond to those Geometries, 2D device abstractions (displays, mouse, keyboard,
     etc.), and supporting classes. Implementation of these APIs will support the needs
     of many users of geospatial and graphic information. These APIs support the rendering
     of geospatial datasets, provide fine-grained symbolization of geometries, and
     support dynamic, event and user driven animation of geo-registered graphics.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: discussion-paper
-  editorialgroup:
-    committee: technical
+    content: discussion-paper
+  flavor: ogc

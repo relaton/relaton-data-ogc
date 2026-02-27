@@ -1,70 +1,72 @@
 ---
-schema-version: v1.2.9
-id: 13-042
-title:
-- content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
-    Products
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
-    Products
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/BP/roseo/1.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=55209
-  type: pdf
+id: '13042'
 type: standard
-docid:
-- id: 13-042
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
+    Products
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
+    Products
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/BP/roseo/1.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=55209
+docidentifier:
+- content: 13-042
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-04-28'
+  at: '2014-04-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Daniele Marchionni
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2014-04-28'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This OGC Best Practices document specifies the interfaces, bindings, requirements,
+- language: en
+  script: Latn
+  content: "This OGC Best Practices document specifies the interfaces, bindings, requirements,
     conformance classes that enable complete workflows for ordering Earth Observation
     (EO) data products. In fact it provides the interfaces for supporting the following
     EO Product ordering scenarios:\r\n•\tOrdering products from EO Catalogues\r\n•\tSubscribing
     to automatic delivery of EO products\r\n•\tBulk EO Product orders\r\nThe EO products
     orders can be delivered on file via different online protocols (e.g. ftp, sftp,
     ftps, etc.).\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

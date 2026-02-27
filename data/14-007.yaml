@@ -1,67 +1,69 @@
 ---
-schema-version: v1.2.9
-id: 14-007
-title:
-- content: OGC® Testbed 10 Report on Aviation Binding AIXM to Development Tools
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Testbed 10 Report on Aviation Binding AIXM to Development Tools
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/testbed10/aviation-binding-aixm-tools
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=58931
-  type: pdf
+id: '14007'
 type: standard
-docid:
-- id: 14-007
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Testbed 10 Report on Aviation Binding AIXM to Development Tools
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Testbed 10 Report on Aviation Binding AIXM to Development Tools
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/testbed10/aviation-binding-aixm-tools
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=58931
+docidentifier:
+- content: 14-007
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-07-15'
+  at: '2014-07-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Matthes Rieke
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2014-07-15'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). Its
+- language: en
+  script: Latn
+  content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). Its
     contents cover the summary of the work carried out regarding the creation and
     evaluation of generated data bindings for the Aeronautical Information Exchange
     Model (AIXM) for established programming languages.\r\nSuggested additions, changes,
     and comments on this draft report are welcome and encouraged. Such suggestions
     may be submitted by email message or by making suggested changes in an edited
     copy of this document.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

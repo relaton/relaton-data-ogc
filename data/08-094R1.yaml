@@ -1,65 +1,67 @@
 ---
-schema-version: v1.2.9
-id: '08-094r1'
-title:
-- content: OGC® SWE Common Data Model Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® SWE Common Data Model Encoding Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=41157
-  type: pdf
+id: '08094r1'
 type: standard
-docid:
-- id: '08-094r1'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® SWE Common Data Model Encoding Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® SWE Common Data Model Encoding Standard
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=41157
+docidentifier:
+- content: '08-094r1'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-01-04'
+  at: '2011-01-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Alexandre Robin
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2011-01-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard defines low level data models for exchanging sensor related
+- language: en
+  script: Latn
+  content: This standard defines low level data models for exchanging sensor related
     data between nodes of the OGC® Sensor Web Enablement (SWE) framework. These models
     allow applications and/or servers to structure, encode and transmit sensor datasets
     in a self describing and semantically enabled way.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

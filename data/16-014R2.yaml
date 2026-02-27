@@ -1,63 +1,71 @@
 ---
-schema-version: v1.2.9
-id: 16-014r2
-title:
-- content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
-    Architecture Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
-    Architecture Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/imis_iot
-  type: src
-- content: https://docs.ogc.org/per/16-014r2.html
-  type: html
+id: 16014r2
 type: standard
-docid:
-- id: 16-014r2
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
+    Architecture Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
+    Architecture Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/imis_iot
+- type: html
+  content: https://docs.ogc.org/per/16-014r2.html
+docidentifier:
+- content: 16-014r2
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-04-26'
+  at: '2018-04-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Greg Schumann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Josh Lieberman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2018-04-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "The Incident Management Information Sharing (IMIS) Internet of Things
+- language: en
+  script: Latn
+  content: "The Incident Management Information Sharing (IMIS) Internet of Things
     (IoT) Pilot established the following objectives.\r\n•\tApply Open Geospatial
     Consortium (OGC) principles and practices for collaborative development to existing
     standards and technology to prototype an IoT approach to sensor use for incident
@@ -68,14 +76,8 @@ abstract:
     for future IMIS sensor and observation interoperability. \r\n•\tPrototype capabilities
     documented in engineering reports and demonstrated in a realistic incident management
     scenario. \r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

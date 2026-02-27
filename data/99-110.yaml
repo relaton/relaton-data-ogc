@@ -1,67 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 99-110
-title:
-- content: Topic 10
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: Feature Collections
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: Topic 10 - Feature Collections
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=897
-  type: pdf
+id: '99110'
 type: standard
-docid:
-- id: 99-110
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Topic 10
+  type: title-intro
+- language: en
+  script: Latn
+  content: Feature Collections
+  type: title-main
+- language: en
+  script: Latn
+  content: Topic 10 - Feature Collections
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=897
+docidentifier:
+- content: 99-110
   type: OGC
   primary: true
 date:
 - type: published
-  value: '1999-04-07'
+  at: '1999-04-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Cliff Kottman
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '1999-04-07'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: An OpenGIS Feature Collection is an abstract object consisting of Feature
+- language: en
+  script: Latn
+  content: An OpenGIS Feature Collection is an abstract object consisting of Feature
     Instances, their Feature Schema, and Project Schema.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: abstract-specification-topic
-  editorialgroup:
-    committee: technical
+    content: abstract-specification-topic
+  flavor: ogc

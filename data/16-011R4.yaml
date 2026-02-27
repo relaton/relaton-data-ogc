@@ -1,55 +1,63 @@
 ---
-schema-version: v1.2.9
-id: 16-011r4
-title:
-- content: 'Volume 8: CDB Spatial and Coordinate Reference Systems Guidance'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Volume 8: CDB Spatial and Coordinate Reference Systems Guidance'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/BP/CDB-SRF/1.1
-  type: src
-- content: https://portal.ogc.org/files/16-011r4
-  type: pdf
+id: 16011r4
 type: standard
-docid:
-- id: 16-011r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Volume 8: CDB Spatial and Coordinate Reference Systems Guidance'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Volume 8: CDB Spatial and Coordinate Reference Systems Guidance'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/BP/CDB-SRF/1.1
+- type: pdf
+  content: https://portal.ogc.org/files/16-011r4
+docidentifier:
+- content: 16-011r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2018-12-19'
+  at: '2018-12-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Carl Reed
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2018-12-19'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Volume 8 of the CDB standard defines the conceptual model and the methodologies
+- language: en
+  script: Latn
+  content: "Volume 8 of the CDB standard defines the conceptual model and the methodologies
     that allow the description, and transformation or conversion, of geometric properties
     within a set of spatial reference frames supported by the CDB standard. The CDB
     Spatial Reference Model (SRM) supports an unambiguous specification of the positions,
@@ -58,15 +66,9 @@ abstract:
     among different spatial reference frames. \r\nIn previous versions of the CDB
     standard, this CDB volume was Appendix K in CDB Version 3.2 as submitted to the
     OGC.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

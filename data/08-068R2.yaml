@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: '08-068r2'
-title:
-- content: OpenGIS Web Coverage Processing Service (WCPS) Language Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OpenGIS Web Coverage Processing Service (WCPS) Language Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=32319
-  type: pdf
+id: '08068r2'
 type: standard
-docid:
-- id: '08-068r2'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenGIS Web Coverage Processing Service (WCPS) Language Interface Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OpenGIS Web Coverage Processing Service (WCPS) Language Interface Standard
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=32319
+docidentifier:
+- content: '08-068r2'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-03-25'
+  at: '2009-03-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2009-03-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The OGC® Web Coverage Processing Service (WCPS) defines a protocol-independent
+- language: en
+  script: Latn
+  content: The OGC® Web Coverage Processing Service (WCPS) defines a protocol-independent
     language for the extraction, processing, and analysis of multi-dimensional coverages
     representing sensor, image, or statistics data.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

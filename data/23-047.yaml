@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 23-047
-title:
-- content: OGC Testbed-19 GeoDataCubes Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Testbed-19 GeoDataCubes Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/T19-D011
-  type: src
-- content: https://docs.ogc.org/per/23-047.html
-  type: html
+id: '23047'
 type: standard
-docid:
-- id: 23-047
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed-19 GeoDataCubes Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed-19 GeoDataCubes Engineering Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T19-D011
+- type: html
+  content: https://docs.ogc.org/per/23-047.html
+docidentifier:
+- content: 23-047
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2024-07-22'
+  at: '2024-07-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Alexander Jacob
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2024-07-22'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "OGC Testbed-19 has continued and furthered an ongoing discussion about
+- language: en
+  script: Latn
+  content: "OGC Testbed-19 has continued and furthered an ongoing discussion about
     how to interact with GeoDataCubes (GDC) in the most interoperable way (see Chapter
     1 for more Introduction). Testbed 19 participants produced a draft OGC GDC API
     standard that incorporates the most relevant developments in the field in and
@@ -84,14 +92,8 @@ abstract:
     discussion is also needed on the pros and cons of including authentication in
     the draft standard. More details about lessons learned and suggestions can be
     found in Chapters 7 and 8 of this ER."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

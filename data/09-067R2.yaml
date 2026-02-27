@@ -1,83 +1,85 @@
 ---
-schema-version: v1.2.9
-id: '09-067r2'
-title:
-- content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=35334
-  type: pdf
+id: '09067r2'
 type: standard
-docid:
-- id: '09-067r2'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
+  type: title-main
+- language: en
+  script: Latn
+  content: OWS-6 Outdoor and Indoor 3D Routing Services Engineering Report
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=35334
+docidentifier:
+- content: '09-067r2'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2009-10-09'
+  at: '2009-10-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Akiko Sato
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Nobuhiro Ishimaru
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Guo Tao
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Masaaki Tanizaki
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '2'
-revdate: '2009-10-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document described the Outdoor and Indoor 3D Routing and Services
+- language: en
+  script: Latn
+  content: 'This document described the Outdoor and Indoor 3D Routing and Services
     which are used in the OGC OWS-6 Decision Support Systems (DSS) thread. The objective
     is to enhance a network topology for the current CityGML specification based on
     the knowledge acquired through the development and experimental evaluation of
     this project. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

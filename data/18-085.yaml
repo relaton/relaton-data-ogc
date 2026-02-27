@@ -1,53 +1,61 @@
 ---
-schema-version: v1.2.9
-id: 18-085
-title:
-- content: 'OGC Testbed-14: BPMN Workflow Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC Testbed-14: BPMN Workflow Engineering Report'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/t14-D026
-  type: src
-- content: https://docs.ogc.org/per/18-085.html
-  type: html
+id: '18085'
 type: standard
-docid:
-- id: 18-085
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: BPMN Workflow Engineering Report'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Testbed-14: BPMN Workflow Engineering Report'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t14-D026
+- type: html
+  content: https://docs.ogc.org/per/18-085.html
+docidentifier:
+- content: 18-085
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2019-02-11'
+  at: '2019-02-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Sam Meek
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2019-02-11'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Engineering Report (ER) presents the results of the D146 Business
+- language: en
+  script: Latn
+  content: This Engineering Report (ER) presents the results of the D146 Business
     Process Modeling Notation (BPMN) Engine work item and provides a study covering
     technologies including Docker, Kubernetes and Cloud Foundry for Developer Operations
     (DevOps) processes and deployment orchestration. The document also provides the
@@ -57,14 +65,8 @@ abstract:
     which is a bespoke implementation of some of the best practices. Work in future
     testbeds on workflows should include a compelling use case to demonstrate the
     power of service orchestration.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

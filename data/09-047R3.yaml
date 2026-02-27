@@ -1,71 +1,70 @@
 ---
-schema-version: v1.2.9
-id: '09-047r3'
-title:
-- content: OGC-NA Name type specification
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: documents
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC-NA Name type specification - documents
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/POL-NTS/DOC/1.2
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=41774
-  type: pdf
+id: '09047r3'
 type: standard
-docid:
-- id: '09-047r3'
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC-NA Name type specification
+  type: title-intro
+- language: en
+  script: Latn
+  content: documents
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC-NA Name type specification - documents
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/POL-NTS/DOC/1.2
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=41774
+docidentifier:
+- content: '09-047r3'
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2011-03-01'
+  at: '2011-03-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Simon Cox
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '3'
-revdate: '2011-03-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document specifies a rule for constructing OGC names that may be used
+- language: en
+  script: Latn
+  content: This document specifies a rule for constructing OGC names that may be used
     for identifying documents and elements within a document.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

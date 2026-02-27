@@ -1,85 +1,87 @@
 ---
-schema-version: v1.2.9
-id: 25-017
-title:
-- content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial
-    Ecosystem'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial
-    Ecosystem'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://docs.ogc.org/techpaper/25-017.pdf
-  type: src
-- content: https://docs.ogc.org/techpaper/25-017.pdf
-  type: pdf
+id: '25017'
 type: standard
-docid:
-- id: 25-017
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial
+    Ecosystem'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial
+    Ecosystem'
+  type: main
+source:
+- type: src
+  content: https://docs.ogc.org/techpaper/25-017.pdf
+- type: pdf
+  content: https://docs.ogc.org/techpaper/25-017.pdf
+docidentifier:
+- content: 25-017
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2025-06-04'
+  at: '2025-06-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: 'Mohammed Yahya AlSayel '
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Ingo Simonis '
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: 'Zaffar Sadiq Mohamed-Ghouse '
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Asim AlGhamdi
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2025-06-04'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "Around the world, decisions with far-reaching impact—on climate, infrastructure,
+- language: en
+  script: Latn
+  content: "Around the world, decisions with far-reaching impact—on climate, infrastructure,
     finance,\r\nand national security—depend on timely, trusted geospatial information.
     For decades,\r\nSpatial Data Infrastructures (SDIs) have played a foundational
     role in enabling governments\r\nand industries to manage, share, and apply this
     data effectively."
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: other
-  editorialgroup:
-    committee: technical
+    content: other
+  flavor: ogc

@@ -1,68 +1,70 @@
 ---
-schema-version: v1.2.9
-id: 12-132r4
-title:
-- content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/arml/2.0.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=62168
-  type: pdf
+id: 12132r4
 type: standard
-docid:
-- id: 12-132r4
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Augmented Reality Markup Language 2.0 (ARML 2.0)
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/arml/2.0.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=62168
+docidentifier:
+- content: 12-132r4
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2015-02-24'
+  at: '2015-02-24'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Martin Lechner
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '4'
-revdate: '2015-02-24'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This OGC® Standard defines the Augmented Reality Markup Language 2.0 (ARML
+- language: en
+  script: Latn
+  content: This OGC® Standard defines the Augmented Reality Markup Language 2.0 (ARML
     2.0). ARML 2.0 allows users to describe virtual objects in an Augmented Reality
     (AR) scene with their appearances and their anchors (a broader concept of a location)
     related to the real world. Additionally, ARML 2.0 defines ECMAScript bindings
     to dynamically modify the AR scene based on user behavior and user input.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: implementation
-  editorialgroup:
-    committee: technical
+  flavor: ogc

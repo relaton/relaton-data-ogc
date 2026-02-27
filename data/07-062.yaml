@@ -1,64 +1,66 @@
 ---
-schema-version: v1.2.9
-id: 07-062
-title:
-- content: City Geography Markup Language
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: City Geography Markup Language
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://portal.ogc.org/files/?artifact_id=22120
-  type: pdf
+id: '07062'
 type: standard
-docid:
-- id: 07-062
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: City Geography Markup Language
+  type: title-main
+- language: en
+  script: Latn
+  content: City Geography Markup Language
+  type: main
+source:
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=22120
+docidentifier:
+- content: 07-062
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2007-08-14'
+  at: '2007-08-14'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Gerhard Gr
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
-revdate: '2007-08-14'
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'CityGML is designed as an open data model and XML-based format for the
+- language: en
+  script: Latn
+  content: 'CityGML is designed as an open data model and XML-based format for the
     storage and exchange of virtual 3D city models. It is implemented as an application
     schema of the Geography Markup Language 3 (GML3), the extendible international
     standard for spatial data exchange and encoding issued by the Open Geospatial
     Consortium (OGC) and the ISO TC211. '
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: best-practice
+    content: best-practice
   subdoctype: general
-  editorialgroup:
-    committee: technical
+  flavor: ogc

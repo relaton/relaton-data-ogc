@@ -1,57 +1,65 @@
 ---
-schema-version: v1.2.9
-id: 15-077r1
-title:
-- content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage
-    of SOAP Across OGC Web service interfaces'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage
-    of SOAP Across OGC Web service interfaces'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/PER/tb11-SOAP
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=64406
-  type: pdf
+id: 15077r1
 type: standard
-docid:
-- id: 15-077r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage
+    of SOAP Across OGC Web service interfaces'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage
+    of SOAP Across OGC Web service interfaces'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/tb11-SOAP
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=64406
+docidentifier:
+- content: 15-077r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2016-02-03'
+  at: '2016-02-03'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Ingo Simonis
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2016-02-03'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "A number of OGC service interface standards define SOAP bindings. Despite
+- language: en
+  script: Latn
+  content: "A number of OGC service interface standards define SOAP bindings. Despite
     the current hype around REST or RESTful interfaces, SOAP services are still used
     intensively, in particular in security-critical environments. A number of OGC
     Web service interfaces support SOAP bindings (see chapter 6). Unfortunately, those
@@ -67,14 +75,8 @@ abstract:
     requirements and architecture arguments to the newly reformed OWS Common SWG.
     The best practices could then be applied to all OGC service standards that offer
     SOAP bindings.\r\n"
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: engineering-report
-  editorialgroup:
-    committee: technical
+    content: engineering-report
+  flavor: ogc

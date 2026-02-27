@@ -1,81 +1,80 @@
 ---
-schema-version: v1.2.9
-id: 11-053r1
-title:
-- content: OGC® Web Coverage Service Interface Standard
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-intro
-- content: CRS Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: title-main
-- content: OGC® Web Coverage Service Interface Standard - CRS Extension
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: http://www.opengis.net/doc/IS/WCS-CRS-extension/1.0.0
-  type: src
-- content: https://portal.ogc.org/files/?artifact_id=54209
-  type: pdf
+id: 11053r1
 type: standard
-docid:
-- id: 11-053r1
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OGC® Web Coverage Service Interface Standard
+  type: title-intro
+- language: en
+  script: Latn
+  content: CRS Extension
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC® Web Coverage Service Interface Standard - CRS Extension
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/WCS-CRS-extension/1.0.0
+- type: pdf
+  content: https://portal.ogc.org/files/?artifact_id=54209
+docidentifier:
+- content: 11-053r1
   type: OGC
   primary: true
 date:
 - type: published
-  value: '2014-03-11'
+  at: '2014-03-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       completename:
         content: Peter Baumann
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jinsongdi Yu
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: Open Geospatial Consortium
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
 edition:
   content: '1'
-revdate: '2014-03-11'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document specifies parameters to the OGC Web Coverage Service (WCS)
+- language: en
+  script: Latn
+  content: This document specifies parameters to the OGC Web Coverage Service (WCS)
     GetCoverage request that allows a client, a service, or other application to specify
     the Coordinate Reference System (CRS) in which coverages are delivered. Note that
     the CRS of the input bounding box is already defined in the OGC WCS Core Implementation
     Standard [OGC 09-110r3].
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.1
+  schema_version: v1.0.1
   doctype:
-    type: standard
+    content: standard
   subdoctype: extension
-  editorialgroup:
-    committee: technical
+  flavor: ogc
