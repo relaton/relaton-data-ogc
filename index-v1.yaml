@@ -1,4 +1,10 @@
 ---
+- :id: 24-023r1
+  :file: data/24-023R1.yaml
+- :id: 23-061
+  :file: data/23-061.yaml
+- :id: 23-017
+  :file: data/23-017.yaml
 - :id: 25-032
   :file: data/25-032.yaml
 - :id: 25-018
