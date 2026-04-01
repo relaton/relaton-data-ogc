@@ -25,8 +25,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=15529
-  type: pdf
+- content: https://docs.ogc.org/bp/05-035r2/05-035r2.zip
+  type: html
 type: standard
 docid:
 - id: 05-035r2

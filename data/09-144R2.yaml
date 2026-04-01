@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=59324
-  type: pdf
+- content: https://docs.ogc.org/pol/09-144r2/09-144r2.txt
+  type: html
 type: standard
 docid:
 - id: '09-144r2'

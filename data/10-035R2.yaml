@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=40441
-  type: pdf
+- content: https://docs.ogc.org/per/10-035r2/10-035r2.zip
+  type: html
 type: standard
 docid:
 - id: 10-035r2

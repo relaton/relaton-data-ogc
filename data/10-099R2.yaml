@@ -19,8 +19,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=39852
-  type: pdf
+- content: https://docs.ogc.org/note/10-099r2/10-099r2.doc
+  type: doc
 type: standard
 docid:
 - id: 10-099r2

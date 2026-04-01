@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/NOTES/geopackage1.2.1-release-notes
   type: src
-- content: https://portal.ogc.org/files/18-024r1
-  type: pdf
+- content: https://docs.ogc.org/note/18-024r1/18-024r1.html
+  type: html
 type: standard
 docid:
 - id: 18-024r1

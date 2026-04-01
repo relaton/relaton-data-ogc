@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=12893
-  type: pdf
+- content: https://docs.ogc.org/dp/05-117/05-117.zip
+  type: html
 type: standard
 docid:
 - id: 05-117

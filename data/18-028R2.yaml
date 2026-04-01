@@ -64,7 +64,7 @@ abstract:
     is concerned more with qualitative aspects of such services like presence of metadata,
     proper and descriptive namings, appropriate styling and so on (a more thorough
     treatment is present in the QoE discussion paper OGC 17-049 entitled Ensuring
-    Quality of User Experience with OGC Web Mapping Services available at https://portal.ogc.org/files/?artifact_id=74403&version=1).\r\n\r\nQoS
+    Quality of User Experience with OGC Web Mapping Services available at https://docs.ogc.org/dp/17-049/17-049.pdf).\r\n\r\nQoS
     focuses on providing reliable (i.e. quantitative ) measures of spatial data service
     metrics which can be used to characterize how a service ( one or more specific
     datasets exposed by a certain service) is performing both in near real-time as

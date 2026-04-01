@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=12582
+- content: https://docs.ogc.org/is/05-076/05-076.pdf
   type: pdf
 type: standard
 docid:
@@ -48,7 +48,7 @@ abstract:
 - content: "Extends the Web Map Server (WMS) interface to allow access to geospatial
     coverages that represent values or properties of geographic locations, rather
     than WMS generated maps (pictures).\r\n\r\nThe original document is available
-    at: http://portal.opengeospatial.org/files/?artifact_id=3837"
+    at: https://docs.ogc.org/is/03-065r6/03-065r6.pdf"
   language:
   - en
   script:

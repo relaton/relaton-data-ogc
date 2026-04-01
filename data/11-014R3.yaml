@@ -19,7 +19,7 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/openmi/2.0.0
   type: src
-- content: https://portal.ogc.org/files/?artifact_id=59022
+- content: https://docs.ogc.org/is/11-014r3/11-014r3.pdf
   type: pdf
 type: standard
 docid:
@@ -72,8 +72,7 @@ abstract:
     The document does not describe how to implement the standard. This information
     together with a range of software tools for creating and running OpenMI-­&#8208;compliant
     components are provided by the OpenMI Association and third-­&#8208;party software
-    vendors – visit www.openmi.org for further documentation.</p>\r\n<p>\r\n<a href=https://portal.ogc.org/files/?artifact_id=59022>pdf</a>
-    <br>\r\n<a href=https://portal.ogc.org/files/?artifact_id=59022&format=docx>docx</a>\r\n</p>"
+    vendors – visit www.openmi.org for further documentation.</p>\r\n<p>\r\n<a href=https://docs.ogc.org/is/11-014r3/11-014r3.pdf>pdf</a>\r\n</p>"
   language:
   - en
   script:

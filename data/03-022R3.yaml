@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=1324
-  type: pdf
+- content: https://docs.ogc.org/rp/03-022r3/03-022r3.zip
+  type: html
 type: standard
 docid:
 - id: 03-022r3

@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=67120
-  type: pdf
+- content: https://docs.ogc.org/note/15-123r1/15-123r1.doc
+  type: doc
 type: standard
 docid:
 - id: 15-123r1

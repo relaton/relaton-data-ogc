@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=29544
-  type: pdf
+- content: https://docs.ogc.org/dp/08-129/08-129.zip
+  type: html
 type: standard
 docid:
 - id: '08-129'

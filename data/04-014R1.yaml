@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://portal.ogc.org/files/?artifact_id=5393
-  type: pdf
+- content: https://docs.ogc.org/atb/04-014r1/04-014r1.xls
+  type: html
 type: standard
 docid:
 - id: 04-014r1
