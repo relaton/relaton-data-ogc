@@ -24,7 +24,9 @@ title:
   format: text/plain
   type: main
 link:
-- content: http://docs.opengeospatial.org/wp/15-002r5/15-002r5.html
+- content: http://www.opengis.net/doc/WP/compliance-overview
+  type: src
+- content: https://docs.ogc.org/wp/15-002r5/15-002r5.html
   type: html
 type: standard
 docid:
