@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: 24-064
+title:
+- content: Best Practices Report for OGC Federated Marine SDI 2024 Pilot
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Bridging Land and Sea
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: Best Practices Report for OGC Federated Marine SDI 2024 Pilot - Bridging
+    Land and Sea
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/DP/fmsdi-2024/1.0
+  type: src
+- content: https://docs.ogc.org/dp/24-064.html
+  type: html
+type: standard
+docid:
+- id: 24-064
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-04-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Caroline Levy,Glenn Laughlin
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2026-04-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document outlines the main challenges and key considerations in integrating
+    land and marine data. It brings together valuable insights, case studies, and
+    foundational guidance that can be helpful to practitioners working in the coastal
+    data space.\r\n\r\nThe report focuses the core requirements for establishing a
+    seamless coverage of geospatial information across the transitional boundary of
+    the coastal environment. It is designed to help stakeholders involved in coastal
+    planning better understand the capabilities and limitations when connecting land
+    and sea datasets and offers practical advice on how to make data from different
+    sources work together. The guide aims to improve collaboration between agencies
+    and support real-world stakeholder needs in response to a changing climate.\r\n\r\nThe
+    guide takes the approach of describing the foundational issues a coastal planner
+    may experience and provides guidance to ensure a user understands how to navigate
+    each problem, the complexity of the challenges, and how they can resolve the issue
+    or prevent them in the first place.\r\n\r\nThese recommendations represent an
+    initial set of patterns and practices to be built on over a longer-term roadmap
+    championed through the Open Geospatial Consortium and its partner organizations."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: discussion-paper
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.9
+id: 26-021
+title:
+- content: 'The Machine-Interpretable Standards Ecosystem: Standards, Profiles, Building
+    Blocks, and Registers. An Architectural Framework for a Composable, Disco'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'The Machine-Interpretable Standards Ecosystem: Standards, Profiles, Building
+    Blocks, and Registers. An Architectural Framework for a Composable, Disco'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.org/techpaper/26-021
+  type: src
+- content: https://docs.ogc.org/techpaper/26-021.pdf
+  type: pdf
+type: standard
+docid:
+- id: 26-021
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-04-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ingo Simonis
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Rob Atkinson
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Francesca Noardo
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Alejandro Villar
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mayte Toscano
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2026-04-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'The paper is framed as a proposal about standards, but the commercial
+    payoff lands one layer higher — on the data itself. Machine-interpretable standards
+    are a means; machine-interpretable data offerings are the end. When a dataset
+    is published against a registered profile, every value it carries arrives with
+    its meaning declared in a form an AI agent can consume safely: units of measure
+    point to a shared reference, coordinate systems are explicit, feature types resolve
+    to catalog entries, date and time conventions are declared rather than assumed,
+    and provenance is a traversable chain rather than a PDF footnote.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: other
+  editorialgroup:
+    committee: technical

@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.9
+id: 24-059
+title:
+- content: openEO API 1.2 Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: openEO API 1.2 Community Standard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/cs/openeo-api/1.2
+  type: src
+- content: https://docs.ogc.org/cs/24-059/24-059.pdf
+  type: pdf
+type: standard
+docid:
+- id: 24-059
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-04-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matthias Mohr
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+revdate: '2026-04-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "The OGC openEO Community Standard defines an API in support of interoperable
+    cloud-based\r\nprocessing of large Earth observation datasets."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: community-standard
+  editorialgroup:
+    committee: technical
