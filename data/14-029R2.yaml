@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/testbed10/virtual-gaz
   type: src
-- content: https://docs.ogc.org/per/14-029r2/14-029r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/14-029r2/14-029r2/pdf
+  type: html
 type: standard
 docid:
 - id: 14-029r2

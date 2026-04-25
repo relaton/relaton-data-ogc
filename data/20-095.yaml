@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/DGIWG-GeoTIFF/2.3
   type: src
-- content: https://docs.ogc.org/bp/20-095/20-095.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/20-095/20-095/pdf
+  type: html
 type: standard
 docid:
 - id: 20-095

@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/dp/waterml2.0-ratings
   type: src
-- content: https://docs.ogc.org/dp/13-021r3/13-021r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/13-021r3/13-021r3/pdf
+  type: html
 type: standard
 docid:
 - id: 13-021r3

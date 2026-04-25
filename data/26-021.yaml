@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.org/techpaper/26-021
   type: src
-- content: https://docs.ogc.org/techpaper/26-021.pdf
-  type: pdf
+- content: https://docs.ogc.org/techpaper/26-021/pdf
+  type: html
 type: standard
 docid:
 - id: 26-021

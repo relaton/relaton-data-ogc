@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/per/10-059r2/10-059r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/10-059r2/10-059r2/pdf
+  type: html
 type: standard
 docid:
 - id: 10-059r2

@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/ows-9-nitf-for-gmljp2
   type: src
-- content: https://docs.ogc.org/per/12-154/12-154.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/12-154/12-154/pdf
+  type: html
 type: standard
 docid:
 - id: 12-154

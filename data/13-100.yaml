@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/GEOXACML-CORE
   type: src
-- content: https://docs.ogc.org/dp/13-100/13-100.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/13-100/13-100/pdf
+  type: html
 type: standard
 docid:
 - id: 13-100

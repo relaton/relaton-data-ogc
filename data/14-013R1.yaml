@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ER/testbed10/wis
   type: src
-- content: https://docs.ogc.org/per/14-013r1/14-013r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/14-013r1/14-013r1/pdf
+  type: html
 type: standard
 docid:
 - id: 14-013r1

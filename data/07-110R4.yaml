@@ -24,8 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/is/07-110r4/07-110r4.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/07-110r4/07-110r4/pdf
+  type: html
 type: standard
 docid:
 - id: 07-110r4

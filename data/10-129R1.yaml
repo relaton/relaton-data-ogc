@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/spec/GML/3.3
   type: src
-- content: https://docs.ogc.org/is/10-129r1/10-129r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/10-129r1/10-129r1/pdf
+  type: html
 type: standard
 docid:
 - id: 10-129r1

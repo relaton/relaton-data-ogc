@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/bp/Name-type-crs
   type: src
-- content: https://docs.ogc.org/bp/11-135r2/11-135r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/11-135r2/11-135r2/pdf
+  type: html
 type: standard
 docid:
 - id: 11-135r2

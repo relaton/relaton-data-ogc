@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/MOGIE
   type: src
-- content: https://docs.ogc.org/per/13-080r3/13-080r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/13-080r3/13-080r3/pdf
+  type: html
 type: standard
 docid:
 - id: 13-080r3

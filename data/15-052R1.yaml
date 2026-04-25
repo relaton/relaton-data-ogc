@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/tb11_rest_er
   type: src
-- content: https://docs.ogc.org/per/15-052r1/15-052r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-052r1/15-052r1/pdf
+  type: html
 type: standard
 docid:
 - id: 15-052r1

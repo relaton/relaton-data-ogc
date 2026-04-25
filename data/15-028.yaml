@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/t11-data-broker-aviation
   type: src
-- content: https://docs.ogc.org/per/15-028/15-028.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-028/15-028/pdf
+  type: html
 type: standard
 docid:
 - id: 15-028

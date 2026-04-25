@@ -33,8 +33,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/OWS-9-bulk-data-transfer-gml
   type: src
-- content: https://docs.ogc.org/per/12-097/12-097.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/12-097/12-097/pdf
+  type: html
 type: standard
 docid:
 - id: 12-097

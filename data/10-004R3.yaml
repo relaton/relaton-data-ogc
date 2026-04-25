@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/as/om/2.0
   type: src
-- content: https://docs.ogc.org/as/10-004r3/10-004r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/as/10-004r3/10-004r3/pdf
+  type: html
 type: standard
 docid:
 - id: 10-004r3

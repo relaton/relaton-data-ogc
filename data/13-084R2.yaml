@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ISx/csw-ebrim-i15/1.0
   type: src
-- content: https://docs.ogc.org/is/13-084r2/13-084r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/13-084r2/13-084r2/pdf
+  type: html
 type: standard
 docid:
 - id: 13-084r2

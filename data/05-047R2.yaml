@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/rfc/05-047r2/05-047r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/rfc/05-047r2/05-047r2/pdf
+  type: html
 type: standard
 docid:
 - id: 05-047r2

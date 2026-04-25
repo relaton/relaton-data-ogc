@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/GeoSMS-core/1.0
   type: src
-- content: https://docs.ogc.org/is/11-030r1/11-030r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/11-030r1/11-030r1/pdf
+  type: html
 type: standard
 docid:
 - id: 11-030r1

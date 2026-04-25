@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ows8-notam-refactor
   type: src
-- content: https://docs.ogc.org/per/11-106r1/11-106r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/11-106r1/11-106r1/pdf
+  type: html
 type: standard
 docid:
 - id: 11-106r1

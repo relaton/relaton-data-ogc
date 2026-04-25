@@ -27,8 +27,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/indoorgml-mls-nav-vi
   type: src
-- content: https://docs.ogc.org/dp/15-075r1/15-075r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/15-075r1/15-075r1/pdf
+  type: html
 type: standard
 docid:
 - id: 15-075r1

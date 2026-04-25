@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/cdb-terms/1.1.0
   type: src
-- content: https://docs.ogc.org/is/15-112r3/15-112r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/15-112r3/15-112r3/pdf
+  type: html
 type: standard
 docid:
 - id: 15-112r3

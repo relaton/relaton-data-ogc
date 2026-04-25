@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ER/ows-8-mobile-objectprocessing
   type: src
-- content: https://docs.ogc.org/per/11-108/11-108.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/11-108/11-108/pdf
+  type: html
 type: standard
 docid:
 - id: 11-108

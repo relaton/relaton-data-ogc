@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/tb-11-WFS-T-IER
   type: src
-- content: https://docs.ogc.org/per/15-011r2/15-011r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-011r2/15-011r2/pdf
+  type: html
 type: standard
 docid:
 - id: 15-011r2

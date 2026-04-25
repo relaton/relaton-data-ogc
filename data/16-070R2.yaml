@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/cdb-shapefile-guidance/1.0
   type: src
-- content: https://docs.ogc.org/bp/16-070r2/16-070r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/16-070r2/16-070r2/pdf
+  type: html
 type: standard
 docid:
 - id: 16-070r2

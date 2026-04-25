@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/spec/PUCK/v1.4/
   type: src
-- content: https://docs.ogc.org/is/09-127r2/09-127r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/09-127r2/09-127r2/pdf
+  type: html
 type: standard
 docid:
 - id: '09-127r2'

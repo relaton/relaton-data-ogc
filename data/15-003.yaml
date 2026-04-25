@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/cdb-vol1/1.0
   type: src
-- content: https://docs.ogc.org/bp/15-003/15-003.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/15-003/15-003/pdf
+  type: html
 type: standard
 docid:
 - id: 15-003

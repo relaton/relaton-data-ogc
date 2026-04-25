@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/is/99-054/99-054.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/99-054/99-054/pdf
+  type: html
 type: standard
 docid:
 - id: 99-054

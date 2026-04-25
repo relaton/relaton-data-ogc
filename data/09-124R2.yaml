@@ -24,8 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/dp/09-124r2/09-124r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/09-124r2/09-124r2/pdf
+  type: html
 type: standard
 docid:
 - id: '09-124r2'

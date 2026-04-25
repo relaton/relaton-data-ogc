@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/t11-social-media-in-EM
   type: src
-- content: https://docs.ogc.org/per/15-057r2/15-057r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-057r2/15-057r2/pdf
+  type: html
 type: standard
 docid:
 - id: 15-057r2

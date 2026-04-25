@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/roseo/1.0
   type: src
-- content: https://docs.ogc.org/bp/13-042/13-042.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/13-042/13-042/pdf
+  type: html
 type: standard
 docid:
 - id: 13-042

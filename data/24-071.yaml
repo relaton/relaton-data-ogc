@@ -21,8 +21,8 @@ title:
 link:
 - content: https://zenodo.org/records/12721058
   type: src
-- content: https://docs.ogc.org/techpaper/24-071/24-071.pdf
-  type: pdf
+- content: https://docs.ogc.org/techpaper/24-071/24-071/pdf
+  type: html
 type: standard
 docid:
 - id: 24-071

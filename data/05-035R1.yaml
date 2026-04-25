@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/dp/05-035r1/05-035r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/05-035r1/05-035r1/pdf
+  type: html
 type: standard
 docid:
 - id: 05-035r1

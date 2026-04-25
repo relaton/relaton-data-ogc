@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/CDB-core-model/1.0.0
   type: src
-- content: https://docs.ogc.org/is/16-007r3/16-007r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/16-007r3/16-007r3/pdf
+  type: html
 type: standard
 docid:
 - id: 16-007r3

@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/WCS-interpolation-extension/1.0.0
   type: src
-- content: https://docs.ogc.org/is/12-049/12-049.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/12-049/12-049/pdf
+  type: html
 type: standard
 docid:
 - id: 12-049

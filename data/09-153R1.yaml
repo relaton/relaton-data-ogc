@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/bp/09-153r1/09-153r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/09-153r1/09-153r1/pdf
+  type: html
 type: standard
 docid:
 - id: '09-153r1'

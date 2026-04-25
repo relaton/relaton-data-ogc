@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/er/swe-maturity
   type: src
-- content: https://docs.ogc.org/per/13-032/13-032.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/13-032/13-032/pdf
+  type: html
 type: standard
 docid:
 - id: 13-032

@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/is/timeseriesml/1.3.0
   type: src
-- content: https://docs.ogc.org/is/15-042r6/15-042r6.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/15-042r6/15-042r6/pdf
+  type: html
 type: standard
 docid:
 - id: 15-042r6

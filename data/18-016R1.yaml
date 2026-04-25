@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/CDB-notes/1.1.0
   type: src
-- content: https://docs.ogc.org/note/18-016r1/18-016r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/note/18-016r1/18-016r1/pdf
+  type: html
 type: standard
 docid:
 - id: 18-016r1

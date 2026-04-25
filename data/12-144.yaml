@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/ows9-aviation-registry
   type: src
-- content: https://docs.ogc.org/per/12-144/12-144.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/12-144/12-144/pdf
+  type: html
 type: standard
 docid:
 - id: 12-144

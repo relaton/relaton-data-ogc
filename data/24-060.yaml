@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/cp/openeo-processes/1.2
   type: src
-- content: https://docs.ogc.org/cp/24-060.pdf
-  type: pdf
+- content: https://docs.ogc.org/cp/24-060/pdf
+  type: html
 type: standard
 docid:
 - id: 24-060

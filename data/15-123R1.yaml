@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/note/15-123r1/15-123r1.doc
-  type: doc
+- content: https://docs.ogc.org/note/15-123r1/15-123r1/doc
+  type: html
 type: standard
 docid:
 - id: 15-123r1

@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/t11-linked-data
   type: src
-- content: https://docs.ogc.org/per/15-054/15-054.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-054/15-054/pdf
+  type: html
 type: standard
 docid:
 - id: 15-054

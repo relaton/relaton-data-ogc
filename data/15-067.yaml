@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/T11-geopackage-terrain
   type: src
-- content: https://docs.ogc.org/per/15-067/15-067.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-067/15-067/pdf
+  type: html
 type: standard
 docid:
 - id: 15-067

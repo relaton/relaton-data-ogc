@@ -27,8 +27,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/UKIAP2014
   type: src
-- content: https://docs.ogc.org/per/14-057/14-057.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/14-057/14-057/pdf
+  type: html
 type: standard
 docid:
 - id: 14-057

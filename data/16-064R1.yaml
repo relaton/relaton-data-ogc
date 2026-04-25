@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/citygml-quality-ie
   type: src
-- content: https://docs.ogc.org/per/16-064r1/16-064r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/16-064r1/16-064r1/pdf
+  type: html
 type: standard
 docid:
 - id: 16-064r1

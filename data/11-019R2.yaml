@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ER/ows-shibboleth-ie
   type: src
-- content: https://docs.ogc.org/per/11-019r2/11-019r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/11-019r2/11-019r2/pdf
+  type: html
 type: standard
 docid:
 - id: 11-019r2

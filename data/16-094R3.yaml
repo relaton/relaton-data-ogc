@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/gpkg_ee_ie
   type: src
-- content: https://docs.ogc.org/per/16-094r3/16-094r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/16-094r3/16-094r3/pdf
+  type: html
 type: standard
 docid:
 - id: 16-094r3

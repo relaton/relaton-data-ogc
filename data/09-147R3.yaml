@@ -32,8 +32,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/is/09-147r3/09-147r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/09-147r3/09-147r3/pdf
+  type: html
 type: standard
 docid:
 - id: '09-147r3'

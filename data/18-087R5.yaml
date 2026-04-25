@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/disaster-sdi
   type: src
-- content: https://docs.ogc.org/per/18-087r5/18-087r5.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/18-087r5/18-087r5/pdf
+  type: html
 type: standard
 docid:
 - id: 18-087r5

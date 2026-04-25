@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/TP/cdrp2024-extreme-heat
   type: src
-- content: https://docs.ogc.org/techpaper/24-072/24-072.pdf
-  type: pdf
+- content: https://docs.ogc.org/techpaper/24-072/24-072/pdf
+  type: html
 type: standard
 docid:
 - id: 24-072

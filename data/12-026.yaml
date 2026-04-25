@@ -19,8 +19,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/techpaper/12-026/12-026.pdf
-  type: pdf
+- content: https://docs.ogc.org/techpaper/12-026/12-026/pdf
+  type: html
 type: standard
 docid:
 - id: 12-026

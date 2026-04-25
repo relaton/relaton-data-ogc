@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/om-eo-metadata
   type: src
-- content: https://docs.ogc.org/is/10-157r3/10-157r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/10-157r3/10-157r3/pdf
+  type: html
 type: standard
 docid:
 - id: 10-157r3

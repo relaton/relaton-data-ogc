@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/GML/GMLCOV/1.0.1
   type: src
-- content: https://docs.ogc.org/sap/09-146r2/09-146r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/sap/09-146r2/09-146r2/pdf
+  type: html
 type: standard
 docid:
 - id: '09-146r2'

@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/SOS/2.0.0
   type: src
-- content: https://docs.ogc.org/is/12-006/12-006.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/12-006/12-006/pdf
+  type: html
 type: standard
 docid:
 - id: 12-006

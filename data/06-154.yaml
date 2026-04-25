@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/dp/06-154/06-154.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/06-154/06-154/pdf
+  type: html
 type: standard
 docid:
 - id: 06-154

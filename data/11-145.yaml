@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/WP/cyber-arch-geosciences
   type: src
-- content: https://docs.ogc.org/techpaper/11-145/11-145.pdf
-  type: pdf
+- content: https://docs.ogc.org/techpaper/11-145/11-145/pdf
+  type: html
 type: standard
 docid:
 - id: 11-145

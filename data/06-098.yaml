@@ -24,8 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/cr/06-098/06-098.pdf
-  type: pdf
+- content: https://docs.ogc.org/cr/06-098/06-098/pdf
+  type: html
 type: standard
 docid:
 - id: 06-098

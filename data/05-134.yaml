@@ -25,8 +25,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/is/05-134/05-134.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/05-134/05-134/pdf
+  type: html
 type: standard
 docid:
 - id: 05-134

@@ -24,8 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/as/07-011/07-011.pdf
-  type: pdf
+- content: https://docs.ogc.org/as/07-011/07-011/pdf
+  type: html
 type: standard
 docid:
 - id: 07-011

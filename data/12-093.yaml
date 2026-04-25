@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/ows9-ssi-ugas
   type: src
-- content: https://docs.ogc.org/per/12-093/12-093.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/12-093/12-093/pdf
+  type: html
 type: standard
 docid:
 - id: 12-093

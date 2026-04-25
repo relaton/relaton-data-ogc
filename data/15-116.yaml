@@ -27,8 +27,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/dp/aha-ml
   type: src
-- content: https://docs.ogc.org/dp/15-116r3/15-116r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/15-116r3/15-116r3/pdf
+  type: html
 type: standard
 docid:
 - id: 15-116

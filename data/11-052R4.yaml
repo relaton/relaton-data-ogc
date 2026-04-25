@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/geosparql/1.0.0
   type: src
-- content: https://docs.ogc.org/is/11-052r4/11-052r4.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/11-052r4/11-052r4/pdf
+  type: html
 type: standard
 docid:
 - id: 11-052r4

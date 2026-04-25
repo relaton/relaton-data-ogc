@@ -19,8 +19,8 @@ title:
 link:
 - content: https://www.opengis.net/doc/GGXF/1.0
   type: src
-- content: https://docs.ogc.org/is/22-051r7/22-051r7.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/22-051r7/22-051r7/pdf
+  type: html
 type: standard
 docid:
 - id: 22-051r7

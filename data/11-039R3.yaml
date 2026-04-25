@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/hy-features
   type: src
-- content: https://docs.ogc.org/dp/11-039r3/11-039r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/11-039r3/11-039r3/pdf
+  type: html
 type: standard
 docid:
 - id: 11-039r3

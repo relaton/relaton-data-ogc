@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/cdb-implementation-guidance/1.0
   type: src
-- content: https://docs.ogc.org/bp/16-006r3/16-006r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/16-006r3/16-006r3/pdf
+  type: html
 type: standard
 docid:
 - id: 16-006r3

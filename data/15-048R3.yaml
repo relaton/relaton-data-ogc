@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/t11-niem-encoding
   type: src
-- content: https://docs.ogc.org/per/15-048r3/15-048r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-048r3/15-048r3/pdf
+  type: html
 type: standard
 docid:
 - id: 15-048r3

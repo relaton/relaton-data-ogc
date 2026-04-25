@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/wfs-temporality-extension
   type: src
-- content: https://docs.ogc.org/dp/12-027r3/12-027r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/12-027r3/12-027r3/pdf
+  type: html
 type: standard
 docid:
 - id: 12-027r3

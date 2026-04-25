@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/bp/dgiwg-gmljp2-img2.1.2
   type: src
-- content: https://docs.ogc.org/bp/21-007/21-007.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/21-007/21-007/pdf
+  type: html
 type: standard
 docid:
 - id: 21-007

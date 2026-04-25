@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/techpaper/11-110/11-110.doc
-  type: doc
+- content: https://docs.ogc.org/techpaper/11-110/11-110/doc
+  type: html
 type: standard
 docid:
 - id: 11-110

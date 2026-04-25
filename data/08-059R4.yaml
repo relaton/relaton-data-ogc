@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/wcs_processing_extension/2.0.0
   type: src
-- content: https://docs.ogc.org/is/08-059r4/08-059r4.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/08-059r4/08-059r4/pdf
+  type: html
 type: standard
 docid:
 - id: '08-059r4'

@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ER/ows8-tracking-vmti
   type: src
-- content: https://docs.ogc.org/per/11-134/11-134.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/11-134/11-134/pdf
+  type: html
 type: standard
 docid:
 - id: 11-134

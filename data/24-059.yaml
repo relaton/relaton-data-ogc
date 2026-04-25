@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/cs/openeo-api/1.2
   type: src
-- content: https://docs.ogc.org/cs/24-059/24-059.pdf
-  type: pdf
+- content: https://docs.ogc.org/cs/24-059/24-059/pdf
+  type: html
 type: standard
 docid:
 - id: 24-059

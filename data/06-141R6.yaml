@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/oseo
   type: src
-- content: https://docs.ogc.org/is/06-141r6/06-141r6.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/06-141r6/06-141r6/pdf
+  type: html
 type: standard
 docid:
 - id: 06-141r6

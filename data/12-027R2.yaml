@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/dp/WFS-TE
   type: src
-- content: https://docs.ogc.org/dp/12-027r2/12-027r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/12-027r2/12-027r2/pdf
+  type: html
 type: standard
 docid:
 - id: 12-027r2

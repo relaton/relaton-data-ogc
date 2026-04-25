@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/SensorML/2.0.0
   type: src
-- content: https://docs.ogc.org/is/12-000/12-000.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/12-000/12-000/pdf
+  type: html
 type: standard
 docid:
 - id: 12-000

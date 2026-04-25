@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ows8-geoprocessing-eo
   type: src
-- content: https://docs.ogc.org/per/11-116/11-116.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/11-116/11-116/pdf
+  type: html
 type: standard
 docid:
 - id: 11-116

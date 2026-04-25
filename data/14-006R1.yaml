@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/testbed10/exchange-terrain-data
   type: src
-- content: https://docs.ogc.org/per/14-006r1/14-006r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/14-006r1/14-006r1/pdf
+  type: html
 type: standard
 docid:
 - id: 14-006r1

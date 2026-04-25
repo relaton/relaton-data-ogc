@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/spec/citygml/2.0
   type: src
-- content: https://docs.ogc.org/is/12-019/12-019.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/12-019/12-019/pdf
+  type: html
 type: standard
 docid:
 - id: 12-019

@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ER/testbed10/cci-profile-interoperability
   type: src
-- content: https://docs.ogc.org/per/14-021r2/14-021r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/14-021r2/14-021r2/pdf
+  type: html
 type: standard
 docid:
 - id: 14-021r2

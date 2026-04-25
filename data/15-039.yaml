@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/tiled-elev-ext-geopackage
   type: src
-- content: https://docs.ogc.org/dp/15-039/15-039.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/15-039/15-039/pdf
+  type: html
 type: standard
 docid:
 - id: 15-039

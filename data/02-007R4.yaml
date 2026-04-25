@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/bp/02-007r4/02-007r4.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/02-007r4/02-007r4/pdf
+  type: html
 type: standard
 docid:
 - id: 02-007r4

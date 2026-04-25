@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/1.0/geopackage-plugfest
   type: src
-- content: https://docs.ogc.org/dp/15-012r2/15-012r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/15-012r2/15-012r2/pdf
+  type: html
 type: standard
 docid:
 - id: 15-012r2

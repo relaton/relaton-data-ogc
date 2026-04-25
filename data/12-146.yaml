@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/ows9-wfs-temporality
   type: src
-- content: https://docs.ogc.org/per/12-146/12-146.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/12-146/12-146/pdf
+  type: html
 type: standard
 docid:
 - id: 12-146

@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/tb-11-WFST_IEA
   type: src
-- content: https://docs.ogc.org/per/15-010r4/15-010r4.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-010r4/15-010r4/pdf
+  type: html
 type: standard
 docid:
 - id: 15-010r4

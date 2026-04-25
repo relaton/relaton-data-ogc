@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/opensearch-correlated
   type: src
-- content: https://docs.ogc.org/dp/13-068/13-068.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/13-068/13-068/pdf
+  type: html
 type: standard
 docid:
 - id: 13-068

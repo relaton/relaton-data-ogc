@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ER/testbed10/gml-for-aviation-conformance
   type: src
-- content: https://docs.ogc.org/per/14-000/14-000.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/14-000/14-000/pdf
+  type: html
 type: standard
 docid:
 - id: 14-000

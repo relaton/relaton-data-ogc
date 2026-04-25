@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/ade-citygml-in-uml
   type: src
-- content: https://docs.ogc.org/dp/12-066/12-066.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/12-066/12-066/pdf
+  type: html
 type: standard
 docid:
 - id: 12-066

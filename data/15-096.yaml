@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/mf-app
   type: src
-- content: https://docs.ogc.org/dp/15-096/15-096.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/15-096/15-096/pdf
+  type: html
 type: standard
 docid:
 - id: 15-096

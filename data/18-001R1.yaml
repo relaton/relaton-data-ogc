@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/dp/GeoDCAT-AP
   type: src
-- content: https://docs.ogc.org/dp/18-001r1/18-001r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/18-001r1/18-001r1/pdf
+  type: html
 type: standard
 docid:
 - id: 18-001r1

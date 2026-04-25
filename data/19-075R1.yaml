@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/borehole-ie
   type: src
-- content: https://docs.ogc.org/per/19-075r1/19-075r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/19-075r1/19-075r1/pdf
+  type: html
 type: standard
 docid:
 - id: 19-075r1

@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/testbed10/aviation-portrayal-notams
   type: src
-- content: https://docs.ogc.org/per/14-039/14-039.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/14-039/14-039/pdf
+  type: html
 type: standard
 docid:
 - id: 14-039

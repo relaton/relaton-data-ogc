@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/netcdf-enhanced/1.0.0
   type: src
-- content: https://docs.ogc.org/is/11-038r2/11-038r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/11-038r2/11-038r2/pdf
+  type: html
 type: standard
 docid:
 - id: 11-038R2

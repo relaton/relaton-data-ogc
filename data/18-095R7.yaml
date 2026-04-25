@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/CS/dataCubeCP
   type: src
-- content: https://docs.ogc.org/cp/18-095r7/18-095r7.pdf
-  type: pdf
+- content: https://docs.ogc.org/cp/18-095r7/18-095r7/pdf
+  type: html
 type: standard
 docid:
 - id: 18-095r7

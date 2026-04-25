@@ -33,8 +33,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/ows9-spegg
   type: src
-- content: https://docs.ogc.org/per/12-104r1/12-104r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/12-104r1/12-104r1/pdf
+  type: html
 type: standard
 docid:
 - id: 12-104r1

@@ -21,8 +21,8 @@ title:
 link:
 - content: https://docs.ogc.org/techpaper/25-017.pdf
   type: src
-- content: https://docs.ogc.org/techpaper/25-017.pdf
-  type: pdf
+- content: https://docs.ogc.org/techpaper/25-017/pdf
+  type: html
 type: standard
 docid:
 - id: 25-017

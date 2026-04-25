@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/CDB-core-annexes/1.0
   type: src
-- content: https://docs.ogc.org/bp/16-005r2/16-005r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/16-005r2/16-005r2/pdf
+  type: html
 type: standard
 docid:
 - id: 16-005r2

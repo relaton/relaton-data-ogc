@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/sap/06-080r4/06-080r4.pdf
-  type: pdf
+- content: https://docs.ogc.org/sap/06-080r4/06-080r4/pdf
+  type: html
 type: standard
 docid:
 - id: 06-080r4

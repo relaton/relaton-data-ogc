@@ -19,8 +19,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/note/11-111/11-111.pdf
-  type: pdf
+- content: https://docs.ogc.org/note/11-111/11-111/pdf
+  type: html
 type: standard
 docid:
 - id: 11-111

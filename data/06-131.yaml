@@ -19,8 +19,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/dp/06-131/06-131.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/06-131/06-131/pdf
+  type: html
 type: standard
 docid:
 - id: 06-131

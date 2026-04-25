@@ -24,8 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/as/99-113/99-113.pdf
-  type: pdf
+- content: https://docs.ogc.org/as/99-113/99-113/pdf
+  type: html
 type: standard
 docid:
 - id: 99-113

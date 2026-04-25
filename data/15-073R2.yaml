@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/t11-dgiwg-gmljp2
   type: src
-- content: https://docs.ogc.org/per/15-073r2/15-073r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/15-073r2/15-073r2/pdf
+  type: html
 type: standard
 docid:
 - id: 15-073r2

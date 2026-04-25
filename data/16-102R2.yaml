@@ -34,8 +34,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/standard/infragml/part2/1.0
   type: src
-- content: https://docs.ogc.org/is/16-102r2/16-102r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/16-102r2/16-102r2/pdf
+  type: html
 type: standard
 docid:
 - id: 16-102r2

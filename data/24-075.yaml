@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/TP/cdrp2024-D118
   type: src
-- content: https://docs.ogc.org/techpaper/24-075/24-075.pdf
-  type: pdf
+- content: https://docs.ogc.org/techpaper/24-075/24-075/pdf
+  type: html
 type: standard
 docid:
 - id: 24-075

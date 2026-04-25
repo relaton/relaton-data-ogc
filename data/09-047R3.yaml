@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/POL-NTS/DOC/1.2
   type: src
-- content: https://docs.ogc.org/pol/09-047r3/09-047r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/pol/09-047r3/09-047r3/pdf
+  type: html
 type: standard
 docid:
 - id: '09-047r3'

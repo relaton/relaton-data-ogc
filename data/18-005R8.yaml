@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/AS/topic-2/6.0
   type: src
-- content: https://docs.ogc.org/as/18-005r8/18-005r8.pdf
-  type: pdf
+- content: https://docs.ogc.org/as/18-005r8/18-005r8/pdf
+  type: html
 type: standard
 docid:
 - id: 18-005r8

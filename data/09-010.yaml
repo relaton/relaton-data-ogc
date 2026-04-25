@@ -24,8 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/dp/09-010/09-010.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/09-010/09-010/pdf
+  type: html
 type: standard
 docid:
 - id: '09-010'

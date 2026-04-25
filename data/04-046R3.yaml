@@ -24,8 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/as/04-046r3/04-046r3.pdf
-  type: pdf
+- content: https://docs.ogc.org/as/04-046r3/04-046r3/pdf
+  type: html
 type: standard
 docid:
 - id: 04-046r3

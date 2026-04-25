@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/chisp1-summary-er
   type: src
-- content: https://docs.ogc.org/per/13-046r2/13-046r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/13-046r2/13-046r2/pdf
+  type: html
 type: standard
 docid:
 - id: 13-046r2

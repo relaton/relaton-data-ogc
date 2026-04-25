@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ie/3dpie
   type: src
-- content: https://docs.ogc.org/per/12-075/12-075.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/12-075/12-075/pdf
+  type: html
 type: standard
 docid:
 - id: 12-075

@@ -24,8 +24,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/retired/01-042/01-042.pdf
-  type: pdf
+- content: https://docs.ogc.org/retired/01-042/01-042/pdf
+  type: html
 type: standard
 docid:
 - id: 01-042

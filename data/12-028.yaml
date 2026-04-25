@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/gml-aviation-guidance
   type: src
-- content: https://docs.ogc.org/dp/12-028/12-028.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/12-028/12-028/pdf
+  type: html
 type: standard
 docid:
 - id: 12-028

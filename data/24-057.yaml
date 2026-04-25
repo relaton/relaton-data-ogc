@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/tp/enable-bim-gis
   type: src
-- content: https://docs.ogc.org/wp/24-057.pdf
-  type: pdf
+- content: https://docs.ogc.org/wp/24-057/pdf
+  type: html
 type: standard
 docid:
 - id: 24-057

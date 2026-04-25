@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/UG/ConnectedSystems-reviewers
   type: src
-- content: https://docs.ogc.org/guides/23-053r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/guides/23-053r1/pdf
+  type: html
 type: standard
 docid:
 - id: 23-053r1

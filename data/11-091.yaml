@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/ows8-wxxs
   type: src
-- content: https://docs.ogc.org/per/11-091/11-091.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/11-091/11-091/pdf
+  type: html
 type: standard
 docid:
 - id: 11-091

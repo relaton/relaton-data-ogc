@@ -27,8 +27,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/WCS-application-profile-earth-observation/1.0.0
   type: src
-- content: https://docs.ogc.org/profile/10-140r1/10-140r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/profile/10-140r1/10-140r1/pdf
+  type: html
 type: standard
 docid:
 - id: 10-140r1

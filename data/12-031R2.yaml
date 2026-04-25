@@ -33,8 +33,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/waterml-timeseries-netcdf
   type: src
-- content: https://docs.ogc.org/dp/12-031r2/12-031r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/12-031r2/12-031r2/pdf
+  type: html
 type: standard
 docid:
 - id: 12-031r2

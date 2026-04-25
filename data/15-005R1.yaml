@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/dgiwg-wfs2.0-profile/2.0
   type: src
-- content: https://docs.ogc.org/bp/15-005r1/15-005r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/15-005r1/15-005r1/pdf
+  type: html
 type: standard
 docid:
 - id: 15-005r1

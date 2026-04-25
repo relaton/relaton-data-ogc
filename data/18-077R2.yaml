@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/CDB-leveraging-Geopackage
   type: src
-- content: https://docs.ogc.org/dp/18-077r2/18-077r2.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/18-077r2/18-077r2/pdf
+  type: html
 type: standard
 docid:
 - id: 18-077r2

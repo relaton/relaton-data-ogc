@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/TP/cdrp2024-sdi2gki
   type: src
-- content: https://docs.ogc.org/techpaper/24-073/24-073.pdf
-  type: pdf
+- content: https://docs.ogc.org/techpaper/24-073/24-073/pdf
+  type: html
 type: standard
 docid:
 - id: 24-073

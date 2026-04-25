@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/wcs-core-2.0.1-notes
   type: src
-- content: https://docs.ogc.org/note/12-052/12-052.pdf
-  type: pdf
+- content: https://docs.ogc.org/note/12-052/12-052/pdf
+  type: html
 type: standard
 docid:
 - id: 12-052

@@ -17,8 +17,8 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://docs.ogc.org/is/02-069/02-069.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/02-069/02-069/pdf
+  type: html
 type: standard
 docid:
 - id: 02-069

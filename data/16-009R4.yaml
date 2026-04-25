@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/CDB/openflight/1.1
   type: src
-- content: https://docs.ogc.org/bp/16-009r4/16-009r4.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/16-009r4/16-009r4/pdf
+  type: html
 type: standard
 docid:
 - id: 16-009r4

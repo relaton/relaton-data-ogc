@@ -26,8 +26,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/IS/WCS_scaling_extension/1.0.0
   type: src
-- content: https://docs.ogc.org/is/12-039/12-039.pdf
-  type: pdf
+- content: https://docs.ogc.org/is/12-039/12-039/pdf
+  type: html
 type: standard
 docid:
 - id: 12-039

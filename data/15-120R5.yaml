@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/cdb-core-primer/1.1
   type: src
-- content: https://docs.ogc.org/bp/15-120r5/15-120r5.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/15-120r5/15-120r5/pdf
+  type: html
 type: standard
 docid:
 - id: 15-120r5

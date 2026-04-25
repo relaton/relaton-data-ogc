@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/per/FGDC-api-assessment
   type: src
-- content: https://docs.ogc.org/per/17-061/17-061.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/17-061/17-061/pdf
+  type: html
 type: standard
 docid:
 - id: 17-061

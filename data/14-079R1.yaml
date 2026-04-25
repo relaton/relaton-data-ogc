@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/PER/usgs-interop-assessment
   type: src
-- content: https://docs.ogc.org/per/14-079r1/14-079r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/per/14-079r1/14-079r1/pdf
+  type: html
 type: standard
 docid:
 - id: 14-079r1

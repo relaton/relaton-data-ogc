@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/COP-for-oil-spill/1.0
   type: src
-- content: https://docs.ogc.org/bp/15-037/15-037.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/15-037/15-037/pdf
+  type: html
 type: standard
 docid:
 - id: 15-037

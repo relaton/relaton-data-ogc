@@ -27,8 +27,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/dp/dewm
   type: src
-- content: https://docs.ogc.org/dp/23-022r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/23-022r1/pdf
+  type: html
 type: standard
 docid:
 - id: 23-022r1

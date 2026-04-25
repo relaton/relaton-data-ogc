@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/dp/link-multimedia-citygml
   type: src
-- content: https://docs.ogc.org/dp/19-090r1/19-090r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/19-090r1/19-090r1/pdf
+  type: html
 type: standard
 docid:
 - id: 19-090r1

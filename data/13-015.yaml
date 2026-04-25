@@ -21,8 +21,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/BP/obs-via-sos/1.0
   type: src
-- content: https://docs.ogc.org/bp/13-015/13-015.pdf
-  type: pdf
+- content: https://docs.ogc.org/bp/13-015/13-015/pdf
+  type: html
 type: standard
 docid:
 - id: 13-015

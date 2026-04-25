@@ -27,8 +27,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/DP/qoe
   type: src
-- content: https://docs.ogc.org/dp/17-049/17-049.pdf
-  type: pdf
+- content: https://docs.ogc.org/dp/17-049/17-049/pdf
+  type: html
 type: standard
 docid:
 - id: 17-049

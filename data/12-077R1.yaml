@@ -19,8 +19,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/bp/wami-primer/1.0
   type: src
-- content: https://docs.ogc.org/primer/12-077r1/12-077r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/primer/12-077r1/12-077r1/pdf
+  type: html
 type: standard
 docid:
 - id: 12-077r1

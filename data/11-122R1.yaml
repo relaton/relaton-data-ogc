@@ -27,8 +27,8 @@ title:
 link:
 - content: http://www.opengis.net/doc/wfs-gaz-ap
   type: src
-- content: https://docs.ogc.org/rfc/11-122r1/11-122r1.pdf
-  type: pdf
+- content: https://docs.ogc.org/rfc/11-122r1/11-122r1/pdf
+  type: html
 type: standard
 docid:
 - id: 11-122r1
