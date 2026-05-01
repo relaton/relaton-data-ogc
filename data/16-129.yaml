@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/DP/16-129
   type: src
 - content: https://docs.ogc.org/dp/16-129/16-129/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 16-129

@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/testbed10/wcs-wgds-adapter
   type: src
 - content: https://docs.ogc.org/per/14-038r1/14-038r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 14-038r1

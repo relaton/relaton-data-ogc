@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/per/ows9-security
   type: src
 - content: https://docs.ogc.org/per/12-118/12-118/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-118

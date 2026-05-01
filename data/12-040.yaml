@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/IS/WCS-service-extension-range-subsetting/1.0.0
   type: src
 - content: https://docs.ogc.org/is/12-040/12-040/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-040

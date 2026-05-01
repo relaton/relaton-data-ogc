@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/ows8-aviation-architecture
   type: src
 - content: https://docs.ogc.org/per/11-093r2/11-093r2/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 11-093r2

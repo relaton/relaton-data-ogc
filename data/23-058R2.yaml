@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: 23-058r2
+title:
+- content: OGC API
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-intro
+- content: Features
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Part 5 / OGC API -- Common -- Part 3: Schemas'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'OGC API - Features - Part 5 / OGC API -- Common -- Part 3: Schemas'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/ogcapi-common-3/1.0
+  type: src
+- content: https://docs.ogc.org/is/23-058r2/23-058r2.html
+  type: html
+type: standard
+docid:
+- id: 23-058r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-04-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '2'
+revdate: '2026-04-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "This document (Schemas) specifies how geospatial data such as features
+    can be described by a logical schema and how such schemas are published in an
+    OGC Web API implementation. The document is published both as Part 5 of OGC API
+    - Features and as Part 3 of OGC API - Common.\r\n\r\nThis Standard specifies provisions
+    for schemas that are applicable to any type of geospatial data as well as provisions
+    for profiles. While the provision originate from use cases involving feature data,
+    all provisions are not specific to features."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/WP/stds-sustainable-devel
   type: src
 - content: https://docs.ogc.org/techpaper/14-095/14-095/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 14-095

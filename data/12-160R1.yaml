@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/per/ows9-data_quality_web_mapping
   type: src
 - content: https://docs.ogc.org/per/12-160r1/12-160r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-160r1

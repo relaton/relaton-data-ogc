@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/wcs-core-2.0.1
   type: src
 - content: https://docs.ogc.org/is/09-110r4/09-110r4/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: '09-110r4'

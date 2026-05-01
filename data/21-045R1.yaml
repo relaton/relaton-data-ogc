@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.9
+id: 21-045r1
+title:
+- content: OGC Features and Geometries JSON
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-main
+- content: 'Part 1: Core'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: title-part
+- content: 'OGC Features and Geometries JSON - Part 1: Core'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+  type: main
+link:
+- content: http://www.opengis.net/doc/IS/json-fg-1/1.0
+  type: src
+- content: https://docs.ogc.org/is/21-045r1/21-045r1.html
+  type: html
+type: standard
+docid:
+- id: 21-045r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  value: '2026-04-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Clemens Portele
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Open Geospatial Consortium
+  role:
+  - type: publisher
+edition:
+  content: '1'
+revdate: '2026-04-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "GeoJSON is a very popular exchange format for feature data. GeoJSON is
+    widely supported, including in most implementations of the OGC API - Features
+    - Part 1: Core Standard. However, GeoJSON has intentional restrictions that prevent
+    or limit its use in certain geospatial application contexts. For example, GeoJSON
+    is restricted to using only WGS 84 coordinates in Longitude Latitude axis order,
+    supports only the original Simple Features geometry types, and has no concept
+    of classifying features according to their type.\r\n\r\nThe OGC Features and Geometries
+    JSON (JSON-FG) Standard specifies GeoJSON extensions that provide standard ways
+    to support these and other additional requirements. The JSON-FG Standardization
+    goal is to focus on capabilities that may require some geospatial expertise, but
+    that are useful in many applications. Edge cases are considered out-of-scope of
+    JSON-FG.\r\n\r\nSince JSON-FG specifies extensions to the GeoJSON RFC that still
+    conform to the GeoJSON rules, valid JSON-FG features or feature collections are
+    also valid GeoJSON features or feature collections."
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.1
+  doctype:
+    type: standard
+  subdoctype: implementation
+  editorialgroup:
+    committee: technical

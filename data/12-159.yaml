@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/per/ows-9-cci-conflation-provenance
   type: src
 - content: https://docs.ogc.org/per/12-159/12-159/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-159

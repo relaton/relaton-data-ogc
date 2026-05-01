@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/IS/wcs-interpolation/1.1
   type: src
 - content: https://docs.ogc.org/is/24-018r1/24-018r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 24-018r1

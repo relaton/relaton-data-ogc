@@ -28,7 +28,7 @@ link:
 - content: http://www.opengis.net/doc/dp/benefitsOfIndoorLocation
   type: src
 - content: https://docs.ogc.org/dp/16-084/16-084/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 16-084

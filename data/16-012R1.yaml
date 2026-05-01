@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/dp/citygml-indoorgml
   type: src
 - content: https://docs.ogc.org/dp/16-012r1/16-012r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 16-012r1

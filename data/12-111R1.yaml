@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/bp/wms-tnz/1.0
   type: src
 - content: https://docs.ogc.org/bp/12-111r1/12-111r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-111r1

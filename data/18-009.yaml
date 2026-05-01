@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/PER/oip-2017
   type: src
 - content: https://docs.ogc.org/per/18-009/18-009/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 18-009

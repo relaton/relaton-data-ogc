@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/t11-referenceable-grid
   type: src
 - content: https://docs.ogc.org/per/15-065r1/15-065r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 15-065r1

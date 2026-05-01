@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/BP/dseo/1.0
   type: src
 - content: https://docs.ogc.org/bp/13-043/13-043/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 13-043

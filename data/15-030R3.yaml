@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/tb11-geo4niem-roundtrip
   type: src
 - content: https://docs.ogc.org/per/15-030r3/15-030r3/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 15-030r3

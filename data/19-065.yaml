@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/CS/openflight/16.0
   type: src
 - content: https://docs.ogc.org/cs/19-065/19-065/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 19-065

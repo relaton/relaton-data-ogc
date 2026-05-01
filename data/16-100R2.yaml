@@ -27,7 +27,7 @@ link:
 - content: http://www.opengis.net/doc/standard/infragml/part0/1.0
   type: src
 - content: https://docs.ogc.org/is/16-100r2/16-100r2/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 16-100r2

@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/arml/2.0.0
   type: src
 - content: https://docs.ogc.org/is/12-132r4/12-132r4/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-132r4

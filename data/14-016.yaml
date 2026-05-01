@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/testbed10/cci-vgi
   type: src
 - content: https://docs.ogc.org/per/14-016/14-016/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 14-016

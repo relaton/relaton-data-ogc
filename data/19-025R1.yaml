@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/per/marine-sdi
   type: src
 - content: https://docs.ogc.org/per/19-025r1/19-025r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 19-025r1

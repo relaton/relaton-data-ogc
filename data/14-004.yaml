@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/SOS-hydrology-profile
   type: src
 - content: https://docs.ogc.org/dp/14-004/14-004/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 14-004

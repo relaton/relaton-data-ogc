@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/IS/CDB-core/1.0.0
   type: src
 - content: https://docs.ogc.org/is/15-113r3/15-113r3/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 15-113r3

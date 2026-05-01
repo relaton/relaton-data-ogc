@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/dp/om-json/
   type: src
 - content: https://docs.ogc.org/dp/15-100r1/15-100r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 15-100r1

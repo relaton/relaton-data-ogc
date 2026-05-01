@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/PER/Geo4NIEM
   type: src
 - content: https://docs.ogc.org/per/13-054r1/13-054r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 13-054r1

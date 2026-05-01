@@ -22,7 +22,7 @@ link:
 - content: http://www.opengis.net/doc/BP/sos-profile-in-situ/1.0
   type: src
 - content: https://docs.ogc.org/bp/11-169r1/11-169r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 11-169r1

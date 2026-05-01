@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/wps1.0-best-practice-dp
   type: src
 - content: https://docs.ogc.org/dp/12-029/12-029/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-029

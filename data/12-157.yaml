@@ -34,7 +34,7 @@ link:
 - content: http://www.opengis.net/doc/per-ows9-map-tiling
   type: src
 - content: https://docs.ogc.org/per/12-157r1/12-157r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-157

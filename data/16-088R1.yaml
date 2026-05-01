@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/PER/OGC-Soil-IE
   type: src
 - content: https://docs.ogc.org/per/16-088r1/16-088r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 16-088r1

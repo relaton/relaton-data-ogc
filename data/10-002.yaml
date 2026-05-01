@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/ER/climate-plugfest
   type: src
 - content: https://docs.ogc.org/per/10-002/10-002/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 10-002

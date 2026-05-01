@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/DP/SensotThings-tasking
   type: src
 - content: https://docs.ogc.org/dp/18-056/18-056/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 18-056

@@ -20,7 +20,7 @@ link:
 - content: http://www.opengis.net/doc/dp/moving-features-requirements
   type: src
 - content: https://docs.ogc.org/dp/12-117r1/12-117r1/pdf
-  type: html
+  type: pdf
 type: standard
 docid:
 - id: 12-117r1
