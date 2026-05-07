@@ -1,7 +1,7 @@
 ---
 id: 10157r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/om-eo-metadata
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=47040
+- type: html
+  content: https://docs.ogc.org/is/10-157r3/10-157r3/pdf
 docidentifier:
 - content: 10-157r3
   type: OGC
@@ -83,7 +83,7 @@ abstract:
     document is structured to follow the different types of products (Optical, Radar,
     …) which are not HMA specific.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

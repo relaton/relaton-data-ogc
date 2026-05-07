@@ -1,7 +1,7 @@
 ---
 id: 07057r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Tiled WMS Discussion Paper
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=23206
+- type: html
+  content: https://docs.ogc.org/dp/07-057r2/07-057r2/pdf
 docidentifier:
 - content: 07-057r2
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     be extended to allow fast response to a predefined set of tiled maps. It should
     be read in conjunction with the latest version WMS standard.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

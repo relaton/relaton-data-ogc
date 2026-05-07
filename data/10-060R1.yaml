@@ -1,7 +1,7 @@
 ---
 id: 10060r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-7 Event Architecture Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=39509
+- type: html
+  content: https://docs.ogc.org/per/10-060r1/10-060r1/pdf
 docidentifier:
 - content: 10-060r1
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     an abstract publish / subscribe model and then deriving functional requirements
     from this model."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

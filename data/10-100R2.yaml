@@ -1,7 +1,7 @@
 ---
 id: 10100r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Geography Markup Language (GML) simple features profile
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=39853
+- type: html
+  content: https://docs.ogc.org/profile/10-100r2/10-100r2/pdf
 docidentifier:
 - content: 10-100r2
   type: OGC
@@ -75,7 +75,7 @@ abstract:
     features and geometry can be found in the OGC Abstract Specification, Topic Volume
     1: Features (which is equivalent to ISO 19107).'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: profile

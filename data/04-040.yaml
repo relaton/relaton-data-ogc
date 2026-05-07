@@ -1,7 +1,7 @@
 ---
 id: '04040'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Style Management Services for Emergency Mapping Symbology
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=7470
+- type: html
+  content: https://docs.ogc.org/dp/04-040/04-040/pdf
 docidentifier:
 - content: 04-040
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     and constraints to parameterized Symbols used in drawing maps. Symbols are bundles
     of predefined graphical parameters and predefined fixed graphics.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

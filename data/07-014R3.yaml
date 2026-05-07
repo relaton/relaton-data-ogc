@@ -1,7 +1,7 @@
 ---
 id: 07014r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Sensor Planning Service Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=23180
+- type: html
+  content: https://docs.ogc.org/is/07-014r3/07-014r3/pdf
 docidentifier:
 - content: 07-014r3
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
     suite of standards.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

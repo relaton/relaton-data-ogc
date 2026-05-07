@@ -1,7 +1,7 @@
 ---
 id: 07026r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Geospatial eXtensible Access Control Markup Language (GeoXACML)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=25218
+- type: html
+  content: https://docs.ogc.org/is/07-026r2/07-026r2/pdf
 docidentifier:
 - content: 07-026r2
   type: OGC
@@ -74,7 +74,7 @@ abstract:
     of the OGC GeoDRM Reference Model (Topic 18 in the OpenGIS® Abstract Specification
     [http://www.opengeospatial.org/standards/as]). '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

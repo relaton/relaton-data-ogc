@@ -1,7 +1,7 @@
 ---
 id: 05111r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Access Control & Terms of Use (ToU)  "Click-through" IPR Management
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13958
+- type: html
+  content: https://docs.ogc.org/dp/05-111r2/05-111r2/pdf
 docidentifier:
 - content: 05-111r2
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     to rights management (Terms-of-Use, Authentication, content services) that need
     to be described and chained. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

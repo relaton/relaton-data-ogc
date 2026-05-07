@@ -1,7 +1,7 @@
 ---
 id: '08058r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-5 Earth Observation Web Processing Services (WPS) Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=30061
+- type: html
+  content: https://docs.ogc.org/dp/08-058r1/08-058r1/pdf
 docidentifier:
 - content: '08-058r1'
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     provides an overview of web processing services and a description of developments
     related to earth observation implementations of OGC WPS in the OGC OWS-5 testbed.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '14017'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ER/testbed10/owscontextinniem
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=57334
+- type: html
+  content: https://docs.ogc.org/per/14-017/14-017/pdf
 docidentifier:
 - content: 14-017
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     documents in requests for information based on the National Information Exchange
     Model (NIEM).\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 14005r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -19,7 +19,7 @@ source:
 - type: src
   content: http://www.opengis.net/doc/IS/indoorgml/1.0.2
 - type: html
-  content: http://docs.opengeospatial.org/is/14-005r4/14-005r4.html
+  content: https://docs.ogc.org/is/14-005r4/14-005r4.html
 docidentifier:
 - content: 14-005r4
   type: OGC
@@ -98,7 +98,7 @@ abstract:
     and semantic viewpoints, IndoorGML intentionally focuses on modelling indoor spaces
     for navigation purposes.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

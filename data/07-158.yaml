@@ -1,7 +1,7 @@
 ---
 id: '07158'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Wrapping OGC HTTP-GET/POST Services with SOAP
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=25280
+- type: html
+  content: https://docs.ogc.org/dp/07-158/07-158/pdf
 docidentifier:
 - content: 07-158
   type: OGC
@@ -55,7 +55,7 @@ abstract:
   script: Latn
   content: Discussion of how to wrap OGC HTTP-GET/POST Services with SOAP
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

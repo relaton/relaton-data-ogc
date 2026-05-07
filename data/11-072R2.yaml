@@ -1,7 +1,7 @@
 ---
 id: 11072r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS-8 Aviation - WXXM Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46322
+- type: html
+  content: https://docs.ogc.org/per/11-072r2/11-072r2/pdf
 docidentifier:
 - content: 11-072r2
   type: OGC
@@ -84,7 +84,7 @@ abstract:
     by meteorological\r\napplications and services supporting aviation. Such applications
     provide information\r\nwhich enhances safe and efficient tactical and"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '13015'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/obs-via-sos/1.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=52675
+- type: html
+  content: https://docs.ogc.org/bp/13-015/13-015/pdf
 docidentifier:
 - content: 13-015
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     been developed in close cooperation\r\nbetween the FP7 projects EO2HEAVEN and
     UncertWeb (see\r\nhttp://www.uncertweb.org/ )."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

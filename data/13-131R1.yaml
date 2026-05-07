@@ -1,7 +1,7 @@
 ---
 id: 13131r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -91,7 +91,7 @@ abstract:
     Extensions to this specification may realize these core concepts with specific
     binding technologies."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

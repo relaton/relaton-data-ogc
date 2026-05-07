@@ -1,7 +1,7 @@
 ---
 id: '23000'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -68,7 +68,7 @@ abstract:
     is a revision of content that was previously integrated in the SensorML version
     1.0 standard (OGC 07-000), version 2.0 (OGC 12-000), and version 2.1 (OGC 12-000r2)."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

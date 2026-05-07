@@ -1,7 +1,7 @@
 ---
 id: 17083r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -87,7 +87,7 @@ abstract:
     the tile set. Finally, the document offers practical examples of tile matrix sets
     both for common global projections and for specific regions.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

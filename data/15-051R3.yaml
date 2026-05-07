@@ -1,7 +1,7 @@
 ---
 id: 15051r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/tb11-geo4niem-arch
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=65419
+- type: html
+  content: https://docs.ogc.org/per/15-051r3/15-051r3/pdf
 docidentifier:
 - content: 15-051r3
   type: OGC
@@ -82,7 +82,7 @@ abstract:
     NIEM-IC Feature Processing API using OGC Web Services\r\n•\t15-050 Testbed11_Engineering_Report
     Test and Demonstration Results for NIEM using IC Data Encoding Specifications\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

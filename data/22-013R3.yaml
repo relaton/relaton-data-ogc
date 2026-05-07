@@ -1,7 +1,7 @@
 ---
 id: 22013r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -86,7 +86,7 @@ abstract:
     by the aforementioned servers. Finally, this ER captures lessons learned and recommendations
     for IHO and OGC API standards, and recommendations for future work."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 04010r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Geolinked Data Access Service
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=5858
+- type: html
+  content: https://docs.ogc.org/dp/04-010r1/04-010r1/pdf
 docidentifier:
 - content: 04-010r1
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     GDAS can expose data from non-GIS databases so that it can be manipulated and
     mapped with the aid of a Geolinking Service.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 11058r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: "*FL Starfish Fungus Language for Sensor Description "
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=44438
+- type: html
+  content: https://docs.ogc.org/dp/11-058r1/11-058r1/pdf
 docidentifier:
 - content: 11-058r1
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     it is almost impossible to write a simple sensor description without getting major
     guidance through the SensorML development team or other experts.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '12049'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,8 +18,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/WCS-interpolation-extension/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=54502
+- type: html
+  content: https://docs.ogc.org/is/12-049/12-049/pdf
 docidentifier:
 - content: 12-049
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     processing.\r\nThis WCS Interpolation extension relies on WCS Core [OGC 09-110r4]
     and the GML Appli-cation Schema for Coverages [OGC 09-146r2].\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: extension

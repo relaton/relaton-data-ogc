@@ -1,7 +1,7 @@
 ---
 id: '09112r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Sensor Observable Registry (SOR) Discussion Paper
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=40571
+- type: html
+  content: https://docs.ogc.org/dp/09-112r1/09-112r1/pdf
 docidentifier:
 - content: '09-112r1'
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     a web service interface for managing the definitions of phenomena measured by
     sensors as well as exploring semantic relationships between these phenomena.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

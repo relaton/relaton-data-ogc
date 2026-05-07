@@ -1,7 +1,7 @@
 ---
 id: 18001r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/GeoDCAT-AP
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=82475
+- type: html
+  content: https://docs.ogc.org/dp/18-001r1/18-001r1/pdf
 docidentifier:
 - content: 18-001r1
   type: OGC
@@ -91,7 +91,7 @@ abstract:
     conclude a GeoDCAT alignment exercise has been done with ISO 19115/19 and INSPIRE
     to improve the open data and geospatial metadata alignment in the future.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

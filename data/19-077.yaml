@@ -1,7 +1,7 @@
 ---
 id: '19077'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -73,7 +73,7 @@ abstract:
     encourage and facilitate discussion within the OGC membership and wider geospatial
     community.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

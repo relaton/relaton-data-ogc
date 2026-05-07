@@ -1,7 +1,7 @@
 ---
 id: '11055'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC SAA Pilot Study Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=44939
+- type: html
+  content: https://docs.ogc.org/per/11-055/11-055/pdf
 docidentifier:
 - content: 11-055
   type: OGC
@@ -57,7 +57,7 @@ abstract:
     of the SAA Dissemination Pilot Study demonstrations. This includes an overview
     of the implemented components and workflows, and discussions of lessons learned.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

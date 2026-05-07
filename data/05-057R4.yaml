@@ -1,7 +1,7 @@
 ---
 id: 05057r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OpenGIS Catalogue Services - Best Practices for for Earth Observation Products
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=14443
+- type: html
+  content: https://docs.ogc.org/bp/05-057r4/05-057r4/pdf
 docidentifier:
 - content: 05-057r4
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     most of whom have existing (and relatively complex) facilities for the management
     of these data.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

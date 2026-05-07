@@ -1,7 +1,7 @@
 ---
 id: 24067r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -87,7 +87,7 @@ abstract:
     applications in the future and aims to serve as a reference framework for building
     UDTs using OGC standards.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

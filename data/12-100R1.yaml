@@ -1,7 +1,7 @@
 ---
 id: 12100r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -22,8 +22,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/app_schema_profile/wcs_geotiff/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=54813
+- type: html
+  content: https://docs.ogc.org/is/12-100r1/12-100r1/pdf
 docidentifier:
 - content: 12-100r1
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     several OGC services like the Web Coverage Service (WCS) 2.0 Interface Standard
     – Core [OGC 09-110r4].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: 12132r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/arml/2.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=62168
+- type: html
+  content: https://docs.ogc.org/is/12-132r4/12-132r4/pdf
 docidentifier:
 - content: 12-132r4
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     related to the real world. Additionally, ARML 2.0 defines ECMAScript bindings
     to dynamically modify the AR scene based on user behavior and user input.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

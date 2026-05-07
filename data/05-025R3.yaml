@@ -1,7 +1,7 @@
 ---
 id: 05025r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OpenGIS Catalogue Services - ebRIM (ISO/TS 15000-3) profile of CSW
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=12604
+- type: html
+  content: https://docs.ogc.org/dp/05-025r3/05-025r3/zip
 docidentifier:
 - content: 05-025r3
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     since it includes extensions permitted within the context of the base specifications,
     some of which are not part of the ISO 19100 series of geomatics standards.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

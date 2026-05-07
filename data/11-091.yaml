@@ -1,7 +1,7 @@
 ---
 id: '11091'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ows8-wxxs
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46094
+- type: html
+  content: https://docs.ogc.org/per/11-091/11-091/pdf
 docidentifier:
 - content: 11-091
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     Clause 7.1: GML model and syntax\r\n(b) Clause 21: Rules for GML application schemas\r\n(c)
     Annex A.1: Abstract test suite for GML application schemas"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

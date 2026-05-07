@@ -1,7 +1,7 @@
 ---
 id: '99103'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 3 - Locational Geometry Structures
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=886
+- type: html
+  content: https://docs.ogc.org/retired/99-103/99-103/pdf
 docidentifier:
 - content: 99-103
   type: OGC
@@ -60,7 +60,7 @@ abstract:
   content: Provides essential and abstract models for GIS technology that is widely
     used.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

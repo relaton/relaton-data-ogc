@@ -1,7 +1,7 @@
 ---
 id: '16030'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -60,7 +60,7 @@ abstract:
     and exchanged between apps on a single device via GeoPackage. The demonstration
     will show the vector and/or routing data being used by disparate applications.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

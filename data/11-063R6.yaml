@@ -1,7 +1,7 @@
 ---
 id: 11063r6
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46342
+- type: html
+  content: https://docs.ogc.org/per/11-063r6/11-063r6/pdf
 docidentifier:
 - content: 11-063r6
   type: OGC
@@ -81,7 +81,7 @@ abstract:
     relevant standards. The engineering report will offer recommendations on how specific
     OGC standards may be adopted or modified in order to support semantic mediation.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

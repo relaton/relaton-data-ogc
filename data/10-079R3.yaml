@@ -1,7 +1,7 @@
 ---
 id: 10079r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-7 Aviation Architecture Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=40133
+- type: html
+  content: https://docs.ogc.org/per/10-079r3/10-079r3/pdf
 docidentifier:
 - content: 10-079r3
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     the implemented components. In addition it discusses “eventing” and notification
     techniques relevant for the aviation domain.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

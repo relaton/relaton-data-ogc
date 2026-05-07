@@ -1,7 +1,7 @@
 ---
 id: '17019'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -79,7 +79,7 @@ abstract:
     modifications.\r\n\r\nAnother consideration on the ER is the inclusion of the
     time dimension and directions operation in MapML."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

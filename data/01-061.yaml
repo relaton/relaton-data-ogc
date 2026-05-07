@@ -1,7 +1,7 @@
 ---
 id: '01061'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web Terrain Server
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1072
+- type: html
+  content: https://docs.ogc.org/dp/01-061/01-061/pdf
 docidentifier:
 - content: 01-061
   type: OGC
@@ -56,7 +56,7 @@ abstract:
   content: The purpose of theWeb Terrain Server (WTS) is to produce perspective views
     of georeferenced data - typically 3-dimensional coverages.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

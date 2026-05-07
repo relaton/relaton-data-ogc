@@ -1,7 +1,7 @@
 ---
 id: '07118r9'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/EOUM/1.1
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=54929
+- type: html
+  content: https://docs.ogc.org/bp/07-118r9/07-118r9/pdf
 docidentifier:
 - content: 07-118r9
   type: OGC
@@ -79,7 +79,7 @@ abstract:
     W3C and OASIS can be used in combination to pass identity information to OGC Web
     services.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

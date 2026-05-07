@@ -1,7 +1,7 @@
 ---
 id: '02102'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 2 - Spatial Referencing by Coordinates
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1220
+- type: html
+  content: https://docs.ogc.org/as/02-102/02-102/pdf
 docidentifier:
 - content: 02-102
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     to adopt 01-063r2. A motion was approved at the Dec 01 meeting in Vancouver to
     adopt 01-063r1
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

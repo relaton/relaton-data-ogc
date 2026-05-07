@@ -1,7 +1,7 @@
 ---
 id: '05084'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Catalog 2.0 Accessibility for OWS3
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=12597
+- type: html
+  content: https://docs.ogc.org/dp/05-084/05-084/pdf
 docidentifier:
 - content: 05-084
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     concepts. It will help the understanding of the Catalog specification in general
     and of the Catalog Web profile with ebRIM in particular.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

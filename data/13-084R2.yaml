@@ -1,7 +1,7 @@
 ---
 id: 13084r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ISx/csw-ebrim-i15/1.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=56905
+- type: html
+  content: https://docs.ogc.org/is/13-084r2/13-084r2/pdf
 docidentifier:
 - content: 13-084r2
   type: OGC
@@ -92,7 +92,7 @@ abstract:
     document supersedes the former document OGC Cataloguing of ISO Metadata (CIM)
     using the ebRIM profile of CS-W, OGC 07-038r3 (Version: 0.1.12).\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: extension

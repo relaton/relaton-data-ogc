@@ -1,7 +1,7 @@
 ---
 id: 06103r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -21,8 +21,8 @@ title:
     feature access - Part 1: Common architecture'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=18241
+- type: html
+  content: https://docs.ogc.org/is/06-103r3/06-103r3/pdf
 docidentifier:
 - content: 06-103r3
   type: OGC
@@ -77,7 +77,7 @@ abstract:
     not provided here.) \r\n\r\nThe corresponding standard for the Web is the OpenGIS®
     Web Feature Service Interface Standard http://www.opengeospatial.org/standards/wfs.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

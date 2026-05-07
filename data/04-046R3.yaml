@@ -1,7 +1,7 @@
 ---
 id: 04046r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 2 - Spatial Referencing by Coordinates
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=6716
+- type: html
+  content: https://docs.ogc.org/as/04-046r3/04-046r3/pdf
 docidentifier:
 - content: 04-046r3
   type: OGC
@@ -61,7 +61,7 @@ abstract:
   script: Latn
   content: Describes modelling requirements for spatial referencing by coordinates.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

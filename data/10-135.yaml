@@ -1,7 +1,7 @@
 ---
 id: '10135'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Tasking ExtensionOGC® Sensor Planning Service
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=40185
+- type: html
+  content: https://docs.ogc.org/is/10-135/10-135/pdf
 docidentifier:
 - content: 10-135
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     and for requesting information on means of obtaining the data collected by the
     requested task.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: extension

@@ -1,7 +1,7 @@
 ---
 id: '08167r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Semantic annotations in OGC standards
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34916
+- type: html
+  content: https://docs.ogc.org/dp/08-167r1/08-167r1/pdf
 docidentifier:
 - content: '08-167r1'
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     data or processes. In this discussion paper we try to extend the expressiveness
     of such annotations by including more sophisticated (semantic) descriptions.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

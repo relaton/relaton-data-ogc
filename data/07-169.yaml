@@ -1,7 +1,7 @@
 ---
 id: '07169'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-5 WCS JPIP Coverage Subsetting Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=27047
+- type: html
+  content: https://docs.ogc.org/dp/07-169/07-169/pdf
 docidentifier:
 - content: 07-169
   type: OGC
@@ -58,7 +58,7 @@ abstract:
     imagery in the JPEG2000 format as well as using JPIP within the WCS-T and the
     SWE set of services.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '05019'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web 3D Service
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=8869
+- type: html
+  content: https://docs.ogc.org/dp/05-019/05-019/pdf
 docidentifier:
 - content: 05-019
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     be explored by the user. The W3DS merges different types (layers) of 3D data in
     one scene graph. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

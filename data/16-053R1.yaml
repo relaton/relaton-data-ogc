@@ -1,7 +1,7 @@
 ---
 id: 16053r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -84,7 +84,7 @@ abstract:
     schema.org model to recognize that they are very similar and propose a encoding
     in HTML5 that can be done in the 3 alternative proposed by schema.org.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

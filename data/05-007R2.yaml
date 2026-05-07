@@ -1,7 +1,7 @@
 ---
 id: 05007r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web Processing Service
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=10634
+- type: html
+  content: https://docs.ogc.org/dp/05-007r2/05-007r2/zip
 docidentifier:
 - content: 05-007r2
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     from the calculation so that it can be accessed by the client.  The Web Processing
     Service is targeted at both vector and raster data based processing. \r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

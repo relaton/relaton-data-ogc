@@ -1,7 +1,7 @@
 ---
 id: '06098'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: 'Change Request: WCS: Proposal for WCS Transactional - WCS-T'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=20257
+- type: html
+  content: https://docs.ogc.org/cr/06-098/06-098/pdf
 docidentifier:
 - content: 06-098
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     (server-side).  One of the goals of OWS-4 was to extend WCS to support these operations,
     generally referred to as '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: change-request-supporting-document
   flavor: ogc

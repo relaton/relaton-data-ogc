@@ -1,7 +1,7 @@
 ---
 id: '20012'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -109,7 +109,7 @@ abstract:
     have been publicly released as a component of ShapeChange v2.10.0. https://shapechange.net
     has been updated to document the enhancements."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

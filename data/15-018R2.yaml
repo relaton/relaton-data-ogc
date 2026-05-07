@@ -1,7 +1,7 @@
 ---
 id: 15018r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -72,7 +72,7 @@ abstract:
     is the second part of the WaterML2.0 suite of standards, building on part 1\r\nthat
     addresses the exchange of time series.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

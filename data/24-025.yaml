@@ -1,7 +1,7 @@
 ---
 id: '24025'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -126,7 +126,7 @@ abstract:
     on supporting and collaborating on projects to help create the best practices
     on that matter."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

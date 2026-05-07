@@ -1,7 +1,7 @@
 ---
 id: '18089'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -85,7 +85,7 @@ abstract:
     clouds for visualization and mapping (e.g., use in localization, object classification,
     integration with virtual/augmented reality solutions, change detection, etc.)."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

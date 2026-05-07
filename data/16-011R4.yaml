@@ -1,7 +1,7 @@
 ---
 id: 16011r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/CDB-SRF/1.1
-- type: pdf
-  content: https://portal.ogc.org/files/16-011r4
+- type: html
+  content: https://docs.ogc.org/bp/16-011r4/16-011r4/pdf
 docidentifier:
 - content: 16-011r4
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     standard, this CDB volume was Appendix K in CDB Version 3.2 as submitted to the
     OGC.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

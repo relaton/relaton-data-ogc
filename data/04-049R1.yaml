@@ -1,7 +1,7 @@
 ---
 id: '04049r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'WCS Change Request: Support for WSDL & SOAP'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=9540
+- type: html
+  content: https://docs.ogc.org/dp/04-049r1/04-049r1/pdf
 docidentifier:
 - content: 04-049r1
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     change proposal present the required change to the WCS specification to interoperate
     with the industry standards.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

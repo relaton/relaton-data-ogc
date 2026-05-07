@@ -1,7 +1,7 @@
 ---
 id: 10069r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS-7 Engineering Report  - Geosynchronization service
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=39476
+- type: html
+  content: https://docs.ogc.org/per/10-069r2/10-069r2/pdf
 docidentifier:
 - content: 10-069r2
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     changes are applied to the feature(s).  The service also maintains a log of all
     changes applied to each feature that can be used for replication.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '20050'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -63,7 +63,7 @@ abstract:
     CDB structured Shapefiles into CDB structure GeoPackages that are compliant with
     the requirements and conformance classes as defined in this document.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

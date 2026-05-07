@@ -1,7 +1,7 @@
 ---
 id: '11018'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: License-Based Access Control
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=42735
+- type: html
+  content: https://docs.ogc.org/dp/11-018/11-018/pdf
 docidentifier:
 - content: 11-018
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     not claim compliance to the GeoDRM reference model (ISO 19153), although the authors
     are not yet aware of any conflicts to it.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '10132'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS-7 Aviation - WXXM Assessment Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=40149
+- type: html
+  content: https://docs.ogc.org/per/10-132/10-132/pdf
 docidentifier:
 - content: 10-132
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     volcano. The focus of this document will be to evaluate the ability to encode
     and serve associated operational data with WXXM 1.1.1.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

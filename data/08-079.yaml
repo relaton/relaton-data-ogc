@@ -1,7 +1,7 @@
 ---
 id: '08079'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'OWS5: OGC Web feature service, core and extensions'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=28176
+- type: html
+  content: https://docs.ogc.org/dp/08-079/08-079/pdf
 docidentifier:
 - content: '08-079'
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     feature properties defined by the client. Transaction operations allow features
     to be created, changed and deleted from the opaque underlying data store.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

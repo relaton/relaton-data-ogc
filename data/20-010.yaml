@@ -1,7 +1,7 @@
 ---
 id: '20010'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -100,7 +100,7 @@ abstract:
     the reuse of the same data in different application fields.\r\n\r\nThe class models
     described in this standard are also available at https://github.com/opengeospatial/CityGML3-Workspace/tree/1.0/UML/CityGML"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

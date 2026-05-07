@@ -1,7 +1,7 @@
 ---
 id: 10003r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Phase 1 (AECOO-1) Joint Testbed
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=37223
+- type: html
+  content: https://docs.ogc.org/bp/10-003r1/10-003r1/pdf
 docidentifier:
 - content: 10-003r1
   type: OGC
@@ -83,7 +83,7 @@ abstract:
     problems must not hold them back. Non-interoperable software and data is cause
     for loss of competition across the market.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

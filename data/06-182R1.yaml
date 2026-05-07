@@ -1,7 +1,7 @@
 ---
 id: '06182r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Discussions, findings, and use of WPS in OWS-4
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=19424
+- type: html
+  content: https://docs.ogc.org/dp/06-182r1/06-182r1/pdf
 docidentifier:
 - content: 06-182r1
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     describes the WPS processes deployed in the workflows, and offers suggestions
     to the OGC to move forward with the WPS. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

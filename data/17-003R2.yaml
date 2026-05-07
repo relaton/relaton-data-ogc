@@ -1,7 +1,7 @@
 ---
 id: 17003r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -99,7 +99,7 @@ abstract:
     to be explicitly defined as a URI.  Furthermore, the JSON encoding is defined
     using JSON Schema [OR18] which allows validation of instances against these schemas."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

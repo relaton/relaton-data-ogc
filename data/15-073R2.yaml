@@ -1,7 +1,7 @@
 ---
 id: 15073r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/t11-dgiwg-gmljp2
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=65887
+- type: html
+  content: https://docs.ogc.org/per/15-073r2/15-073r2/pdf
 docidentifier:
 - content: 15-073r2
   type: OGC
@@ -80,7 +80,7 @@ abstract:
     version 2.\r\nThis Testbed 11 activity is a response to the need of harmonization
     between DGIWG and\r\nOGC."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

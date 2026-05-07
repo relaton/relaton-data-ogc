@@ -1,7 +1,7 @@
 ---
 id: 12128r12a
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -70,7 +70,7 @@ abstract:
     useful on mobile devices like cell phones and tablets in communications environments
     with limited connectivity and bandwidth.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

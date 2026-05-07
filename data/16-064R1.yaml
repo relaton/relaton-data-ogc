@@ -1,7 +1,7 @@
 ---
 id: 16064r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/citygml-quality-ie
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=68821
+- type: html
+  content: https://docs.ogc.org/per/16-064r1/16-064r1/pdf
 docidentifier:
 - content: 16-064r1
   type: OGC
@@ -76,7 +76,7 @@ abstract:
     guidance for 3D data and a suite of essential quality checking tools to\r\ncarry
     out quality assurance on CityGML data."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

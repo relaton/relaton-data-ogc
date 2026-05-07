@@ -1,7 +1,7 @@
 ---
 id: 15077r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/tb11-SOAP
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=64406
+- type: html
+  content: https://docs.ogc.org/per/15-077r1/15-077r1/pdf
 docidentifier:
 - content: 15-077r1
   type: OGC
@@ -76,7 +76,7 @@ abstract:
     The best practices could then be applied to all OGC service standards that offer
     SOAP bindings.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

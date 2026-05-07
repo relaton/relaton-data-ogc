@@ -1,7 +1,7 @@
 ---
 id: '09047r3'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,8 +18,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/POL-NTS/DOC/1.2
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=41774
+- type: html
+  content: https://docs.ogc.org/pol/09-047r3/09-047r3/pdf
 docidentifier:
 - content: '09-047r3'
   type: OGC
@@ -64,7 +64,7 @@ abstract:
   content: This document specifies a rule for constructing OGC names that may be used
     for identifying documents and elements within a document.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

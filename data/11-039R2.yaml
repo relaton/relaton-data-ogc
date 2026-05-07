@@ -1,7 +1,7 @@
 ---
 id: 11039r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/hy-features
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=47831
+- type: html
+  content: https://docs.ogc.org/dp/11-039r2/11-039r2/pdf
 docidentifier:
 - content: 11-039r2
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     It is factored into relatively simple components that can be reviewed, tested
     and extended independently.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

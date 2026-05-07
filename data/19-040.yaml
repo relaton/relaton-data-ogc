@@ -1,7 +1,7 @@
 ---
 id: '19040'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -62,7 +62,7 @@ abstract:
     and another based on the OGC API principles (and the OGC API - Common draft specification).
     Both approaches facilitate a common Route Exchange Model.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 17088r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -78,7 +78,7 @@ abstract:
     describes the description and results of the simulated scenario including the
     post-exercise activity that captured the lessons learned from the participants.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

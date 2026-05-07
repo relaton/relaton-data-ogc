@@ -1,7 +1,7 @@
 ---
 id: '17061'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/FGDC-api-assessment
-- type: pdf
-  content: https://portal.ogc.org/files/17-061
+- type: html
+  content: https://docs.ogc.org/per/17-061/17-061/pdf
 docidentifier:
 - content: 17-061
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     understand how APIs are currently being generated and if using a more standardized
     approach to APIs might enable a more robust and optimized service offering. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

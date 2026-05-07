@@ -1,7 +1,7 @@
 ---
 id: 16012r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/citygml-indoorgml
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=68824
+- type: html
+  content: https://docs.ogc.org/dp/16-012r1/16-012r1/pdf
 docidentifier:
 - content: 16-012r1
   type: OGC
@@ -88,7 +88,7 @@ abstract:
     standards to make useful applications. These comparative experiments are based
     on a real site: a shopping mall at Lotte World Mall in Seoul, South Korea.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

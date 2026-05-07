@@ -1,7 +1,7 @@
 ---
 id: 06004r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -17,8 +17,8 @@ title:
     RM)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=17802
+- type: html
+  content: https://docs.ogc.org/as/06-004r4/06-004r4/pdf
 docidentifier:
 - content: 06-004r4
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     make sure that a larger market has access to geospatial resources through a mechanism
     that it understands and that is similar to the ones already in use.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

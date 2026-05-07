@@ -1,7 +1,7 @@
 ---
 id: '19026'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -65,7 +65,7 @@ abstract:
     suitability of the OGC WPS 2.0 standard as an API for Cloud analytics;\r\n\r\nUsing
     OGC Web Services (WS) as analytics data sources and sinks."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

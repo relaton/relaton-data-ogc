@@ -1,7 +1,7 @@
 ---
 id: 18077r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/CDB-leveraging-Geopackage
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=82553
+- type: html
+  content: https://docs.ogc.org/dp/18-077r2/18-077r2/pdf
 docidentifier:
 - content: 18-077r2
   type: OGC
@@ -88,7 +88,7 @@ abstract:
     dissemination for live, virtual, constructive, gaming, and mission command (MC)
     systems.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

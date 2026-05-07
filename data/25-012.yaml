@@ -1,0 +1,75 @@
+---
+id: '25012'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Generative AI for Wildfire Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Generative AI for Wildfire Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/CDRP-2024.2/D030
+- type: html
+  content: https://docs.ogc.org/per/25-012.html
+docidentifier:
+- content: 25-012
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-04-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Matt Tricomi
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Connor Miller
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This engineering report delivers a comprehensive Generative AI for Wildfire
+    State-of-the-Art Report as part of the OGC Disaster Pilot 2024 Phase 2. This deliverable
+    builds on Xentity’s expertise and contributions to Phase 1 (D-123) for advancing
+    the integration of Generative AI (GenAI) technologies into wildfire risk, hazard,
+    and insurance workflows. Phase 1 provided a U.S. data focus across all wildfire
+    use cases and went deeper into broader GenAI governance, capabilities and technology
+    approaches in LLM, RAG, NLP integration, GANs, and AI Agent integration.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: engineering-report
+  flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 18042r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -72,7 +72,7 @@ abstract:
     is formally a profile of the OGC policy ''OGC-NA Name type specification - definitions:
     Part 1 - basic name'' (OGC 09-048r5).'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

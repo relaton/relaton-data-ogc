@@ -1,7 +1,7 @@
 ---
 id: '19032'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -75,7 +75,7 @@ abstract:
     extension of a reference to four existing CityGML classes; and\r\n\r\nThe creation
     of seven new CityGML classes that are critical for public safety use cases."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

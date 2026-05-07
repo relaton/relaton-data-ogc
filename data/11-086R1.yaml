@@ -1,7 +1,7 @@
 ---
 id: 11086r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS-8 Aviation Thread - Authoritative AIXM Data Source Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46019
+- type: html
+  content: https://docs.ogc.org/per/11-086r1/11-086r1/pdf
 docidentifier:
 - content: 11-086r1
   type: OGC
@@ -68,7 +68,7 @@ abstract:
   content: "This engineering report describes how to provide access control for WFS-T
     2.0 instances\r\nin the OWS-8 Authoritative AIXM Data Source scenario."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

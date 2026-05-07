@@ -1,7 +1,7 @@
 ---
 id: '09032'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 SWE Event Architecture Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=33347
+- type: html
+  content: https://docs.ogc.org/per/09-032/09-032/pdf
 docidentifier:
 - content: '09-032'
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     architectures. Furthermore various techniques for implementing an event architecture
     and working with events are discussed.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

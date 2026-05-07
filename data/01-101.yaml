@@ -1,7 +1,7 @@
 ---
 id: '01101'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -59,7 +59,7 @@ abstract:
   script: Latn
   content: Same as ISO 19107, available at http://www.iso.org.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

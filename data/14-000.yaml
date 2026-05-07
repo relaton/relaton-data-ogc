@@ -1,7 +1,7 @@
 ---
 id: '14000'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ER/testbed10/gml-for-aviation-conformance
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=58995
+- type: html
+  content: https://docs.ogc.org/per/14-000/14-000/pdf
 docidentifier:
 - content: 14-000
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     ER”. The essential aim is to advance compliance with respect to the use of\r\nGML
     geometry representations in aviation (AIXM) data."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

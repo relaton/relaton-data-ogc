@@ -1,7 +1,7 @@
 ---
 id: 10090r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC Network Common Data Form (NetCDF)  Core Encoding Standard version 1.0
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=43732
+- type: html
+  content: https://docs.ogc.org/is/10-090r3/10-090r3/pdf
 docidentifier:
 - content: 10-090r3
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     the interfaces, libraries, and format support the crea-tion, access, and sharing
     of multi-dimensional scientific data.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

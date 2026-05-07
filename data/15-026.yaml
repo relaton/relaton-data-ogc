@@ -1,7 +1,7 @@
 ---
 id: '15026'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC® Testbed-11 Aviation Feature Schema Recommendations Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=63306
+- type: html
+  content: https://docs.ogc.org/per/15-026/15-026/pdf
 docidentifier:
 - content: 15-026
   type: OGC
@@ -79,7 +79,7 @@ abstract:
     areas\r\nof improvement. The report is aimed at system and client developers that
     shall use AFX."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

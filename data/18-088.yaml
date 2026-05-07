@@ -1,7 +1,7 @@
 ---
 id: '18088'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -75,7 +75,7 @@ abstract:
     observations and metadata from heterogeneous IoT sensor systems. This document
     is version 1.1 and it is extending the first version of Sensing part.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: 20019r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -65,7 +65,7 @@ abstract:
     of the contents of a GeoPackage and exchange the OS portrayal styles and symbols.
     The metadata proved to be interoperable between the server and client implementation.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 22022r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -89,7 +89,7 @@ abstract:
     received funding from the European Union’s Horizon 2020 research and innovation
     program."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

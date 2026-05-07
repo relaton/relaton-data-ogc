@@ -1,7 +1,7 @@
 ---
 id: '15056'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/t11-cat-discovery
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=64382
+- type: html
+  content: https://docs.ogc.org/per/15-056/15-056/pdf
 docidentifier:
 - content: 15-056
   type: OGC
@@ -77,7 +77,7 @@ abstract:
     as tasks in advancing catalogue search and data discovery in future testbeds is
     also discussed. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

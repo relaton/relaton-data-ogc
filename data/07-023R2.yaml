@@ -1,7 +1,7 @@
 ---
 id: 07023r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC Web Services Architecture for CAD GIS and BIM
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=21622
+- type: html
+  content: https://docs.ogc.org/dp/07-023r2/07-023r2/pdf
 docidentifier:
 - content: 07-023r2
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     models from Computer Aided Design and Building Information Modelling with the
     principles of the OGC Web Services Architecture. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

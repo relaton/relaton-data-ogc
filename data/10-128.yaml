@@ -1,7 +1,7 @@
 ---
 id: '10128'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC Compliance Testing White Paper
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=41359
+- type: html
+  content: https://docs.ogc.org/techpaper/10-128/10-128/pdf
 docidentifier:
 - content: 10-128
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     procurement documents\r\n• Trademark licensing fees\r\n• An example of an OGC
     compliance test "
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

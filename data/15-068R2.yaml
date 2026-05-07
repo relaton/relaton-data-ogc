@@ -1,7 +1,7 @@
 ---
 id: 15068r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/tb11-geopackaging
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=64189
+- type: html
+  content: https://docs.ogc.org/per/15-068r2/15-068r2/pdf
 docidentifier:
 - content: 15-068r2
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     of various standards to achieve such synchronization. The document also presents
     the results and lessons learnt from the experimentation conducted in the Testbed.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

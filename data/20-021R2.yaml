@@ -1,7 +1,7 @@
 ---
 id: 20021r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -67,7 +67,7 @@ abstract:
     The API was invoked to register keys used to encrypt data-centric protected content.
     Then clients called the same API to obtain those keys to perform the data verification/decryption.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

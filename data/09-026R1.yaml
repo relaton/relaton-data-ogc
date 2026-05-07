@@ -1,7 +1,7 @@
 ---
 id: '09026r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Filter Encoding 2.0 Encoding Standard
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=39968
+- type: html
+  content: https://docs.ogc.org/is/09-026r1/09-026r1/pdf
 docidentifier:
 - content: '09-026r1'
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     used together or individually by other standards which reference this International
     Standard."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

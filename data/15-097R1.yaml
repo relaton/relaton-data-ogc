@@ -1,7 +1,7 @@
 ---
 id: 15097r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -78,7 +78,7 @@ abstract:
     the future other encodings may be defined, including examples such as the use
     of JSON-LD based on parts of schema.org.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

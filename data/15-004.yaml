@@ -1,7 +1,7 @@
 ---
 id: '15004'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/cdb-vol2/1.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=61936
+- type: html
+  content: https://docs.ogc.org/bp/15-004/15-004/pdf
 docidentifier:
 - content: 15-004
   type: OGC
@@ -90,7 +90,7 @@ abstract:
     simulation applications.  The organization of the synthetic environmental data
     in a CDB is specifically tailored for real-time applications. \r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

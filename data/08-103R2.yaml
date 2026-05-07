@@ -1,7 +1,7 @@
 ---
 id: '08103r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: 'CSW-ebRIM Registry Service - Part 3: Abstract Test Suite'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=31139
+- type: html
+  content: https://docs.ogc.org/ts/08-103r2/08-103r2/zip
 docidentifier:
 - content: '08-103r2'
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     of overall functional correctness, it cannot guarantee that an implementation
     is faultless.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 24043r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -100,7 +100,7 @@ abstract:
     options, including knowledge graphs, AI generated syntheses of extensive bodies
     of knowledge, and processes for human experts producing documentation."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

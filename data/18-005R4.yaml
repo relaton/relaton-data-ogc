@@ -1,7 +1,7 @@
 ---
 id: 18005r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -65,7 +65,7 @@ abstract:
     (2019) of ISO 19111, Geographic Information - Spatial referencing by coordinates
     [ISO 19111:2019].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

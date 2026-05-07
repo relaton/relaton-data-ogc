@@ -1,7 +1,7 @@
 ---
 id: 07006r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Catalogue Service Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=20555
+- type: html
+  content: https://docs.ogc.org/is/07-006r1/07-006r1/pdf
 docidentifier:
 - content: 07-006r1
   type: OGC
@@ -79,7 +79,7 @@ abstract:
     and the OpenGIS® Catalogue Service Interface Standard 2.0.1 - FGDC CSDGM Application
     Profile for CSW (Best Practice) [http://www.opengeospatial.org/standards/bp].\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

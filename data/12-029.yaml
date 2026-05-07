@@ -1,7 +1,7 @@
 ---
 id: '12029'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/wps1.0-best-practice-dp
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=47860
+- type: html
+  content: https://docs.ogc.org/dp/12-029/12-029/pdf
 docidentifier:
 - content: 12-029
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     formats for the OGC WPS 1.0.0. It was created due to a lack of interoperability
     between different WPS implementation based on non-standardized input identifiers.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

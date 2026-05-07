@@ -1,7 +1,7 @@
 ---
 id: 12111r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/bp/wms-tnz/1.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=56394
+- type: html
+  content: https://docs.ogc.org/bp/12-111r1/12-111r1/pdf
 docidentifier:
 - content: 12-111r1
   type: OGC
@@ -99,7 +99,7 @@ abstract:
     will be applicable to other versions of WMS or to other OGC services, such as
     the Web Coverage Service.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

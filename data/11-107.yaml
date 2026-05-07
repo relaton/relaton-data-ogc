@@ -1,7 +1,7 @@
 ---
 id: '11107'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/ows-8_domain_modelling
-- type: pdf
-  content: https://portal.ogc.org/files/11-107
+- type: html
+  content: https://docs.ogc.org/per/11-107/11-107/pdf
 docidentifier:
 - content: 11-107
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     Exchange Model (AIXM) and Farm Markup Language\r\n(FarmML) as they were refined
     in the OGC’s OWS-8 testbed."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

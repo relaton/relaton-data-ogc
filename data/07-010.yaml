@@ -1,7 +1,7 @@
 ---
 id: '07010'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Version 2.0.2'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=20561
+- type: html
+  content: https://docs.ogc.org/is/07-010/07-010/pdf
 docidentifier:
 - content: 07-010
   type: OGC
@@ -58,7 +58,7 @@ abstract:
   content: This document is a corrigendum for OGC Document 04-021r3. All changes described
     herein are published in OGC Document 07-006r1.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: 10127r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS-7 Engineering Report - Aviation Portrayal
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=40134
+- type: html
+  content: https://docs.ogc.org/per/10-127r1/10-127r1/pdf
 docidentifier:
 - content: 10-127r1
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     This includes the interfaces to the OWS Data Services deployed, the feature portrayal
     servers, the interfaces to clients and the registry information model and interface.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

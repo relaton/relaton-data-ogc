@@ -1,7 +1,7 @@
 ---
 id: '07012'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Compliance Test Engine Interoperability Program Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=20582
+- type: html
+  content: https://docs.ogc.org/dp/07-012/07-012/pdf
 docidentifier:
 - content: 07-012
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     Test Language (CTL), a grammar also developed by NGIT.  This IPR describes TEAM
     Engine in detail and provides information on how it was used in OWS-4/CITE.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

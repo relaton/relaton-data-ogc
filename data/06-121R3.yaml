@@ -1,7 +1,7 @@
 ---
 id: 06121r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Web Service Common Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=20040
+- type: html
+  content: https://docs.ogc.org/is/06-121r3/06-121r3/pdf
 docidentifier:
 - content: 06-121r3
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     Rather than continuing to repeat this material in each such standard, each standard
     will normatively reference parts of this document.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

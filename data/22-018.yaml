@@ -1,7 +1,7 @@
 ---
 id: '22018'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -72,7 +72,7 @@ abstract:
     Centric Security (DCS) can be applied in combination with OGC API-Records to allow
     encrypted delivery and access of catalog metadata between communication partners."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

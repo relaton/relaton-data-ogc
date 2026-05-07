@@ -1,7 +1,7 @@
 ---
 id: 21060r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -19,8 +19,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/AS/Topic-6.3/1.0
-- type: pdf
-  content: https://docs.ogc.org/as/21-060r2/21-060r2.pdf
+- type: html
+  content: https://docs.ogc.org/as/21-060r2/21-060r2/pdf
 docidentifier:
 - content: 21-060r2
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     particular. While the core functionality is expected to be generic and applicable
     for any coverage, there may be special functionality for particular coverage types."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 14012r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/rest-sps-for-eo-tasking/1.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=57203
+- type: html
+  content: https://docs.ogc.org/bp/14-012r1/14-012r1/pdf
 docidentifier:
 - content: 14-012r1
   type: OGC
@@ -91,7 +91,7 @@ abstract:
     OGC 13-039 [NR23]. Actually this part of the specification refers to the OpenSearch
     Extension for Earth Observation Satellite Tasking.\r\n&#8195;\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

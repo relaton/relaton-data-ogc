@@ -1,7 +1,7 @@
 ---
 id: '12155'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/ows9-wcs-lidar
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=51891
+- type: html
+  content: https://docs.ogc.org/per/12-155/12-155/pdf
 docidentifier:
 - content: 12-155
   type: OGC
@@ -75,7 +75,7 @@ abstract:
     with GMLJP2 metadata description as well as the JPIP protocol to deliver the output
     JPEG2000 data. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

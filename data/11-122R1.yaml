@@ -1,7 +1,7 @@
 ---
 id: 11122r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -19,8 +19,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/wfs-gaz-ap
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46964
+- type: html
+  content: https://docs.ogc.org/rfc/11-122r1/11-122r1/pdf
 docidentifier:
 - content: 11-122r1
   type: OGC
@@ -79,7 +79,7 @@ abstract:
     place-name features that have Parent-Child relationships and then follow those
     links\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

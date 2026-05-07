@@ -1,7 +1,7 @@
 ---
 id: 10032r8
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/opensearchgeo/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=56866
+- type: html
+  content: https://docs.ogc.org/is/10-032r8/10-032r8/pdf
 docidentifier:
 - content: 10-032r8
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     that support the OpenSearch Specification, the Geo and Time extensions defined
     in this document are called OpenSearch GeoTemporal Services.</p>\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

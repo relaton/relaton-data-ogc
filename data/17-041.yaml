@@ -1,7 +1,7 @@
 ---
 id: '17041'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -70,7 +70,7 @@ abstract:
     may be extended with the necessary capabilities enabling the full range of geometry
     types and tiling strategies to support vector tiling.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

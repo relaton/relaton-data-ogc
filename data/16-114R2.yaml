@@ -1,7 +1,7 @@
 ---
 id: 16114r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -65,7 +65,7 @@ abstract:
     performance at the cost of additional restrictions on the kinds of features that
     can be stored.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

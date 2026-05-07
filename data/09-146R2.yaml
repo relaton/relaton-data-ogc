@@ -1,7 +1,7 @@
 ---
 id: '09146r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/GML/GMLCOV/1.0.1
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=48553
+- type: html
+  content: https://docs.ogc.org/sap/09-146r2/09-146r2/pdf
 docidentifier:
 - content: '09-146r2'
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     augmented\r\ncoverage structure can serve a wide range of coverage application
     domains and service types, thereby contributing to harmonization and interoperability."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: profile

@@ -1,7 +1,7 @@
 ---
 id: 07007r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS4 - Topology Quality Assessment Interoperability Program Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=21821
+- type: html
+  content: https://docs.ogc.org/dp/07-007r1/07-007r1/pdf
 docidentifier:
 - content: 07-007r1
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     Assessment Service developed and deployed within the Geo-processing workflow thread
     of the OWS4 interoperability testbed.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

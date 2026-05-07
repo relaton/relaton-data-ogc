@@ -1,7 +1,7 @@
 ---
 id: '18000'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -68,7 +68,7 @@ abstract:
     of that parcel or linking census boundaries to the related demographic census
     data."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

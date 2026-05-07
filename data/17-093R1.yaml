@@ -1,7 +1,7 @@
 ---
 id: 17093r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -75,7 +75,7 @@ abstract:
     systems, and observed the results. As a result of this work, the IE participants
     agree that the extension is fit for use and consideration as a standard by OGC.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 01024r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web Registry Server
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1028
+- type: html
+  content: https://docs.ogc.org/dp/01-024r1/01-024r1/pdf
 docidentifier:
 - content: 01-024r1
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     Registry provides the methods for managing a repository; a Registry Client is
     an application used to access the Registry.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

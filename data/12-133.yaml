@@ -1,7 +1,7 @@
 ---
 id: '12133'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengeospatial.org/doc/PER/ows9/ws-facade
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=51178
+- type: html
+  content: https://docs.ogc.org/per/12-133/12-133/pdf
 docidentifier:
 - content: 12-133
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     Service. However, it can be configured to support translations between multiple
     protocols, such as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

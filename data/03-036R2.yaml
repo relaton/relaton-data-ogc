@@ -1,7 +1,7 @@
 ---
 id: 03036r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web Map Context Documents
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=3841
+- type: html
+  content: https://docs.ogc.org/is/03-036r2/03-036r2/pdf
 docidentifier:
 - content: 03-036r2
   type: OGC
@@ -57,7 +57,7 @@ abstract:
   script: Latn
   content: Create, store, and use state information from a WMS based client application
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

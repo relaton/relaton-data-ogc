@@ -1,7 +1,7 @@
 ---
 id: '20095'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/DGIWG-GeoTIFF/2.3
-- type: pdf
-  content: https://portal.ogc.org/files/95763
+- type: html
+  content: https://docs.ogc.org/bp/20-095/20-095/pdf
 docidentifier:
 - content: 20-095
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     System (CRS) definitions, which may not be applicable to other user communities.\r\nThis
     Best Practice also defines a GEO_METADATA tag, which may be of more general interest.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

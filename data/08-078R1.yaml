@@ -1,7 +1,7 @@
 ---
 id: '08078r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'OGC® OWS-5 ER: GSIP Schema Processing'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=29029
+- type: html
+  content: https://docs.ogc.org/dp/08-078r1/08-078r1/pdf
 docidentifier:
 - content: '08-078r1'
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     on the GEOINT Structure Implementation Profile (GSIP) which has been based on
     the NSG Application Schema and accompanying NSG Entity Catalog. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

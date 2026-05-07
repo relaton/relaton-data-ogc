@@ -1,7 +1,7 @@
 ---
 id: '09033'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 SensorML Profile for Discovery Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=33284
+- type: html
+  content: https://docs.ogc.org/per/09-033/09-033/pdf
 docidentifier:
 - content: '09-033'
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     achieved by a set of Schematron rules that can be used to validate if a given
     SensorML document complies with the profile described in this engineering report.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

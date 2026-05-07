@@ -1,7 +1,7 @@
 ---
 id: 22010r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -99,7 +99,7 @@ abstract:
     a compliant deformation model to be confident that the model is being used as
     intended by its producers."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

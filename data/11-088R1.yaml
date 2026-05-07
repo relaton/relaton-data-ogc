@@ -1,7 +1,7 @@
 ---
 id: 11088r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OGC® Event Service - Review and Current State
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=45850
+- type: html
+  content: https://docs.ogc.org/dp/11-088r1/11-088r1/pdf
 docidentifier:
 - content: 11-088r1
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     through the ESS project (integrated project, contract number 217951) and the GENESIS
     project (integrated project, contract number 223996) .\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '23001'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -71,7 +71,7 @@ abstract:
     feature properties. Part 1 also defines additional filtering capabilities and
     requirements for the Create/Replace/Delete/Update operations."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

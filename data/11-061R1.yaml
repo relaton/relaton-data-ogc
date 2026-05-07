@@ -1,7 +1,7 @@
 ---
 id: 11061r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ows8-aixm-metadata
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=45380
+- type: html
+  content: https://docs.ogc.org/per/11-061r1/11-061r1/pdf
 docidentifier:
 - content: 11-061r1
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     Aviation Metadata\r\nProfile), with the exception of non-ISO metadata elements
     listed in these documents."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

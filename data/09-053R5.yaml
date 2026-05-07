@@ -1,7 +1,7 @@
 ---
 id: '09053r5'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 Geoprocessing Workflow Architecture Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34968
+- type: html
+  content: https://docs.ogc.org/per/09-053r5/09-053r5/pdf
 docidentifier:
 - content: '09-053r5'
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     the RESTful workflow approaches and technology used in this testbed was essentially
     same as that used in OWS-5.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

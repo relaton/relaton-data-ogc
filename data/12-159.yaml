@@ -1,7 +1,7 @@
 ---
 id: '12159'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/ows-9-cci-conflation-provenance
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=51818
+- type: html
+  content: https://docs.ogc.org/per/12-159/12-159/pdf
 docidentifier:
 - content: 12-159
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     as a deliverable for the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC
     Interoperability Program.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

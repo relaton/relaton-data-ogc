@@ -1,7 +1,7 @@
 ---
 id: '12066'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/ade-citygml-in-uml
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=49000
+- type: html
+  content: https://docs.ogc.org/dp/12-066/12-066/pdf
 docidentifier:
 - content: 12-066
   type: OGC
@@ -76,7 +76,7 @@ abstract:
     and compared. The best suited for the 3D standard option is selected and applied.
     Open issues and challenges are discussed in the conclusions.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

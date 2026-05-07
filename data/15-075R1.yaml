@@ -1,7 +1,7 @@
 ---
 id: 15075r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -19,8 +19,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/indoorgml-mls-nav-vi
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=64644
+- type: html
+  content: https://docs.ogc.org/dp/15-075r1/15-075r1/pdf
 docidentifier:
 - content: 15-075r1
   type: OGC
@@ -86,7 +86,7 @@ abstract:
     visually impaired people in indoor space. Finally, a prototype development of
     the application on Android smart phone is described in this report.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

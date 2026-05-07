@@ -1,7 +1,7 @@
 ---
 id: '15039'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/tiled-elev-ext-geopackage
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=63289
+- type: html
+  content: https://docs.ogc.org/dp/15-039/15-039/pdf
 docidentifier:
 - content: 15-039
   type: OGC
@@ -60,7 +60,7 @@ abstract:
   content: The GeoPackage Standards Working Group (SWG) presents a vision for storing
     tiled gridded elevation data in a GeoPackage.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

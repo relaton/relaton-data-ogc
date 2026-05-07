@@ -1,7 +1,7 @@
 ---
 id: 03064r10
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Geographic Objects Implementation Specification *RETIRED*
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=10378
+- type: html
+  content: https://docs.ogc.org/retired/03-064r10/03-064r10/pdf
 docidentifier:
 - content: 03-064r10
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     profile (in Java). The language-specific bindings serve as an open Application
     Program Interface (API)."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

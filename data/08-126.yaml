@@ -1,7 +1,7 @@
 ---
 id: '08126'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 5 - Features
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=29536
+- type: html
+  content: https://docs.ogc.org/as/08-126/08-126/pdf
 docidentifier:
 - content: '08-126'
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     it is a geographic feature if it is associated with a location relative to the
     Earth. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

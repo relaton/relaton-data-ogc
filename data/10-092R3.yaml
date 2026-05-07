@@ -1,7 +1,7 @@
 ---
 id: 10092r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Format'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=43734
+- type: html
+  content: https://docs.ogc.org/is/10-092r3/10-092r3/pdf
 docidentifier:
 - content: 10-092r3
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     specifies a set of requirements that every netCDF classic or 64-bit offset binary
     encoding must fulfil.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: extension

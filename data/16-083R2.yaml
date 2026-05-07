@@ -1,7 +1,7 @@
 ---
 id: 16083r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -76,7 +76,7 @@ abstract:
     elements have been adapted from GML 3.3, while a fourth emerged from work on a
     Testbed-11 Engineering Report[2]."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

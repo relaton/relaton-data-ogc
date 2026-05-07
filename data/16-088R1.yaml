@@ -1,7 +1,7 @@
 ---
 id: 16088r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/OGC-Soil-IE
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=69896
+- type: html
+  content: https://docs.ogc.org/per/16-088r1/16-088r1/pdf
 docidentifier:
 - content: 16-088r1
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     should form the core of a more comprehensive model to be developed by\r\na future
     OGC Soil Data Standards Working Group."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

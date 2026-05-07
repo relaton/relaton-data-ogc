@@ -1,7 +1,7 @@
 ---
 id: '16098'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -90,7 +90,7 @@ abstract:
     it simply does not allow/include these special types of features. The details
     and results of the pilot are mentioned in the following YouTube video: https://youtu.be/aSQFIPwf2oM'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '04086'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: EA-SIG Discovery White Paper
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=7563
+- type: html
+  content: https://docs.ogc.org/per/04-086/04-086/pdf
 docidentifier:
 - content: 04-086
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     finding the appropriate resources when they are needed. Discovery services address
     this problem."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

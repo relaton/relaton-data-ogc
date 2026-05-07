@@ -1,7 +1,7 @@
 ---
 id: '21007'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/bp/dgiwg-gmljp2-img2.1.2
-- type: pdf
-  content: https://docs.ogc.org/bp/21-007/21-007.pdf
+- type: html
+  content: https://docs.ogc.org/bp/21-007/21-007/pdf
 docidentifier:
 - content: 21-007
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     for continuous raster data, such as satellite imagery and\r\naerial photography.
     This version adds support for\r\nReferenceable imagery."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

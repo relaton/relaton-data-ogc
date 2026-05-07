@@ -1,7 +1,7 @@
 ---
 id: 15010r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/tb-11-WFST_IEA
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=66905
+- type: html
+  content: https://docs.ogc.org/per/15-010r4/15-010r4/pdf
 docidentifier:
 - content: 15-010r4
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     and system hardening.\r\nFinally, this document includes a FAQ composed of questions
     raised during the OGC Testbed-11.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

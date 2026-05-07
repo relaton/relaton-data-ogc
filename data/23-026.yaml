@@ -1,7 +1,7 @@
 ---
 id: '23026'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -67,7 +67,7 @@ abstract:
     in secure package formats and leveraging linked data and structured web page information
     to optimize public web searches for disaster information.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

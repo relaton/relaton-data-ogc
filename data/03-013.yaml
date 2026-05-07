@@ -1,7 +1,7 @@
 ---
 id: '03013'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web Object Service Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1338
+- type: html
+  content: https://docs.ogc.org/dp/03-013/03-013/pdf
 docidentifier:
 - content: 03-013
   type: OGC
@@ -58,7 +58,7 @@ abstract:
     interface is required. The intent of the Web Object Service interface is to provide
     a means to define this interface.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

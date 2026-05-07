@@ -1,7 +1,7 @@
 ---
 id: '07068r4'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Web Coverage Service (WCS) - Transaction operation extension
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=28506
+- type: html
+  content: https://docs.ogc.org/is/07-068r4/07-068r4/pdf
 docidentifier:
 - content: 07-068r4
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     from a WCS server. The Transaction operation request references or includes the
     new or modified coverage data, including all needed coverage metadata. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

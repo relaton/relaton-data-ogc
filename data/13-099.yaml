@@ -1,7 +1,7 @@
 ---
 id: '13099'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/geoxacml-xacml-paws
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=55230
+- type: html
+  content: https://docs.ogc.org/dp/13-099/13-099/pdf
 docidentifier:
 - content: 13-099
   type: OGC
@@ -78,7 +78,7 @@ abstract:
     and encouraged. Such suggestions may be submitted by email message or by making
     suggested changes in an edited copy of this document.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

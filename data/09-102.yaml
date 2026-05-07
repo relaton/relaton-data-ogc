@@ -1,7 +1,7 @@
 ---
 id: '09102'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     use within a military environment
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34833
+- type: html
+  content: https://docs.ogc.org/bp/09-102/09-102/pdf
 docidentifier:
 - content: '09-102'
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     the work as part of through the S05 Web Data Access Service Project of the Services
     & Interfaces Technical Panel.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

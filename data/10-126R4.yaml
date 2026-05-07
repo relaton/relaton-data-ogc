@@ -1,7 +1,7 @@
 ---
 id: 10126r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/waterml/2.0.1
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=57222
+- type: html
+  content: https://docs.ogc.org/is/10-126r4/10-126r4/pdf
 docidentifier:
 - content: 10-126r4
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     at being an interoperable exchange format that may be re-used to address a range
     of exchange requirements, some of which are described later in this document.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

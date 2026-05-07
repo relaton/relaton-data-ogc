@@ -1,7 +1,7 @@
 ---
 id: '12075'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ie/3dpie
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=49068
+- type: html
+  content: https://docs.ogc.org/per/12-075/12-075/pdf
 docidentifier:
 - content: 12-075
   type: OGC
@@ -75,7 +75,7 @@ abstract:
     and Web View Service, two draft standards (published as OGC discussions paper),
     have been in the focus of 3DPIE. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

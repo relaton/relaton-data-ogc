@@ -1,7 +1,7 @@
 ---
 id: '04052'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS1.2 Image Handling Requirements
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=6660
+- type: html
+  content: https://docs.ogc.org/dp/04-052/04-052/pdf
 docidentifier:
 - content: 04-052
   type: OGC
@@ -58,7 +58,7 @@ abstract:
     the requirements for the image handling functions to be supported by draft specifications
     prepared under that thread. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

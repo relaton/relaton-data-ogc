@@ -1,7 +1,7 @@
 ---
 id: '24036'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -73,7 +73,7 @@ abstract:
     of both scientific and restricted workflows while providing a reliable and standardized
     framework for geospatial data management."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

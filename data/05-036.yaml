@@ -1,7 +1,7 @@
 ---
 id: '05036'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: GeoXACML, a spatial extension to XACML
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=10471&version=2
+- type: html
+  content: https://docs.ogc.org/per/05-036/05-036/pdf
 docidentifier:
 - content: 05-036
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     to motivate the requirement for such an access control, give a problem statement,\r\ndiscuss
     an alternative approach and describe the solution, based on GeoXACML."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

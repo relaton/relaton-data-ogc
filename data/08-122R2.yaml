@@ -1,7 +1,7 @@
 ---
 id: '08122r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Uncertainty Markup Language (UnCertML)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=33234
+- type: html
+  content: https://docs.ogc.org/dp/08-122r2/08-122r2/pdf
 docidentifier:
 - content: '08-122r2'
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     transport and storage of information about uncertain quantities, with emphasis
     on quantitative representations based on probability theory. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

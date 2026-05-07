@@ -1,7 +1,7 @@
 ---
 id: '04038r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: ISO19115/ISO19119 Application Profile for CSW 2.0 (CAT2 AP ISO19115/19)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=8305
+- type: html
+  content: https://docs.ogc.org/bp/04-038r2/04-038r2/pdf
 docidentifier:
 - content: 04-038r2
   type: OGC
@@ -64,7 +64,7 @@ abstract:
   content: This document explains how Catalogue Services based on the ISO19115/ISO19119
     Application Profile for the OpenGIS
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

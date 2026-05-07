@@ -1,7 +1,7 @@
 ---
 id: '20094'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -61,7 +61,7 @@ abstract:
     a venue, organization, or even an industry to create valid features and validations
     not available in the current specification for private or public use\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: community-standard
   flavor: ogc

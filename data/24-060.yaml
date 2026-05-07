@@ -1,0 +1,78 @@
+---
+id: '24060'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: openEO Processes 1.2 Community Practice
+  type: title-main
+- language: en
+  script: Latn
+  content: openEO Processes 1.2 Community Practice
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/cp/openeo-processes/1.2
+- type: html
+  content: https://docs.ogc.org/cp/24-060.html
+docidentifier:
+- content: 24-060
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-04-15'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Matthias Mohr
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "OGC openEO Processes Community Standard, this specification\r\nopenEO
+    specifies an open application programming interface (API) for connecting applications
+    and other client software to big\r\nEarth observation cloud back-ends in a simple
+    and unified way.\r\nThe openEO specification aims at increasing the interoperability
+    of big EO data processing of satellite imagery in the cloud.\r\nImplementations
+    of openEO can be used to add an interoperability layer on top of existing services.
+    Its development has been\r\ndriven by the need to overcome the challenges associated
+    with different tools, APIs, and data formats in geospatial technology.\r\nopenEO
+    has been developed from the bottom up, with each version of the specification
+    supported by implementations.\r\nThe primary use case for specifying openEO was
+    to simplify and unify the data processing using a common API and a\r\nspecification
+    for a set of pre-defined processes. As such, users can still work in their favored
+    programming language without\r\nworrying about data organization and pre-processing.
+    Users can avoid vendor lock-in as the generated process descriptions\r\ncan be
+    executed at multiple provider endpoints, making it easier to compare and reproduce
+    processing results between\r\ndifferent providers."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: community-practice
+  flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 16007r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/CDB-core-model/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=72723
+- type: html
+  content: https://docs.ogc.org/is/16-007r3/16-007r3/pdf
 docidentifier:
 - content: 16-007r3
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     sections of Volume 1: OGC CDB Core Standard: Model and Physical Database Structure
     [OGC 15-113].'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

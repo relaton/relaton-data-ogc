@@ -1,7 +1,7 @@
 ---
 id: 15113r7
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -75,7 +75,7 @@ abstract:
     the application of the CDB standard provides a common environment to which inter-connected
     simulators share a common view of the simulated environment."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

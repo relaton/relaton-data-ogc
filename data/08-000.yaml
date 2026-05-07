@@ -1,7 +1,7 @@
 ---
 id: '08000'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC® Canadian Geospatial Data Infrastructure Summary Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=26608
+- type: html
+  content: https://docs.ogc.org/dp/08-000/08-000/pdf
 docidentifier:
 - content: '08-000'
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     Feature Service (WFS), in the implementation of a spatial data infrastructure.
     OGC documents 08-001 and 08-002 are more technical companions to this document.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

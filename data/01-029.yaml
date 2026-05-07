@@ -1,7 +1,7 @@
 ---
 id: '01029'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Geography Markup Language
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1034
+- type: html
+  content: https://docs.ogc.org/rp/01-029/01-029/zip
 docidentifier:
 - content: 01-029
   type: OGC
@@ -57,7 +57,7 @@ abstract:
     and storage of geographic information, including both the geometry and properties
     of geographic features.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

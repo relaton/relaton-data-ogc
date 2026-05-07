@@ -1,7 +1,7 @@
 ---
 id: '07098r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: GeoXACML Implementation Specification - Extension A (GML2) Encoding
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=25219
+- type: html
+  content: https://docs.ogc.org/is/07-098r1/07-098r1/pdf
 docidentifier:
 - content: 07-098r1
   type: OGC
@@ -62,7 +62,7 @@ abstract:
   content: This document defines an extension to the GeoXACML Implementation Specification,
     Verison 1.0 for the GML2 geometry encoding as specified in the GML2 standard.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

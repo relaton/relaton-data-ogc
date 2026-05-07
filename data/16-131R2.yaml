@@ -1,7 +1,7 @@
 ---
 id: 16131r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -68,7 +68,7 @@ abstract:
     Powers: Big Data, Orlando, September 20th, 2016; and\r\n  Location Powers: Big
     Linked Data, Delft, March 22nd, 2017.\r\nFor information on Location Powers: http://www.locationpowers.net/pastevents/"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

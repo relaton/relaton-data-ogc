@@ -1,7 +1,7 @@
 ---
 id: '04088'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: EA-SIG Mediation White Paper
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=7561
+- type: html
+  content: https://docs.ogc.org/per/04-088/04-088/pdf
 docidentifier:
 - content: 04-088
   type: OGC
@@ -56,7 +56,7 @@ abstract:
   content: "*RETIRED* This document focuses on the goals, objectives, capabilities
     and recommendation for the Mediation Core Enterprise\r\nService."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

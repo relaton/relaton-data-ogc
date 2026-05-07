@@ -1,7 +1,7 @@
 ---
 id: '10001'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: SANY Fusion and Modelling Architecture
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=37139
+- type: html
+  content: https://docs.ogc.org/dp/10-001/10-001/pdf
 docidentifier:
 - content: 10-001
   type: OGC
@@ -57,7 +57,7 @@ abstract:
     to provide generic fusion processing services. Concrete case studies are documented
     and a detailed appendix is provided with example of XML request and responses.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

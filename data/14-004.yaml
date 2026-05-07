@@ -1,7 +1,7 @@
 ---
 id: '14004'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/SOS-hydrology-profile
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=57327
+- type: html
+  content: https://docs.ogc.org/dp/14-004/14-004/pdf
 docidentifier:
 - content: 14-004
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     and the according clients. Therefore, this profile focuses on how to use the entities
     and requests of the standards and covers the necessary technical details. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

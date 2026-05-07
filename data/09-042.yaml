@@ -1,7 +1,7 @@
 ---
 id: '09042'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 3D-Symbology Encoding Discussion Draft
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=32904
+- type: html
+  content: https://docs.ogc.org/dp/09-042/09-042/pdf
 docidentifier:
 - content: '09-042'
   type: OGC
@@ -62,7 +62,7 @@ abstract:
   content: This document present an extension of the Symbology Encoding (SE) /Styled
     Layer Descriptor (SLD) specifications into 3D as a separate profile.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

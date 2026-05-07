@@ -1,7 +1,7 @@
 ---
 id: 11085r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-8 Bulk Geodata Transfer Using GML Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46679
+- type: html
+  content: https://docs.ogc.org/per/11-085r1/11-085r1/pdf
 docidentifier:
 - content: 11-085r1
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     into the target WFS.  From that point on, the two WFS's are maintained in synchrony
     using a Geosynchronization Service (see OGC 10-069r2).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

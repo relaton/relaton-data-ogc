@@ -1,7 +1,7 @@
 ---
 id: 21017r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -15,7 +15,7 @@ source:
 - type: src
   content: http://www.opengis.net/doc/PER/t17-D008
 - type: html
-  content: http://docs.ogc.org/per/21-017r1.html
+  content: https://docs.ogc.org/per/21-017r1.html
 docidentifier:
 - content: 21-017r1
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     including material that was submitted to the https://github.com/opengeospatial/OGC-feat-geo-json[OGC
     Features and Geometries JSON Standards Working Group].\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

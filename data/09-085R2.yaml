@@ -1,7 +1,7 @@
 ---
 id: '09085r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Grid coverage Coordinate Reference Systems (CRSs)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=35653
+- type: html
+  content: https://docs.ogc.org/dp/09-085r2/09-085r2/pdf
 docidentifier:
 - content: '09-085r2'
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     ISO 19111:2007, but includes some corrections.  This document includes some best
     practices for defining and using ImageCRSs and other CRSs for grid coverages.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

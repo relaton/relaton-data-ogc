@@ -1,7 +1,7 @@
 ---
 id: 15120r5
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/cdb-core-primer/1.1
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=82376
+- type: html
+  content: https://docs.ogc.org/bp/15-120r5/15-120r5/pdf
 docidentifier:
 - content: 15-120r5
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     Radar simulator, Computer Generated Forces, etc.) through a data publishing process
     that is performed on-demand in real-time.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

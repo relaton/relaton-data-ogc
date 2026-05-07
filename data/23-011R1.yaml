@@ -1,7 +1,7 @@
 ---
 id: 23011r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -73,7 +73,7 @@ abstract:
     ability to represent a suite of multidimensional Coordinate Reference Systems
     (CRS) and associated geometries as well as identifies shortfalls in these standards."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

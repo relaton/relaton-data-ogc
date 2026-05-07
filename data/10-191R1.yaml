@@ -1,7 +1,7 @@
 ---
 id: 10191r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Requirements and Space-Event Modeling for Indoor Navigation
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=41727
+- type: html
+  content: https://docs.ogc.org/dp/10-191r1/10-191r1/pdf
 docidentifier:
 - content: 10-191r1
   type: OGC
@@ -91,7 +91,7 @@ abstract:
     paper contains the corresponding data models as well as their encoding in GML
     3.1.1.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

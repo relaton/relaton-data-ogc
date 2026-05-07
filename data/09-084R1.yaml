@@ -1,7 +1,7 @@
 ---
 id: '09084r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenSearch Geospatial Extensions Draft Implementation Standard
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=35983
+- type: html
+  content: https://docs.ogc.org/dp/09-084r1/09-084r1/pdf
 docidentifier:
 - content: '09-084r1'
   type: OGC
@@ -76,7 +76,7 @@ abstract:
     published at http://opensearch.org. In 2007, Andrew Turner proposed a set of geospatial
     extensions through OpenSearch.org.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

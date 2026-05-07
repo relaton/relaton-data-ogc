@@ -1,7 +1,7 @@
 ---
 id: 07160r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-5 Conflation Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=30064
+- type: html
+  content: https://docs.ogc.org/dp/07-160r1/07-160r1/pdf
 docidentifier:
 - content: 07-160r1
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     architecture, and describes the implementation of conflation services during the
     OGC OWS-5 testbed.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '15022'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/t11-common-security
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=63312
+- type: html
+  content: https://docs.ogc.org/per/15-022/15-022/pdf
 docidentifier:
 - content: 15-022
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     for all OGC\r\nWeb Service Standards. This work was performed as part of the OGC
     Testbed 11\r\nactivity."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

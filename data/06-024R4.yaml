@@ -1,7 +1,7 @@
 ---
 id: 06024r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'OGC Location Services (OpenLS): Tracking Service Interface Standard'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=25487
+- type: html
+  content: https://docs.ogc.org/is/06-024r4/06-024r4/pdf
 docidentifier:
 - content: 06-024r4
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     in order to address the need for a simple, robust, and easy-to-implement open
     standard for geospatial tracking.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

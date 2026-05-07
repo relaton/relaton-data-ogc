@@ -1,7 +1,7 @@
 ---
 id: 14055r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/ows-context-geojson/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=68826
+- type: html
+  content: https://docs.ogc.org/is/14-055r2/14-055r2/pdf
 docidentifier:
 - content: 14-055r2
   type: OGC
@@ -86,7 +86,7 @@ abstract:
     that this standard can have multiple encoding formats and that each encoding format
     will be described in a separate OGC Extension to the Core model.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

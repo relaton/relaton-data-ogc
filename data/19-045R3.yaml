@@ -1,7 +1,7 @@
 ---
 id: 19045r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -77,7 +77,7 @@ abstract:
     implement the conceptual schema of moving features defined in ISO 19141:2008 [ISO
     19141:2008], accompanied with IETF GeoJSON Format [IETF RFC 7946].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

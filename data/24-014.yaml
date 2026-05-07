@@ -1,7 +1,7 @@
 ---
 id: '24014'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -66,7 +66,7 @@ abstract:
     Web Enablement initiative. These common data models are intended to be used in
     various OGC standards, and in particular, SensorML and OGC API — Connected Systems."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: '05118'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC Web Services (OWS) 3 UGAS Tool
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=12894
+- type: html
+  content: https://docs.ogc.org/dp/05-118/05-118/pdf
 docidentifier:
 - content: 05-118
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     to GML ApplicationSchema conversion) tool development in the decision support
     services thread (GeoDSS) during the OWS-3 initiative.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

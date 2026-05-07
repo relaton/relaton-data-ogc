@@ -1,7 +1,7 @@
 ---
 id: '08133'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS® Sensor Event Service Interface Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=29576
+- type: html
+  content: https://docs.ogc.org/dp/08-133/08-133/pdf
 docidentifier:
 - content: '08-133'
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     data). Whenever matches are discovered, a notification is sent to the subscriber,
     using asynchronous, push-based communication mechanisms.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

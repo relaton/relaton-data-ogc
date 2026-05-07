@@ -1,7 +1,7 @@
 ---
 id: 14009r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/owc-json
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=57477
+- type: html
+  content: https://docs.ogc.org/per/14-009r1/14-009r1/pdf
 docidentifier:
 - content: 14-009r1
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     approach. Such generic approach can offer the guidelines for other OGC services,
     when defining and using JSON encodings.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 15122r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/implications-geopackage-se
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=66606
+- type: html
+  content: https://docs.ogc.org/dp/15-122r1/15-122r1/pdf
 docidentifier:
 - content: 15-122r1
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     symbology encapsulation for conveying presentation information for vector features
     contained within in a GeoPackage. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

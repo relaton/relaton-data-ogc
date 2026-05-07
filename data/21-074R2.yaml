@@ -1,7 +1,7 @@
 ---
 id: 21074r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -107,7 +107,7 @@ abstract:
     Guides work together, mirroring each other in terms of structure. The Operational
     Capacity Guide is a stand-alone document effectively underpinning the other two.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

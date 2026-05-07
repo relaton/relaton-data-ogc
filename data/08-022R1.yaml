@@ -1,7 +1,7 @@
 ---
 id: '08022r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -20,8 +20,8 @@ title:
   content: Change Request - O&M Part 1 - Move extensions to new namespace
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=27697
+- type: html
+  content: https://docs.ogc.org/cr/08-022r1/08-022r1/pdf
 docidentifier:
 - content: '08-022r1'
   type: OGC
@@ -75,7 +75,7 @@ abstract:
     elements, combined with the rules for schema document resolution used by standard
     processing environments.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: change-request-supporting-document
   flavor: ogc

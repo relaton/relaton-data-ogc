@@ -1,7 +1,7 @@
 ---
 id: '14044'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/testbed10_summary_er
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=61108
+- type: html
+  content: https://docs.ogc.org/per/14-044/14-044/pdf
 docidentifier:
 - content: 14-044
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     The majority of work for Testbed 10 was conducted between October 2013 and April
     2014.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 06027r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Web Feature Service (WFS) Implementation Specification (Corrigendum)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=14145
+- type: html
+  content: https://docs.ogc.org/is/06-027r1/06-027r1/pdf
 docidentifier:
 - content: 06-027r1
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     document corrects the files referenced in ANNEX A and found in the OGC schema
     repository.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

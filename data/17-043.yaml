@@ -1,7 +1,7 @@
 ---
 id: '17043'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -79,7 +79,7 @@ abstract:
     for these tests.\r\n\r\nThe last topic contains an evaluation of the work, reached
     goals, lessons learned and the best practices that can be applied in future work."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

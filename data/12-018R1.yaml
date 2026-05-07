@@ -1,7 +1,7 @@
 ---
 id: 12018r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ER/surface-water-ie
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=47989
+- type: html
+  content: https://docs.ogc.org/per/12-018r1/12-018r1/pdf
 docidentifier:
 - content: 12-018r1
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     vocabularies, which are\r\nessential for interoperability in the hydrology domain,
     although these are not the main\r\nfocus for the IE."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

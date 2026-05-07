@@ -1,7 +1,7 @@
 ---
 id: 18087r5
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/disaster-sdi
-- type: pdf
-  content: https://portal.ogc.org/files/18-087r5
+- type: html
+  content: https://docs.ogc.org/per/18-087r5/18-087r5/pdf
 docidentifier:
 - content: 18-087r5
   type: OGC
@@ -77,7 +77,7 @@ abstract:
     of the OGC Arctic Spatial Data Pilot; Phase 1 Report: Spatial Data Sharing for
     the Arctic. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

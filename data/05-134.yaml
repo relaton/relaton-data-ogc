@@ -1,7 +1,7 @@
 ---
 id: '05134'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -17,8 +17,8 @@ title:
     feature access -
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13228
+- type: html
+  content: https://docs.ogc.org/is/05-134/05-134/pdf
 docidentifier:
 - content: 05-134
   type: OGC
@@ -60,7 +60,7 @@ abstract:
   script: Latn
   content: This part of OpenGIS
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

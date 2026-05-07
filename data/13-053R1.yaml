@@ -1,7 +1,7 @@
 ---
 id: 13053r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/chisp1-er
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=55244
+- type: html
+  content: https://docs.ogc.org/per/13-053r1/13-053r1/pdf
 docidentifier:
 - content: 13-053r1
   type: OGC
@@ -74,7 +74,7 @@ abstract:
     a number of sub-components including a subscription broker, an observation harvester
     and a CAP alert client.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

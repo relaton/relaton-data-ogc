@@ -1,7 +1,7 @@
 ---
 id: 16006r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/cdb-implementation-guidance/1.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=72722
+- type: html
+  content: https://docs.ogc.org/bp/16-006r3/16-006r3/pdf
 docidentifier:
 - content: 16-006r3
   type: OGC
@@ -60,7 +60,7 @@ abstract:
   content: 'This document provides detailed implementation guidance for developing
     and maintaining a CDB compliant data store. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

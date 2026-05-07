@@ -1,7 +1,7 @@
 ---
 id: 07110r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: 'CSW-ebRIM Registry Service - Part 1: ebRIM profile of CSW'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=31137
+- type: html
+  content: https://docs.ogc.org/is/07-110r4/07-110r4/pdf
 docidentifier:
 - content: 07-110r4
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     of the base specifications, some of which are not part of the ISO 19100 series
     of geomatics standards.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

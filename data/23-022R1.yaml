@@ -1,7 +1,7 @@
 ---
 id: 23022r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -19,8 +19,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/dewm
-- type: pdf
-  content: https://docs.ogc.org/dp/23-022r1.pdf
+- type: html
+  content: https://docs.ogc.org/dp/23-022r1/pdf
 docidentifier:
 - content: 23-022r1
   type: OGC
@@ -108,7 +108,7 @@ abstract:
     will explore the feasibility of standardizing yellow and red warning\r\npublishing
     rules."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

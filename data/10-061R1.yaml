@@ -1,7 +1,7 @@
 ---
 id: 10061r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-7 Dynamic Sensor Notification Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=39513
+- type: html
+  content: https://docs.ogc.org/per/10-061r1/10-061r1/pdf
 docidentifier:
 - content: 10-061r1
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     of standards and specifications relevant for and related to dynamic sensor tracking
     and notification is provided.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

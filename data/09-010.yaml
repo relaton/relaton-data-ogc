@@ -1,7 +1,7 @@
 ---
 id: '09010'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OGC® Catalogue Services - OWL Application Profile of CSW
   type: main
 source:
-- type: pdf
-  content: http://portal.opengeospatial.org/files/?artifact_id=32620
+- type: html
+  content: https://docs.ogc.org/dp/09-010/09-010/pdf
 docidentifier:
 - content: '09-010'
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     built using RDF and OWL may be included within an OGC CSW catalogue to semantically-enable
     the catalogue.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

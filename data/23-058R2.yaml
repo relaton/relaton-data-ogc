@@ -1,0 +1,86 @@
+---
+id: 23058r2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OGC API
+  type: title-intro
+- language: en
+  script: Latn
+  content: Features
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Part 5 / OGC API -- Common -- Part 3: Schemas'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'OGC API - Features - Part 5 / OGC API -- Common -- Part 3: Schemas'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/ogcapi-common-3/1.0
+- type: html
+  content: https://docs.ogc.org/is/23-058r2/23-058r2.html
+docidentifier:
+- content: 23-058r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-04-30'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Clemens Portele
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Panagiotis (Peter) A. Vretanos
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This document (Schemas) specifies how geospatial data such as features
+    can be described by a logical schema and how such schemas are published in an
+    OGC Web API implementation. The document is published both as Part 5 of OGC API
+    - Features and as Part 3 of OGC API - Common.\r\n\r\nThis Standard specifies provisions
+    for schemas that are applicable to any type of geospatial data as well as provisions
+    for profiles. While the provision originate from use cases involving feature data,
+    all provisions are not specific to features."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  subdoctype: implementation
+  flavor: ogc

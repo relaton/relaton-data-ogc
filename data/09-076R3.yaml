@@ -1,7 +1,7 @@
 ---
 id: '09076r3'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Uses and summary of Topic 2 - Spatial referencing by coordinates
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=35042
+- type: html
+  content: https://docs.ogc.org/dp/09-076r3/09-076r3/pdf
 docidentifier:
 - content: '09-076r3'
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     coordinates. Topic 2 is almost the same as ISO 19111:2007, but includes some corrections.  This
     document includes some best practices for using Coordinate Reference Systems (CRSs).'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

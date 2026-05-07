@@ -1,7 +1,7 @@
 ---
 id: '02112'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 12 - The OpenGIS Service Architecture
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1221
+- type: html
+  content: https://docs.ogc.org/as/02-112/02-112/pdf
 docidentifier:
 - content: 02-112
   type: OGC
@@ -59,7 +59,7 @@ abstract:
   script: Latn
   content: Same as ISO 19119
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

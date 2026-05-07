@@ -1,7 +1,7 @@
 ---
 id: '05099r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: GML 3.1.1 simple dictionary profile
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13206
+- type: html
+  content: https://docs.ogc.org/profile/05-099r2/05-099r2/zip
 docidentifier:
 - content: 05-099r2
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     version 3.1.1 for encoding simple dictionaries. This profile can be used without
     a GML Application Schema, and such use is assumed in this document.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: profile

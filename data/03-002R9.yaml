@@ -1,7 +1,7 @@
 ---
 id: 03002r9
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Binary Extensible Markup Language (BXML) Encoding Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13636
+- type: html
+  content: https://docs.ogc.org/bp/03-002r9/03-002r9/pdf
 docidentifier:
 - content: 03-002r9
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     by arrays of numbers.  This encoding format is applicable to any application that
     uses XML format.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

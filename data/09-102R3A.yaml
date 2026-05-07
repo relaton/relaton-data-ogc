@@ -1,7 +1,7 @@
 ---
 id: '09102r3a'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -22,8 +22,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/dgiwg-wms1.3-profile/2.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=66915
+- type: html
+  content: https://docs.ogc.org/bp/09-102r3/09-102r3/pdf
 docidentifier:
 - content: '09-102r3a'
   type: OGC
@@ -86,7 +86,7 @@ abstract:
     ISO 19128:2005\r\nWeb Map Server Interface and the OpenGIS Web Map Server\r\nImplementation
     Specification 1.3.0."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

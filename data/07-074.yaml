@@ -1,7 +1,7 @@
 ---
 id: '07074'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'OpenGIS Location Service (OpenLS) Implementation Specification: Core Services'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=22122
+- type: html
+  content: https://docs.ogc.org/is/07-074/07-074/pdf
 docidentifier:
 - content: 07-074
   type: OGC
@@ -58,7 +58,7 @@ abstract:
     comprising the OpenLS Platform. This platform is also referred to as the GeoMobility
     Server (GMS), an open location services platform.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: '12157'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -22,8 +22,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per-ows9-map-tiling
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=52757
+- type: html
+  content: https://docs.ogc.org/per/12-157r1/12-157r1/pdf
 docidentifier:
 - content: 12-157
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     team. These recommendations help to better harmonize OSGeo tile standards and
     mass-market technologies.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

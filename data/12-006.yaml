@@ -1,7 +1,7 @@
 ---
 id: '12006'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/SOS/2.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=47599
+- type: html
+  content: https://docs.ogc.org/is/12-006/12-006/pdf
 docidentifier:
 - content: 12-006
   type: OGC
@@ -75,7 +75,7 @@ abstract:
     new sensor observations. This standard defines this functionality in a binding\r\nindependent
     way; two bindings are specified in this document: a KVP binding and a SOAP\r\nbinding."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

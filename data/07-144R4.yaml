@@ -1,7 +1,7 @@
 ---
 id: 07144r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: 'CSW-ebRIM Registry Service - Part 2: Basic extension package'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=31138
+- type: html
+  content: https://docs.ogc.org/is/07-144r4/07-144r4/zip
 docidentifier:
 - content: 07-144r4
   type: OGC
@@ -61,7 +61,7 @@ abstract:
   script: Latn
   content: Incorporates Corrigendum 1 (OGC 08-102r1).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

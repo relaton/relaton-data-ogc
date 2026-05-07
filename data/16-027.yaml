@@ -1,7 +1,7 @@
 ---
 id: '16027'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -97,7 +97,7 @@ abstract:
     way across service types\r\n\r\nImprovements to the standardization process\r\n\r\nIn
     addition, there is also a specific case that does not fit into these general categories."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

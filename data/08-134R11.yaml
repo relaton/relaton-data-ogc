@@ -1,7 +1,7 @@
 ---
 id: '08134r11'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -62,7 +62,7 @@ abstract:
     testing procedures, development of test packaging, and policies for developing
     and releasing the software used for testing for compliance to OGC Standards.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   flavor: ogc

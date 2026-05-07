@@ -1,7 +1,7 @@
 ---
 id: '25004'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -72,7 +72,7 @@ abstract:
     The STAC API extends the OGC API - Features - Part 1: Core with additional web
     service endpoints and object attributes."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: community-standard
   flavor: ogc

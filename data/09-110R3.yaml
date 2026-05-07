@@ -1,7 +1,7 @@
 ---
 id: '09110r3'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OGC® WCS 2.0 Interface Standard - Core
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=41437
+- type: html
+  content: https://docs.ogc.org/is/09-110r3/09-110r3/pdf
 docidentifier:
 - content: '09-110r3'
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     extensions, at a minimum, need to be considered in addition to this core to allow
     for a complete WCS implementation.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

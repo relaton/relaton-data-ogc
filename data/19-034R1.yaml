@@ -1,7 +1,7 @@
 ---
 id: 19034r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/RN/I3S/1.1
-- type: pdf
-  content: https://docs.ogc.org/cs/17-014r7/19-034r1.pdf
+- type: html
+  content: https://docs.ogc.org/cs/17-014r7/19-034r1/pdf
 docidentifier:
 - content: 19-034r1
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     standard. It also documents those items that have been deprecated. Finally, this
     document provides implementations details related to issues of backwards compatibility.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

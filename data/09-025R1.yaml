@@ -1,7 +1,7 @@
 ---
 id: '09025r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Web Feature Service 2.0 Interface Standard (also ISO 19142)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=39967
+- type: html
+  content: https://docs.ogc.org/is/09-025r1/09-025r1/pdf
 docidentifier:
 - content: '09-025r1'
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     that are stored by the server and can be repeatedly invoked using different parameter
     values."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

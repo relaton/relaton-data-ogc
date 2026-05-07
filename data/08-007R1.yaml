@@ -1,7 +1,7 @@
 ---
 id: '08007r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS®  City Geography Markup Language (CityGML) Encoding Standard
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=28802
+- type: html
+  content: https://docs.ogc.org/is/08-007r1/08-007r1/pdf
 docidentifier:
 - content: '08-007r1'
   type: OGC
@@ -82,7 +82,7 @@ abstract:
     important with respect to the cost-effective sustainable maintenance of 3D city
     models, allowing the reuse of the same data in different application fields. \r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: '99054'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Simple Features Implementation Specification for CORBA
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=834
+- type: html
+  content: https://docs.ogc.org/is/99-054/99-054/pdf
 docidentifier:
 - content: 99-054
   type: OGC
@@ -57,7 +57,7 @@ abstract:
     provide for publishing, storage, access, and simple operations on Simple Features
     (point, line, polygon, multi-point, etc).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

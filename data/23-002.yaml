@@ -1,7 +1,7 @@
 ---
 id: '23002'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -67,7 +67,7 @@ abstract:
     that allow efficient exchange of dynamic (time-varying) data related to these
     features, in a way that is also aligned with SOSA/SSN."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

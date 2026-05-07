@@ -1,7 +1,7 @@
 ---
 id: '09050r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC OWS-6-AIM Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34032
+- type: html
+  content: https://docs.ogc.org/per/09-050r1/09-050r1/pdf
 docidentifier:
 - content: '09-050r1'
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     AIM thread RFQ including the temporal WFS supporting the temporal FE 2.0 operators,
     the Event Service Notification architecture and the client EFBs. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

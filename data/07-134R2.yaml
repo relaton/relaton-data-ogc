@@ -1,7 +1,7 @@
 ---
 id: 07134r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC KML 2.2 -Abstract Test Suite
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=27811
+- type: html
+  content: https://docs.ogc.org/ts/07-134r2/07-134r2.html
 docidentifier:
 - content: 07-134r2
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     requirements;\r\n    *\r\n\r\n      Level 3 - as for Level 2, plus test cases
     covering suggested constraints that are informative in nature."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

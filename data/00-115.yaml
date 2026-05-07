@@ -1,7 +1,7 @@
 ---
 id: '00115'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 15 - Image Exploitation Services
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=7199
+- type: html
+  content: https://docs.ogc.org/as/00-115/00-115/pdf
 docidentifier:
 - content: 00-115
   type: OGC
@@ -66,7 +66,7 @@ abstract:
   content: Describes the categories and taxonomy of image exploitation services needed
     to support the use of images and certain related coverage types.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

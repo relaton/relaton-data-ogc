@@ -1,7 +1,7 @@
 ---
 id: '09156r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'Ocean Science Interoperability Experiment Phase II Report '
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=37373
+- type: html
+  content: https://docs.ogc.org/per/09-156r2/09-156r2/pdf
 docidentifier:
 - content: '09-156r2'
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     harmonization\r\n\r\nAs a result of this experiment, a number of recommendations
     and conclusions were identified.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

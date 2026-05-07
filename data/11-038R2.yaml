@@ -1,7 +1,7 @@
 ---
 id: 11038R2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/netcdf-enhanced/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=50294
+- type: html
+  content: https://docs.ogc.org/is/11-038r2/11-038r2/pdf
 docidentifier:
 - content: 11-038R2
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     format are available. Together, the interfaces, libraries, and format support
     the creation, access, and sharing of multi-dimensional scientific data."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

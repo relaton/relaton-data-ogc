@@ -1,7 +1,7 @@
 ---
 id: 18026r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -75,7 +75,7 @@ abstract:
     topics, this ER also outlines and provides a proof-of-concept for a simplistic
     architecture approach that explores one of several Federated Clouds architectures."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 11139r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ows8-summary-report
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=47018
+- type: html
+  content: https://docs.ogc.org/per/11-139r2/11-139r2/pdf
 docidentifier:
 - content: 11-139r2
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     for geospatial interoperability. The majority of work for\r\nOWS-8 was conducted
     from March to September 2011."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

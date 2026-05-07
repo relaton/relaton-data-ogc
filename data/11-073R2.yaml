@@ -1,7 +1,7 @@
 ---
 id: 11073r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ows8-aixm-via-wfs2
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46666
+- type: html
+  content: https://docs.ogc.org/per/11-073r2/11-073r2/pdf
 docidentifier:
 - content: 11-073r2
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     5.1 data \r\n4.\tSummary of potential improvements to WFS/FE 2.0, GML and AIXM
     5.1 specifications to better support aeronautical use cases\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

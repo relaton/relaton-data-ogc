@@ -1,7 +1,7 @@
 ---
 id: '07039r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: KML 2.1 Reference - An OGC Best Practice
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=21469
+- type: html
+  content: https://docs.ogc.org/bp/07-039r1/07-039r1/pdf
 docidentifier:
 - content: 07-039r1
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     such as Google Earth, Google Maps, and Google Maps for Mobile. KML uses a tag-based
     structure with nested elements and attributes and is based on the XML standard.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

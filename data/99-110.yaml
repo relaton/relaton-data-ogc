@@ -1,7 +1,7 @@
 ---
 id: '99110'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 10 - Feature Collections
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=897
+- type: html
+  content: https://docs.ogc.org/as/99-110/99-110/pdf
 docidentifier:
 - content: 99-110
   type: OGC
@@ -60,7 +60,7 @@ abstract:
   content: An OpenGIS Feature Collection is an abstract object consisting of Feature
     Instances, their Feature Schema, and Project Schema.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

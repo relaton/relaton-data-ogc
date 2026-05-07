@@ -1,7 +1,7 @@
 ---
 id: 15123r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Geopackage Release Notes
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=67120
+- type: html
+  content: https://docs.ogc.org/note/15-123r1/15-123r1/doc
 docidentifier:
 - content: 15-123r1
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     It also documents those items that have been deprecated. Finally, this document
     provides implementations details related to issues of backwards compatibility.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

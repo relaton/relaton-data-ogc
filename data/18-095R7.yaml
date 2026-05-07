@@ -1,7 +1,7 @@
 ---
 id: 18095r7
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/CS/dataCubeCP
-- type: pdf
-  content: https://portal.ogc.org/files/18-095r7
+- type: html
+  content: https://docs.ogc.org/cp/18-095r7/18-095r7/pdf
 docidentifier:
 - content: 18-095r7
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     this Community Practice defines requirements for a geospatial coverages data cube
     infrastructure and guidelines for enhancements and extensions to the basic core.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: community-practice
   flavor: ogc

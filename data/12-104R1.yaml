@@ -1,7 +1,7 @@
 ---
 id: 12104r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -22,8 +22,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/ows9-spegg
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=52065
+- type: html
+  content: https://docs.ogc.org/per/12-104r1/12-104r1/pdf
 docidentifier:
 - content: 12-104r1
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     at NGA but currently hosted by Intergraph Corp.).  Both integrated gazetteers
     and the SPEGG implement the Web Feature Service (WFS) standard.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 14121r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/wqs/
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=72295
+- type: html
+  content: https://docs.ogc.org/dp/14-121r2/14-121r2/pdf
 docidentifier:
 - content: 14-121r2
   type: OGC
@@ -69,7 +69,7 @@ abstract:
     extracts the matching information from the service’s offering and returns it (currently:
     as an XML document).\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

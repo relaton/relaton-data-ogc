@@ -1,7 +1,7 @@
 ---
 id: '03021'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Integrated Client for Multiple OGC-compliant Services
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1328
+- type: html
+  content: https://docs.ogc.org/dp/03-021/03-021/pdf
 docidentifier:
 - content: 03-021
   type: OGC
@@ -56,7 +56,7 @@ abstract:
   content: Provides an overview of the requirements, architecture, and design of Integrated
     Clients developed during the OGC Open Web Services
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

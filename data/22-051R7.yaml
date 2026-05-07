@@ -1,7 +1,7 @@
 ---
 id: 22051r7
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: https://www.opengis.net/doc/GGXF/1.0
-- type: pdf
-  content: https://docs.ogc.org/is/22-051r7/22-051r7.pdf
+- type: html
+  content: https://docs.ogc.org/is/22-051r7/22-051r7/pdf
 docidentifier:
 - content: 22-051r7
   type: OGC
@@ -69,7 +69,7 @@ abstract:
     supporting\r\ncoordinate transformations and point motion operations but has no
     restriction on the type of content\r\nthat may be included."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

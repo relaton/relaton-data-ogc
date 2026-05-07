@@ -1,7 +1,7 @@
 ---
 id: 06103r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -23,8 +23,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/is/sfa/1.2.1
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=25355
+- type: html
+  content: https://docs.ogc.org/is/06-103r4/06-103r4/pdf
 docidentifier:
 - content: 06-103r4
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     interface. OpenGIS Simple Features are geospatial features described using vector
     data elements such as points, lines and polygons.  '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

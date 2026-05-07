@@ -1,7 +1,7 @@
 ---
 id: 22025r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -66,7 +66,7 @@ abstract:
   content: This document describes the specification for 3D Tiles, an open standard
     for streaming massive heterogeneous 3D geospatial datasets.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: community-standard
   flavor: ogc

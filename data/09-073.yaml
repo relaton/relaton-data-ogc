@@ -1,7 +1,7 @@
 ---
 id: '09073'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 SWE PulseNet™ Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34145
+- type: html
+  content: https://docs.ogc.org/per/09-073/09-073/pdf
 docidentifier:
 - content: '09-073'
   type: OGC
@@ -58,7 +58,7 @@ abstract:
     to the Common Chemical, Biological, Radiological, and Nuclear (CBRN) Sensor Interface
     (CCSI) standard-compliant sensors into an OGC SWE-based architecture.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

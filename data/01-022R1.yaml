@@ -1,7 +1,7 @@
 ---
 id: 01022r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Basic Services Model
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1024
+- type: html
+  content: https://docs.ogc.org/dp/01-022r1/01-022r1/pdf
 docidentifier:
 - content: 01-022r1
   type: OGC
@@ -58,7 +58,7 @@ abstract:
   content: 'The Basic Services Model is an implementation of the ISO TC211 services
     architecture as found in ISO 19119 Geographic Information '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

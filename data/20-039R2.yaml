@@ -1,7 +1,7 @@
 ---
 id: 20039r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -81,7 +81,7 @@ abstract:
     tested using one (or more) simple use case scenarios focusing on the two-way translation
     between geographic locations and DGGS Zonal Identifiers.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

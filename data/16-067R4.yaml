@@ -1,7 +1,7 @@
 ---
 id: 16067r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -86,7 +86,7 @@ abstract:
     goal is to enable systems to use OGC GeoPackage as a means to store and access
     vector tiles in an efficient way, similar to raster tiles.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

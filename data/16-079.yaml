@@ -1,7 +1,7 @@
 ---
 id: '16079'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -98,7 +98,7 @@ abstract:
     the Web of Things. Both ontologies are described below, and examples of their
     usage are given.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

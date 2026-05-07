@@ -1,7 +1,7 @@
 ---
 id: '20091'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -66,7 +66,7 @@ abstract:
     applications (adapted from ISO/IEC TR 13066-2:2016). The code sprint was hosted
     online. The event was sponsored by Ordnance Survey (OS).'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

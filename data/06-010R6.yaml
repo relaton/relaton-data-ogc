@@ -1,7 +1,7 @@
 ---
 id: 06010r6
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Transducer Markup Language *RETIRED*
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=19371
+- type: html
+  content: https://docs.ogc.org/retired/06-010r6/06-010r6/pdf
 docidentifier:
 - content: 06-010r6
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
     suite of standards.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 11013r6
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Study'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=44834
+- type: html
+  content: https://docs.ogc.org/per/11-013r6/11-013r6/pdf
 docidentifier:
 - content: 11-013r6
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     Service (WCS), and Catalogue Service for the Web (CSW). This report may be used
     as the basis for future OGC Interoperability Program initiatives.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

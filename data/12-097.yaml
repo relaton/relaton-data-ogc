@@ -1,7 +1,7 @@
 ---
 id: '12097'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -22,8 +22,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/OWS-9-bulk-data-transfer-gml
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=51998
+- type: html
+  content: https://docs.ogc.org/per/12-097/12-097/pdf
 docidentifier:
 - content: 12-097
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     consisting of geospatial data sets and/or collections of data sets to SpatiaLite/SQLite
     to store the data for use by mobile applications.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

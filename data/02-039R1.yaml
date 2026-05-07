@@ -1,7 +1,7 @@
 ---
 id: '02039r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web Pricing and Ordering
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=11500
+- type: html
+  content: https://docs.ogc.org/dp/02-039r1/02-039r1/pdf
 docidentifier:
 - content: 02-039r1
   type: OGC
@@ -58,7 +58,7 @@ abstract:
   content: This specification covers all standard geo-eBusiness processes like pricing,
     ordering and online delivery for spatial products.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

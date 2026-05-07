@@ -1,7 +1,7 @@
 ---
 id: '20036'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -78,7 +78,7 @@ abstract:
     information from the key-value stream content encoded according to the MISB 0601
     and 0903 specifications of the Motion Imagery Standards Board (MISB)."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

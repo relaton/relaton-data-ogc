@@ -1,7 +1,7 @@
 ---
 id: '24008'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -92,7 +92,7 @@ abstract:
     be integrated across OGC and buildingSMART International Standards,\r\n\r\nThis
     ER is directly imported from the project wiki found here: https://github.com/opengeospatial/Geotech/wiki."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

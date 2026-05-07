@@ -1,0 +1,72 @@
+---
+id: '25045'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Logical data model for hydrographic data based on HY_Features concepts
+  type: title-main
+- language: en
+  script: Latn
+  content: Logical data model for hydrographic data based on HY_Features concepts
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/hydrofabric
+- type: html
+  content: https://docs.ogc.org/per/25-045.html
+docidentifier:
+- content: 25-045
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-04-16'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: David Blodgett
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'Hydrologic geospatial data are built through integrated analysis of a
+    wide variety of geospatial datasets. The resulting datasets contain multi-scale
+    networked features with numerous internal and external linkages to form what has
+    come to be known as a “hydrofabric.” The “hydrofabric data model” (introduced
+    and discussed here) defines logic for encoding hydrographic features, the cross-scale
+    networked relationships between them, and a minimal but sufficient approach to
+    external dataset linkages. With the contents of this report as context, the OGC
+    Hydrology Domain Working Group could consider initiating a Standard Working Group
+    activity to establish a logical and physical data model for concepts defined in
+    WaterML 2: Part 3 — Surface Hydrology Features (HY_Features) — Conceptual Model.'
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: engineering-report
+  flavor: ogc

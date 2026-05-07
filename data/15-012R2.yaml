@@ -1,7 +1,7 @@
 ---
 id: 15012r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/1.0/geopackage-plugfest
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=63285
+- type: html
+  content: https://docs.ogc.org/dp/15-012r2/15-012r2/pdf
 docidentifier:
 - content: 15-012r2
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     and interoperability\r\nof software that produces and consumes GeoPackages containing
     tiled raster data."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '03088r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC Web Services Common
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=11519
+- type: html
+  content: https://docs.ogc.org/dp/03-088r1/03-088r1/pdf
 docidentifier:
 - content: 03-088r1
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     specifying all additional parameters and data structures needed in all operation
     requests and responses.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

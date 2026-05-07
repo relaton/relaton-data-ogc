@@ -1,7 +1,7 @@
 ---
 id: 99105r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 5 - Features
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=890
+- type: html
+  content: https://docs.ogc.org/as/99-105r2/99-105r2/pdf
 docidentifier:
 - content: 99-105r2
   type: OGC
@@ -62,7 +62,7 @@ abstract:
   content: A feature object (in software) corresponds to a real world or abstract
     entity.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

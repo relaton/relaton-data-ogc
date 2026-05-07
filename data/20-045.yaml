@@ -1,7 +1,7 @@
 ---
 id: '20045'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -63,7 +63,7 @@ abstract:
     were deployed in a number of interoperable data and processing platforms hosted
     in three Canadian provinces, in Europe and in the United States.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

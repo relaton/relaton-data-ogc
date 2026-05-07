@@ -1,7 +1,7 @@
 ---
 id: '09063'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 GeoProcessing Workflow Thread Summary ER
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34127
+- type: html
+  content: https://docs.ogc.org/per/09-063/09-063/pdf
 docidentifier:
 - content: '09-063'
   type: OGC
@@ -57,7 +57,7 @@ abstract:
     thread of the OWS-6 Testbed, it is applicable to the OGC Interoperability Program
     testbed.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

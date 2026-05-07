@@ -1,7 +1,7 @@
 ---
 id: '18075'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -76,7 +76,7 @@ abstract:
   content: This OGC® Standard specifies standard encoding representations of movement
     of geographic features. The primary use case is information exchange.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

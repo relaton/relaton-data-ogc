@@ -1,7 +1,7 @@
 ---
 id: '07028r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: GEOINT Structure Implementation Profile Schema Processing
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=21628
+- type: html
+  content: https://docs.ogc.org/dp/07-028r1/07-028r1/pdf
 docidentifier:
 - content: 07-028r1
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     (NSG) GEOINT Structure Implementation Profile (GSIP) as developed in conjuction
     with the Open Geospatial Consortium Interoperability Program initiative OWS-4.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

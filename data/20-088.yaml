@@ -1,7 +1,7 @@
 ---
 id: '20088'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -68,7 +68,7 @@ abstract:
     spatial errors, spectral errors, and error propagation. The paper also presents
     a proposed framework and a recommended study effort.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

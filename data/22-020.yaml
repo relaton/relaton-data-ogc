@@ -1,7 +1,7 @@
 ---
 id: '22020'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -81,7 +81,7 @@ abstract:
     and limitations for reproducible workflows and recommendations for future work
     to identify the benefits of reproducible science for healthcare use cases."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

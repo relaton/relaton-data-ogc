@@ -1,7 +1,7 @@
 ---
 id: '24074'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/TP/cdrp2024-D131
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=110244&version=1
+- type: html
+  content: https://docs.ogc.org/techpaper/24-074/24-074/pdf
 docidentifier:
 - content: 24-074
   type: OGC
@@ -80,7 +80,7 @@ abstract:
     \r\nand open source. Landslideflow can be used by scientists, engineers, and policymakers
     to better \r\nunderstand and mitigate the risks associated with landslides."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

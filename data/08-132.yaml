@@ -1,7 +1,7 @@
 ---
 id: '08132'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Event Pattern Markup Language (EML)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=29566
+- type: html
+  content: https://docs.ogc.org/dp/08-132/08-132/pdf
 docidentifier:
 - content: '08-132'
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     and correlating multiple events. It can be applied on single events but is focused
     on handling of continuous event streams.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

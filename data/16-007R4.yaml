@@ -1,7 +1,7 @@
 ---
 id: 16007r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/CDB-core-model/1.1.0
-- type: pdf
-  content: https://portal.ogc.org/files/16-007r4
+- type: html
+  content: https://docs.ogc.org/is/16-007r4/16-007r4/pdf
 docidentifier:
 - content: 16-007r4
   type: OGC
@@ -76,7 +76,7 @@ abstract:
     the geospatial community perspective, these data are essentially the same as GIS
     data but with, in some cases, special attributes, such as radar reflectivity.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

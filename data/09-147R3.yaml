@@ -1,7 +1,7 @@
 ---
 id: '09147r3'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -21,8 +21,8 @@ title:
     Extension - Corrigendum  '
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=50140
+- type: html
+  content: https://docs.ogc.org/is/09-147r3/09-147r3/pdf
 docidentifier:
 - content: '09-147r3'
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     2.0 core to allow for client/server communication using HTTP GET with key/value
     pair (KVP) encod-ing. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

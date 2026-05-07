@@ -1,7 +1,7 @@
 ---
 id: '07018'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=20583
+- type: html
+  content: https://docs.ogc.org/dp/07-018/07-018/pdf
 docidentifier:
 - content: 07-018
   type: OGC
@@ -56,7 +56,7 @@ abstract:
   content: This Discussion Paper explains how a Sensor Planning Service is organised
     and implemented for the Earth Observation domain.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

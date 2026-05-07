@@ -1,7 +1,7 @@
 ---
 id: 19030r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -69,7 +69,7 @@ abstract:
     term mixed reality was originally introduced in a 1994 paper by Paul Milgram and
     Fumio Kishino, A Taxonomy of Mixed Reality Visual Displays. What is mixed reality?."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '24073'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/TP/cdrp2024-sdi2gki
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=110243&version=1
+- type: html
+  content: https://docs.ogc.org/techpaper/24-073/24-073/pdf
 docidentifier:
 - content: 24-073
   type: OGC
@@ -75,7 +75,7 @@ abstract:
     Effects (CE) and regional impacts due to varying geography, environments, and
     populations."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

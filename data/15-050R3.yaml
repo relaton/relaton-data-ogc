@@ -1,7 +1,7 @@
 ---
 id: 15050r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/tb11-niem-ic-data
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=65421
+- type: html
+  content: https://docs.ogc.org/per/15-050r3/15-050r3/pdf
 docidentifier:
 - content: 15-050r3
   type: OGC
@@ -81,7 +81,7 @@ abstract:
     driven by collaborative partnerships. This transformation is vital to\r\nconfronting
     the security challenges of the future."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

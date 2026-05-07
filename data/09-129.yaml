@@ -1,7 +1,7 @@
 ---
 id: '09129'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=35634
+- type: html
+  content: https://docs.ogc.org/per/09-129/09-129/pdf
 docidentifier:
 - content: '09-129'
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     offered for consideration by the GEOSS Best Practice Registry editors and to OGC
     Technical Committee for consideration as a Best Practice.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

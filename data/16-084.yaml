@@ -1,7 +1,7 @@
 ---
 id: '16084'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -19,8 +19,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/benefitsOfIndoorLocation
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=68604
+- type: html
+  content: https://docs.ogc.org/dp/16-084/16-084/pdf
 docidentifier:
 - content: 16-084
   type: OGC
@@ -108,7 +108,7 @@ abstract:
     to capture recommendations of relevance for the industrial and standardization
     community these organizations represent. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 22016r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -65,7 +65,7 @@ abstract:
     moving object detection into the client supported by OGC MFSI Standards and describes
     challenges of multi-sensor integration in the context of Moving Features data.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

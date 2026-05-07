@@ -1,7 +1,7 @@
 ---
 id: '07018r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Sensor Planning Service Application Profile for EO Sensors
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=25199
+- type: html
+  content: https://docs.ogc.org/bp/07-018r2/07-018r2/pdf
 docidentifier:
 - content: 07-018r2
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     most of whom have existing facilities for the management of these programming
     requests.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

@@ -1,7 +1,7 @@
 ---
 id: '13101'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/GEOXACML/GML3-Extension
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=55232
+- type: html
+  content: https://docs.ogc.org/dp/13-101/13-101/pdf
 docidentifier:
 - content: 13-101
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     functions from GML to WKT and vice versa.\r\nThis encoding extension has its normative
     base in Geography Markup Language (GML) simple features profile (with Corrigendum).\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

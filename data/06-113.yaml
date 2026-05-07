@@ -1,7 +1,7 @@
 ---
 id: '06113'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: GML 3.1.1 common CRSs profile Corrigendum
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=16572
+- type: html
+  content: https://docs.ogc.org/pc/06-113/06-113/pdf
 docidentifier:
 - content: 06-113
   type: OGC
@@ -56,7 +56,7 @@ abstract:
   content: This document is a corrigendum for OGC Document 05-095r1, titled GML 3.1.1
     common CRSs profile. This corrigendum is based on change request OGC 06-041.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: profile

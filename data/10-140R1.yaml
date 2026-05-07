@@ -1,7 +1,7 @@
 ---
 id: 10140r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -19,8 +19,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/WCS-application-profile-earth-observation/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=42722
+- type: html
+  content: https://docs.ogc.org/profile/10-140r1/10-140r1/pdf
 docidentifier:
 - content: 10-140r1
   type: OGC
@@ -78,7 +78,7 @@ abstract:
     (EO-WCS), defines a profile of WCS 2.0 [OGC 09-110r4] for use on Earth Observation
     data.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: profile

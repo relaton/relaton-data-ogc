@@ -1,7 +1,7 @@
 ---
 id: '06155'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-4 CSW ebRIM Modelling Guidelines IPR
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=20430
+- type: html
+  content: https://docs.ogc.org/dp/06-155/06-155/pdf
 docidentifier:
 - content: 06-155
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     Standard [http://www.opengeospatial.org/standards/cat] implementations in the
     OWS-4 Initiative [http://www.opengeospatial.org/projects/initiatives/ows-4].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 12027r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/wfs-temporality-extension
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=58922
+- type: html
+  content: https://docs.ogc.org/dp/12-027r3/12-027r3/pdf
 docidentifier:
 - content: 12-027r3
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     partially replaces and\r\nadvances the document “OWS-8 Aviation: Guidance for
     Retrieving AIXM 5.1 data via\r\nan OGC WFS 2.0” [4]."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

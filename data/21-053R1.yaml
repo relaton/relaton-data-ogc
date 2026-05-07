@@ -1,7 +1,7 @@
 ---
 id: 21053r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -65,7 +65,7 @@ abstract:
     of the OGC GeoPackage Standard. The intent is that these models can be used to
     implement the GeoPackage standard using technology other than a SQLite database.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '03008r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web Notification Service
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1367
+- type: html
+  content: https://docs.ogc.org/dp/03-008r2/03-008r2/pdf
 docidentifier:
 - content: 03-008r2
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     Service. Future work activities should include the adaptation of the message schema
     to the needs of other services.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

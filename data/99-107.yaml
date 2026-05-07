@@ -1,7 +1,7 @@
 ---
 id: '99107'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 7 - Earth Imagery
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=892
+- type: html
+  content: https://docs.ogc.org/as/99-107/99-107/pdf
 docidentifier:
 - content: 99-107
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     This technology properly depends on the more general technology that supports
     Coverages.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

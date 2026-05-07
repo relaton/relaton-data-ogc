@@ -1,7 +1,7 @@
 ---
 id: '19081'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -78,7 +78,7 @@ abstract:
     The present model is also suitable as input to begin development of a formal conceptual
     model standard.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

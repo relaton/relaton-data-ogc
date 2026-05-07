@@ -1,7 +1,7 @@
 ---
 id: '20066'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -72,7 +72,7 @@ abstract:
     the Conceptual Model Standard and the Users Guide, are mutually linked to facilitate
     navigation between corresponding sections in these documents."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

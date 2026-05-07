@@ -1,7 +1,7 @@
 ---
 id: '07009r3'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC Web Services Architectural Profile for the NSG
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=22873
+- type: html
+  content: https://docs.ogc.org/dp/07-009r3/07-009r3/pdf
 docidentifier:
 - content: 07-009r3
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     will enable organization that interface with the NSG to understand how to produce
     and consume data and services in an interoperable environment.  '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

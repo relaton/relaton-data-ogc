@@ -1,7 +1,7 @@
 ---
 id: 13046r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/chisp1-summary-er
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=55432
+- type: html
+  content: https://docs.ogc.org/per/13-046r2/13-046r2/pdf
 docidentifier:
 - content: 13-046r2
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     current stream flow and groundwater conditions\r\n•\tModeling and assessment of
     nutrient load into the Great Lakes\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

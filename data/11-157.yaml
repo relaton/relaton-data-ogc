@@ -1,7 +1,7 @@
 ---
 id: '11157'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Corrigendum 1 for OGC Web Services Common Standard v2.0.0 - Multilingual
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46435
+- type: html
+  content: https://docs.ogc.org/is/11-157/11-157/pdf
 docidentifier:
 - content: 11-157
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     and data structures included in operation requests and responses c) XML and KVP
     encoding of operation requests and responses"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

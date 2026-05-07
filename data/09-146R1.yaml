@@ -1,7 +1,7 @@
 ---
 id: '09146r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OGC® GML Application Schema - Coverages
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=41438
+- type: html
+  content: https://docs.ogc.org/sap/09-146r1/09-146r1/pdf
 docidentifier:
 - content: '09-146r1'
   type: OGC
@@ -61,7 +61,7 @@ abstract:
   script: Latn
   content: This document specifies the GML coverage structure to be used by OGC standards.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: profile

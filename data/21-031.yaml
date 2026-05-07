@@ -1,7 +1,7 @@
 ---
 id: '21031'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -94,7 +94,7 @@ abstract:
     Practice 12: OGC UML models should be machine readable (i.e. available in XMI
     format, in addition to the format of the UML Editor used to create the model)."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

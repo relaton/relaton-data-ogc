@@ -1,7 +1,7 @@
 ---
 id: 10028r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     systems
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=39475
+- type: html
+  content: https://docs.ogc.org/bp/10-028r1/10-028r1/pdf
 docidentifier:
 - content: 10-028r1
   type: OGC
@@ -75,7 +75,7 @@ abstract:
     initiatives developed in the context of the GMES programme like HMA - Heterogeneous
     Missions Accessibility and the INSPIRE  spatial data infrastructure legislation.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

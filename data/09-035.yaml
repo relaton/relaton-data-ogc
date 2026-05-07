@@ -1,7 +1,7 @@
 ---
 id: '09035'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 Security Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=35461
+- type: html
+  content: https://docs.ogc.org/per/09-035/09-035/pdf
 docidentifier:
 - content: '09-035'
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     in the OWS-6 RFQ/CFP originating from a number of sponsors, from OGC staff, and
     from OGC members. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

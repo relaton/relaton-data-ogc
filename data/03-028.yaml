@@ -1,7 +1,7 @@
 ---
 id: '03028'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC Web Services UDDI Experiment
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1317
+- type: html
+  content: https://docs.ogc.org/dp/03-028/03-028/pdf
 docidentifier:
 - content: 03-028
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     Object Access Protocol) messaging protocols. The baseline for this experiment
     is the specification for UDDI version 2 and use of private UDDI implementations. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 19075r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/borehole-ie
-- type: pdf
-  content: https://portal.ogc.org/files/19-075r1
+- type: html
+  content: https://docs.ogc.org/per/19-075r1/19-075r1/pdf
 docidentifier:
 - content: 19-075r1
   type: OGC
@@ -92,7 +92,7 @@ abstract:
     elements that are positioned along a borehole trajectory. In addition, this document
     provides GML/XML encoding instances documents for guidance
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

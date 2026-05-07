@@ -1,7 +1,7 @@
 ---
 id: '05078r4'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=22364
+- type: html
+  content: https://docs.ogc.org/is/05-078r4/05-078r4/pdf
 docidentifier:
 - content: 05-078r4
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     using extensions of WMS operations. Additionally, SLD defines an operation for
     standardized access to legend symbols.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

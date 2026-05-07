@@ -1,7 +1,7 @@
 ---
 id: 18005r8
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,8 +18,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/AS/topic-2/6.0
-- type: pdf
-  content: https://docs.ogc.org/as/18-005r8/18-005r8.pdf
+- type: html
+  content: https://docs.ogc.org/as/18-005r8/18-005r8/pdf
 docidentifier:
 - content: 18-005r8
   type: OGC
@@ -69,7 +69,7 @@ abstract:
     OGC documents 08-015r2 and 10-020. This OGC document, 18-005r5, incorporates three
     editorial corrections made in ISO 19111:2019 amendment 1 of 2021.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '20032'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -77,7 +77,7 @@ abstract:
     standard. Due to the widespread of the virus, the Sprint was held virtually by
     using GoToMeeting teleconferencing facilities of OGC, email and GitHub.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

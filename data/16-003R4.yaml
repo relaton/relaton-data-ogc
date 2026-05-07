@@ -1,7 +1,7 @@
 ---
 id: 16003r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -64,7 +64,7 @@ abstract:
     Instance Attribute files. Please refer to section 3.7 of the CDB Core Standard
     (Volume 1) for information on the tables that use the Navaids key words.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

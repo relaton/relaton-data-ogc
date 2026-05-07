@@ -1,7 +1,7 @@
 ---
 id: 15047r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/tb-11-geo4niem-wfs-api
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=65418
+- type: html
+  content: https://docs.ogc.org/per/15-047r3/15-047r3/pdf
 docidentifier:
 - content: 15-047r3
   type: OGC
@@ -83,7 +83,7 @@ abstract:
     partnerships. This transformation is vital to confronting the security challenges
     of the future.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

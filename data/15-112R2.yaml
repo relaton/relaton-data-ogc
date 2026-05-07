@@ -1,7 +1,7 @@
 ---
 id: 15112r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/cdb-terms/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=72714
+- type: html
+  content: https://docs.ogc.org/is/15-112r2/15-112r2/pdf
 docidentifier:
 - content: 15-112r2
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     Schema. Some work still remains to make the terms and definitions completely consistent
     with current OGC and ISO best practice.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

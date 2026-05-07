@@ -1,7 +1,7 @@
 ---
 id: 21006r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -99,7 +99,7 @@ abstract:
     (IS) for Geography Markup Language (GML) implemenations. The GML schemas are explained
     in an overview and design decisions that have been made are documented as well.\r\n\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: 99100r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 0 - Overview
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=11496
+- type: html
+  content: https://docs.ogc.org/as/99-100r1/99-100r1/pdf
 docidentifier:
 - content: 99-100r1
   type: OGC
@@ -61,7 +61,7 @@ abstract:
   script: Latn
   content: Introduction and roadmap to the Abstract specification.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

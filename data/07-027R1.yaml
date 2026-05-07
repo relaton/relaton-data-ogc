@@ -1,7 +1,7 @@
 ---
 id: 07027r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Local MSD Implementation Profile (GML 3.2.1)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=21702
+- type: html
+  content: https://docs.ogc.org/dp/07-027r1/07-027r1/pdf
 docidentifier:
 - content: 07-027r1
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     requirements for Local MSD. The structure of the document is based on ISO/DIS
     19131 (Geographic Information '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '21021'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -80,7 +80,7 @@ abstract:
     response to, and recovery from future health emergencies. Such a data model would
     help to improve support for critical functions and use cases.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

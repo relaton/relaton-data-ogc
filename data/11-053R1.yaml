@@ -1,7 +1,7 @@
 ---
 id: 11053r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,8 +18,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/WCS-CRS-extension/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=54209
+- type: html
+  content: https://docs.ogc.org/is/11-053r1/11-053r1/pdf
 docidentifier:
 - content: 11-053r1
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     the CRS of the input bounding box is already defined in the OGC WCS Core Implementation
     Standard [OGC 09-110r3].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: extension

@@ -1,7 +1,7 @@
 ---
 id: '04095'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Filter Encoding Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=8340
+- type: html
+  content: https://docs.ogc.org/is/04-095/04-095/pdf
 docidentifier:
 - content: 04-095
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     and the Styled Layer Descriptor Standard [http://www.opengeospatial.org/standards/sld].
     \r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: '09036r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 GeoXACML Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34976
+- type: html
+  content: https://docs.ogc.org/per/09-036r2/09-036r2/pdf
 docidentifier:
 - content: '09-036r2'
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     briefly introduce the relevant details of XACML 2.0, OGC GeoXACML 1.0 and some
     related profiles. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

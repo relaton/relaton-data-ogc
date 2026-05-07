@@ -1,7 +1,7 @@
 ---
 id: '01004'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Grid Coverage Service Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=6628
+- type: html
+  content: https://docs.ogc.org/retired/01-004/01-004/pdf
 docidentifier:
 - content: 01-004
   type: OGC
@@ -58,7 +58,7 @@ abstract:
     interoperability between software implementations by data vendors and software
     vendors providing grid analysis and processing capabilities."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

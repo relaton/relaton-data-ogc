@@ -1,7 +1,7 @@
 ---
 id: '14039'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/testbed10/aviation-portrayal-notams
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=58929
+- type: html
+  content: https://docs.ogc.org/per/14-039/14-039/pdf
 docidentifier:
 - content: 14-039
   type: OGC
@@ -77,7 +77,7 @@ abstract:
     and to evaluate the feasibility of their application using OGC standards for portraying,
     namely the Symbology Encoding standard, version 1.1.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

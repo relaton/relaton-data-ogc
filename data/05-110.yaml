@@ -1,7 +1,7 @@
 ---
 id: '05110'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Feature Portrayal Service
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13186
+- type: html
+  content: https://docs.ogc.org/dp/05-110/05-110/pdf
 docidentifier:
 - content: 05-110
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     are identified or specified by the client, and are applied to digital feature
     data retrieved from a Web Feature Service (WFS) identified by the client. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

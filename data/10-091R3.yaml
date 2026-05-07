@@ -1,7 +1,7 @@
 ---
 id: 10091r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: CF-netCDF Core and Extensions Primer
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=43733
+- type: html
+  content: https://docs.ogc.org/primer/10-091r3/10-091r3/pdf
 docidentifier:
 - content: 10-091r3
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     by describ-ing the CF-netCDF core and extensions. The CF-netCDF standard defines
     how to encode digital geospatial information representing space/time-varying phenomena
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

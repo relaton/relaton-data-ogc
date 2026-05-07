@@ -1,7 +1,7 @@
 ---
 id: 07147r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC KML
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=27810
+- type: html
+  content: https://docs.ogc.org/is/07-147r2/07-147r2/pdf
 docidentifier:
 - content: 07-147r2
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     of graphical data on the globe, but also the control of the user's navigation
     in the sense of where to go and where to look.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

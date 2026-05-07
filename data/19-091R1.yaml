@@ -1,7 +1,7 @@
 ---
 id: 19091r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     IFC, CityGML and LandInfra'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=92634
+- type: html
+  content: https://docs.ogc.org/dp/19-091r1/19-091r1/pdf
 docidentifier:
 - content: 19-091r1
   type: OGC
@@ -103,7 +103,7 @@ abstract:
     and LandInfra – and describe some of the problems that hinder their integration;
     finally, we propose actions points for overcoming these problems.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

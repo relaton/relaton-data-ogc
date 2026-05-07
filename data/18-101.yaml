@@ -1,7 +1,7 @@
 ---
 id: '18101'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -71,7 +71,7 @@ abstract:
     desired style offering can be selected by the client from multiple server style
     offerings (e.g. GetStyles request), and how clients can apply their own styles."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

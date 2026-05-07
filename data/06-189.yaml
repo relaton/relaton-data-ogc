@@ -1,7 +1,7 @@
 ---
 id: '06189'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Corrigendum 1 (one) for OpenGIS Implementation Specification GML 2.1.2
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=19208
+- type: html
+  content: https://docs.ogc.org/is/06-189/06-189/pdf
 docidentifier:
 - content: 06-189
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     Implementation Specification that this document provides revision notes for is
     02-069. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

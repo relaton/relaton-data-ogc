@@ -1,7 +1,7 @@
 ---
 id: 16005r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/CDB-core-annexes/1.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=72713
+- type: html
+  content: https://docs.ogc.org/bp/16-005r2/16-005r2/pdf
 docidentifier:
 - content: 16-005r2
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     Structure standard. The only exception is Annex A, Abstract Test Suite. The CDB
     ATS Annex is in Volume 1: Core document.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

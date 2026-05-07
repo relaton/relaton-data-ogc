@@ -1,7 +1,7 @@
 ---
 id: '05101'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS 3 GML Investigations - Performance Experiment by Galdos Systems
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13396
+- type: html
+  content: https://docs.ogc.org/dp/05-101/05-101/pdf
 docidentifier:
 - content: 05-101
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     including encoding format, data set size, bandwidth, and feature type will be
     varied to test the relative performance in each case.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '19069'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -85,7 +85,7 @@ abstract:
     Web Map Tiling Service Draft Specification Engineering Report but in the course
     of the Testbed-15 that title was changed to better represent the content."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

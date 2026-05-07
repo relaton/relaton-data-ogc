@@ -1,7 +1,7 @@
 ---
 id: '09144r2'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'Technical Committee Policies and Procedures: MIME Media Types for GML'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=59324
+- type: html
+  content: https://docs.ogc.org/pol/09-144r2/09-144r2/txt
 docidentifier:
 - content: '09-144r2'
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     The identifiers were originally defined in RFC 2046 for use in e-mail sent through
     SMTP, but their use has expanded to other protocols such as HTTP, RTP and SIP.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   flavor: ogc

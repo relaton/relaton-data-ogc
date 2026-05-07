@@ -1,7 +1,7 @@
 ---
 id: '09104r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Draft for Candidate OpenGIS® Web 3D Service Interface Standard
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=36390
+- type: html
+  content: https://docs.ogc.org/dp/09-104r1/09-104r1/pdf
 docidentifier:
 - content: '09-104r1'
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     and street furniture. Geodata is delivered as scenes that are comprised of display
     elements, optimized for efficient real time rendering at high frame rates.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

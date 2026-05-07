@@ -1,7 +1,7 @@
 ---
 id: 06021r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Sensor Web Enablement Architecture
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=27775
+- type: html
+  content: https://docs.ogc.org/bp/06-021r2/06-021r2/pdf
 docidentifier:
 - content: 06-021r2
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     Consortium’s (OGC) Sensor Web Enablement Initiative (SWE). In contrast to other
     OGC SWE stan-dards, this document is not an implementation standard.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

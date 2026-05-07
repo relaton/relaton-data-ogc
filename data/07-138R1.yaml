@@ -1,7 +1,7 @@
 ---
 id: '07138r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-5 GeoProcessing Workflow Architecture Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=30065
+- type: html
+  content: https://docs.ogc.org/dp/07-138r1/07-138r1/pdf
 docidentifier:
 - content: 07-138r1
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     for geoprocessing in a workflow.  This document establishes a sample architecture
     and associated lessons learned as general guidance.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

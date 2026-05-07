@@ -1,7 +1,7 @@
 ---
 id: 04016r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS Common Recomendation Paper
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=6324
+- type: html
+  content: https://docs.ogc.org/rp/04-016r3/04-016r3/zip
 docidentifier:
 - content: 04-016r3
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     specifying all additional parameters and data structures needed in all operation
     requests and responses.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

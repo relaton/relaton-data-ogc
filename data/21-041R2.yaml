@@ -1,7 +1,7 @@
 ---
 id: 21041r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -87,7 +87,7 @@ abstract:
     for the creation of new standards entirely. This paper does not suggest making
     MDA and associated mandatory for future standards generation."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

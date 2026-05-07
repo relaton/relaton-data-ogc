@@ -1,7 +1,7 @@
 ---
 id: 16021r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -69,7 +69,7 @@ abstract:
     data delivery of standard data and complex 3D data from OGC services over low
     and very low bandwidth.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

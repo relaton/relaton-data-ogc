@@ -1,7 +1,7 @@
 ---
 id: '19007'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -67,7 +67,7 @@ abstract:
     and/or best/practices will be used as the basis for CDB Standards Working Group
     (SWG) discussions related to possible revisions to the CDB standard."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

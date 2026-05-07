@@ -1,7 +1,7 @@
 ---
 id: '11145'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/WP/cyber-arch-geosciences
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46388
+- type: html
+  content: https://docs.ogc.org/techpaper/11-145/11-145/pdf
 docidentifier:
 - content: 11-145
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     to reply to the authors’ with notification of any relevant patent rights of which
     they are aware and to provide supporting documentation.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

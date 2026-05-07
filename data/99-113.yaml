@@ -1,7 +1,7 @@
 ---
 id: '99113'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 13 - Catalog Services
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=901
+- type: html
+  content: https://docs.ogc.org/as/99-113/99-113/pdf
 docidentifier:
 - content: 99-113
   type: OGC
@@ -59,7 +59,7 @@ abstract:
   script: Latn
   content: Covers the Geospatial Information Access Services
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

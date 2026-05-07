@@ -1,7 +1,7 @@
 ---
 id: 10124r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OGC Identifiers - the case for http URIs
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=39467
+- type: html
+  content: https://docs.ogc.org/techpaper/10-124r1/10-124r1/pdf
 docidentifier:
 - content: 10-124r1
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     reference to these\r\nresources, enabled by persistent identifiers. This may be
     at various level of\r\ngranularity. "
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

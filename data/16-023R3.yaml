@@ -1,7 +1,7 @@
 ---
 id: 16023r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -70,7 +70,7 @@ abstract:
     This ER summarizes and compares the results from the different activities for
     asynchronous service responses and provides recommendations for future activities.'
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

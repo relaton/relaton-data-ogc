@@ -1,7 +1,7 @@
 ---
 id: '21077'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -86,7 +86,7 @@ abstract:
     supporting LPC and finally proposes a practice to effectively apply HDF5 to facilitate
     the sharing and importing of LPC datasets."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

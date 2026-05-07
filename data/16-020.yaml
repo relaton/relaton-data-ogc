@@ -1,7 +1,7 @@
 ---
 id: '16020'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -63,7 +63,7 @@ abstract:
     the application schema (using RDF(S)/SKOS/OWL) - to support Semantic Web / Linked
     Data implementations."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

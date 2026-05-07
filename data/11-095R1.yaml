@@ -1,7 +1,7 @@
 ---
 id: 11095r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ows8-wcs2.0-eo-ap-compliance
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=47826
+- type: html
+  content: https://docs.ogc.org/per/11-095r1/11-095r1/pdf
 docidentifier:
 - content: 11-095r1
   type: OGC
@@ -68,7 +68,7 @@ abstract:
   content: This Engineering Report describes and evaluates the specification of EO-WCS
     ATS and the implementation of ETS for use within an OGC SOA processing chain.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

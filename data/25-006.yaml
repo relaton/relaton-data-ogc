@@ -1,7 +1,7 @@
 ---
 id: '25006'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -80,7 +80,7 @@ abstract:
     AECO industries. This is done in light of the needs for machine-understanding
     of materials in a DT for AECO."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

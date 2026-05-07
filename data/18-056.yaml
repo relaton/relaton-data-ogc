@@ -1,7 +1,7 @@
 ---
 id: '18056'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/DP/SensotThings-tasking
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=79179
+- type: html
+  content: https://docs.ogc.org/dp/18-056/18-056/pdf
 docidentifier:
 - content: 18-056
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     TaskingCapabilities and Tasks for the SensorThings Application Programming Interface
     (API).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

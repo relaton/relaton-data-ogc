@@ -1,7 +1,7 @@
 ---
 id: 02066r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Web Map Context Documents
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1181
+- type: html
+  content: https://docs.ogc.org/rp/02-066r1/02-066r1/zip
 docidentifier:
 - content: 02-066r1
   type: OGC
@@ -58,7 +58,7 @@ abstract:
   content: States how a specific grouping of one or more maps from one or more map
     servers can be described in a portable, platform-independent manner.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

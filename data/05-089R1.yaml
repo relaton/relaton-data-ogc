@@ -1,7 +1,7 @@
 ---
 id: '05089r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Sensor Planning Service
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=12971
+- type: html
+  content: https://docs.ogc.org/dp/05-089r1/05-089r1/pdf
 docidentifier:
 - content: 05-089r1
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     to the support systems that surround them. \r\nThe SPS is designed to be flexible
     enough to handle a wide variety of configurations."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

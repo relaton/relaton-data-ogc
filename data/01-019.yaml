@@ -1,7 +1,7 @@
 ---
 id: '01019'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: XML for Image and map Annotation
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1020
+- type: html
+  content: https://docs.ogc.org/dp/01-019/01-019/pdf
 docidentifier:
 - content: 01-019
   type: OGC
@@ -56,7 +56,7 @@ abstract:
   content: Defines an XML vocabulary to encode annotations on imagery, maps, and other
     geospatial data. This vocabulary draws on the Geography Markup Language (OpenGIS
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 11092r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ER/ows8-notam-event-specification
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46243
+- type: html
+  content: https://docs.ogc.org/per/11-092r2/11-092r2/pdf
 docidentifier:
 - content: 11-092r2
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     tables which document normative statements from the DNES and indicate which of
     them can be tested with existing schematron rules.\r\nSee:  <a href=http://dp.schemas.opengis.net/11-092r2>http://dp.schemas.opengis.net/11-092r2</a>"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

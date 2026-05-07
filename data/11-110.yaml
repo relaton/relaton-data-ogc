@@ -1,7 +1,7 @@
 ---
 id: '11110'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Open Source and Open Standards
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=45126
+- type: html
+  content: https://docs.ogc.org/techpaper/11-110/11-110/doc
 docidentifier:
 - content: 11-110
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     contributions.\r\nPlease feel free to add comments, criticisms, links to other
     concise definitions on the associated Talk page: http://wiki.osgeo.org/wiki/Open_Source_and_Open_Standards."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

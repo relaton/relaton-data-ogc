@@ -1,7 +1,7 @@
 ---
 id: 07166r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC OWS-5 Engineering Report on WCPS
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=27052
+- type: html
+  content: https://docs.ogc.org/dp/07-166r2/07-166r2/pdf
 docidentifier:
 - content: 07-166r2
   type: OGC
@@ -58,7 +58,7 @@ abstract:
   content: This document represents the Engineering Report for the WCPS activity within
     the OWS-5 SWE thread. It summarizes tasks and outcomes.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

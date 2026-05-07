@@ -1,7 +1,7 @@
 ---
 id: 16032r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -64,7 +64,7 @@ abstract:
   content: This standard describes a conceptual and logical model for the exchange
     of groundwater data, as well as a GML/XML encoding with examples.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

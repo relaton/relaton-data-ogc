@@ -1,7 +1,7 @@
 ---
 id: '06080'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: GML Application Schema for EO Products
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=15546
+- type: html
+  content: https://docs.ogc.org/dp/06-080/06-080/pdf
 docidentifier:
 - content: 06-080
   type: OGC
@@ -58,7 +58,7 @@ abstract:
     the HMA (Heterogeneous EO Missions Accessibility) Application Profile for the
     OGCTM Catalogue Services Specification v2.0.0 (with Corrigendum) [OGC 04-021r3].
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

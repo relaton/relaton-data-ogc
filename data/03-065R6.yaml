@@ -1,7 +1,7 @@
 ---
 id: 03065r6
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Web Coverage Service (WCS) Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=3837
+- type: html
+  content: https://docs.ogc.org/is/03-065r6/03-065r6/pdf
 docidentifier:
 - content: 03-065r6
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     coverages that represent values or properties of geographic locations, rather
     than WMS generated maps (pictures).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

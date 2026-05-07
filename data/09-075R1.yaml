@@ -1,7 +1,7 @@
 ---
 id: '09075r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 3D Flythrough (W3DS) Engineering Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=33949
+- type: html
+  content: https://docs.ogc.org/per/09-075r1/09-075r1/pdf
 docidentifier:
 - content: '09-075r1'
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     application profile. The server for delivering landscape and city models is implemented
     as Web 3D Service (W3DS) that is designed as portrayal service. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 05042r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Web services architecture description
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13140
+- type: html
+  content: https://docs.ogc.org/bp/05-042r2/05-042r2/pdf
 docidentifier:
 - content: 05-042r2
   type: OGC
@@ -60,7 +60,7 @@ abstract:
     This architecture is a service-oriented architecture, with all components providing
     one or more services to other services or to clients.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

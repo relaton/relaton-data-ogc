@@ -1,7 +1,7 @@
 ---
 id: 16140r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -78,7 +78,7 @@ abstract:
     Service Interface that has the potential for simplicity, scalability, and resilience
     with respect to exchange of moving feature data across the Web.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

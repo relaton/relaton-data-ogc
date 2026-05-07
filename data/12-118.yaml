@@ -1,7 +1,7 @@
 ---
 id: '12118'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/ows9-security
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=51806
+- type: html
+  content: https://docs.ogc.org/per/12-118/12-118/pdf
 docidentifier:
 - content: 12-118
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     tasks and their results regarding interoperability between different security
     components provided by different participants.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

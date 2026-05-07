@@ -1,7 +1,7 @@
 ---
 id: 02017r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'WMS Part 2: XML for Requests using HTTP Post'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1118
+- type: html
+  content: https://docs.ogc.org/dp/02-017r1/02-017r1/pdf
 docidentifier:
 - content: 02-017r1
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     Language (XML); all other aspects of the Web Map Service are fully defined in
     Part 1.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

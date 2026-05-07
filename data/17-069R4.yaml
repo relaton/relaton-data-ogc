@@ -1,7 +1,7 @@
 ---
 id: 17069r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -86,7 +86,7 @@ abstract:
     operations enable clients to retrieve features from the underlying data store
     based upon simple selection criteria, defined by the client."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

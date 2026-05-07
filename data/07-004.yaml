@@ -1,7 +1,7 @@
 ---
 id: '07004'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: GeoDDS Mass Market (formerly GeoRSS) Interoperability Program Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=20431
+- type: html
+  content: https://docs.ogc.org/dp/07-004/07-004/pdf
 docidentifier:
 - content: 07-004
   type: OGC
@@ -57,7 +57,7 @@ abstract:
     of generating several simplified data formats including GeoRSS and the Basic XML
     Feature Schema\r\n(BXFS). \r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

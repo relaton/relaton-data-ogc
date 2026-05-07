@@ -1,7 +1,7 @@
 ---
 id: '01111'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -65,7 +65,7 @@ abstract:
     are planning the migration of the FGDC Content Standard for Geospatial Metadata
     to be a profile of ISO 19115
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

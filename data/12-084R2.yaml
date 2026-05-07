@@ -1,7 +1,7 @@
 ---
 id: 12084r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/ows-context-atom/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=55183
+- type: html
+  content: https://docs.ogc.org/is/12-084r2/12-084r2/pdf
 docidentifier:
 - content: 12-084r2
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     context document, which can be extended to allow a context referencing a fully
     configured service set to be defined and consistently interpreted by clients.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

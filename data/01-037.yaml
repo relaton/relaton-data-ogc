@@ -1,7 +1,7 @@
 ---
 id: '01037'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Location Organizer Folder
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1042
+- type: html
+  content: https://docs.ogc.org/per/01-037/01-037/pdf
 docidentifier:
 - content: 01-037
   type: OGC
@@ -57,7 +57,7 @@ abstract:
     a structure for organizing the information related to a particular event or events
     of interest."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

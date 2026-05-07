@@ -1,7 +1,7 @@
 ---
 id: 05047r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS GML in JPEG 2000 for Geographic Imagery  Encoding Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13252
+- type: html
+  content: https://docs.ogc.org/is/05-047r3/05-047r3/pdf
 docidentifier:
 - content: 05-047r3
   type: OGC
@@ -83,7 +83,7 @@ abstract:
     XML data for description of the image within the JPEG 2000 data file. \r\nSee
     also the GML pages on OGC Network: http://www.ogcnetwork.net/gml .\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

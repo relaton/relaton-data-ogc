@@ -1,7 +1,7 @@
 ---
 id: 16019r4
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -66,7 +66,7 @@ abstract:
     This White Paper provides a discussion of Application Programming Interfaces (APIs)
     to support discussion of possible actions in the Open Geospatial Consortium (OGC).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '12040'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,8 +18,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/WCS-service-extension-range-subsetting/1.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=54503
+- type: html
+  content: https://docs.ogc.org/is/12-040/12-040/pdf
 docidentifier:
 - content: 12-040
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     range type specification, from the range set of a coverage during server-side
     processing of a coverage in a GetCover-age request.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: extension

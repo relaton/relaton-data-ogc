@@ -1,7 +1,7 @@
 ---
 id: '20058'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -81,7 +81,7 @@ abstract:
     cases similar to those addressed by the OGC 06-042/ISO 19128 OpenGIS® Web Map
     Server (WMS) Implementation Specification Standard."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: 10131r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS-7 Aviation - AIXM Assessment Report
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=40502
+- type: html
+  content: https://docs.ogc.org/per/10-131r1/10-131r1/pdf
 docidentifier:
 - content: 10-131r1
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     guidelines or cross-walks for interpreting the new AIXM 5.1 schedules in conjunction
     with the Timeslice model in a web services environment"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

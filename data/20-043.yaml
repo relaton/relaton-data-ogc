@@ -1,7 +1,7 @@
 ---
 id: '20043'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -81,7 +81,7 @@ abstract:
     from application developer’s as well as from platform provider’s view, are represented
     here.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

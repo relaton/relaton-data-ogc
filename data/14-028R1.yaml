@@ -1,7 +1,7 @@
 ---
 id: 14028r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ER/testbed10/cloud-performance
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=59618
+- type: html
+  content: https://docs.ogc.org/per/14-028r1/14-028r1/pdf
 docidentifier:
 - content: 14-028r1
   type: OGC
@@ -77,7 +77,7 @@ abstract:
     use case is presented in a separate section of this document with performance
     results and discussions.  '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

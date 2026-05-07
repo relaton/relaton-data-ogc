@@ -1,7 +1,7 @@
 ---
 id: 05035r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Gazetteer Service Profile of a WFS
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=13593
+- type: html
+  content: https://docs.ogc.org/dp/05-035r1/05-035r1/pdf
 docidentifier:
 - content: 05-035r1
   type: OGC
@@ -64,7 +64,7 @@ abstract:
   content: Provides web access to an authority for place names. Returns their associated
     feature representations
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

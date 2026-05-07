@@ -1,7 +1,7 @@
 ---
 id: 17025r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -83,7 +83,7 @@ abstract:
     The findings of the tasks are documented in the Abstract Data Quality ER (FA001)[4]
     and the Data Quality Specification ER (FA002)[5]."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

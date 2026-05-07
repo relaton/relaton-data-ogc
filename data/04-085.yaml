@@ -1,7 +1,7 @@
 ---
 id: '04085'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: EA-SIG Collaboration White Paper
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=7564
+- type: html
+  content: https://docs.ogc.org/per/04-085/04-085/pdf
 docidentifier:
 - content: 04-085
   type: OGC
@@ -58,7 +58,7 @@ abstract:
     paper is on applications that directly support user interaction and on the applications
     that monitor, manage and control these interactive services."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

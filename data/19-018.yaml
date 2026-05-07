@@ -1,7 +1,7 @@
 ---
 id: '19018'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -63,7 +63,7 @@ abstract:
     infrastructure situations. The work in the OPF Thread was focused on an OGC Application
     Programming Interface (API) oriented approach.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

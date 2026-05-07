@@ -1,7 +1,7 @@
 ---
 id: '09110r4'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/wcs-core-2.0.1
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=48428
+- type: html
+  content: https://docs.ogc.org/is/09-110r4/09-110r4/pdf
 docidentifier:
 - content: '09-110r4'
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     contents specified in this core is consistent with the contents of an encoded
     coverage.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

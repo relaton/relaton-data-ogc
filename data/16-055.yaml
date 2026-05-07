@@ -1,7 +1,7 @@
 ---
 id: '16055'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -73,7 +73,7 @@ abstract:
     is used by application programs to encode their structured data into EXI streams
     and/or to decode EXI to make the structured data accessible."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

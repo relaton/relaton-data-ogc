@@ -1,7 +1,7 @@
 ---
 id: '11134'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/ER/ows8-tracking-vmti
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46372
+- type: html
+  content: https://docs.ogc.org/per/11-134/11-134/pdf
 docidentifier:
 - content: 11-134
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     features. Additionally,\r\nimplemented encodings will be discussed as examples
     and in comparison to the\r\nencodings detailed in (Simonis, 2011)."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

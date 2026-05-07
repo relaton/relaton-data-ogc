@@ -1,7 +1,7 @@
 ---
 id: '08077'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'OGC® OWS-5 Engineering Report: Local MSD Implementation Profile (GML 3.2.1)'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=28170
+- type: html
+  content: https://docs.ogc.org/dp/08-077/08-077/pdf
 docidentifier:
 - content: '08-077'
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     requirements for Local MSD. The structure of the document is based on ISO 19131
     (Geographic Information – Data Product Specification).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

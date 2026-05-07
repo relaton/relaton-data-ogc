@@ -1,7 +1,7 @@
 ---
 id: 22023r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -69,7 +69,7 @@ abstract:
     developer client built to define filter statements that can be expressed in a
     machine-readable way and exchanged with the filtering service."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 15118r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -79,7 +79,7 @@ abstract:
     this Engineering Report describes recommendations on profiles for OGC Web services
     that shall be used to build IMIS systems."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

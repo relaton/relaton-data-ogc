@@ -1,7 +1,7 @@
 ---
 id: '25016'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/waterqualityie
-- type: pdf
-  content: https://docs.ogc.org/per/25-016.pdf
+- type: html
+  content: https://docs.ogc.org/per/25-016/pdf
 docidentifier:
 - content: 25-016
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     21st century, threatening human health, limiting food production, reducing ecosystem
     functions, and hindering economic growth.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 15057r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/t11-social-media-in-EM
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=64353
+- type: html
+  content: https://docs.ogc.org/per/15-057r2/15-057r2/pdf
 docidentifier:
 - content: 15-057r2
   type: OGC
@@ -79,7 +79,7 @@ abstract:
     improving the architecture, service change recommendations (primarily concerning
     the OGC Sensor Observation Service (SOS) 2.0 interface), and lessons learned.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '12105'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,8 +18,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/ows9-ows-context
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=52018
+- type: html
+  content: https://docs.ogc.org/per/12-105/12-105/pdf
 docidentifier:
 - content: 12-105
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     enable the OWS Context capability for OGC services while remaining cognizant of
     implementations using mass-market technologies.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

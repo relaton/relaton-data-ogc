@@ -1,7 +1,7 @@
 ---
 id: 18067r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -57,7 +57,7 @@ abstract:
     also encoding agnostic (one symbology model, many encodings). It contains a minimal
     set of abstract classes representing explicit extension points of the model.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

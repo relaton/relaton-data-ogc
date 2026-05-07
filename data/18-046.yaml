@@ -1,7 +1,7 @@
 ---
 id: '18046'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -81,7 +81,7 @@ abstract:
     to get quickly familiar with the latest standardization efforts and helped tremendously
     in understanding investments and new market opportunities for applications-in-the-cloud."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: '08131r3'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: The Specification Model - Standard for Modular specifications
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34762&version=2
+- type: html
+  content: https://docs.ogc.org/pol/08-131r3/08-131r3/pdf
 docidentifier:
 - content: '08-131r3'
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     any document whose\r\neventual purpose is the specification of requirements for
     software, services or data structures. "
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   flavor: ogc

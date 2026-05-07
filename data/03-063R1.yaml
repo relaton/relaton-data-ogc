@@ -1,7 +1,7 @@
 ---
 id: 03063r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     Viewpoint'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1269
+- type: html
+  content: https://docs.ogc.org/per/03-063r1/03-063r1/pdf
 docidentifier:
 - content: 03-063r1
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     Specifically, this document specifies a Computational Architecture viewpoint for
     a Critical Infrastructure Collaborative Environment (CICE)."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

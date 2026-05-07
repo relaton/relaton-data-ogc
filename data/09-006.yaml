@@ -1,7 +1,7 @@
 ---
 id: '09006'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OWS-6 DSS Engineering Report - SOAP/XML and REST in WMTS
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=33269
+- type: html
+  content: https://docs.ogc.org/per/09-006/09-006/pdf
 docidentifier:
 - content: '09-006'
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     Services (DSS) subtask of the OWS-6 testbed initiative as it relates to the development
     of SOAP/XML and REST interfaces for the Web Map Tiling Service (WMTS).
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

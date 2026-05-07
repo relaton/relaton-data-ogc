@@ -1,7 +1,7 @@
 ---
 id: '08125r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC® KML Standard Development Best Practices
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=30203
+- type: html
+  content: https://docs.ogc.org/bp/08-125r1/08-125r1/pdf
 docidentifier:
 - content: '08-125r1'
   type: OGC
@@ -66,7 +66,7 @@ abstract:
     developer and user communities. It applies to the extension of KML by application
     developers and the subsequent enhancement of the KML standard by the OGC.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

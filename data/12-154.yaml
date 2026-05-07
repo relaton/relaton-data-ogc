@@ -1,7 +1,7 @@
 ---
 id: '12154'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/ows-9-nitf-for-gmljp2
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=51889
+- type: html
+  content: https://docs.ogc.org/per/12-154/12-154/pdf
 docidentifier:
 - content: 12-154
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     and how they can be supported by GMLJP2 2.0 (draft). This activity was a part
     of the OGC OWS-9 Innovations thread.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

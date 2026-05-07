@@ -1,7 +1,7 @@
 ---
 id: '22040'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -73,7 +73,7 @@ abstract:
     2D hydrofabric representations. River corridors include the channel and adjacent
     land required to maintain or restore a dynamic geomorphic equilibrium.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

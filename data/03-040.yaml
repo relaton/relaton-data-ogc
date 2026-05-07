@@ -1,7 +1,7 @@
 ---
 id: '03040'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OGC Reference Model
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=3836
+- type: html
+  content: https://docs.ogc.org/orm/03-040/03-040/pdf
 docidentifier:
 - content: 03-040
   type: OGC
@@ -57,7 +57,7 @@ abstract:
     Consortium and our specifications and implementing interoperable solutions and
     applications for geospatial services, data, and applications.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: reference-model
   flavor: ogc

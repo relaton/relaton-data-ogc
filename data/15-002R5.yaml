@@ -1,7 +1,7 @@
 ---
 id: 15002r5
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,10 @@ title:
   content: OGC Compliance Overview - Guide for Software Acquisition
   type: main
 source:
+- type: src
+  content: http://www.opengis.net/doc/WP/compliance-overview
 - type: html
-  content: http://docs.opengeospatial.org/wp/15-002r5/15-002r5.html
+  content: https://docs.ogc.org/wp/15-002r5/15-002r5.html
 docidentifier:
 - content: 15-002r5
   type: OGC
@@ -70,7 +72,7 @@ abstract:
     for OGC compliant and implementing products in software acquisition (procurement)
     documents.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

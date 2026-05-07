@@ -1,7 +1,7 @@
 ---
 id: '09153r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: 'OGC® Web Coverage Service 2.0 Primer:  Core and Extensions Overview'
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46442
+- type: html
+  content: https://docs.ogc.org/bp/09-153r1/09-153r1/pdf
 docidentifier:
 - content: '09-153r1'
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     to reflect new developments and best practices.\r\nAs such, the contents of this
     document is informative and not of normative nature.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

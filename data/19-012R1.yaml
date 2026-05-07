@@ -1,7 +1,7 @@
 ---
 id: 19012r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -65,7 +65,7 @@ abstract:
     updates on features sets.\r\n\r\nUtilizing a Web Processing Service (WPS) instance
     to access features, without the need to modify the downstream data service."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

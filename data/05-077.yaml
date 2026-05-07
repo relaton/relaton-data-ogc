@@ -1,7 +1,7 @@
 ---
 id: '05077'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: Symbology Encoding Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=12636
+- type: html
+  content: https://docs.ogc.org/dp/05-077/05-077/pdf
 docidentifier:
 - content: 05-077
   type: OGC
@@ -56,7 +56,7 @@ abstract:
   content: This Specification defines Symbology Encoding, an XML language for styling
     information that can be applied to digital Feature and Coverage data.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

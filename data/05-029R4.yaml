@@ -1,7 +1,7 @@
 ---
 id: '05029r4'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: GML Point Profile
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=11606
+- type: html
+  content: https://docs.ogc.org/dp/05-029r4/05-029r4/pdf
 docidentifier:
 - content: 05-029r4
   type: OGC
@@ -71,7 +71,7 @@ abstract:
     for a point geometry. Attention is drawn to the fact that this is a profile of
     GML version 3.1.1. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

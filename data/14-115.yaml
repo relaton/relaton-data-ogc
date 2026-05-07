@@ -1,7 +1,7 @@
 ---
 id: '14115'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/WP/smart-cities-sif
-- type: pdf
-  content: https://portal.ogc.org/files/61188
+- type: html
+  content: https://docs.ogc.org/techpaper/14-115/14-115/pdf
 docidentifier:
 - content: 14-115
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     Magazine webinar: “Making Location\r\nWork for Smart Cities – the Case for Location
     Standards”2."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: other
   flavor: ogc

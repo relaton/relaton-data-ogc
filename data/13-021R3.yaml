@@ -1,7 +1,7 @@
 ---
 id: 13021r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,8 +18,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/waterml2.0-ratings
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=54423
+- type: html
+  content: https://docs.ogc.org/dp/13-021r3/13-021r3/pdf
 docidentifier:
 - content: 13-021r3
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     information model is proposed as a second part of the WaterML2.0 suite of\r\nstandards,
     building on part 1 that addresses the exchange of time series1."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 07067r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     1
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=22560
+- type: html
+  content: https://docs.ogc.org/is/07-067r2/07-067r2/pdf
 docidentifier:
 - content: 07-067r2
   type: OGC
@@ -70,7 +70,7 @@ abstract:
     operation requests (GetCoverage,\r\nDescribeCoverage); and integration with GML
     3.1. The changes in WCS 1.1.1c1 from WCS\r\n1.1.0 are summarized in [OGC 07-066r2]."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

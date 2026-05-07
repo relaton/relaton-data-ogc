@@ -1,7 +1,7 @@
 ---
 id: '12093'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/per/ows9-ssi-ugas
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=51784
+- type: html
+  content: https://docs.ogc.org/per/12-093/12-093/pdf
 docidentifier:
 - content: 12-093
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     and discussed in this engineering report. This Engineering Report has been prepared
     as part of the OGC Web Services Phase 9 (OWS-9) initiative.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

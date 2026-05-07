@@ -1,7 +1,7 @@
 ---
 id: '09037r1'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OWS-6 UTDS-CityGML Implementation Profile
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=34098
+- type: html
+  content: https://docs.ogc.org/per/09-037r1/09-037r1/pdf
 docidentifier:
 - content: '09-037r1'
   type: OGC
@@ -61,7 +61,7 @@ abstract:
     the applicability of CityGML to UTDS data. \r\nThis document specifies the implementation
     profile as well as the findings.\r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

@@ -1,7 +1,7 @@
 ---
 id: 15042r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -71,7 +71,7 @@ abstract:
     existing OGC standards, it aims at being an interoperable exchange format that
     may be re-used to address a range of data exchange requirements.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

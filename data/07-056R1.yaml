@@ -1,7 +1,7 @@
 ---
 id: 07056r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     implementation
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=21976
+- type: html
+  content: https://docs.ogc.org/dp/07-056r1/07-056r1/pdf
 docidentifier:
 - content: 07-056r1
   type: OGC
@@ -73,7 +73,7 @@ abstract:
     specification that will encourage implementations by minimizing difficulty and
     optimizing usability and interoperability. '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

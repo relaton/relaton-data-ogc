@@ -1,7 +1,7 @@
 ---
 id: '06131'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     2.0
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=17689
+- type: html
+  content: https://docs.ogc.org/dp/06-131/06-131/pdf
 docidentifier:
 - content: 06-131
   type: OGC
@@ -58,7 +58,7 @@ abstract:
   content: This document describes the Data Model of Earth Observation Products for
     the OGC
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

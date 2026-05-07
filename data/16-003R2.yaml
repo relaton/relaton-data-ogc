@@ -1,7 +1,7 @@
 ---
 id: 16003r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/CDB-navaids/1.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=72724
+- type: html
+  content: https://docs.ogc.org/bp/16-003r2/16-003r2/pdf
 docidentifier:
 - content: 16-003r2
   type: OGC
@@ -64,7 +64,7 @@ abstract:
     Instance Attribute files. Please refer to section 3.7 of the CDB Core Standard
     (Volume 1) for information on the tables that use the Navaids key words.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

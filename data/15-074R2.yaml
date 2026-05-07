@@ -1,7 +1,7 @@
 ---
 id: 15074r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -67,7 +67,7 @@ abstract:
     and non-geospatial data sources and techniques. It underpins the collaborative
     work of the Spatial Data on the Web Working Groups operated by both W3C and OGC.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

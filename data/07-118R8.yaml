@@ -1,7 +1,7 @@
 ---
 id: '07118r8'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: User Management for Earth Observation Services
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=40677
+- type: html
+  content: https://docs.ogc.org/bp/07-118r8/07-118r8/pdf
 docidentifier:
 - content: 07-118r8
   type: OGC
@@ -63,7 +63,7 @@ abstract:
     [OGC 06-141r2]) and programming (OpenGIS Sensor Planning Service Application Profile
     for EO Sensors [OGC 07-018r2]). '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

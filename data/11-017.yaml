@@ -1,7 +1,7 @@
 ---
 id: '11017'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
     1 Corrigendum
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=42734
+- type: html
+  content: https://docs.ogc.org/is/11-017/11-017/pdf
 docidentifier:
 - content: 11-017
   type: OGC
@@ -74,7 +74,7 @@ abstract:
     of the OGC GeoDRM Reference Model (Topic 18 in the OpenGIS® Abstract Specification
     [http://www.opengeospatial.org/standards/as]). '
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

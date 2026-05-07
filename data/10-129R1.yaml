@@ -1,7 +1,7 @@
 ---
 id: 10129r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,8 +18,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/spec/GML/3.3
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46568
+- type: html
+  content: https://docs.ogc.org/is/10-129r1/10-129r1/pdf
 docidentifier:
 - content: 10-129r1
   type: OGC
@@ -67,7 +67,7 @@ abstract:
     of International Standards and including both the spatial and non-spatial properties
     of geographic features.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

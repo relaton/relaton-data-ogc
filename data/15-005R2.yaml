@@ -1,7 +1,7 @@
 ---
 id: 15005r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/BP/DGIWG-WFS/2.0
-- type: pdf
-  content: https://portal.ogc.org/files/94152
+- type: html
+  content: https://docs.ogc.org/bp/15-005r2/15-005r2/pdf
 docidentifier:
 - content: 15-005r2
   type: OGC
@@ -62,7 +62,7 @@ abstract:
     2.0 Interface\r\nStandard - Corrigendum. The Web Feature Service provides\r\naccess
     to geospatial features in a manner independent of the\r\nunderlying data store."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

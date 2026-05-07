@@ -1,7 +1,7 @@
 ---
 id: '02070'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -12,8 +12,8 @@ title:
   content: OpenGIS Styled Layer Descriptor (SLD) Implementation Specification
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=1188
+- type: html
+  content: https://docs.ogc.org/is/02-070/02-070/pdf
 docidentifier:
 - content: 02-070
   type: OGC
@@ -56,7 +56,7 @@ abstract:
   content: The SLD is an encoding for how the Web Map Server (WMS 1.0 & 1.1) specification
     can be extended to allow user-defined symbolization of feature data.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: 04017r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OGC Catalogue Services - ebRIM (ISO/TS 15000-3) profile of CSW
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=7048
+- type: html
+  content: https://docs.ogc.org/dp/04-017r1/04-017r1/zip
 docidentifier:
 - content: 04-017r1
   type: OGC
@@ -65,7 +65,7 @@ abstract:
     the CSW schemas for web-based catalogues and it complies with the requirements
     of clause 11 in OGC 04-021.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

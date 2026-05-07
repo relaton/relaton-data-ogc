@@ -1,7 +1,7 @@
 ---
 id: '16051'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -75,7 +75,7 @@ abstract:
     16-122 includes guidelines and recommendations for the use of JSON and JSON-LD
     in OGC data encodings and services."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

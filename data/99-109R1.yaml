@@ -1,7 +1,7 @@
 ---
 id: 99109r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: Topic 9 - Accuracy
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=896
+- type: html
+  content: https://docs.ogc.org/as/99-109r1/99-109r1/pdf
 docidentifier:
 - content: 99-109r1
   type: OGC
@@ -67,7 +67,7 @@ abstract:
   script: Latn
   content: Topic 9 has been combined into AS Topic 11
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: abstract-specification-topic
   flavor: ogc

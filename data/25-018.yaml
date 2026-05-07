@@ -1,7 +1,7 @@
 ---
 id: '25018'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/CS/bag
-- type: pdf
-  content: https://docs.ogc.org/cs/25-018.25-018.pdf
+- type: html
+  content: https://docs.ogc.org/cs/25-018/25-018/pdf
 docidentifier:
 - content: 25-018
   type: OGC
@@ -59,7 +59,7 @@ abstract:
     its\r\nderivatives that maintain the BAG format reference implementation. For\r\ninformation
     on using the BAG reference implementation, please see the How-to\r\nGuide."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: community-standard
   flavor: ogc

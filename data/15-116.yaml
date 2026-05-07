@@ -1,7 +1,7 @@
 ---
 id: '15116'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -19,8 +19,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/dp/aha-ml
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=68040
+- type: html
+  content: https://docs.ogc.org/dp/15-116r3/15-116r3/pdf
 docidentifier:
 - content: 15-116
   type: OGC
@@ -72,7 +72,7 @@ abstract:
     the overall need for such a profile and it discusses the measures which have been
     identified.
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

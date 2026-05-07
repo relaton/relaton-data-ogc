@@ -1,7 +1,7 @@
 ---
 id: '11169'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/lightweight-sos-dp
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=46693
+- type: html
+  content: https://docs.ogc.org/dp/11-169/11-169/pdf
 docidentifier:
 - content: 11-169
   type: OGC
@@ -79,7 +79,7 @@ abstract:
     designed in such a way that all SOS implementations that conform to this profile
     are also compliant to the according OGC specifications."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: discussion-paper
   flavor: ogc

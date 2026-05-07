@@ -1,7 +1,7 @@
 ---
 id: '08059r3'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
   content: OpenGIS Web Coverage Service (WCS) - Processing Extension (WCPS)
   type: main
 source:
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=32416
+- type: html
+  content: https://docs.ogc.org/is/08-059r3/08-059r3/pdf
 docidentifier:
 - content: '08-059r3'
   type: OGC
@@ -68,7 +68,7 @@ abstract:
     client applications.\r\n\r\nFurther information about WPCS can be found at the
     [[http://www.ogcnetwork.net/wcps | WCPS Service]] page of the OGC Network."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

@@ -1,7 +1,7 @@
 ---
 id: '16050'
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -70,7 +70,7 @@ abstract:
     alternatives to communicate tile level quality as well as mosaic products quality
     are proposed."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc

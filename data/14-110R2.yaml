@@ -1,7 +1,7 @@
 ---
 id: 14110r2
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -77,7 +77,7 @@ abstract:
     Application Schema – Coverages – JPEG2000 Coverage Encoding Extension version
     1.0 [OGC 12-108]."
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: best-practice
   subdoctype: general

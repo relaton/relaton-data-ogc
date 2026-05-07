@@ -1,7 +1,7 @@
 ---
 id: 11014r3
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -14,8 +14,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/IS/openmi/2.0.0
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=59022
+- type: html
+  content: https://docs.ogc.org/is/11-014r3/11-014r3/pdf
 docidentifier:
 - content: 11-014r3
   type: OGC
@@ -80,10 +80,9 @@ abstract:
     The document does not describe how to implement the standard. This information
     together with a range of software tools for creating and running OpenMI-­&#8208;compliant
     components are provided by the OpenMI Association and third-­&#8208;party software
-    vendors – visit www.openmi.org for further documentation.</p>\r\n<p>\r\n<a href=https://portal.ogc.org/files/?artifact_id=59022>pdf</a>
-    <br>\r\n<a href=https://portal.ogc.org/files/?artifact_id=59022&format=docx>docx</a>\r\n</p>"
+    vendors – visit www.openmi.org for further documentation.</p>\r\n<p>\r\n<a href=https://docs.ogc.org/is/11-014r3/11-014r3.pdf>pdf</a>\r\n</p>"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: standard
   subdoctype: implementation

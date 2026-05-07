@@ -1,7 +1,7 @@
 ---
 id: 14114r1
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -16,8 +16,8 @@ title:
 source:
 - type: src
   content: http://www.opengis.net/doc/PER/waterml2.0-part2-ie-results
-- type: pdf
-  content: https://portal.ogc.org/files/?artifact_id=61224
+- type: html
+  content: https://docs.ogc.org/per/14-114r1/14-114r1/pdf
 docidentifier:
 - content: 14-114r1
   type: OGC
@@ -74,7 +74,7 @@ abstract:
     Working Group (SWG) in August 2014. This SWG is responsible for formalization
     of the candidate OGC standard, for submission in 2015. \r\n"
 ext:
-  schema_version: v1.0.1
+  schema_version: v1.1.2
   doctype:
     content: engineering-report
   flavor: ogc
