@@ -55,17 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*** Corrigendum - updated 2006-08-08 ***\r\n\r\nThis revised version of
-    this document adds additional allowed authority and objectType values, plus specifies
-    URNs for data types, as proposed in change requests OGC 05-091r2 and 05-060. In
-    addition, corrections have been made to the XML documents listed in Annex A. The
-    changes made in this version are tracked in the Microsoft Word (.doc) format of
-    this document.<br/><br/>This Best Practices Paper specifies Universal Resource
-    Names (URNs) in the ogc URN namespace to be used for identifying definitions.
-    This document specifies the formats used by these URNs, plus a set of specific
-    URNs for specific definitions. These definitions should be used wherever applicable
-    by implementations of various OGC Implementation Specifications, including GML,
-    WMS, WFS, and WCS."
+  content: |-
+    *** Corrigendum - updated 2006-08-08 ***
+
+    This revised version of this document adds additional allowed authority and objectType values, plus specifies URNs for data types, as proposed in change requests OGC 05-091r2 and 05-060. In addition, corrections have been made to the XML documents listed in Annex A. The changes made in this version are tracked in the Microsoft Word (.doc) format of this document.<br/><br/>This Best Practices Paper specifies Universal Resource Names (URNs) in the ogc URN namespace to be used for identifying definitions. This document specifies the formats used by these URNs, plus a set of specific URNs for specific definitions. These definitions should be used wherever applicable by implementations of various OGC Implementation Specifications, including GML, WMS, WFS, and WCS.
 ext:
   schema_version: v1.1.2
   doctype:

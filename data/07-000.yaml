@@ -53,17 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OpenGIS® Sensor Model Language Encoding Standard (SensorML) specifies
-    models and XML encoding that provide a framework within which the geometric, dynamic,
-    and observational characteristics of sensors and sensor systems can be defined.
-    There are many different sensor types, from simple visual thermometers to complex
-    electron microscopes and earth observing satellites. These can all be supported
-    through the definition of atomic process models and process chains. Within SensorML,
-    all processes and components are encoded as application schema of the Feature
-    model in the Geographic Markup Language (GML) Version 3.1.1. This is one of the
-    OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
-    suite of standards. For additional information on SensorML, see http://www.botts-inc.net/vast.html\r\n<!--
-    http://vast.uah.edu/SensorML.-->"
+  content: |-
+    The OpenGIS® Sensor Model Language Encoding Standard (SensorML) specifies models and XML encoding that provide a framework within which the geometric, dynamic, and observational characteristics of sensors and sensor systems can be defined. There are many different sensor types, from simple visual thermometers to complex electron microscopes and earth observing satellites. These can all be supported through the definition of atomic process models and process chains. Within SensorML, all processes and components are encoded as application schema of the Feature model in the Geographic Markup Language (GML) Version 3.1.1. This is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe] suite of standards. For additional information on SensorML, see http://www.botts-inc.net/vast.html
+    <!-- http://vast.uah.edu/SensorML.-->
 ext:
   schema_version: v1.1.2
   doctype:
