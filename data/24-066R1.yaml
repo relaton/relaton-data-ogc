@@ -1,0 +1,88 @@
+---
+id: 24066r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: The ModSpec Model
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Part 3: XML'
+  type: title-part
+- language: en
+  script: Latn
+  content: 'The ModSpec Model - Part 3: XML'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/POL/ModSpec-part3/1.1
+- type: html
+  content: https://docs.ogc.org/pol/24-066r1/24-066r1.html
+docidentifier:
+- content: 24-066r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-05-21'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Carl Reed
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: John Herring
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Open Geospatial Consortium (OGC) member developed and approved document,
+    referred to as the ModSpec: Part 3, defines an optional requirements class for
+    the XML model extension the ModSpec core.\r\n\r\nThe ModSpec: Core Standard defines
+    a model and related requirements and recommendations for writing and structuring
+    modular standards documents. Further, this model is designed to enable consistent
+    and verifiable testing of implementations of a standard that claim conformance.
+    The ModSpec is a meta-standard: A standard specifying requirements for crafting
+    and documenting modular and testable standards.\r\n\r\nThe goals of using the
+    ModSpec are:\r\n\r\nTo define characteristics and a structure for the development
+    of modular standards which will minimize the difficulty in writing testable standards
+    while maximizing usability and interoperability; and\r\nTo ensure that a standard
+    specifies requirements in a common and consistent manner and that these requirements
+    are testable."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  subdoctype: implementation
+  flavor: ogc
