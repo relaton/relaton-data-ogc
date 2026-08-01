@@ -1,0 +1,89 @@
+---
+id: '25031'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: AI-DGGS Disaster Management Pilot Report
+  type: title-main
+- language: en
+  script: Latn
+  content: AI-DGGS Disaster Management Pilot Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/AI-DGGS/D001
+- type: html
+  content: https://docs.ogc.org/per/25-031.html
+docidentifier:
+- content: 25-031
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-07-31'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Stelios Contarinis
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Sina Taghavikish
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The Artificial Intelligence-Augmented Discrete Global Grid Systems (AI-DGGS)
+    for Disaster Management Pilot set out to bridge the “Discovery Gap”: the barrier
+    that prevents emergency responders from getting instant answers to plain-language
+    questions because data is buried in fragmented, incompatible systems. In a crisis,
+    decision-makers are often data-rich but information-poor.\r\n\r\nThis pilot successfully
+    demonstrated a breakthrough in disaster response by giving Artificial Intelligence
+    a “Geospatial Brain.” By adopting DGGS as a common “Digital Fabric,” participants
+    proved that diverse datasets—from RADARSAT Constellation Mission (RCM) radar imagery
+    to socio-demographic population counts—can be unified into a single, cell-based
+    representation of the Earth.\r\n\r\nThe result is a shift from “searching for
+    data” to “finding answers.” By integrating AI reasoning via Retrieval-Augmented
+    Generation (RAG) and the Model Context Protocol (MCP), the pilot enabled non-expert
+    users to pose natural-language queries and receive transparent, data-grounded
+    answers visualized directly on a map.\r\n\r\nTo deliver this capability, the pilot
+    established a coordinated architecture consisting of a “Server Backbone” (optimized
+    DGGS data providers) and an “Intelligence Frontier” (AI-aware client applications).
+    Through Technology Integration Experiments (TIEs), the project demonstrated that
+    true interoperability among independent vendors is achievable. The outcomes point
+    toward a future where grid-native, agentic AI infrastructures strengthen climate
+    resilience and establish a Common Operating Picture (COP) that is auditable, traceable,
+    and trusted."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: engineering-report
+  flavor: ogc
