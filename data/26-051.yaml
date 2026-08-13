@@ -1,0 +1,100 @@
+---
+id: '26051'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Declared Meaning: Why AI-Readiness Is a Data Architecture Problem'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Declared Meaning: Why AI-Readiness Is a Data Architecture Problem'
+  type: main
+source:
+- type: src
+  content: http://opengis.net/doc/TechPaper/DeclareMeaning
+- type: html
+  content: https://docs.ogc.org/techpaper/26-051/26-051.html
+docidentifier:
+- content: 26-051
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-12'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ingo Simonis
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Rob Atkinson
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Piotr Zaborowski
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Alejandro Villar
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Mayte Toscano
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: 'Francesca Noardo '
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This background article is one of three related documents that set out
+    the same idea at different levels. It makes the case for why AI-readiness is a
+    matter of data architecture rather than of any single standard. The companion
+    framework Building Blocks for Interoperable, AI-Ready Geospatial Data shows how
+    that architecture is built and applied to real data, with worked examples. The
+    OGC research paper on a machine-interpretable standards ecosystem, OGC document
+    26-021, provides the formal foundation on which both rest. In short, this is the
+    why, the framework is the how, and the research paper is the underlying machinery.
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

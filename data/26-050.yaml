@@ -1,0 +1,103 @@
+---
+id: '26050'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Building Blocks for Interoperable, AI-Ready Geospatial Data: The Next
+    Chapter of Spatial Data Infrastructures and Geospatial Ecosystems. A practical
+    f'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'Building Blocks for Interoperable, AI-Ready Geospatial Data: The Next
+    Chapter of Spatial Data Infrastructures and Geospatial Ecosystems. A practical
+    f'
+  type: main
+source:
+- type: src
+  content: http://opengis.net/doc/TechPaper/bb-techpaper
+- type: html
+  content: https://docs.ogc.org/techpaper/26-050/26-050.html
+docidentifier:
+- content: 26-050
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-12'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ingo Simonis
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Rob Atkinson
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Piotr Zaborowski
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Alejandro Villar
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Mayte Toscano
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: 'Francesca Noardo '
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document reflects the current state of an ongoing conversation on
+    interoperability and AI-readiness among OGC members and partners. It draws on
+    work that OGC has carried out with its members across pilots and testbeds, and
+    in EU-funded research projects, and on the wider debate about the future of spatial
+    data infrastructures and geospatial ecosystems. It is offered as a proposal and
+    a basis for discussion, a shared and evolving reference rather than a normative
+    position or the view of any single organization.
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

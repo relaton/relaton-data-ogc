@@ -1,0 +1,78 @@
+---
+id: '26011'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed-21 GIMI Baseline Specification Report​
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed-21 GIMI Baseline Specification Report​
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T21-GIMI-D203
+- type: html
+  content: https://docs.ogc.org/per/26-011.html
+docidentifier:
+- content: 26-011
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-12'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Joan Maso
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Núria Julià
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This report defines the Baseline OGC Testbed-21 Specification for GIMI.
+    The Report specifies requirements and encoding rules for using the High Efficiency
+    Image File Format (HEIF) for the exchange of georeferenced or geocoded imagery
+    accordingly with the current version of GIMI. The specification deviates from
+    the Geographic High Efficiency Image Format (GeoHEIF) candidate specification
+    that was proposed by the previous OGC Testbed-20 initiative. The core sections
+    of this document specifies the GIMI specification using the OGC modular specification
+    approach and define the necessary Requirements Classes. Additional annexes define
+    the fundamental information necessary for reading HEIF files, the approaches for
+    tiles and overviews in HEIF and the TAI related boxes.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: engineering-report
+  flavor: ogc

@@ -1,0 +1,85 @@
+---
+id: '25044'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Open Science Persistent Demonstrator (OSPD) 2025 Building Blocks Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Open Science Persistent Demonstrator (OSPD) 2025 Building Blocks Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/OSPD-2025-BB
+- type: html
+  content: https://docs.ogc.org/per/25-044.html
+docidentifier:
+- content: 25-044
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-12'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Pedro Pereira Gonçalves
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Rob Atkinson
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Sina Taghavikish
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The OSPD 2025 Building Blocks Report provides an overview of how specification
+    artefacts can be used to support open and reproducible scientific workflows. Rather
+    than focusing on individual platform implementations, the report abstracts common
+    specification patterns observed across multiple platforms, capturing reusable
+    concepts such as workflow intent, execution packaging, configuration parameters,
+    and execution environments.\r\n\r\nBy applying a modular, schema-driven approach,
+    the Building Blocks enable workflows to be described once and reused across multiple
+    platforms. This approach supports transparency, improves comparability between
+    workflows, and reduces the effort required to share scientific methods.\r\n\r\nThe
+    report consolidates the current state of these Building Blocks as developed within
+    OSPD 2025 and documents their scope, relationships, and validation status.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: engineering-report
+  flavor: ogc

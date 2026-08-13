@@ -1,0 +1,68 @@
+---
+id: '25042'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed-21 Ontologies for Coverage Description Report​
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed-21 Ontologies for Coverage Description Report​
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T21-GIMI-D204
+- type: html
+  content: https://docs.ogc.org/per/25-042.html
+docidentifier:
+- content: 25-042
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-12'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Simon J D Cox
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Report documents outcomes from OGC Testbed‑21 focused on ontologies
+    for coverage description, with an emphasis on imagery and video. The work responds
+    to a growing need for metadata models that support discovery, understanding, and
+    integration of coverage data across heterogeneous systems, while aligning with
+    both existing OGC geospatial standards and sponsor requirements for ontology‑based
+    approaches.
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: engineering-report
+  flavor: ogc

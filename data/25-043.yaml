@@ -1,0 +1,89 @@
+---
+id: '25043'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Open Science Persistent Demonstrator (OSPD) 2025 Report
+  type: title-main
+- language: en
+  script: Latn
+  content: Open Science Persistent Demonstrator (OSPD) 2025 Report
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/OSPD-2025
+- type: html
+  content: https://docs.ogc.org/per/25-043.html
+docidentifier:
+- content: 25-043
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-11'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Pedro Goncalves
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Rob Atkinson
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Sina Taghavikish
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The OSPD 2025 initiative addresses a long-standing challenge in the scientific
+    community: enabling computational workflows to be *reproduced, validated, and
+    reused* across different data and computing infrastructures.  \r\nIn many research
+    contexts, workflows remain tightly coupled to specific platforms, lack consistent
+    metadata, and are difficult to share or reproduce beyond their original execution
+    environment.\r\n\r\nOSPD responds to this challenge by demonstrating a standards-based
+    approach to workflow description and execution.  \r\nThrough the coordinated activities
+    of its four Work Packages, the initiative establishes common metadata schemas,
+    semantic models, and reusable specification components that together support transparent
+    and interoperable workflow execution.\r\n\r\nEach workflow documented within the
+    demonstrator contributes to a federated collection of reusable scientific methods,
+    aligned with FAIR data principles and grounded in the OGC Open Science Building
+    Blocks framework.  \r\nThe initiative combines technical development with multi-organization
+    collaboration, showing how common standards and open technologies can support
+    open science at scale.\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: engineering-report
+  flavor: ogc

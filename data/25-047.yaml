@@ -1,0 +1,99 @@
+---
+id: '25047'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed-21 Documentation of Updates to libheif Report​
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed-21 Documentation of Updates to libheif Report​
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/T21-GIMI-D201
+- type: html
+  content: https://docs.ogc.org/per/25-047.html
+docidentifier:
+- content: 25-047
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-12'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Dirk Farin
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Sina Taghavikish
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Engineering Report documents the extensions made to the open-source
+    libheif library and to heif-enc, a command-line tool that uses libheif to convert
+    images and image sequences to HEIF, during OGC Testbed-21. The work continues
+    the libheif development carried out during Testbed-20 and aligns the implementation
+    with the requirements of the GIMI standard.\r\n\r\nFour main areas of work are
+    described.\r\n\r\nFirst, inter-coded video sequences are now supported in libheif
+    using H.264, H.265, H.266, and AV1. Adding inter-coding required a redesign of
+    the internal image-sequences processing pipeline and of the codec-plugin API to
+    accommodate encoder buffering and frame reordering, including the reordering of
+    the associated Sample Auxiliary Information (SAI). A new x264-based encoder plugin
+    was added, and the existing ffmpeg-based decoder plugin was extended to decode
+    H.264 streams as an alternative to the OpenH264 decoder plugin.\r\n\r\nSecond,
+    the ISO/IEC 23001-17 (“uncompressed”) codec was rewritten around a modular encoder/decoder
+    architecture and extended to cover a wide range of integer and floating-point
+    data types, multi-channel and non-visual imagery, Bayer and other filter-array
+    sensor images, and sensor-related metadata boxes such as snuc, sbpm, and cpat.
+    A benchmark of the deflate and brotli general-purpose compressors applied to uncompressed
+    imagery quantifies the trade-off between file size and encoding time.\r\n\r\nThird,
+    heif-enc gained first-class GIMI encoding support: GIMI-compatible brands, UUID-based
+    content identifiers assigned to images, tiles, components, tracks, and sequence
+    frames, metadata tracks, per-frame SAI, and integration with RDF/Turtle metadata.
+    A dedicated GeoTIFF-to-GIMI conversion tool was built on top of heif-enc to handle
+    very large tiled and pyramidal geospatial datasets while preserving their structure
+    and metadata.\r\n\r\nFourth, the tile-viewer demonstration was extended to load
+    HEIF files served over HTTP through a libcurl-based implementation of the libheif
+    reader interface, with trivial and block-level request caches that make interactive
+    access to multi-gigabyte files practical without local download.\r\n\r\nSmaller
+    improvements are also described, including updated support for mif3 files with
+    mini minimized headers, support for HEIF items larger than 4 GB, additional options
+    in heif-enc and heif-info, and a new heif-gen-bayer utility used to generate synthetic
+    Bayer-image test content."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: engineering-report
+  flavor: ogc
