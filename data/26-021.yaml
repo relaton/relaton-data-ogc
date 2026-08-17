@@ -15,9 +15,9 @@ title:
   type: main
 source:
 - type: src
-  content: http://www.opengis.org/techpaper/26-021
+  content: http://www.opengis.net/techpaper/26-021
 - type: html
-  content: https://docs.ogc.org/techpaper/26-021/pdf
+  content: https://docs.ogc.org/techpaper/26-021/26-021.html
 docidentifier:
 - content: 26-021
   type: OGC
