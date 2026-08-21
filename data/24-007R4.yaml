@@ -1,0 +1,88 @@
+---
+id: 24007r4
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 3: XML Encoding Standard'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 3: XML Encoding Standard'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/is/tdml-part3/1.0
+- type: html
+  content: https://docs.ogc.org/is/24-007r4/24-007r4.html
+docidentifier:
+- content: 24-007r4
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-20'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Peng Yue
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ruixiang Liu
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Kaixuan Wang
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '4'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'The OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 3: XML Encoding Standard defines requirements for encoding AI training datasets
+    as Extensible Markup Language (XML). XML is a widely utilized format for encoding
+    data in various applications. It employs a markup structure where data is enclosed
+    in tags represented by opening and closing elements. These elements can have attributes
+    and may contain nested elements, allowing for a hierarchical representation of
+    structured information. TrainingDML-AI Part 3 is based on the OGC Training Data
+    Markup Language for Artificial Intelligence (TrainingDML-AI) Part 1: Conceptual
+    Model Standard.'
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  subdoctype: implementation
+  flavor: ogc
