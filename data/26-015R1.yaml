@@ -1,0 +1,69 @@
+---
+id: 26015r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OGC Testbed-21 Documentation for the GIMI Conformance Test Tool
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC Testbed-21 Documentation for the GIMI Conformance Test Tool
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/guides/t21-D302
+- type: html
+  content: https://docs.ogc.org/guides/26-015r1.html
+docidentifier:
+- content: 26-015r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-08-31'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Charles Heazel
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This document presents a user guide for the GIMI 1.0 Conformance Test
+    Tool, an Executable Test Suite (ETS) developed to verify implementations of the
+    GEOINT Imagery Media for ISR (GIMI) 1.0 Standard. The document is not an OGC Standard,
+    but a Testbed deliverable intended to support review, testing and implementation
+    of the GIMI standard.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc
