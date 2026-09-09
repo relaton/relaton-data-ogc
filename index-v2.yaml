@@ -4948,6 +4948,12 @@
     _type: pubid:ogc:document
     year: '19'
     number: '086'
+    revision: r9
+  :file: data/19-086R9.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '19'
+    number: '086'
     revision: r6
   :file: data/19-086R6.yaml
 - :id:

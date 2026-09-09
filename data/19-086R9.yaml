@@ -1,0 +1,99 @@
+---
+id: 19086r9
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OGC API
+  type: title-intro
+- language: en
+  script: Latn
+  content: Environmental Data Retrieval Standard
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC API - Environmental Data Retrieval Standard
+  type: main
+source:
+- type: src
+  content: https://www.opengis.net/doc/IS/ogcapi-edr-1/1.2
+- type: html
+  content: https://docs.ogc.org/is/19-086r9/19-086r9.html
+docidentifier:
+- content: 19-086r9
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-09-08'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Mark Burgoyne
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: David Blodgett
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Chuck Heazel
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: 'Chris Little '
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '9'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The OGC API-Environmental Data Retrieval (EDR) Standard provides a family
+    of lightweight query interfaces to access spatiotemporal data resources by requesting
+    data at a Position, within a Radius, Area or Cube, along a Trajectory or through
+    a Corridor, from a predefined Location or as an existing data Item. A spatiotemporal
+    data resource is a collection of spatiotemporal data that can be sampled using
+    the EDR query pattern geometries. These patterns are described in the section
+    describing the Core Requirements Class.\r\n\r\nThe goals of the EDR Application
+    Programming Interface (API), often abbreviated to EDR API, that is specified by
+    this Standard are to:\r\n\r\nMake it easier to access a wide range of data through
+    a uniform, well-defined simple Web interface;\r\n\r\nTo achieve data reduction
+    to just the data needed by the user or client while hiding much of the data storage
+    complexity.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  subdoctype: implementation
+  flavor: ogc
