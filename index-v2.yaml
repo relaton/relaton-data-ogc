@@ -303,6 +303,12 @@
   :file: data/01-004.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '26'
+    number: '005'
+    revision: r1
+  :file: data/26-005R1.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '25'
     number: '005'
   :file: data/25-005.yaml
@@ -1119,6 +1125,11 @@
     year: '05'
     number: '015'
   :file: data/05-015.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '26'
+    number: '016'
+  :file: data/26-016.yaml
 - :id:
     _type: pubid:ogc:document
     year: '25'

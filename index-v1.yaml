@@ -2479,10 +2479,14 @@
   :file: data/25-045.yaml
 - :id: 25-047
   :file: data/25-047.yaml
+- :id: 26-005r1
+  :file: data/26-005R1.yaml
 - :id: 26-011
   :file: data/26-011.yaml
 - :id: 26-015r1
   :file: data/26-015R1.yaml
+- :id: 26-016
+  :file: data/26-016.yaml
 - :id: 26-021
   :file: data/26-021.yaml
 - :id: 26-050
