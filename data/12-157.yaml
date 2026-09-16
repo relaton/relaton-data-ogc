@@ -1,4 +1,3 @@
----
 id: '12157'
 schema_version: v1.5.6
 type: standard
@@ -63,12 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This engineering report proposes a profile for WMTS that limits the flexibility
-    or the standard and mimics what some other tile initiatives are doing. It also
-    proposes some improvements in WMTS to accommodate the need for requesting several
-    tiles of a region at different scales that has been identified by the GeoPackage
-    team. These recommendations help to better harmonize OSGeo tile standards and
-    mass-market technologies.
+  content: This engineering report proposes a profile for WMTS that limits the flexibility or the standard and mimics what some other tile initiatives are doing. It also proposes some improvements in WMTS to accommodate the need for requesting several tiles of a region at different scales that has been identified by the GeoPackage team. These recommendations help to better harmonize OSGeo tile standards and mass-market technologies.
 ext:
   schema_version: v1.1.2
   doctype:

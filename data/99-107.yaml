@@ -1,4 +1,3 @@
----
 id: '99107'
 schema_version: v1.5.6
 type: standard
@@ -57,10 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Topic Volume will provide essential and abstract models for technology
-    that is already used widely (but not interoperably) across the GIS landscape.
-    This technology properly depends on the more general technology that supports
-    Coverages.
+  content: This Topic Volume will provide essential and abstract models for technology that is already used widely (but not interoperably) across the GIS landscape. This technology properly depends on the more general technology that supports Coverages.
 ext:
   schema_version: v1.1.2
   doctype:

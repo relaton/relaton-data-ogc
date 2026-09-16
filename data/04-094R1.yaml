@@ -1,4 +1,3 @@
----
 id: '04094r1'
 schema_version: v1.5.6
 type: standard
@@ -57,18 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC Web Map Service allows a client to overlay map images for display
-    served from multiple  Web Map Services on the Internet.  In a similar fashion,
-    the OGC Web Feature Service allows a client to retrieve and update geospatial
-    data encoded in Geography Markup Language (GML) from multiple Web Feature Services.\r\n\r\nThe
-    requirements for a Web Feature Service are:\r\n\r\nThe interfaces must be defined
-    in XML.\r\nGML must be used to express features within the interface.\r\nAt a
-    minimum a WFS must be able to present features using GML.\r\nThe predicate or
-    filter language will be defined in XML and be derived from CQL as defined in the
-    OpenGIS Catalogue Interface Implementation Specification.\r\nThe datastore used
-    to store geographic features should be opaque to client applications and their
-    only view of the data should be through the WFS interface.\r\n The use of a subset
-    of XPath expressions for referencing properties.\r\n"
+  content: "The OGC Web Map Service allows a client to overlay map images for display served from multiple  Web Map Services on the Internet.  In a similar fashion, the OGC Web Feature Service allows a client to retrieve and update geospatial data encoded in Geography Markup Language (GML) from multiple Web Feature Services.\r\n\r\nThe requirements for a Web Feature Service are:\r\n\r\nThe interfaces must be defined in XML.\r\nGML must be used to express features within the interface.\r\nAt a minimum a WFS must be able to present features using GML.\r\nThe predicate or filter language will be defined in XML and be derived from CQL as defined in the OpenGIS Catalogue Interface Implementation Specification.\r\nThe datastore used to store geographic features should be opaque to client applications and their only view of the data should be through the WFS interface.\r\n The use of a subset of XPath expressions for referencing properties.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

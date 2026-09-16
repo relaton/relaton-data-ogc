@@ -1,4 +1,3 @@
----
 id: '16056'
 schema_version: v1.5.6
 type: standard
@@ -55,8 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC document evaluates TopoJSON as an encoding that may be delivered
-    across a common, standard OGC service interface such as WFS.
+  content: This OGC document evaluates TopoJSON as an encoding that may be delivered across a common, standard OGC service interface such as WFS.
 ext:
   schema_version: v1.1.2
   doctype:

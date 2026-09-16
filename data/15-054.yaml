@@ -1,17 +1,14 @@
----
 id: '15054'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
-    Services Engineering Report
+  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC Services Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
-    Services Engineering Report
+  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC Services Engineering Report
   type: main
 source:
 - type: src
@@ -57,13 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® Engineering Report (ER) summarizes the approaches, findings
-    and the results\r\nof the Linked Data and Semantic Enablement of OGC Web Services
-    sub-thread activities\r\nof the OGC Testbed-11 Cross Community Interoperability
-    (CCI) Thread. This report\r\nprovides an overview of existing standards for geosemantics,
-    outlines the approaches\r\nadopted during the testbed, describes the conceptual
-    semantic models and services\r\ndeveloped during this testbed to leverage Linked
-    Data and semantic enabled OGC web\r\nservices."
+  content: "This OGC® Engineering Report (ER) summarizes the approaches, findings and the results\r\nof the Linked Data and Semantic Enablement of OGC Web Services sub-thread activities\r\nof the OGC Testbed-11 Cross Community Interoperability (CCI) Thread. This report\r\nprovides an overview of existing standards for geosemantics, outlines the approaches\r\nadopted during the testbed, describes the conceptual semantic models and services\r\ndeveloped during this testbed to leverage Linked Data and semantic enabled OGC web\r\nservices."
 ext:
   schema_version: v1.1.2
   doctype:

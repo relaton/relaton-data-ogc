@@ -1,17 +1,14 @@
----
 id: 16093r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Incident Management Information Sharing Internet of Things Protocol Mapping
-    Engineering Report
+  content: Incident Management Information Sharing Internet of Things Protocol Mapping Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: Incident Management Information Sharing Internet of Things Protocol Mapping
-    Engineering Report
+  content: Incident Management Information Sharing Internet of Things Protocol Mapping Engineering Report
   type: main
 source:
 - type: src
@@ -65,11 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This engineering report details Pilot experiences in connecting a variety
-    of local communications protocols and message formats supported by low-cost sensor
-    devices with OGC SWE Web services published globally over IP networks. It describes
-    the Sensor Hub approach taken to support these connections and the mappings from
-    one protocol to another required to develop integrated SWE-IoT networks.
+  content: This engineering report details Pilot experiences in connecting a variety of local communications protocols and message formats supported by low-cost sensor devices with OGC SWE Web services published globally over IP networks. It describes the Sensor Hub approach taken to support these connections and the mappings from one protocol to another required to develop integrated SWE-IoT networks.
 ext:
   schema_version: v1.1.2
   doctype:

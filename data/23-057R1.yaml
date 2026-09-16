@@ -1,4 +1,3 @@
----
 id: 23057r1
 schema_version: v1.5.6
 type: standard
@@ -89,14 +88,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'OGC API Standards specify Web based capabilities that are typically based
-    on polling for collection resource updates (new features, records, items, coverages,
-    maps, etc.). Depending on a collection’s temporal resolution or frequency of updates,
-    an event-driven / Publish-Subscribe architecture provides a timely, efficient
-    and low latency approach for the delivery of data updates or notifications of
-    updates. The OGC API — Environmental Data Retrieval — Part 2: Publish-Subscribe
-    Workflow Standard provides recommendations on applying Publish-Subscribe architectural
-    patterns to implementations of one or more OGC APIs.'
+  content: 'OGC API Standards specify Web based capabilities that are typically based on polling for collection resource updates (new features, records, items, coverages, maps, etc.). Depending on a collection’s temporal resolution or frequency of updates, an event-driven / Publish-Subscribe architecture provides a timely, efficient and low latency approach for the delivery of data updates or notifications of updates. The OGC API — Environmental Data Retrieval — Part 2: Publish-Subscribe Workflow Standard provides recommendations on applying Publish-Subscribe architectural patterns to implementations of one or more OGC APIs.'
 ext:
   schema_version: v1.1.2
   doctype:

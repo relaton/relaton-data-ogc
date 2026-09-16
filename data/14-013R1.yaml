@@ -1,4 +1,3 @@
----
 id: 14013r1
 schema_version: v1.5.6
 type: standard
@@ -57,11 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies technical changes to the OGC web service architecture
-    baseline to support better integration among the services.  Although integration
-    may be achieve in a number of ways and using a number of other technologies, the
-    goal of this document is to achieve this integration within the current OGC service
-    framework in order to leverage existing investments in OGC web services infrastructure.
+  content: This document specifies technical changes to the OGC web service architecture baseline to support better integration among the services.  Although integration may be achieve in a number of ways and using a number of other technologies, the goal of this document is to achieve this integration within the current OGC service framework in order to leverage existing investments in OGC web services infrastructure.
 ext:
   schema_version: v1.1.2
   doctype:

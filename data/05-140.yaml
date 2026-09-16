@@ -1,17 +1,14 @@
----
 id: '05140'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology
-    Architecture and Standards in the OWS-3 Testbe'
+  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology Architecture and Standards in the OWS-3 Testbe'
   type: title-main
 - language: en
   script: Latn
-  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology
-    Architecture and Standards in the OWS-3 Testbe'
+  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology Architecture and Standards in the OWS-3 Testbe'
   type: main
 source:
 - type: html
@@ -55,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes the results of an experiment addressing issues
-    relating to the application workflow processing incorporating a variety of OGC
-    specifications. It details the inputs provided to the Open Geospatial Consortium's
-    (OGC) OWS-3 Testbed and the architecture of the testbed related to the ESA Service
-    Support Environment (SSE). \r\nIt is a formal deliverable of work package 6610
-    of the Enhanced Service Infrastructure Technology (ESIT) project and is a joint
-    Spacebel and Spot Image document.\r\n"
+  content: "This document describes the results of an experiment addressing issues relating to the application workflow processing incorporating a variety of OGC specifications. It details the inputs provided to the Open Geospatial Consortium's (OGC) OWS-3 Testbed and the architecture of the testbed related to the ESA Service Support Environment (SSE). \r\nIt is a formal deliverable of work package 6610 of the Enhanced Service Infrastructure Technology (ESIT) project and is a joint Spacebel and Spot Image document.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

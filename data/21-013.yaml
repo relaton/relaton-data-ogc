@@ -1,17 +1,14 @@
----
 id: '21013'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
-    and Cumulative Effects CDS'
+  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments and Cumulative Effects CDS'
   type: title-main
 - language: en
   script: Latn
-  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
-    and Cumulative Effects CDS'
+  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments and Cumulative Effects CDS'
   type: main
 source:
 - type: src
@@ -63,31 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This engineering report (ER) presents the results of a Concept Development
-    Study (CDS) on Modernizing Spatial Data Infrastructure (SDI), sponsored by Natural
-    Resources Canada, executed by the Open Geospatial Consortium (OGC). The focus
-    of this study was to understand how to best support the modernization of SDI(s)
-    by enabling increased data interoperability for Regional Assessments (RA) and
-    Cumulative Effects (CE), to advance the understanding of stakeholder issues, and
-    serve stakeholders’ needs in these contexts. The study was completed through stakeholder
-    engagements including an open Request for Information (RFI) that gathered external
-    international positions and opinions on the optimal setup and design of a modernized
-    SDI. In addition, a stakeholder Modernizing SDI Workshop was also employed providing
-    in depth information on requirements and issues related to stakeholders, architecture,
-    data, and standards of current and future SDI.\r\n\r\nThe RFI and workshop also
-    gathered information and provided insight on the current state of SDIs to better
-    support governments, agencies, non-governmental organizations and citizens, unlocking
-    the full societal and economic potential of the wealth of data at national, regional
-    and/or local levels.\r\n\r\nThe ER presents an analysis of the RFI and Modernizing
-    SDI Workshop responses and interactions, providing in-depth information on requirements
-    and issues related to stakeholders, architecture, data, standards of current and
-    possible future SDI modernization. All RFI and workshop responses will contribute
-    to SDI modernization efforts moving forward and help to assess interoperability,
-    availability and usability of geospatial Web services and tools across different
-    types of spatial data uses. In addition, the report identifies gaps, and defines
-    core components of a possible future SDI.\r\n\r\nThe outflow of this report may
-    be used to help define reference use-cases and scenarios for possible future research
-    and follow-on OGC Innovation Program activities."
+  content: "This engineering report (ER) presents the results of a Concept Development Study (CDS) on Modernizing Spatial Data Infrastructure (SDI), sponsored by Natural Resources Canada, executed by the Open Geospatial Consortium (OGC). The focus of this study was to understand how to best support the modernization of SDI(s) by enabling increased data interoperability for Regional Assessments (RA) and Cumulative Effects (CE), to advance the understanding of stakeholder issues, and serve stakeholders’ needs in these contexts. The study was completed through stakeholder engagements including an open Request for Information (RFI) that gathered external international positions and opinions on the optimal setup and design of a modernized SDI. In addition, a stakeholder Modernizing SDI Workshop was also employed providing in depth information on requirements and issues related to stakeholders, architecture, data, and standards of current and future SDI.\r\n\r\nThe RFI and workshop also gathered information and provided insight on the current state of SDIs to better support governments, agencies, non-governmental organizations and citizens, unlocking the full societal and economic potential of the wealth of data at national, regional and/or local levels.\r\n\r\nThe ER presents an analysis of the RFI and Modernizing SDI Workshop responses and interactions, providing in-depth information on requirements and issues related to stakeholders, architecture, data, standards of current and possible future SDI modernization. All RFI and workshop responses will contribute to SDI modernization efforts moving forward and help to assess interoperability, availability and usability of geospatial Web services and tools across different types of spatial data uses. In addition, the report identifies gaps, and defines core components of a possible future SDI.\r\n\r\nThe outflow of this report may be used to help define reference use-cases and scenarios for possible future research and follow-on OGC Innovation Program activities."
 ext:
   schema_version: v1.1.2
   doctype:

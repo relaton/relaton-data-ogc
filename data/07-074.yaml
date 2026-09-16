@@ -1,4 +1,3 @@
----
 id: '07074'
 schema_version: v1.5.6
 type: standard
@@ -53,10 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This OpenGIS Interface Standard defines OpenGIS Location Services (OpenLS):
-    Core Services, Parts 1-5, which consists of the composite set of basic services
-    comprising the OpenLS Platform. This platform is also referred to as the GeoMobility
-    Server (GMS), an open location services platform.'
+  content: 'This OpenGIS Interface Standard defines OpenGIS Location Services (OpenLS): Core Services, Parts 1-5, which consists of the composite set of basic services comprising the OpenLS Platform. This platform is also referred to as the GeoMobility Server (GMS), an open location services platform.'
 ext:
   schema_version: v1.1.2
   doctype:

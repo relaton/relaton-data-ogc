@@ -1,17 +1,14 @@
----
 id: '09007'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OWS-6 Common CBRN Sensor Interface (CCSI)-Sensor Web Enablement (SWE) Engineering
-    Report
+  content: OWS-6 Common CBRN Sensor Interface (CCSI)-Sensor Web Enablement (SWE) Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OWS-6 Common CBRN Sensor Interface (CCSI)-Sensor Web Enablement (SWE) Engineering
-    Report
+  content: OWS-6 Common CBRN Sensor Interface (CCSI)-Sensor Web Enablement (SWE) Engineering Report
   type: main
 source:
 - type: html
@@ -55,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document outlines the concepts, best practices, and lessons learned
-    gathered from integrating Common Chemical, Biological, Radiological, and Nuclear
-    (CBRN) Sensor Interface (CCSI) standard-compliant sensors into an OGC Sensor Web
-    Enablement (SWE)-based architecture.  The document also specifies a web service
-    interface for interacting with CCSI sensors and defines the basis for a profile
-    that can be used to represent CCSI sensor definitions, data, and commands in SWE
-    formats.  '
+  content: 'This document outlines the concepts, best practices, and lessons learned gathered from integrating Common Chemical, Biological, Radiological, and Nuclear (CBRN) Sensor Interface (CCSI) standard-compliant sensors into an OGC Sensor Web Enablement (SWE)-based architecture.  The document also specifies a web service interface for interacting with CCSI sensors and defines the basis for a profile that can be used to represent CCSI sensor definitions, data, and commands in SWE formats.  '
 ext:
   schema_version: v1.1.2
   doctype:

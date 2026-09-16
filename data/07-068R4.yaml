@@ -1,4 +1,3 @@
----
 id: '07068r4'
 schema_version: v1.5.6
 type: standard
@@ -59,11 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This extension of the WCS standard specifies an additional Transaction
-    operation that may optionally be implemented by WCS servers. This Transaction
-    operation allows clients to add, modify, and delete grid coverages that are available
-    from a WCS server. The Transaction operation request references or includes the
-    new or modified coverage data, including all needed coverage metadata. '
+  content: 'This extension of the WCS standard specifies an additional Transaction operation that may optionally be implemented by WCS servers. This Transaction operation allows clients to add, modify, and delete grid coverages that are available from a WCS server. The Transaction operation request references or includes the new or modified coverage data, including all needed coverage metadata. '
 ext:
   schema_version: v1.1.2
   doctype:

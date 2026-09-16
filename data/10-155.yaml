@@ -1,4 +1,3 @@
----
 id: '10155'
 schema_version: v1.5.6
 type: standard
@@ -57,12 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report provides guidance and generate action items for
-    the OGC standardization effort to properly enable security in the near future
-    such that a seamless, interoperable but secure interconnection between OGC Web
-    Services and FUSE ESB technology stack as selected by use in the System Wide Information
-    Management (SWIM) System of the US Federal Aviation Administration (FAA) can be
-    achieved.
+  content: This Engineering Report provides guidance and generate action items for the OGC standardization effort to properly enable security in the near future such that a seamless, interoperable but secure interconnection between OGC Web Services and FUSE ESB technology stack as selected by use in the System Wide Information Management (SWIM) System of the US Federal Aviation Administration (FAA) can be achieved.
 ext:
   schema_version: v1.1.2
   doctype:

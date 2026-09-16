@@ -1,4 +1,3 @@
----
 id: 17069r3
 schema_version: v1.5.6
 type: standard
@@ -77,12 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "OGC API standards define modular API building blocks to spatially enable
-    Web APIs in a consistent way. The OpenAPI specification is used to define the
-    API building blocks.\r\n\r\nThe OGC API family of standards is organized by resource
-    type. This standard specifies the fundamental API building blocks for interacting
-    with features. The spatial data community uses the term 'feature' for things in
-    the real world that are of interest."
+  content: "OGC API standards define modular API building blocks to spatially enable Web APIs in a consistent way. The OpenAPI specification is used to define the API building blocks.\r\n\r\nThe OGC API family of standards is organized by resource type. This standard specifies the fundamental API building blocks for interacting with features. The spatial data community uses the term 'feature' for things in the real world that are of interest."
 ext:
   schema_version: v1.1.2
   doctype:

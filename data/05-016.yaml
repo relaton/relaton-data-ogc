@@ -1,4 +1,3 @@
----
 id: '05016'
 schema_version: v1.5.6
 type: standard
@@ -53,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OpenGIS® Open Location Services Interface Standard (OpenLS) specifies
-    interfaces that enable companies in the Location Based Services (LBS) value chain
-    to “hook up” and provide their pieces of applications such as emergency response
-    (E-911, for example), personal navigator, traffic information service, proximity
-    service, location recall, mobile field service, travel directions, restaurant
-    finder, corporate asset locator, concierge, routing, vector map portrayal and
-    interaction, friend finder, and geography voice-graphics. These applications are
-    enabled by interfaces that implement OpenLS services such as a Directory Service,
-    Gateway Service, Geocoder Service, Presentation (Map Portrayal) Service and others.\r\n"
+  content: "The OpenGIS® Open Location Services Interface Standard (OpenLS) specifies interfaces that enable companies in the Location Based Services (LBS) value chain to “hook up” and provide their pieces of applications such as emergency response (E-911, for example), personal navigator, traffic information service, proximity service, location recall, mobile field service, travel directions, restaurant finder, corporate asset locator, concierge, routing, vector map portrayal and interaction, friend finder, and geography voice-graphics. These applications are enabled by interfaces that implement OpenLS services such as a Directory Service, Gateway Service, Geocoder Service, Presentation (Map Portrayal) Service and others.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

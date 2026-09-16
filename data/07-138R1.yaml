@@ -1,4 +1,3 @@
----
 id: '07138r1'
 schema_version: v1.5.6
 type: standard
@@ -55,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® document describes the Workflow Architecture developed in support
-    of Geoprocessing Workflow and Sensor Web Enablement threads of OWS-5.  This information
-    includes the overall architecture description, concepts, and issues.  It also
-    provides detail on the Conflation Workflow created as an example implementation
-    for geoprocessing in a workflow.  This document establishes a sample architecture
-    and associated lessons learned as general guidance.
+  content: This OGC® document describes the Workflow Architecture developed in support of Geoprocessing Workflow and Sensor Web Enablement threads of OWS-5.  This information includes the overall architecture description, concepts, and issues.  It also provides detail on the Conflation Workflow created as an example implementation for geoprocessing in a workflow.  This document establishes a sample architecture and associated lessons learned as general guidance.
 ext:
   schema_version: v1.1.2
   doctype:

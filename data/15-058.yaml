@@ -1,4 +1,3 @@
----
 id: '15058'
 schema_version: v1.5.6
 type: standard
@@ -55,14 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® Engineering Report (ER) summarizes the approaches, findings
-    and the results of the Symbology Mediation sub-thread activities of the OGC Testbed-11
-    Cross Community Interoperability (CCI) Thread.  The ER:\r\n•\t Provides an overview
-    of existing standards relevant to symbology mediation, \r\n•\tOutlines the approaches
-    adopted during the testbed, \r\n•\tDescribes the conceptual models and services
-    developed during the testbed to address semantic mediation and portrayal of feature
-    information related to Emergency Management and to some extent to the Aviation
-    domain. \r\n"
+  content: "This OGC® Engineering Report (ER) summarizes the approaches, findings and the results of the Symbology Mediation sub-thread activities of the OGC Testbed-11 Cross Community Interoperability (CCI) Thread.  The ER:\r\n•\t Provides an overview of existing standards relevant to symbology mediation, \r\n•\tOutlines the approaches adopted during the testbed, \r\n•\tDescribes the conceptual models and services developed during the testbed to address semantic mediation and portrayal of feature information related to Emergency Management and to some extent to the Aviation domain. \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

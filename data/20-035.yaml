@@ -1,4 +1,3 @@
----
 id: '20035'
 schema_version: v1.5.6
 type: standard
@@ -55,14 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed-16 Engineering Report (ER) describes all results and experiences
-    from the “Earth Observation Application Packages with Jupyter Notebook” thread
-    of OGC Testbed-16. The aim of this thread was to extend the Earth Observation
-    Applications architecture developed in OGC Testbeds 13, 14, and 15 with support
-    for shared and remotely executed Jupyter Notebooks. The Notebooks make use of
-    the Data Access and Processing API (DAPA) developed in the Testbed-16 Data Access
-    and Processing API (DAPA) for Geospatial Data task and tested in joint Technology
-    Integration Experiments.
+  content: This OGC Testbed-16 Engineering Report (ER) describes all results and experiences from the “Earth Observation Application Packages with Jupyter Notebook” thread of OGC Testbed-16. The aim of this thread was to extend the Earth Observation Applications architecture developed in OGC Testbeds 13, 14, and 15 with support for shared and remotely executed Jupyter Notebooks. The Notebooks make use of the Data Access and Processing API (DAPA) developed in the Testbed-16 Data Access and Processing API (DAPA) for Geospatial Data task and tested in joint Technology Integration Experiments.
 ext:
   schema_version: v1.1.2
   doctype:

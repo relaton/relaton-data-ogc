@@ -1,4 +1,3 @@
----
 id: '21058'
 schema_version: v1.5.6
 type: standard
@@ -61,12 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Interoperable Simulation and Gaming Year 2 Sprint advanced the
-    use of relevant OGC and Khronos Group [1] standards in the modeling, simulation,
-    and training communities through capability development, compatibility testing,
-    and gap analysis. Of particular interest was the use of glTF models, game engines,
-    and 3rd-party mobile device libraries for the display and interaction with data
-    using OGC APIs.
+  content: The OGC Interoperable Simulation and Gaming Year 2 Sprint advanced the use of relevant OGC and Khronos Group [1] standards in the modeling, simulation, and training communities through capability development, compatibility testing, and gap analysis. Of particular interest was the use of glTF models, game engines, and 3rd-party mobile device libraries for the display and interaction with data using OGC APIs.
 ext:
   schema_version: v1.1.2
   doctype:

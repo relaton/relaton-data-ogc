@@ -1,4 +1,3 @@
----
 id: '08022r1'
 schema_version: v1.5.6
 type: standard
@@ -63,17 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The XML Schema implementation of optional/informative elements of the Observation
-    Schema was published in the om/1.0.0/extensions directory, in the same XML namespace
-    as the base schema. Those OGC implementations that have a dependency on the Observation
-    Schema (i.e. Sampling Features, SOS) <import> the “all-components” document om.xsd.
-    However, the all-components stub-schema document “om.xsd” does not include the
-    extensions. Thus, any application which requires one of the dependent OGC schemas
-    (Sampling Features, SOS) may not access the Observation Schema Extensions, since
-    the <import> of om.xsd clashes with any attempt to <import> om_extended.xsd. This
-    problem is a consequence of an error in the modularization strategy for optional
-    elements, combined with the rules for schema document resolution used by standard
-    processing environments.
+  content: The XML Schema implementation of optional/informative elements of the Observation Schema was published in the om/1.0.0/extensions directory, in the same XML namespace as the base schema. Those OGC implementations that have a dependency on the Observation Schema (i.e. Sampling Features, SOS) <import> the “all-components” document om.xsd. However, the all-components stub-schema document “om.xsd” does not include the extensions. Thus, any application which requires one of the dependent OGC schemas (Sampling Features, SOS) may not access the Observation Schema Extensions, since the <import> of om.xsd clashes with any attempt to <import> om_extended.xsd. This problem is a consequence of an error in the modularization strategy for optional elements, combined with the rules for schema document resolution used by standard processing environments.
 ext:
   schema_version: v1.1.2
   doctype:

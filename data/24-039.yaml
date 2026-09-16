@@ -1,4 +1,3 @@
----
 id: '24039'
 schema_version: v1.5.6
 type: standard
@@ -61,20 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC Testbed 20 Coverage Format Selection Report (this document) provides
-    an overview of use cases where the High Efficiency Image File Format (HEIF) can
-    be used. For each use case, the different items and properties provided by the
-    HEIF specification or by the proposed Geographic High Efficiency Image Format
-    (GeoHEIF) extensions are selected. The use cases start with simple ones such as
-    panchromatic or grey scale image and extend beyond photographic images into model
-    outputs such as land cover classifications, atmosphere evolution, and weather
-    forecast runs. Some other use cases consider actions such as map browsing (pan,
-    zoom, clip…​), or special cases such as confidentiality or extraterrestrial imagery.\r\n\r\nThe
-    three annexes in this Report include different points of view and considerations
-    for how to do benchmarking of tiled imagery that can be the basis for a practical
-    benchmarking future exercise.\r\n\r\nThe use case exercise was limited to still
-    imagery and time series. In the future the set of use cases should be extended
-    to motion imagery.\r\n\r\n"
+  content: "The OGC Testbed 20 Coverage Format Selection Report (this document) provides an overview of use cases where the High Efficiency Image File Format (HEIF) can be used. For each use case, the different items and properties provided by the HEIF specification or by the proposed Geographic High Efficiency Image Format (GeoHEIF) extensions are selected. The use cases start with simple ones such as panchromatic or grey scale image and extend beyond photographic images into model outputs such as land cover classifications, atmosphere evolution, and weather forecast runs. Some other use cases consider actions such as map browsing (pan, zoom, clip…​), or special cases such as confidentiality or extraterrestrial imagery.\r\n\r\nThe three annexes in this Report include different points of view and considerations for how to do benchmarking of tiled imagery that can be the basis for a practical benchmarking future exercise.\r\n\r\nThe use case exercise was limited to still imagery and time series. In the future the set of use cases should be extended to motion imagery.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

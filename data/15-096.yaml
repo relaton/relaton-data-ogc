@@ -1,17 +1,14 @@
----
 id: '15096'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
-    for a Moving Feature API'
+  content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements for a Moving Feature API'
   type: title-main
 - language: en
   script: Latn
-  content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements
-    for a Moving Feature API'
+  content: 'Use Cases and Applications of the OGC Moving Features Standard: The Requirements for a Moving Feature API'
   type: main
 source:
 - type: src
@@ -69,16 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This OGC Discussion Paper provides examples of some actual and potential
-    geospatial applications using the OGC Moving Features encoding. These applications
-    can be used to define the next steps in the development of the OGC Moving Features
-    Standard: The definition of a “Moving Features API”. As a conclusion, the Moving
-    Features SWG recommends that a new Moving Features API standard should target
-    the following three kinds of operations: retrieval of feature information, operations
-    between a trajectory and a geometric object, and operations between two trajectories.
-    Additionally, the Moving Features SWG recommends establishing an abstract specification
-    for these three kinds of operations because only a part of operations for trajectories
-    is defined by ISO 19141:2008 - Schema for moving features.'
+  content: 'This OGC Discussion Paper provides examples of some actual and potential geospatial applications using the OGC Moving Features encoding. These applications can be used to define the next steps in the development of the OGC Moving Features Standard: The definition of a “Moving Features API”. As a conclusion, the Moving Features SWG recommends that a new Moving Features API standard should target the following three kinds of operations: retrieval of feature information, operations between a trajectory and a geometric object, and operations between two trajectories. Additionally, the Moving Features SWG recommends establishing an abstract specification for these three kinds of operations because only a part of operations for trajectories is defined by ISO 19141:2008 - Schema for moving features.'
 ext:
   schema_version: v1.1.2
   doctype:

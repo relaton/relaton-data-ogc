@@ -1,4 +1,3 @@
----
 id: '05078'
 schema_version: v1.5.6
 type: standard
@@ -53,9 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Document specifies how a Web Map Service can be extended to allow
-    user-defined styling. Different modes for utilizing Symbology Encoding for this
-    purpose are discussed.
+  content: This Document specifies how a Web Map Service can be extended to allow user-defined styling. Different modes for utilizing Symbology Encoding for this purpose are discussed.
 ext:
   schema_version: v1.1.2
   doctype:

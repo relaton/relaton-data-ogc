@@ -1,17 +1,14 @@
----
 id: 12063r5
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Geographic information — Well known text representation of coordinate reference
-    systems
+  content: Geographic information — Well known text representation of coordinate reference systems
   type: title-main
 - language: en
   script: Latn
-  content: Geographic information — Well known text representation of coordinate reference
-    systems
+  content: Geographic information — Well known text representation of coordinate reference systems
   type: main
 source:
 - type: src
@@ -59,15 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Standard provides an updated version of WKT representation of coordinate
-    reference systems that follows the provisions of ISO 19111:2007 and ISO 19111-2:2009.
-    It extends the earlier WKT to allow for the description of coordinate operations.
-    This International Standard defines the structure and content of well-known text
-    strings. It does not prescribe how implementations should read or write these
-    strings.\r\nThe jointly developed draft has also been submitted by ISO TC211 for
-    publication as an International Standard document. The version incorporates comments
-    made during both the OGC Public Comment Period as well as the ISO ballot for DIS
-    (ISO TC211 document N3750). \r\n"
+  content: "This Standard provides an updated version of WKT representation of coordinate reference systems that follows the provisions of ISO 19111:2007 and ISO 19111-2:2009. It extends the earlier WKT to allow for the description of coordinate operations. This International Standard defines the structure and content of well-known text strings. It does not prescribe how implementations should read or write these strings.\r\nThe jointly developed draft has also been submitted by ISO TC211 for publication as an International Standard document. The version incorporates comments made during both the OGC Public Comment Period as well as the ISO ballot for DIS (ISO TC211 document N3750). \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,17 +1,14 @@
----
 id: '21007'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile
-    for Imagery & Gridded Data 2.1.2
+  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile for Imagery & Gridded Data 2.1.2
   type: title-main
 - language: en
   script: Latn
-  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile
-    for Imagery & Gridded Data 2.1.2
+  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile for Imagery & Gridded Data 2.1.2
   type: main
 source:
 - type: src
@@ -57,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document provides a profile for JPEG 2000 for use as a\r\ncompression
-    format for raster imagery. JPEG 2000 uses\r\ndiscrete wavelet transform (DWT)
-    for compressing raster data,\r\nas opposed to the JPEG standard, which uses discrete
-    cosine\r\ntransform (DCT). It is a compression technology which is best\r\nsuited
-    for continuous raster data, such as satellite imagery and\r\naerial photography.
-    This version adds support for\r\nReferenceable imagery."
+  content: "This document provides a profile for JPEG 2000 for use as a\r\ncompression format for raster imagery. JPEG 2000 uses\r\ndiscrete wavelet transform (DWT) for compressing raster data,\r\nas opposed to the JPEG standard, which uses discrete cosine\r\ntransform (DCT). It is a compression technology which is best\r\nsuited for continuous raster data, such as satellite imagery and\r\naerial photography. This version adds support for\r\nReferenceable imagery."
 ext:
   schema_version: v1.1.2
   doctype:

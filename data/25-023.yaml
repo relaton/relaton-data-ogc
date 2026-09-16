@@ -1,17 +1,14 @@
----
 id: '25023'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Introduction to OGC EmissionML: Why the World Needs a Standard Ontology
-    for Emissions'
+  content: 'Introduction to OGC EmissionML: Why the World Needs a Standard Ontology for Emissions'
   type: title-main
 - language: en
   script: Latn
-  content: 'Introduction to OGC EmissionML: Why the World Needs a Standard Ontology
-    for Emissions'
+  content: 'Introduction to OGC EmissionML: Why the World Needs a Standard Ontology for Emissions'
   type: main
 source:
 - type: src
@@ -63,20 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recent advances in sensing, communications, cloud computing, and AI now
-    make it possible to measure, monitor, report, and verify emissions at unprecedented
-    scale. Satellites, aircraft, continuous monitors, and field instruments provide
-    rich data streams, yet the value of these innovations is limited by fragmentation.
-    Inconsistent vocabularies, incompatible reporting formats, and costly bespoke
-    integrations create duplication, delay, and uncertainty.\r\n\r\nThis Discussion
-    Paper highlights the interoperability challenge and outlines how a shared modeling
-    approach can address it. With common ontologies and data models, emissions data
-    can flow seamlessly across technologies and jurisdictions. Regulators can automate
-    audits, operators can cut reporting costs and accelerate detection-to-repair,
-    vendors can deliver plug-and-play solutions, and investors can gain confidence
-    in transparent, comparable disclosures.\r\n\r\nWhile focused on emissions, the
-    principles extend across ESG domains such as wastewater management, carbon capture
-    and storage, and nitrogen-use efficiency."
+  content: "Recent advances in sensing, communications, cloud computing, and AI now make it possible to measure, monitor, report, and verify emissions at unprecedented scale. Satellites, aircraft, continuous monitors, and field instruments provide rich data streams, yet the value of these innovations is limited by fragmentation. Inconsistent vocabularies, incompatible reporting formats, and costly bespoke integrations create duplication, delay, and uncertainty.\r\n\r\nThis Discussion Paper highlights the interoperability challenge and outlines how a shared modeling approach can address it. With common ontologies and data models, emissions data can flow seamlessly across technologies and jurisdictions. Regulators can automate audits, operators can cut reporting costs and accelerate detection-to-repair, vendors can deliver plug-and-play solutions, and investors can gain confidence in transparent, comparable disclosures.\r\n\r\nWhile focused on emissions, the principles extend across ESG domains such as wastewater management, carbon capture and storage, and nitrogen-use efficiency."
 ext:
   schema_version: v1.1.2
   doctype:

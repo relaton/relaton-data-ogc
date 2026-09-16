@@ -1,4 +1,3 @@
----
 id: '09046r5'
 schema_version: v1.5.6
 type: standard
@@ -63,8 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes the procedures used by the OGC Naming Authority
-    for the assignment and registration of OGC names.
+  content: This document describes the procedures used by the OGC Naming Authority for the assignment and registration of OGC names.
 ext:
   schema_version: v1.1.2
   doctype:

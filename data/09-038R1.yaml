@@ -1,4 +1,3 @@
----
 id: '09038r1'
 schema_version: v1.5.6
 type: standard
@@ -55,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document outlines an approach for validating data accessed from a
-    Web Feature Service. Two types of validation are supported:\r\n•\tXML Schema validation
-    against the GML application schema\r\n•\tValidation of additional constraints
-    encoded in Schematron\r\nThis report describes the validation tool, the types
-    of constraints that have been tested and documents the results.\r\n"
+  content: "This document outlines an approach for validating data accessed from a Web Feature Service. Two types of validation are supported:\r\n•\tXML Schema validation against the GML application schema\r\n•\tValidation of additional constraints encoded in Schematron\r\nThis report describes the validation tool, the types of constraints that have been tested and documents the results.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

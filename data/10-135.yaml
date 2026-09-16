@@ -1,17 +1,14 @@
----
 id: '10135'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation Satellite
-    Tasking ExtensionOGC® Sensor Planning Service
+  content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation Satellite Tasking ExtensionOGC® Sensor Planning Service
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation Satellite
-    Tasking ExtensionOGC® Sensor Planning Service
+  content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation Satellite Tasking ExtensionOGC® Sensor Planning Service
   type: main
 source:
 - type: html
@@ -61,17 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The SPS 2.0 Earth Observation Satellite Tasking Extension Standard specifies
-    extensions to the OGC Sensor Planning Service (SPS) 2.0 Interface Standard. The
-    SPS configuration proposed in this extension is intended to support the programming
-    process of Earth Observation (EO) sensor systems. This standard describes a consistent
-    SPS configuration that can be supported by many satellite data providers, most
-    of whom have existing facilities for the management of these programming requests.
-    The resulting extended web service interface can be used for determining the feasibility
-    of an intended sensor planning request, for submitting such a request, for inquiring
-    about the status of such a request, for updating or canceling such a request,
-    and for requesting information on means of obtaining the data collected by the
-    requested task.
+  content: The SPS 2.0 Earth Observation Satellite Tasking Extension Standard specifies extensions to the OGC Sensor Planning Service (SPS) 2.0 Interface Standard. The SPS configuration proposed in this extension is intended to support the programming process of Earth Observation (EO) sensor systems. This standard describes a consistent SPS configuration that can be supported by many satellite data providers, most of whom have existing facilities for the management of these programming requests. The resulting extended web service interface can be used for determining the feasibility of an intended sensor planning request, for submitting such a request, for inquiring about the status of such a request, for updating or canceling such a request, and for requesting information on means of obtaining the data collected by the requested task.
 ext:
   schema_version: v1.1.2
   doctype:

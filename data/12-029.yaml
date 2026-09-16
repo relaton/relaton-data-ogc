@@ -1,4 +1,3 @@
----
 id: '12029'
 schema_version: v1.5.6
 type: standard
@@ -55,9 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The following document contains best practices for identifying input data
-    formats for the OGC WPS 1.0.0. It was created due to a lack of interoperability
-    between different WPS implementation based on non-standardized input identifiers.
+  content: The following document contains best practices for identifying input data formats for the OGC WPS 1.0.0. It was created due to a lack of interoperability between different WPS implementation based on non-standardized input identifiers.
 ext:
   schema_version: v1.1.2
   doctype:

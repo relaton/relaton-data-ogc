@@ -1,4 +1,3 @@
----
 id: '08008r1'
 schema_version: v1.5.6
 type: standard
@@ -59,13 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This discussion paper is a draft new topic volume for the OGC Abstract
-    Specification, which may also be used to propose a corresponding new standard
-    to ISO/TC 211. This document proposes extensions to OGC Abstract Specification
-    Topic 2 — Spatial referencing by coordinates, and thus to ISO 19111 — Spatial
-    referencing by coordinates. This discussion paper is posted for comments on the
-    contents. Revision of this draft is planned, to improve some details while supporting
-    the same abilities.
+  content: This discussion paper is a draft new topic volume for the OGC Abstract Specification, which may also be used to propose a corresponding new standard to ISO/TC 211. This document proposes extensions to OGC Abstract Specification Topic 2 — Spatial referencing by coordinates, and thus to ISO 19111 — Spatial referencing by coordinates. This discussion paper is posted for comments on the contents. Revision of this draft is planned, to improve some details while supporting the same abilities.
 ext:
   schema_version: v1.1.2
   doctype:

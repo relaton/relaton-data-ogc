@@ -1,4 +1,3 @@
----
 id: '21055'
 schema_version: v1.5.6
 type: standard
@@ -61,13 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The subject of this Engineering Report (ER) is a virtual code sprint that
-    was held from July 21st to July 23rd, 2021 to advance the development of the OGC
-    API - Processes draft standard, OGC API - Records draft standard, and the OGC
-    API – Coverages draft standard. An Application Programming Interface (API) is
-    a standard set of documented and supported functions and procedures that expose
-    the capabilities or data of an operating system, application or service to other
-    applications (adapted from ISO/IEC TR 13066-2:2016).
+  content: The subject of this Engineering Report (ER) is a virtual code sprint that was held from July 21st to July 23rd, 2021 to advance the development of the OGC API - Processes draft standard, OGC API - Records draft standard, and the OGC API – Coverages draft standard. An Application Programming Interface (API) is a standard set of documented and supported functions and procedures that expose the capabilities or data of an operating system, application or service to other applications (adapted from ISO/IEC TR 13066-2:2016).
 ext:
   schema_version: v1.1.2
   doctype:

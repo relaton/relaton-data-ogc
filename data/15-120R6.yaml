@@ -1,4 +1,3 @@
----
 id: 15120r6
 schema_version: v1.5.6
 type: standard
@@ -57,17 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The CDB standard defines a standardized model and structure for a single,
-    “versionable,” virtual representation of the earth. A CDB structured data store
-    provides for a geospatial content and model definition repository that is plug-and-play
-    interoperable between database authoring workstations. Moreover, a CDB structured
-    data store can be used as a common online (or runtime) repository from which various
-    simulator client-devices can simultaneously retrieve and modify, in real-time,
-    relevant information to perform their respective runtime simulation tasks. In
-    this case, a CDB is plug-and-play interoperable between CDB-compliant simulators.
-    A CDB can be readily used by existing simulation client-devices (legacy Image
-    Generators, Radar simulator, Computer Generated Forces, etc.) through a data publishing
-    process that is performed on-demand in real-time.
+  content: The CDB standard defines a standardized model and structure for a single, “versionable,” virtual representation of the earth. A CDB structured data store provides for a geospatial content and model definition repository that is plug-and-play interoperable between database authoring workstations. Moreover, a CDB structured data store can be used as a common online (or runtime) repository from which various simulator client-devices can simultaneously retrieve and modify, in real-time, relevant information to perform their respective runtime simulation tasks. In this case, a CDB is plug-and-play interoperable between CDB-compliant simulators. A CDB can be readily used by existing simulation client-devices (legacy Image Generators, Radar simulator, Computer Generated Forces, etc.) through a data publishing process that is performed on-demand in real-time.
 ext:
   schema_version: v1.1.2
   doctype:

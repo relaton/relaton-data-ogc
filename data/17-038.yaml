@@ -1,4 +1,3 @@
----
 id: '17038'
 schema_version: v1.5.6
 type: standard
@@ -55,17 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The objective of the Fit for Purpose (FFP) effort in Testbed 13 was to
-    develop and test filters and encodings in a platform that can ease the work of
-    end-users, especially those who are not expert in dealing with geospatial data
-    and satellite imagery. The platform was demonstrated in a scenario that showed
-    how these filters can enable information exchange for humanitarian relief and
-    analysis of mass movement of populations.\r\n\r\nThis section provides a summary
-    of the interoperability tools and practices used by Testbed 13 participants in
-    this platform. It includes descriptions and testing results of filters and encodings
-    to help simplify access to satellite imagery. This technology was tested in a
-    scenario that showed how OGC-based services, encodings, filters and applications
-    can help coordinate humanitarian relief activities among nations and organizations."
+  content: "The objective of the Fit for Purpose (FFP) effort in Testbed 13 was to develop and test filters and encodings in a platform that can ease the work of end-users, especially those who are not expert in dealing with geospatial data and satellite imagery. The platform was demonstrated in a scenario that showed how these filters can enable information exchange for humanitarian relief and analysis of mass movement of populations.\r\n\r\nThis section provides a summary of the interoperability tools and practices used by Testbed 13 participants in this platform. It includes descriptions and testing results of filters and encodings to help simplify access to satellite imagery. This technology was tested in a scenario that showed how OGC-based services, encodings, filters and applications can help coordinate humanitarian relief activities among nations and organizations."
 ext:
   schema_version: v1.1.2
   doctype:

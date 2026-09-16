@@ -1,4 +1,3 @@
----
 id: '21064'
 schema_version: v1.5.6
 type: standard
@@ -55,18 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Disaster Pilot ’21 (DP21) Engineering Report summarizes work done
-    in the Pilot to increase disaster awareness among a range of disaster management
-    stakeholders. Pilot participants implemented components of a data flow ecosystem
-    to leverage analysis-ready earth observations and other datasets (ARD) and produce
-    decision ready indicators (DRI) according to collaboratively developed workflow
-    recipes. DP21 focused on the hazards of flooding, landslides, and pandemic, as
-    well as the interactions and complications between them, in three regions including
-    the Piura and Rimac river basins in Peru; the Red River Basin in Manitoba, Canada;
-    and the greater New Orleans area in Louisiana, United States. The Pilot also prototyped
-    providing information to field practitioners in secure geopackage formats, as
-    well as leveraging linked data and structured web page information to optimize
-    public web searches for disaster information.
+  content: This OGC Disaster Pilot ’21 (DP21) Engineering Report summarizes work done in the Pilot to increase disaster awareness among a range of disaster management stakeholders. Pilot participants implemented components of a data flow ecosystem to leverage analysis-ready earth observations and other datasets (ARD) and produce decision ready indicators (DRI) according to collaboratively developed workflow recipes. DP21 focused on the hazards of flooding, landslides, and pandemic, as well as the interactions and complications between them, in three regions including the Piura and Rimac river basins in Peru; the Red River Basin in Manitoba, Canada; and the greater New Orleans area in Louisiana, United States. The Pilot also prototyped providing information to field practitioners in secure geopackage formats, as well as leveraging linked data and structured web page information to optimize public web searches for disaster information.
 ext:
   schema_version: v1.1.2
   doctype:

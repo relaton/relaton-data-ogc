@@ -1,17 +1,14 @@
----
 id: '13100'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
-    Core
+  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0 Core
   type: title-main
 - language: en
   script: Latn
-  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
-    Core
+  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0 Core
   type: main
 source:
 - type: src
@@ -57,20 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This standard defines the version 3.0 of a geospatial extension to the
-    OASIS eXtensible Access Control Markup Language (XACML) Version 3.0 standard.
-    It thereby enables the interoperable definition of access rights / constraints
-    using the XACML 3.0 language, processing model and policy schema but extends the
-    ability to phrase conditions on geographic characteristics of subjects, resources
-    and objects. \r\nIn that sense, a GeoXACML policy could restrict access to geospatial
-    information, e.g. provided by OGC Web Services. However, a GeoXACML policy could
-    also restrict access to non geospatial assets by stating restrictions for access
-    based on the location of the user (or the mobile device used) trying to access
-    the protected assets. Therefore, this standard applies to main stream IT.\r\nFor
-    enabling processing of access control decisions based on geometry, Geospatial
-    eXensible Access Control Markup Language (GeoXACML) 3.0 Core inherits by normative
-    reference ISO 19125 which defines a geometry model and functions on geometry instances
-    which enrich the XACML 3.0 specification. \r\n"
+  content: "This standard defines the version 3.0 of a geospatial extension to the OASIS eXtensible Access Control Markup Language (XACML) Version 3.0 standard. It thereby enables the interoperable definition of access rights / constraints using the XACML 3.0 language, processing model and policy schema but extends the ability to phrase conditions on geographic characteristics of subjects, resources and objects. \r\nIn that sense, a GeoXACML policy could restrict access to geospatial information, e.g. provided by OGC Web Services. However, a GeoXACML policy could also restrict access to non geospatial assets by stating restrictions for access based on the location of the user (or the mobile device used) trying to access the protected assets. Therefore, this standard applies to main stream IT.\r\nFor enabling processing of access control decisions based on geometry, Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0 Core inherits by normative reference ISO 19125 which defines a geometry model and functions on geometry instances which enrich the XACML 3.0 specification. \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

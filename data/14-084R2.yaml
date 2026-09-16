@@ -1,17 +1,14 @@
----
 id: 14084r2
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® Moving Features Encoding Extension: Simple Comma Separated Values
-    (CSV)'
+  content: 'OGC® Moving Features Encoding Extension: Simple Comma Separated Values (CSV)'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® Moving Features Encoding Extension: Simple Comma Separated Values
-    (CSV)'
+  content: 'OGC® Moving Features Encoding Extension: Simple Comma Separated Values (CSV)'
   type: main
 source:
 - type: src
@@ -77,8 +74,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® Standard specifies standard encoding representations of movement
-    of geographic features. The primary use case is information exchange.
+  content: This OGC® Standard specifies standard encoding representations of movement of geographic features. The primary use case is information exchange.
 ext:
   schema_version: v1.1.2
   doctype:

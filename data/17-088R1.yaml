@@ -1,4 +1,3 @@
----
 id: 17088r1
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Strengthening Disaster Risk Reduction Across the Americas Summit - Simulated
-    Exercise Engineering Report
+  content: Strengthening Disaster Risk Reduction Across the Americas Summit - Simulated Exercise Engineering Report
   type: main
 source:
 - type: src
@@ -62,21 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Disasters are responsible for major socioeconomic damages. Global initiatives
-    call for the improvement of information technology infrastructure to better share
-    data and advance multinational collaboration.\r\n\r\nThe Strengthening Disaster
-    Risk Reduction Across the Americas: A Regional Summit on the Contributions of
-    Earth Observations held on September 3-8 in 2017 in Buenos Aires, Argentina strengthened
-    the collective ability to share the many challenges of disaster risk reduction
-    in Latin America and the Caribbean (LAC) while promoting the awareness and better
-    use of earth observations (EO).\r\n\r\nA simulation exercise took place during
-    the summit. The exercise brought together government, emergency managers, earth
-    observation data providers, academics, non-governmental organizations, and commercial
-    companies. The participants assessed the capabilities and needs of policymakers,
-    regional and on-the-ground decision makers, and learned what information products
-    can be produced, and when and how such products are available.\r\n\r\nThis ER
-    describes the description and results of the simulated scenario including the
-    post-exercise activity that captured the lessons learned from the participants.\r\n\r\n"
+  content: "Disasters are responsible for major socioeconomic damages. Global initiatives call for the improvement of information technology infrastructure to better share data and advance multinational collaboration.\r\n\r\nThe Strengthening Disaster Risk Reduction Across the Americas: A Regional Summit on the Contributions of Earth Observations held on September 3-8 in 2017 in Buenos Aires, Argentina strengthened the collective ability to share the many challenges of disaster risk reduction in Latin America and the Caribbean (LAC) while promoting the awareness and better use of earth observations (EO).\r\n\r\nA simulation exercise took place during the summit. The exercise brought together government, emergency managers, earth observation data providers, academics, non-governmental organizations, and commercial companies. The participants assessed the capabilities and needs of policymakers, regional and on-the-ground decision makers, and learned what information products can be produced, and when and how such products are available.\r\n\r\nThis ER describes the description and results of the simulated scenario including the post-exercise activity that captured the lessons learned from the participants.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

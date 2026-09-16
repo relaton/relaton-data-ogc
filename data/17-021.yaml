@@ -1,4 +1,3 @@
----
 id: '17021'
 schema_version: v1.5.6
 type: standard
@@ -55,19 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Security Engineering Report (ER) covers two Testbed 13 topics:\r\n\r\nThe
-    implementation of authentication and authorization plugins for the QGIS open source
-    desktop GIS client and\r\n\r\nthe implementation of secured workflow.\r\n\r\nThe
-    authentication plugins implement the SAML2 ECP with PAOS binding and IdP discovery
-    from the SAML2 federation metadata URL. The access right delegation plugin implements
-    applicable OAuth2 grant types.\r\n\r\nRegarding the first topic, this ER discusses
-    the fit for purpose aspects for the OAuth2 and SAML2 in the context of an open
-    source desktop application. It also covers the QGIS development as well as building
-    and deployment aspects. Most of the work related to this topic was provided by
-    Secure Dimensions.\r\n\r\nRegarding the second topic, this ER outlines the architecture
-    approach and the implications to implementations for security in OGC service workflows
-    as well as the implementation approach itself. Most of the work related to this
-    topic was provided by 52°North."
+  content: "The Security Engineering Report (ER) covers two Testbed 13 topics:\r\n\r\nThe implementation of authentication and authorization plugins for the QGIS open source desktop GIS client and\r\n\r\nthe implementation of secured workflow.\r\n\r\nThe authentication plugins implement the SAML2 ECP with PAOS binding and IdP discovery from the SAML2 federation metadata URL. The access right delegation plugin implements applicable OAuth2 grant types.\r\n\r\nRegarding the first topic, this ER discusses the fit for purpose aspects for the OAuth2 and SAML2 in the context of an open source desktop application. It also covers the QGIS development as well as building and deployment aspects. Most of the work related to this topic was provided by Secure Dimensions.\r\n\r\nRegarding the second topic, this ER outlines the architecture approach and the implications to implementations for security in OGC service workflows as well as the implementation approach itself. Most of the work related to this topic was provided by 52°North."
 ext:
   schema_version: v1.1.2
   doctype:

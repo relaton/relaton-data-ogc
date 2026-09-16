@@ -1,17 +1,14 @@
----
 id: '24072'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering
-    Report:  NYC  GISMO Team '
+  content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering Report:  NYC  GISMO Team '
   type: title-main
 - language: en
   script: Latn
-  content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering
-    Report:  NYC  GISMO Team '
+  content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering Report:  NYC  GISMO Team '
   type: main
 source:
 - type: src
@@ -87,11 +84,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This study of extreme heat focuses on developing an understanding of how
-    extreme heat \r\nevents can affect a community north and east of Central Park,
-    in the Borough of Manhattan in New York City, bounded by 110th Street, Fifth Avenue,
-    East 96th Street, the East River, the Harlem River, and the Hudson River. This
-    area contains the communities of Harlem, \r\nWashington Heights, and Inwood. "
+  content: "This study of extreme heat focuses on developing an understanding of how extreme heat \r\nevents can affect a community north and east of Central Park, in the Borough of Manhattan in New York City, bounded by 110th Street, Fifth Avenue, East 96th Street, the East River, the Harlem River, and the Hudson River. This area contains the communities of Harlem, \r\nWashington Heights, and Inwood. "
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,17 +1,14 @@
----
 id: '21019'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for
-    implementing OGC Web APIs'
+  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for implementing OGC Web APIs'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for
-    implementing OGC Web APIs'
+  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for implementing OGC Web APIs'
   type: main
 source:
 - type: src
@@ -57,20 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed 17 Engineering Report (ER) documents the work completed
-    in the “Attracting Developers: Lowering the entry hurdle for OGC Web API experiments”
-    task.\r\n\r\nOGC Web API Standards are being developed to make it easy to provide
-    geospatial data over the web. These standards provide a certain level of formality
-    to ensure high levels of interoperability. They rigorously define requirements
-    and rules to reduce room for error during interpretation. This rigor sometimes
-    makes the standard documents difficult to read and hence implement. Rather than
-    direct examination of a standard, the majority of developers often prefer to start
-    with implementation guidelines, sample code, and best practice documentation and
-    then refer to the standards document for guidance and clarity.\r\n\r\nThe Testbed-17
-    (TB-17) API task served as a foundation for further development and exploration
-    and delivers knowledge necessary for agile development, deployment, and executing
-    OGC Standards-based applications following a “How-To” philosophy with hands-on
-    experiments, examples, and instructions.\r\n\r\n"
+  content: "This OGC Testbed 17 Engineering Report (ER) documents the work completed in the “Attracting Developers: Lowering the entry hurdle for OGC Web API experiments” task.\r\n\r\nOGC Web API Standards are being developed to make it easy to provide geospatial data over the web. These standards provide a certain level of formality to ensure high levels of interoperability. They rigorously define requirements and rules to reduce room for error during interpretation. This rigor sometimes makes the standard documents difficult to read and hence implement. Rather than direct examination of a standard, the majority of developers often prefer to start with implementation guidelines, sample code, and best practice documentation and then refer to the standards document for guidance and clarity.\r\n\r\nThe Testbed-17 (TB-17) API task served as a foundation for further development and exploration and delivers knowledge necessary for agile development, deployment, and executing OGC Standards-based applications following a “How-To” philosophy with hands-on experiments, examples, and instructions.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

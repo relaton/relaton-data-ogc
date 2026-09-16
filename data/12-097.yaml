@@ -1,4 +1,3 @@
----
 id: '12097'
 schema_version: v1.5.6
 type: standard
@@ -63,14 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document provides a description of the Bulk Data Transfer investigations
-    related to Geography Markup Language (GML) streaming and feature data transportation
-    implemented in the OGC OWS-9 test bed.  \r\n\r\nThis document extends the concept
-    of Bulk Data Transfer to the dissemination of large payloads consisting of geospatial
-    data sets and/or collections of data sets between machines that are connected
-    via a network.\r\n\r\nThis document also describes the delivery of large payloads
-    consisting of geospatial data sets and/or collections of data sets to SpatiaLite/SQLite
-    to store the data for use by mobile applications.\r\n"
+  content: "This document provides a description of the Bulk Data Transfer investigations related to Geography Markup Language (GML) streaming and feature data transportation implemented in the OGC OWS-9 test bed.  \r\n\r\nThis document extends the concept of Bulk Data Transfer to the dissemination of large payloads consisting of geospatial data sets and/or collections of data sets between machines that are connected via a network.\r\n\r\nThis document also describes the delivery of large payloads consisting of geospatial data sets and/or collections of data sets to SpatiaLite/SQLite to store the data for use by mobile applications.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

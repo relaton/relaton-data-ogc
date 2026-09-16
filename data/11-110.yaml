@@ -1,4 +1,3 @@
----
 id: '11110'
 schema_version: v1.5.6
 type: standard
@@ -53,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This article is a White Paper jointly published by OGC and OSGeo. It was
-    approved as an official joint OSGeo and OGC White Paper by the OSGeo Board of
-    Directors in their 2011-05-05 Board meeting. \r\nThe text was collaboratively
-    edited, reviewed and finalized by more than a a dozen active OSGeo and OGC members.
-    Thanks especially to Gavin Fleming, Lance McKee, Markus Neteler, Athina Trakas,
-    Michael Gerlek, Adrian Custer, Jeff McKenna, Cameron Shorter, Carl Reed, Frank
-    Warmerdam, Steven Ramage, Daniel Morissette, Arnulf Christl and others for their
-    contributions.\r\nPlease feel free to add comments, criticisms, links to other
-    concise definitions on the associated Talk page: http://wiki.osgeo.org/wiki/Open_Source_and_Open_Standards."
+  content: "This article is a White Paper jointly published by OGC and OSGeo. It was approved as an official joint OSGeo and OGC White Paper by the OSGeo Board of Directors in their 2011-05-05 Board meeting. \r\nThe text was collaboratively edited, reviewed and finalized by more than a a dozen active OSGeo and OGC members. Thanks especially to Gavin Fleming, Lance McKee, Markus Neteler, Athina Trakas, Michael Gerlek, Adrian Custer, Jeff McKenna, Cameron Shorter, Carl Reed, Frank Warmerdam, Steven Ramage, Daniel Morissette, Arnulf Christl and others for their contributions.\r\nPlease feel free to add comments, criticisms, links to other concise definitions on the associated Talk page: http://wiki.osgeo.org/wiki/Open_Source_and_Open_Standards."
 ext:
   schema_version: v1.1.2
   doctype:

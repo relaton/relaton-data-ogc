@@ -1,4 +1,3 @@
----
 id: '24010'
 schema_version: v1.5.6
 type: standard
@@ -55,19 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report describes an extension for storing Releasable Basemap
-    Tiles (RBT) in GeoPackage developed during an OGC Code Sprint initiative sponsored
-    by the US Army Geospatial Center (AGC) which took place in March 2024. During
-    this initiative, participants Ecere Corporation, Compusult Limited and TechMaven
-    Geospatial, assembled into this single extension document draft extensions developed
-    in previous OGC initiatives for storing vector tiles, semantic annotations and
-    portrayal styles in GeoPackages. Minor updates and clarifications to the requirements
-    of these draft extensions were made based on additional experimentation performed
-    during the sprint. Additional requirements and recommendations were also introduced
-    for this extension, including requirements specific to RBT content, a recommendation
-    to include fonts used by styles, requirements to support compressed vector tiles,
-    as well as requirements further restricting how to store vector tiles in the context
-    of this extension to improve interoperability.
+  content: This Engineering Report describes an extension for storing Releasable Basemap Tiles (RBT) in GeoPackage developed during an OGC Code Sprint initiative sponsored by the US Army Geospatial Center (AGC) which took place in March 2024. During this initiative, participants Ecere Corporation, Compusult Limited and TechMaven Geospatial, assembled into this single extension document draft extensions developed in previous OGC initiatives for storing vector tiles, semantic annotations and portrayal styles in GeoPackages. Minor updates and clarifications to the requirements of these draft extensions were made based on additional experimentation performed during the sprint. Additional requirements and recommendations were also introduced for this extension, including requirements specific to RBT content, a recommendation to include fonts used by styles, requirements to support compressed vector tiles, as well as requirements further restricting how to store vector tiles in the context of this extension to improve interoperability.
 ext:
   schema_version: v1.1.2
   doctype:

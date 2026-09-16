@@ -1,4 +1,3 @@
----
 id: 13021r3
 schema_version: v1.5.6
 type: standard
@@ -61,12 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes an information model for exchanging rating tables,
-    or rating\r\ncurves, that are used for the conversion of related hydrological
-    phenomenon. It also\r\ndescribes a model describing the observations that are
-    used to develop such relationships,\r\noften referred to as gauging observations.\r\nThe
-    information model is proposed as a second part of the WaterML2.0 suite of\r\nstandards,
-    building on part 1 that addresses the exchange of time series1."
+  content: "This document describes an information model for exchanging rating tables, or rating\r\ncurves, that are used for the conversion of related hydrological phenomenon. It also\r\ndescribes a model describing the observations that are used to develop such relationships,\r\noften referred to as gauging observations.\r\nThe information model is proposed as a second part of the WaterML2.0 suite of\r\nstandards, building on part 1 that addresses the exchange of time series1."
 ext:
   schema_version: v1.1.2
   doctype:

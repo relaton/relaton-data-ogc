@@ -1,17 +1,14 @@
----
 id: '21018'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-17: Features and Geometries JSON CRS Analysis of Alternatives
-    Engineering Report'
+  content: 'OGC Testbed-17: Features and Geometries JSON CRS Analysis of Alternatives Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-17: Features and Geometries JSON CRS Analysis of Alternatives
-    Engineering Report'
+  content: 'OGC Testbed-17: Features and Geometries JSON CRS Analysis of Alternatives Engineering Report'
   type: main
 source:
 - type: src
@@ -57,20 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "One of the primary requirements for the OGC Testbed-17 Features and Geometries
-    JSON task is to define an extension or profile of GeoJSON that supports encoding
-    spatiotemporal data in Coordinate Reference Systems (CRS) other than the GeoJSON
-    default of the World Geodetic System 1984 (WGS 84) datum, with longitude and latitude
-    units of decimal degrees (CRS84).\r\n\r\nThis OGC Testbed 17 (TB17) Engineering
-    Report (ER) presents the various alternatives considered for declaring CRS information
-    in a Features and Geometries JSON (JSON-FG) file. JSON-FG is an OGC extension
-    to GeoJSON that, among other things, adds support of coordinate reference systems
-    other than the CRS84 default. One of the alternatives was selected to be the mechanism
-    for declaring CRS information in a JSON-FG document and is fully described in
-    the “OGC Testbed-17: OGC Features and Geometries JSON Engineering Report” (OGC
-    21-017r1).\r\n\r\nThis ER was submitted to the OGC Features and Geometries JSON
-    Standards Working Group so that the work in TB17 can inform their task of developing
-    and documenting a Features and Geometries JSON standard."
+  content: "One of the primary requirements for the OGC Testbed-17 Features and Geometries JSON task is to define an extension or profile of GeoJSON that supports encoding spatiotemporal data in Coordinate Reference Systems (CRS) other than the GeoJSON default of the World Geodetic System 1984 (WGS 84) datum, with longitude and latitude units of decimal degrees (CRS84).\r\n\r\nThis OGC Testbed 17 (TB17) Engineering Report (ER) presents the various alternatives considered for declaring CRS information in a Features and Geometries JSON (JSON-FG) file. JSON-FG is an OGC extension to GeoJSON that, among other things, adds support of coordinate reference systems other than the CRS84 default. One of the alternatives was selected to be the mechanism for declaring CRS information in a JSON-FG document and is fully described in the “OGC Testbed-17: OGC Features and Geometries JSON Engineering Report” (OGC 21-017r1).\r\n\r\nThis ER was submitted to the OGC Features and Geometries JSON Standards Working Group so that the work in TB17 can inform their task of developing and documenting a Features and Geometries JSON standard."
 ext:
   schema_version: v1.1.2
   doctype:

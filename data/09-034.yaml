@@ -1,4 +1,3 @@
----
 id: '09034'
 schema_version: v1.5.6
 type: standard
@@ -59,15 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document discusses considerations about and recommendations for approaches
-    for georeferenceable imagery under the Sensor Web Enablement thread during OGC
-    Web Services Phase 6. This is an extension to the work described in the previous
-    engineering report number OGC 08-071 . Georeferencealbe imagery is “a referenceable
-    grid that has information that can be used to transform grid coordinates to external
-    coordinates, but the transformation shall not be required to be an affine transformation”.
-    Geolocation of georeferenceable imagery refers to the techniques described in
-    ISO 19130, such as sensor models, functional fit models, and spatial registration
-    using control points.
+  content: This document discusses considerations about and recommendations for approaches for georeferenceable imagery under the Sensor Web Enablement thread during OGC Web Services Phase 6. This is an extension to the work described in the previous engineering report number OGC 08-071 . Georeferencealbe imagery is “a referenceable grid that has information that can be used to transform grid coordinates to external coordinates, but the transformation shall not be required to be an affine transformation”. Geolocation of georeferenceable imagery refers to the techniques described in ISO 19130, such as sensor models, functional fit models, and spatial registration using control points.
 ext:
   schema_version: v1.1.2
   doctype:

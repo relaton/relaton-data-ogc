@@ -1,4 +1,3 @@
----
 id: 18062r2
 schema_version: v1.5.6
 type: standard
@@ -71,29 +70,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC API — Processes — Part 1: Core Standard supports the wrapping
-    of computational tasks into executable processes that can be offered by a server
-    through a Web API and be invoked by a client application. The standard specifies
-    a processing interface to communicate over a RESTful protocol using JavaScript
-    Object Notation (JSON) encodings. The standard leverages concepts from the OGC
-    Web Processing Service (WPS) 2.0 Interface Standard but does not require implementation
-    of a WPS.\r\n\r\nBy way of background and context, in many cases geospatial or
-    location data, including data from sensors, must be processed before the information
-    can be effectively used. The WPS Standard provides a standard interface that simplifies
-    the task of making simple or complex computational geospatial processing services
-    accessible via web services. Such services include well-known processes found
-    in Geographic Information Systems (GIS) as well as specialized processes for spatiotemporal
-    modeling and simulation. While the WPS standard was designed with spatial processing
-    in mind, the standard could also be used to readily insert non-spatial processing
-    tasks into a web services environment.\r\n\r\nThe OGC API — Processes Standard
-    is a newer and more modern way of programming and interacting with resources over
-    the web while allowing better integration into existing software packages. The
-    OGC API — Processes Standard addresses all of the use cases that were addressed
-    by the WPS Standard, while also leveraging the OpenAPI specification and a resource-oriented
-    approach.\r\n\r\nThe resources that are provided by a server implementing the
-    OGC API — Processes Standard are listed in Table 1 below and include information
-    about the server, the list of available processes (Process list and Process description),
-    jobs (running processes) and results of process executions."
+  content: "The OGC API — Processes — Part 1: Core Standard supports the wrapping of computational tasks into executable processes that can be offered by a server through a Web API and be invoked by a client application. The standard specifies a processing interface to communicate over a RESTful protocol using JavaScript Object Notation (JSON) encodings. The standard leverages concepts from the OGC Web Processing Service (WPS) 2.0 Interface Standard but does not require implementation of a WPS.\r\n\r\nBy way of background and context, in many cases geospatial or location data, including data from sensors, must be processed before the information can be effectively used. The WPS Standard provides a standard interface that simplifies the task of making simple or complex computational geospatial processing services accessible via web services. Such services include well-known processes found in Geographic Information Systems (GIS) as well as specialized processes for spatiotemporal modeling and simulation. While the WPS standard was designed with spatial processing in mind, the standard could also be used to readily insert non-spatial processing tasks into a web services environment.\r\n\r\nThe OGC API — Processes Standard is a newer and more modern way of programming and interacting with resources over the web while allowing better integration into existing software packages. The OGC API — Processes Standard addresses all of the use cases that were addressed by the WPS Standard, while also leveraging the OpenAPI specification and a resource-oriented approach.\r\n\r\nThe resources that are provided by a server implementing the OGC API — Processes Standard are listed in Table 1 below and include information about the server, the list of available processes (Process list and Process description), jobs (running processes) and results of process executions."
 ext:
   schema_version: v1.1.2
   doctype:

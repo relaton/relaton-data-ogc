@@ -1,4 +1,3 @@
----
 id: '05013'
 schema_version: v1.5.6
 type: standard
@@ -59,20 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document specifies the interface to a Web Coordinate Transformation
-    Service (WCTS), which can be used by geospatial applications and other services.
-    Transformation of geospatial data from one coordinate reference system (CRS) to
-    another is frequently required when using data from different sources in one application.
-    That is, geospatial data are often stored in different coordinate reference systems
-    (CRSs). To use together data stored in different CRSs, such data must be transformed
-    or converted into the same CRS. Not all applications or services are capable of
-    directly performing such transformations. \r\n\r\nThis document specifies an OGC
-    Web Service type of interface to a service that performs coordinate transformations.
-    Such transformations include all the types of coordinate operations, including
-    both transformations and conversions. This service inputs digital features or
-    coverages in one CRS and outputs the same features in a different CRS. The service
-    inputs include identifications of the input and output CRSs, and optionally the
-    coordinate transformation between these CRSs.\r\n"
+  content: "This document specifies the interface to a Web Coordinate Transformation Service (WCTS), which can be used by geospatial applications and other services. Transformation of geospatial data from one coordinate reference system (CRS) to another is frequently required when using data from different sources in one application. That is, geospatial data are often stored in different coordinate reference systems (CRSs). To use together data stored in different CRSs, such data must be transformed or converted into the same CRS. Not all applications or services are capable of directly performing such transformations. \r\n\r\nThis document specifies an OGC Web Service type of interface to a service that performs coordinate transformations. Such transformations include all the types of coordinate operations, including both transformations and conversions. This service inputs digital features or coverages in one CRS and outputs the same features in a different CRS. The service inputs include identifications of the input and output CRSs, and optionally the coordinate transformation between these CRSs.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

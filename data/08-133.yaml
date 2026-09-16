@@ -1,4 +1,3 @@
----
 id: '08133'
 schema_version: v1.5.6
 type: standard
@@ -59,14 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Sensor Event Service (SES) provides operations to register sensors
-    at the service application and let clients subscribe for observations available
-    at the service. The service performs filtering of sensor data (streams) based
-    upon the filter criteria defined in these subscriptions. Filters can be applied
-    on single observations but also on observation streams, potentially aggregating
-    observations into higher-level information (which itself can be regarded as observation
-    data). Whenever matches are discovered, a notification is sent to the subscriber,
-    using asynchronous, push-based communication mechanisms.
+  content: The Sensor Event Service (SES) provides operations to register sensors at the service application and let clients subscribe for observations available at the service. The service performs filtering of sensor data (streams) based upon the filter criteria defined in these subscriptions. Filters can be applied on single observations but also on observation streams, potentially aggregating observations into higher-level information (which itself can be regarded as observation data). Whenever matches are discovered, a notification is sent to the subscriber, using asynchronous, push-based communication mechanisms.
 ext:
   schema_version: v1.1.2
   doctype:

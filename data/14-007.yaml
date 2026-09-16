@@ -1,4 +1,3 @@
----
 id: '14007'
 schema_version: v1.5.6
 type: standard
@@ -55,13 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). Its
-    contents cover the summary of the work carried out regarding the creation and
-    evaluation of generated data bindings for the Aeronautical Information Exchange
-    Model (AIXM) for established programming languages.\r\nSuggested additions, changes,
-    and comments on this draft report are welcome and encouraged. Such suggestions
-    may be submitted by email message or by making suggested changes in an edited
-    copy of this document.\r\n"
+  content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). Its contents cover the summary of the work carried out regarding the creation and evaluation of generated data bindings for the Aeronautical Information Exchange Model (AIXM) for established programming languages.\r\nSuggested additions, changes, and comments on this draft report are welcome and encouraged. Such suggestions may be submitted by email message or by making suggested changes in an edited copy of this document.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

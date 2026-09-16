@@ -1,4 +1,3 @@
----
 id: 16007r4
 schema_version: v1.5.6
 type: standard
@@ -57,24 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Open Geospatial Consortium (OGC) standard defines the conceptual
-    model for the OGC CDB Standard. The objective of this document is to provide an
-    abstract core conceptual model for a CDB data store (repository). The model is
-    represented using UML (unified modeling language). The conceptual model is comprised
-    of concepts, schema, classes and categories as well as their relationships, which
-    are used to understand, and/or represent an OGC CDB data store. This enables a
-    comparison and description of the CDB data store structure on a more detailed
-    level. This document was created by reverse-engineering the UML diagrams and documentation
-    from the original CDB submission  as a basis for supporting OGC interoperability.
-    One of the important roles of this conceptual model is to provide a UML model
-    that is consistent with the other OGC standards and to identify functional gaps
-    between the current CDB data store and the OGC standards baseline.  This document
-    references sections of Volume 1: OGC CDB Core Standard: Model and Physical Database
-    Structure [OGC 15-113r5].\r\n\r\nNOTE: The simulation community uses the term
-    “synthetic environment data” to mean all the digital data stored in some database
-    or structured data store that is required for use by simulation clients. From
-    the geospatial community perspective, these data are essentially the same as GIS
-    data but with, in some cases, special attributes, such as radar reflectivity.\r\n"
+  content: "This Open Geospatial Consortium (OGC) standard defines the conceptual model for the OGC CDB Standard. The objective of this document is to provide an abstract core conceptual model for a CDB data store (repository). The model is represented using UML (unified modeling language). The conceptual model is comprised of concepts, schema, classes and categories as well as their relationships, which are used to understand, and/or represent an OGC CDB data store. This enables a comparison and description of the CDB data store structure on a more detailed level. This document was created by reverse-engineering the UML diagrams and documentation from the original CDB submission  as a basis for supporting OGC interoperability. One of the important roles of this conceptual model is to provide a UML model that is consistent with the other OGC standards and to identify functional gaps between the current CDB data store and the OGC standards baseline.  This document references sections of Volume 1: OGC CDB Core Standard: Model and Physical Database Structure [OGC 15-113r5].\r\n\r\nNOTE: The simulation community uses the term “synthetic environment data” to mean all the digital data stored in some database or structured data store that is required for use by simulation clients. From the geospatial community perspective, these data are essentially the same as GIS data but with, in some cases, special attributes, such as radar reflectivity.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

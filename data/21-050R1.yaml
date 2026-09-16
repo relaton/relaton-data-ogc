@@ -1,4 +1,3 @@
----
 id: 21050r1
 schema_version: v1.5.6
 type: standard
@@ -57,11 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Community Standard refers to the Zarr V2 Specification. The Zarr
-    V2 Specification\r\nis hosted on the Zarr website at https://zarr.readthedocs.io/en/stable/spec/v2.html.
-    The\r\nZarr V2 Specification is the OGC Community Standard. Everything that follows
-    is a\r\nnon-normative, informal description of Zarr usage written for the benefit
-    of the geospatial\r\ncommunity."
+  content: "This Community Standard refers to the Zarr V2 Specification. The Zarr V2 Specification\r\nis hosted on the Zarr website at https://zarr.readthedocs.io/en/stable/spec/v2.html. The\r\nZarr V2 Specification is the OGC Community Standard. Everything that follows is a\r\nnon-normative, informal description of Zarr usage written for the benefit of the geospatial\r\ncommunity."
 ext:
   schema_version: v1.1.2
   doctype:

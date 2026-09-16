@@ -1,4 +1,3 @@
----
 id: 17011r2
 schema_version: v1.5.6
 type: standard
@@ -57,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes new JavaScript Object Notation (JSON) encodings
-    for the Sensor Web Enablement (SWE) Common Data Model and the Sensor Model Language
-    (SensorML). Rather than creating new JSON schemas, this document defines encoding
-    rules that allow auto-generation of JSON instances that conform to the Unified
-    Modeling Language (UML) models. Alternatively, the mappings given in the second
-    part of the document can be used to convert bi-directionally between XML and JSON
-    representations.\r\n\r\n"
+  content: "This document describes new JavaScript Object Notation (JSON) encodings for the Sensor Web Enablement (SWE) Common Data Model and the Sensor Model Language (SensorML). Rather than creating new JSON schemas, this document defines encoding rules that allow auto-generation of JSON instances that conform to the Unified Modeling Language (UML) models. Alternatively, the mappings given in the second part of the document can be used to convert bi-directionally between XML and JSON representations.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

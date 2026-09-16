@@ -1,4 +1,3 @@
----
 id: 10073r1
 schema_version: v1.5.6
 type: standard
@@ -55,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document seeks to define the Best Practices for integrating Common
-    Chemical, Biological, Radiological, and Nuclear (CBRN) Sensor Interface (CCSI)
-    compliant and potentially other CBRN-based sensors into an OGC Sensor Web Enablement
-    (SWE)-based environment.  The document focuses on the practical application of
-    SWE services and encodings for describing and interacting with CCSI sensors and
-    data and draws heavily from and expands upon work performed in the OGC Web Services
-    Phase 6 (OWS-6) testbed to define methodologies for integrating CCSI sensors into
-    a SWE-based environment both now, by building upon the OWS-6 work, and in the
-    future, by defining CCSI profiles of the SWE specifications.
+  content: This document seeks to define the Best Practices for integrating Common Chemical, Biological, Radiological, and Nuclear (CBRN) Sensor Interface (CCSI) compliant and potentially other CBRN-based sensors into an OGC Sensor Web Enablement (SWE)-based environment.  The document focuses on the practical application of SWE services and encodings for describing and interacting with CCSI sensors and data and draws heavily from and expands upon work performed in the OGC Web Services Phase 6 (OWS-6) testbed to define methodologies for integrating CCSI sensors into a SWE-based environment both now, by building upon the OWS-6 work, and in the future, by defining CCSI profiles of the SWE specifications.
 ext:
   schema_version: v1.1.2
   doctype:

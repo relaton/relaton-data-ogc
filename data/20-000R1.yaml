@@ -1,4 +1,3 @@
----
 id: 20000r1
 schema_version: v1.5.6
 type: standard
@@ -87,22 +86,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Discussion Paper introduces the CityGML Urban Planning Application
-    Domain Extension (ADE) published by the Japanese government for the i-Urban Revitalization
-    (i-UR).\r\nThe i-UR is an information infrastructure dedicated for urban planning
-    to contribute to data-driven urban development and urban revitalization. OGC KML
-    has been utilized more than 10 years for i-UR, however, there were huge requirements
-    for use of application-specific semantics information for urban planning and multi-scale
-    structured information by LOD (Levels of Detail).\r\nBy using CityGML ADE mechanism,
-    the Urban Planning ADE provides application-specific semantics information integrating
-    with 3D geometry data to visualize and analyze the urban situation. Additionally,
-    the Urban Planning ADE introduces newly extended LOD, LOD-1 (minus one) for nationwide
-    city models and LOD-2 (minus two) for a worldwide city model to visualize global
-    urban activities and study urban structure by integrating geospatial information
-    and statistical grid information.\r\nThis paper describes a brief introduction
-    of i-Urban Revitalization, data model of the Urban Planning ADE and data experiment
-    examples to discuss further utilization of the Urban Planning ADE in urban planning
-    applications.\r\n"
+  content: "This OGC Discussion Paper introduces the CityGML Urban Planning Application Domain Extension (ADE) published by the Japanese government for the i-Urban Revitalization (i-UR).\r\nThe i-UR is an information infrastructure dedicated for urban planning to contribute to data-driven urban development and urban revitalization. OGC KML has been utilized more than 10 years for i-UR, however, there were huge requirements for use of application-specific semantics information for urban planning and multi-scale structured information by LOD (Levels of Detail).\r\nBy using CityGML ADE mechanism, the Urban Planning ADE provides application-specific semantics information integrating with 3D geometry data to visualize and analyze the urban situation. Additionally, the Urban Planning ADE introduces newly extended LOD, LOD-1 (minus one) for nationwide city models and LOD-2 (minus two) for a worldwide city model to visualize global urban activities and study urban structure by integrating geospatial information and statistical grid information.\r\nThis paper describes a brief introduction of i-Urban Revitalization, data model of the Urban Planning ADE and data experiment examples to discuss further utilization of the Urban Planning ADE in urban planning applications.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,17 +1,14 @@
----
 id: '13101'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
-    GML 3.2.1 Encoding Extension
+  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0 GML 3.2.1 Encoding Extension
   type: title-main
 - language: en
   script: Latn
-  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
-    GML 3.2.1 Encoding Extension
+  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0 GML 3.2.1 Encoding Extension
   type: main
 source:
 - type: src
@@ -57,18 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This standard defines the version 3.0 of a valid GML 3.2.1 geometry encoding
-    as defined in Geography Markup Language (GML) simple features profile (with Corrigendum)
-    to be used with the GeoXACML 3.0 Core standard.\r\nThe use of this encoding extension
-    to GeoXACML 3.0 Core enables the direct use of GML 3.2.1 encoded geometries into
-    a GeoXACML 3.0 Policy, an Authorization Decision Request or in an Authorization
-    Decision’s Obligation element. It thereby improves the performance of deriving
-    access control decisions, where geometries are involved as existing GML 3.2.1
-    geometry encodings must not be transformed to Well Known Text (WKT) as supported
-    by GeoXACML 3.0 Core. Furthermore, the use of this encoding extension simplifies
-    the implementation of a Policy Enforcement Point as it must not provide the transformation
-    functions from GML to WKT and vice versa.\r\nThis encoding extension has its normative
-    base in Geography Markup Language (GML) simple features profile (with Corrigendum).\r\n"
+  content: "This standard defines the version 3.0 of a valid GML 3.2.1 geometry encoding as defined in Geography Markup Language (GML) simple features profile (with Corrigendum) to be used with the GeoXACML 3.0 Core standard.\r\nThe use of this encoding extension to GeoXACML 3.0 Core enables the direct use of GML 3.2.1 encoded geometries into a GeoXACML 3.0 Policy, an Authorization Decision Request or in an Authorization Decision’s Obligation element. It thereby improves the performance of deriving access control decisions, where geometries are involved as existing GML 3.2.1 geometry encodings must not be transformed to Well Known Text (WKT) as supported by GeoXACML 3.0 Core. Furthermore, the use of this encoding extension simplifies the implementation of a Policy Enforcement Point as it must not provide the transformation functions from GML to WKT and vice versa.\r\nThis encoding extension has its normative base in Geography Markup Language (GML) simple features profile (with Corrigendum).\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

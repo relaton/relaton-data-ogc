@@ -1,17 +1,14 @@
----
 id: '24057'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Enabling information continuity across BIM-GIS domains: A bSI and OGC
-    strategic roadmap'
+  content: 'Enabling information continuity across BIM-GIS domains: A bSI and OGC strategic roadmap'
   type: title-main
 - language: en
   script: Latn
-  content: 'Enabling information continuity across BIM-GIS domains: A bSI and OGC
-    strategic roadmap'
+  content: 'Enabling information continuity across BIM-GIS domains: A bSI and OGC strategic roadmap'
   type: main
 source:
 - type: src
@@ -63,16 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This strategic roadmap is a work product of a joint working group of buildingSMART
-    International (bSI) and the Open Geospatial Consortium (OGC). It is the latest
-    attempt in a decade-long effort by these organizations to bridge the gap between
-    building information modeling (BIM) and geographic information systems (GIS) to
-    leverage open data standards and foster continuity of information across any business
-    domain (e.g., environment, transportation, infrastructure, buildings) where both
-    BIM and GIS data are needed for informed decision-making. The roadmap seeks to
-    tap into the membership, activities, and reach of both organizations while at
-    the same time aligning with other similar efforts within the larger industry to
-    enhance infrastructure lifecycle management and support sustainable development. '
+  content: 'This strategic roadmap is a work product of a joint working group of buildingSMART International (bSI) and the Open Geospatial Consortium (OGC). It is the latest attempt in a decade-long effort by these organizations to bridge the gap between building information modeling (BIM) and geographic information systems (GIS) to leverage open data standards and foster continuity of information across any business domain (e.g., environment, transportation, infrastructure, buildings) where both BIM and GIS data are needed for informed decision-making. The roadmap seeks to tap into the membership, activities, and reach of both organizations while at the same time aligning with other similar efforts within the larger industry to enhance infrastructure lifecycle management and support sustainable development. '
 ext:
   schema_version: v1.1.2
   doctype:

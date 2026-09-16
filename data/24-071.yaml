@@ -1,17 +1,14 @@
----
 id: '24071'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in
-    Wildland Fire Management Engineering Report'
+  content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in Wildland Fire Management Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in
-    Wildland Fire Management Engineering Report'
+  content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in Wildland Fire Management Engineering Report'
   type: main
 source:
 - type: src
@@ -63,21 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As part of OGC Disasters and Climate Resilience Pilot IV (D123 — AI Advances
-    of SDIs Report Section), this D-123 Generative AI in Wildland Fire (WF) Management
-    Engineering Report \r\nfocus was to assess the domain adaptation needed for Generative
-    AI to support advancements in the wildland fire community as informed by user
-    needs assessments as well as technical assessments of potential advances and efficiencies.\r\nThe
-    Wildland Fire community leverages data and advanced tools to enhance planning
-    and \r\noperational decision-making, aiming to supplement rather than replace
-    experiential knowledge \r\nand anecdotal evidence. GenAI, while early in its technical
-    evolution, with a human-in-the-loop approach, offers transformative potential
-    by enabling scalability in data processing beyond human capabilities.\r\nExploring
-    GenAI further, particularly in scenarios where significant efficiency gains are
-    feasible, \r\nis imperative. Integrating GenAI into wildfire management necessitates
-    a comprehensive strategy encompassing data, process, technical, and ethical considerations.
-    This report explores the needed input, tools, challenges, and recommendations
-    for next steps to implementing GenAI to support the Wildland Fire Management lifecycle."
+  content: "As part of OGC Disasters and Climate Resilience Pilot IV (D123 — AI Advances of SDIs Report Section), this D-123 Generative AI in Wildland Fire (WF) Management Engineering Report \r\nfocus was to assess the domain adaptation needed for Generative AI to support advancements in the wildland fire community as informed by user needs assessments as well as technical assessments of potential advances and efficiencies.\r\nThe Wildland Fire community leverages data and advanced tools to enhance planning and \r\noperational decision-making, aiming to supplement rather than replace experiential knowledge \r\nand anecdotal evidence. GenAI, while early in its technical evolution, with a human-in-the-loop approach, offers transformative potential by enabling scalability in data processing beyond human capabilities.\r\nExploring GenAI further, particularly in scenarios where significant efficiency gains are feasible, \r\nis imperative. Integrating GenAI into wildfire management necessitates a comprehensive strategy encompassing data, process, technical, and ethical considerations. This report explores the needed input, tools, challenges, and recommendations for next steps to implementing GenAI to support the Wildland Fire Management lifecycle."
 ext:
   schema_version: v1.1.2
   doctype:

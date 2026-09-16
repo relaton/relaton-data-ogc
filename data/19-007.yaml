@@ -1,4 +1,3 @@
----
 id: '19007'
 schema_version: v1.5.6
 type: standard
@@ -55,17 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report (ER) documents the results of the CDB Vector
-    Data in GeoPackage Interoperability Experiment (IE). The participants in this
-    IE tested transforming CDB Shapefile vector data into one or more GeoPackage(s)
-    and storing the result in a CDB data store. GeoPackage Version 1.2 and CDB Version
-    1.1 and related Best Practices were the standards baseline used for this experiment.
-    The IE builds on the work described in the OGC CDB, Leveraging GeoPackage Discussion
-    Paper.\r\n\r\nA primary objective of this IE was to agree and document possible
-    change requests and/or best practices for storing vector data in a CDB data using
-    encodings and/or containers other than Shapefiles. These suggested changes requests
-    and/or best/practices will be used as the basis for CDB Standards Working Group
-    (SWG) discussions related to possible revisions to the CDB standard."
+  content: "This OGC Engineering Report (ER) documents the results of the CDB Vector Data in GeoPackage Interoperability Experiment (IE). The participants in this IE tested transforming CDB Shapefile vector data into one or more GeoPackage(s) and storing the result in a CDB data store. GeoPackage Version 1.2 and CDB Version 1.1 and related Best Practices were the standards baseline used for this experiment. The IE builds on the work described in the OGC CDB, Leveraging GeoPackage Discussion Paper.\r\n\r\nA primary objective of this IE was to agree and document possible change requests and/or best practices for storing vector data in a CDB data using encodings and/or containers other than Shapefiles. These suggested changes requests and/or best/practices will be used as the basis for CDB Standards Working Group (SWG) discussions related to possible revisions to the CDB standard."
 ext:
   schema_version: v1.1.2
   doctype:

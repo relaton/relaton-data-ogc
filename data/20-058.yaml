@@ -1,4 +1,3 @@
----
 id: '20058'
 schema_version: v1.5.6
 type: standard
@@ -69,17 +68,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC API — Maps — Part 1: Core Standard defines a Web API for requesting
-    maps over the Web. A map is a portrayal of geographic information as a digital
-    representation suitable for display on a rendering device (adapted from OGC 06-042/ISO
-    19128 OpenGIS® Web Map Server (WMS) Implementation Specification). Implementations
-    of the OGC API — Maps Standard are designed for a client to easily:\r\n\r\nRequest
-    a visual representation of one or more geospatial data layers in different styles;\r\nSelect
-    by area, time and resolution of interest;\r\nChange parameters such as the background
-    color and coordinate reference systems.\r\nA server that implements OGC API — Maps
-    provides information about what maps are offered. OGC API — Maps addresses use
-    cases similar to those addressed by the OGC 06-042/ISO 19128 OpenGIS® Web Map
-    Server (WMS) Implementation Specification Standard."
+  content: "The OGC API — Maps — Part 1: Core Standard defines a Web API for requesting maps over the Web. A map is a portrayal of geographic information as a digital representation suitable for display on a rendering device (adapted from OGC 06-042/ISO 19128 OpenGIS® Web Map Server (WMS) Implementation Specification). Implementations of the OGC API — Maps Standard are designed for a client to easily:\r\n\r\nRequest a visual representation of one or more geospatial data layers in different styles;\r\nSelect by area, time and resolution of interest;\r\nChange parameters such as the background color and coordinate reference systems.\r\nA server that implements OGC API — Maps provides information about what maps are offered. OGC API — Maps addresses use cases similar to those addressed by the OGC 06-042/ISO 19128 OpenGIS® Web Map Server (WMS) Implementation Specification Standard."
 ext:
   schema_version: v1.1.2
   doctype:

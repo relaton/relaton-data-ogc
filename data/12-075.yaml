@@ -1,4 +1,3 @@
----
 id: '12075'
 schema_version: v1.5.6
 type: standard
@@ -67,13 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document describes the results of an OGC Interoperability Experiment
-    (IE) on the portrayal of 3D geospatial information. It contains technical details
-    on processing 3D information in an OGC service environment as well as best practices
-    on how to portray large data sets in urban planning scenarios, taking into account
-    architectures and capabilities of interactive 3D graphics. Especially Web 3D Service
-    and Web View Service, two draft standards (published as OGC discussions paper),
-    have been in the focus of 3DPIE. '
+  content: 'This document describes the results of an OGC Interoperability Experiment (IE) on the portrayal of 3D geospatial information. It contains technical details on processing 3D information in an OGC service environment as well as best practices on how to portray large data sets in urban planning scenarios, taking into account architectures and capabilities of interactive 3D graphics. Especially Web 3D Service and Web View Service, two draft standards (published as OGC discussions paper), have been in the focus of 3DPIE. '
 ext:
   schema_version: v1.1.2
   doctype:

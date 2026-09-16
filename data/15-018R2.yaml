@@ -1,4 +1,3 @@
----
 id: 15018r2
 schema_version: v1.5.6
 type: standard
@@ -61,16 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This standard defines an information model and XML encoding for exchanging
-    the\r\nfollowing three hydrological information resources:\r\n1. Conversion tables,
-    or conversion curves, that are used for the conversion of\r\nrelated hydrological
-    phenomenon.\r\n2. Gauging observations – the observations performed to develop
-    conversion table\r\nrelationships.\r\n3. Cross sections - survey observations
-    made of the geometric structure of features,\r\nsuch as river channels, storages
-    etc.\r\nMetadata and vocabularies are defined that together provide a means for
-    parties to\r\nexchange these concepts using common semantics.\r\nThis standard
-    is the second part of the WaterML2.0 suite of standards, building on part 1\r\nthat
-    addresses the exchange of time series.\r\n"
+  content: "This standard defines an information model and XML encoding for exchanging the\r\nfollowing three hydrological information resources:\r\n1. Conversion tables, or conversion curves, that are used for the conversion of\r\nrelated hydrological phenomenon.\r\n2. Gauging observations – the observations performed to develop conversion table\r\nrelationships.\r\n3. Cross sections - survey observations made of the geometric structure of features,\r\nsuch as river channels, storages etc.\r\nMetadata and vocabularies are defined that together provide a means for parties to\r\nexchange these concepts using common semantics.\r\nThis standard is the second part of the WaterML2.0 suite of standards, building on part 1\r\nthat addresses the exchange of time series.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 18058r1
 schema_version: v1.5.6
 type: standard
@@ -17,8 +16,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'OGC API - Features - Part 2: Coordinate Reference Systems by Reference
-    corrigendum'
+  content: 'OGC API - Features - Part 2: Coordinate Reference Systems by Reference corrigendum'
   type: main
 source:
 - type: src
@@ -72,13 +70,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "OGC API standards define modular API building blocks to spatially enable
-    Web APIs in a consistent way. The OpenAPI specification is used to define the
-    API building blocks.\r\n\r\nOGC API Features provides API building blocks to create,
-    modify and query features on the Web. OGC API Features is comprised of multiple
-    parts, each of them is a separate standard.\r\n\r\nThis part extends the core
-    capabilities specified in Part 1: Core with the ability to use coordinate reference
-    system identifiers other than the defaults defined in the core."
+  content: "OGC API standards define modular API building blocks to spatially enable Web APIs in a consistent way. The OpenAPI specification is used to define the API building blocks.\r\n\r\nOGC API Features provides API building blocks to create, modify and query features on the Web. OGC API Features is comprised of multiple parts, each of them is a separate standard.\r\n\r\nThis part extends the core capabilities specified in Part 1: Core with the ability to use coordinate reference system identifiers other than the defaults defined in the core."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '17061'
 schema_version: v1.5.6
 type: standard
@@ -55,14 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The Federal Geographic Data Committee (FGDC) Application Programming Interface
-    (API) assessment was conducted under the OGC Innovation Program with the goal
-    to develop an in-depth understanding of all the components necessary to enable
-    increased coordination and effectiveness of APIs as applied to geospatial information.  FGDC
-    customers have been invited to share their experiences with the use of APIs. From
-    those descriptions, recommendations have been derived that help FGDC to better
-    understand how APIs are currently being generated and if using a more standardized
-    approach to APIs might enable a more robust and optimized service offering. '
+  content: 'The Federal Geographic Data Committee (FGDC) Application Programming Interface (API) assessment was conducted under the OGC Innovation Program with the goal to develop an in-depth understanding of all the components necessary to enable increased coordination and effectiveness of APIs as applied to geospatial information.  FGDC customers have been invited to share their experiences with the use of APIs. From those descriptions, recommendations have been derived that help FGDC to better understand how APIs are currently being generated and if using a more standardized approach to APIs might enable a more robust and optimized service offering. '
 ext:
   schema_version: v1.1.2
   doctype:

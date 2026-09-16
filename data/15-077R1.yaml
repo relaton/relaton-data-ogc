@@ -1,17 +1,14 @@
----
 id: 15077r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage
-    of SOAP Across OGC Web service interfaces'
+  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage of SOAP Across OGC Web service interfaces'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage
-    of SOAP Across OGC Web service interfaces'
+  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage of SOAP Across OGC Web service interfaces'
   type: main
 source:
 - type: src
@@ -59,22 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A number of OGC service interface standards define SOAP bindings. Despite
-    the current hype around REST or RESTful interfaces, SOAP services are still used
-    intensively, in particular in security-critical environments. A number of OGC
-    Web service interfaces support SOAP bindings (see chapter 6). Unfortunately, those
-    bindings are not fully consistent across the suite of OGC service standards. Differences
-    can be found in terms of SOAP versions, used namespaces, error handling, capabilities
-    documentation, or transport of non-XML data; i.e. aspects that should be harmonized
-    by a cross-standard working group. \r\nThis document seeks to provide an overview
-    of the current situation and guidance on future SOAP harmonization across all
-    OGC Web services. A number of change requests have been developed during the development
-    process for this document. Though this document provides recommendations in chapter
-    8, it is highly recommended to either form a new SOAP working group, or preferably
-    to assign the development of SOAP best practices to reduce the risk of missed
-    requirements and architecture arguments to the newly reformed OWS Common SWG.
-    The best practices could then be applied to all OGC service standards that offer
-    SOAP bindings.\r\n"
+  content: "A number of OGC service interface standards define SOAP bindings. Despite the current hype around REST or RESTful interfaces, SOAP services are still used intensively, in particular in security-critical environments. A number of OGC Web service interfaces support SOAP bindings (see chapter 6). Unfortunately, those bindings are not fully consistent across the suite of OGC service standards. Differences can be found in terms of SOAP versions, used namespaces, error handling, capabilities documentation, or transport of non-XML data; i.e. aspects that should be harmonized by a cross-standard working group. \r\nThis document seeks to provide an overview of the current situation and guidance on future SOAP harmonization across all OGC Web services. A number of change requests have been developed during the development process for this document. Though this document provides recommendations in chapter 8, it is highly recommended to either form a new SOAP working group, or preferably to assign the development of SOAP best practices to reduce the risk of missed requirements and architecture arguments to the newly reformed OWS Common SWG. The best practices could then be applied to all OGC service standards that offer SOAP bindings.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

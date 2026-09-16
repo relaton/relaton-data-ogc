@@ -1,17 +1,14 @@
----
 id: 18094r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple
-    Linked Data Application and Complex Analytic Applicat'
+  content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple Linked Data Application and Complex Analytic Applicat'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple
-    Linked Data Application and Complex Analytic Applicat'
+  content: 'OGC Testbed-14: Characterization of RDF Application Profiles for Simple Linked Data Application and Complex Analytic Applicat'
   type: main
 source:
 - type: src
@@ -59,23 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Engineering Report (ER) enhances the understanding of the concept
-    of application profiles (AP) for ontologies based on the Web Ontology Language
-    (OWL) and used by Linked Data (LD) applications. The concept of an Application
-    Profile for Unified Modeling Language (UML) and Extensible Markup Language (XML)
-    schemas, in particular Geographic Markup Language (GML) application profiles,
-    is pretty well-defined and understood within the communities of Open Geospatial
-    Consortium (OGC) and International Organization for Standardization (ISO). Moreover,
-    in the context of Linked Data and ontologies, the term is still ill-defined, as
-    ontologies are defined using an Open World Assumption (OWA), as well as classes
-    and properties are first-class modeling objects in ontology modeling. The work
-    documented in this report includes:\r\n\r\nDefinition and characterization of
-    Resource Description Framework (RDF) application profiles for simple linked data
-    applications and complex analytic linked data applications.\r\n\r\nDetermination
-    of preliminary techniques for the development of subsets of ontologies to support
-    different types of applications (simple linked data and complex analytic)\r\n\r\nAn
-    initial model for defining metadata about application profiles, so they can be
-    searched and discovered by agents."
+  content: "This Engineering Report (ER) enhances the understanding of the concept of application profiles (AP) for ontologies based on the Web Ontology Language (OWL) and used by Linked Data (LD) applications. The concept of an Application Profile for Unified Modeling Language (UML) and Extensible Markup Language (XML) schemas, in particular Geographic Markup Language (GML) application profiles, is pretty well-defined and understood within the communities of Open Geospatial Consortium (OGC) and International Organization for Standardization (ISO). Moreover, in the context of Linked Data and ontologies, the term is still ill-defined, as ontologies are defined using an Open World Assumption (OWA), as well as classes and properties are first-class modeling objects in ontology modeling. The work documented in this report includes:\r\n\r\nDefinition and characterization of Resource Description Framework (RDF) application profiles for simple linked data applications and complex analytic linked data applications.\r\n\r\nDetermination of preliminary techniques for the development of subsets of ontologies to support different types of applications (simple linked data and complex analytic)\r\n\r\nAn initial model for defining metadata about application profiles, so they can be searched and discovered by agents."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '09044r3'
 schema_version: v1.5.6
 type: standard
@@ -61,14 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "BI is an umbrella term for a major component of IT infrastructure. It
-    encompasses Data\r\nWarehouses, Business Analytics, Dashboards and Scorecards.
-    This IT infrastructure is associated\r\nwith C-level decision-making in an organization.
-    These decision-making tools have typically\r\nincluded location as a dumb attribute
-    (coded sales zones as opposed to sales zones as geographic\r\nboundaries). At
-    this point in the BI lifecycle, customers are looking to derive additional business\r\nbenefit
-    / return on investment from intelligent location data; data discovery and unstructured
-    data."
+  content: "BI is an umbrella term for a major component of IT infrastructure. It encompasses Data\r\nWarehouses, Business Analytics, Dashboards and Scorecards. This IT infrastructure is associated\r\nwith C-level decision-making in an organization. These decision-making tools have typically\r\nincluded location as a dumb attribute (coded sales zones as opposed to sales zones as geographic\r\nboundaries). At this point in the BI lifecycle, customers are looking to derive additional business\r\nbenefit / return on investment from intelligent location data; data discovery and unstructured data."
 ext:
   schema_version: v1.1.2
   doctype:

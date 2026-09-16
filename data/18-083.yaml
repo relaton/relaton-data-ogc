@@ -1,4 +1,3 @@
----
 id: '18083'
 schema_version: v1.5.6
 type: standard
@@ -55,16 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The tiling of feature data is an approach that can be used to optimize
-    the delivery vector feature data over the web to create maps. The approach provides
-    a pre-defined shape (i.e. tile) to package vector data. Tiling of vector data
-    enables faster map loads (due to reduced size) and offer flexible styling on the
-    client side with modern, easy-to-use tools.\r\n\r\nThis Engineering Report (ER)
-    describes the work done by participants during the Vector Tiles Pilot (VTP) to
-    add Mapbox and GeoJSON vector tile support to Web Map Tile Servers. A summary
-    of other work done in the VTP is presented in the VTP Summary Engineering Report
-    [1].\r\n\r\nNOTE\r\nThis engineering report interchangeably uses both 'tiled feature
-    data' and the colloquial term 'vector tiles'."
+  content: "The tiling of feature data is an approach that can be used to optimize the delivery vector feature data over the web to create maps. The approach provides a pre-defined shape (i.e. tile) to package vector data. Tiling of vector data enables faster map loads (due to reduced size) and offer flexible styling on the client side with modern, easy-to-use tools.\r\n\r\nThis Engineering Report (ER) describes the work done by participants during the Vector Tiles Pilot (VTP) to add Mapbox and GeoJSON vector tile support to Web Map Tile Servers. A summary of other work done in the VTP is presented in the VTP Summary Engineering Report [1].\r\n\r\nNOTE\r\nThis engineering report interchangeably uses both 'tiled feature data' and the colloquial term 'vector tiles'."
 ext:
   schema_version: v1.1.2
   doctype:

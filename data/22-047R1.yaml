@@ -1,4 +1,3 @@
----
 id: 22047r1
 schema_version: v1.5.6
 type: standard
@@ -61,16 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "GeoSPARQL contains a small spatial domain OWL ontology that allow literal
-    representations of geometries to be associated with spatial features and for features
-    to be associated with other features using spatial relations.\r\n\r\nGeoSPARQL
-    also contains SPARQL extension function definitions that can be used to calculate
-    relations between spatial objects.\r\n\r\nSeveral other supporting assets are
-    also contained within GeoSPARQL such as vocabularies of Simple Feature types and
-    data validators.\r\n\r\nThe namespace for the GeoSPARQL ontology is http://www.opengis.net/ont/geosparql#\r\n\r\nThe
-    suggested prefix for this namespace is geo\r\n\r\nThe namespace for the GeoSPARQL
-    functions is http://www.opengis.net/def/function/geosparql/\r\n\r\nThe suggested
-    prefix for this namespace is geof\r\n\r\n\r\n"
+  content: "GeoSPARQL contains a small spatial domain OWL ontology that allow literal representations of geometries to be associated with spatial features and for features to be associated with other features using spatial relations.\r\n\r\nGeoSPARQL also contains SPARQL extension function definitions that can be used to calculate relations between spatial objects.\r\n\r\nSeveral other supporting assets are also contained within GeoSPARQL such as vocabularies of Simple Feature types and data validators.\r\n\r\nThe namespace for the GeoSPARQL ontology is http://www.opengis.net/ont/geosparql#\r\n\r\nThe suggested prefix for this namespace is geo\r\n\r\nThe namespace for the GeoSPARQL functions is http://www.opengis.net/def/function/geosparql/\r\n\r\nThe suggested prefix for this namespace is geof\r\n\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,17 +1,14 @@
----
 id: 10189r2
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Cataloguing Earth Observation Products for ebXML Registry Information Model
-    3.0 based Catalogues
+  content: Cataloguing Earth Observation Products for ebXML Registry Information Model 3.0 based Catalogues
   type: title-main
 - language: en
   script: Latn
-  content: Cataloguing Earth Observation Products for ebXML Registry Information Model
-    3.0 based Catalogues
+  content: Cataloguing Earth Observation Products for ebXML Registry Information Model 3.0 based Catalogues
   type: main
 source:
 - type: src
@@ -59,15 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® document specifies the Earth Observation Products Extension
-    Package for ebXML Registry Information Model 3.0, based on the [OGC 10-157r1]
-    Earth Observation Metadata profile of Observations and Measurements.\r\nIt enables
-    CSW-ebRIM catalogues to handle a variety of metadata pertaining to earth observation
-    p/roducts as defined in [OGC 10-157r1].\r\nThis proposed application profile document
-    describes model and encodings required to discover, search and present metadata
-    from catalogues of Earth Observation products. The profile presents a minimum
-    specification for catalogue interoperability within the EO domain, with extensions
-    for specific classes of metadata.\r\n"
+  content: "This OGC® document specifies the Earth Observation Products Extension Package for ebXML Registry Information Model 3.0, based on the [OGC 10-157r1] Earth Observation Metadata profile of Observations and Measurements.\r\nIt enables CSW-ebRIM catalogues to handle a variety of metadata pertaining to earth observation p/roducts as defined in [OGC 10-157r1].\r\nThis proposed application profile document describes model and encodings required to discover, search and present metadata from catalogues of Earth Observation products. The profile presents a minimum specification for catalogue interoperability within the EO domain, with extensions for specific classes of metadata.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 19041r3
 schema_version: v1.5.6
 type: standard
@@ -69,15 +68,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The goal of this OGC Routing Pilot Engineering Report (ER) is to document
-    the proof of concept of an Application Programming Interface (API) conforming
-    to a profile of the draft OGC API - Processes specification that allows implementation
-    of vector routing across one or more routing engines. The components implemented
-    in the OGC Open Routing API Pilot 2019 included two clients, interfacing with
-    three implementations of the draft OGC API - Processes specification that in turn
-    communicated with three routing engines. This work resulted in the definition
-    of a proposed common interface and data exchange model supported by all components
-    for requesting, generating and returning routes.
+  content: The goal of this OGC Routing Pilot Engineering Report (ER) is to document the proof of concept of an Application Programming Interface (API) conforming to a profile of the draft OGC API - Processes specification that allows implementation of vector routing across one or more routing engines. The components implemented in the OGC Open Routing API Pilot 2019 included two clients, interfacing with three implementations of the draft OGC API - Processes specification that in turn communicated with three routing engines. This work resulted in the definition of a proposed common interface and data exchange model supported by all components for requesting, generating and returning routes.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '25045'
 schema_version: v1.5.6
 type: standard
@@ -55,16 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Hydrologic geospatial data are built through integrated analysis of a
-    wide variety of geospatial datasets. The resulting datasets contain multi-scale
-    networked features with numerous internal and external linkages to form what has
-    come to be known as a “hydrofabric.” The “hydrofabric data model” (introduced
-    and discussed here) defines logic for encoding hydrographic features, the cross-scale
-    networked relationships between them, and a minimal but sufficient approach to
-    external dataset linkages. With the contents of this report as context, the OGC
-    Hydrology Domain Working Group could consider initiating a Standard Working Group
-    activity to establish a logical and physical data model for concepts defined in
-    WaterML 2: Part 3 — Surface Hydrology Features (HY_Features) — Conceptual Model.'
+  content: 'Hydrologic geospatial data are built through integrated analysis of a wide variety of geospatial datasets. The resulting datasets contain multi-scale networked features with numerous internal and external linkages to form what has come to be known as a “hydrofabric.” The “hydrofabric data model” (introduced and discussed here) defines logic for encoding hydrographic features, the cross-scale networked relationships between them, and a minimal but sufficient approach to external dataset linkages. With the contents of this report as context, the OGC Hydrology Domain Working Group could consider initiating a Standard Working Group activity to establish a logical and physical data model for concepts defined in WaterML 2: Part 3 — Surface Hydrology Features (HY_Features) — Conceptual Model.'
 ext:
   schema_version: v1.1.2
   doctype:

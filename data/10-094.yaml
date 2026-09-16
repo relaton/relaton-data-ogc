@@ -1,17 +1,14 @@
----
 id: '10094'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OWS-7: Summary of the  OGC Web Services, Phase 7 (OWS-7) Interoperability
-    Testbed'
+  content: 'OWS-7: Summary of the  OGC Web Services, Phase 7 (OWS-7) Interoperability Testbed'
   type: title-main
 - language: en
   script: Latn
-  content: 'OWS-7: Summary of the  OGC Web Services, Phase 7 (OWS-7) Interoperability
-    Testbed'
+  content: 'OWS-7: Summary of the  OGC Web Services, Phase 7 (OWS-7) Interoperability Testbed'
   type: main
 source:
 - type: html
@@ -55,9 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The OGC Web Services, Phase 7 (OWS-7) Testbed was an initiative of OGC’s
-    Interoperability Program to collaboratively extend and demonstrate OGC’s baseline
-    for geospatial interoperability.  '
+  content: 'The OGC Web Services, Phase 7 (OWS-7) Testbed was an initiative of OGC’s Interoperability Program to collaboratively extend and demonstrate OGC’s baseline for geospatial interoperability.  '
 ext:
   schema_version: v1.1.2
   doctype:

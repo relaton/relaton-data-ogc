@@ -1,4 +1,3 @@
----
 id: '21054'
 schema_version: v1.5.6
 type: standard
@@ -55,20 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Disaster Pilot JSON-LD Structured Data Engineering Report documents
-    the analysis, discussions, results, and recommendations that emerge from the efforts
-    carried out regarding the use of JSON-LD with OGC APIs to generate structured
-    web page data for search engine optimization of disaster related information.\r\n\r\nThis
-    ER provides the practical experience and lessons learned on the usage of Linked
-    Data within OGC APIs with the objective of enhancing the web search and finding
-    up-to-date conditions, observations, and predictions associated with well-known
-    local geography. Upcoming initiatives should use the findings documented in this
-    ER to further develop applications that make geospatial data and information more
-    easily findable, accessible, interoperable, and reusable, which will increase
-    the efficiency of disaster response. This ER could also be used as a case study
-    of Linked Data to help other industries understand its value and implement it
-    within their domains, or it could serve as a baseline for adding Linked Data support
-    to one or several OGC API standards."
+  content: "This Disaster Pilot JSON-LD Structured Data Engineering Report documents the analysis, discussions, results, and recommendations that emerge from the efforts carried out regarding the use of JSON-LD with OGC APIs to generate structured web page data for search engine optimization of disaster related information.\r\n\r\nThis ER provides the practical experience and lessons learned on the usage of Linked Data within OGC APIs with the objective of enhancing the web search and finding up-to-date conditions, observations, and predictions associated with well-known local geography. Upcoming initiatives should use the findings documented in this ER to further develop applications that make geospatial data and information more easily findable, accessible, interoperable, and reusable, which will increase the efficiency of disaster response. This ER could also be used as a case study of Linked Data to help other industries understand its value and implement it within their domains, or it could serve as a baseline for adding Linked Data support to one or several OGC API standards."
 ext:
   schema_version: v1.1.2
   doctype:

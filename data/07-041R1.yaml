@@ -1,4 +1,3 @@
----
 id: 07041r1
 schema_version: v1.5.6
 type: standard
@@ -67,10 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes the initial version of the WaterML messaging schema
-    as implemented in version 1 of WaterOneFlow web services. It also lays out strategies
-    for harmonizing WaterML with OGC specifications, the Observations and Measurement
-    specification in particular.
+  content: This document describes the initial version of the WaterML messaging schema as implemented in version 1 of WaterOneFlow web services. It also lays out strategies for harmonizing WaterML with OGC specifications, the Observations and Measurement specification in particular.
 ext:
   schema_version: v1.1.2
   doctype:

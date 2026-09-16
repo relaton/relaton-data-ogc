@@ -1,4 +1,3 @@
----
 id: 11122r1
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Gazetteer Service - Application Profile of the Web Feature Service Best
-    Practice
+  content: Gazetteer Service - Application Profile of the Web Feature Service Best Practice
   type: main
 source:
 - type: src
@@ -68,16 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document defines a Gazetteer Service profile of the OGC Web Feature
-    Service Standard. The OGC Gazetteer Service allows a client to search and retrieve
-    elements of a georeferenced vocabulary of well-known place-names.\r\nThis profile
-    extends the WFS interface in a way that a client is able to\r\n–\tDetermine if
-    a WFS implementation is acting as a Gazetteer Service. \r\n–\tQuery the Gazetteer
-    Service in order to retrieve place-name features without closer examination of
-    the feature type definitions\r\n–\tAccess metadata about the gazetteer(s) provided
-    by the service\r\n–\tUpdate place-name features using WFS transactions\r\n–\tFetch
-    place-name features that have Parent-Child relationships and then follow those
-    links\r\n"
+  content: "This document defines a Gazetteer Service profile of the OGC Web Feature Service Standard. The OGC Gazetteer Service allows a client to search and retrieve elements of a georeferenced vocabulary of well-known place-names.\r\nThis profile extends the WFS interface in a way that a client is able to\r\n–\tDetermine if a WFS implementation is acting as a Gazetteer Service. \r\n–\tQuery the Gazetteer Service in order to retrieve place-name features without closer examination of the feature type definitions\r\n–\tAccess metadata about the gazetteer(s) provided by the service\r\n–\tUpdate place-name features using WFS transactions\r\n–\tFetch place-name features that have Parent-Child relationships and then follow those links\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

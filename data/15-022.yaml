@@ -1,17 +1,14 @@
----
 id: '15022'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® Testbed 11 Engineering Report: Implementing Common Security Across
-    the OGC Suite of Service Standards'
+  content: 'OGC® Testbed 11 Engineering Report: Implementing Common Security Across the OGC Suite of Service Standards'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® Testbed 11 Engineering Report: Implementing Common Security Across
-    the OGC Suite of Service Standards'
+  content: 'OGC® Testbed 11 Engineering Report: Implementing Common Security Across the OGC Suite of Service Standards'
   type: main
 source:
 - type: src
@@ -57,9 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report (ER) focuses on describing Common Security
-    for all OGC\r\nWeb Service Standards. This work was performed as part of the OGC
-    Testbed 11\r\nactivity."
+  content: "This OGC Engineering Report (ER) focuses on describing Common Security for all OGC\r\nWeb Service Standards. This work was performed as part of the OGC Testbed 11\r\nactivity."
 ext:
   schema_version: v1.1.2
   doctype:

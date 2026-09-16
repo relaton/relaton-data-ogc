@@ -1,17 +1,14 @@
----
 id: '17078'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: Concepts of Data and Standards for Mass Migration Engineering
-    Report'
+  content: 'OGC Testbed-13: Concepts of Data and Standards for Mass Migration Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: Concepts of Data and Standards for Mass Migration Engineering
-    Report'
+  content: 'OGC Testbed-13: Concepts of Data and Standards for Mass Migration Engineering Report'
   type: main
 source:
 - type: src
@@ -57,16 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The objective of the Mass Migration Source Integration effort in OGC Testbed
-    13 was to understand and document how interoperability tools and practices, including
-    open geospatial and security standards, can enable information exchange on an
-    international level for humanitarian relief and analysis of mass movement of populations.\r\n\r\nThis
-    Engineering Report describes how Testbed 13 participants tested and demonstrated
-    situational awareness using Internet and web technologies in a shared information
-    exchange platform. The purpose of this platform was to help realize a Common Operational
-    Picture (COP) for coordinating humanitarian relief activities among nations and
-    organizations. In addition, the platform exercised security-enabled interoperable
-    exchange of messages.\r\n\r\n"
+  content: "The objective of the Mass Migration Source Integration effort in OGC Testbed 13 was to understand and document how interoperability tools and practices, including open geospatial and security standards, can enable information exchange on an international level for humanitarian relief and analysis of mass movement of populations.\r\n\r\nThis Engineering Report describes how Testbed 13 participants tested and demonstrated situational awareness using Internet and web technologies in a shared information exchange platform. The purpose of this platform was to help realize a Common Operational Picture (COP) for coordinating humanitarian relief activities among nations and organizations. In addition, the platform exercised security-enabled interoperable exchange of messages.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

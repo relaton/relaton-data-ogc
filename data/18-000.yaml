@@ -1,4 +1,3 @@
----
 id: '18000'
 schema_version: v1.5.6
 type: standard
@@ -55,18 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A GeoPackage [geopackage] is a platform-independent SQLite [sqlite] database
-    file that contains GeoPackage data and metadata tables. GeoPackages, as described
-    by the GeoPackage Encoding Standard [GPKG1_2] are designed to be extensible, including
-    support for additional data types. This document defines the Related Tables Extension
-    (RTE) for the GeoPackage Encoding Standard.\r\n\r\nThe RTE defines the rules and
-    requirements for creating relationships in a GeoPackage data store between geospatial
-    data tables and other tables that contain or reference related content such as
-    attributes or media. Geospatial data tables (such as features or tiles tables)
-    contain location information and/or geometries. There are many examples of where
-    the RTE can be used including relating parcel (land lot) features to pictures
-    of that parcel or linking census boundaries to the related demographic census
-    data."
+  content: "A GeoPackage [geopackage] is a platform-independent SQLite [sqlite] database file that contains GeoPackage data and metadata tables. GeoPackages, as described by the GeoPackage Encoding Standard [GPKG1_2] are designed to be extensible, including support for additional data types. This document defines the Related Tables Extension (RTE) for the GeoPackage Encoding Standard.\r\n\r\nThe RTE defines the rules and requirements for creating relationships in a GeoPackage data store between geospatial data tables and other tables that contain or reference related content such as attributes or media. Geospatial data tables (such as features or tiles tables) contain location information and/or geometries. There are many examples of where the RTE can be used including relating parcel (land lot) features to pictures of that parcel or linking census boundaries to the related demographic census data."
 ext:
   schema_version: v1.1.2
   doctype:

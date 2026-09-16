@@ -1,4 +1,3 @@
----
 id: 16083r3
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension
-    with Corrigendum
+  content: OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension with Corrigendum
   type: main
 source:
 - type: src
@@ -62,20 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC GML Application Schema - Coverages (“GMLCOV”) version 1.0 [OGC
-    09-146r2], recently renamed the OGC Coverage Implementation Schema version 1.0,
-    provides a ReferenceableGridCoverage element for representing coverages on a referenceable
-    grid.  However, GMLCOV provides no instantiable subtypes of a critical sub-element
-    of ReferenceableGridCoverage, GMLCOV::AbstractReferenceableGrid.  To make use
-    of ReferenceableGridCoverage, an extension deriving from GMLCOV would need to
-    be developed.  GML 3.3 is not such an extension of GMLCOV, as it is built independently
-    from GMLCOV.  Use of the instantiable referenceable grid elements of GML 3.3 with
-    ReferenceableGridCoverage violates Requirement 14 of GMLCOV 1.0 and Requirement
-    24 of the OGC Modular Specification[1].\r\n\r\nThis OGC Coverage Implementation
-    Schema - ReferenceableGridCoverage Extension provides a set of referenceable grid
-    elements for use as sub-elements of ReferenceableGridCoverage.  Three of these
-    elements have been adapted from GML 3.3, while a fourth emerged from work on a
-    Testbed-11 Engineering Report[2]."
+  content: "The OGC GML Application Schema - Coverages (“GMLCOV”) version 1.0 [OGC 09-146r2], recently renamed the OGC Coverage Implementation Schema version 1.0, provides a ReferenceableGridCoverage element for representing coverages on a referenceable grid.  However, GMLCOV provides no instantiable subtypes of a critical sub-element of ReferenceableGridCoverage, GMLCOV::AbstractReferenceableGrid.  To make use of ReferenceableGridCoverage, an extension deriving from GMLCOV would need to be developed.  GML 3.3 is not such an extension of GMLCOV, as it is built independently from GMLCOV.  Use of the instantiable referenceable grid elements of GML 3.3 with ReferenceableGridCoverage violates Requirement 14 of GMLCOV 1.0 and Requirement 24 of the OGC Modular Specification[1].\r\n\r\nThis OGC Coverage Implementation Schema - ReferenceableGridCoverage Extension provides a set of referenceable grid elements for use as sub-elements of ReferenceableGridCoverage.  Three of these elements have been adapted from GML 3.3, while a fourth emerged from work on a Testbed-11 Engineering Report[2]."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 23022r1
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Establishing the Framework of Disaster Early Warning Mechanisms - A Case
-    Study of Slope Disaster
+  content: Establishing the Framework of Disaster Early Warning Mechanisms - A Case Study of Slope Disaster
   type: main
 source:
 - type: src
@@ -86,27 +84,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The impact of global climate change has led to a rise in the frequency
-    of natural\r\ndisasters in numerous countries resulting in substantial losses
-    in terms of both human lives and the global economy. The establishment of a robust
-    disaster early-warning mechanism is recommended that will empower communities
-    to proactively engage in disaster reduction and prevention measures before such
-    calamities occur, thereby effectively reducing losses.\r\nThe Common Alerting
-    Protocol (CAP) is an internationally recognized digital\r\nmessage format and
-    protocol for all types of alarms and early warning notifications. It was officially
-    adopted by The Federal Emergency Management Agency (FEMA) in 2010 for its Integrated
-    Public Alert and Warning System (IPAWS). It has also been successfully implemented
-    in Taiwan for many years. However, different countries may employ other color-coded
-    warning systems to indicate varying degrees of disaster severity. This disparity
-    in warning standards can cause public confusion during emergencies, leading to
-    increased costs in disaster management. This paper proposes a framework that utilizes
-    red and yellow warning lights for issuing alerts. Adopting a standardized approach
-    will mitigate confusion and enhance the efficiency of disaster response and management.\r\nThis
-    study proposes a framework that uses red and yellow warning mechanisms for\r\nissuing
-    alerts such as the disaster early warning for debris flows and large-scale\r\nlandslides
-    established by the Soil and Water Conservation Bureau (SWCB). This\r\ninvestigation
-    will explore the feasibility of standardizing yellow and red warning\r\npublishing
-    rules."
+  content: "The impact of global climate change has led to a rise in the frequency of natural\r\ndisasters in numerous countries resulting in substantial losses in terms of both human lives and the global economy. The establishment of a robust disaster early-warning mechanism is recommended that will empower communities to proactively engage in disaster reduction and prevention measures before such calamities occur, thereby effectively reducing losses.\r\nThe Common Alerting Protocol (CAP) is an internationally recognized digital\r\nmessage format and protocol for all types of alarms and early warning notifications. It was officially adopted by The Federal Emergency Management Agency (FEMA) in 2010 for its Integrated Public Alert and Warning System (IPAWS). It has also been successfully implemented in Taiwan for many years. However, different countries may employ other color-coded warning systems to indicate varying degrees of disaster severity. This disparity in warning standards can cause public confusion during emergencies, leading to increased costs in disaster management. This paper proposes a framework that utilizes red and yellow warning lights for issuing alerts. Adopting a standardized approach will mitigate confusion and enhance the efficiency of disaster response and management.\r\nThis study proposes a framework that uses red and yellow warning mechanisms for\r\nissuing alerts such as the disaster early warning for debris flows and large-scale\r\nlandslides established by the Soil and Water Conservation Bureau (SWCB). This\r\ninvestigation will explore the feasibility of standardizing yellow and red warning\r\npublishing rules."
 ext:
   schema_version: v1.1.2
   doctype:

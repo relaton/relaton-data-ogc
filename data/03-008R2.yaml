@@ -1,4 +1,3 @@
----
 id: '03008r2'
 schema_version: v1.5.6
 type: standard
@@ -61,11 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Web Notification Service (WNS) is the first asynchronous messaging
-    service specified by OGC. At the moment, the WNS message schema is optimized to
-    fulfil the needs of services supporting the use of sensors, like Sensor Planning
-    Service. Future work activities should include the adaptation of the message schema
-    to the needs of other services.
+  content: The Web Notification Service (WNS) is the first asynchronous messaging service specified by OGC. At the moment, the WNS message schema is optimized to fulfil the needs of services supporting the use of sensors, like Sensor Planning Service. Future work activities should include the adaptation of the message schema to the needs of other services.
 ext:
   schema_version: v1.1.2
   doctype:

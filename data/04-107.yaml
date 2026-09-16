@@ -1,4 +1,3 @@
----
 id: '04107'
 schema_version: v1.5.6
 type: standard
@@ -57,11 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Replaced previous material in Topic 7 with ISO 19101-2, Reference Model
-    - Geographic Information -  Imagery.  Version 5 of OGC Topic 7 is identical with
-    ISO 19101-2 Working Draft #3.  Topic 7 will be updated jointly with the progress
-    of ISO 19191-2. Appendix A of Topic 7, version 4 contained a White Paper on Earth
-    Image Geometry Models. That white paper is now separate OGC Recommendation document. '
+  content: 'Replaced previous material in Topic 7 with ISO 19101-2, Reference Model - Geographic Information -  Imagery.  Version 5 of OGC Topic 7 is identical with ISO 19101-2 Working Draft #3.  Topic 7 will be updated jointly with the progress of ISO 19191-2. Appendix A of Topic 7, version 4 contained a White Paper on Earth Image Geometry Models. That white paper is now separate OGC Recommendation document. '
 ext:
   schema_version: v1.1.2
   doctype:

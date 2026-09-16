@@ -1,4 +1,3 @@
----
 id: '25043'
 schema_version: v1.5.6
 type: standard
@@ -67,21 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OSPD 2025 initiative addresses a long-standing challenge in the scientific
-    community: enabling computational workflows to be *reproduced, validated, and
-    reused* across different data and computing infrastructures.  \r\nIn many research
-    contexts, workflows remain tightly coupled to specific platforms, lack consistent
-    metadata, and are difficult to share or reproduce beyond their original execution
-    environment.\r\n\r\nOSPD responds to this challenge by demonstrating a standards-based
-    approach to workflow description and execution.  \r\nThrough the coordinated activities
-    of its four Work Packages, the initiative establishes common metadata schemas,
-    semantic models, and reusable specification components that together support transparent
-    and interoperable workflow execution.\r\n\r\nEach workflow documented within the
-    demonstrator contributes to a federated collection of reusable scientific methods,
-    aligned with FAIR data principles and grounded in the OGC Open Science Building
-    Blocks framework.  \r\nThe initiative combines technical development with multi-organization
-    collaboration, showing how common standards and open technologies can support
-    open science at scale.\r\n"
+  content: "The OSPD 2025 initiative addresses a long-standing challenge in the scientific community: enabling computational workflows to be *reproduced, validated, and reused* across different data and computing infrastructures.  \r\nIn many research contexts, workflows remain tightly coupled to specific platforms, lack consistent metadata, and are difficult to share or reproduce beyond their original execution environment.\r\n\r\nOSPD responds to this challenge by demonstrating a standards-based approach to workflow description and execution.  \r\nThrough the coordinated activities of its four Work Packages, the initiative establishes common metadata schemas, semantic models, and reusable specification components that together support transparent and interoperable workflow execution.\r\n\r\nEach workflow documented within the demonstrator contributes to a federated collection of reusable scientific methods, aligned with FAIR data principles and grounded in the OGC Open Science Building Blocks framework.  \r\nThe initiative combines technical development with multi-organization collaboration, showing how common standards and open technologies can support open science at scale.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

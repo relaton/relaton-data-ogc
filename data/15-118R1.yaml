@@ -1,17 +1,14 @@
----
 id: 15118r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Incident Management Information Sharing Profile Recommendations for OGC
-    Web Services Engineering Report
+  content: Incident Management Information Sharing Profile Recommendations for OGC Web Services Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: Incident Management Information Sharing Profile Recommendations for OGC
-    Web Services Engineering Report
+  content: Incident Management Information Sharing Profile Recommendations for OGC Web Services Engineering Report
   type: main
 source:
 - type: src
@@ -65,19 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Incident Management Information Sharing (IMIS) Internet of Things
-    (IoT) Pilot established the following objectives:\r\n\r\n•        Apply OGC principles
-    and practices for collaborative development to existing standards and technology
-    to prototype an IoT approach to sensor use for incident management;\r\n\r\n•        Employ
-    an agile methodology for collaborative development of system designs, specifications,
-    software and hardware components of an IoT-inspired IMIS sensor capability;\r\n\r\n•
-    \       Develop profiles and extensions of existing Sensor Web Enablement (SWE)
-    and other distributed computing standards to provide a basis for future IMIS sensor
-    and observation interoperability; and\r\n\r\n•        Prototype capabilities documented
-    in engineering reports and demonstrated in a realistic incident management scenario.\r\n\r\nBased
-    on the findings gathered during the implementation and work on these objectives,
-    this Engineering Report describes recommendations on profiles for OGC Web services
-    that shall be used to build IMIS systems."
+  content: "The Incident Management Information Sharing (IMIS) Internet of Things (IoT) Pilot established the following objectives:\r\n\r\n•        Apply OGC principles and practices for collaborative development to existing standards and technology to prototype an IoT approach to sensor use for incident management;\r\n\r\n•        Employ an agile methodology for collaborative development of system designs, specifications, software and hardware components of an IoT-inspired IMIS sensor capability;\r\n\r\n•        Develop profiles and extensions of existing Sensor Web Enablement (SWE) and other distributed computing standards to provide a basis for future IMIS sensor and observation interoperability; and\r\n\r\n•        Prototype capabilities documented in engineering reports and demonstrated in a realistic incident management scenario.\r\n\r\nBased on the findings gathered during the implementation and work on these objectives, this Engineering Report describes recommendations on profiles for OGC Web services that shall be used to build IMIS systems."
 ext:
   schema_version: v1.1.2
   doctype:

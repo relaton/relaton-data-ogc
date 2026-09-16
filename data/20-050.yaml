@@ -1,17 +1,14 @@
----
 id: '20050'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
-    (Normative, Optional Extension).'
+  content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage (Normative, Optional Extension).'
   type: title-main
 - language: en
   script: Latn
-  content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage
-    (Normative, Optional Extension).'
+  content: 'Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage (Normative, Optional Extension).'
   type: main
 source:
 - type: src
@@ -57,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This optional OGC CDB extension defines the requirements and provides CDB
-    specific guidance on using GeoPackage containers in a CDB data store. There is
-    a companion CDB Best Practice document that provide rules and guidance for transforming
-    CDB structured Shapefiles into CDB structure GeoPackages that are compliant with
-    the requirements and conformance classes as defined in this document.
+  content: This optional OGC CDB extension defines the requirements and provides CDB specific guidance on using GeoPackage containers in a CDB data store. There is a companion CDB Best Practice document that provide rules and guidance for transforming CDB structured Shapefiles into CDB structure GeoPackages that are compliant with the requirements and conformance classes as defined in this document.
 ext:
   schema_version: v1.1.2
   doctype:

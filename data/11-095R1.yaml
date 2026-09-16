@@ -1,17 +1,14 @@
----
 id: 11095r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering
-    Report
+  content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering
-    Report
+  content: OWS-8 WCS 2.0 Earth Observation Application Profile Compliance Tests Engineering Report
   type: main
 source:
 - type: src
@@ -65,8 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report describes and evaluates the specification of EO-WCS
-    ATS and the implementation of ETS for use within an OGC SOA processing chain.
+  content: This Engineering Report describes and evaluates the specification of EO-WCS ATS and the implementation of ETS for use within an OGC SOA processing chain.
 ext:
   schema_version: v1.1.2
   doctype:

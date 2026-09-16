@@ -1,17 +1,14 @@
----
 id: 16070r4
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
-    (Best Practice)'
+  content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles (Best Practice)'
   type: title-main
 - language: en
   script: Latn
-  content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles
-    (Best Practice)'
+  content: 'Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles (Best Practice)'
   type: main
 source:
 - type: src
@@ -59,9 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This CDB volume provides the information and guidance required to store
-    vector data and attributes using the Esri Shapefile specification in a CDB data
-    store. All shape types are supported to represent point, line, and polygon features.
+  content: This CDB volume provides the information and guidance required to store vector data and attributes using the Esri Shapefile specification in a CDB data store. All shape types are supported to represent point, line, and polygon features.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 19010r2
 schema_version: v1.5.6
 type: standard
@@ -57,32 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is a proof of concept of a draft specification of the OGC
-    Styles Application Programming Interface (API) that defines a Web API that enables
-    map servers and clients as well as visual style editors to manage and fetch styles.\r\n\r\nWeb
-    APIs are software interfaces that use an architectural style that is founded on
-    the technologies of the Web. Styles consist of symbolizing instructions that are
-    applied by a rendering engine on features and/or coverages.\r\n\r\nThe Styles
-    API supports several types of consumers, mainly:\r\n\r\nVisual style editors that
-    create, update and delete styles for datasets that are shared by other Web APIs
-    implementing the OGC API - Features - Part 1: Core standard or the draft OGC API
-    - Coverages or draft OGC API - Tiles specifications;\r\n\r\nWeb APIs implementing
-    the draft OGC API - Maps specification fetch styles and render spatial data (features
-    or coverages) on the server;\r\n\r\nMap clients that fetch styles and render spatial
-    data (features or coverages) on the client.\r\n\r\nFeature data is either accessed
-    directly or organized into spatial partitions such as a tiled data store (aka
-    vector tiles).\r\n\r\nThe Styles API is consistent with the emerging OGC API family
-    of standards.\r\n\r\nThe Styles API implements the conceptual model for style
-    encodings and style metadata as documented in chapter 6 of the OGC Testbed-15:
-    Encoding and Metadata Conceptual Model for Styles Engineering Report.\r\n\r\nThe
-    model defines three main concepts:\r\n\r\nThe style is the main resource.\r\n\r\nEach
-    style is available in one or more stylesheets - the representation of a style
-    in an encoding like OGC SLD 1.0 or Mapbox Style. Clients will use the stylesheet
-    of a style that fits best based on the capabilities of available tools and their
-    preferences.\r\n\r\nFor each style there is style metadata available, with general
-    descriptive information about the style, structural information (e.g., layers
-    and attributes), and so forth to allow users to discover and select existing styles
-    for their data."
+  content: "This document is a proof of concept of a draft specification of the OGC Styles Application Programming Interface (API) that defines a Web API that enables map servers and clients as well as visual style editors to manage and fetch styles.\r\n\r\nWeb APIs are software interfaces that use an architectural style that is founded on the technologies of the Web. Styles consist of symbolizing instructions that are applied by a rendering engine on features and/or coverages.\r\n\r\nThe Styles API supports several types of consumers, mainly:\r\n\r\nVisual style editors that create, update and delete styles for datasets that are shared by other Web APIs implementing the OGC API - Features - Part 1: Core standard or the draft OGC API - Coverages or draft OGC API - Tiles specifications;\r\n\r\nWeb APIs implementing the draft OGC API - Maps specification fetch styles and render spatial data (features or coverages) on the server;\r\n\r\nMap clients that fetch styles and render spatial data (features or coverages) on the client.\r\n\r\nFeature data is either accessed directly or organized into spatial partitions such as a tiled data store (aka vector tiles).\r\n\r\nThe Styles API is consistent with the emerging OGC API family of standards.\r\n\r\nThe Styles API implements the conceptual model for style encodings and style metadata as documented in chapter 6 of the OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering Report.\r\n\r\nThe model defines three main concepts:\r\n\r\nThe style is the main resource.\r\n\r\nEach style is available in one or more stylesheets - the representation of a style in an encoding like OGC SLD 1.0 or Mapbox Style. Clients will use the stylesheet of a style that fits best based on the capabilities of available tools and their preferences.\r\n\r\nFor each style there is style metadata available, with general descriptive information about the style, structural information (e.g., layers and attributes), and so forth to allow users to discover and select existing styles for their data."
 ext:
   schema_version: v1.1.2
   doctype:

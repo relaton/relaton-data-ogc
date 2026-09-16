@@ -1,4 +1,3 @@
----
 id: 22038r2
 schema_version: v1.5.6
 type: standard
@@ -57,17 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Currently, most OGC standards focus on data that is observed on the ground
-    or directly above planet Earth. Other standards, such as GeoSciML, provide a data
-    model and transfer standard for geological data. Other projects have considered
-    data models and exchange standards for the seas and oceans. Extra-terrestrial
-    space and the exact location of remote spaceborne sensors has been less in focus.
-    This OGC Testbed 18 Engineering Report (ER) starts with an evaluation of current
-    standards and then proposes changes or extensions to those standards in order
-    to describe objects in orbit around any celestial body or in free flight in our
-    solar system with respect to their location, trajectory, and orientation. Finally
-    standard-based mechanisms to transform a location within a reference frame to
-    a location within another reference frame are examined.
+  content: Currently, most OGC standards focus on data that is observed on the ground or directly above planet Earth. Other standards, such as GeoSciML, provide a data model and transfer standard for geological data. Other projects have considered data models and exchange standards for the seas and oceans. Extra-terrestrial space and the exact location of remote spaceborne sensors has been less in focus. This OGC Testbed 18 Engineering Report (ER) starts with an evaluation of current standards and then proposes changes or extensions to those standards in order to describe objects in orbit around any celestial body or in free flight in our solar system with respect to their location, trajectory, and orientation. Finally standard-based mechanisms to transform a location within a reference frame to a location within another reference frame are examined.
 ext:
   schema_version: v1.1.2
   doctype:

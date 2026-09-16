@@ -1,4 +1,3 @@
----
 id: '10132'
 schema_version: v1.5.6
 type: standard
@@ -57,11 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The document describes the results of using OGC Web Services for accessing
-    and using WXXM data, notably within aviation scenarios involving rerouting procedures
-    motivated by the sudden closure of airspace areas caused by the eruption of a
-    volcano. The focus of this document will be to evaluate the ability to encode
-    and serve associated operational data with WXXM 1.1.1.
+  content: The document describes the results of using OGC Web Services for accessing and using WXXM data, notably within aviation scenarios involving rerouting procedures motivated by the sudden closure of airspace areas caused by the eruption of a volcano. The focus of this document will be to evaluate the ability to encode and serve associated operational data with WXXM 1.1.1.
 ext:
   schema_version: v1.1.2
   doctype:

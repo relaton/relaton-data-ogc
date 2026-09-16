@@ -1,4 +1,3 @@
----
 id: '20027'
 schema_version: v1.5.6
 type: standard
@@ -55,14 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed 16 Engineering Report (ER) examines all aspects of security
-    and trust in federated computing environments as defined in the NIST Cloud Federation
-    Reference Architecture [1]. The security and trust requirements are identified.
-    Then possible approaches for achieving security and trust are examined. These
-    approaches range from traditional methods for securing just the basic communications
-    among federated entities to the use of emerging security technologies including
-    federated roots of trust, trust frameworks, blockchain, data-centric security,
-    and zero trust architectures.
+  content: This OGC Testbed 16 Engineering Report (ER) examines all aspects of security and trust in federated computing environments as defined in the NIST Cloud Federation Reference Architecture [1]. The security and trust requirements are identified. Then possible approaches for achieving security and trust are examined. These approaches range from traditional methods for securing just the basic communications among federated entities to the use of emerging security technologies including federated roots of trust, trust frameworks, blockchain, data-centric security, and zero trust architectures.
 ext:
   schema_version: v1.1.2
   doctype:

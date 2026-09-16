@@ -1,4 +1,3 @@
----
 id: 11135r2
 schema_version: v1.5.6
 type: standard
@@ -57,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document specifies a Name Type Specification (NTS) for predefined,
-    combined, and parameterized Coordinate Reference System (CRS) definitions. This
-    NTS augments the /def/ namespace with http URI definitions for CRSs. The NTS is
-    based on the Name Type Specification – definitions – part 1 – basic name [OGC
-    09-048r3] and supersedes OGC document “Definition identifier URNs in OGC name¬space”
-    [OGC 07-092r3].\r\nNTSs are maintained by the OGC Naming Authority (OGC-NA).\r\nThis
-    document includes one Annex: a user guide to the OGC CRS resolver.\r\n"
+  content: "This document specifies a Name Type Specification (NTS) for predefined, combined, and parameterized Coordinate Reference System (CRS) definitions. This NTS augments the /def/ namespace with http URI definitions for CRSs. The NTS is based on the Name Type Specification – definitions – part 1 – basic name [OGC 09-048r3] and supersedes OGC document “Definition identifier URNs in OGC name¬space” [OGC 07-092r3].\r\nNTSs are maintained by the OGC Naming Authority (OGC-NA).\r\nThis document includes one Annex: a user guide to the OGC CRS resolver.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:
