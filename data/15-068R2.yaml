@@ -1,3 +1,4 @@
+---
 id: 15068r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Mobile location based service applications and users have an increasing need for access to geospatial data from any place in the world, including locations with limited or intermittent connectivity to communications networks. Maintaining consistency between copies of the same data held by different mobile devices can be a significant challenge when connectivity is limited or intermittent. This OGC Engineering Report describes the work carried out in OGC Testbed-11  in relation to the creation and synchronization of SQLite databases that conform to the OGC GeoPackage standard . This Engineering Report describes an approach for the use of various standards to achieve such synchronization. The document also presents the results and lessons learnt from the experimentation conducted in the Testbed.
+  content: Mobile location based service applications and users have an increasing
+    need for access to geospatial data from any place in the world, including locations
+    with limited or intermittent connectivity to communications networks. Maintaining
+    consistency between copies of the same data held by different mobile devices can
+    be a significant challenge when connectivity is limited or intermittent. This
+    OGC Engineering Report describes the work carried out in OGC Testbed-11  in relation
+    to the creation and synchronization of SQLite databases that conform to the OGC
+    GeoPackage standard . This Engineering Report describes an approach for the use
+    of various standards to achieve such synchronization. The document also presents
+    the results and lessons learnt from the experimentation conducted in the Testbed.
 ext:
   schema_version: v1.1.2
   doctype:

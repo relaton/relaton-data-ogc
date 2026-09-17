@@ -1,3 +1,4 @@
+---
 id: 17089r1
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC Web Coverage Service (WCS) supports electronic retrieval of geospatial data as coverages. Coverages are digital geospatial information representing space/time-varying phenomena, specifically spatio-temporal regular and irregular grids, point clouds, and general meshes.\r\nThis document specifies the WCS core. Every implementation of a WCS shall adhere to this standard. This standard defines core requirements. Extensions to the core define extensions to meet additional requirements, such as the response encoding. Additional extensions are required in order to completely specify a WCS for implementation.\r\nThis WCS 2.1 standard extends WCS 2.0 in a backwards compatible manner by accommodating coverages as per the OGC Coverage Implementation Schema (CIS) 1.1 in addition to CIS 1.0 coverages as addressed by WCS 2.0.\r\n"
+  content: "The OGC Web Coverage Service (WCS) supports electronic retrieval of geospatial
+    data as coverages. Coverages are digital geospatial information representing space/time-varying
+    phenomena, specifically spatio-temporal regular and irregular grids, point clouds,
+    and general meshes.\r\nThis document specifies the WCS core. Every implementation
+    of a WCS shall adhere to this standard. This standard defines core requirements.
+    Extensions to the core define extensions to meet additional requirements, such
+    as the response encoding. Additional extensions are required in order to completely
+    specify a WCS for implementation.\r\nThis WCS 2.1 standard extends WCS 2.0 in
+    a backwards compatible manner by accommodating coverages as per the OGC Coverage
+    Implementation Schema (CIS) 1.1 in addition to CIS 1.0 coverages as addressed
+    by WCS 2.0.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

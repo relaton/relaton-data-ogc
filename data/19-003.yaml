@@ -1,3 +1,4 @@
+---
 id: '19003'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) will describe the advancement of an Execution Management System (EMS) to support Web Processing Service (WPS) climate processes deployed on the Earth System Grid Federation (ESGF). The report introduces climate data, processes and applications into Common Workflow Language (CWL) workflows with the intent of advancing: application packaging, deployment and execution in clouds; interoperability of services in federated cyberinfrastructures; and geospatial workflows towards standardization. Work presented in this report is a direct continuation of the Earth Observation & Clouds (EOC) thread of Testbed-14. This report is expected to be of relevance to Testbed-15, both to the Earth Observation Process and Application Discovery (EOPAD) task and the Machine Learning task. This engineering report will describe: relevant work conducted in OGC Testbed-14; ESGF and its compute challenge; adaptations of existing climate processes into workflows; interoperability experiments with ESGF endpoints conforming to a common API.'
+  content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) will describe
+    the advancement of an Execution Management System (EMS) to support Web Processing
+    Service (WPS) climate processes deployed on the Earth System Grid Federation (ESGF).
+    The report introduces climate data, processes and applications into Common Workflow
+    Language (CWL) workflows with the intent of advancing: application packaging,
+    deployment and execution in clouds; interoperability of services in federated
+    cyberinfrastructures; and geospatial workflows towards standardization. Work presented
+    in this report is a direct continuation of the Earth Observation & Clouds (EOC)
+    thread of Testbed-14. This report is expected to be of relevance to Testbed-15,
+    both to the Earth Observation Process and Application Discovery (EOPAD) task and
+    the Machine Learning task. This engineering report will describe: relevant work
+    conducted in OGC Testbed-14; ESGF and its compute challenge; adaptations of existing
+    climate processes into workflows; interoperability experiments with ESGF endpoints
+    conforming to a common API.'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 15024r2
 schema_version: v1.5.6
 type: standard
@@ -8,11 +9,13 @@ title:
   type: title-intro
 - language: en
   script: Latn
-  content: Guidance on Using Semantics of Business Vocabulary and Business Rules (SBVR) Engineering Report
+  content: Guidance on Using Semantics of Business Vocabulary and Business Rules (SBVR)
+    Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed 11 Aviation - Guidance on Using Semantics of Business Vocabulary and Business Rules (SBVR) Engineering Report
+  content: OGC® Testbed 11 Aviation - Guidance on Using Semantics of Business Vocabulary
+    and Business Rules (SBVR) Engineering Report
   type: main
 source:
 - type: src
@@ -60,7 +63,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a deliverable of the OGC Testbed 11 . It describes the results of developing a tool to automatically derive Schematron code from SBVR constraints. It also documents a vocabulary with a profile of core geospatial terms and concepts, which can be used to express geospatial constraints in business rules.
+  content: This document is a deliverable of the OGC Testbed 11 . It describes the
+    results of developing a tool to automatically derive Schematron code from SBVR
+    constraints. It also documents a vocabulary with a profile of core geospatial
+    terms and concepts, which can be used to express geospatial constraints in business
+    rules.
 ext:
   schema_version: v1.1.2
   doctype:

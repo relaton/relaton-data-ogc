@@ -1,3 +1,4 @@
+---
 id: '02019r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Coverage Portrayal Service (CPS) IPR proposes a standard interface for producing visual pictures from coverage data.
+  content: The Coverage Portrayal Service (CPS) IPR proposes a standard interface
+    for producing visual pictures from coverage data.
 ext:
   schema_version: v1.1.2
   doctype:

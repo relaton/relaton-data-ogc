@@ -1,3 +1,4 @@
+---
 id: 19090r1
 schema_version: v1.5.6
 type: standard
@@ -68,7 +69,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'In this paper, we present an experiment on linking geo-referenced images and videos with CityGML objects. Data models are proposed with XML schema from two viewpoints: one for linking features in 2D images or videos with 3D CityGML objects and the other for camera FoV (Field of View). In order to validate the proposed data models, we developed an authoring tool for building XML documents to link geo-referenced images and videos with CityGML objects and a web environment for processing queries based on the linking data.'
+  content: 'In this paper, we present an experiment on linking geo-referenced images
+    and videos with CityGML objects. Data models are proposed with XML schema from
+    two viewpoints: one for linking features in 2D images or videos with 3D CityGML
+    objects and the other for camera FoV (Field of View). In order to validate the
+    proposed data models, we developed an authoring tool for building XML documents
+    to link geo-referenced images and videos with CityGML objects and a web environment
+    for processing queries based on the linking data.'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '15028'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a deliverable of the OGC Testbed 11 Interoperability initiative. The report’s contents cover the summary of the interoperability work regarding the Aviation Data Broker concept. This data broker concept enables the setup of cascading OGC Web Feature Server (WFS) servers to form a data source chain, in which one service is capable of providing information coming from one or more other services. The objectives of this document are to research the feasibility of this concept and to investigate a number of specific Data Broker responsibilities and use cases, such as provenance and lineage, conflation, caching, scalability and flexible management of data sources.
+  content: This document is a deliverable of the OGC Testbed 11 Interoperability initiative.
+    The report’s contents cover the summary of the interoperability work regarding
+    the Aviation Data Broker concept. This data broker concept enables the setup of
+    cascading OGC Web Feature Server (WFS) servers to form a data source chain, in
+    which one service is capable of providing information coming from one or more
+    other services. The objectives of this document are to research the feasibility
+    of this concept and to investigate a number of specific Data Broker responsibilities
+    and use cases, such as provenance and lineage, conflation, caching, scalability
+    and flexible management of data sources.
 ext:
   schema_version: v1.1.2
   doctype:

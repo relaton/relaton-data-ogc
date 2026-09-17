@@ -1,3 +1,4 @@
+---
 id: 15010r4
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document presents an assessment of the conformance level, with respect to the WFS standard (OGC 09-025r2), of the web feature servers used in the OGC Testbed-11.  Each server is accessed to determine if it conforms to the minimum requirements of the WFS standard.  Each server is further accessed to determine whether the server offers additional, upcoming and complimentary capabilities just as support for the WFS REST API and GeoJSON.\r\nThis document offers recommendations to aid implementers of the WFS standard (OGC 09-025r2).\r\nThis document presents options available to WFS implementers for achieving interoperability between WFS clients and server at the schemas level.\r\nThis document includes a survey of available WFS clients and an assessment of their capabilities.\r\nThis document reviews tools and standards, such as the GeoSynchronization Service (OGC 10-069r3), that are complimentary components that may be used with a WFS to address requirements such as verification and notification, data and access security, exception handling and system hardening.\r\nFinally, this document includes a FAQ composed of questions raised during the OGC Testbed-11.\r\n"
+  content: "This document presents an assessment of the conformance level, with respect
+    to the WFS standard (OGC 09-025r2), of the web feature servers used in the OGC
+    Testbed-11.  Each server is accessed to determine if it conforms to the minimum
+    requirements of the WFS standard.  Each server is further accessed to determine
+    whether the server offers additional, upcoming and complimentary capabilities
+    just as support for the WFS REST API and GeoJSON.\r\nThis document offers recommendations
+    to aid implementers of the WFS standard (OGC 09-025r2).\r\nThis document presents
+    options available to WFS implementers for achieving interoperability between WFS
+    clients and server at the schemas level.\r\nThis document includes a survey of
+    available WFS clients and an assessment of their capabilities.\r\nThis document
+    reviews tools and standards, such as the GeoSynchronization Service (OGC 10-069r3),
+    that are complimentary components that may be used with a WFS to address requirements
+    such as verification and notification, data and access security, exception handling
+    and system hardening.\r\nFinally, this document includes a FAQ composed of questions
+    raised during the OGC Testbed-11.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

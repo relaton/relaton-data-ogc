@@ -1,3 +1,4 @@
+---
 id: 15012r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC discussion paper presents the results of the GeoPackage Plugfest. In this\r\ninitiative, participants had the opportunity to evaluate the compliance and interoperability\r\nof software that produces and consumes GeoPackages containing tiled raster data."
+  content: "This OGC discussion paper presents the results of the GeoPackage Plugfest.
+    In this\r\ninitiative, participants had the opportunity to evaluate the compliance
+    and interoperability\r\nof software that produces and consumes GeoPackages containing
+    tiled raster data."
 ext:
   schema_version: v1.1.2
   doctype:

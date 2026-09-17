@@ -1,3 +1,4 @@
+---
 id: 05007r4
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies the interface to a Web Processing Service (WPS). A WPS can be configured to offer any sort of GIS functionality to clients across a network, including access to pre-programmed calculations and/or computation models that operate on spatially referenced data. A WPS may offer calculations as simple as subtracting one set of spatially referenced numbers from another (e.g., determining the difference in influenza cases between two different seasons), or as complicated as a global climate change model. The data required by the WPS can be delivered across a network, or available at the server.
+  content: This document specifies the interface to a Web Processing Service (WPS).
+    A WPS can be configured to offer any sort of GIS functionality to clients across
+    a network, including access to pre-programmed calculations and/or computation
+    models that operate on spatially referenced data. A WPS may offer calculations
+    as simple as subtracting one set of spatially referenced numbers from another
+    (e.g., determining the difference in influenza cases between two different seasons),
+    or as complicated as a global climate change model. The data required by the WPS
+    can be delivered across a network, or available at the server.
 status:
   stage:
     content: draft

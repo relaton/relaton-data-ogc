@@ -1,3 +1,4 @@
+---
 id: '19015'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The emergence of Federated Cloud processing and ‘Big Data’ have raised many concerns over the use to which data is being put. This led to new requirements for methodologies, and capabilities which can address transparency and trust in data provenance in the Cloud. Distributed Ledger Technologies (DLTs) and more specifically blockchains, have been proposed as a possible platform to address provenance. This OGC Testbed 15 Engineering Report (ER) is a study of the application of DLTs for managing provenance information in Federated Clouds.
+  content: The emergence of Federated Cloud processing and ‘Big Data’ have raised
+    many concerns over the use to which data is being put. This led to new requirements
+    for methodologies, and capabilities which can address transparency and trust in
+    data provenance in the Cloud. Distributed Ledger Technologies (DLTs) and more
+    specifically blockchains, have been proposed as a possible platform to address
+    provenance. This OGC Testbed 15 Engineering Report (ER) is a study of the application
+    of DLTs for managing provenance information in Federated Clouds.
 ext:
   schema_version: v1.1.2
   doctype:

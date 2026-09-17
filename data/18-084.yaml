@@ -1,3 +1,4 @@
+---
 id: '18084'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Geospatial to the Edge Interoperability Plugfest, co-sponsored by the Army Geospatial Center and the National Geospatial-Intelligence Agency (NGA/CIO&T), brought together technology implementers and data providers to advance the interoperability of geospatial products and services based on profiles of OGC standards. Specifically, servers and data available via GeoPackage, Web Feature Service (WFS), Web Map Service (WMS), and Web Map Tile Service (WMTS), all following National System for Geospatial Intelligence (NSG) profiles, were exercised and improved in various clients. Compliance Tests were executed and advanced based on feedback from the participants.
+  content: The Geospatial to the Edge Interoperability Plugfest, co-sponsored by the
+    Army Geospatial Center and the National Geospatial-Intelligence Agency (NGA/CIO&T),
+    brought together technology implementers and data providers to advance the interoperability
+    of geospatial products and services based on profiles of OGC standards. Specifically,
+    servers and data available via GeoPackage, Web Feature Service (WFS), Web Map
+    Service (WMS), and Web Map Tile Service (WMTS), all following National System
+    for Geospatial Intelligence (NSG) profiles, were exercised and improved in various
+    clients. Compliance Tests were executed and advanced based on feedback from the
+    participants.
 ext:
   schema_version: v1.1.2
   doctype:

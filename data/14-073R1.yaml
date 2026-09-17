@@ -1,3 +1,4 @@
+---
 id: 14073r1
 schema_version: v1.5.6
 type: standard
@@ -74,7 +75,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® document describes the Aircraft Access to SWIM (AAtS) harmonization \r\narchitecture developed by a team funded by the FAA and led by the Open Geospatial \r\nConsortium (OGC). "
+  content: "This OGC® document describes the Aircraft Access to SWIM (AAtS) harmonization
+    \r\narchitecture developed by a team funded by the FAA and led by the Open Geospatial
+    \r\nConsortium (OGC). "
 ext:
   schema_version: v1.1.2
   doctype:

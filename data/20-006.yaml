@@ -1,3 +1,4 @@
+---
 id: '20006'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document provides the set of revision notes for the CDB Standard, version 1.2 [OGC <document number>]> and does not modify that standard.
+  content: This document provides the set of revision notes for the CDB Standard,
+    version 1.2 [OGC <document number>]> and does not modify that standard.
 ext:
   schema_version: v1.1.2
   doctype:

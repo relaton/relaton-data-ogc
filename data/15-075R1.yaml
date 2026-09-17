@@ -1,3 +1,4 @@
+---
 id: 15075r1
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: A Use-Case for Mobile Location Services with IndoorGML - Indoor Navigation for Visually Impaired People
+  content: A Use-Case for Mobile Location Services with IndoorGML - Indoor Navigation
+    for Visually Impaired People
   type: main
 source:
 - type: src
@@ -78,7 +80,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Discussion Paper provides a navigation use-case for the use of IndoorGML for mobile location services (MLS). In particular, the Discussion Paper explains how the OGC IndoorGML standard can be applied to a MLS application for visually impaired people in indoor space. Finally, a prototype development of the application on Android smart phone is described in this report.
+  content: This OGC Discussion Paper provides a navigation use-case for the use of
+    IndoorGML for mobile location services (MLS). In particular, the Discussion Paper
+    explains how the OGC IndoorGML standard can be applied to a MLS application for
+    visually impaired people in indoor space. Finally, a prototype development of
+    the application on Android smart phone is described in this report.
 ext:
   schema_version: v1.1.2
   doctype:

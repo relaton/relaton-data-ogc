@@ -1,3 +1,4 @@
+---
 id: 99105r2
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A feature object (in software) corresponds to a real world or abstract entity.
+  content: A feature object (in software) corresponds to a real world or abstract
+    entity.
 ext:
   schema_version: v1.1.2
   doctype:

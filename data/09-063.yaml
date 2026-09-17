@@ -1,3 +1,4 @@
+---
 id: '09063'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® document summarizes work completed in the GeoProcessing Workflow thread of the OWS-6 Testbed, it is applicable to the OGC Interoperability Program testbed.\r\n"
+  content: "This OGC® document summarizes work completed in the GeoProcessing Workflow
+    thread of the OWS-6 Testbed, it is applicable to the OGC Interoperability Program
+    testbed.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

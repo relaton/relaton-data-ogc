@@ -1,14 +1,17 @@
+---
 id: 11035r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: EO Product Collection, Service and Sensor Discovery using the CS-W ebRIM Catalogue
+  content: EO Product Collection, Service and Sensor Discovery using the CS-W ebRIM
+    Catalogue
   type: title-main
 - language: en
   script: Latn
-  content: EO Product Collection, Service and Sensor Discovery using the CS-W ebRIM Catalogue
+  content: EO Product Collection, Service and Sensor Discovery using the CS-W ebRIM
+    Catalogue
   type: main
 source:
 - type: src
@@ -62,7 +65,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This is an OGC Best Practice document describing the relations that exist between several metadata conceptual models (EO Product, EO Product Collections, Sensors and Services). The specification of the linking between different artifacts is important for the process of cataloguing and discovering those artifacts.
+  content: This is an OGC Best Practice document describing the relations that exist
+    between several metadata conceptual models (EO Product, EO Product Collections,
+    Sensors and Services). The specification of the linking between different artifacts
+    is important for the process of cataloguing and discovering those artifacts.
 ext:
   schema_version: v1.1.2
   doctype:

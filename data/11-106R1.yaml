@@ -1,3 +1,4 @@
+---
 id: 11106r1
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "AIXM is a GML Application Schema described in UML using the relevant ISO / OGC standards from the 19100 series. The Digital NOTAM Events Specification (DNES) is an extension of AIXM that can describe notices to airmen using the AIXM standard. \r\nThis document has been produced in conjunction with the Domain Modelling Cookbook - a practical guide to domain modelling following a series of best practices developed by the CSIRO and other OGC members.\r\nWhere possible, documentation of the refactor effort for Digital NOTAM to be compatible with these practices is incorporated into the domain modelling cookbook. "
+  content: "AIXM is a GML Application Schema described in UML using the relevant ISO
+    / OGC standards from the 19100 series. The Digital NOTAM Events Specification
+    (DNES) is an extension of AIXM that can describe notices to airmen using the AIXM
+    standard. \r\nThis document has been produced in conjunction with the Domain Modelling
+    Cookbook - a practical guide to domain modelling following a series of best practices
+    developed by the CSIRO and other OGC members.\r\nWhere possible, documentation
+    of the refactor effort for Digital NOTAM to be compatible with these practices
+    is incorporated into the domain modelling cookbook. "
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '11018'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Discussion Paper proposes model for license-based access control to SOAP services, based on OASIS SAML 2.0. This approach is a potential solution for license-based access control, which requires the possession of a valid license for getting access to a service. Use of digital licenses allow users to act on or with web services to which they are associated\r\n\r\nThis document re-uses content produced by the OGC GeoRM Common 1.0 Standards Working Group and combined that with the document OGC 10-125, which was posted to an internal OGC document archive (Pending Documents) but is not publicly available.\r\nThis document does not claim compliance to the GeoDRM reference model (ISO 19153), although the authors are not yet aware of any conflicts to it.\r\n"
+  content: "This Discussion Paper proposes model for license-based access control
+    to SOAP services, based on OASIS SAML 2.0. This approach is a potential solution
+    for license-based access control, which requires the possession of a valid license
+    for getting access to a service. Use of digital licenses allow users to act on
+    or with web services to which they are associated\r\n\r\nThis document re-uses
+    content produced by the OGC GeoRM Common 1.0 Standards Working Group and combined
+    that with the document OGC 10-125, which was posted to an internal OGC document
+    archive (Pending Documents) but is not publicly available.\r\nThis document does
+    not claim compliance to the GeoDRM reference model (ISO 19153), although the authors
+    are not yet aware of any conflicts to it.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

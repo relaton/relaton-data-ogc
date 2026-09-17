@@ -1,3 +1,4 @@
+---
 id: 15002r5
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Open Geospatial Consortium (OGC®) provides international standards that are implemented worldwide in thousands of applications that use location information. To reduce the risk of applications not implementing a standard correctly, the OGC provides a compliance process for testing and certifying implementations. OGC certification provides substantial evidence that an implementation that is claimed to have implemented an OGC standard will interoperate as specified and in the same manner as other compliant implementations, regardless of who developed them. This white paper provides guidance regarding language to specify requirements for OGC compliant and implementing products in software acquisition (procurement) documents.
+  content: The Open Geospatial Consortium (OGC®) provides international standards
+    that are implemented worldwide in thousands of applications that use location
+    information. To reduce the risk of applications not implementing a standard correctly,
+    the OGC provides a compliance process for testing and certifying implementations.
+    OGC certification provides substantial evidence that an implementation that is
+    claimed to have implemented an OGC standard will interoperate as specified and
+    in the same manner as other compliant implementations, regardless of who developed
+    them. This white paper provides guidance regarding language to specify requirements
+    for OGC compliant and implementing products in software acquisition (procurement)
+    documents.
 ext:
   schema_version: v1.1.2
   doctype:

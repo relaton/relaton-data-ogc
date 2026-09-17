@@ -1,3 +1,4 @@
+---
 id: '18056'
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This discussion paper offers descriptions and provides JSON examples of TaskingCapabilities and Tasks for the SensorThings Application Programming Interface (API).
+  content: This discussion paper offers descriptions and provides JSON examples of
+    TaskingCapabilities and Tasks for the SensorThings Application Programming Interface
+    (API).
 ext:
   schema_version: v1.1.2
   doctype:

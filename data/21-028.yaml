@@ -1,3 +1,4 @@
+---
 id: '21028'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC Testbed-17 Moving Features thread conducted an interoperability feasibility study that examined specific scenarios that could be supported by a Moving Features Application Programming Interface (API). The use cases considered tracking objects based on motion imagery, analytical processing and visualization. This Engineering Report presents a specification of a prototype Moving Features API, that could serve as the foundation for a future draft OGC API — Moving Features standard.\r\n\r\n"
+  content: "The OGC Testbed-17 Moving Features thread conducted an interoperability
+    feasibility study that examined specific scenarios that could be supported by
+    a Moving Features Application Programming Interface (API). The use cases considered
+    tracking objects based on motion imagery, analytical processing and visualization.
+    This Engineering Report presents a specification of a prototype Moving Features
+    API, that could serve as the foundation for a future draft OGC API — Moving Features
+    standard.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

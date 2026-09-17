@@ -1,3 +1,4 @@
+---
 id: 11088r1
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Discussion Paper provides information on what has so far been called “Event Service” at OGC.\r\nThe presented work is supported by the European Commission through the ESS project (integrated project, contract number 217951) and the GENESIS project (integrated project, contract number 223996) .\r\n"
+  content: "This Discussion Paper provides information on what has so far been called
+    “Event Service” at OGC.\r\nThe presented work is supported by the European Commission
+    through the ESS project (integrated project, contract number 217951) and the GENESIS
+    project (integrated project, contract number 223996) .\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

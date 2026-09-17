@@ -1,3 +1,4 @@
+---
 id: 04011r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A Geolinking Service takes attribute data which refers to spatial features, and joins it to a geospatial dataset, so that it can be mapped by a WMS or used in a GIS.  When a Geolinking Service uses data from a GDAS, and serves as a front end to a WMS, it enables real-time mapping of data stored in non-spatial databases.
+  content: A Geolinking Service takes attribute data which refers to spatial features,
+    and joins it to a geospatial dataset, so that it can be mapped by a WMS or used
+    in a GIS.  When a Geolinking Service uses data from a GDAS, and serves as a front
+    end to a WMS, it enables real-time mapping of data stored in non-spatial databases.
 ext:
   schema_version: v1.1.2
   doctype:

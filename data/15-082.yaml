@@ -1,3 +1,4 @@
+---
 id: '15082'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document describes a conceptual model, logical model, and GML/XML encoding rules for the exchange of groundwater data.  In addition, this document provides GML/XML encoding examples for guidance. '
+  content: 'This document describes a conceptual model, logical model, and GML/XML
+    encoding rules for the exchange of groundwater data.  In addition, this document
+    provides GML/XML encoding examples for guidance. '
 ext:
   schema_version: v1.1.2
   doctype:

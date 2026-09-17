@@ -1,3 +1,4 @@
+---
 id: 03064r10
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*THIS STANDARD HAS BEEN RETIRED*\r\n\r\nThe OpenGIS® Geographic Objects Interface Standard (GOS) provides an open set of common, lightweight, language-independent abstractions for describing, managing, rendering, and manipulating geometric and geographic objects within an application programming environment. It provides both an abstract object standard (in UML) and a programming-language-specific profile (in Java). The language-specific bindings serve as an open Application Program Interface (API)."
+  content: "*THIS STANDARD HAS BEEN RETIRED*\r\n\r\nThe OpenGIS® Geographic Objects
+    Interface Standard (GOS) provides an open set of common, lightweight, language-independent
+    abstractions for describing, managing, rendering, and manipulating geometric and
+    geographic objects within an application programming environment. It provides
+    both an abstract object standard (in UML) and a programming-language-specific
+    profile (in Java). The language-specific bindings serve as an open Application
+    Program Interface (API)."
 ext:
   schema_version: v1.1.2
   doctype:

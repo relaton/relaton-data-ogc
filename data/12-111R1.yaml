@@ -1,14 +1,17 @@
+---
 id: 12111r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent or Elevation-Dependent Data
+  content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent
+    or Elevation-Dependent Data
   type: title-main
 - language: en
   script: Latn
-  content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent or Elevation-Dependent Data
+  content: OGC Best Practice for using Web Map Services (WMS) with Time-Dependent
+    or Elevation-Dependent Data
   type: main
 source:
 - type: src
@@ -86,7 +89,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document proposes a set of best practices and guidelines for implementing and using the Open Geospatial Consortium (OGC) Web Map Service (WMS) to serve maps which are time-dependent or elevation-dependent. In particular, clarifications and restrictions on the use of WMS are defined to allow unambiguous and safe interoperability between clients and servers, in the context of expert meteorological and oceanographic usage and non-expert usage in other communities. This Best Practice document applies specifically to WMS version 1.3, but many of the concepts and recommendations will be applicable to other versions of WMS or to other OGC services, such as the Web Coverage Service.
+  content: This document proposes a set of best practices and guidelines for implementing
+    and using the Open Geospatial Consortium (OGC) Web Map Service (WMS) to serve
+    maps which are time-dependent or elevation-dependent. In particular, clarifications
+    and restrictions on the use of WMS are defined to allow unambiguous and safe interoperability
+    between clients and servers, in the context of expert meteorological and oceanographic
+    usage and non-expert usage in other communities. This Best Practice document applies
+    specifically to WMS version 1.3, but many of the concepts and recommendations
+    will be applicable to other versions of WMS or to other OGC services, such as
+    the Web Coverage Service.
 ext:
   schema_version: v1.1.2
   doctype:

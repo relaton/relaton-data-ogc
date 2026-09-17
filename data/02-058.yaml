@@ -1,3 +1,4 @@
+---
 id: '02058'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of the Web Feature Server Interface Specification (WFS) is to describe data manipulation operations on OpenGIS
+  content: The purpose of the Web Feature Server Interface Specification (WFS) is
+    to describe data manipulation operations on OpenGIS
 ext:
   schema_version: v1.1.2
   doctype:

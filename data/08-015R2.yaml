@@ -1,3 +1,4 @@
+---
 id: '08015r2'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is consistent with the second edition (2007) of ISO 19111, Geographic Information - Spatial referencing by coordinates  [ISO 19111:2007]
+  content: This document is consistent with the second edition (2007) of ISO 19111,
+    Geographic Information - Spatial referencing by coordinates  [ISO 19111:2007]
 ext:
   schema_version: v1.1.2
   doctype:

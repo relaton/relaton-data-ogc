@@ -1,3 +1,4 @@
+---
 id: 10100r2
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This approved OpenGIS® Implementation Standard defines a Simple Features profile of the Geography Markup Language version 3.2. This Simple Features Profile has been aligned with the OGC Simple Features standard for SQL version 1.2. Simple Features include: Point, Curve (LineString), Surface (Polygon), Geometry, MultiPoint, MultiCurve, MultiSurface, and MultiGeometry. The detailed abstract model for OGC features and geometry can be found in the OGC Abstract Specification, Topic Volume 1: Features (which is equivalent to ISO 19107).'
+  content: 'This approved OpenGIS® Implementation Standard defines a Simple Features
+    profile of the Geography Markup Language version 3.2. This Simple Features Profile
+    has been aligned with the OGC Simple Features standard for SQL version 1.2. Simple
+    Features include: Point, Curve (LineString), Surface (Polygon), Geometry, MultiPoint,
+    MultiCurve, MultiSurface, and MultiGeometry. The detailed abstract model for OGC
+    features and geometry can be found in the OGC Abstract Specification, Topic Volume
+    1: Features (which is equivalent to ISO 19107).'
 ext:
   schema_version: v1.1.2
   doctype:

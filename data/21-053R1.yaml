@@ -1,3 +1,4 @@
+---
 id: 21053r1
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document presents the conceptual and logical models for version 1.x of the OGC GeoPackage Standard. The intent is that these models can be used to implement the GeoPackage standard using technology other than a SQLite database.
+  content: This document presents the conceptual and logical models for version 1.x
+    of the OGC GeoPackage Standard. The intent is that these models can be used to
+    implement the GeoPackage standard using technology other than a SQLite database.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '12094'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This report describes the architecture, rules and tools developed within the OWS-9 Aviation Thread AIRM Derivation task. These rules and tools were demonstrated by transforming the AIRM Meteorology package into a Weather Exchange Model (WXXM) and GML/JSON implementation schema. '
+  content: 'This report describes the architecture, rules and tools developed within
+    the OWS-9 Aviation Thread AIRM Derivation task. These rules and tools were demonstrated
+    by transforming the AIRM Meteorology package into a Weather Exchange Model (WXXM)
+    and GML/JSON implementation schema. '
 ext:
   schema_version: v1.1.2
   doctype:

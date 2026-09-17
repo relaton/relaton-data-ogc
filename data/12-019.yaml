@@ -1,3 +1,4 @@
+---
 id: '12019'
 schema_version: v1.5.6
 type: standard
@@ -72,7 +73,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "CityGML is an open data model and XML-based format for the storage and exchange of virtual 3D city models. It is an application schema for the Geography Markup Language version 3.1.1 (GML3), the extendible international standard for spatial data exchange issued by the Open Geospatial Consortium (OGC) and the ISO TC211.\r\n\r\nThe aim of the development of CityGML is to reach a common definition of the basic entities, attributes, and relations of a 3D city model. This is especially important with respect to the cost-effective sustainable maintenance of 3D city models, allowing the reuse of the same data in different application fields. \r\n"
+  content: "CityGML is an open data model and XML-based format for the storage and
+    exchange of virtual 3D city models. It is an application schema for the Geography
+    Markup Language version 3.1.1 (GML3), the extendible international standard for
+    spatial data exchange issued by the Open Geospatial Consortium (OGC) and the ISO
+    TC211.\r\n\r\nThe aim of the development of CityGML is to reach a common definition
+    of the basic entities, attributes, and relations of a 3D city model. This is especially
+    important with respect to the cost-effective sustainable maintenance of 3D city
+    models, allowing the reuse of the same data in different application fields. \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

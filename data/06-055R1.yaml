@@ -1,3 +1,4 @@
+---
 id: 06055r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies a GML 3.2 Application Schema for image geopositioning metadata, which is also an Application Schema of ISO 19139. This geopositioning metadata schema is used by the separately specified Image Geopositioning Service (IGS) interface that adjusts the georeferencing coordinate transformations of images.
+  content: This document specifies a GML 3.2 Application Schema for image geopositioning
+    metadata, which is also an Application Schema of ISO 19139. This geopositioning
+    metadata schema is used by the separately specified Image Geopositioning Service
+    (IGS) interface that adjusts the georeferencing coordinate transformations of
+    images.
 ext:
   schema_version: v1.1.2
   doctype:

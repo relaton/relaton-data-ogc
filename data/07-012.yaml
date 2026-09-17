@@ -1,3 +1,4 @@
+---
 id: '07012'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: As a work item in the OWS4/Conformance and Interoperability Test and Evaluation (CITE) project, Northrop Grumman Information Technology (NGIT) provided an open source web services compliance engine.  NGIT refers to this engine as the Test Evaluation And Measurement (TEAM) Engine.  It executes scripts written in Compliance Test Language (CTL), a grammar also developed by NGIT.  This IPR describes TEAM Engine in detail and provides information on how it was used in OWS-4/CITE.
+  content: As a work item in the OWS4/Conformance and Interoperability Test and Evaluation
+    (CITE) project, Northrop Grumman Information Technology (NGIT) provided an open
+    source web services compliance engine.  NGIT refers to this engine as the Test
+    Evaluation And Measurement (TEAM) Engine.  It executes scripts written in Compliance
+    Test Language (CTL), a grammar also developed by NGIT.  This IPR describes TEAM
+    Engine in detail and provides information on how it was used in OWS-4/CITE.
 ext:
   schema_version: v1.1.2
   doctype:

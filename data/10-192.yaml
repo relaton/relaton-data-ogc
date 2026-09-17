@@ -1,3 +1,4 @@
+---
 id: '10192'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Results of the Auth IE are presented in this Engineering Report document and serve as guidance to both implementers and organizations deploying solutions that involve basic authentication. It is the belief of the Auth IE participants that if such a document is made available to the community more OGC implementing products will natively support authentication. '
+  content: 'Results of the Auth IE are presented in this Engineering Report document
+    and serve as guidance to both implementers and organizations deploying solutions
+    that involve basic authentication. It is the belief of the Auth IE participants
+    that if such a document is made available to the community more OGC implementing
+    products will natively support authentication. '
 ext:
   schema_version: v1.1.2
   doctype:

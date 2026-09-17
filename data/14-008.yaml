@@ -1,3 +1,4 @@
+---
 id: '14008'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). This document describes the\r\narchitecture that was implemented in the Testbed-10 Aviation thread. Additionally, it provides\r\ndescriptions of all software components involved in the Aviation architecture as well as a\r\ndedicated chapter focusing on the evaluation and design of FIXM 2.0. Here, a special focus lies\r\non the integration into the data provisioning components, namely the Web Feature and Event\r\nServices."
+  content: "This document is a deliverable of the OGC Testbed 10 (Testbed-10). This
+    document describes the\r\narchitecture that was implemented in the Testbed-10
+    Aviation thread. Additionally, it provides\r\ndescriptions of all software components
+    involved in the Aviation architecture as well as a\r\ndedicated chapter focusing
+    on the evaluation and design of FIXM 2.0. Here, a special focus lies\r\non the
+    integration into the data provisioning components, namely the Web Feature and
+    Event\r\nServices."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 14079r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The USGS Interoperability assessment was conducted under the OGC Interoperability\r\nProgram with the goal to better understand how USGS customers make use of OGC\r\ncompliant Web services operated by USGS. For this assessment, USGS customers have\r\nbeen invited to share their experiences and to describe their use cases and experiences\r\nmade with USGS data services and products. From those descriptions, recommendations\r\nhave been derived that help USGS to better understand their user community and\r\noptimize their service offerings."
+  content: "The USGS Interoperability assessment was conducted under the OGC Interoperability\r\nProgram
+    with the goal to better understand how USGS customers make use of OGC\r\ncompliant
+    Web services operated by USGS. For this assessment, USGS customers have\r\nbeen
+    invited to share their experiences and to describe their use cases and experiences\r\nmade
+    with USGS data services and products. From those descriptions, recommendations\r\nhave
+    been derived that help USGS to better understand their user community and\r\noptimize
+    their service offerings."
 ext:
   schema_version: v1.1.2
   doctype:

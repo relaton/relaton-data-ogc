@@ -1,3 +1,4 @@
+---
 id: '16022'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: One practical purpose of this ER will be to describe how a conflation tool such as the Hootenanny software can be used for conflation tasks using the Web Processing Service interface. The developed WPS REST (conflation) Service will be described in detail. Special focus will be laid on more complex conflation tasks that include user interaction. During earlier testbeds, we connected different conflation tools to the WPS and performed different conflation tasks (see [1] and [2]). The experiences gathered there together with the ones gathered in the Testbed 12 will be captured in the ER. As the WPS REST (Conflation) Service will be RESTful, this ER could be the basis for a REST binding extension for WPS 2.0. Service profiles are an important aspect of the WPS 2.0 standard. We will investigate how a WPS 2.0 Conflation Profile could look like in the hierarchical profiling approach of WPS 2.0.
+  content: One practical purpose of this ER will be to describe how a conflation tool
+    such as the Hootenanny software can be used for conflation tasks using the Web
+    Processing Service interface. The developed WPS REST (conflation) Service will
+    be described in detail. Special focus will be laid on more complex conflation
+    tasks that include user interaction. During earlier testbeds, we connected different
+    conflation tools to the WPS and performed different conflation tasks (see [1]
+    and [2]). The experiences gathered there together with the ones gathered in the
+    Testbed 12 will be captured in the ER. As the WPS REST (Conflation) Service will
+    be RESTful, this ER could be the basis for a REST binding extension for WPS 2.0.
+    Service profiles are an important aspect of the WPS 2.0 standard. We will investigate
+    how a WPS 2.0 Conflation Profile could look like in the hierarchical profiling
+    approach of WPS 2.0.
 ext:
   schema_version: v1.1.2
   doctype:

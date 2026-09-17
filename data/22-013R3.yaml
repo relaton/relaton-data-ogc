@@ -1,14 +1,17 @@
+---
 id: 22013r3
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Towards a Federated Marine SDI: IHO and OGC standards applied to Marine Protected Area Data Engineering Report'
+  content: 'Towards a Federated Marine SDI: IHO and OGC standards applied to Marine
+    Protected Area Data Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'Towards a Federated Marine SDI: IHO and OGC standards applied to Marine Protected Area Data Engineering Report'
+  content: 'Towards a Federated Marine SDI: IHO and OGC standards applied to Marine
+    Protected Area Data Engineering Report'
   type: main
 source:
 - type: src
@@ -68,7 +71,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Engineering Report (ER) summarizes the demonstrations, findings, and recommendations that emerged from the second phase of the OGC Federated Marine Spatial Data Infrastructure (FMSDI) Pilot. The goal of this initiative was to further advance the interoperability and usage of Marine Protected Area (MPA) data through the implementation of the IHO standard S-122 and several OGC API standards.\r\n\r\nThis ER describes a solution architecture consisting of a collection of interoperable components developed to demonstrate technologies that helped to achieve the objectives of this Pilot’s phase. This document describes a server built to serve MPA data through an OGC API – Features endpoint and two servers that combined MPA data with additional datasets and served it through both an OGC API – Features and an OGC API — EDR endpoint. This document also describes the three clients built to consume under different scenarios the data offered by the aforementioned servers. Finally, this ER captures lessons learned and recommendations for IHO and OGC API standards, and recommendations for future work."
+  content: "This Engineering Report (ER) summarizes the demonstrations, findings,
+    and recommendations that emerged from the second phase of the OGC Federated Marine
+    Spatial Data Infrastructure (FMSDI) Pilot. The goal of this initiative was to
+    further advance the interoperability and usage of Marine Protected Area (MPA)
+    data through the implementation of the IHO standard S-122 and several OGC API
+    standards.\r\n\r\nThis ER describes a solution architecture consisting of a collection
+    of interoperable components developed to demonstrate technologies that helped
+    to achieve the objectives of this Pilot’s phase. This document describes a server
+    built to serve MPA data through an OGC API – Features endpoint and two servers
+    that combined MPA data with additional datasets and served it through both an
+    OGC API – Features and an OGC API — EDR endpoint. This document also describes
+    the three clients built to consume under different scenarios the data offered
+    by the aforementioned servers. Finally, this ER captures lessons learned and recommendations
+    for IHO and OGC API standards, and recommendations for future work."
 ext:
   schema_version: v1.1.2
   doctype:

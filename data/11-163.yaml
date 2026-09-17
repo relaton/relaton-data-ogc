@@ -1,3 +1,4 @@
+---
 id: '11163'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Discussion Paperproposes a set of conventions for managing uncertainty information within the netCDF3 data model and format: the NetCDF Uncertainty Conventions (NetCDF-U).'
+  content: 'This Discussion Paperproposes a set of conventions for managing uncertainty
+    information within the netCDF3 data model and format: the NetCDF Uncertainty Conventions
+    (NetCDF-U).'
 ext:
   schema_version: v1.1.2
   doctype:

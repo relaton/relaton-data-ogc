@@ -1,3 +1,4 @@
+---
 id: 19012r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed 15 Engineering Report (ER) documents the design of a service architecture that allows the delivery of prioritized updates of features to a client, possibly acting in a DDIL (Denied, Degraded, Intermitted or Limited Bandwidth) environment. Two different technical scenarios were investigated and tested:\r\n\r\nThe enhancement of Web Feature Service (WFS) instances to support updates on features sets.\r\n\r\nUtilizing a Web Processing Service (WPS) instance to access features, without the need to modify the downstream data service."
+  content: "This OGC Testbed 15 Engineering Report (ER) documents the design of a
+    service architecture that allows the delivery of prioritized updates of features
+    to a client, possibly acting in a DDIL (Denied, Degraded, Intermitted or Limited
+    Bandwidth) environment. Two different technical scenarios were investigated and
+    tested:\r\n\r\nThe enhancement of Web Feature Service (WFS) instances to support
+    updates on features sets.\r\n\r\nUtilizing a Web Processing Service (WPS) instance
+    to access features, without the need to modify the downstream data service."
 ext:
   schema_version: v1.1.2
   doctype:

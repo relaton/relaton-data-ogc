@@ -1,3 +1,4 @@
+---
 id: '10171'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Discussion paper introduces the Sensor Instance Registry (SIR), a web service interface for managing the metadata and status information of sensors. Furthermore this service is capable of automatically harvesting sensor metadata, transforming the collected metadata sets into a data model compatible to OGC Catalogs and to push harvested metadata into OGC Catalog instances.
+  content: This Discussion paper introduces the Sensor Instance Registry (SIR), a
+    web service interface for managing the metadata and status information of sensors.
+    Furthermore this service is capable of automatically harvesting sensor metadata,
+    transforming the collected metadata sets into a data model compatible to OGC Catalogs
+    and to push harvested metadata into OGC Catalog instances.
 ext:
   schema_version: v1.1.2
   doctype:

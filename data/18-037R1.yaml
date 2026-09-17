@@ -1,3 +1,4 @@
+---
 id: 18037r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC discussion paper presents an approach to harmonize the OGC GeoPackage and OWS Context standards through a set of extensions. GeoPackage is an open, standards-based, platform-independent, portable, self-describing, compact format for storing and transferring geospatial data and information as part of an SQLite database. OWS Context is an open format linking geospatial web services and information. A draft standard has been produced and this Discussion Paper is designed to be a companion to that draft standard to assist in discussion. The draft standard contains extensions to both GeoPackage and OWS Context.\r\n\r\nThis document is the work of collaboration between the GeoPackage and OWS Context Standards Working Groups (SWGs)."
+  content: "This OGC discussion paper presents an approach to harmonize the OGC GeoPackage
+    and OWS Context standards through a set of extensions. GeoPackage is an open,
+    standards-based, platform-independent, portable, self-describing, compact format
+    for storing and transferring geospatial data and information as part of an SQLite
+    database. OWS Context is an open format linking geospatial web services and information.
+    A draft standard has been produced and this Discussion Paper is designed to be
+    a companion to that draft standard to assist in discussion. The draft standard
+    contains extensions to both GeoPackage and OWS Context.\r\n\r\nThis document is
+    the work of collaboration between the GeoPackage and OWS Context Standards Working
+    Groups (SWGs)."
 ext:
   schema_version: v1.1.2
   doctype:

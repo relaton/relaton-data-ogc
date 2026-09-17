@@ -1,3 +1,4 @@
+---
 id: 14111r6
 schema_version: v1.5.6
 type: standard
@@ -16,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'OGC® WaterML 2: Part 3 - Surface Hydrology Features (HY_Features) - Conceptual Model'
+  content: 'OGC® WaterML 2: Part 3 - Surface Hydrology Features (HY_Features) - Conceptual
+    Model'
   type: main
 source:
 - type: src
@@ -70,7 +72,24 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC Surface Hydrology Features (HY_Features) standard defines a common conceptual information model for identification of specific hydrologic features independent of their geometric representation and scale. The model describes types of surface hydrologic features by defining fundamental relationships among various components of the hydrosphere. This includes relationships such as hierarchies of catchments, segmentation of rivers and lakes, and the hydrologically determined topological connectivity of features such as catchments and waterbodies. The standard also defines normative requirements for HY_Features implementation schemas and mappings to meet in order to be conformant with the conceptual model.\r\n\r\nThe HY_Features model is based on an abstract catchment feature type that can have multiple alternate hydrology-specific realizations and geometric representations. It supports referencing information about a hydrologic feature across disparate information systems or products to help improve data integration within and among organizations. The model can be applied to cataloging of observations, model results, or other study information involving hydrologic features. The ability to represent the same catchment, river, or other hydrologic feature in several ways is critical for aggregation of cross-referenced or related features into integrated data sets and data products on global, regional, or basin scales."
+  content: "The OGC Surface Hydrology Features (HY_Features) standard defines a common
+    conceptual information model for identification of specific hydrologic features
+    independent of their geometric representation and scale. The model describes types
+    of surface hydrologic features by defining fundamental relationships among various
+    components of the hydrosphere. This includes relationships such as hierarchies
+    of catchments, segmentation of rivers and lakes, and the hydrologically determined
+    topological connectivity of features such as catchments and waterbodies. The standard
+    also defines normative requirements for HY_Features implementation schemas and
+    mappings to meet in order to be conformant with the conceptual model.\r\n\r\nThe
+    HY_Features model is based on an abstract catchment feature type that can have
+    multiple alternate hydrology-specific realizations and geometric representations.
+    It supports referencing information about a hydrologic feature across disparate
+    information systems or products to help improve data integration within and among
+    organizations. The model can be applied to cataloging of observations, model results,
+    or other study information involving hydrologic features. The ability to represent
+    the same catchment, river, or other hydrologic feature in several ways is critical
+    for aggregation of cross-referenced or related features into integrated data sets
+    and data products on global, regional, or basin scales."
 ext:
   schema_version: v1.1.2
   doctype:

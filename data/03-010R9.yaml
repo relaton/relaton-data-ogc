@@ -1,3 +1,4 @@
+---
 id: 03010r9
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OpenGIS Recommendation Paper specifies basic XML encoding of data defining coordinate reference systems and coordinate operations. This encoding is expected to be adapted and used by multiple OGC Implementation Specifications, by the separate specification of Application Schemas. This document is a Recommendation Paper because the specified encoding is more general than an OpenGIS Implementation Specification and more specific than the OpenGIS Abstract Specification.
+  content: This OpenGIS Recommendation Paper specifies basic XML encoding of data
+    defining coordinate reference systems and coordinate operations. This encoding
+    is expected to be adapted and used by multiple OGC Implementation Specifications,
+    by the separate specification of Application Schemas. This document is a Recommendation
+    Paper because the specified encoding is more general than an OpenGIS Implementation
+    Specification and more specific than the OpenGIS Abstract Specification.
 ext:
   schema_version: v1.1.2
   doctype:

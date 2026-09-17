@@ -1,3 +1,4 @@
+---
 id: '09072'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document summarizes the work done on the TEAM compliance test engine and DGIWG Profile compliance test by Northrop Grumman for the CITE thread of OWS-6 in 2008-2009.
+  content: This document summarizes the work done on the TEAM compliance test engine
+    and DGIWG Profile compliance test by Northrop Grumman for the CITE thread of OWS-6
+    in 2008-2009.
 ext:
   schema_version: v1.1.2
   doctype:

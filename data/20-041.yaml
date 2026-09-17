@@ -1,3 +1,4 @@
+---
 id: '20041'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Committee on Earth Observation Satellites (CEOS) defines Analysis Ready Data (ARD) for Land (CARD4L) as satellite data that have been processed to a minimum set of requirements and organized into a form that allows immediate analysis with a minimum of additional user effort and interoperability both through time and with other datasets.\r\n\r\nThis OGC Testbed 16 Engineering Report (ER) generalizes the ARD concept and studies its implications for the OGC Standards baseline. In particular, the ER analyses how modern federated data processing architectures applying data cubes and Docker packages can take advantage of the existence of ARD. Architectures for ARD should minimize data transmission and allow and favor code transmission and remote execution. This ER also considers a workflow in which new processes are triggered as soon as new data becomes available. This is part of the event driven discussion."
+  content: "The Committee on Earth Observation Satellites (CEOS) defines Analysis
+    Ready Data (ARD) for Land (CARD4L) as satellite data that have been processed
+    to a minimum set of requirements and organized into a form that allows immediate
+    analysis with a minimum of additional user effort and interoperability both through
+    time and with other datasets.\r\n\r\nThis OGC Testbed 16 Engineering Report (ER)
+    generalizes the ARD concept and studies its implications for the OGC Standards
+    baseline. In particular, the ER analyses how modern federated data processing
+    architectures applying data cubes and Docker packages can take advantage of the
+    existence of ARD. Architectures for ARD should minimize data transmission and
+    allow and favor code transmission and remote execution. This ER also considers
+    a workflow in which new processes are triggered as soon as new data becomes available.
+    This is part of the event driven discussion."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 10069r2
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This candidate standard describes a service that allows data collectors to propose changes to be made to a data provider's features.  A change proposal can be made to create new data or to modify/delete existing data. Proposed changes are reviewed (either manually or automatically) an are either accepted or rejected.  Accepted changes are applied to the feature(s).  The service also maintains a log of all changes applied to each feature that can be used for replication.
+  content: This candidate standard describes a service that allows data collectors
+    to propose changes to be made to a data provider's features.  A change proposal
+    can be made to create new data or to modify/delete existing data. Proposed changes
+    are reviewed (either manually or automatically) an are either accepted or rejected.  Accepted
+    changes are applied to the feature(s).  The service also maintains a log of all
+    changes applied to each feature that can be used for replication.
 ext:
   schema_version: v1.1.2
   doctype:

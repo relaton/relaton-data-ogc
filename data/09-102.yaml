@@ -1,14 +1,17 @@
+---
 id: '09102'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: DGIWG WMS 1.3 Profile and systems requirements for interoperability for use within a military environment
+  content: DGIWG WMS 1.3 Profile and systems requirements for interoperability for
+    use within a military environment
   type: title-main
 - language: en
   script: Latn
-  content: DGIWG WMS 1.3 Profile and systems requirements for interoperability for use within a military environment
+  content: DGIWG WMS 1.3 Profile and systems requirements for interoperability for
+    use within a military environment
   type: main
 source:
 - type: html
@@ -52,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies requirements for systems providing maps using OGC Web Map Service. The document defines a profile of OGC WMS 1.3 implementation standard [WMS1.3], a list of normative system requirements and a list of non-normative recommendations. The Defence Geospatial Information Working Group (DGIWG) performed the work as part of through the S05 Web Data Access Service Project of the Services & Interfaces Technical Panel.
+  content: This document specifies requirements for systems providing maps using OGC
+    Web Map Service. The document defines a profile of OGC WMS 1.3 implementation
+    standard [WMS1.3], a list of normative system requirements and a list of non-normative
+    recommendations. The Defence Geospatial Information Working Group (DGIWG) performed
+    the work as part of through the S05 Web Data Access Service Project of the Services
+    & Interfaces Technical Panel.
 ext:
   schema_version: v1.1.2
   doctype:

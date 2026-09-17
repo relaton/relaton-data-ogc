@@ -1,3 +1,4 @@
+---
 id: '05088r1'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'A Sensor Observation Service provides an API for managing deployed sensors and retrieving sensor data. Whether from in-situ sensors (e.g., water monitoring) or dynamic sensors (e.g., satellite imaging), measurements made from sensor systems contribute most of the geospatial data by volume used in geospatial systems today.  '
+  content: 'A Sensor Observation Service provides an API for managing deployed sensors
+    and retrieving sensor data. Whether from in-situ sensors (e.g., water monitoring)
+    or dynamic sensors (e.g., satellite imaging), measurements made from sensor systems
+    contribute most of the geospatial data by volume used in geospatial systems today.  '
 ext:
   schema_version: v1.1.2
   doctype:

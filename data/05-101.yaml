@@ -1,3 +1,4 @@
+---
 id: '05101'
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In this experiment, the retrieval time of GML features from a Web Feature Service (WFS) to a WFS client will be studied by varying certain control parameters including methods of encoding and compression. Four different control parameters including encoding format, data set size, bandwidth, and feature type will be varied to test the relative performance in each case.
+  content: In this experiment, the retrieval time of GML features from a Web Feature
+    Service (WFS) to a WFS client will be studied by varying certain control parameters
+    including methods of encoding and compression. Four different control parameters
+    including encoding format, data set size, bandwidth, and feature type will be
+    varied to test the relative performance in each case.
 ext:
   schema_version: v1.1.2
   doctype:

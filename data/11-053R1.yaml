@@ -1,3 +1,4 @@
+---
 id: 11053r1
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies parameters to the OGC Web Coverage Service (WCS) GetCoverage request that allows a client, a service, or other application to specify the Coordinate Reference System (CRS) in which coverages are delivered. Note that the CRS of the input bounding box is already defined in the OGC WCS Core Implementation Standard [OGC 09-110r3].
+  content: This document specifies parameters to the OGC Web Coverage Service (WCS)
+    GetCoverage request that allows a client, a service, or other application to specify
+    the Coordinate Reference System (CRS) in which coverages are delivered. Note that
+    the CRS of the input bounding box is already defined in the OGC WCS Core Implementation
+    Standard [OGC 09-110r3].
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 12176r7
 schema_version: v1.5.6
 type: standard
@@ -84,7 +85,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document specifies the HTTP profile of the CSW General Model part (see OGC 12-\r\n168r6). The General Model specifies the abstract interfaces between clients and catalogue\r\nservices. This standard specifies the mappingof the Catalogue abstract model interface\r\ninto the HTTP protocol binding.\r\nIn this HTTP protocol binding, operation requests and responses are sent between clients\r\nand servers using the HTTP GET and/or HTTP POST methods. Two equivalent request\r\nencodings are defined in this standard. The first using keyword-value pairs (KVP)\r\nwhich is suitable for use with the HTTP GET method. The second using XML which is\r\nsuitable for use with the HTTP POST method.\r\nThis standard defines operations that allow a client to get a service description document\r\nfor the catalogue (i.e. GetCapabilities); operations that allow a client to, at runtime,\r\ninterrogate the service about the kinds of data available (i.e. GetDomain); operations that\r\nallow a client to retrieve records from the catalogue (i.e. GetRecordById and\r\nGetRecords); operations that allow a client to add, modify and remove records from the\r\ncatalogue service (i.e. Transaction, Harvest, UnHarvest)."
+  content: "This document specifies the HTTP profile of the CSW General Model part
+    (see OGC 12-\r\n168r6). The General Model specifies the abstract interfaces between
+    clients and catalogue\r\nservices. This standard specifies the mappingof the Catalogue
+    abstract model interface\r\ninto the HTTP protocol binding.\r\nIn this HTTP protocol
+    binding, operation requests and responses are sent between clients\r\nand servers
+    using the HTTP GET and/or HTTP POST methods. Two equivalent request\r\nencodings
+    are defined in this standard. The first using keyword-value pairs (KVP)\r\nwhich
+    is suitable for use with the HTTP GET method. The second using XML which is\r\nsuitable
+    for use with the HTTP POST method.\r\nThis standard defines operations that allow
+    a client to get a service description document\r\nfor the catalogue (i.e. GetCapabilities);
+    operations that allow a client to, at runtime,\r\ninterrogate the service about
+    the kinds of data available (i.e. GetDomain); operations that\r\nallow a client
+    to retrieve records from the catalogue (i.e. GetRecordById and\r\nGetRecords);
+    operations that allow a client to add, modify and remove records from the\r\ncatalogue
+    service (i.e. Transaction, Harvest, UnHarvest)."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 18024r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document provides the set of revision notes for the existing GeoPackage version 1.2.1 (OGC 12-128r15) and does not modify that standard.\r\n\r\nThis document was approved by the OGC membership on approval date. As a result of the OGC Standards Working Group (SWG) process, there were a number of edits and enhancements made to this standard. This document provides the details of those edits, deficiency corrections, and enhancements. It also documents those items that have been deprecated. Finally, this document provides implementations details related to issues of backwards compatibility."
+  content: "This document provides the set of revision notes for the existing GeoPackage
+    version 1.2.1 (OGC 12-128r15) and does not modify that standard.\r\n\r\nThis document
+    was approved by the OGC membership on approval date. As a result of the OGC Standards
+    Working Group (SWG) process, there were a number of edits and enhancements made
+    to this standard. This document provides the details of those edits, deficiency
+    corrections, and enhancements. It also documents those items that have been deprecated.
+    Finally, this document provides implementations details related to issues of backwards
+    compatibility."
 ext:
   schema_version: v1.1.2
   doctype:

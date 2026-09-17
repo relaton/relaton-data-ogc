@@ -1,3 +1,4 @@
+---
 id: '04071'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This discussion paper contains the material that is still relevant from Section 6 (or Appendix A) of the previous version 4 (document OGC 99-107) of OGC Abstract Specification Topic 7, titled The Earth Imagery Case. That version of Topic 7 has now been superseded by a new version with the same title.\r\nIn addition, some terminology has been revised to be consistent with the terminology now used in Topic 16: Image Coordinate Transformation Services. Specifically, the previous term real-time image geometry model has been changed to approximate image geometry model. Also, the previous name Universal Real-Time Image Geometry Model has been changed to Universal Image Geometry Model.\r\n"
+  content: "This discussion paper contains the material that is still relevant from
+    Section 6 (or Appendix A) of the previous version 4 (document OGC 99-107) of OGC
+    Abstract Specification Topic 7, titled The Earth Imagery Case. That version of
+    Topic 7 has now been superseded by a new version with the same title.\r\nIn addition,
+    some terminology has been revised to be consistent with the terminology now used
+    in Topic 16: Image Coordinate Transformation Services. Specifically, the previous
+    term real-time image geometry model has been changed to approximate image geometry
+    model. Also, the previous name Universal Real-Time Image Geometry Model has been
+    changed to Universal Image Geometry Model.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

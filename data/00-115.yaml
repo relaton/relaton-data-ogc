@@ -1,3 +1,4 @@
+---
 id: '00115'
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes the categories and taxonomy of image exploitation services needed to support the use of images and certain related coverage types.
+  content: Describes the categories and taxonomy of image exploitation services needed
+    to support the use of images and certain related coverage types.
 ext:
   schema_version: v1.1.2
   doctype:

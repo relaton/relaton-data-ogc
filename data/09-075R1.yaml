@@ -1,3 +1,4 @@
+---
 id: '09075r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document describes the 3D portrayal server components which were used in the OGC OWS-6 Decision Support Systems (DSS) thread. The objective pf this activity was to efficiently stream and display GML 3 content in internet or wireless networks with limited bandwidth, especially focusing on the CityGML application profile. The server for delivering landscape and city models is implemented as Web 3D Service (W3DS) that is designed as portrayal service. '
+  content: 'This document describes the 3D portrayal server components which were
+    used in the OGC OWS-6 Decision Support Systems (DSS) thread. The objective pf
+    this activity was to efficiently stream and display GML 3 content in internet
+    or wireless networks with limited bandwidth, especially focusing on the CityGML
+    application profile. The server for delivering landscape and city models is implemented
+    as Web 3D Service (W3DS) that is designed as portrayal service. '
 ext:
   schema_version: v1.1.2
   doctype:

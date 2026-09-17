@@ -1,3 +1,4 @@
+---
 id: '06182r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document reviews the material discussed during the OWS-4 project, describes the WPS processes deployed in the workflows, and offers suggestions to the OGC to move forward with the WPS. '
+  content: 'This document reviews the material discussed during the OWS-4 project,
+    describes the WPS processes deployed in the workflows, and offers suggestions
+    to the OGC to move forward with the WPS. '
 ext:
   schema_version: v1.1.2
   doctype:

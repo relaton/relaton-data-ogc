@@ -1,3 +1,4 @@
+---
 id: 15011r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes the work done in the OGC Testbest-11 to support multiple WFS-T instance interoperability by way of a transaction scenario involving the interaction between clients and multiple WFS-T servers as well as the interaction between the servers themselves, especially in the use case of enterprise-to-enterprise data synchronization.\r\nThe document presents an overview of the transaction scenario, the components used to implement the scenario in the OGC Testbed-11 demo and the new capabilities added to the WFS-T server to support the scenario.\r\n"
+  content: "This document describes the work done in the OGC Testbest-11 to support
+    multiple WFS-T instance interoperability by way of a transaction scenario involving
+    the interaction between clients and multiple WFS-T servers as well as the interaction
+    between the servers themselves, especially in the use case of enterprise-to-enterprise
+    data synchronization.\r\nThe document presents an overview of the transaction
+    scenario, the components used to implement the scenario in the OGC Testbed-11
+    demo and the new capabilities added to the WFS-T server to support the scenario.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

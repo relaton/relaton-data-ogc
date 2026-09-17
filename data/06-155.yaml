@@ -1,3 +1,4 @@
+---
 id: '06155'
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OWS-4 CSW ebRIM Modelling Guidelines Interoperability Program Report (IPR) provides guidance for creating a standard methodology for mapping geospatial domain information models to ebRIM [www.oasis-open.org/committees/regrep/documents/2.0/specs/ebrim.pdf]. It also presents the results of mapping specific Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe] and Feature Catalog domain models to ebRIM for use with OpenGIS Catalog Service Standard [http://www.opengeospatial.org/standards/cat] implementations in the OWS-4 Initiative [http://www.opengeospatial.org/projects/initiatives/ows-4].
+  content: The OWS-4 CSW ebRIM Modelling Guidelines Interoperability Program Report
+    (IPR) provides guidance for creating a standard methodology for mapping geospatial
+    domain information models to ebRIM [www.oasis-open.org/committees/regrep/documents/2.0/specs/ebrim.pdf].
+    It also presents the results of mapping specific Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
+    and Feature Catalog domain models to ebRIM for use with OpenGIS Catalog Service
+    Standard [http://www.opengeospatial.org/standards/cat] implementations in the
+    OWS-4 Initiative [http://www.opengeospatial.org/projects/initiatives/ows-4].
 ext:
   schema_version: v1.1.2
   doctype:

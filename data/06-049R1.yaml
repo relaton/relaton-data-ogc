@@ -1,3 +1,4 @@
+---
 id: '06049r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OpenGIS® GML 3.1.1 Simple Features Profile (GML for Simple Features) is a restricted subset of GML (Geography Markup Language)[http://www.opengeospatial.org/standards/gml] and XML Schema [www.w3.org/XML/Schema] that supports the XML encoding of geographic features with simple geometric property types (Points, Line and Polygons).  The profile defines three conformance classes that define three different levels of complexity. \r\n\r\nSee also the GML pages on OGC Network: http://www.ogcnetwork.net/gml .\r\n"
+  content: "The OpenGIS® GML 3.1.1 Simple Features Profile (GML for Simple Features)
+    is a restricted subset of GML (Geography Markup Language)[http://www.opengeospatial.org/standards/gml]
+    and XML Schema [www.w3.org/XML/Schema] that supports the XML encoding of geographic
+    features with simple geometric property types (Points, Line and Polygons).  The
+    profile defines three conformance classes that define three different levels of
+    complexity. \r\n\r\nSee also the GML pages on OGC Network: http://www.ogcnetwork.net/gml
+    .\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

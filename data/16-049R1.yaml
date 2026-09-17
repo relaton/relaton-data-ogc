@@ -1,3 +1,4 @@
+---
 id: 16049r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the consolidation of tiling services and the increasing number of instances implementing the WMTS standard, there is a need for having a way to transfer a collection of tiles from one service to another. This might also be useful to transfer all necessary tiles from a WMTS service to a GeoPackage. Currently the only available solution is a client that is able to resolve the identifiers of the tiles needed and that builds a WMTS independent request for each tile. This ER explores different solutions that are more appropriate depending on how many tiles we need to move and the final application of them. Some of the proposed solutions involve changes in the WMTS standard and the use of a WPS. The WPS standard also shows some limitations and extensions that should be addressed.\r\n\r\nIn essence all solutions should describe two things: A request that contains a filter to a collection of tiles filling regions of the space and a multipart response that contains the tiles preferably in a single package. Depending on the proposed architecture, these tasks are done directly in the client, in the WMTS server or in an intermediate WPS."
+  content: "With the consolidation of tiling services and the increasing number of
+    instances implementing the WMTS standard, there is a need for having a way to
+    transfer a collection of tiles from one service to another. This might also be
+    useful to transfer all necessary tiles from a WMTS service to a GeoPackage. Currently
+    the only available solution is a client that is able to resolve the identifiers
+    of the tiles needed and that builds a WMTS independent request for each tile.
+    This ER explores different solutions that are more appropriate depending on how
+    many tiles we need to move and the final application of them. Some of the proposed
+    solutions involve changes in the WMTS standard and the use of a WPS. The WPS standard
+    also shows some limitations and extensions that should be addressed.\r\n\r\nIn
+    essence all solutions should describe two things: A request that contains a filter
+    to a collection of tiles filling regions of the space and a multipart response
+    that contains the tiles preferably in a single package. Depending on the proposed
+    architecture, these tasks are done directly in the client, in the WMTS server
+    or in an intermediate WPS."
 ext:
   schema_version: v1.1.2
   doctype:

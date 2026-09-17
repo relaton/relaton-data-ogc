@@ -1,3 +1,4 @@
+---
 id: '24059'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC openEO Community Standard defines an API in support of interoperable cloud-based\r\nprocessing of large Earth observation datasets."
+  content: "The OGC openEO Community Standard defines an API in support of interoperable
+    cloud-based\r\nprocessing of large Earth observation datasets."
 ext:
   schema_version: v1.1.2
   doctype:

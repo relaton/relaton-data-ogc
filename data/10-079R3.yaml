@@ -1,3 +1,4 @@
+---
 id: 10079r3
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The document describes the architecture that was implemented in the Aviation thread of OWS-7. The document provides an overview of the architecture and describes the implemented components. In addition it discusses “eventing” and notification techniques relevant for the aviation domain.
+  content: The document describes the architecture that was implemented in the Aviation
+    thread of OWS-7. The document provides an overview of the architecture and describes
+    the implemented components. In addition it discusses “eventing” and notification
+    techniques relevant for the aviation domain.
 ext:
   schema_version: v1.1.2
   doctype:

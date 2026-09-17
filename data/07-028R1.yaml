@@ -1,3 +1,4 @@
+---
 id: '07028r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document contains a description of the schema tailoring process for application schema development based on the U.S. National System for Geospatial-Intelligence (NSG) GEOINT Structure Implementation Profile (GSIP) as developed in conjuction with the Open Geospatial Consortium Interoperability Program initiative OWS-4.
+  content: This document contains a description of the schema tailoring process for
+    application schema development based on the U.S. National System for Geospatial-Intelligence
+    (NSG) GEOINT Structure Implementation Profile (GSIP) as developed in conjuction
+    with the Open Geospatial Consortium Interoperability Program initiative OWS-4.
 ext:
   schema_version: v1.1.2
   doctype:

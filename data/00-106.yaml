@@ -1,3 +1,4 @@
+---
 id: '00106'
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Incomplete. This document normatively references parts of the previous version of AS Topic 6, document 00-106. Need to be updated to include Roswell Change Proposal (01-011), which includes 19123 and retains material from Topic 6, v6.
+  content: Incomplete. This document normatively references parts of the previous
+    version of AS Topic 6, document 00-106. Need to be updated to include Roswell
+    Change Proposal (01-011), which includes 19123 and retains material from Topic
+    6, v6.
 ext:
   schema_version: v1.1.2
   doctype:

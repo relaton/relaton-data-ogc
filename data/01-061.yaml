@@ -1,3 +1,4 @@
+---
 id: '01061'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of theWeb Terrain Server (WTS) is to produce perspective views of georeferenced data - typically 3-dimensional coverages.
+  content: The purpose of theWeb Terrain Server (WTS) is to produce perspective views
+    of georeferenced data - typically 3-dimensional coverages.
 ext:
   schema_version: v1.1.2
   doctype:

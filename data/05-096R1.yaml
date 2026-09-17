@@ -1,3 +1,4 @@
+---
 id: '05096r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document defines a profile of the Geography Markup Language (GML) version 3.1.1 for encoding definitions of grid coverage (including image) Coordinate Reference Systems (CRSs) plus related coordinate Transformations. This document also specifies some Universal Resource Names (URNs) for definitions in the ogc URN namespace, in addition to those specified in [OGC 05-010]. Additional specific URNs are defined for definitions of the datums, coordinate systems, and coordinate system axes which are often used in definitions of grid and image CRSs.
+  content: This document defines a profile of the Geography Markup Language (GML)
+    version 3.1.1 for encoding definitions of grid coverage (including image) Coordinate
+    Reference Systems (CRSs) plus related coordinate Transformations. This document
+    also specifies some Universal Resource Names (URNs) for definitions in the ogc
+    URN namespace, in addition to those specified in [OGC 05-010]. Additional specific
+    URNs are defined for definitions of the datums, coordinate systems, and coordinate
+    system axes which are often used in definitions of grid and image CRSs.
 ext:
   schema_version: v1.1.2
   doctype:

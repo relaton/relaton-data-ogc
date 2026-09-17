@@ -1,14 +1,17 @@
+---
 id: '16129'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Standardized Information Models to Optimize Exchange, Reusability and Comparability of Citizen Science Data (SWE4CS)
+  content: Standardized Information Models to Optimize Exchange, Reusability and Comparability
+    of Citizen Science Data (SWE4CS)
   type: title-main
 - language: en
   script: Latn
-  content: Standardized Information Models to Optimize Exchange, Reusability and Comparability of Citizen Science Data (SWE4CS)
+  content: Standardized Information Models to Optimize Exchange, Reusability and Comparability
+    of Citizen Science Data (SWE4CS)
   type: main
 source:
 - type: src
@@ -60,7 +63,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This discussion paper describes a data model for the standardized exchange of citizen science sampling data. To do that it applies the Sensor Web Enablement (SWE) to Citizen Science (SWE4CS). In particular, exposes how Observations and Measurements (O&M) can be used to model the data of the Citizen Science project, in a way that can be retrieved using Sensor Observing System (SOS).This discussion paper is a result of the research project Citizen Observatory Web (COBWEB). COBWEB is supported by the European Commission through grant agreement 308513
+  content: This discussion paper describes a data model for the standardized exchange
+    of citizen science sampling data. To do that it applies the Sensor Web Enablement
+    (SWE) to Citizen Science (SWE4CS). In particular, exposes how Observations and
+    Measurements (O&M) can be used to model the data of the Citizen Science project,
+    in a way that can be retrieved using Sensor Observing System (SOS).This discussion
+    paper is a result of the research project Citizen Observatory Web (COBWEB). COBWEB
+    is supported by the European Commission through grant agreement 308513
 ext:
   schema_version: v1.1.2
   doctype:

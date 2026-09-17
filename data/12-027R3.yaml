@@ -1,3 +1,4 @@
+---
 id: 12027r3
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC discussion paper provides a proposal for a temporality extension for the WFS\r\n2.0 and FES 2.0 standard. It is based on the work of and experiences made in several\r\nOWS test beds, in particular OWS-7, OWS-8 and OWS-9, Aviation threads and\r\ndiscussions at the 2011 OGC TC meeting in Brussels, Belgium. It partially replaces and\r\nadvances the document “OWS-8 Aviation: Guidance for Retrieving AIXM 5.1 data via\r\nan OGC WFS 2.0” [4]."
+  content: "This OGC discussion paper provides a proposal for a temporality extension
+    for the WFS\r\n2.0 and FES 2.0 standard. It is based on the work of and experiences
+    made in several\r\nOWS test beds, in particular OWS-7, OWS-8 and OWS-9, Aviation
+    threads and\r\ndiscussions at the 2011 OGC TC meeting in Brussels, Belgium. It
+    partially replaces and\r\nadvances the document “OWS-8 Aviation: Guidance for
+    Retrieving AIXM 5.1 data via\r\nan OGC WFS 2.0” [4]."
 ext:
   schema_version: v1.1.2
   doctype:

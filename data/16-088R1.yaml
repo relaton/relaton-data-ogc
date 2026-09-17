@@ -1,3 +1,4 @@
+---
 id: 16088r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This engineering report describes the results of the Soil Data Interoperability Experiment\r\n(the IE) conducted under the auspices of the OGC Agriculture Domain Working Group in\r\n2015. Soil data exchange and analysis is compromised by the lack of a widely agreed\r\ninternational standard for the exchange of data describing soils and the sampling and\r\nanalytical activities relating to them. Previous modeling activities in Europe and\r\nAustralasia have not yielded models that satisfy many of the data needs of global soil\r\nscientists, data custodians and users. This IE evaluated existing models and proposed a\r\ncommon core model, including a GML/XML schema, which was tested through the\r\ndeployment of OGC web services and demonstration clients. IE time constraints and\r\nlimited participant resources precluded extensive modeling activities. However, the\r\nresulting model should form the core of a more comprehensive model to be developed by\r\na future OGC Soil Data Standards Working Group."
+  content: "This engineering report describes the results of the Soil Data Interoperability
+    Experiment\r\n(the IE) conducted under the auspices of the OGC Agriculture Domain
+    Working Group in\r\n2015. Soil data exchange and analysis is compromised by the
+    lack of a widely agreed\r\ninternational standard for the exchange of data describing
+    soils and the sampling and\r\nanalytical activities relating to them. Previous
+    modeling activities in Europe and\r\nAustralasia have not yielded models that
+    satisfy many of the data needs of global soil\r\nscientists, data custodians and
+    users. This IE evaluated existing models and proposed a\r\ncommon core model,
+    including a GML/XML schema, which was tested through the\r\ndeployment of OGC
+    web services and demonstration clients. IE time constraints and\r\nlimited participant
+    resources precluded extensive modeling activities. However, the\r\nresulting model
+    should form the core of a more comprehensive model to be developed by\r\na future
+    OGC Soil Data Standards Working Group."
 ext:
   schema_version: v1.1.2
   doctype:

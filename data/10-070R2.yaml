@@ -1,3 +1,4 @@
+---
 id: 10070r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is the specification for a Table Joining Service (TJS). This OGC standard defines a simple way to describe and exchange tabular data that contains information about geographic objects.
+  content: This document is the specification for a Table Joining Service (TJS). This
+    OGC standard defines a simple way to describe and exchange tabular data that contains
+    information about geographic objects.
 ext:
   schema_version: v1.1.2
   doctype:

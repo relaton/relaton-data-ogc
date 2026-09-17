@@ -1,14 +1,17 @@
+---
 id: 19023r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering Report'
+  content: 'OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering
+    Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering Report'
+  content: 'OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering
+    Report'
   type: main
 source:
 - type: src
@@ -56,7 +59,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed 15 Engineering Report (ER) describes a style encoding and metadata conceptual model that provides information for understanding styles intended usage, availability, compatibility with existing layers, and supporting style search. A style is a sequence of rules of symbolizing instructions to be applied by a rendering engine on one or more features and/or coverages
+  content: This OGC Testbed 15 Engineering Report (ER) describes a style encoding
+    and metadata conceptual model that provides information for understanding styles
+    intended usage, availability, compatibility with existing layers, and supporting
+    style search. A style is a sequence of rules of symbolizing instructions to be
+    applied by a rendering engine on one or more features and/or coverages
 ext:
   schema_version: v1.1.2
   doctype:

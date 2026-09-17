@@ -1,3 +1,4 @@
+---
 id: '01019'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines an XML vocabulary to encode annotations on imagery, maps, and other geospatial data. This vocabulary draws on the Geography Markup Language (OpenGIS
+  content: Defines an XML vocabulary to encode annotations on imagery, maps, and other
+    geospatial data. This vocabulary draws on the Geography Markup Language (OpenGIS
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,14 +1,17 @@
+---
 id: '25017'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial Ecosystem'
+  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial
+    Ecosystem'
   type: title-main
 - language: en
   script: Latn
-  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial Ecosystem'
+  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial
+    Ecosystem'
   type: main
 source:
 - type: src
@@ -72,7 +75,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Around the world, decisions with far-reaching impact—on climate, infrastructure, finance,\r\nand national security—depend on timely, trusted geospatial information. For decades,\r\nSpatial Data Infrastructures (SDIs) have played a foundational role in enabling governments\r\nand industries to manage, share, and apply this data effectively."
+  content: "Around the world, decisions with far-reaching impact—on climate, infrastructure,
+    finance,\r\nand national security—depend on timely, trusted geospatial information.
+    For decades,\r\nSpatial Data Infrastructures (SDIs) have played a foundational
+    role in enabling governments\r\nand industries to manage, share, and apply this
+    data effectively."
 ext:
   schema_version: v1.1.2
   doctype:

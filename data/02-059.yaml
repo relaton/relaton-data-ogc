@@ -1,3 +1,4 @@
+---
 id: '02059'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A filter is a construct used to describe constraints on properties of a feature class for the purpose of identifying a subset of feature instances to be operated upon in some way.
+  content: A filter is a construct used to describe constraints on properties of a
+    feature class for the purpose of identifying a subset of feature instances to
+    be operated upon in some way.
 ext:
   schema_version: v1.1.2
   doctype:

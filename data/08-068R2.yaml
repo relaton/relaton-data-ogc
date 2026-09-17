@@ -1,3 +1,4 @@
+---
 id: '08068r2'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC® Web Coverage Processing Service (WCPS) defines a protocol-independent language for the extraction, processing, and analysis of multi-dimensional coverages representing sensor, image, or statistics data.
+  content: The OGC® Web Coverage Processing Service (WCPS) defines a protocol-independent
+    language for the extraction, processing, and analysis of multi-dimensional coverages
+    representing sensor, image, or statistics data.
 ext:
   schema_version: v1.1.2
   doctype:

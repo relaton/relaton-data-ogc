@@ -1,14 +1,17 @@
+---
 id: 07056r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: The Specification Model -- Structuring an OGC specification to encourage implementation
+  content: The Specification Model -- Structuring an OGC specification to encourage
+    implementation
   type: title-main
 - language: en
   script: Latn
-  content: The Specification Model -- Structuring an OGC specification to encourage implementation
+  content: The Specification Model -- Structuring an OGC specification to encourage
+    implementation
   type: main
 source:
 - type: html
@@ -66,7 +69,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This standard specifies some desirable characteristics of a standards specification that will encourage implementations by minimizing difficulty and optimizing usability and interoperability. '
+  content: 'This standard specifies some desirable characteristics of a standards
+    specification that will encourage implementations by minimizing difficulty and
+    optimizing usability and interoperability. '
 ext:
   schema_version: v1.1.2
   doctype:

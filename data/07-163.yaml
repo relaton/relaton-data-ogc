@@ -1,3 +1,4 @@
+---
 id: '07163'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC document presents a summary of the Data View Architecture experiment conducted as part of the Geo-Processing Workflow (GPW) thread in the OWS-5 test bed. The main activities in this experiment were the storage of Data Views in an ebRIM Catalog and the discovery and use of those Data Views by an Integrated Client.
+  content: This OGC document presents a summary of the Data View Architecture experiment
+    conducted as part of the Geo-Processing Workflow (GPW) thread in the OWS-5 test
+    bed. The main activities in this experiment were the storage of Data Views in
+    an ebRIM Catalog and the discovery and use of those Data Views by an Integrated
+    Client.
 ext:
   schema_version: v1.1.2
   doctype:

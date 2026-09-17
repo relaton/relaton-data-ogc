@@ -1,3 +1,4 @@
+---
 id: '06095'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: " A service by which a client may conduct asynchronous dialogues (message interchanges) with one or more other services. This service is useful when many collaborating services are required to satisfy a client request, and/or when significant delays are involved is satisfying the request. This service was defined under OWS 1.2 in support of SPS operations. WNS has broad applicability in many such multi-service applications. It is now used in several SWE scenarios."
+  content: " A service by which a client may conduct asynchronous dialogues (message
+    interchanges) with one or more other services. This service is useful when many
+    collaborating services are required to satisfy a client request, and/or when significant
+    delays are involved is satisfying the request. This service was defined under
+    OWS 1.2 in support of SPS operations. WNS has broad applicability in many such
+    multi-service applications. It is now used in several SWE scenarios."
 ext:
   schema_version: v1.1.2
   doctype:

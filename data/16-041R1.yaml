@@ -1,3 +1,4 @@
+---
 id: 16041r1
 schema_version: v1.5.6
 type: standard
@@ -74,7 +75,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Data Quality Engineering Report describes data quality handling requirements, challenges and solutions. One focus is on data quality in general that needs to be communicated from one service to another. In addition, it discusses WPS data quality solutions. The ultimate goal is for it to be nominated as a WPS ISO Data Quality Service Profile. ISO 19139 is used as the base to encode the data quality. WPS and workflows are used to streamline and standardize the process of data quality assurance and quality control. The main topics include: (1) generalized summary and description of the design and best practices for analyzing data quality of all feature data sources used in the Citizen Observatory WEB (COBWEB) project, (2) solutions and recommendations for enabling provenance of data quality transparent to end users when the data is processed through a WPS, (3) best practices and recommendations for designing and prototyping the WPS profile to support data quality service conformant to the NSG Metadata Framework, and (4) general solution for data quality fit for both raster-based imageries and vector-based features.'
+  content: 'This Data Quality Engineering Report describes data quality handling requirements,
+    challenges and solutions. One focus is on data quality in general that needs to
+    be communicated from one service to another. In addition, it discusses WPS data
+    quality solutions. The ultimate goal is for it to be nominated as a WPS ISO Data
+    Quality Service Profile. ISO 19139 is used as the base to encode the data quality.
+    WPS and workflows are used to streamline and standardize the process of data quality
+    assurance and quality control. The main topics include: (1) generalized summary
+    and description of the design and best practices for analyzing data quality of
+    all feature data sources used in the Citizen Observatory WEB (COBWEB) project,
+    (2) solutions and recommendations for enabling provenance of data quality transparent
+    to end users when the data is processed through a WPS, (3) best practices and
+    recommendations for designing and prototyping the WPS profile to support data
+    quality service conformant to the NSG Metadata Framework, and (4) general solution
+    for data quality fit for both raster-based imageries and vector-based features.'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '11116'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Ad-hoc processing of Earth Observation (EO) data available through online resources is\r\ngaining more and more attention. Expected benefits include\r\n- More versatile EO data access\r\n- More convenient EO data access\r\n- Consequently, broadened use and exploitation of EO data\r\n- An important step towards integration of EO data into automatic chaining and\r\norchestration\r\n- More efficient EO data access: indicating the exact desired result and evaluating\r\nprocessing code close to the coverage data source (i.e., on the server) minimizes\r\nnetwork traffic, one of today’s critical performance limiting factors."
+  content: "Ad-hoc processing of Earth Observation (EO) data available through online
+    resources is\r\ngaining more and more attention. Expected benefits include\r\n-
+    More versatile EO data access\r\n- More convenient EO data access\r\n- Consequently,
+    broadened use and exploitation of EO data\r\n- An important step towards integration
+    of EO data into automatic chaining and\r\norchestration\r\n- More efficient EO
+    data access: indicating the exact desired result and evaluating\r\nprocessing
+    code close to the coverage data source (i.e., on the server) minimizes\r\nnetwork
+    traffic, one of today’s critical performance limiting factors."
 ext:
   schema_version: v1.1.2
   doctype:

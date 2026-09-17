@@ -1,3 +1,4 @@
+---
 id: '18029'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The portrayal and visualization of geospatial information is a critical task for facilitating decision making, situational awareness, and spatial analysis. However, despite its importance, various local, national, and international agencies continue to use different symbols and terminology for the same event, feature, or entity. This approach prevents interoperability from being extended to the semantic level, which in turn makes it difficult to share, reuse, and mediate unambiguous portrayal information between agencies.\r\n\r\nThis Engineering Report (ER) captures the requirements, solutions, models, and implementations of the Open Geospatial Consortium (OGC) Testbed-14 Portrayal thread. This effort leverages the work of the Portrayal Ontology development and the Semantic Portrayal Service conducted during Testbed 10, 11, 12 and 13. Thus far the emphasis for developing the portrayal ontologies (Testbeds 12 and 13) has been on modeling and representing portrayal information for feature data. The objective of Testbed-14 is to extend the portrayal ontology to accommodate more complex symbols (e.g., composite symbols) and to provide clear recommendations on how to best proceed with portrayal information encodings."
+  content: "The portrayal and visualization of geospatial information is a critical
+    task for facilitating decision making, situational awareness, and spatial analysis.
+    However, despite its importance, various local, national, and international agencies
+    continue to use different symbols and terminology for the same event, feature,
+    or entity. This approach prevents interoperability from being extended to the
+    semantic level, which in turn makes it difficult to share, reuse, and mediate
+    unambiguous portrayal information between agencies.\r\n\r\nThis Engineering Report
+    (ER) captures the requirements, solutions, models, and implementations of the
+    Open Geospatial Consortium (OGC) Testbed-14 Portrayal thread. This effort leverages
+    the work of the Portrayal Ontology development and the Semantic Portrayal Service
+    conducted during Testbed 10, 11, 12 and 13. Thus far the emphasis for developing
+    the portrayal ontologies (Testbeds 12 and 13) has been on modeling and representing
+    portrayal information for feature data. The objective of Testbed-14 is to extend
+    the portrayal ontology to accommodate more complex symbols (e.g., composite symbols)
+    and to provide clear recommendations on how to best proceed with portrayal information
+    encodings."
 ext:
   schema_version: v1.1.2
   doctype:

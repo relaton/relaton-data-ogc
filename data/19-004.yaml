@@ -1,3 +1,4 @@
+---
 id: '19004'
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Anchor Node Extension in IndoorGML - Seamless Navigation between Indoor and Outdoor Space
+  content: Anchor Node Extension in IndoorGML - Seamless Navigation between Indoor
+    and Outdoor Space
   type: main
 source:
 - type: src
@@ -64,7 +66,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC discussion paper provides an extension module of OGC Indoor Geography Markup Language (IndoorGML) for the seamless navigation between indoor and outdoor spaces. The OGC IndoorGML standard has an issue on the data model that affects the connection of indoor and outdoor spaces via an “Anchor Node,” which is a conceptual part for connecting indoor and outdoor spaces. This discussion paper aims to show use cases of how IndoorGML can connect with other geospatial standards that represent outdoor spaces (and road networks), such as OGC City Geography Markup Language (CityGML) and version 5.0 of the Geographic Data Files (GDF) format.
+  content: This OGC discussion paper provides an extension module of OGC Indoor Geography
+    Markup Language (IndoorGML) for the seamless navigation between indoor and outdoor
+    spaces. The OGC IndoorGML standard has an issue on the data model that affects
+    the connection of indoor and outdoor spaces via an “Anchor Node,” which is a conceptual
+    part for connecting indoor and outdoor spaces. This discussion paper aims to show
+    use cases of how IndoorGML can connect with other geospatial standards that represent
+    outdoor spaces (and road networks), such as OGC City Geography Markup Language
+    (CityGML) and version 5.0 of the Geographic Data Files (GDF) format.
 ext:
   schema_version: v1.1.2
   doctype:

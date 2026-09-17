@@ -1,3 +1,4 @@
+---
 id: 06024r4
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OpenGIS Tracking Service Interface Standard supports a very simple functionality allowing a collection of movable objects to be tracked as they move and change orientation. The standard addresses the absolute minimum in functionality in order to address the need for a simple, robust, and easy-to-implement open standard for geospatial tracking.
+  content: The OpenGIS Tracking Service Interface Standard supports a very simple
+    functionality allowing a collection of movable objects to be tracked as they move
+    and change orientation. The standard addresses the absolute minimum in functionality
+    in order to address the need for a simple, robust, and easy-to-implement open
+    standard for geospatial tracking.
 ext:
   schema_version: v1.1.2
   doctype:

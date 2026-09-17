@@ -1,14 +1,17 @@
+---
 id: 11013r6
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® Engineering Report: Water Information Services Concept Development Study'
+  content: 'OGC® Engineering Report: Water Information Services Concept Development
+    Study'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® Engineering Report: Water Information Services Concept Development Study'
+  content: 'OGC® Engineering Report: Water Information Services Concept Development
+    Study'
   type: main
 source:
 - type: html
@@ -60,7 +63,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this report is to recommend appropriate architectures and procedures for migrating the CUAHSI HIS to the OGC-based WaterML 2.0 encoding (profile of OGC O&M standard) and OGC web services such as Sensor Observation Service (SOS), Web Feature Service (WFS), Web Mapping Service (WMS), Web Coverage Service (WCS), and Catalogue Service for the Web (CSW). This report may be used as the basis for future OGC Interoperability Program initiatives.
+  content: The purpose of this report is to recommend appropriate architectures and
+    procedures for migrating the CUAHSI HIS to the OGC-based WaterML 2.0 encoding
+    (profile of OGC O&M standard) and OGC web services such as Sensor Observation
+    Service (SOS), Web Feature Service (WFS), Web Mapping Service (WMS), Web Coverage
+    Service (WCS), and Catalogue Service for the Web (CSW). This report may be used
+    as the basis for future OGC Interoperability Program initiatives.
 ext:
   schema_version: v1.1.2
   doctype:

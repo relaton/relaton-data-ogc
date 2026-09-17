@@ -1,3 +1,4 @@
+---
 id: '22014'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed 18 Engineering Report describes the Data Model and API of a Key Management Service (KMS) that supports the flexible but secure exchange of cryptographic keys for applying confidentiality and integrity protection to geographic information. The described KMS is based on the design and implementation from previous OGC Testbeds 16 and 17.
+  content: This OGC Testbed 18 Engineering Report describes the Data Model and API
+    of a Key Management Service (KMS) that supports the flexible but secure exchange
+    of cryptographic keys for applying confidentiality and integrity protection to
+    geographic information. The described KMS is based on the design and implementation
+    from previous OGC Testbeds 16 and 17.
 ext:
   schema_version: v1.1.2
   doctype:

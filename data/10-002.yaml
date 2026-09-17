@@ -1,3 +1,4 @@
+---
 id: '10002'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report (ER) documents findings of the CCIP 2009 Plugfest, which was conducted via the public Internet to address requirements stated in the CCIP Call for Participation . It addresses concept development, specifications tested, and interoperability experiments conducted. The ER concludes with issues that arose, and provides recommendations for the refinement of OGC Specifications and the Plugfest process.  Recommendations in this ER will be considered in the planning of future activities.\r\nOGC expresses thanks to the Australian Bureau of Meteorology and to CSIRO for sponsoring CCIP 2009.\r\n"
+  content: "This OGC Engineering Report (ER) documents findings of the CCIP 2009 Plugfest,
+    which was conducted via the public Internet to address requirements stated in
+    the CCIP Call for Participation . It addresses concept development, specifications
+    tested, and interoperability experiments conducted. The ER concludes with issues
+    that arose, and provides recommendations for the refinement of OGC Specifications
+    and the Plugfest process.  Recommendations in this ER will be considered in the
+    planning of future activities.\r\nOGC expresses thanks to the Australian Bureau
+    of Meteorology and to CSIRO for sponsoring CCIP 2009.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

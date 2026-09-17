@@ -1,3 +1,4 @@
+---
 id: '21027'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed 17 Engineering Report (ER) documents the results and recommendations of the Geo Data Cube API task. The ER defines a draft specification for an interoperable Geo Data Cube (GDC) API leveraging OGC API building blocks, details implementation of the draft API, and explores various aspects including data retrieval and discovery, cloud computing and Machine Learning. Implementations of the draft GDC API are demonstrated with use cases including the integration of terrestrial and marine elevation data and forestry information for Canadian wetlands.\r\n\r\n"
+  content: "This OGC Testbed 17 Engineering Report (ER) documents the results and
+    recommendations of the Geo Data Cube API task. The ER defines a draft specification
+    for an interoperable Geo Data Cube (GDC) API leveraging OGC API building blocks,
+    details implementation of the draft API, and explores various aspects including
+    data retrieval and discovery, cloud computing and Machine Learning. Implementations
+    of the draft GDC API are demonstrated with use cases including the integration
+    of terrestrial and marine elevation data and forestry information for Canadian
+    wetlands.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

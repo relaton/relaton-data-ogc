@@ -1,3 +1,4 @@
+---
 id: '08167r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Annotation of Web Services or data compliant to OGC standards refers to the task of attaching meaningful descriptions to the service and the served geospatial data or processes. In this discussion paper we try to extend the expressiveness of such annotations by including more sophisticated (semantic) descriptions.
+  content: Annotation of Web Services or data compliant to OGC standards refers to
+    the task of attaching meaningful descriptions to the service and the served geospatial
+    data or processes. In this discussion paper we try to extend the expressiveness
+    of such annotations by including more sophisticated (semantic) descriptions.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,14 +1,17 @@
+---
 id: 15042r5
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC TimeseriesML 1.2 – XML Encoding of the Timeseries Profile of Observations and Measurements
+  content: OGC TimeseriesML 1.2 – XML Encoding of the Timeseries Profile of Observations
+    and Measurements
   type: title-main
 - language: en
   script: Latn
-  content: OGC TimeseriesML 1.2 – XML Encoding of the Timeseries Profile of Observations and Measurements
+  content: OGC TimeseriesML 1.2 – XML Encoding of the Timeseries Profile of Observations
+    and Measurements
   type: main
 source:
 - type: src
@@ -62,7 +65,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: TimeseriesML 1.2 defines an XML encoding that implements the OGC Timeseries Profile of Observations and Measurements, with the intent of allowing the exchange of such data sets across information systems. Through the use of existing OGC standards, it aims at being an interoperable exchange format that may be re-used to address a range of data exchange requirements.
+  content: TimeseriesML 1.2 defines an XML encoding that implements the OGC Timeseries
+    Profile of Observations and Measurements, with the intent of allowing the exchange
+    of such data sets across information systems. Through the use of existing OGC
+    standards, it aims at being an interoperable exchange format that may be re-used
+    to address a range of data exchange requirements.
 ext:
   schema_version: v1.1.2
   doctype:

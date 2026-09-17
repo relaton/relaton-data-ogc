@@ -1,3 +1,4 @@
+---
 id: '22004'
 schema_version: v1.5.6
 type: standard
@@ -78,7 +79,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The subject of this Engineering Report (ER) is a code sprint that was held from the 8th to the 10th of March 2022 to advance support of open geospatial standards within the developer community, whilst also advancing the standards themselves. The code sprint was hosted by the Open Geospatial Consortium (OGC), the Apache Software Foundation (ASF), and Open Source Geospatial Foundation (OSGeo). The code sprint was sponsored by Ordnance Survey (OS), and held as a completely virtual event.
+  content: The subject of this Engineering Report (ER) is a code sprint that was held
+    from the 8th to the 10th of March 2022 to advance support of open geospatial standards
+    within the developer community, whilst also advancing the standards themselves.
+    The code sprint was hosted by the Open Geospatial Consortium (OGC), the Apache
+    Software Foundation (ASF), and Open Source Geospatial Foundation (OSGeo). The
+    code sprint was sponsored by Ordnance Survey (OS), and held as a completely virtual
+    event.
 ext:
   schema_version: v1.1.2
   doctype:

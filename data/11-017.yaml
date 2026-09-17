@@ -1,14 +1,17 @@
+---
 id: '11017'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Geospatial eXtensible Access Control Markup Language (GeoXACML) Version 1 Corrigendum
+  content: Geospatial eXtensible Access Control Markup Language (GeoXACML) Version
+    1 Corrigendum
   type: title-main
 - language: en
   script: Latn
-  content: Geospatial eXtensible Access Control Markup Language (GeoXACML) Version 1 Corrigendum
+  content: Geospatial eXtensible Access Control Markup Language (GeoXACML) Version
+    1 Corrigendum
   type: main
 source:
 - type: html
@@ -58,7 +61,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The OpenGIS® Geospatial eXtensible Access Control Markup Language Encoding Standard (GeoXACML) defines a geospatial extension to the OASIS standard “eXtensible Access Control Markup Language (XACML)” [www.oasis-open.org/committees/xacml/]. This extension incorporates spatial data types and spatial authorization decision functions based on the OGC Simple Features[http://www.opengeospatial.org/standards/sfa] and GML[http://www.opengeospatial.org/standards/gml] standards.  GeoXACML is a policy language that supports the declaration and enforcement of access rights across jurisdictions and can be used to implement interoperable access control systems for geospatial applications such as Spatial Data Infrastructures. GeoXACML is not designed to be a rights expression language and is therefore not an extension of the OGC GeoDRM Reference Model (Topic 18 in the OpenGIS® Abstract Specification [http://www.opengeospatial.org/standards/as]). '
+  content: 'The OpenGIS® Geospatial eXtensible Access Control Markup Language Encoding
+    Standard (GeoXACML) defines a geospatial extension to the OASIS standard “eXtensible
+    Access Control Markup Language (XACML)” [www.oasis-open.org/committees/xacml/].
+    This extension incorporates spatial data types and spatial authorization decision
+    functions based on the OGC Simple Features[http://www.opengeospatial.org/standards/sfa]
+    and GML[http://www.opengeospatial.org/standards/gml] standards.  GeoXACML is a
+    policy language that supports the declaration and enforcement of access rights
+    across jurisdictions and can be used to implement interoperable access control
+    systems for geospatial applications such as Spatial Data Infrastructures. GeoXACML
+    is not designed to be a rights expression language and is therefore not an extension
+    of the OGC GeoDRM Reference Model (Topic 18 in the OpenGIS® Abstract Specification
+    [http://www.opengeospatial.org/standards/as]). '
 ext:
   schema_version: v1.1.2
   doctype:

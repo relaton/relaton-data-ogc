@@ -1,3 +1,4 @@
+---
 id: 21039r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Testbed-17 (TB-17) Aviation API Engineering Report (ER) summarizes the implementations, findings and recommendations that emerged from the efforts of building a definition for an Aviation API compliant with the requirements of the OGC Standards Program, and the exploration of the potential of aviation data fusion.\r\n\r\nThis ER describes the nine façades built to interface SWIM services and serve aviation data through OGC APIs, the two services built to consume SWIM data and fuse it to generate richer datasets while serving the fused data through OGC APIs, the client application built to display data retrieved from the façades and fusion services, and the development client built to focus on functionality and experimentation.\r\n\r\nFinally, this ER discusses the potential of OGC APIs to help standardize the access to aviation data within the context of the System Wide Information Management (SWIM) program."
+  content: "This Testbed-17 (TB-17) Aviation API Engineering Report (ER) summarizes
+    the implementations, findings and recommendations that emerged from the efforts
+    of building a definition for an Aviation API compliant with the requirements of
+    the OGC Standards Program, and the exploration of the potential of aviation data
+    fusion.\r\n\r\nThis ER describes the nine façades built to interface SWIM services
+    and serve aviation data through OGC APIs, the two services built to consume SWIM
+    data and fuse it to generate richer datasets while serving the fused data through
+    OGC APIs, the client application built to display data retrieved from the façades
+    and fusion services, and the development client built to focus on functionality
+    and experimentation.\r\n\r\nFinally, this ER discusses the potential of OGC APIs
+    to help standardize the access to aviation data within the context of the System
+    Wide Information Management (SWIM) program."
 ext:
   schema_version: v1.1.2
   doctype:

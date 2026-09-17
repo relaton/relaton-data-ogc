@@ -1,14 +1,17 @@
+---
 id: '19065'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC OpenFlight Scene Description Database Specification 16.0 Community Standard
+  content: OGC OpenFlight Scene Description Database Specification 16.0 Community
+    Standard
   type: title-main
 - language: en
   script: Latn
-  content: OGC OpenFlight Scene Description Database Specification 16.0 Community Standard
+  content: OGC OpenFlight Scene Description Database Specification 16.0 Community
+    Standard
   type: main
 source:
 - type: src
@@ -54,7 +57,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes the OpenFlight Scene Description Database Specification, commonly\r\nreferred to as simply “OpenFlight”. OpenFlight is a 3D scene description file format that was\r\ncreated and is maintained by Presagis. While OpenFlight databases are typically created and edited\r\nusing Presagis software tools, the format is widely adopted and as a result, many tools exist\r\nto read and write OpenFlight database files.\r\nThe primary audience for this document includes software developers whose applications are\r\nintended to read and/or write OpenFlight database files. To this end, this document discusses\r\nconcepts incorporated in OpenFlight and contains a detailed description of the physical layout\r\nof OpenFlight files as represented on disk."
+  content: "This document describes the OpenFlight Scene Description Database Specification,
+    commonly\r\nreferred to as simply “OpenFlight”. OpenFlight is a 3D scene description
+    file format that was\r\ncreated and is maintained by Presagis. While OpenFlight
+    databases are typically created and edited\r\nusing Presagis software tools, the
+    format is widely adopted and as a result, many tools exist\r\nto read and write
+    OpenFlight database files.\r\nThe primary audience for this document includes
+    software developers whose applications are\r\nintended to read and/or write OpenFlight
+    database files. To this end, this document discusses\r\nconcepts incorporated
+    in OpenFlight and contains a detailed description of the physical layout\r\nof
+    OpenFlight files as represented on disk."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '26011'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This report defines the Baseline OGC Testbed-21 Specification for GIMI. The Report specifies requirements and encoding rules for using the High Efficiency Image File Format (HEIF) for the exchange of georeferenced or geocoded imagery accordingly with the current version of GIMI. The specification deviates from the Geographic High Efficiency Image Format (GeoHEIF) candidate specification that was proposed by the previous OGC Testbed-20 initiative. The core sections of this document specifies the GIMI specification using the OGC modular specification approach and define the necessary Requirements Classes. Additional annexes define the fundamental information necessary for reading HEIF files, the approaches for tiles and overviews in HEIF and the TAI related boxes.\r\n\r\n"
+  content: "This report defines the Baseline OGC Testbed-21 Specification for GIMI.
+    The Report specifies requirements and encoding rules for using the High Efficiency
+    Image File Format (HEIF) for the exchange of georeferenced or geocoded imagery
+    accordingly with the current version of GIMI. The specification deviates from
+    the Geographic High Efficiency Image Format (GeoHEIF) candidate specification
+    that was proposed by the previous OGC Testbed-20 initiative. The core sections
+    of this document specifies the GIMI specification using the OGC modular specification
+    approach and define the necessary Requirements Classes. Additional annexes define
+    the fundamental information necessary for reading HEIF files, the approaches for
+    tiles and overviews in HEIF and the TAI related boxes.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

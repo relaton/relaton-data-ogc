@@ -1,3 +1,4 @@
+---
 id: 22043r1
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The subject of this Engineering Report (ER) is a code sprint that was held from the 14th to the 16th of September 2022 to advance open standards that relate to geospatial metadata and catalogues. The code sprint was hosted by the Open Geospatial Consortium (OGC) and the International Organization for Standardization (ISO). The code sprint was sponsored by Ordnance Survey (OS) and Geonovum, and held as a hybrid event with the face-to-face element hosted at the Geovation Hub in London, United Kingdom.
+  content: The subject of this Engineering Report (ER) is a code sprint that was held
+    from the 14th to the 16th of September 2022 to advance open standards that relate
+    to geospatial metadata and catalogues. The code sprint was hosted by the Open
+    Geospatial Consortium (OGC) and the International Organization for Standardization
+    (ISO). The code sprint was sponsored by Ordnance Survey (OS) and Geonovum, and
+    held as a hybrid event with the face-to-face element hosted at the Geovation Hub
+    in London, United Kingdom.
 ext:
   schema_version: v1.1.2
   doctype:

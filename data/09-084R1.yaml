@@ -1,3 +1,4 @@
+---
 id: '09084r1'
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OpenSearch specification originates in a community effort built around Amazon's A9.com. It was intended to allow syndication of search results that could then be aggregated by one large index. The OpenSearch specification is made available under the Creative Commons Attribution-Sharealike 2.5 license. In addition, the OASIS Search Web Services group is publishing an Abstract Protocol Definition of the interface or “binding”, which coincides with the community specification published at http://opensearch.org. In 2007, Andrew Turner proposed a set of geospatial extensions through OpenSearch.org.
+  content: The OpenSearch specification originates in a community effort built around
+    Amazon's A9.com. It was intended to allow syndication of search results that could
+    then be aggregated by one large index. The OpenSearch specification is made available
+    under the Creative Commons Attribution-Sharealike 2.5 license. In addition, the
+    OASIS Search Web Services group is publishing an Abstract Protocol Definition
+    of the interface or “binding”, which coincides with the community specification
+    published at http://opensearch.org. In 2007, Andrew Turner proposed a set of geospatial
+    extensions through OpenSearch.org.
 ext:
   schema_version: v1.1.2
   doctype:

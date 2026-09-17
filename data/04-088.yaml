@@ -1,3 +1,4 @@
+---
 id: '04088'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*RETIRED* This document focuses on the goals, objectives, capabilities and recommendation for the Mediation Core Enterprise\r\nService."
+  content: "*RETIRED* This document focuses on the goals, objectives, capabilities
+    and recommendation for the Mediation Core Enterprise\r\nService."
 ext:
   schema_version: v1.1.2
   doctype:

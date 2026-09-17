@@ -1,3 +1,4 @@
+---
 id: '08078r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This OGC® document describes and discusses the OWS-5 enhancements in the process of creating application schemas in support of the NSG from NGA data based on the GEOINT Structure Implementation Profile (GSIP) which has been based on the NSG Application Schema and accompanying NSG Entity Catalog. '
+  content: 'This OGC® document describes and discusses the OWS-5 enhancements in the
+    process of creating application schemas in support of the NSG from NGA data based
+    on the GEOINT Structure Implementation Profile (GSIP) which has been based on
+    the NSG Application Schema and accompanying NSG Entity Catalog. '
 ext:
   schema_version: v1.1.2
   doctype:

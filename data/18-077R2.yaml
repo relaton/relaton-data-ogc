@@ -1,3 +1,4 @@
+---
 id: 18077r2
 schema_version: v1.5.6
 type: standard
@@ -80,7 +81,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This paper offers the results of research, design, and prototype efforts to present the OGC standards working group an approach to creating “GeoCDB”—a technology mashing of GeoPackage and OGC CDB—as a deterministic repository of easily read data geospatial datasets suitable for storage, runtime access, and dissemination for live, virtual, constructive, gaming, and mission command (MC) systems.
+  content: This paper offers the results of research, design, and prototype efforts
+    to present the OGC standards working group an approach to creating “GeoCDB”—a
+    technology mashing of GeoPackage and OGC CDB—as a deterministic repository of
+    easily read data geospatial datasets suitable for storage, runtime access, and
+    dissemination for live, virtual, constructive, gaming, and mission command (MC)
+    systems.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '23026'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Disaster Pilot ’23 (DP23) Engineering Report summarizes technical work done in the Pilot to increase drought and wildfires awareness among various disaster management stakeholders. Pilot participants implemented components of a data flow ecosystem to leverage analysis-ready earth observations and other datasets (ARD) and produce decision-ready indicators (DRI) according to collaboratively developed workflow recipes. DP23 focused on the hazards of drought, wildfires, and floods, the interactions and complications among them, as well as climate change scenario effects on hydropower production, in regions of Canada, United States, and Italy. The Pilot also prototyped providing information to field practitioners in secure package formats and leveraging linked data and structured web page information to optimize public web searches for disaster information.
+  content: This OGC Disaster Pilot ’23 (DP23) Engineering Report summarizes technical
+    work done in the Pilot to increase drought and wildfires awareness among various
+    disaster management stakeholders. Pilot participants implemented components of
+    a data flow ecosystem to leverage analysis-ready earth observations and other
+    datasets (ARD) and produce decision-ready indicators (DRI) according to collaboratively
+    developed workflow recipes. DP23 focused on the hazards of drought, wildfires,
+    and floods, the interactions and complications among them, as well as climate
+    change scenario effects on hydropower production, in regions of Canada, United
+    States, and Italy. The Pilot also prototyped providing information to field practitioners
+    in secure package formats and leveraging linked data and structured web page information
+    to optimize public web searches for disaster information.
 ext:
   schema_version: v1.1.2
   doctype:

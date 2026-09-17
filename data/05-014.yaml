@@ -1,3 +1,4 @@
+---
 id: '05014'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Discussion Paper specifies image coordinate reference system (CRS) definitions designed for possible use by WCTS and WCS servers and clients, initially in the IH4DS thread of the OWS 2 interoperability initiative. This report specifies image CRS definitions suitable for both ungeorectified and georectified images, where an ungeorectified image can be georeferenced or not.
+  content: This Discussion Paper specifies image coordinate reference system (CRS)
+    definitions designed for possible use by WCTS and WCS servers and clients, initially
+    in the IH4DS thread of the OWS 2 interoperability initiative. This report specifies
+    image CRS definitions suitable for both ungeorectified and georectified images,
+    where an ungeorectified image can be georeferenced or not.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '12096'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is an Engineering Report for the OWS-9 Interoperability Test Bed. The focus of the document is discussion and demonstration on the use of SWE Common Data 2.0 encodings to support an interoperable messaging description and encoding for the next generation GPS message streams into and out of the GPS navigation accuracy improvement services. The connection of SWE Common to SensorML 2.0 and the application of SensorML to describe the processing surrounding GPS navigation improvement will also be discussed.
+  content: This document is an Engineering Report for the OWS-9 Interoperability Test
+    Bed. The focus of the document is discussion and demonstration on the use of SWE
+    Common Data 2.0 encodings to support an interoperable messaging description and
+    encoding for the next generation GPS message streams into and out of the GPS navigation
+    accuracy improvement services. The connection of SWE Common to SensorML 2.0 and
+    the application of SensorML to describe the processing surrounding GPS navigation
+    improvement will also be discussed.
 ext:
   schema_version: v1.1.2
   doctype:

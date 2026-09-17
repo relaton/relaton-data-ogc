@@ -1,3 +1,4 @@
+---
 id: 22036r1
 schema_version: v1.5.6
 type: standard
@@ -74,7 +75,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Currently, most OGC Standards focus on data that is observed on the ground or near the Earth’s surface. Extra-terrestrial space and the exact location of remote sensors has been less in focus. Current OGC Standardizations cannot be applied to this type of spatial data processing. This OGC Testbed 18 Engineering Report (ER) first provides a detailed description of existing Standards, conventions, and tools which are particularly relevant for further evaluation. Subsequently, various coordinate and time systems are presented and improvements or extensions to existing Standards are proposed to describe objects in orbit around any celestial body or interplanetary flight through our solar system.
+  content: Currently, most OGC Standards focus on data that is observed on the ground
+    or near the Earth’s surface. Extra-terrestrial space and the exact location of
+    remote sensors has been less in focus. Current OGC Standardizations cannot be
+    applied to this type of spatial data processing. This OGC Testbed 18 Engineering
+    Report (ER) first provides a detailed description of existing Standards, conventions,
+    and tools which are particularly relevant for further evaluation. Subsequently,
+    various coordinate and time systems are presented and improvements or extensions
+    to existing Standards are proposed to describe objects in orbit around any celestial
+    body or interplanetary flight through our solar system.
 ext:
   schema_version: v1.1.2
   doctype:

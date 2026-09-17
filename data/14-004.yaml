@@ -1,3 +1,4 @@
+---
 id: '14004'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document an interoperable hydrology profile for OGC Sensor Observation Service (SOS) 2.0 implementations serving OGC WaterML 2.0. This development is based on previous activities and results (i.e. Hydrology Interoperability Experiments as well as the European FP7 project GEOWOW). It is guided by the need to overcome mostly semantic issues between different SOS instances serving hydrological data and the according clients. Therefore, this profile focuses on how to use the entities and requests of the standards and covers the necessary technical details. '
+  content: 'This document an interoperable hydrology profile for OGC Sensor Observation
+    Service (SOS) 2.0 implementations serving OGC WaterML 2.0. This development is
+    based on previous activities and results (i.e. Hydrology Interoperability Experiments
+    as well as the European FP7 project GEOWOW). It is guided by the need to overcome
+    mostly semantic issues between different SOS instances serving hydrological data
+    and the according clients. Therefore, this profile focuses on how to use the entities
+    and requests of the standards and covers the necessary technical details. '
 ext:
   schema_version: v1.1.2
   doctype:

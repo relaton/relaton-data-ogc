@@ -1,3 +1,4 @@
+---
 id: '19077'
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Body of Knowledge is a structured collection of concepts and related resources that can be found in the OGC library. It is, in effect, a view of explicit knowledge available from the OGC Virtual Knowledge Store and related components such as the OGC Definitions Server and the OGC Glossary of Terms. The OGC Body of Knowledge is intended to provide a reference for users and developers of geospatial software. This discussion paper describes the approach taken to develop the OGC Body of Knowledge and presents the results of the approach. It is intended to encourage and facilitate discussion within the OGC membership and wider geospatial community.
+  content: The OGC Body of Knowledge is a structured collection of concepts and related
+    resources that can be found in the OGC library. It is, in effect, a view of explicit
+    knowledge available from the OGC Virtual Knowledge Store and related components
+    such as the OGC Definitions Server and the OGC Glossary of Terms. The OGC Body
+    of Knowledge is intended to provide a reference for users and developers of geospatial
+    software. This discussion paper describes the approach taken to develop the OGC
+    Body of Knowledge and presents the results of the approach. It is intended to
+    encourage and facilitate discussion within the OGC membership and wider geospatial
+    community.
 ext:
   schema_version: v1.1.2
   doctype:

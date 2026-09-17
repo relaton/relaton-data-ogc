@@ -1,3 +1,4 @@
+---
 id: '12156'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Reference Architecture Profiler (RAP) Advisor™ is a web based application that\r\nrecommends OGC Standards and OGC Reference Model (ORM) Sections that are\r\nrelevant to a system development; such that a community of interest could derive and\r\nbuild a profile of suitable OGC standards to meet their specific needs. This Engineering\r\nReport contains the requirements, conceptual design, development methodology, and\r\nimplementation of the RAP Advisor.\r\nInitial development of the RAP Advisor™ was concurrent with the OGC Web Services\r\nTestbed, Phase 9 (OWS-9) with NGA sponsorship. During OWS-9 timeframe, key\r\nconcepts of the RAP Advisor were confirmed through prototyping. Future development\r\nis required to complete the functions and content of the Advisor."
+  content: "The Reference Architecture Profiler (RAP) Advisor™ is a web based application
+    that\r\nrecommends OGC Standards and OGC Reference Model (ORM) Sections that are\r\nrelevant
+    to a system development; such that a community of interest could derive and\r\nbuild
+    a profile of suitable OGC standards to meet their specific needs. This Engineering\r\nReport
+    contains the requirements, conceptual design, development methodology, and\r\nimplementation
+    of the RAP Advisor.\r\nInitial development of the RAP Advisor™ was concurrent
+    with the OGC Web Services\r\nTestbed, Phase 9 (OWS-9) with NGA sponsorship. During
+    OWS-9 timeframe, key\r\nconcepts of the RAP Advisor were confirmed through prototyping.
+    Future development\r\nis required to complete the functions and content of the
+    Advisor."
 ext:
   schema_version: v1.1.2
   doctype:

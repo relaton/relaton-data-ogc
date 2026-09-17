@@ -1,14 +1,17 @@
+---
 id: 21066r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Release Notes for OGC Two Dimensional Tile Matrix Set and Tile Set Metadata v.2.0
+  content: Release Notes for OGC Two Dimensional Tile Matrix Set and Tile Set Metadata
+    v.2.0
   type: title-main
 - language: en
   script: Latn
-  content: Release Notes for OGC Two Dimensional Tile Matrix Set and Tile Set Metadata v.2.0
+  content: Release Notes for OGC Two Dimensional Tile Matrix Set and Tile Set Metadata
+    v.2.0
   type: main
 source:
 - type: src
@@ -56,7 +59,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document provides the set of revision notes for OGC Two Dimensional Tile Matrix Set and Tile Set Metadata [OGC 17-083r4] and does not modify that Standard.
+  content: This document provides the set of revision notes for OGC Two Dimensional
+    Tile Matrix Set and Tile Set Metadata [OGC 17-083r4] and does not modify that
+    Standard.
 ext:
   schema_version: v1.1.2
   doctype:

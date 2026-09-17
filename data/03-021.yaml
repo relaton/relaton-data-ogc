@@ -1,3 +1,4 @@
+---
 id: '03021'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Provides an overview of the requirements, architecture, and design of Integrated Clients developed during the OGC Open Web Services
+  content: Provides an overview of the requirements, architecture, and design of Integrated
+    Clients developed during the OGC Open Web Services
 ext:
   schema_version: v1.1.2
   doctype:

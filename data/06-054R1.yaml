@@ -1,3 +1,4 @@
+---
 id: 06054r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies the interface to an Image Geopositioning Service that adjusts the georeferencing coordinate transformations of multiple images. This adjustment is normally done using a photogrammetric triangulation process, although other methods could be used. Such triangulation adjusts the parameter values of the image georeferencing coordinate transformations using a least-squares fitting process to measured image positions with known error statistics.
+  content: This document specifies the interface to an Image Geopositioning Service
+    that adjusts the georeferencing coordinate transformations of multiple images.
+    This adjustment is normally done using a photogrammetric triangulation process,
+    although other methods could be used. Such triangulation adjusts the parameter
+    values of the image georeferencing coordinate transformations using a least-squares
+    fitting process to measured image positions with known error statistics.
 ext:
   schema_version: v1.1.2
   doctype:

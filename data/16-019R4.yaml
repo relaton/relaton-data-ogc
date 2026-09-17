@@ -1,3 +1,4 @@
+---
 id: 16019r4
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: OGC defines interfaces that enable interoperability of geospatial applications. API’s are a popular method to implement interfaces for accessing spatial data. This White Paper provides a discussion of Application Programming Interfaces (APIs) to support discussion of possible actions in the Open Geospatial Consortium (OGC).
+  content: OGC defines interfaces that enable interoperability of geospatial applications.
+    API’s are a popular method to implement interfaces for accessing spatial data.
+    This White Paper provides a discussion of Application Programming Interfaces (APIs)
+    to support discussion of possible actions in the Open Geospatial Consortium (OGC).
 ext:
   schema_version: v1.1.2
   doctype:

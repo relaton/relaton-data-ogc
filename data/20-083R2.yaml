@@ -1,3 +1,4 @@
+---
 id: 20083r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This report details the results of the OGC Building Energy Mapping and Analysis Concept Development Study (BEMA CDS). Sponsored by NRCan and drawing on numerous previous studies, the CDS released a Request for Information on building energy data and applications. The responses were presented and validated in 3 public workshops and form the basis for an Energy SDI notional architecture.
+  content: This report details the results of the OGC Building Energy Mapping and
+    Analysis Concept Development Study (BEMA CDS). Sponsored by NRCan and drawing
+    on numerous previous studies, the CDS released a Request for Information on building
+    energy data and applications. The responses were presented and validated in 3
+    public workshops and form the basis for an Energy SDI notional architecture.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '09053r5'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document covers Geoprocessing Workflow best practices and methods in a SOA environment. A RESTful approach was also conducted in this testbed, but no specific implementation details were available to be included in this ER; also, the RESTful workflow approaches and technology used in this testbed was essentially same as that used in OWS-5.
+  content: This document covers Geoprocessing Workflow best practices and methods
+    in a SOA environment. A RESTful approach was also conducted in this testbed, but
+    no specific implementation details were available to be included in this ER; also,
+    the RESTful workflow approaches and technology used in this testbed was essentially
+    same as that used in OWS-5.
 ext:
   schema_version: v1.1.2
   doctype:

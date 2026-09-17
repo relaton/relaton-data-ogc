@@ -1,3 +1,4 @@
+---
 id: '16062'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This engineering report has been produced by the OGCÂ® Testbed-12 initiative.\r\nThe engineering report evaluates interoperability between a variety of\r\ncatalogues. The report presents a comparison of the catalogues, with the same\r\ndatasets uploaded. The catalogues discussed in the report include services\r\nconforming to Catalogue Service for Web (CSW) version 2.0.2 and 3.0, including\r\nservices based on the ebRIM profile of CSW 2.0.2 and an extension of CSW 3.0\r\nwith OpenSearch and SOAP. The engineering report presents results from tests\r\nusing a multi-catalogue client to interact with each service. The engineering\r\nreport also provides a comparison of CSW and services based on the Data\r\nCatalogue (DCAT) specification covering functionality, expressiveness and\r\nusability of CSW and DCAT. The comparison is supported by a discussion on the\r\nimplementation of a SPARQL / GeoSPARQL service."
+  content: "This engineering report has been produced by the OGCÂ® Testbed-12 initiative.\r\nThe
+    engineering report evaluates interoperability between a variety of\r\ncatalogues.
+    The report presents a comparison of the catalogues, with the same\r\ndatasets
+    uploaded. The catalogues discussed in the report include services\r\nconforming
+    to Catalogue Service for Web (CSW) version 2.0.2 and 3.0, including\r\nservices
+    based on the ebRIM profile of CSW 2.0.2 and an extension of CSW 3.0\r\nwith OpenSearch
+    and SOAP. The engineering report presents results from tests\r\nusing a multi-catalogue
+    client to interact with each service. The engineering\r\nreport also provides
+    a comparison of CSW and services based on the Data\r\nCatalogue (DCAT) specification
+    covering functionality, expressiveness and\r\nusability of CSW and DCAT. The comparison
+    is supported by a discussion on the\r\nimplementation of a SPARQL / GeoSPARQL
+    service."
 ext:
   schema_version: v1.1.2
   doctype:

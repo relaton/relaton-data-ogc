@@ -1,3 +1,4 @@
+---
 id: '25006'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,24 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The industries dedicated to the Architecture, Engineering, Construction, and Operation of Infrastructure Assets (AECO) have been adopting state of the art advancements in information technologies, including Building Information Modeling (BIM), Internet of Things (IoT), and Artificial Intelligence (AI). These efforts have been leading these industries to embrace Digital Twin (DT) applications and processes in order to enhance Business Intelligence, Decision Support, and Situational Awareness. The concretion of these developments heavily rely on the overall quality, alignment, and discoverability of data in a DT. Semantical standardization of data is an important part of those requirements, which enables outcomes such as automated validation, interoperability, and simulations. This discussion paper focuses on a piece of information that is common to most of those goals: semantical machine-understanding of materials captured in a DT for AECO.\r\n\r\nThis paper presents a brief overview of the state of the modeling of materials in a sample of existing standards — IFC and 3D Tiles — and software vendor applications — Base Infrastructure Schemas (BIS), an Open Source effort by Bentley Systems, and Granta MI, a commercial Materials Data Management (MDM) system by Ansys — relevant for AECO industries. This is done in light of the needs for machine-understanding of materials in a DT for AECO."
+  content: "The industries dedicated to the Architecture, Engineering, Construction,
+    and Operation of Infrastructure Assets (AECO) have been adopting state of the
+    art advancements in information technologies, including Building Information Modeling
+    (BIM), Internet of Things (IoT), and Artificial Intelligence (AI). These efforts
+    have been leading these industries to embrace Digital Twin (DT) applications and
+    processes in order to enhance Business Intelligence, Decision Support, and Situational
+    Awareness. The concretion of these developments heavily rely on the overall quality,
+    alignment, and discoverability of data in a DT. Semantical standardization of
+    data is an important part of those requirements, which enables outcomes such as
+    automated validation, interoperability, and simulations. This discussion paper
+    focuses on a piece of information that is common to most of those goals: semantical
+    machine-understanding of materials captured in a DT for AECO.\r\n\r\nThis paper
+    presents a brief overview of the state of the modeling of materials in a sample
+    of existing standards — IFC and 3D Tiles — and software vendor applications — Base
+    Infrastructure Schemas (BIS), an Open Source effort by Bentley Systems, and Granta
+    MI, a commercial Materials Data Management (MDM) system by Ansys — relevant for
+    AECO industries. This is done in light of the needs for machine-understanding
+    of materials in a DT for AECO."
 ext:
   schema_version: v1.1.2
   doctype:

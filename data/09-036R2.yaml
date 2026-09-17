@@ -1,3 +1,4 @@
+---
 id: '09036r2'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The aim of this OGC Engineering Report is to show how to provide access control for OGC Web Services (OWS). In the first part of this document we will briefly introduce the relevant details of XACML 2.0, OGC GeoXACML 1.0 and some related profiles. '
+  content: 'The aim of this OGC Engineering Report is to show how to provide access
+    control for OGC Web Services (OWS). In the first part of this document we will
+    briefly introduce the relevant details of XACML 2.0, OGC GeoXACML 1.0 and some
+    related profiles. '
 ext:
   schema_version: v1.1.2
   doctype:

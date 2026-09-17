@@ -1,14 +1,17 @@
+---
 id: '14049'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering Report
+  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering
+    Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering Report
+  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering
+    Report
   type: main
 source:
 - type: src
@@ -60,7 +63,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Testbed 10 ontology work focused on:\r\n•\tA general examination of ontologies in the context of OGC data modeling, handling, and organization. Testbed-10 has started to define a consistent set of ontologies implementing solid theoretical foundations and semantics. \r\n•\tThe definition of a core ontologies for representing incident information used by Incident Management Systems (IMS) and mapping symbologies used in the emergency and disaster management domain with the goal to improve interoperability between different IMS symbology sets used across multi-level jurisdiction. \r\n•\tAddressed ontology mapping between hydrology feature models using SPARQL and OWL2.\r\n"
+  content: "Testbed 10 ontology work focused on:\r\n•\tA general examination of ontologies
+    in the context of OGC data modeling, handling, and organization. Testbed-10 has
+    started to define a consistent set of ontologies implementing solid theoretical
+    foundations and semantics. \r\n•\tThe definition of a core ontologies for representing
+    incident information used by Incident Management Systems (IMS) and mapping symbologies
+    used in the emergency and disaster management domain with the goal to improve
+    interoperability between different IMS symbology sets used across multi-level
+    jurisdiction. \r\n•\tAddressed ontology mapping between hydrology feature models
+    using SPARQL and OWL2.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 16042r1
 schema_version: v1.5.6
 type: standard
@@ -68,7 +69,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Engineering Report (ER) describes requirements, challenges and solutions regarding improving multidimensional Earth Observation (EO) data access, discovery and visualization through Web Map Service (WMS), Web Map Tile Service (WMTS), and corresponding extensions. The ER will highlight solutions and recommendations of following main topics.\r\n1) WMTS enhancements for time-varying layer access/discovery\r\n\r\n2) WMS enhancements for NetCDF\r\n\r\n3) WMTS enhancements for multidimensional domain discovery\r\n"
+  content: "This Engineering Report (ER) describes requirements, challenges and solutions
+    regarding improving multidimensional Earth Observation (EO) data access, discovery
+    and visualization through Web Map Service (WMS), Web Map Tile Service (WMTS),
+    and corresponding extensions. The ER will highlight solutions and recommendations
+    of following main topics.\r\n1) WMTS enhancements for time-varying layer access/discovery\r\n\r\n2)
+    WMS enhancements for NetCDF\r\n\r\n3) WMTS enhancements for multidimensional domain
+    discovery\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

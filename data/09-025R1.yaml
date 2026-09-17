@@ -1,3 +1,4 @@
+---
 id: '09025r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This International Standard specifies the behaviour of a service that provides transactions on and access to geographic features in a manner independent of the underlying data store. It specifies discovery operations, query operations, locking operations, transaction operations and operations to manage stored parameterized query expressions.\r\nDiscovery operations allow the service to be interrogated to determine its capabilities and to retrieve the application schema that defines the feature types that the service offers.\r\nQuery operations allow features or values of feature properties to be retrieved from the underlying data store based upon constraints, defined by the client, on feature properties.\r\nLocking operations allow exclusive access to features for the purpose of modifying or deleting features.\r\nTransaction operations allow features to be created, changed, replaced and deleted from the underlying data store.\r\nStored query operations allow clients to create, drop, list and described parameterized query expressions that are stored by the server and can be repeatedly invoked using different parameter values."
+  content: "This International Standard specifies the behaviour of a service that
+    provides transactions on and access to geographic features in a manner independent
+    of the underlying data store. It specifies discovery operations, query operations,
+    locking operations, transaction operations and operations to manage stored parameterized
+    query expressions.\r\nDiscovery operations allow the service to be interrogated
+    to determine its capabilities and to retrieve the application schema that defines
+    the feature types that the service offers.\r\nQuery operations allow features
+    or values of feature properties to be retrieved from the underlying data store
+    based upon constraints, defined by the client, on feature properties.\r\nLocking
+    operations allow exclusive access to features for the purpose of modifying or
+    deleting features.\r\nTransaction operations allow features to be created, changed,
+    replaced and deleted from the underlying data store.\r\nStored query operations
+    allow clients to create, drop, list and described parameterized query expressions
+    that are stored by the server and can be repeatedly invoked using different parameter
+    values."
 ext:
   schema_version: v1.1.2
   doctype:

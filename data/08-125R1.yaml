@@ -1,3 +1,4 @@
+---
 id: '08125r1'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® Best Practices Document provides guidelines for developing the OGC KML standard in a manner that best serves and supports the KML application developer and user communities. It applies to the extension of KML by application developers and the subsequent enhancement of the KML standard by the OGC.
+  content: This OGC® Best Practices Document provides guidelines for developing the
+    OGC KML standard in a manner that best serves and supports the KML application
+    developer and user communities. It applies to the extension of KML by application
+    developers and the subsequent enhancement of the KML standard by the OGC.
 ext:
   schema_version: v1.1.2
   doctype:

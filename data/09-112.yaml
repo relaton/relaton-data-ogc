@@ -1,3 +1,4 @@
+---
 id: '09112'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Discussion paper introduces the Sensor Observable Registry (SOR), a web service interface for managing the definitions of phenomena measured by sensors as well as exploring semantic relationships between these phenomena.
+  content: This Discussion paper introduces the Sensor Observable Registry (SOR),
+    a web service interface for managing the definitions of phenomena measured by
+    sensors as well as exploring semantic relationships between these phenomena.
 ext:
   schema_version: v1.1.2
   doctype:

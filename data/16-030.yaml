@@ -1,3 +1,4 @@
+---
 id: '16030'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Testbed 12 work evaluates the interoperability of the Common Map API tool with commercial vendor tools supporting GeoPackage. Ideally data can be shared and exchanged between apps on a single device via GeoPackage. The demonstration will show the vector and/or routing data being used by disparate applications.
+  content: Testbed 12 work evaluates the interoperability of the Common Map API tool
+    with commercial vendor tools supporting GeoPackage. Ideally data can be shared
+    and exchanged between apps on a single device via GeoPackage. The demonstration
+    will show the vector and/or routing data being used by disparate applications.
 ext:
   schema_version: v1.1.2
   doctype:

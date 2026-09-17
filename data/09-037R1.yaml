@@ -1,3 +1,4 @@
+---
 id: '09037r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC document specifies a CityGML-based application schema for a subset of an Urban Topographic Data Store (UTDS) as specified by the US National Geospatial-Intelligence Agency (NGA).\r\nThe particular focus of this implementation profile was to test the applicability of CityGML to UTDS data. \r\nThis document specifies the implementation profile as well as the findings.\r\n"
+  content: "This OGC document specifies a CityGML-based application schema for a subset
+    of an Urban Topographic Data Store (UTDS) as specified by the US National Geospatial-Intelligence
+    Agency (NGA).\r\nThe particular focus of this implementation profile was to test
+    the applicability of CityGML to UTDS data. \r\nThis document specifies the implementation
+    profile as well as the findings.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

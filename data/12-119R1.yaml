@@ -1,3 +1,4 @@
+---
 id: 12119r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This engineering report represents the results of the OWS-9 innovations thread on mobile applications. Initially, the goal was to help understanding the requirements for developing standards-based geospatially-enabled mobile applications. The report describes how OGC Enabled Mobile Apps can be integrated into information architectures based on OGC standards. Particular emphasize has been put on the future work section, as it provides valuable recommendations for further standardization work (and, equally important, highlights aspects that could be excluded from standardization)
+  content: This engineering report represents the results of the OWS-9 innovations
+    thread on mobile applications. Initially, the goal was to help understanding the
+    requirements for developing standards-based geospatially-enabled mobile applications.
+    The report describes how OGC Enabled Mobile Apps can be integrated into information
+    architectures based on OGC standards. Particular emphasize has been put on the
+    future work section, as it provides valuable recommendations for further standardization
+    work (and, equally important, highlights aspects that could be excluded from standardization)
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '20042'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Engineering Report (ER) documents the findings and experiences resulting from Terradue Activities on the OGC Earth Observation Applications Pilot. More specifically, this ER provides a way forward for the implementation of the applications to the data paradigm in the context of Earth Observation (EO) satellite data processing and Cloud-based platforms to facilitate and standardize the access to Earth observation data and information.
+  content: This OGC Engineering Report (ER) documents the findings and experiences
+    resulting from Terradue Activities on the OGC Earth Observation Applications Pilot.
+    More specifically, this ER provides a way forward for the implementation of the
+    applications to the data paradigm in the context of Earth Observation (EO) satellite
+    data processing and Cloud-based platforms to facilitate and standardize the access
+    to Earth observation data and information.
 ext:
   schema_version: v1.1.2
   doctype:

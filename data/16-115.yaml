@@ -1,3 +1,4 @@
+---
 id: '16115'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report (ER) gives recommendations on serving IFC via WFS and discusses related issues. It was decided that the focus of this ER is to summarize issues and give recommendations for future work and discuss the nature of such work. In other words, this ER should be viewed as an initial set of discussion points on the topic of serving IFC via WFS.
+  content: This Engineering Report (ER) gives recommendations on serving IFC via WFS
+    and discusses related issues. It was decided that the focus of this ER is to summarize
+    issues and give recommendations for future work and discuss the nature of such
+    work. In other words, this ER should be viewed as an initial set of discussion
+    points on the topic of serving IFC via WFS.
 ext:
   schema_version: v1.1.2
   doctype:

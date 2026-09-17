@@ -1,14 +1,19 @@
+---
 id: '26050'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Building Blocks for Interoperable, AI-Ready Geospatial Data: The Next Chapter of Spatial Data Infrastructures and Geospatial Ecosystems. A practical f'
+  content: 'Building Blocks for Interoperable, AI-Ready Geospatial Data: The Next
+    Chapter of Spatial Data Infrastructures and Geospatial Ecosystems. A practical
+    f'
   type: title-main
 - language: en
   script: Latn
-  content: 'Building Blocks for Interoperable, AI-Ready Geospatial Data: The Next Chapter of Spatial Data Infrastructures and Geospatial Ecosystems. A practical f'
+  content: 'Building Blocks for Interoperable, AI-Ready Geospatial Data: The Next
+    Chapter of Spatial Data Infrastructures and Geospatial Ecosystems. A practical
+    f'
   type: main
 source:
 - type: src
@@ -84,7 +89,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document reflects the current state of an ongoing conversation on interoperability and AI-readiness among OGC members and partners. It draws on work that OGC has carried out with its members across pilots and testbeds, and in EU-funded research projects, and on the wider debate about the future of spatial data infrastructures and geospatial ecosystems. It is offered as a proposal and a basis for discussion, a shared and evolving reference rather than a normative position or the view of any single organization.
+  content: This document reflects the current state of an ongoing conversation on
+    interoperability and AI-readiness among OGC members and partners. It draws on
+    work that OGC has carried out with its members across pilots and testbeds, and
+    in EU-funded research projects, and on the wider debate about the future of spatial
+    data infrastructures and geospatial ecosystems. It is offered as a proposal and
+    a basis for discussion, a shared and evolving reference rather than a normative
+    position or the view of any single organization.
 ext:
   schema_version: v1.1.2
   doctype:

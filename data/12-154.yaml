@@ -1,14 +1,17 @@
+---
 id: '12154'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format (NITF) Engineering Report '
+  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format
+    (NITF) Engineering Report '
   type: title-main
 - language: en
   script: Latn
-  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format (NITF) Engineering Report '
+  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format
+    (NITF) Engineering Report '
   type: main
 source:
 - type: src
@@ -54,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® document provides mapping of the national imagery transmission format (NITF) version 2.1 format and NITF tagged record extensions (TRE) to GMLJP2 v2.0 (draft) format.\r\nThis Engineering Report was prepared as a deliverable for the OGC Web Services, Phase 9 (OWS-9) initiative. \r\nThis document further describes study results of analyses of NITF and NITF extensions (TRE) capabilities and how they can be supported by GMLJP2 2.0 (draft). This activity was a part of the OGC OWS-9 Innovations thread.\r\n"
+  content: "This OGC® document provides mapping of the national imagery transmission
+    format (NITF) version 2.1 format and NITF tagged record extensions (TRE) to GMLJP2
+    v2.0 (draft) format.\r\nThis Engineering Report was prepared as a deliverable
+    for the OGC Web Services, Phase 9 (OWS-9) initiative. \r\nThis document further
+    describes study results of analyses of NITF and NITF extensions (TRE) capabilities
+    and how they can be supported by GMLJP2 2.0 (draft). This activity was a part
+    of the OGC OWS-9 Innovations thread.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

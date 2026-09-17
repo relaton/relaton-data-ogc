@@ -1,3 +1,4 @@
+---
 id: '20030'
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report documents the draft specification for a three-dimensional (3D) geodata Application Programming Interface (API) that organizes access to a variety of 2D / 3D datasets and their distributions according to a nested hierarchy of 3D geospatial volumes (GeoVolumes). The GeoVolumes (initially Tiles-3D / 3D Container) API specification is consistent with OGC API - Common and supports both link-follow and bbox query methods of access to resources of interest.
+  content: This Engineering Report documents the draft specification for a three-dimensional
+    (3D) geodata Application Programming Interface (API) that organizes access to
+    a variety of 2D / 3D datasets and their distributions according to a nested hierarchy
+    of 3D geospatial volumes (GeoVolumes). The GeoVolumes (initially Tiles-3D / 3D
+    Container) API specification is consistent with OGC API - Common and supports
+    both link-follow and bbox query methods of access to resources of interest.
 ext:
   schema_version: v1.1.2
   doctype:

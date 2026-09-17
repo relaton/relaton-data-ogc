@@ -1,14 +1,17 @@
+---
 id: 06131r4
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW 2.0
+  content: EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW
+    2.0
   type: title-main
 - language: en
   script: Latn
-  content: EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW 2.0
+  content: EO Products Extension Package for ebRIM (ISO/TS 15000-3) Profile of CSW
+    2.0
   type: main
 source:
 - type: html
@@ -54,7 +57,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® document specifies the Earth Observation Products Extension Package for ebRIM (ISO/TS 15000-3) Application Profile of CSW 2.0, based on the [OGC 06-080r3] OGC® GML Application Schema for EO Products.
+  content: This OGC® document specifies the Earth Observation Products Extension Package
+    for ebRIM (ISO/TS 15000-3) Application Profile of CSW 2.0, based on the [OGC 06-080r3]
+    OGC® GML Application Schema for EO Products.
 ext:
   schema_version: v1.1.2
   doctype:

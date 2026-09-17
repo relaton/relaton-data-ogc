@@ -1,3 +1,4 @@
+---
 id: '12006'
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The SOS standard is applicable to use cases in which sensor data needs to be managed in an\r\ninteroperable way. This standard defines a Web service interface which allows querying\r\nobservations, sensor metadata, as well as representations of observed features. Further, this\r\nstandard defines means to register new sensors and to remove existing ones. Also, it defines\r\noperations to insert new sensor observations. This standard defines this functionality in a binding\r\nindependent way; two bindings are specified in this document: a KVP binding and a SOAP\r\nbinding."
+  content: "The SOS standard is applicable to use cases in which sensor data needs
+    to be managed in an\r\ninteroperable way. This standard defines a Web service
+    interface which allows querying\r\nobservations, sensor metadata, as well as representations
+    of observed features. Further, this\r\nstandard defines means to register new
+    sensors and to remove existing ones. Also, it defines\r\noperations to insert
+    new sensor observations. This standard defines this functionality in a binding\r\nindependent
+    way; two bindings are specified in this document: a KVP binding and a SOAP\r\nbinding."
 ext:
   schema_version: v1.1.2
   doctype:

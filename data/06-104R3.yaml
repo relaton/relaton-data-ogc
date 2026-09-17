@@ -1,3 +1,4 @@
+---
 id: 06104r3
 schema_version: v1.5.6
 type: standard
@@ -16,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'OpenGIS Implementation Specification for Geographic information - Simple feature access - Part 2: SQL option'
+  content: 'OpenGIS Implementation Specification for Geographic information - Simple
+    feature access - Part 2: SQL option'
   type: main
 source:
 - type: html
@@ -62,7 +64,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OpenGIS® Simple Features Interface Standard (SFS) provides a well-defined and common way for applications to store and access feature data in relational or object-relational databases, so that the data can be used to support other applications through a common feature model, data store and information access interface. OpenGIS Simple Features are geospatial features described using vector data elements such as points, lines and polygons.  \r\n\r\nPart 1 “Common Architecture supplies the common feature model for use by applications that will use the Simple Features data stores and access interfaces. \r\n\r\nPart 2 provides a standard SQL implementation of the abstract model in Part 1. (Note: The OpenGIS® Simple Features Interface Standards for OLE/COM and CORBA are no longer current and are not provided here.) \r\n\r\nThe corresponding standard for the Web is the OpenGIS® Web Feature Service Interface Standard http://www.opengeospatial.org/standards/wfs.\r\n"
+  content: "The OpenGIS® Simple Features Interface Standard (SFS) provides a well-defined
+    and common way for applications to store and access feature data in relational
+    or object-relational databases, so that the data can be used to support other
+    applications through a common feature model, data store and information access
+    interface. OpenGIS Simple Features are geospatial features described using vector
+    data elements such as points, lines and polygons.  \r\n\r\nPart 1 “Common Architecture
+    supplies the common feature model for use by applications that will use the Simple
+    Features data stores and access interfaces. \r\n\r\nPart 2 provides a standard
+    SQL implementation of the abstract model in Part 1. (Note: The OpenGIS® Simple
+    Features Interface Standards for OLE/COM and CORBA are no longer current and are
+    not provided here.) \r\n\r\nThe corresponding standard for the Web is the OpenGIS®
+    Web Feature Service Interface Standard http://www.opengeospatial.org/standards/wfs.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

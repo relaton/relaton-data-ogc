@@ -1,3 +1,4 @@
+---
 id: '06129r1'
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OpenGIS® Catalogue Service Interface Standard 2.0.1 - FGDC CSDGM Application Profile for CSW 2.0 explains how Catalogue Services based on the FGDC Content Standard for Digital Geospatial Metadata (CSDGM) [http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata/index_html] Application Profile for the OpenGIS® Catalogue Service Interface Standard v2.0.1 [http://www.opengeospatial.org/standards/cs] are organized and implemented for the discovery, retrieval and management of data metadata.
+  content: The OpenGIS® Catalogue Service Interface Standard 2.0.1 - FGDC CSDGM Application
+    Profile for CSW 2.0 explains how Catalogue Services based on the FGDC Content
+    Standard for Digital Geospatial Metadata (CSDGM) [http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata/index_html]
+    Application Profile for the OpenGIS® Catalogue Service Interface Standard v2.0.1
+    [http://www.opengeospatial.org/standards/cs] are organized and implemented for
+    the discovery, retrieval and management of data metadata.
 ext:
   schema_version: v1.1.2
   doctype:

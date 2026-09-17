@@ -1,3 +1,4 @@
+---
 id: 16011r3
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Volume 8 of the CDB standard defines the conceptual model and the methodologies that allow the description, and transformation or conversion, of geometric properties within a set of spatial reference frames supported by the CDB standard. The CDB Spatial Reference Model (SRM) supports an unambiguous specification of the positions, directions, and distances associated with spatial information. This document also defines algorithms for precise transformation of positions, directions and distances among different spatial reference frames. \r\nIn previous versions of the CDB standard, this CDB volume was Appendix K in CDB Version 3.2 as submitted to the OGC.\r\n"
+  content: "Volume 8 of the CDB standard defines the conceptual model and the methodologies
+    that allow the description, and transformation or conversion, of geometric properties
+    within a set of spatial reference frames supported by the CDB standard. The CDB
+    Spatial Reference Model (SRM) supports an unambiguous specification of the positions,
+    directions, and distances associated with spatial information. This document also
+    defines algorithms for precise transformation of positions, directions and distances
+    among different spatial reference frames. \r\nIn previous versions of the CDB
+    standard, this CDB volume was Appendix K in CDB Version 3.2 as submitted to the
+    OGC.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

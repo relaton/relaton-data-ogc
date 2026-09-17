@@ -1,3 +1,4 @@
+---
 id: '17048'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This report documents the progress made to date by OGC and its members to build a complete picture of the present situation and develop a conceptual framework for action to improve underground infrastructure data interoperability. The report also identifies the most important steps to be taken next in order to develop the necessary data standards and foster their adoption.
+  content: This report documents the progress made to date by OGC and its members
+    to build a complete picture of the present situation and develop a conceptual
+    framework for action to improve underground infrastructure data interoperability.
+    The report also identifies the most important steps to be taken next in order
+    to develop the necessary data standards and foster their adoption.
 ext:
   schema_version: v1.1.2
   doctype:

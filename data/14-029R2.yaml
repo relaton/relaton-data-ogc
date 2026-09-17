@@ -1,3 +1,4 @@
+---
 id: 14029r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document provides a technical description of the Virtual Global Gazetteer implemented for OGC Testbed 10.  \r\nThe Virtual Global Gazetteer integrates two gazetteers – a copy of the USGS gazetteer containing domestic names and a copy of the NGA gazetteer containing non-domestic names (hosted by Interactive Instruments) and provides the capability to link to additional local gazetteers and linked data information, allowing a user to retrieve extended information on locations selected from either of the initial gazetteers. The access to linked data information provided by these gazetteers was achieved by GeoSPARQL enabling these gazetteers using semantic mapping components\r\n"
+  content: "This document provides a technical description of the Virtual Global Gazetteer
+    implemented for OGC Testbed 10.  \r\nThe Virtual Global Gazetteer integrates two
+    gazetteers – a copy of the USGS gazetteer containing domestic names and a copy
+    of the NGA gazetteer containing non-domestic names (hosted by Interactive Instruments)
+    and provides the capability to link to additional local gazetteers and linked
+    data information, allowing a user to retrieve extended information on locations
+    selected from either of the initial gazetteers. The access to linked data information
+    provided by these gazetteers was achieved by GeoSPARQL enabling these gazetteers
+    using semantic mapping components\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

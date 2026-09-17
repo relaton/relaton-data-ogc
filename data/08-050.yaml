@@ -1,3 +1,4 @@
+---
 id: '08050'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document provides the details for a corrigendum for the existing OpenGIS Standard for the Web Map Context Documents version 1.1.0 and does not modify that standard. The current OpenGIS IS that this document provides revision notes for is 05-005. This document is a corrigendum to 05-005.
+  content: This document provides the details for a corrigendum for the existing OpenGIS
+    Standard for the Web Map Context Documents version 1.1.0 and does not modify that
+    standard. The current OpenGIS IS that this document provides revision notes for
+    is 05-005. This document is a corrigendum to 05-005.
 ext:
   schema_version: v1.1.2
   doctype:

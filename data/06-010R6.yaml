@@ -1,3 +1,4 @@
+---
 id: 06010r6
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,23 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*THIS STANDARD HAS BEEN RETIRED* \r\n\r\nThe OpenGIS® Transducer Markup Language Encoding Standard (TML) is an application and presentation layer communication protocol for exchanging live streaming or archived data to (i.e. control data) and/or sensor data from any sensor system. A sensor system can be one or more sensors, receivers, actuators, transmitters, and processes. A TML client can be capable of handling any TML enabled sensor system without prior knowledge of that system.\r\n \r\nThe protocol contains descriptions of both the sensor data and the sensor system itself. It is scalable, consistent, unambiguous, and usable with any sensor system incorporating any number sensors and actuators. It supports the precise spatial and temporal alignment of each data element. It also supports the registration, discovery and understanding of sensor systems and data, enabling users to ignore irrelevant data. It can adapt to highly dynamic and distributed environments in distributed net-centric operations.\r\n \r\nThe sensor system descriptions use common models and metadata and they describe the physical and semantic relationships of components, thus enabling sensor fusion.\r\n\r\nThis is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe] suite of standards.\r\n"
+  content: "*THIS STANDARD HAS BEEN RETIRED* \r\n\r\nThe OpenGIS® Transducer Markup
+    Language Encoding Standard (TML) is an application and presentation layer communication
+    protocol for exchanging live streaming or archived data to (i.e. control data)
+    and/or sensor data from any sensor system. A sensor system can be one or more
+    sensors, receivers, actuators, transmitters, and processes. A TML client can be
+    capable of handling any TML enabled sensor system without prior knowledge of that
+    system.\r\n \r\nThe protocol contains descriptions of both the sensor data and
+    the sensor system itself. It is scalable, consistent, unambiguous, and usable
+    with any sensor system incorporating any number sensors and actuators. It supports
+    the precise spatial and temporal alignment of each data element. It also supports
+    the registration, discovery and understanding of sensor systems and data, enabling
+    users to ignore irrelevant data. It can adapt to highly dynamic and distributed
+    environments in distributed net-centric operations.\r\n \r\nThe sensor system
+    descriptions use common models and metadata and they describe the physical and
+    semantic relationships of components, thus enabling sensor fusion.\r\n\r\nThis
+    is one of the OGC Sensor Web Enablement (SWE) [http://www.opengeospatial.org/ogc/markets-technologies/swe]
+    suite of standards.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

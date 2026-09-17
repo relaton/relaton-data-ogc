@@ -1,3 +1,4 @@
+---
 id: '09083r4'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The GeoAPI Implementation Standard defines, through the GeoAPI library, a Java language application programming interface (API) including a set of types and methods which can be used for the manipulation of geographic information structured following the specifications adopted by the Technical Committee211 of the International Organization for Standardization (ISO) and by the Open Geospatial Consortium (OGC). This standard standardizes the informatics contract between the client code which manipulates normalized data structures of geographic information based on the published API and the library code able both to instantiate and operate on these data structures according to the rules required by the published API and by the ISO and OGC standards.
+  content: The GeoAPI Implementation Standard defines, through the GeoAPI library,
+    a Java language application programming interface (API) including a set of types
+    and methods which can be used for the manipulation of geographic information structured
+    following the specifications adopted by the Technical Committee211 of the International
+    Organization for Standardization (ISO) and by the Open Geospatial Consortium (OGC).
+    This standard standardizes the informatics contract between the client code which
+    manipulates normalized data structures of geographic information based on the
+    published API and the library code able both to instantiate and operate on these
+    data structures according to the rules required by the published API and by the
+    ISO and OGC standards.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '02102'
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Describes modelling requirements for spatial referencing by coordinates. This document supplements and corrects ISO 19111. There has never been a motion to adopt 01-063r2. A motion was approved at the Dec 01 meeting in Vancouver to adopt 01-063r1
+  content: Describes modelling requirements for spatial referencing by coordinates.
+    This document supplements and corrects ISO 19111. There has never been a motion
+    to adopt 01-063r2. A motion was approved at the Dec 01 meeting in Vancouver to
+    adopt 01-063r1
 ext:
   schema_version: v1.1.2
   doctype:

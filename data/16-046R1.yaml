@@ -1,3 +1,4 @@
+---
 id: 16046r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The requirement for capabilities supporting semantic understanding and reasoning in geospatial intelligence (GEOINT) is an all-encompassing paradigm shift from the past. Standards play a critical role in ensuring this is accomplished in a consistent and repeatable manner. Semantic standards and services supporting semantic capabilities are at a relatively early stage of development. Interoperability between semantic standards for encoding relationships and Web based services for discovery, access, retrieval and visualization of those relationships requires more testing and evaluation. This engineering report (ER) highlights the key findings and discussions from Testbed-12 that enable semantic interoperability, including semantic mediation, schema registries, and SPARQL endpoints. It references key findings from the Semantic Portrayal ER and helps to understand the current OGC discussion on semantics in general.
+  content: The requirement for capabilities supporting semantic understanding and
+    reasoning in geospatial intelligence (GEOINT) is an all-encompassing paradigm
+    shift from the past. Standards play a critical role in ensuring this is accomplished
+    in a consistent and repeatable manner. Semantic standards and services supporting
+    semantic capabilities are at a relatively early stage of development. Interoperability
+    between semantic standards for encoding relationships and Web based services for
+    discovery, access, retrieval and visualization of those relationships requires
+    more testing and evaluation. This engineering report (ER) highlights the key findings
+    and discussions from Testbed-12 that enable semantic interoperability, including
+    semantic mediation, schema registries, and SPARQL endpoints. It references key
+    findings from the Semantic Portrayal ER and helps to understand the current OGC
+    discussion on semantics in general.
 ext:
   schema_version: v1.1.2
   doctype:

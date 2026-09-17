@@ -1,3 +1,4 @@
+---
 id: 10191r1
 schema_version: v1.5.6
 type: standard
@@ -84,7 +85,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OpenGIS® Discussion Paper presents a Multilayered Space-Event Model for indoor navigation which simultaneously addresses route planning, multiple localization methods, navigation contexts, and different locomotion types. The paper contains the corresponding data models as well as their encoding in GML 3.1.1.
+  content: This OpenGIS® Discussion Paper presents a Multilayered Space-Event Model
+    for indoor navigation which simultaneously addresses route planning, multiple
+    localization methods, navigation contexts, and different locomotion types. The
+    paper contains the corresponding data models as well as their encoding in GML
+    3.1.1.
 ext:
   schema_version: v1.1.2
   doctype:

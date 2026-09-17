@@ -1,3 +1,4 @@
+---
 id: '10020'
 schema_version: v1.5.6
 type: standard
@@ -16,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: Topic 2.1 - Spatial Referencing by Coordinates - Extension for Parametric Values
+  content: Topic 2.1 - Spatial Referencing by Coordinates - Extension for Parametric
+    Values
   type: main
 source:
 - type: html

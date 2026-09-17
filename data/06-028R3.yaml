@@ -1,3 +1,4 @@
+---
 id: '06028r3'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The Sensor Alert Service (SAS) can be compared with an event notification system. The sensor node is the object of interest. Each node has to advertise its publications at a SAS (advertise). '
+  content: 'The Sensor Alert Service (SAS) can be compared with an event notification
+    system. The sensor node is the object of interest. Each node has to advertise
+    its publications at a SAS (advertise). '
 ext:
   schema_version: v1.1.2
   doctype:

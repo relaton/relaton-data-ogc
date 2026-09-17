@@ -1,3 +1,4 @@
+---
 id: '08054r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document details considerations for using the WPS specification to define a standard coordinate transformation service.
+  content: This document details considerations for using the WPS specification to
+    define a standard coordinate transformation service.
 ext:
   schema_version: v1.1.2
   doctype:

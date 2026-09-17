@@ -1,3 +1,4 @@
+---
 id: 18008r1
 schema_version: v1.5.6
 type: standard
@@ -80,7 +81,27 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This white paper provides an overview of the land administration domain and proposes actions needed for design and develop implementation standards this domain. A close cooperation between the Open Geospatial Consortium (OGC) and ISO is expected to accelerate those developments.\r\n\r\nA huge task is waiting: the establishment of land rights for all: young and old, rich and poor, male and female. Data on many millions of parcels, spatial units, (use-) rights, persons, and parties have to be collected, linked, maintained, and published. Land Administration Systems (LAS) should be designed for maintenance of the dynamic relations between people and land. Existing land administrations require extensions: such as 3D and 4D functionality and datasets, blockchain for transparent transactions, generic processes and integration with remote sensing, and processes to support conversion from social to legal tenure.\r\n\r\nA broad range of geospatial technologies and applications are available. They range from satellite and drone imaging and mapping, to geodesy, precise positioning, geo‐information science, cartography, spatial data infrastructure, and many surveying sub‐disciplines. The scientific and professional disciplines in the geospatial community design, develop, and apply those technologies. Apart from this technical component, a land administration also has a social and legal component. This makes land administration an arena where, apart from the geospatial community, many different scientific and professional disciplines meet. Depending on the stage of development and the level of societal acceptance of the land administration, those disciplines involved may be different."
+  content: "This white paper provides an overview of the land administration domain
+    and proposes actions needed for design and develop implementation standards this
+    domain. A close cooperation between the Open Geospatial Consortium (OGC) and ISO
+    is expected to accelerate those developments.\r\n\r\nA huge task is waiting: the
+    establishment of land rights for all: young and old, rich and poor, male and female.
+    Data on many millions of parcels, spatial units, (use-) rights, persons, and parties
+    have to be collected, linked, maintained, and published. Land Administration Systems
+    (LAS) should be designed for maintenance of the dynamic relations between people
+    and land. Existing land administrations require extensions: such as 3D and 4D
+    functionality and datasets, blockchain for transparent transactions, generic processes
+    and integration with remote sensing, and processes to support conversion from
+    social to legal tenure.\r\n\r\nA broad range of geospatial technologies and applications
+    are available. They range from satellite and drone imaging and mapping, to geodesy,
+    precise positioning, geo‐information science, cartography, spatial data infrastructure,
+    and many surveying sub‐disciplines. The scientific and professional disciplines
+    in the geospatial community design, develop, and apply those technologies. Apart
+    from this technical component, a land administration also has a social and legal
+    component. This makes land administration an arena where, apart from the geospatial
+    community, many different scientific and professional disciplines meet. Depending
+    on the stage of development and the level of societal acceptance of the land administration,
+    those disciplines involved may be different."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 07007r1
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes the purpose and function of the Topology Quality Assessment Service developed and deployed within the Geo-processing workflow thread of the OWS4 interoperability testbed.
+  content: This document describes the purpose and function of the Topology Quality
+    Assessment Service developed and deployed within the Geo-processing workflow thread
+    of the OWS4 interoperability testbed.
 ext:
   schema_version: v1.1.2
   doctype:

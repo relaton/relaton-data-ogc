@@ -1,3 +1,4 @@
+---
 id: '09047r3'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies a rule for constructing OGC names that may be used for identifying documents and elements within a document.
+  content: This document specifies a rule for constructing OGC names that may be used
+    for identifying documents and elements within a document.
 ext:
   schema_version: v1.1.2
   doctype:

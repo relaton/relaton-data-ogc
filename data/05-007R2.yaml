@@ -1,3 +1,4 @@
+---
 id: 05007r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A Web Service Processing Service provides access to calculations or models which operate on spatially referenced data.  The data required by the service can be available locally, or delivered across a network using data exchange standards such as Geography Markup Language (GML) or Geolinked Data Access Service (GDAS).  The calculation can be as simple as subtracting one set of spatially referenced numbers from another (e.g. determining the difference in influenza cases between two different seasons), or as complicated as a global climate change model. \r\n \r\nThis specification is intended to provide a mechanism to identify the spatially-referenced data required by the calculation, initiate the calculation, and manage the output from the calculation so that it can be accessed by the client.  The Web Processing Service is targeted at both vector and raster data based processing. \r\n"
+  content: "A Web Service Processing Service provides access to calculations or models
+    which operate on spatially referenced data.  The data required by the service
+    can be available locally, or delivered across a network using data exchange standards
+    such as Geography Markup Language (GML) or Geolinked Data Access Service (GDAS).
+    \ The calculation can be as simple as subtracting one set of spatially referenced
+    numbers from another (e.g. determining the difference in influenza cases between
+    two different seasons), or as complicated as a global climate change model. \r\n
+    \r\nThis specification is intended to provide a mechanism to identify the spatially-referenced
+    data required by the calculation, initiate the calculation, and manage the output
+    from the calculation so that it can be accessed by the client.  The Web Processing
+    Service is targeted at both vector and raster data based processing. \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

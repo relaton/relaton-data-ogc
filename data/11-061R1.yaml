@@ -1,3 +1,4 @@
+---
 id: 11061r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® Engineering Report provides guidelines for ISO metadata usage in AIXM 5.1\r\nconformant to the requirements of OGC 10-195 (Requirements for Aviation Metadata)\r\nand the recommendations of OGC 10-196r1 (Guidance on the Aviation Metadata\r\nProfile), with the exception of non-ISO metadata elements listed in these documents."
+  content: "This OGC® Engineering Report provides guidelines for ISO metadata usage
+    in AIXM 5.1\r\nconformant to the requirements of OGC 10-195 (Requirements for
+    Aviation Metadata)\r\nand the recommendations of OGC 10-196r1 (Guidance on the
+    Aviation Metadata\r\nProfile), with the exception of non-ISO metadata elements
+    listed in these documents."
 ext:
   schema_version: v1.1.2
   doctype:

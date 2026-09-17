@@ -1,3 +1,4 @@
+---
 id: 15052r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: REST architectural principles are associated with optimal functioning of the Web but their manifestation in geospatial Web services standards is not straightforward. This OGC Engineering Report (ER) examines their use both in existing OGC Services standards and in new or revised service standard proposals, some of which were implemented during OGC Testbed 11. The ER then defines possible uniform practices for developing bindings or interaction styles for OGC Web services that appropriately leverage REST principles.
+  content: REST architectural principles are associated with optimal functioning of
+    the Web but their manifestation in geospatial Web services standards is not straightforward.
+    This OGC Engineering Report (ER) examines their use both in existing OGC Services
+    standards and in new or revised service standard proposals, some of which were
+    implemented during OGC Testbed 11. The ER then defines possible uniform practices
+    for developing bindings or interaction styles for OGC Web services that appropriately
+    leverage REST principles.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 13026r9
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is the specification for the OpenSearch extension for Earth Observation collections and products search.\r\n\r\nThis standard is intended to provide a very simple way to make queries to a repository that contains Earth Observation information and to allow syndication of repositories."
+  content: "This document is the specification for the OpenSearch extension for Earth
+    Observation collections and products search.\r\n\r\nThis standard is intended
+    to provide a very simple way to make queries to a repository that contains Earth
+    Observation information and to allow syndication of repositories."
 ext:
   schema_version: v1.1.2
   doctype:

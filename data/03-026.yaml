@@ -1,3 +1,4 @@
+---
 id: '03026'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: SIM specifies and discusses a common information model for OGC Web Services, also known variously or in part as service capabilities or service metadata.
+  content: SIM specifies and discusses a common information model for OGC Web Services,
+    also known variously or in part as service capabilities or service metadata.
 ext:
   schema_version: v1.1.2
   doctype:

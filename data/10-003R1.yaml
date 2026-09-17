@@ -1,14 +1,17 @@
+---
 id: 10003r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Summary of the Architecture, Engineering, Construction, Owner Operator Phase 1 (AECOO-1) Joint Testbed
+  content: Summary of the Architecture, Engineering, Construction, Owner Operator
+    Phase 1 (AECOO-1) Joint Testbed
   type: title-main
 - language: en
   script: Latn
-  content: Summary of the Architecture, Engineering, Construction, Owner Operator Phase 1 (AECOO-1) Joint Testbed
+  content: Summary of the Architecture, Engineering, Construction, Owner Operator
+    Phase 1 (AECOO-1) Joint Testbed
   type: main
 source:
 - type: html
@@ -66,7 +69,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Architecture, Engineering, Construction, Owner Operator, Phase 1 (AECOO-1) Testbed developed and implemented methods to streamline communications between parties in the conceptual design phase to get an early understanding of the tradeoffs between construction cost and energy efficiency. To that end, the project developed the interoperability components required for these analyses in collaborative team settings. These were Information Delivery Manuals (IDMs) for quantity takeoffs and energy analysis business processes, and used these to define Model View Definitions (MVDs)—standards-based subsets of Industry Foundation Classes (IFCs). AECOO-1 was conducted in response the felt need that overall productivity loss and fragmentation in the capital facilities development industries is no longer tolerable. All stakeholders need to practice the best way they know, and practice profitably; software interoperability problems must not hold them back. Non-interoperable software and data is cause for loss of competition across the market.
+  content: The Architecture, Engineering, Construction, Owner Operator, Phase 1 (AECOO-1)
+    Testbed developed and implemented methods to streamline communications between
+    parties in the conceptual design phase to get an early understanding of the tradeoffs
+    between construction cost and energy efficiency. To that end, the project developed
+    the interoperability components required for these analyses in collaborative team
+    settings. These were Information Delivery Manuals (IDMs) for quantity takeoffs
+    and energy analysis business processes, and used these to define Model View Definitions
+    (MVDs)—standards-based subsets of Industry Foundation Classes (IFCs). AECOO-1
+    was conducted in response the felt need that overall productivity loss and fragmentation
+    in the capital facilities development industries is no longer tolerable. All stakeholders
+    need to practice the best way they know, and practice profitably; software interoperability
+    problems must not hold them back. Non-interoperable software and data is cause
+    for loss of competition across the market.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 06141r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This best practices document describes a profile to order Earth Observation data products. This document expands on the work presented in Best Practices for Earth Observation Products OGC-05-057r4, separating the order services from the catalogue services which are now presented in 06-079. The final goal being to agree to a coherent set of interfaces for ordering of EO products to support access to data from heterogeneous systems dealing with derived data products from satellite based measurements of the earth''s surface and environment. '
+  content: 'This best practices document describes a profile to order Earth Observation
+    data products. This document expands on the work presented in Best Practices for
+    Earth Observation Products OGC-05-057r4, separating the order services from the
+    catalogue services which are now presented in 06-079. The final goal being to
+    agree to a coherent set of interfaces for ordering of EO products to support access
+    to data from heterogeneous systems dealing with derived data products from satellite
+    based measurements of the earth''s surface and environment. '
 ext:
   schema_version: v1.1.2
   doctype:

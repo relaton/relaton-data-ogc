@@ -1,3 +1,4 @@
+---
 id: 15065r1
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report is a deliverable of the Testbed-11 Urban Climate Resilience (UCR) Thread. The UCR Thread responds to the urgent need to make climate information and related data readily available for the public and government decision makers to prepare for changes in the Earth’s climate. An important set of a data sources that will play an important role in detecting changes due to climate effects are a wide array of remote imaging systems.
+  content: This Engineering Report is a deliverable of the Testbed-11 Urban Climate
+    Resilience (UCR) Thread. The UCR Thread responds to the urgent need to make climate
+    information and related data readily available for the public and government decision
+    makers to prepare for changes in the Earth’s climate. An important set of a data
+    sources that will play an important role in detecting changes due to climate effects
+    are a wide array of remote imaging systems.
 ext:
   schema_version: v1.1.2
   doctype:

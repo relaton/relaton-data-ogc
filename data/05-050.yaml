@@ -1,3 +1,4 @@
+---
 id: '05050'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This report proposes and executes methods to evaluate the performance of the use of the Geography Markup Language (GML) as encoded in various ways.
+  content: This report proposes and executes methods to evaluate the performance of
+    the use of the Geography Markup Language (GML) as encoded in various ways.
 ext:
   schema_version: v1.1.2
   doctype:

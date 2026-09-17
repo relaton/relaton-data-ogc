@@ -1,3 +1,4 @@
+---
 id: '09166r2'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The Web View Service (WVS) is an extendable, interactive, image-based portrayal service for complex three-dimensional geodata such as 3D landscape and city models. 3D geodata is delivered as finally rendered images. Besides color images, relevant thematic and geometrical information such as object identity information or depth data is provided. Additionally, the WVS supports interaction with the portrayed 3D environment, e.g., information retrieval, spatial analysis, and 3D navigation. '
+  content: 'The Web View Service (WVS) is an extendable, interactive, image-based
+    portrayal service for complex three-dimensional geodata such as 3D landscape and
+    city models. 3D geodata is delivered as finally rendered images. Besides color
+    images, relevant thematic and geometrical information such as object identity
+    information or depth data is provided. Additionally, the WVS supports interaction
+    with the portrayed 3D environment, e.g., information retrieval, spatial analysis,
+    and 3D navigation. '
 ext:
   schema_version: v1.1.2
   doctype:

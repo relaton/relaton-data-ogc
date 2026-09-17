@@ -1,3 +1,4 @@
+---
 id: '21074'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Disaster Pilot 2021 initiative brought differing technologies together through multiple participants, allowing the future development of a robust solution with no single-point weaknesses. This Guide supports data providers in preparing and coordinating with others to leverage standards-based cloud computing platforms to support disaster management and response efforts. Geospatial data is acquired from multiple sources, including Earth Observation satellites, and converted to Decision Ready Information and indicators (DRI) from Analysis Ready Data and datasets (ARD) alongside recipes.
+  content: The OGC Disaster Pilot 2021 initiative brought differing technologies together
+    through multiple participants, allowing the future development of a robust solution
+    with no single-point weaknesses. This Guide supports data providers in preparing
+    and coordinating with others to leverage standards-based cloud computing platforms
+    to support disaster management and response efforts. Geospatial data is acquired
+    from multiple sources, including Earth Observation satellites, and converted to
+    Decision Ready Information and indicators (DRI) from Analysis Ready Data and datasets
+    (ARD) alongside recipes.
 ext:
   schema_version: v1.1.2
   doctype:

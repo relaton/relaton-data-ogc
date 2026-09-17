@@ -1,3 +1,4 @@
+---
 id: '22018'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed-18 Engineering Report (ER) describes the results of the Secure, Asynchronous Catalogs Task in the Testbed-18 Catalogs, Filtering, and Moving Features (CMF) thread. This task explored the following.\r\n\r\nHow search processes that are supported in a classical OGC Catalogue Service for the Web (CSW)/ISO 19115 environment can be supported through tailoring of the OGC API-Records specification.\r\nHow an asynchronous catalog scenario can be supported in which metadata publishers push new data to catalog instances that lead to new or updated catalog entries and how subscribers are informed about these updates.\r\nHow Data Centric Security (DCS) can be applied in combination with OGC API-Records to allow encrypted delivery and access of catalog metadata between communication partners."
+  content: "This OGC Testbed-18 Engineering Report (ER) describes the results of the
+    Secure, Asynchronous Catalogs Task in the Testbed-18 Catalogs, Filtering, and
+    Moving Features (CMF) thread. This task explored the following.\r\n\r\nHow search
+    processes that are supported in a classical OGC Catalogue Service for the Web
+    (CSW)/ISO 19115 environment can be supported through tailoring of the OGC API-Records
+    specification.\r\nHow an asynchronous catalog scenario can be supported in which
+    metadata publishers push new data to catalog instances that lead to new or updated
+    catalog entries and how subscribers are informed about these updates.\r\nHow Data
+    Centric Security (DCS) can be applied in combination with OGC API-Records to allow
+    encrypted delivery and access of catalog metadata between communication partners."
 ext:
   schema_version: v1.1.2
   doctype:

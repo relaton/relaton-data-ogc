@@ -1,3 +1,4 @@
+---
 id: '04049r1'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OpenGIS has been a precursor in Web Services matter, nevertheless, the pattern that has been used is not recognized by the industry as a standard XML Web Services. The work done during the the OpenGIS Web Service 2 initiative has provided the OpenGIS with interfaces that use the XML-related technologies supported by the industry, as SOAP for the communication protocol, WSDL for the interface description language, and UDDI for registering and searching services.\r\n\r\nThis change proposal present the required change to the WCS specification to interoperate with the industry standards.\r\n"
+  content: "The OpenGIS has been a precursor in Web Services matter, nevertheless,
+    the pattern that has been used is not recognized by the industry as a standard
+    XML Web Services. The work done during the the OpenGIS Web Service 2 initiative
+    has provided the OpenGIS with interfaces that use the XML-related technologies
+    supported by the industry, as SOAP for the communication protocol, WSDL for the
+    interface description language, and UDDI for registering and searching services.\r\n\r\nThis
+    change proposal present the required change to the WCS specification to interoperate
+    with the industry standards.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

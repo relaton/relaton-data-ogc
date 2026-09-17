@@ -1,3 +1,4 @@
+---
 id: '05019'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The Web 3D Service is a portrayal service for three-dimensional geodata, delivering graphical elements from a given geographical area. In contrast to the OGC Web Mapping service (WMS) and the OGC Web terrain service (WTS) 3D scene graphs are produced. These scene graphs will be rendered by the client and can interactively be explored by the user. The W3DS merges different types (layers) of 3D data in one scene graph. '
+  content: 'The Web 3D Service is a portrayal service for three-dimensional geodata,
+    delivering graphical elements from a given geographical area. In contrast to the
+    OGC Web Mapping service (WMS) and the OGC Web terrain service (WTS) 3D scene graphs
+    are produced. These scene graphs will be rendered by the client and can interactively
+    be explored by the user. The W3DS merges different types (layers) of 3D data in
+    one scene graph. '
 ext:
   schema_version: v1.1.2
   doctype:

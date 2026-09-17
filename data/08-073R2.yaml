@@ -1,3 +1,4 @@
+---
 id: '08073r2'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Web Services, Phase 5 (OWS-5) Testbed was an initiative of the OGC Interoperability Program (IP). The primary focus of an IP activity is to collaboratively extend and demonstrate OGC‘s baseline for geospatial interoperability.
+  content: The OGC Web Services, Phase 5 (OWS-5) Testbed was an initiative of the
+    OGC Interoperability Program (IP). The primary focus of an IP activity is to collaboratively
+    extend and demonstrate OGC‘s baseline for geospatial interoperability.
 ext:
   schema_version: v1.1.2
   doctype:

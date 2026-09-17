@@ -1,3 +1,4 @@
+---
 id: '01004'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "**This document has been retired.  It is not supported.  You should consider using Web Coverage Service.**\r\n\r\n This specification was designed to promote interoperability between software implementations by data vendors and software vendors providing grid analysis and processing capabilities."
+  content: "**This document has been retired.  It is not supported.  You should consider
+    using Web Coverage Service.**\r\n\r\n This specification was designed to promote
+    interoperability between software implementations by data vendors and software
+    vendors providing grid analysis and processing capabilities."
 ext:
   schema_version: v1.1.2
   doctype:

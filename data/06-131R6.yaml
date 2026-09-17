@@ -1,14 +1,17 @@
+---
 id: 06131r6
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® Catalogue Services Standard 2.0 Extension Package for ebRIM Application Profile: Earth Observation Products'
+  content: 'OGC® Catalogue Services Standard 2.0 Extension Package for ebRIM Application
+    Profile: Earth Observation Products'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® Catalogue Services Standard 2.0 Extension Package for ebRIM Application Profile: Earth Observation Products'
+  content: 'OGC® Catalogue Services Standard 2.0 Extension Package for ebRIM Application
+    Profile: Earth Observation Products'
   type: main
 source:
 - type: html
@@ -60,7 +63,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document describes the mapping of Earth Observation Products – defined in the OGC® GML 3.1.1 Application schema for Earth Observation products [OGC 06-080r4] (version 0.9.3) – to an ebRIM structure within an OGC® Catalogue 2.0.2 (Corrigendum 2 Release) [OGC 07-006r1] implementing the CSW-ebRIM Registry Service – part 1: ebRIM profile of CSW [OGC 07-110r4]. This standard defines the way Earth Observation products metadata resources are organized and implemented in the Catalogue for discovery, retrieval and management.'
+  content: 'This document describes the mapping of Earth Observation Products – defined
+    in the OGC® GML 3.1.1 Application schema for Earth Observation products [OGC 06-080r4]
+    (version 0.9.3) – to an ebRIM structure within an OGC® Catalogue 2.0.2 (Corrigendum
+    2 Release) [OGC 07-006r1] implementing the CSW-ebRIM Registry Service – part 1:
+    ebRIM profile of CSW [OGC 07-110r4]. This standard defines the way Earth Observation
+    products metadata resources are organized and implemented in the Catalogue for
+    discovery, retrieval and management.'
 ext:
   schema_version: v1.1.2
   doctype:

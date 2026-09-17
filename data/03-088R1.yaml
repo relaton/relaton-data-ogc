@@ -1,3 +1,4 @@
+---
 id: '03088r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies many of the aspects that are, or should be, common to all or multiple OGC Web Service (OWS) interface Implementation Specifications. These common aspects are primarily some of the parameters and data structures used in operation requests and responses. Of course, each such Implementation Specification must specify the additional aspects of that interface, including specifying all additional parameters and data structures needed in all operation requests and responses.
+  content: This document specifies many of the aspects that are, or should be, common
+    to all or multiple OGC Web Service (OWS) interface Implementation Specifications.
+    These common aspects are primarily some of the parameters and data structures
+    used in operation requests and responses. Of course, each such Implementation
+    Specification must specify the additional aspects of that interface, including
+    specifying all additional parameters and data structures needed in all operation
+    requests and responses.
 ext:
   schema_version: v1.1.2
   doctype:

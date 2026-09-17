@@ -1,3 +1,4 @@
+---
 id: '21075'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Improving the ability of key disaster decision makers and responders to discover, manage, access, transform, share, and exploit location-based and Earth Observation data will enhance decision making and, hopefully, save lives. The OGC Disaster Pilot 2021 has developed a number of prototype capabilities to demonstrate solutions for providing consistent, and reliable information to enable real-time actions to be taken using multiple technologies working together through pre-agreed standards.\r\n\r\nThis User Guide describes how the solution works, how users can be part of it, and showcases what can be achieved if everyone is willing to work together and share data and knowledge to improve the information available to those responding to a disaster."
+  content: "Improving the ability of key disaster decision makers and responders to
+    discover, manage, access, transform, share, and exploit location-based and Earth
+    Observation data will enhance decision making and, hopefully, save lives. The
+    OGC Disaster Pilot 2021 has developed a number of prototype capabilities to demonstrate
+    solutions for providing consistent, and reliable information to enable real-time
+    actions to be taken using multiple technologies working together through pre-agreed
+    standards.\r\n\r\nThis User Guide describes how the solution works, how users
+    can be part of it, and showcases what can be achieved if everyone is willing to
+    work together and share data and knowledge to improve the information available
+    to those responding to a disaster."
 ext:
   schema_version: v1.1.2
   doctype:

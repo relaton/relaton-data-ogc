@@ -1,3 +1,4 @@
+---
 id: '11094'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies a) XML schemas for providing functional and non-functional service descriptions of OGC Web Services (OWS), b) an URN namespace for identifying exposed and measurable service properties of OWS and c) a DSL for defining and evaluating service level guarantees.
+  content: This document specifies a) XML schemas for providing functional and non-functional
+    service descriptions of OGC Web Services (OWS), b) an URN namespace for identifying
+    exposed and measurable service properties of OWS and c) a DSL for defining and
+    evaluating service level guarantees.
 ext:
   schema_version: v1.1.2
   doctype:

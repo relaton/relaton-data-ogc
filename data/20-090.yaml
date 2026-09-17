@@ -1,3 +1,4 @@
+---
 id: '20090'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Engineering Report (ER) documents the results and recommendations from a code sprint that was held from 28 to 29 July 2020 to advance the development of the draft OGC API – Maps Standard. An Application Programming Interface (API) is a standard set of documented and supported functions and procedures that expose the capabilities or data of an operating system, application, or service to other applications (adapted from ISO/IEC TR 13066-2:2016). The OGC API - Maps Sprint was an online virtual event. The sprint was sponsored by Ordnance Survey.
+  content: This OGC Engineering Report (ER) documents the results and recommendations
+    from a code sprint that was held from 28 to 29 July 2020 to advance the development
+    of the draft OGC API – Maps Standard. An Application Programming Interface (API)
+    is a standard set of documented and supported functions and procedures that expose
+    the capabilities or data of an operating system, application, or service to other
+    applications (adapted from ISO/IEC TR 13066-2:2016). The OGC API - Maps Sprint
+    was an online virtual event. The sprint was sponsored by Ordnance Survey.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,14 +1,17 @@
+---
 id: 14038r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather Data'
+  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
+    Data'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather Data'
+  content: 'OGC® Testbed 10 Engineering Report:  Aviation Dissemination of Weather
+    Data'
   type: main
 source:
 - type: src
@@ -56,7 +59,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC document provides an analysis of the mapping between the NOAA Web Gridded Document Service (WGDS) and the OGC Web Coverage Service (WCS)  and describes an adapter which translates WCS 2.0 requests to WGDS requests and then translates WGDS responses to WCS 2.0  responses.\r\nThis Engineering Report was prepared as a deliverable for the OGC Testbed 10 (Testbed-10) initiative, specifically the Testbed 10 Aviation Thread.\r\n"
+  content: "This OGC document provides an analysis of the mapping between the NOAA
+    Web Gridded Document Service (WGDS) and the OGC Web Coverage Service (WCS)  and
+    describes an adapter which translates WCS 2.0 requests to WGDS requests and then
+    translates WGDS responses to WCS 2.0  responses.\r\nThis Engineering Report was
+    prepared as a deliverable for the OGC Testbed 10 (Testbed-10) initiative, specifically
+    the Testbed 10 Aviation Thread.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

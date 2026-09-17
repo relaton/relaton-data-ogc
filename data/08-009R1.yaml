@@ -1,3 +1,4 @@
+---
 id: '08009r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC document reports the results achieved in the OWS5 GPW-SOAP/WSDL thread which is focused on creating general recommendations and guidelines for WSDL/SOAP support to existing OGC Web Services.
+  content: This OGC document reports the results achieved in the OWS5 GPW-SOAP/WSDL
+    thread which is focused on creating general recommendations and guidelines for
+    WSDL/SOAP support to existing OGC Web Services.
 ext:
   schema_version: v1.1.2
   doctype:

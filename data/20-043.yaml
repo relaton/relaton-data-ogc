@@ -1,14 +1,17 @@
+---
 id: '20043'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna Engineering Report'
+  content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna
+    Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna Engineering Report'
+  content: 'OGC Earth Observation Applications Pilot: EOX-Sinergise-DLR-UVT-Terrasigna
+    Engineering Report'
   type: main
 source:
 - type: src
@@ -72,7 +75,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report documents findings, achievements, and learnings gained through activities during the OGC Earth Observation (EO) Applications Pilot by the EOX team (EOX, DLR, UVT, Sinergise, and Terrasigna). Both perspectives, from application developer’s as well as from platform provider’s view, are represented here.
+  content: This Engineering Report documents findings, achievements, and learnings
+    gained through activities during the OGC Earth Observation (EO) Applications Pilot
+    by the EOX team (EOX, DLR, UVT, Sinergise, and Terrasigna). Both perspectives,
+    from application developer’s as well as from platform provider’s view, are represented
+    here.
 ext:
   schema_version: v1.1.2
   doctype:

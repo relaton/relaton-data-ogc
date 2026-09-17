@@ -1,3 +1,4 @@
+---
 id: 26005r1
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,25 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Report summarizes the OGC Testbed-21 Data Quality for Integrity, Provenance, and Trust (DQ4IPT) activity, which evaluated and implemented ISO 19157-1:2023 as the primary framework for standardized data quality (DQ) reporting in Earth Observation (EO) systems. As EO data increasingly supports automated analytics and AI-driven decision-making, structured quality assessment, traceable provenance, and verifiable integrity are essential to establishing trust. Indeed, integrity, provenance, and trust (IPT) considerations are increasingly becoming a necessity in data ecosystems.\r\n\r\nThe report analyzes interoperability between ISO 19157, ISO 19115/19115-4, W3C PROV, NASA Unified Metadata Model (UMM), OGC Training Data Markup Language for AI (TrainingDML-AI) standard, and the SpatioTemporal Asset Catalog (STAC) community standard. Two DQ-enabled IPT server prototypes demonstrate delivery of satellite products metadata with embedded ISO 19157 quality reports and PROV-based lineage. The server prototypes are based on the OGC API — Processes and OGC API — Records standards respectively. A supporting software library enables metadata conversion, provenance transformation, and validation.\r\n\r\nResults show that ISO 19157-1:2023 provides a stronger foundation for trust-enabled EO infrastructures than ISO 19115 alone, particularly through standardized measures, meta-quality, and Geospatial Data Interpretability Index (GDII) assessment, while maintaining backwards compatibility and cross-standard interoperability."
+  content: "This Report summarizes the OGC Testbed-21 Data Quality for Integrity,
+    Provenance, and Trust (DQ4IPT) activity, which evaluated and implemented ISO 19157-1:2023
+    as the primary framework for standardized data quality (DQ) reporting in Earth
+    Observation (EO) systems. As EO data increasingly supports automated analytics
+    and AI-driven decision-making, structured quality assessment, traceable provenance,
+    and verifiable integrity are essential to establishing trust. Indeed, integrity,
+    provenance, and trust (IPT) considerations are increasingly becoming a necessity
+    in data ecosystems.\r\n\r\nThe report analyzes interoperability between ISO 19157,
+    ISO 19115/19115-4, W3C PROV, NASA Unified Metadata Model (UMM), OGC Training Data
+    Markup Language for AI (TrainingDML-AI) standard, and the SpatioTemporal Asset
+    Catalog (STAC) community standard. Two DQ-enabled IPT server prototypes demonstrate
+    delivery of satellite products metadata with embedded ISO 19157 quality reports
+    and PROV-based lineage. The server prototypes are based on the OGC API — Processes
+    and OGC API — Records standards respectively. A supporting software library enables
+    metadata conversion, provenance transformation, and validation.\r\n\r\nResults
+    show that ISO 19157-1:2023 provides a stronger foundation for trust-enabled EO
+    infrastructures than ISO 19115 alone, particularly through standardized measures,
+    meta-quality, and Geospatial Data Interpretability Index (GDII) assessment, while
+    maintaining backwards compatibility and cross-standard interoperability."
 ext:
   schema_version: v1.1.2
   doctype:

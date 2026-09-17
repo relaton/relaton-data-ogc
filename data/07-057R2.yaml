@@ -1,3 +1,4 @@
+---
 id: 07057r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OpenGIS® Tiled Web Map Service Discussion Paper explains how the OpenGIS Web Map Service Standard (WMS) [http://www.opengeospatial.org/standards/wms] can be extended to allow fast response to a predefined set of tiled maps. It should be read in conjunction with the latest version WMS standard.\r\n"
+  content: "The OpenGIS® Tiled Web Map Service Discussion Paper explains how the OpenGIS
+    Web Map Service Standard (WMS) [http://www.opengeospatial.org/standards/wms] can
+    be extended to allow fast response to a predefined set of tiled maps. It should
+    be read in conjunction with the latest version WMS standard.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

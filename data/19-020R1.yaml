@@ -1,3 +1,4 @@
+---
 id: 19020r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed-15 Engineering Report (ER) describes the results of the Earth Observation (EO) Process and Application (EOPAD) Task in the Cloud Processing and Portrayal (CPP) thread of OGC Testbed-15. The ER presents the data model and service interface of the catalogue service allowing for discovery of EO applications and related processing services for subsequent deployment and/or invocation in a distributed environment.\r\n\r\nThe ER also provides the architectural and implementation details of the software components that were developed as part of the activity and which interact through the described data model. These software components include catalogue clients, catalogue servers and transactional Web Processing Service (WPS-T) servers."
+  content: "This OGC Testbed-15 Engineering Report (ER) describes the results of the
+    Earth Observation (EO) Process and Application (EOPAD) Task in the Cloud Processing
+    and Portrayal (CPP) thread of OGC Testbed-15. The ER presents the data model and
+    service interface of the catalogue service allowing for discovery of EO applications
+    and related processing services for subsequent deployment and/or invocation in
+    a distributed environment.\r\n\r\nThe ER also provides the architectural and implementation
+    details of the software components that were developed as part of the activity
+    and which interact through the described data model. These software components
+    include catalogue clients, catalogue servers and transactional Web Processing
+    Service (WPS-T) servers."
 ext:
   schema_version: v1.1.2
   doctype:

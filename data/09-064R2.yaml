@@ -1,3 +1,4 @@
+---
 id: '09064r2'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This OGC® document summarizes work completed in the OWS-6 Sensor Web Enablement (SWE) thread.  '
+  content: 'This OGC® document summarizes work completed in the OWS-6 Sensor Web Enablement
+    (SWE) thread.  '
 ext:
   schema_version: v1.1.2
   doctype:

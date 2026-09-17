@@ -1,3 +1,4 @@
+---
 id: '10128'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This white paper describes the OGC Compliance Testing Program. It provides\r\ninformation about:\r\n• The need for compliance testing to enable interoperability\r\n• How to obtain compliance certification\r\n• The difference between implementing and being certified\r\n• How compliance benefits providers and users of technology\r\n• The proper use of the “Certified OGC Compliant” mark\r\n• Suggested language for procurement documents\r\n• Trademark licensing fees\r\n• An example of an OGC compliance test "
+  content: "This white paper describes the OGC Compliance Testing Program. It provides\r\ninformation
+    about:\r\n• The need for compliance testing to enable interoperability\r\n• How
+    to obtain compliance certification\r\n• The difference between implementing and
+    being certified\r\n• How compliance benefits providers and users of technology\r\n•
+    The proper use of the “Certified OGC Compliant” mark\r\n• Suggested language for
+    procurement documents\r\n• Trademark licensing fees\r\n• An example of an OGC
+    compliance test "
 ext:
   schema_version: v1.1.2
   doctype:

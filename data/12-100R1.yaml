@@ -1,3 +1,4 @@
+---
 id: 12100r1
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Interface Standard is a profile of the OGC® GML Application Schema –Coverages version 1.0 [OC 09-146r2]. This document specifies the usage of the GeoTIFF data format for the encoding of GML coverages. This encoding is used by several OGC services like the Web Coverage Service (WCS) 2.0 Interface Standard – Core [OGC 09-110r4].
+  content: This Interface Standard is a profile of the OGC® GML Application Schema
+    –Coverages version 1.0 [OC 09-146r2]. This document specifies the usage of the
+    GeoTIFF data format for the encoding of GML coverages. This encoding is used by
+    several OGC services like the Web Coverage Service (WCS) 2.0 Interface Standard
+    – Core [OGC 09-110r4].
 ext:
   schema_version: v1.1.2
   doctype:

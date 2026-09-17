@@ -1,3 +1,4 @@
+---
 id: '15116'
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: AHA-ML (Active and Healthy Ageing Mark-up Language) an O&M profile - Discussion Paper
+  content: AHA-ML (Active and Healthy Ageing Mark-up Language) an O&M profile - Discussion
+    Paper
   type: main
 source:
 - type: src
@@ -64,7 +66,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document provides a proposal for a new O&M (Observations and Measurements) profile focused on Active and Healthy Ageing, called AHA-ML (Active and Healthy Ageing Mark-up Language) an O&M profile - Discussion Paper). This document introduces the overall need for such a profile and it discusses the measures which have been identified.
+  content: This document provides a proposal for a new O&M (Observations and Measurements)
+    profile focused on Active and Healthy Ageing, called AHA-ML (Active and Healthy
+    Ageing Mark-up Language) an O&M profile - Discussion Paper). This document introduces
+    the overall need for such a profile and it discusses the measures which have been
+    identified.
 ext:
   schema_version: v1.1.2
   doctype:

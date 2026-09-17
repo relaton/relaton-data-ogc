@@ -1,3 +1,4 @@
+---
 id: 05035r2
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Gazetteer Service - Application Profile of the Web Feature Service Implementation Specification
+  content: Gazetteer Service - Application Profile of the Web Feature Service Implementation
+    Specification
   type: main
 source:
 - type: html
@@ -64,7 +66,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document defines a Gazetteer Service profile of the OGC Web Feature Service Specification. The OGC Gazetteer Service allows a client to search and retrieve elements of a georeferenced vocabulary of well-known place-names.
+  content: This document defines a Gazetteer Service profile of the OGC Web Feature
+    Service Specification. The OGC Gazetteer Service allows a client to search and
+    retrieve elements of a georeferenced vocabulary of well-known place-names.
 ext:
   schema_version: v1.1.2
   doctype:

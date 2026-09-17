@@ -1,3 +1,4 @@
+---
 id: '12052'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document represents the release notes for the OGC Web Coverage Service (WCS) Interface Standard corrigendum 2.0.1. This corrigendum for WCS supersedes previous WCS versions.
+  content: This document represents the release notes for the OGC Web Coverage Service
+    (WCS) Interface Standard corrigendum 2.0.1. This corrigendum for WCS supersedes
+    previous WCS versions.
 ext:
   schema_version: v1.1.2
   doctype:

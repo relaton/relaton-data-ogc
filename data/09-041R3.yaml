@@ -1,3 +1,4 @@
+---
 id: '09041r3'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Engineering Report describes and reviews the Grid Computing related activity completed during the OGC OWS-6 Interoperability testbed. The document describes the WPS processes deployed in the different demonstration scenarios and offers recommendations to the OGC community as to how to better harmonize the standards work of the OGC with Grid Computing platforms and related concepts and technologies.
+  content: This OGC Engineering Report describes and reviews the Grid Computing related
+    activity completed during the OGC OWS-6 Interoperability testbed. The document
+    describes the WPS processes deployed in the different demonstration scenarios
+    and offers recommendations to the OGC community as to how to better harmonize
+    the standards work of the OGC with Grid Computing platforms and related concepts
+    and technologies.
 ext:
   schema_version: v1.1.2
   doctype:

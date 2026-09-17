@@ -1,3 +1,4 @@
+---
 id: 10140r1
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Web Coverage Service 2.0 Interface Standard - Earth Observation Application Profile
+  content: OGC® Web Coverage Service 2.0 Interface Standard - Earth Observation Application
+    Profile
   type: main
 source:
 - type: src
@@ -72,7 +74,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Web Coverage Service (WCS) Application Profile – Earth Observation (EO-WCS), defines a profile of WCS 2.0 [OGC 09-110r4] for use on Earth Observation data.
+  content: The OGC Web Coverage Service (WCS) Application Profile – Earth Observation
+    (EO-WCS), defines a profile of WCS 2.0 [OGC 09-110r4] for use on Earth Observation
+    data.
 ext:
   schema_version: v1.1.2
   doctype:

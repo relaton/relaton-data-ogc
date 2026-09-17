@@ -1,3 +1,4 @@
+---
 id: '24037'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,23 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The goal of the OGC Testbed-20 GeoDataCube (GDC) initiative was to investigate streamlining APIs for GDC access and processing, such as implementations of the OGC API — Coverages, OGC API – Processes Standards and the OGC openEO and STAC Community Standards. The original hypothesis was to define a draft standard that unified aspects of these standards. However, integrating and co-existing with the existing OGC API baseline standards proved more promising than creating a new standard. The key enabler is interoperability — the seamless transfer of data between API implementations. Usability and integration testing identified gaps in input and output mechanisms, with integration tests across five backends (Ecere, Eurac Research, CRIM, Ellipsis Drive, MMS) highlighting the need for best practices and conversion methods.\r\n\r\nFocusing on access mechanism alignment enhances user experience by fostering interoperability, enabling users to integrate and switch between different API processing chains. Developers benefit from common references, reducing custom solutions and simplifying conversions between protocols such as STAC and OGC API — Coverages implementations. Expanding tests to more implementations will further enhance API interoperability and support future standardization efforts within the GDC ecosystem."
+  content: "The goal of the OGC Testbed-20 GeoDataCube (GDC) initiative was to investigate
+    streamlining APIs for GDC access and processing, such as implementations of the
+    OGC API — Coverages, OGC API – Processes Standards and the OGC openEO and STAC
+    Community Standards. The original hypothesis was to define a draft standard that
+    unified aspects of these standards. However, integrating and co-existing with
+    the existing OGC API baseline standards proved more promising than creating a
+    new standard. The key enabler is interoperability — the seamless transfer of data
+    between API implementations. Usability and integration testing identified gaps
+    in input and output mechanisms, with integration tests across five backends (Ecere,
+    Eurac Research, CRIM, Ellipsis Drive, MMS) highlighting the need for best practices
+    and conversion methods.\r\n\r\nFocusing on access mechanism alignment enhances
+    user experience by fostering interoperability, enabling users to integrate and
+    switch between different API processing chains. Developers benefit from common
+    references, reducing custom solutions and simplifying conversions between protocols
+    such as STAC and OGC API — Coverages implementations. Expanding tests to more
+    implementations will further enhance API interoperability and support future standardization
+    efforts within the GDC ecosystem."
 ext:
   schema_version: v1.1.2
   doctype:

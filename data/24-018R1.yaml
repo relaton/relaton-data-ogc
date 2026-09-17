@@ -1,3 +1,4 @@
+---
 id: 24018r1
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Web Coverage Service (WCS) –Interpolation Extension defines an extension to the WCS Core [OGC 17-089r1] to control interpolation during processing of a GetCover-age request. This affects all operations that require interpolation, such as subsetting, scaling and Coordinate Reference System (CRS) transformation.
+  content: The OGC Web Coverage Service (WCS) –Interpolation Extension defines an
+    extension to the WCS Core [OGC 17-089r1] to control interpolation during processing
+    of a GetCover-age request. This affects all operations that require interpolation,
+    such as subsetting, scaling and Coordinate Reference System (CRS) transformation.
 ext:
   schema_version: v1.1.2
   doctype:

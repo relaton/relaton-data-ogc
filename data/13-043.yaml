@@ -1,3 +1,4 @@
+---
 id: '13043'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® Best Practices document specifies the interfaces, bindings, requirements,\r\nconformance classes for online download of Earth Observation products. This protocol\r\ncovers several scenarios implemented by European Space Agency - ESA for providing its\r\nproducts to users:\r\n- The EO Product to be downloaded is already available and can be downloaded as\r\nit is.\r\n- The EO Product is not online available but is stored in a near online archive.\r\n- The EO Product is advertised in a Catalogue, but it is not physically available and\r\nit has to be generated on the fly by a processing facility.\r\n- The EO product is archived in several distributed online archives and it can be\r\ndownloaded in parallel.\r\nThe basic scenarios can be simply supported by Web Browsers, the most complex ones\r\nneed a dedicated client (download manager) supporting Metalink and multisource\r\ndownload.\r\nThis Best Practice document has been prepared basing on the work performed in the\r\nframe of ESA’s Next Generation Earth Observation user services and it was initially\r\nproduced during the ESA"
+  content: "This OGC® Best Practices document specifies the interfaces, bindings,
+    requirements,\r\nconformance classes for online download of Earth Observation
+    products. This protocol\r\ncovers several scenarios implemented by European Space
+    Agency - ESA for providing its\r\nproducts to users:\r\n- The EO Product to be
+    downloaded is already available and can be downloaded as\r\nit is.\r\n- The EO
+    Product is not online available but is stored in a near online archive.\r\n- The
+    EO Product is advertised in a Catalogue, but it is not physically available and\r\nit
+    has to be generated on the fly by a processing facility.\r\n- The EO product is
+    archived in several distributed online archives and it can be\r\ndownloaded in
+    parallel.\r\nThe basic scenarios can be simply supported by Web Browsers, the
+    most complex ones\r\nneed a dedicated client (download manager) supporting Metalink
+    and multisource\r\ndownload.\r\nThis Best Practice document has been prepared
+    basing on the work performed in the\r\nframe of ESA’s Next Generation Earth Observation
+    user services and it was initially\r\nproduced during the ESA"
 ext:
   schema_version: v1.1.2
   doctype:

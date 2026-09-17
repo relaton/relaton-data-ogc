@@ -1,3 +1,4 @@
+---
 id: '20087'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Interoperable Simulation and Gaming Sprint advanced the use of relevant OGC and Khronos standards in the modeling and simulation community through practical exercise and testing of the GeoVolumes API draft specification produced by the 3D Data Container and Tiles API Pilot. Of particular interest was the handling and integration of glTF models coming from multiple sources, but the sprint also examined the specification’s implementability, consistency, completeness, and maturity.
+  content: The OGC Interoperable Simulation and Gaming Sprint advanced the use of
+    relevant OGC and Khronos standards in the modeling and simulation community through
+    practical exercise and testing of the GeoVolumes API draft specification produced
+    by the 3D Data Container and Tiles API Pilot. Of particular interest was the handling
+    and integration of glTF models coming from multiple sources, but the sprint also
+    examined the specification’s implementability, consistency, completeness, and
+    maturity.
 ext:
   schema_version: v1.1.2
   doctype:

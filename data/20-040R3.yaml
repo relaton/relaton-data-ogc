@@ -1,3 +1,4 @@
+---
 id: 20040r3
 schema_version: v1.5.6
 type: standard
@@ -12,11 +13,13 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Part 1 Core Reference system and Operations and Equal Area Earth Reference System
+  content: Part 1 Core Reference system and Operations and Equal Area Earth Reference
+    System
   type: title-part
 - language: en
   script: Latn
-  content: Topic 21 - Discrete Global Grid Systems - Part 1 Core Reference system and Operations and Equal Area Earth Reference System
+  content: Topic 21 - Discrete Global Grid Systems - Part 1 Core Reference system
+    and Operations and Equal Area Earth Reference System
   type: main
 source:
 - type: src
@@ -64,7 +67,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Abstract Specification lays the foundations for Discrete Global Grid Systems (DGGS). It defines Common classes for spatio-temporal geometry, topology, and reference systems using identifiers, a DGGS Core Reference system as a reference system using zonal identifiers with structured geometry that may be spatio-temporal, a suite of DGGS Core Functions, and it specifies Equal-Area Earth DGGS. The OGC DGGS Abstract Specification supports the specification of standardized DGGS infrastructures that enable the integrated analysis of very large, multi-source, multi-resolution, multi-dimensional, distributed geospatial data. Interoperability between OGC DGGS implementations is anticipated through implementation standards, and extension interface encodings of OGC Web Services.
+  content: This Abstract Specification lays the foundations for Discrete Global Grid
+    Systems (DGGS). It defines Common classes for spatio-temporal geometry, topology,
+    and reference systems using identifiers, a DGGS Core Reference system as a reference
+    system using zonal identifiers with structured geometry that may be spatio-temporal,
+    a suite of DGGS Core Functions, and it specifies Equal-Area Earth DGGS. The OGC
+    DGGS Abstract Specification supports the specification of standardized DGGS infrastructures
+    that enable the integrated analysis of very large, multi-source, multi-resolution,
+    multi-dimensional, distributed geospatial data. Interoperability between OGC DGGS
+    implementations is anticipated through implementation standards, and extension
+    interface encodings of OGC Web Services.
 ext:
   schema_version: v1.1.2
   doctype:

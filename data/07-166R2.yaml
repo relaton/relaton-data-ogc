@@ -1,3 +1,4 @@
+---
 id: 07166r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document represents the Engineering Report for the WCPS activity within the OWS-5 SWE thread. It summarizes tasks and outcomes.
+  content: This document represents the Engineering Report for the WCPS activity within
+    the OWS-5 SWE thread. It summarizes tasks and outcomes.
 ext:
   schema_version: v1.1.2
   doctype:

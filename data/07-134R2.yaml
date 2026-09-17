@@ -1,3 +1,4 @@
+---
 id: 07134r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is an abstract test suite (ATS): a compendium of abstract test cases that provide a basis for verifying the structure and content of OGC KML 2.2 instance documents. Three conformance levels are defined; each level builds on the preceding ones:\r\n\r\n    *\r\n\r\n      Level 1 - includes test cases covering all requirements to be satisfied by a minimally conformant KML document;\r\n    *\r\n\r\n      Level 2 - as for Level 1, plus test cases addressing recommended requirements;\r\n    *\r\n\r\n      Level 3 - as for Level 2, plus test cases covering suggested constraints that are informative in nature."
+  content: "This document is an abstract test suite (ATS): a compendium of abstract
+    test cases that provide a basis for verifying the structure and content of OGC
+    KML 2.2 instance documents. Three conformance levels are defined; each level builds
+    on the preceding ones:\r\n\r\n    *\r\n\r\n      Level 1 - includes test cases
+    covering all requirements to be satisfied by a minimally conformant KML document;\r\n
+    \   *\r\n\r\n      Level 2 - as for Level 1, plus test cases addressing recommended
+    requirements;\r\n    *\r\n\r\n      Level 3 - as for Level 2, plus test cases
+    covering suggested constraints that are informative in nature."
 ext:
   schema_version: v1.1.2
   doctype:

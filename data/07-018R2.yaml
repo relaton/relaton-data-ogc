@@ -1,3 +1,4 @@
+---
 id: '07018r2'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The SPS configuration proposed in this profile is intended to support the programming process of Earth Observation (EO) sensors system. This profile describes a consistent SPS configuration that can be supported by many satellite data providers, most of whom have existing facilities for the management of these programming requests.
+  content: The SPS configuration proposed in this profile is intended to support the
+    programming process of Earth Observation (EO) sensors system. This profile describes
+    a consistent SPS configuration that can be supported by many satellite data providers,
+    most of whom have existing facilities for the management of these programming
+    requests.
 ext:
   schema_version: v1.1.2
   doctype:

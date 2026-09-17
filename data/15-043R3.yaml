@@ -1,3 +1,4 @@
+---
 id: 15043r3
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Timeseries Profile of Observations and Measurements is a conceptual model for the representation of observations data as timeseries, with the intent of enabling the exchange of such data sets across information systems. This standard does not define an encoding for the conceptual model; however there is an accompanying OGC Standard which defines an XML encoding (OGC TimeseriesML 1.0 - XML Encoding of the Timeseries Profile of Observations and Measurements). Other encodings may be developed in future.
+  content: The OGC Timeseries Profile of Observations and Measurements is a conceptual
+    model for the representation of observations data as timeseries, with the intent
+    of enabling the exchange of such data sets across information systems. This standard
+    does not define an encoding for the conceptual model; however there is an accompanying
+    OGC Standard which defines an XML encoding (OGC TimeseriesML 1.0 - XML Encoding
+    of the Timeseries Profile of Observations and Measurements). Other encodings may
+    be developed in future.
 ext:
   schema_version: v1.1.2
   doctype:

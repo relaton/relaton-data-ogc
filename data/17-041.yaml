@@ -1,3 +1,4 @@
+---
 id: '17041'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) captures the requirements, solutions, and implementation experiences of the Vector Tiling work package in OGC Testbed-13 [Available at: http://www.opengeospatial.org/projects/initiatives/testbed13]. This ER describes the evaluation of existing vector tiling solutions. The evaluation was used to define a conceptual model that integrates elements from different approaches to vector tiling. This is followed by an overview of how the developed implementation integrates vector tiles containing World Geodetic System 1984 (WGS84), European Terrestrial Reference System 1989 (ETRS89) and British National Grid projection data, standards based tile schemas and moving features. Best practice guidelines for the use of Symbology Encoding (SE) and Styled Layer Descriptor (SLD) are also provided ensuring the service is optimized for analysis and low-bandwidth networks. The report concludes with an investigation on how existing OGC services may be extended with the necessary capabilities enabling the full range of geometry types and tiling strategies to support vector tiling.'
+  content: 'This Open Geospatial Consortium (OGC) Engineering Report (ER) captures
+    the requirements, solutions, and implementation experiences of the Vector Tiling
+    work package in OGC Testbed-13 [Available at: http://www.opengeospatial.org/projects/initiatives/testbed13].
+    This ER describes the evaluation of existing vector tiling solutions. The evaluation
+    was used to define a conceptual model that integrates elements from different
+    approaches to vector tiling. This is followed by an overview of how the developed
+    implementation integrates vector tiles containing World Geodetic System 1984 (WGS84),
+    European Terrestrial Reference System 1989 (ETRS89) and British National Grid
+    projection data, standards based tile schemas and moving features. Best practice
+    guidelines for the use of Symbology Encoding (SE) and Styled Layer Descriptor
+    (SLD) are also provided ensuring the service is optimized for analysis and low-bandwidth
+    networks. The report concludes with an investigation on how existing OGC services
+    may be extended with the necessary capabilities enabling the full range of geometry
+    types and tiling strategies to support vector tiling.'
 ext:
   schema_version: v1.1.2
   doctype:

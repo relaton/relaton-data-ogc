@@ -1,3 +1,4 @@
+---
 id: '08176r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The main purpose of this Engineering Report is to introduce standards-based security solutions for making the existing OGC Sensor Web Services, as described in the OWS-6 SWE baseline, ready towards the handling of sensors in the intelligence domain.
+  content: The main purpose of this Engineering Report is to introduce standards-based
+    security solutions for making the existing OGC Sensor Web Services, as described
+    in the OWS-6 SWE baseline, ready towards the handling of sensors in the intelligence
+    domain.
 ext:
   schema_version: v1.1.2
   doctype:

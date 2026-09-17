@@ -1,3 +1,4 @@
+---
 id: '09124r2'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document investigates the potential for harmonisation of water data standards, with the goal of developing an OGC compliant standard for the exchange of water observation data. The work will be based on OGC‘s Observations and Measurements abstract model [10-004r2] . The goal is to create an O&M profile for the water domain. Development of the OGC compliant O&M profile will begin by examining the content and structure of existing standards and suggesting future methodology for developing a harmonised model for observation data. This approach will make use of existing standards where possible.\r\n\r\nThe focus of this document is in-situ style observations (which are generally related to water quantity). Ex-situ measurements, such as those common to measuring water quality, will be addressed in future work.\r\n2 Normative"
+  content: "This document investigates the potential for harmonisation of water data
+    standards, with the goal of developing an OGC compliant standard for the exchange
+    of water observation data. The work will be based on OGC‘s Observations and Measurements
+    abstract model [10-004r2] . The goal is to create an O&M profile for the water
+    domain. Development of the OGC compliant O&M profile will begin by examining the
+    content and structure of existing standards and suggesting future methodology
+    for developing a harmonised model for observation data. This approach will make
+    use of existing standards where possible.\r\n\r\nThe focus of this document is
+    in-situ style observations (which are generally related to water quantity). Ex-situ
+    measurements, such as those common to measuring water quality, will be addressed
+    in future work.\r\n2 Normative"
 ext:
   schema_version: v1.1.2
   doctype:

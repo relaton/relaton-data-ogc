@@ -1,3 +1,4 @@
+---
 id: '08002'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document gives guidelines and recommendations for administrators, users and implementers of Web Feature Services serving Geography Markup Language encoded response documents.  '
+  content: 'This document gives guidelines and recommendations for administrators,
+    users and implementers of Web Feature Services serving Geography Markup Language
+    encoded response documents.  '
 ext:
   schema_version: v1.1.2
   doctype:

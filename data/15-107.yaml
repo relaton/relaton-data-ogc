@@ -1,3 +1,4 @@
+---
 id: '15107'
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document advises on best practices related to the publication of spatial data on the Web; the use of Web technologies as they may be applied to location. The best practices presented here are intended for practitioners, including Web developers and geospatial experts, and are compiled based on evidence of real-world application. These best practices suggest a significant change of emphasis from traditional Spatial Data Infrastructures by adopting an approach based on general Web standards. As location is often the common factor across multiple datasets, spatial data is an especially useful addition to the Web of data.
+  content: This document advises on best practices related to the publication of spatial
+    data on the Web; the use of Web technologies as they may be applied to location.
+    The best practices presented here are intended for practitioners, including Web
+    developers and geospatial experts, and are compiled based on evidence of real-world
+    application. These best practices suggest a significant change of emphasis from
+    traditional Spatial Data Infrastructures by adopting an approach based on general
+    Web standards. As location is often the common factor across multiple datasets,
+    spatial data is an especially useful addition to the Web of data.
 ext:
   schema_version: v1.1.2
   doctype:

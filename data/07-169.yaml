@@ -1,3 +1,4 @@
+---
 id: '07169'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC document represents an OWS-5 SWE thread Engineering Report on sub-setting georeferencable imagery.  It discusses how to handle georeferencable imagery in the JPEG2000 format as well as using JPIP within the WCS-T and the SWE set of services.
+  content: This OGC document represents an OWS-5 SWE thread Engineering Report on
+    sub-setting georeferencable imagery.  It discusses how to handle georeferencable
+    imagery in the JPEG2000 format as well as using JPIP within the WCS-T and the
+    SWE set of services.
 ext:
   schema_version: v1.1.2
   doctype:

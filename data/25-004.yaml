@@ -1,3 +1,4 @@
+---
 id: '25004'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The STAC specifications define related JSON object types connected by link relations to support a HATEOAS-style traversable interface and a RESTful API providing additional browse and search interfaces. Typically, several STAC specifications are composed together to create an implementation. The Item, Catalog, and Collection specifications define a minimal core of the most frequently used JSON object types. Because of the hierarchical structure between these objects, a STAC catalog can be implemented in a completely ‘static’ manner as a group of hyperlinked Catalog, Collection, and Item URLs, enabling data publishers to expose their data as a browsable set of files. If more complex query abilities are desired, such as spatial or temporal predicates, the STAC API specification can be implemented as a web service interface to query over a group of STAC objects, usually held in a database.\r\n\r\nTo the greatest extent possible, STAC uses and extends existing specifications. The most important object in STAC is an Item, which is simply a GeoJSON Feature with a well-defined set of additional attributes (“foreign members”). The STAC API extends the OGC API - Features - Part 1: Core with additional web service endpoints and object attributes."
+  content: "The STAC specifications define related JSON object types connected by
+    link relations to support a HATEOAS-style traversable interface and a RESTful
+    API providing additional browse and search interfaces. Typically, several STAC
+    specifications are composed together to create an implementation. The Item, Catalog,
+    and Collection specifications define a minimal core of the most frequently used
+    JSON object types. Because of the hierarchical structure between these objects,
+    a STAC catalog can be implemented in a completely ‘static’ manner as a group of
+    hyperlinked Catalog, Collection, and Item URLs, enabling data publishers to expose
+    their data as a browsable set of files. If more complex query abilities are desired,
+    such as spatial or temporal predicates, the STAC API specification can be implemented
+    as a web service interface to query over a group of STAC objects, usually held
+    in a database.\r\n\r\nTo the greatest extent possible, STAC uses and extends existing
+    specifications. The most important object in STAC is an Item, which is simply
+    a GeoJSON Feature with a well-defined set of additional attributes (“foreign members”).
+    The STAC API extends the OGC API - Features - Part 1: Core with additional web
+    service endpoints and object attributes."
 ext:
   schema_version: v1.1.2
   doctype:

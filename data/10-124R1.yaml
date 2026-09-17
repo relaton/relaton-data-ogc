@@ -1,3 +1,4 @@
+---
 id: 10124r1
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC provides a large number of resources to support the construction of spatial\r\ndata infrastructures, including documents, specifications, schemas and concept\r\ndefinitions. When deployed, the infrastructures require persistent reference to these\r\nresources, enabled by persistent identifiers. This may be at various level of\r\ngranularity. "
+  content: "The OGC provides a large number of resources to support the construction
+    of spatial\r\ndata infrastructures, including documents, specifications, schemas
+    and concept\r\ndefinitions. When deployed, the infrastructures require persistent
+    reference to these\r\nresources, enabled by persistent identifiers. This may be
+    at various level of\r\ngranularity. "
 ext:
   schema_version: v1.1.2
   doctype:

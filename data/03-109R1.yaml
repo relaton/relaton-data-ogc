@@ -1,3 +1,4 @@
+---
 id: '03109r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Provides three operations (GetCapabilities, GetMap, and GetFeatureInfo) in support of the creation and display of registered and superimposed map-like views of information that come simultaneously from multiple sources that are both remote and heterogeneous.  '
+  content: 'Provides three operations (GetCapabilities, GetMap, and GetFeatureInfo)
+    in support of the creation and display of registered and superimposed map-like
+    views of information that come simultaneously from multiple sources that are both
+    remote and heterogeneous.  '
 ext:
   schema_version: v1.1.2
   doctype:

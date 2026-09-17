@@ -1,3 +1,4 @@
+---
 id: '07118r9'
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Best Practice describes how user and identity management information may be included in the protocol specifications for OGC Services. The proposed approach is applicable to the orchestration of EO services, to system of systems and federation scenarios. The approach is meant to be independent from the specific OGC service. The use cases potentially addressed are very wide and in general may cover geospatial services and not only EO (Earth Observation) services. The use cases may range from web map, feature or coverage services, web processing services, to catalogue services. Examples of EO specific use cases are: ordering (Ordering Services for Earth Observation Products [OGC 06-141r6]) and feasibility analysis (OpenGIS Sensor Planning Service Application Profile for EO Sensors [OGC 10 135]). \r\nThe document was initially produced during the ESA HMA (Heterogeneous Missions Accessibility) initiative [OR1] and related projects.\r\nThis document is not an OGC standard.  This document describes how existing specifications from W3C and OASIS can be used in combination to pass identity information to OGC Web services.\r\n"
+  content: "This OGC Best Practice describes how user and identity management information
+    may be included in the protocol specifications for OGC Services. The proposed
+    approach is applicable to the orchestration of EO services, to system of systems
+    and federation scenarios. The approach is meant to be independent from the specific
+    OGC service. The use cases potentially addressed are very wide and in general
+    may cover geospatial services and not only EO (Earth Observation) services. The
+    use cases may range from web map, feature or coverage services, web processing
+    services, to catalogue services. Examples of EO specific use cases are: ordering
+    (Ordering Services for Earth Observation Products [OGC 06-141r6]) and feasibility
+    analysis (OpenGIS Sensor Planning Service Application Profile for EO Sensors [OGC
+    10 135]). \r\nThe document was initially produced during the ESA HMA (Heterogeneous
+    Missions Accessibility) initiative [OR1] and related projects.\r\nThis document
+    is not an OGC standard.  This document describes how existing specifications from
+    W3C and OASIS can be used in combination to pass identity information to OGC Web
+    services.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

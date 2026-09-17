@@ -1,3 +1,4 @@
+---
 id: 01014r5
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A data model for coordinate reference systems to provide a common framework across all OGC specifications.
+  content: A data model for coordinate reference systems to provide a common framework
+    across all OGC specifications.
 ext:
   schema_version: v1.1.2
   doctype:

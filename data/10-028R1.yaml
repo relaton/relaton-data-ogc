@@ -1,14 +1,17 @@
+---
 id: 10028r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: GIGAS Methodology for comparative analysis of information and data management systems
+  content: GIGAS Methodology for comparative analysis of information and data management
+    systems
   type: title-main
 - language: en
   script: Latn
-  content: GIGAS Methodology for comparative analysis of information and data management systems
+  content: GIGAS Methodology for comparative analysis of information and data management
+    systems
   type: main
 source:
 - type: html
@@ -66,7 +69,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document has been written on the basis of a methodology developed within the GIGAS Support Action financed by the European Commission in order to address the convergence of global initiatives like GEOSS and the European interoperability initiatives developed in the context of the GMES programme like HMA - Heterogeneous Missions Accessibility and the INSPIRE  spatial data infrastructure legislation.
+  content: This document has been written on the basis of a methodology developed
+    within the GIGAS Support Action financed by the European Commission in order to
+    address the convergence of global initiatives like GEOSS and the European interoperability
+    initiatives developed in the context of the GMES programme like HMA - Heterogeneous
+    Missions Accessibility and the INSPIRE  spatial data infrastructure legislation.
 ext:
   schema_version: v1.1.2
   doctype:

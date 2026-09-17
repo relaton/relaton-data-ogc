@@ -1,3 +1,4 @@
+---
 id: 17080r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The “Multi-Spectral Imagery” extension defines how to encode and store reflected electromagnetic radiation from the infrared wavelengths into a CDB.  The portion of the spectrum targeted is between the visible spectrum (current imagery and texture in CDB), and longer wavelength infrared that is primarily emissive and can be simulated based on the material temperature. '
+  content: 'The “Multi-Spectral Imagery” extension defines how to encode and store
+    reflected electromagnetic radiation from the infrared wavelengths into a CDB.  The
+    portion of the spectrum targeted is between the visible spectrum (current imagery
+    and texture in CDB), and longer wavelength infrared that is primarily emissive
+    and can be simulated based on the material temperature. '
 ext:
   schema_version: v1.1.2
   doctype:

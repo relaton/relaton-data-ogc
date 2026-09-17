@@ -1,3 +1,4 @@
+---
 id: 04060r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This OGC document reports the work that occurred in the OWS2 Test Bed Common Architecture thread. This thread focused on the use of UDDI/WSDL/SOAP in the OGC Web Services architecture. It also provides guidelines for the use of these technologies. '
+  content: 'This OGC document reports the work that occurred in the OWS2 Test Bed
+    Common Architecture thread. This thread focused on the use of UDDI/WSDL/SOAP in
+    the OGC Web Services architecture. It also provides guidelines for the use of
+    these technologies. '
 ext:
   schema_version: v1.1.2
   doctype:

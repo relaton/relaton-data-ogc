@@ -1,14 +1,17 @@
+---
 id: '11108'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing Implementation (Engineering Report)
+  content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing
+    Implementation (Engineering Report)
   type: title-main
 - language: en
   script: Latn
-  content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing Implementation (Engineering Report)
+  content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing
+    Implementation (Engineering Report)
   type: main
 source:
 - type: src
@@ -54,7 +57,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes the usability of OGC services and encodings to implement the\r\nOWS-8 observation fusion and tracking thread in an abstract way. The real deployment\r\nand an actual perspective on the engineering and technology viewpoint can be found in\r\nOWS-8 engineering report OGC 11-134, ‘OWS-8 Tracking: Moving Target Indicator\r\nProcess, Workflows and Implementation Results’. In addition, it describes an XMLSchema\r\nbased implementation of the UML information models defined in OWS-8\r\nengineering report “Information Model for Moving Target Indicators and Moving Object\r\nBookmarks” (OGC 11-113).\r\nThe report is also based on the results of the VMTI/GMTI and STANAG 4676 realization\r\nin the OGC concept of operations study; performed as part of OWS 8 and the EC cofunded\r\nresearch project Emergency Support System - ESS” (contract number 217951)."
+  content: "This document describes the usability of OGC services and encodings to
+    implement the\r\nOWS-8 observation fusion and tracking thread in an abstract way.
+    The real deployment\r\nand an actual perspective on the engineering and technology
+    viewpoint can be found in\r\nOWS-8 engineering report OGC 11-134, ‘OWS-8 Tracking:
+    Moving Target Indicator\r\nProcess, Workflows and Implementation Results’. In
+    addition, it describes an XMLSchema\r\nbased implementation of the UML information
+    models defined in OWS-8\r\nengineering report “Information Model for Moving Target
+    Indicators and Moving Object\r\nBookmarks” (OGC 11-113).\r\nThe report is also
+    based on the results of the VMTI/GMTI and STANAG 4676 realization\r\nin the OGC
+    concept of operations study; performed as part of OWS 8 and the EC cofunded\r\nresearch
+    project Emergency Support System - ESS” (contract number 217951)."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '11036'
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC White Paper discusses cloud computing from the perspective of OGC’s\r\ngeospatial standards development activities and standards baseline. The paper begins\r\nwith a discussion of what the cloud and cloud computing are. Unfortunately, there is still\r\nconsiderable misunderstanding in the geospatial technology community regarding cloud\r\ncomputing. The paper then discusses how standards figure into the options, benefits and\r\nrisks of cloud computing for users and providers of geospatial data and software. This\r\nperspective is important not only for those immersed in geospatial technology, but also for\r\ncloud service providers, customers and technology partners who may be unfamiliar with\r\nthe basic issues surrounding geospatial technology. This white paper does not discuss\r\nvendor specific cloud computing platforms."
+  content: "This OGC White Paper discusses cloud computing from the perspective of
+    OGC’s\r\ngeospatial standards development activities and standards baseline. The
+    paper begins\r\nwith a discussion of what the cloud and cloud computing are. Unfortunately,
+    there is still\r\nconsiderable misunderstanding in the geospatial technology community
+    regarding cloud\r\ncomputing. The paper then discusses how standards figure into
+    the options, benefits and\r\nrisks of cloud computing for users and providers
+    of geospatial data and software. This\r\nperspective is important not only for
+    those immersed in geospatial technology, but also for\r\ncloud service providers,
+    customers and technology partners who may be unfamiliar with\r\nthe basic issues
+    surrounding geospatial technology. This white paper does not discuss\r\nvendor
+    specific cloud computing platforms."
 ext:
   schema_version: v1.1.2
   doctype:

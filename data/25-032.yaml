@@ -1,14 +1,17 @@
+---
 id: '25032'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Building an Ecosystem for the Development, Utilization, and Open Data of 3D City Models Based on CityGML: Sharing Insights'
+  content: 'Building an Ecosystem for the Development, Utilization, and Open Data
+    of 3D City Models Based on CityGML: Sharing Insights'
   type: title-main
 - language: en
   script: Latn
-  content: 'Building an Ecosystem for the Development, Utilization, and Open Data of 3D City Models Based on CityGML: Sharing Insights'
+  content: 'Building an Ecosystem for the Development, Utilization, and Open Data
+    of 3D City Models Based on CityGML: Sharing Insights'
   type: main
 source:
 - type: src
@@ -72,7 +75,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This discussion paper discusses the sustainability of 3D city model development, utilization, and publication through the localization of CityGML, based on the practices in PLATEAU. Section 2 introduces the relevant activities in Japan that provide background for the project. Section 3 explains the standards and the methods for their localization. Section 4 presents an overview of the PLATEAU ecosystem and the initiatives that support its implementation. Finally,Section 5 discusses insights gained from Sections 3 and Section 4, as well as future prospects.
+  content: This discussion paper discusses the sustainability of 3D city model development,
+    utilization, and publication through the localization of CityGML, based on the
+    practices in PLATEAU. Section 2 introduces the relevant activities in Japan that
+    provide background for the project. Section 3 explains the standards and the methods
+    for their localization. Section 4 presents an overview of the PLATEAU ecosystem
+    and the initiatives that support its implementation. Finally,Section 5 discusses
+    insights gained from Sections 3 and Section 4, as well as future prospects.
 ext:
   schema_version: v1.1.2
   doctype:

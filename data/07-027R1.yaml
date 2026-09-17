@@ -1,3 +1,4 @@
+---
 id: 07027r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document contains a data content specification for Local Mission Specific Data (MSD) and is based on the GEOINT Structure Implementation Profile (GSIP) developed by the NGA. This document defines the GML 3.2.1 (ISO 19136) encoding requirements for Local MSD. The structure of the document is based on ISO/DIS 19131 (Geographic Information '
+  content: 'This document contains a data content specification for Local Mission
+    Specific Data (MSD) and is based on the GEOINT Structure Implementation Profile
+    (GSIP) developed by the NGA. This document defines the GML 3.2.1 (ISO 19136) encoding
+    requirements for Local MSD. The structure of the document is based on ISO/DIS
+    19131 (Geographic Information '
 ext:
   schema_version: v1.1.2
   doctype:

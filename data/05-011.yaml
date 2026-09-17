@@ -1,3 +1,4 @@
+---
 id: '05011'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document recommends standard XML encodings of data defining some commonly-used coordinate reference systems, including geographic, projected, and vertical CRSs. These recommended encodings are based on GML 3.1.1. These common CRS definitions will often be referenced in data transferred between client and server software that implements various standardised interfaces. This specified definition data encoding is expected to be used by multiple OGC Implementation Specifications. That is, each of these specifications is expected to use a subset and/or superset of this recommended definition data.\r\n\r\nThe position or location of a point can be described using coordinates. Such coordinates are unambiguous only when the coordinate reference system on which those coordinates are based is fully defined. Each position is described by a set of coordinates based on a specified coordinate reference system. Coordinates are often used in datasets in which all coordinates belong to the same coordinate reference system. This paper specifies XML encoding of data defining some coordinate reference systems.\r\n"
+  content: "This document recommends standard XML encodings of data defining some
+    commonly-used coordinate reference systems, including geographic, projected, and
+    vertical CRSs. These recommended encodings are based on GML 3.1.1. These common
+    CRS definitions will often be referenced in data transferred between client and
+    server software that implements various standardised interfaces. This specified
+    definition data encoding is expected to be used by multiple OGC Implementation
+    Specifications. That is, each of these specifications is expected to use a subset
+    and/or superset of this recommended definition data.\r\n\r\nThe position or location
+    of a point can be described using coordinates. Such coordinates are unambiguous
+    only when the coordinate reference system on which those coordinates are based
+    is fully defined. Each position is described by a set of coordinates based on
+    a specified coordinate reference system. Coordinates are often used in datasets
+    in which all coordinates belong to the same coordinate reference system. This
+    paper specifies XML encoding of data defining some coordinate reference systems.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

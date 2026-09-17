@@ -1,14 +1,17 @@
+---
 id: '15039'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Envisioning a Tiled Elevation Extension for the OGC GeoPackage Encoding Standard
+  content: Envisioning a Tiled Elevation Extension for the OGC GeoPackage Encoding
+    Standard
   type: title-main
 - language: en
   script: Latn
-  content: Envisioning a Tiled Elevation Extension for the OGC GeoPackage Encoding Standard
+  content: Envisioning a Tiled Elevation Extension for the OGC GeoPackage Encoding
+    Standard
   type: main
 source:
 - type: src
@@ -54,7 +57,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The GeoPackage Standards Working Group (SWG) presents a vision for storing tiled gridded elevation data in a GeoPackage.
+  content: The GeoPackage Standards Working Group (SWG) presents a vision for storing
+    tiled gridded elevation data in a GeoPackage.
 ext:
   schema_version: v1.1.2
   doctype:

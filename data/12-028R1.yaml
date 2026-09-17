@@ -1,3 +1,4 @@
+---
 id: 12028r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The document provides guidelines for the use of GML and a GML profile description in the\r\nscope of aeronautical data encoding, in particular when using the Aeronautical Information\r\nExchange Model (AIXM). In the future, the applicability of the guidelines contained in this\r\ndocument might be enlarged to cover other related domains, such as aeronautical weather data\r\nand flight data."
+  content: "The document provides guidelines for the use of GML and a GML profile
+    description in the\r\nscope of aeronautical data encoding, in particular when
+    using the Aeronautical Information\r\nExchange Model (AIXM). In the future, the
+    applicability of the guidelines contained in this\r\ndocument might be enlarged
+    to cover other related domains, such as aeronautical weather data\r\nand flight
+    data."
 ext:
   schema_version: v1.1.2
   doctype:

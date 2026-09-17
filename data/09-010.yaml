@@ -1,3 +1,4 @@
+---
 id: '09010'
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes an Application Profile for the Web Ontology Language (OWL) [W3C OWL] for CSW.  It is intended to define a specification for how ontologies built using RDF and OWL may be included within an OGC CSW catalogue to semantically-enable the catalogue.
+  content: This document describes an Application Profile for the Web Ontology Language
+    (OWL) [W3C OWL] for CSW.  It is intended to define a specification for how ontologies
+    built using RDF and OWL may be included within an OGC CSW catalogue to semantically-enable
+    the catalogue.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,14 +1,17 @@
+---
 id: '23024'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Model for Underground Data Definition and Integration (MUDDI) Part 1: Conceptual Model'
+  content: 'OGC Model for Underground Data Definition and Integration (MUDDI) Part
+    1: Conceptual Model'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Model for Underground Data Definition and Integration (MUDDI) Part 1: Conceptual Model'
+  content: 'OGC Model for Underground Data Definition and Integration (MUDDI) Part
+    1: Conceptual Model'
   type: main
 source:
 - type: src
@@ -84,7 +87,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "MUDDI stands for “Model for Underground Data Definition and Integration” and is an approach to make sub-surface data Findable, Accessible, Interoperable, and Re-Usable.\r\n\r\nThis document defines a Conceptual Model of classes that allows the integration of datasets from different types of information about the underground space, using different information models. These information models include models about elements such as utility infrastructure, transport infrastructure, soils, ground water, or environmental parameters. The Conceptual Model is a superset of classes representing Real-World Objects that can be found in the Underground."
+  content: "MUDDI stands for “Model for Underground Data Definition and Integration”
+    and is an approach to make sub-surface data Findable, Accessible, Interoperable,
+    and Re-Usable.\r\n\r\nThis document defines a Conceptual Model of classes that
+    allows the integration of datasets from different types of information about the
+    underground space, using different information models. These information models
+    include models about elements such as utility infrastructure, transport infrastructure,
+    soils, ground water, or environmental parameters. The Conceptual Model is a superset
+    of classes representing Real-World Objects that can be found in the Underground."
 ext:
   schema_version: v1.1.2
   doctype:

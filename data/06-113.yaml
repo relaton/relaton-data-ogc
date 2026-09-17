@@ -1,3 +1,4 @@
+---
 id: '06113'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a corrigendum for OGC Document 05-095r1, titled GML 3.1.1 common CRSs profile. This corrigendum is based on change request OGC 06-041.
+  content: This document is a corrigendum for OGC Document 05-095r1, titled GML 3.1.1
+    common CRSs profile. This corrigendum is based on change request OGC 06-041.
 ext:
   schema_version: v1.1.2
   doctype:

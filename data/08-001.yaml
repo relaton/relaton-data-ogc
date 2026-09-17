@@ -1,14 +1,17 @@
+---
 id: '08001'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian Geospatial Data Infrastructure Pilot
+  content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian
+    Geospatial Data Infrastructure Pilot
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian Geospatial Data Infrastructure Pilot
+  content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian
+    Geospatial Data Infrastructure Pilot
   type: main
 source:
 - type: html
@@ -52,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Discussion Paper documents results from the Interoperability Program CGDI Pilot and describes a suite of services that enable the sharing of geographic information across organizations for the purposes of: geographic database synchronization in support of a spatial data infrastructure; geographic database modification suggestions from trusted and un-trusted sources; and the transmission of geographic information in emergency notification events.\r\n\r\nThese services are called the Update Feed Service; Feedback Feed Service; and Emergency Alert Service respectively. Their information encodings are all based on the Atom Syndication Format, extended with GML and WFS Filter encodings to support geospatial requirements, and were implemented in the Canadian Geospatial Data Infrastructure Pilot.\r\n"
+  content: "This Discussion Paper documents results from the Interoperability Program
+    CGDI Pilot and describes a suite of services that enable the sharing of geographic
+    information across organizations for the purposes of: geographic database synchronization
+    in support of a spatial data infrastructure; geographic database modification
+    suggestions from trusted and un-trusted sources; and the transmission of geographic
+    information in emergency notification events.\r\n\r\nThese services are called
+    the Update Feed Service; Feedback Feed Service; and Emergency Alert Service respectively.
+    Their information encodings are all based on the Atom Syndication Format, extended
+    with GML and WFS Filter encodings to support geospatial requirements, and were
+    implemented in the Canadian Geospatial Data Infrastructure Pilot.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

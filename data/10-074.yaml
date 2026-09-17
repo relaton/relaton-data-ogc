@@ -1,3 +1,4 @@
+---
 id: '10074'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report (ER) is a deliverable for the OGC Web Service 7 testbed. The focus of this ER is using the OGC Web Processing Service (WPS) interface standard for Feature and Statistical Analysis (FSA). Specifically, the ER documents how to enhance interoperability of FSA processes that are hosted as WPS processes on the Web. This ER is coordinated with the Feature and Decision Fusion (FDF) WPS Profiling ER.
+  content: This Engineering Report (ER) is a deliverable for the OGC Web Service 7
+    testbed. The focus of this ER is using the OGC Web Processing Service (WPS) interface
+    standard for Feature and Statistical Analysis (FSA). Specifically, the ER documents
+    how to enhance interoperability of FSA processes that are hosted as WPS processes
+    on the Web. This ER is coordinated with the Feature and Decision Fusion (FDF)
+    WPS Profiling ER.
 ext:
   schema_version: v1.1.2
   doctype:

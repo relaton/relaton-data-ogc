@@ -1,3 +1,4 @@
+---
 id: '16038'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The National System for Geospatial-Intelligence (NSG) GeoPackage Profile defines and tailors the implementable provisions prescribed for the NSG for a GeoPackage based on the OGC GeoPackage encoding standard. The profile provides detailed directions on how to use the clauses, options and parameters defined in the base GeoPackage standard. The goal is to ensure that NSG GeoPackages, GeoPackage SQLite Extensions, and supporting utilities and services fulfill their intended purposes and are fit for use.\r\n\r\nThe goal of this Engineering Report (ER) is to assess whether requirements as specified in the proposed profile are specific enough to allow for any two independent GeoPackage implementers to produce and consume interoperable NSG GeoPackages. Concerns with the profile are outlined and recommendations for improvement are provided. Thoughts on the viability of the profile approach and guidance on how the profile could apply to Vector Tiling are also provided."
+  content: "The National System for Geospatial-Intelligence (NSG) GeoPackage Profile
+    defines and tailors the implementable provisions prescribed for the NSG for a
+    GeoPackage based on the OGC GeoPackage encoding standard. The profile provides
+    detailed directions on how to use the clauses, options and parameters defined
+    in the base GeoPackage standard. The goal is to ensure that NSG GeoPackages, GeoPackage
+    SQLite Extensions, and supporting utilities and services fulfill their intended
+    purposes and are fit for use.\r\n\r\nThe goal of this Engineering Report (ER)
+    is to assess whether requirements as specified in the proposed profile are specific
+    enough to allow for any two independent GeoPackage implementers to produce and
+    consume interoperable NSG GeoPackages. Concerns with the profile are outlined
+    and recommendations for improvement are provided. Thoughts on the viability of
+    the profile approach and guidance on how the profile could apply to Vector Tiling
+    are also provided."
 ext:
   schema_version: v1.1.2
   doctype:

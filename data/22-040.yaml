@@ -1,3 +1,4 @@
+---
 id: '22040'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Hydrologic geospatial data products contain geometries that represent features such as river segments and incremental catchments. The combination of these provides a 2D (XY) geospatial fabric (hydrofabic) that discretizes the landscape and flow network into hydrologically relevant features at a defined level of scale, resolution, or organization. Hydrofabrics have been created at the national and continental scale in many parts of the world. This engineering report presents progress on formalizing a hydrofabric for drainage basins that adheres to HY_Features concepts with a focus on the use of the concepts in modeling hydrologic processes. Furthermore, this report documents efforts to integrate river corridor data with the traditionally 2D hydrofabric representations. River corridors include the channel and adjacent land required to maintain or restore a dynamic geomorphic equilibrium.
+  content: Hydrologic geospatial data products contain geometries that represent features
+    such as river segments and incremental catchments. The combination of these provides
+    a 2D (XY) geospatial fabric (hydrofabic) that discretizes the landscape and flow
+    network into hydrologically relevant features at a defined level of scale, resolution,
+    or organization. Hydrofabrics have been created at the national and continental
+    scale in many parts of the world. This engineering report presents progress on
+    formalizing a hydrofabric for drainage basins that adheres to HY_Features concepts
+    with a focus on the use of the concepts in modeling hydrologic processes. Furthermore,
+    this report documents efforts to integrate river corridor data with the traditionally
+    2D hydrofabric representations. River corridors include the channel and adjacent
+    land required to maintain or restore a dynamic geomorphic equilibrium.
 ext:
   schema_version: v1.1.2
   doctype:

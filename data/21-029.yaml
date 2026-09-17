@@ -1,3 +1,4 @@
+---
 id: '21029'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed 17 Engineering Report (ER) analyses the Measures and Signatures Intelligence Enterprise Service Bus (MASBUS) pilot software and the efforts to integrate with OGC SensorThings API resources. After introducing MASBUS, a server implementation is designed to digest sensor data and demonstrate the SensorThings MQTT (Message Queuing Telemetry Transport) extension of the MASBUS software. To show the SensorThings MQTT extension of the MASBUS software, a MASBUS client implementation is also presented. This ER discusses the results of the MASBUS integration, including all lessons learned from the experiments completed during the OGC Testbed 17 Sensor Integration thread and concludes with a set of optimum recommendations.\r\n\r\n"
+  content: "This OGC Testbed 17 Engineering Report (ER) analyses the Measures and
+    Signatures Intelligence Enterprise Service Bus (MASBUS) pilot software and the
+    efforts to integrate with OGC SensorThings API resources. After introducing MASBUS,
+    a server implementation is designed to digest sensor data and demonstrate the
+    SensorThings MQTT (Message Queuing Telemetry Transport) extension of the MASBUS
+    software. To show the SensorThings MQTT extension of the MASBUS software, a MASBUS
+    client implementation is also presented. This ER discusses the results of the
+    MASBUS integration, including all lessons learned from the experiments completed
+    during the OGC Testbed 17 Sensor Integration thread and concludes with a set of
+    optimum recommendations.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

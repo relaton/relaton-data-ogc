@@ -1,3 +1,4 @@
+---
 id: '16099'
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Future City Pilot 1 - Automating Urban Planning Using Web Processing Service Engineering Report
+  content: Future City Pilot 1 - Automating Urban Planning Using Web Processing Service
+    Engineering Report
   type: main
 source:
 - type: src
@@ -58,7 +60,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Numerous and diverse technologies push cities towards open and platform-independent information infrastructures to manage human, natural, and physical systems. Future Cities Pilot 1 is an OGC interoperability initiative that aims to demonstrate how cities can begin to reap the benefits of open standards. This document reports how Web Processing Standard (WPS) of OGC was successfully used in automating urban planning processes. This document details the implementation of urban planning processes and rules concerning urban development approval processes.
+  content: Numerous and diverse technologies push cities towards open and platform-independent
+    information infrastructures to manage human, natural, and physical systems. Future
+    Cities Pilot 1 is an OGC interoperability initiative that aims to demonstrate
+    how cities can begin to reap the benefits of open standards. This document reports
+    how Web Processing Standard (WPS) of OGC was successfully used in automating urban
+    planning processes. This document details the implementation of urban planning
+    processes and rules concerning urban development approval processes.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '99054'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Simple Feature Specification application programming interfaces (APIs) provide for publishing, storage, access, and simple operations on Simple Features (point, line, polygon, multi-point, etc).
+  content: The Simple Feature Specification application programming interfaces (APIs)
+    provide for publishing, storage, access, and simple operations on Simple Features
+    (point, line, polygon, multi-point, etc).
 ext:
   schema_version: v1.1.2
   doctype:

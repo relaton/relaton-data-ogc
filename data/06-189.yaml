@@ -1,3 +1,4 @@
+---
 id: '06189'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document provides the details for a corrigendum for the existing OpenGIS Implementation Specification for the Geography Markup Language version 2.1.2 and does not modify that implementation specification. The current OpenGIS Implementation Specification that this document provides revision notes for is 02-069. '
+  content: 'This document provides the details for a corrigendum for the existing
+    OpenGIS Implementation Specification for the Geography Markup Language version
+    2.1.2 and does not modify that implementation specification. The current OpenGIS
+    Implementation Specification that this document provides revision notes for is
+    02-069. '
 ext:
   schema_version: v1.1.2
   doctype:

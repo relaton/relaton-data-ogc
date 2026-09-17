@@ -1,3 +1,4 @@
+---
 id: '19062'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The subject of this Engineering Report (ER) is a hackathon event that was held from 20 to 21 June 2019 to advance the development of OGC Application Programming Interface (API) specifications. An API is a standard set of documented and supported functions and procedures that expose the capabilities or data of an operating system, application or service to other applications (adapted from ISO/IEC TR 13066-2:2016). The OGC API Hackathon 2019, as the event was called, was hosted by Geovation at its hub in London, United Kingdom. The event was sponsored by the European Space Agency (ESA) and Ordnance Survey.
+  content: The subject of this Engineering Report (ER) is a hackathon event that was
+    held from 20 to 21 June 2019 to advance the development of OGC Application Programming
+    Interface (API) specifications. An API is a standard set of documented and supported
+    functions and procedures that expose the capabilities or data of an operating
+    system, application or service to other applications (adapted from ISO/IEC TR
+    13066-2:2016). The OGC API Hackathon 2019, as the event was called, was hosted
+    by Geovation at its hub in London, United Kingdom. The event was sponsored by
+    the European Space Agency (ESA) and Ordnance Survey.
 ext:
   schema_version: v1.1.2
   doctype:

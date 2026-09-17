@@ -1,3 +1,4 @@
+---
 id: 17066r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The “GeoPackage Extension for Tiled Gridded Coverage Data” extension (previously titled Elevation Extension) defines how to encode and store tiled regular gridded data, such as a digital elevation model, in a GeoPackage. In the ISO 19123 Schema for Coverage Geometry standard and in the OGC Coverage Implementation Schema, this type of regular gridded data is classed as grid-regular[1]. The tiles contain values, such as elevation, temperature or pressure, and may be stored as 16-bit PNG files or 32-bit TIFF files. The extension defines two ancillary data tables: one for regular gridded coverages and one for tiles. When using the PNG encoding, a scale and offset may be applied. The extension also allows for a TIFF encoding but constrains many of the TIFF options that are available to simplify development.'
+  content: 'The “GeoPackage Extension for Tiled Gridded Coverage Data” extension (previously
+    titled Elevation Extension) defines how to encode and store tiled regular gridded
+    data, such as a digital elevation model, in a GeoPackage. In the ISO 19123 Schema
+    for Coverage Geometry standard and in the OGC Coverage Implementation Schema,
+    this type of regular gridded data is classed as grid-regular[1]. The tiles contain
+    values, such as elevation, temperature or pressure, and may be stored as 16-bit
+    PNG files or 32-bit TIFF files. The extension defines two ancillary data tables:
+    one for regular gridded coverages and one for tiles. When using the PNG encoding,
+    a scale and offset may be applied. The extension also allows for a TIFF encoding
+    but constrains many of the TIFF options that are available to simplify development.'
 ext:
   schema_version: v1.1.2
   doctype:

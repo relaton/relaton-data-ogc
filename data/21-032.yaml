@@ -1,3 +1,4 @@
+---
 id: '21032'
 schema_version: v1.5.6
 type: standard
@@ -78,7 +79,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The subject of this Engineering Report (ER) is the evaluation of Cloud Optimized GeoTIFF (COG) and Zarr data container implementations. The ER aims to:\r\n\r\n Describe the use cases adopted for the evaluation (with existing implementation and with Testbed-17 implementation);\r\n Identify the opportunity of proposing that COG and Zarr become OGC standards;\r\n Describe all components developed during the Testbed; and\r\n Provide an executive summary and a description of recommended future work items."
+  content: "The subject of this Engineering Report (ER) is the evaluation of Cloud
+    Optimized GeoTIFF (COG) and Zarr data container implementations. The ER aims to:\r\n\r\n
+    Describe the use cases adopted for the evaluation (with existing implementation
+    and with Testbed-17 implementation);\r\n Identify the opportunity of proposing
+    that COG and Zarr become OGC standards;\r\n Describe all components developed
+    during the Testbed; and\r\n Provide an executive summary and a description of
+    recommended future work items."
 ext:
   schema_version: v1.1.2
   doctype:

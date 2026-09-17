@@ -1,3 +1,4 @@
+---
 id: '09153r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document provides an overview on the OGC Web Coverage Service (WCS) 2.0 suite by describing WCS core and extensions. \r\nIntended target audience are developers intending to implement WCS servers and/or clients. This document aims at providing an overview and giving useful hints and best practices beyond the pure standards texts. It is a &quot;living document&quot; which will evolve to reflect new developments and best practices.\r\nAs such, the contents of this document is informative and not of normative nature.\r\n"
+  content: "This document provides an overview on the OGC Web Coverage Service (WCS)
+    2.0 suite by describing WCS core and extensions. \r\nIntended target audience
+    are developers intending to implement WCS servers and/or clients. This document
+    aims at providing an overview and giving useful hints and best practices beyond
+    the pure standards texts. It is a &quot;living document&quot; which will evolve
+    to reflect new developments and best practices.\r\nAs such, the contents of this
+    document is informative and not of normative nature.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 18028r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,37 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Quality of Service (QoS) and Quality of Experience (QoE) as they are intended and described at the OGC are two related concepts which require very specific treatment and characterization. Citing the definitions provided by the Domain Working Group (DWG) charter document:\r\n\r\nQuality of Service: Technical reliability and performance of a network service. Typically measured using metrics like error rates, throughput, availability and delay or request response time. This Engineering Report (ER) attempts to handle QoS aspects such as service availability, scalability and speed.\r\n\r\nQuality of (User) Experience: A holistic, qualitative measure of the customers' experience of the application or service. It encompasses both the user experience and the customer support experience of the evaluated applications and/or services.\r\n\r\nQoE focuses on the usability of the information that is conceived via OGC services to end users or other client application and therefore is concerned more with qualitative aspects of such services like presence of metadata, proper and descriptive namings, appropriate styling and so on (a more thorough treatment is present in the QoE discussion paper OGC 17-049 entitled Ensuring Quality of User Experience with OGC Web Mapping Services available at https://docs.ogc.org/dp/17-049/17-049.pdf).\r\n\r\nQoS focuses on providing reliable (i.e. quantitative ) measures of spatial data service metrics which can be used to characterize how a service ( one or more specific datasets exposed by a certain service) is performing both in near real-time as well as historically. It touches concepts like availability, scalability (also known as capacity), absolute performance (i.e. speed) and can be used to assess also perceived performance by final clients. As mentioned above, it is typically measured using metrics like error rates, throughput, availability and delay or request response time.\r\n\r\nQuite often the QoS and QoE aspects of spatial data services are underestimated if not simply ignored due to lack of resources as well as lack of awareness, resulting in services which are difficult to exploit (i.e. QoE very low) and/or unstable or very slow (i.e. QoS very low). The result is that few users end up using them after the initial launch and this is especially true for services targeting end users who are used to interact with services a-la Google Maps which delivers extreme performance and scalability as well as bullet-proof usability.\r\n\r\n"
+  content: "Quality of Service (QoS) and Quality of Experience (QoE) as they are intended
+    and described at the OGC are two related concepts which require very specific
+    treatment and characterization. Citing the definitions provided by the Domain
+    Working Group (DWG) charter document:\r\n\r\nQuality of Service: Technical reliability
+    and performance of a network service. Typically measured using metrics like error
+    rates, throughput, availability and delay or request response time. This Engineering
+    Report (ER) attempts to handle QoS aspects such as service availability, scalability
+    and speed.\r\n\r\nQuality of (User) Experience: A holistic, qualitative measure
+    of the customers' experience of the application or service. It encompasses both
+    the user experience and the customer support experience of the evaluated applications
+    and/or services.\r\n\r\nQoE focuses on the usability of the information that is
+    conceived via OGC services to end users or other client application and therefore
+    is concerned more with qualitative aspects of such services like presence of metadata,
+    proper and descriptive namings, appropriate styling and so on (a more thorough
+    treatment is present in the QoE discussion paper OGC 17-049 entitled Ensuring
+    Quality of User Experience with OGC Web Mapping Services available at https://docs.ogc.org/dp/17-049/17-049.pdf).\r\n\r\nQoS
+    focuses on providing reliable (i.e. quantitative ) measures of spatial data service
+    metrics which can be used to characterize how a service ( one or more specific
+    datasets exposed by a certain service) is performing both in near real-time as
+    well as historically. It touches concepts like availability, scalability (also
+    known as capacity), absolute performance (i.e. speed) and can be used to assess
+    also perceived performance by final clients. As mentioned above, it is typically
+    measured using metrics like error rates, throughput, availability and delay or
+    request response time.\r\n\r\nQuite often the QoS and QoE aspects of spatial data
+    services are underestimated if not simply ignored due to lack of resources as
+    well as lack of awareness, resulting in services which are difficult to exploit
+    (i.e. QoE very low) and/or unstable or very slow (i.e. QoS very low). The result
+    is that few users end up using them after the initial launch and this is especially
+    true for services targeting end users who are used to interact with services a-la
+    Google Maps which delivers extreme performance and scalability as well as bullet-proof
+    usability.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

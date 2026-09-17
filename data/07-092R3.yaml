@@ -1,3 +1,4 @@
+---
 id: '07092r3'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document specifies Universal Resource Names (URNs) in the “ogc” URN namespace to be used for identifying definitions. These definitions include definitions of Coordinate Reference Systems (CRSs) and related objects, as specified in OGC Abstract Specification Topic 2: Spatial referencing by coordinates, plus several other resource types for which standard identifiers are useful in OGC Web Services. This document specifies the formats used by these URNs, including formats that can reference definitions recorded in the EPSG database and by other authorities. This document also specifies URNs for some specific definitions for which OGC is the custodian.'
+  content: 'This document specifies Universal Resource Names (URNs) in the “ogc” URN
+    namespace to be used for identifying definitions. These definitions include definitions
+    of Coordinate Reference Systems (CRSs) and related objects, as specified in OGC
+    Abstract Specification Topic 2: Spatial referencing by coordinates, plus several
+    other resource types for which standard identifiers are useful in OGC Web Services.
+    This document specifies the formats used by these URNs, including formats that
+    can reference definitions recorded in the EPSG database and by other authorities.
+    This document also specifies URNs for some specific definitions for which OGC
+    is the custodian.'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '08094r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This standard defines low level data models for exchanging sensor related data between nodes of the OGC® Sensor Web Enablement (SWE) framework. These models allow applications and/or servers to structure, encode and transmit sensor datasets in a self describing and semantically enabled way.
+  content: This standard defines low level data models for exchanging sensor related
+    data between nodes of the OGC® Sensor Web Enablement (SWE) framework. These models
+    allow applications and/or servers to structure, encode and transmit sensor datasets
+    in a self describing and semantically enabled way.
 ext:
   schema_version: v1.1.2
   doctype:

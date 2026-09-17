@@ -1,3 +1,4 @@
+---
 id: 19008r4
 schema_version: v1.5.6
 type: standard
@@ -80,7 +81,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Standard defines the Geographic Tagged Image File Format (GeoTIFF) by specifying requirements and encoding rules for using the Tagged Image File Format (TIFF) for the exchange of georeferenced or geocoded imagery. The OGC GeoTIFF 1.1 standard formalizes the existing community GeoTIFF specification version 1.0 and aligns it with the continuing addition of data to the EPSG Geodetic Parameter Dataset.
+  content: This OGC Standard defines the Geographic Tagged Image File Format (GeoTIFF)
+    by specifying requirements and encoding rules for using the Tagged Image File
+    Format (TIFF) for the exchange of georeferenced or geocoded imagery. The OGC GeoTIFF
+    1.1 standard formalizes the existing community GeoTIFF specification version 1.0
+    and aligns it with the continuing addition of data to the EPSG Geodetic Parameter
+    Dataset.
 ext:
   schema_version: v1.1.2
   doctype:

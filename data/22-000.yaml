@@ -1,3 +1,4 @@
+---
 id: '22000'
 schema_version: v1.5.6
 type: standard
@@ -84,7 +85,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The GeoPose Reviewers Guide is a public resource structured to provide quick answers to questions which a reviewer may have about the OGC GeoPose specification. This OGC document is provided to support professionals who need to understand OGC GeoPose and/or are reviewing the GeoPose draft standard but do not wish to implement it.\r\n\r\nGeoPose 1.0 is an OGC Implementation Standard for exchanging the position and orientation (Poses) of real or virtual geometric objects within reference frames anchored to the Earth’s surface (Geo) or within other astronomical coordinate systems. The standard specifies two Basic forms with no configuration options for common use cases, an Advanced form with more flexibility for more complex applications, and five composite GeoPose structures that support time series plus chain and graph structures."
+  content: "The GeoPose Reviewers Guide is a public resource structured to provide
+    quick answers to questions which a reviewer may have about the OGC GeoPose specification.
+    This OGC document is provided to support professionals who need to understand
+    OGC GeoPose and/or are reviewing the GeoPose draft standard but do not wish to
+    implement it.\r\n\r\nGeoPose 1.0 is an OGC Implementation Standard for exchanging
+    the position and orientation (Poses) of real or virtual geometric objects within
+    reference frames anchored to the Earth’s surface (Geo) or within other astronomical
+    coordinate systems. The standard specifies two Basic forms with no configuration
+    options for common use cases, an Advanced form with more flexibility for more
+    complex applications, and five composite GeoPose structures that support time
+    series plus chain and graph structures."
 ext:
   schema_version: v1.1.2
   doctype:

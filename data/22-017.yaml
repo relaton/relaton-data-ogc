@@ -1,3 +1,4 @@
+---
 id: '22017'
 schema_version: v1.5.6
 type: standard
@@ -72,7 +73,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed 18 Engineering Report (ER) documents work to develop a foundation for future standardization of Training Datasets (TDS) for Earth Observation (EO) applications. The work performed in the Testbed 18 activity is based on previous OGC Machine Learning (ML) activities. TDS are essential to ML models, supporting accurate predictions in performing the desired task. However, a historical absence of standards has resulted in inconsistent and heterogeneous TDSs with limited discoverability and interoperability. Therefore, there is a need for best practices and guidelines for generating, structuring, describing, and curating TDSs that would include developing example software/packages to support these activities. Community and parallel OGC activities are working on these topics. This ER reviews those activities in parallel with making recommendations.
+  content: This OGC Testbed 18 Engineering Report (ER) documents work to develop a
+    foundation for future standardization of Training Datasets (TDS) for Earth Observation
+    (EO) applications. The work performed in the Testbed 18 activity is based on previous
+    OGC Machine Learning (ML) activities. TDS are essential to ML models, supporting
+    accurate predictions in performing the desired task. However, a historical absence
+    of standards has resulted in inconsistent and heterogeneous TDSs with limited
+    discoverability and interoperability. Therefore, there is a need for best practices
+    and guidelines for generating, structuring, describing, and curating TDSs that
+    would include developing example software/packages to support these activities.
+    Community and parallel OGC activities are working on these topics. This ER reviews
+    those activities in parallel with making recommendations.
 ext:
   schema_version: v1.1.2
   doctype:

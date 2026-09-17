@@ -1,3 +1,4 @@
+---
 id: '20094'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Indoor Mapping Data Format (referenced throughout this document as IMDF) provides a generalized, yet comprehensive model for any indoor location, providing a basis for orientation, navigation and discovery. In this release there are also detailed instructions for modeling the spaces of an airport, a shopping mall, and a train station.\r\n\r\nThis release also has an extension model which enables a venue, organization, or even an industry to create valid features and validations not available in the current specification for private or public use\r\n\r\n"
+  content: "Indoor Mapping Data Format (referenced throughout this document as IMDF)
+    provides a generalized, yet comprehensive model for any indoor location, providing
+    a basis for orientation, navigation and discovery. In this release there are also
+    detailed instructions for modeling the spaces of an airport, a shopping mall,
+    and a train station.\r\n\r\nThis release also has an extension model which enables
+    a venue, organization, or even an industry to create valid features and validations
+    not available in the current specification for private or public use\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

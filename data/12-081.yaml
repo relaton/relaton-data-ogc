@@ -1,3 +1,4 @@
+---
 id: '12081'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "An OGC name is required for ontology resources published by OGC. This includes OWL\r\nontologies, classes and properties."
+  content: "An OGC name is required for ontology resources published by OGC. This
+    includes OWL\r\nontologies, classes and properties."
 ext:
   schema_version: v1.1.2
   doctype:

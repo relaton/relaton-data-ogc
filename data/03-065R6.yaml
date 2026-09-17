@@ -1,3 +1,4 @@
+---
 id: 03065r6
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Extends the Web Map Server (WMS) interface to allow access to geospatial coverages that represent values or properties of geographic locations, rather than WMS generated maps (pictures).
+  content: Extends the Web Map Server (WMS) interface to allow access to geospatial
+    coverages that represent values or properties of geographic locations, rather
+    than WMS generated maps (pictures).
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '09032'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The document describes an abstract event architecture for service oriented architectures. Furthermore various techniques for implementing an event architecture and working with events are discussed.
+  content: The document describes an abstract event architecture for service oriented
+    architectures. Furthermore various techniques for implementing an event architecture
+    and working with events are discussed.
 ext:
   schema_version: v1.1.2
   doctype:

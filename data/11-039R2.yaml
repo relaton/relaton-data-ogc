@@ -1,3 +1,4 @@
+---
 id: 11039r2
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes a conceptual model for the identification of hydrologic features independent from geometric representation. This model allows common reference to hydrologic features across scientific sub-disciplines in hydrology. The Hydrologic Feature Model, HY_Features, is designed as a set of interrelated Application Schemas using ISO 19103 Conceptual Schema Language and ISO 19109 General Feature Model. It is factored into relatively simple components that can be reviewed, tested and extended independently.
+  content: This document describes a conceptual model for the identification of hydrologic
+    features independent from geometric representation. This model allows common reference
+    to hydrologic features across scientific sub-disciplines in hydrology. The Hydrologic
+    Feature Model, HY_Features, is designed as a set of interrelated Application Schemas
+    using ISO 19103 Conceptual Schema Language and ISO 19109 General Feature Model.
+    It is factored into relatively simple components that can be reviewed, tested
+    and extended independently.
 ext:
   schema_version: v1.1.2
   doctype:

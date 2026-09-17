@@ -1,3 +1,4 @@
+---
 id: 15073r2
 schema_version: v1.5.6
 type: standard
@@ -68,7 +69,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report (ER) describes work done in OGC Testbed 11 to test\r\nGMLJP2 in terms of defining a DGIWG GMLJP2 version 1 profile.\r\nThe requirements for a DGIWG profile of GMLJP2 have been documented in the\r\nDGIWG GMLJP2 version 1 profile. The Imagery WG inside DGIWG has developed a\r\nfilter to map the files produced using the previous GMLJP2 schema into the GMLJP2\r\nversion 2 schema and is about to submit a GMLJP2 2.0 profile to DGIWG.\r\nThe DGIWG implementation of the GMLJP2 profile is based on the OGC GMLJP2 v2\r\nand other requirements are coming directly from the adoption inside the DGIWG of the\r\nnew OGC GMLJP2 version 2.\r\nThis Testbed 11 activity is a response to the need of harmonization between DGIWG and\r\nOGC."
+  content: "This OGC Engineering Report (ER) describes work done in OGC Testbed 11
+    to test\r\nGMLJP2 in terms of defining a DGIWG GMLJP2 version 1 profile.\r\nThe
+    requirements for a DGIWG profile of GMLJP2 have been documented in the\r\nDGIWG
+    GMLJP2 version 1 profile. The Imagery WG inside DGIWG has developed a\r\nfilter
+    to map the files produced using the previous GMLJP2 schema into the GMLJP2\r\nversion
+    2 schema and is about to submit a GMLJP2 2.0 profile to DGIWG.\r\nThe DGIWG implementation
+    of the GMLJP2 profile is based on the OGC GMLJP2 v2\r\nand other requirements
+    are coming directly from the adoption inside the DGIWG of the\r\nnew OGC GMLJP2
+    version 2.\r\nThis Testbed 11 activity is a response to the need of harmonization
+    between DGIWG and\r\nOGC."
 ext:
   schema_version: v1.1.2
   doctype:

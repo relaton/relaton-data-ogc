@@ -1,3 +1,4 @@
+---
 id: '06140'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Feature Styling is based on a distributed computational platform that employs a number\r\nof standard interfaces and encodings to allow for flexible, scalable and interoperable\r\nmanagement of symbology (styles and symbols) in the process of producing maps from\r\ndifferent kinds of data, most important being source GML data.\r\n"
+  content: "Feature Styling is based on a distributed computational platform that
+    employs a number\r\nof standard interfaces and encodings to allow for flexible,
+    scalable and interoperable\r\nmanagement of symbology (styles and symbols) in
+    the process of producing maps from\r\ndifferent kinds of data, most important
+    being source GML data.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

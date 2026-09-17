@@ -1,3 +1,4 @@
+---
 id: 12117r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Applications using moving feature data, typically on vehicles and pedestrians, have\r\nrecently been rapidly increasing. Innovative applications are expected to require the\r\noverlay and integration of moving feature data from different sources to create more\r\nsocial and business values. Efforts in this direction should be encouraged by ensuring\r\nsmoother data exchange because handling and integrating moving feature data will\r\nbroaden the market for geo-spatial information. This discussion paper provides an\r\noverview of some actual and potential geo-spatial applications using moving feature data\r\nand the existing international standards or specifications on moving feature data handling.\r\nIt also summarizes the requirements set on the standards for moving feature data, and\r\nfinally proposes the development of a new OGC standard for moving features."
+  content: "Applications using moving feature data, typically on vehicles and pedestrians,
+    have\r\nrecently been rapidly increasing. Innovative applications are expected
+    to require the\r\noverlay and integration of moving feature data from different
+    sources to create more\r\nsocial and business values. Efforts in this direction
+    should be encouraged by ensuring\r\nsmoother data exchange because handling and
+    integrating moving feature data will\r\nbroaden the market for geo-spatial information.
+    This discussion paper provides an\r\noverview of some actual and potential geo-spatial
+    applications using moving feature data\r\nand the existing international standards
+    or specifications on moving feature data handling.\r\nIt also summarizes the requirements
+    set on the standards for moving feature data, and\r\nfinally proposes the development
+    of a new OGC standard for moving features."
 ext:
   schema_version: v1.1.2
   doctype:

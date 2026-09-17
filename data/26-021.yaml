@@ -1,14 +1,17 @@
+---
 id: '26021'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'The Machine-Interpretable Standards Ecosystem: Standards, Profiles, Building Blocks, and Registers. An Architectural Framework for a Composable, Disco'
+  content: 'The Machine-Interpretable Standards Ecosystem: Standards, Profiles, Building
+    Blocks, and Registers. An Architectural Framework for a Composable, Disco'
   type: title-main
 - language: en
   script: Latn
-  content: 'The Machine-Interpretable Standards Ecosystem: Standards, Profiles, Building Blocks, and Registers. An Architectural Framework for a Composable, Disco'
+  content: 'The Machine-Interpretable Standards Ecosystem: Standards, Profiles, Building
+    Blocks, and Registers. An Architectural Framework for a Composable, Disco'
   type: main
 source:
 - type: src
@@ -78,7 +81,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The paper is framed as a proposal about standards, but the commercial payoff lands one layer higher — on the data itself. Machine-interpretable standards are a means; machine-interpretable data offerings are the end. When a dataset is published against a registered profile, every value it carries arrives with its meaning declared in a form an AI agent can consume safely: units of measure point to a shared reference, coordinate systems are explicit, feature types resolve to catalog entries, date and time conventions are declared rather than assumed, and provenance is a traversable chain rather than a PDF footnote.'
+  content: 'The paper is framed as a proposal about standards, but the commercial
+    payoff lands one layer higher — on the data itself. Machine-interpretable standards
+    are a means; machine-interpretable data offerings are the end. When a dataset
+    is published against a registered profile, every value it carries arrives with
+    its meaning declared in a form an AI agent can consume safely: units of measure
+    point to a shared reference, coordinate systems are explicit, feature types resolve
+    to catalog entries, date and time conventions are declared rather than assumed,
+    and provenance is a traversable chain rather than a PDF footnote.'
 ext:
   schema_version: v1.1.2
   doctype:

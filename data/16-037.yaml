@@ -1,3 +1,4 @@
+---
 id: '16037'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Engineering Report documents the outcome of the US Topo experiment. The focus of the US Topo experiment was to generate GeoPackages by combining USGS Topo Map Vector Data Products [1]; and the Topo TNM Style Template [2]. The output GeoPackages will contain both features and instructions for styling these features as well as orthoimagery, shaded relief raster tilesets, national wetlands raster tilesets and elevation data derived from USGS provide 1/9 arc second elevation imagery. The process used to generate the GeoPackage is explained. Problems and obstacles encountered decoding the source product and styles and converting these artifacts to a GeoPackage are explained with recommendations for improvements. Additionally, the experience applying the generated GeoPackage in two use cases proposed for this testbed will be evaluated. The introduction of symbolization for vector features will be articulated as a proposed extension for GeoPackage. Any issues related to encoding the TNM style template using the extension are documented.
+  content: This OGC Engineering Report documents the outcome of the US Topo experiment.
+    The focus of the US Topo experiment was to generate GeoPackages by combining USGS
+    Topo Map Vector Data Products [1]; and the Topo TNM Style Template [2]. The output
+    GeoPackages will contain both features and instructions for styling these features
+    as well as orthoimagery, shaded relief raster tilesets, national wetlands raster
+    tilesets and elevation data derived from USGS provide 1/9 arc second elevation
+    imagery. The process used to generate the GeoPackage is explained. Problems and
+    obstacles encountered decoding the source product and styles and converting these
+    artifacts to a GeoPackage are explained with recommendations for improvements.
+    Additionally, the experience applying the generated GeoPackage in two use cases
+    proposed for this testbed will be evaluated. The introduction of symbolization
+    for vector features will be articulated as a proposed extension for GeoPackage.
+    Any issues related to encoding the TNM style template using the extension are
+    documented.
 ext:
   schema_version: v1.1.2
   doctype:

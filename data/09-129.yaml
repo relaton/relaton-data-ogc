@@ -1,14 +1,17 @@
+---
 id: '09129'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: AIP-2 Use Cases GEOSS Architecture Implementation Pilot, Phase 2 Engineering Report
+  content: AIP-2 Use Cases GEOSS Architecture Implementation Pilot, Phase 2 Engineering
+    Report
   type: title-main
 - language: en
   script: Latn
-  content: AIP-2 Use Cases GEOSS Architecture Implementation Pilot, Phase 2 Engineering Report
+  content: AIP-2 Use Cases GEOSS Architecture Implementation Pilot, Phase 2 Engineering
+    Report
   type: main
 source:
 - type: html
@@ -52,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This AIP-2 Engineering Report (ER) describes a set of transverse technology Use Cases developed and applied in the GEOSS Architecture Implementation Pilot Phase 2 (AIP-2).  Such Use Cases define reusable activities within a service-oriented architecture, tailored for the GEOSS environment.  This report contains the general Use Cases that were specialized by community Working Groups to implement several specific Societal Benefit Area (SBA) Scenarios in AIP-2.  The SBA Scenarios and specialized use cases are defined in separate AIP-2 ERs. This AIP-2 ER will be offered for consideration by the GEOSS Best Practice Registry editors and to OGC Technical Committee for consideration as a Best Practice.
+  content: This AIP-2 Engineering Report (ER) describes a set of transverse technology
+    Use Cases developed and applied in the GEOSS Architecture Implementation Pilot
+    Phase 2 (AIP-2).  Such Use Cases define reusable activities within a service-oriented
+    architecture, tailored for the GEOSS environment.  This report contains the general
+    Use Cases that were specialized by community Working Groups to implement several
+    specific Societal Benefit Area (SBA) Scenarios in AIP-2.  The SBA Scenarios and
+    specialized use cases are defined in separate AIP-2 ERs. This AIP-2 ER will be
+    offered for consideration by the GEOSS Best Practice Registry editors and to OGC
+    Technical Committee for consideration as a Best Practice.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 07124r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Discussion Paper is about the use of KML, an encoding used to express geographic annotation and visualization on existing or future web-based online maps (2d) and earth browsers (3d). KML uses a tag-based structure with nested elements and attributes and is based on the XML standard.
+  content: This Discussion Paper is about the use of KML, an encoding used to express
+    geographic annotation and visualization on existing or future web-based online
+    maps (2d) and earth browsers (3d). KML uses a tag-based structure with nested
+    elements and attributes and is based on the XML standard.
 ext:
   schema_version: v1.1.2
   doctype:

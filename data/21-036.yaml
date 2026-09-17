@@ -1,3 +1,4 @@
+---
 id: '21036'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Testbed-17 Moving Features (MF) task addressed the exchange of moving object detections, shared processing of detections for correlation and analysis, and visualization of moving objects within common operational pictures. This Engineering Report (ER) explores and describes an architecture for collaborative distributed object detection and analysis of multi-source motion imagery, supported by OGC MF standards. The ER presents the proposed architecture, identifies the necessary standards, describes all developed components, reports on the results of all TIE activities, and provides a description of recommended future work items.
+  content: The OGC Testbed-17 Moving Features (MF) task addressed the exchange of
+    moving object detections, shared processing of detections for correlation and
+    analysis, and visualization of moving objects within common operational pictures.
+    This Engineering Report (ER) explores and describes an architecture for collaborative
+    distributed object detection and analysis of multi-source motion imagery, supported
+    by OGC MF standards. The ER presents the proposed architecture, identifies the
+    necessary standards, describes all developed components, reports on the results
+    of all TIE activities, and provides a description of recommended future work items.
 ext:
   schema_version: v1.1.2
   doctype:

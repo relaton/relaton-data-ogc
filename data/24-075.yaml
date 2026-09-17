@@ -1,14 +1,17 @@
+---
 id: '24075'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Climate and Disaster Resilience Pilot 2024: Analysis Ready Data (ARD) to Decision Ready Information (DRI) Report'
+  content: 'OGC Climate and Disaster Resilience Pilot 2024: Analysis Ready Data (ARD)
+    to Decision Ready Information (DRI) Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Climate and Disaster Resilience Pilot 2024: Analysis Ready Data (ARD) to Decision Ready Information (DRI) Report'
+  content: 'OGC Climate and Disaster Resilience Pilot 2024: Analysis Ready Data (ARD)
+    to Decision Ready Information (DRI) Report'
   type: main
 source:
 - type: src
@@ -54,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Safe Software explored key aspects and challenges related to building data value chains from raw data to ARD and DRI in order to support disaster response and climate resilience applications, both in this and previous OGC disaster and climate pilots. As discussed in prior pilots, while ARD - Analysis Ready Data - was initially developed for EO (earth observation) applications; it can also be useful to apply ARD approaches to analytic model results to make these results more widely accessible.
+  content: Safe Software explored key aspects and challenges related to building data
+    value chains from raw data to ARD and DRI in order to support disaster response
+    and climate resilience applications, both in this and previous OGC disaster and
+    climate pilots. As discussed in prior pilots, while ARD - Analysis Ready Data
+    - was initially developed for EO (earth observation) applications; it can also
+    be useful to apply ARD approaches to analytic model results to make these results
+    more widely accessible.
 ext:
   schema_version: v1.1.2
   doctype:

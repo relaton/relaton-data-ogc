@@ -1,3 +1,4 @@
+---
 id: '19019'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report provides an executive summary of the Open Portrayal Framework (OPF) Thread in OGC Testbed-15. The work in this testbed occurred between April and November 2019. Full details of the requirements, high-level architecture, and solutions are provided in the following Engineering Reports:\r\n\r\nOGC Testbed-15: Styles API Draft Specification Engineering Report\r\n\r\nOGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering Report\r\n\r\nOGC Testbed-15: Maps and Tiles API Draft Specification Engineering Report\r\n\r\nOGC Testbed-15: Images and Change Sets Draft Specification Engineering Report\r\n\r\nOGC Testbed-15: Open Portrayal Framework Engineering Report"
+  content: "This OGC Engineering Report provides an executive summary of the Open
+    Portrayal Framework (OPF) Thread in OGC Testbed-15. The work in this testbed occurred
+    between April and November 2019. Full details of the requirements, high-level
+    architecture, and solutions are provided in the following Engineering Reports:\r\n\r\nOGC
+    Testbed-15: Styles API Draft Specification Engineering Report\r\n\r\nOGC Testbed-15:
+    Encoding and Metadata Conceptual Model for Styles Engineering Report\r\n\r\nOGC
+    Testbed-15: Maps and Tiles API Draft Specification Engineering Report\r\n\r\nOGC
+    Testbed-15: Images and Change Sets Draft Specification Engineering Report\r\n\r\nOGC
+    Testbed-15: Open Portrayal Framework Engineering Report"
 ext:
   schema_version: v1.1.2
   doctype:

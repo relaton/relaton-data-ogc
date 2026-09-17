@@ -1,3 +1,4 @@
+---
 id: '20092'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Discussion Paper documents the results and recommendations of the rapid prototyping activities conducted during the 3D Geospatial Series Tech Sprint II - OGC CDB 2.0 (aka CDB X). This activity was performed in support of Special Operations Forces (SOF) Future Concepts. This effort hopes to accelerate evolution of the OGC CDB standard to meet the needs of planning, rehearsal, and Mission Command systems providing decision support to Special Operations Forces and enabling SOF tactical and operational advantage. OGC industry standards enable interoperability of geospatial data across systems and applications that SOF Operators and analysts use across warfighting functions.\r\n\r\nShort summary of CDB X goal: Meeting the requirements for tactical GEOINT that can be used across warfighting functions."
+  content: "This Discussion Paper documents the results and recommendations of the
+    rapid prototyping activities conducted during the 3D Geospatial Series Tech Sprint
+    II - OGC CDB 2.0 (aka CDB X). This activity was performed in support of Special
+    Operations Forces (SOF) Future Concepts. This effort hopes to accelerate evolution
+    of the OGC CDB standard to meet the needs of planning, rehearsal, and Mission
+    Command systems providing decision support to Special Operations Forces and enabling
+    SOF tactical and operational advantage. OGC industry standards enable interoperability
+    of geospatial data across systems and applications that SOF Operators and analysts
+    use across warfighting functions.\r\n\r\nShort summary of CDB X goal: Meeting
+    the requirements for tactical GEOINT that can be used across warfighting functions."
 ext:
   schema_version: v1.1.2
   doctype:

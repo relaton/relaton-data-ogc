@@ -1,3 +1,4 @@
+---
 id: '21037'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Data about buildings and building structures play roles at scales from neighborhoods to nations in creating, protecting, regulating, and understanding the built environment. This report examines standards which may be useful in defining the structure and content of building data at a national scale, a national building layer. Standard models, schemas, and encodings may be especially useful for supporting an extensible building dataset with an efficient core definition, but the ability to encompass more detailed or specialized data as needed in as seamless and compatible a manner as possible. Standards compiled and described in this document range from generic geographic data encodings to models and specifications for specific building perspectives such as land parcel improvements, facility ownership, footprint / roofline extractions, residency affordances, envelope characteristics, and so on. They provide potential source material for a modular and multi-platform building layer definition which can be applied to a reasonably wide set of use cases. This definition may in turn be a standardization candidate for adoption by other national geographic data collections.
+  content: Data about buildings and building structures play roles at scales from
+    neighborhoods to nations in creating, protecting, regulating, and understanding
+    the built environment. This report examines standards which may be useful in defining
+    the structure and content of building data at a national scale, a national building
+    layer. Standard models, schemas, and encodings may be especially useful for supporting
+    an extensible building dataset with an efficient core definition, but the ability
+    to encompass more detailed or specialized data as needed in as seamless and compatible
+    a manner as possible. Standards compiled and described in this document range
+    from generic geographic data encodings to models and specifications for specific
+    building perspectives such as land parcel improvements, facility ownership, footprint
+    / roofline extractions, residency affordances, envelope characteristics, and so
+    on. They provide potential source material for a modular and multi-platform building
+    layer definition which can be applied to a reasonably wide set of use cases. This
+    definition may in turn be a standardization candidate for adoption by other national
+    geographic data collections.
 ext:
   schema_version: v1.1.2
   doctype:

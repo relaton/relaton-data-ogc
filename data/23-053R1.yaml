@@ -1,3 +1,4 @@
+---
 id: 23053r1
 schema_version: v1.5.6
 type: standard
@@ -72,7 +73,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC API - Connected Systems Reviewers Guide is a public resource structured to provide\r\nquick answers to questions which a reviewer may have about the OGC OGC API - Connected\r\nSystems Standard v1.0. This OGC document is provided to support professionals who need to\r\nunderstand and/or are reviewing the OGC API - Connected Systems Standard v1.0 but do not\r\nwish to implement it."
+  content: "The OGC API - Connected Systems Reviewers Guide is a public resource structured
+    to provide\r\nquick answers to questions which a reviewer may have about the OGC
+    OGC API - Connected\r\nSystems Standard v1.0. This OGC document is provided to
+    support professionals who need to\r\nunderstand and/or are reviewing the OGC API
+    - Connected Systems Standard v1.0 but do not\r\nwish to implement it."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '04038r1'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document explains how Catalogue Services based on the ISO19115/ISO19119 Application Profile for the OpenGIS
+  content: This document explains how Catalogue Services based on the ISO19115/ISO19119
+    Application Profile for the OpenGIS
 ext:
   schema_version: v1.1.2
   doctype:

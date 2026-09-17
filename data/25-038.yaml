@@ -1,3 +1,4 @@
+---
 id: '25038'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC document provides an overview of the OGC/ISO Observations, Measurements, and Samples (OMS) standard (ISO 19156:2023)  . The core example is abstracted from the currently described OMS use cases, often pertaining to measurements on specific media. To illustrate the applicability of OMS, the example of determining the color of a smiley face sticker is used. This is in order to avoid bias by focusing on a specific domain. The example covers all concepts defined within the OMS Standard, showing all options for both Observation and Sampling representation.
+  content: This OGC document provides an overview of the OGC/ISO Observations, Measurements,
+    and Samples (OMS) standard (ISO 19156:2023)  . The core example is abstracted
+    from the currently described OMS use cases, often pertaining to measurements on
+    specific media. To illustrate the applicability of OMS, the example of determining
+    the color of a smiley face sticker is used. This is in order to avoid bias by
+    focusing on a specific domain. The example covers all concepts defined within
+    the OMS Standard, showing all options for both Observation and Sampling representation.
 ext:
   schema_version: v1.1.2
   doctype:

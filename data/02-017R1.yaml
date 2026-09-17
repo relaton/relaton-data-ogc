@@ -1,3 +1,4 @@
+---
 id: 02017r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This part of the Web Map Service (WMS) specification applies to those clients and servers which allow operation request encodings that are more complex than those permitted by the basic keyword/value encoding defined in WMS Part 1 [17]. Part 2 only describes the encoding of the request messages using Extensible Markup Language (XML); all other aspects of the Web Map Service are fully defined in Part 1.
+  content: This part of the Web Map Service (WMS) specification applies to those clients
+    and servers which allow operation request encodings that are more complex than
+    those permitted by the basic keyword/value encoding defined in WMS Part 1 [17].
+    Part 2 only describes the encoding of the request messages using Extensible Markup
+    Language (XML); all other aspects of the Web Map Service are fully defined in
+    Part 1.
 ext:
   schema_version: v1.1.2
   doctype:

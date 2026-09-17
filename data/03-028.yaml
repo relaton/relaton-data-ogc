@@ -1,3 +1,4 @@
+---
 id: '03028'
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document lists the design principles, requirements, and experimental results for future versions of a potential OGC - UDDI (Universal Discovery, Description, and Integration) profile of the OGC Catalog Implementation Specification. Specifically, it describes the usage scenarios, workplan, and experimental results for discovery of OGC services (including registries) through the UDDI interface using SOAP (Simple Object Access Protocol) messaging protocols. The baseline for this experiment is the specification for UDDI version 2 and use of private UDDI implementations. '
+  content: 'This document lists the design principles, requirements, and experimental
+    results for future versions of a potential OGC - UDDI (Universal Discovery, Description,
+    and Integration) profile of the OGC Catalog Implementation Specification. Specifically,
+    it describes the usage scenarios, workplan, and experimental results for discovery
+    of OGC services (including registries) through the UDDI interface using SOAP (Simple
+    Object Access Protocol) messaging protocols. The baseline for this experiment
+    is the specification for UDDI version 2 and use of private UDDI implementations. '
 ext:
   schema_version: v1.1.2
   doctype:

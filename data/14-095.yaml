@@ -1,3 +1,4 @@
+---
 id: '14095'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Sustainable development, meeting the needs of the present without compromising the ability of future generations to meet their own needs,  will be accomplished by balancing social, economic and environmental objectives.  In this paper the authors explain that rigorous standards for communicating environmental data are absolutely essential to enable social and economic progress in the Age of the Environment  – the Anthropocene Epoch  – in which humanity's expanding footprint has become the main cause of change in the planet's geology, water bodies, atmosphere and biosphere. The authors argue for a concerted and ongoing global effort to 1) define data communication and system interoperability requirements for environmental science, business and policy, and then 2) develop and implement consensus-derived, free and open environmental Information Technology (IT) standards that meet those requirements and that co-evolve with the larger IT standards framework and advances in IT.
+  content: Sustainable development, meeting the needs of the present without compromising
+    the ability of future generations to meet their own needs,  will be accomplished
+    by balancing social, economic and environmental objectives.  In this paper the
+    authors explain that rigorous standards for communicating environmental data are
+    absolutely essential to enable social and economic progress in the Age of the
+    Environment  – the Anthropocene Epoch  – in which humanity's expanding footprint
+    has become the main cause of change in the planet's geology, water bodies, atmosphere
+    and biosphere. The authors argue for a concerted and ongoing global effort to
+    1) define data communication and system interoperability requirements for environmental
+    science, business and policy, and then 2) develop and implement consensus-derived,
+    free and open environmental Information Technology (IT) standards that meet those
+    requirements and that co-evolve with the larger IT standards framework and advances
+    in IT.
 ext:
   schema_version: v1.1.2
   doctype:

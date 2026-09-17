@@ -1,3 +1,4 @@
+---
 id: 12031r2
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This discussion paper investigates the possible uses of NetCDF as a representation of WaterML timeseries data. The work is largely based on the WaterML 2.0 standard for timeseries, the NetCDF core and extensions standards and the CF-NetCDF and ADCC conventions.
+  content: This discussion paper investigates the possible uses of NetCDF as a representation
+    of WaterML timeseries data. The work is largely based on the WaterML 2.0 standard
+    for timeseries, the NetCDF core and extensions standards and the CF-NetCDF and
+    ADCC conventions.
 ext:
   schema_version: v1.1.2
   doctype:

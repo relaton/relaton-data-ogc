@@ -1,3 +1,4 @@
+---
 id: '12159'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® Engineering Report describes the architecture of a WPS capable of conflating two datasets while capturing provenance information about the process. The report also provides information about defining and encoding conflation rules and about encoding provenance information. \r\nThis Engineering Report was created as a deliverable for the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC Interoperability Program.\r\n"
+  content: "This OGC® Engineering Report describes the architecture of a WPS capable
+    of conflating two datasets while capturing provenance information about the process.
+    The report also provides information about defining and encoding conflation rules
+    and about encoding provenance information. \r\nThis Engineering Report was created
+    as a deliverable for the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC
+    Interoperability Program.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

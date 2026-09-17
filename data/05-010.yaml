@@ -1,3 +1,4 @@
+---
 id: '05010'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*** Superceded by 06-023r1 - Definition identifier URNs in OGC namespace ***\r\nThis Recommendation Paper specifies Universal Resource Names (URNs) for definitions in the "
+  content: "*** Superceded by 06-023r1 - Definition identifier URNs in OGC namespace
+    ***\r\nThis Recommendation Paper specifies Universal Resource Names (URNs) for
+    definitions in the "
 ext:
   schema_version: v1.1.2
   doctype:

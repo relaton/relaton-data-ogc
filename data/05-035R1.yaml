@@ -1,3 +1,4 @@
+---
 id: 05035r1
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Provides web access to an authority for place names. Returns their associated feature representations
+  content: Provides web access to an authority for place names. Returns their associated
+    feature representations
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '10001'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document reports the considered SANY best practice for using OGC standards to provide generic fusion processing services. Concrete case studies are documented and a detailed appendix is provided with example of XML request and responses.
+  content: This document reports the considered SANY best practice for using OGC standards
+    to provide generic fusion processing services. Concrete case studies are documented
+    and a detailed appendix is provided with example of XML request and responses.
 ext:
   schema_version: v1.1.2
   doctype:

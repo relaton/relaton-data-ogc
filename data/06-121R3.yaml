@@ -1,3 +1,4 @@
+---
 id: 06121r3
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OpenGIS® Web Services Common (WS-Common) Interface Standard specifies parameters and data structures that are common to all OGC Web Service (OWS) Standards. The standard normalizes the ways in which operation requests and responses handle such elements as bounding boxes, exception processing, URL requests, URN expressions, and key value encoding. Among its uses, this document serves as a normative reference for other OGC Web Service standards, including the OpenGIS Web Map Service (WMS) [http://www.opengeospatial.org/standards/wms], Web Feature Service (WFS) [http://www.opengeospatial.org/standards/wfs], and Web Coverage Service (WCS) [http://www.opengeospatial.org/standards/wcs] standards. Rather than continuing to repeat this material in each such standard, each standard will normatively reference parts of this document.
+  content: The OpenGIS® Web Services Common (WS-Common) Interface Standard specifies
+    parameters and data structures that are common to all OGC Web Service (OWS) Standards.
+    The standard normalizes the ways in which operation requests and responses handle
+    such elements as bounding boxes, exception processing, URL requests, URN expressions,
+    and key value encoding. Among its uses, this document serves as a normative reference
+    for other OGC Web Service standards, including the OpenGIS Web Map Service (WMS)
+    [http://www.opengeospatial.org/standards/wms], Web Feature Service (WFS) [http://www.opengeospatial.org/standards/wfs],
+    and Web Coverage Service (WCS) [http://www.opengeospatial.org/standards/wcs] standards.
+    Rather than continuing to repeat this material in each such standard, each standard
+    will normatively reference parts of this document.
 ext:
   schema_version: v1.1.2
   doctype:

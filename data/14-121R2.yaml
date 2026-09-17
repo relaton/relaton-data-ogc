@@ -1,3 +1,4 @@
+---
 id: 14121r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Web Query Service (WQS) defines a service interface for retrieving any kind of subset of information provided by the server addressed. WQS is com¬pletely agnostic of any semantics and, therefore, not bound to any predefined structures, such as coordinates, fea-tures, coverages, or metadata. This makes WQS particularly suitable for retrieval from heter-ogeneous data offerings combining features, coverages, and catalog information in some ap-plication-defined way. A second use case is selective retrieval from a Capabilities document to avoid downloading large such documents and performing extraction on client side.\r\nTo this end, the Query request type is defined which, based on an XPath expression as input, extracts the matching information from the service’s offering and returns it (currently: as an XML document).\r\n"
+  content: "This OGC Web Query Service (WQS) defines a service interface for retrieving
+    any kind of subset of information provided by the server addressed. WQS is com¬pletely
+    agnostic of any semantics and, therefore, not bound to any predefined structures,
+    such as coordinates, fea-tures, coverages, or metadata. This makes WQS particularly
+    suitable for retrieval from heter-ogeneous data offerings combining features,
+    coverages, and catalog information in some ap-plication-defined way. A second
+    use case is selective retrieval from a Capabilities document to avoid downloading
+    large such documents and performing extraction on client side.\r\nTo this end,
+    the Query request type is defined which, based on an XPath expression as input,
+    extracts the matching information from the service’s offering and returns it (currently:
+    as an XML document).\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

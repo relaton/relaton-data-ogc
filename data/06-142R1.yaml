@@ -1,3 +1,4 @@
+---
 id: 06142r1
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document defines an application schema of the Geography Markup Language (GML) version 3.1.1 for XML encoding of various geometric shapes required in the Presence Information Description Format (IETF RFC 3863) Location Object extension - A Presence-based GEOPRIV Location Object Format (RFC 4119).
+  content: This document defines an application schema of the Geography Markup Language
+    (GML) version 3.1.1 for XML encoding of various geometric shapes required in the
+    Presence Information Description Format (IETF RFC 3863) Location Object extension
+    - A Presence-based GEOPRIV Location Object Format (RFC 4119).
 ext:
   schema_version: v1.1.2
   doctype:

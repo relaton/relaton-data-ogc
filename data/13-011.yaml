@@ -1,14 +1,17 @@
+---
 id: '13011'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OWS-9: Summary of the  OGC Web Services, Phase 9 (OWS-9) Interoperability Testbed'
+  content: 'OWS-9: Summary of the  OGC Web Services, Phase 9 (OWS-9) Interoperability
+    Testbed'
   type: title-main
 - language: en
   script: Latn
-  content: 'OWS-9: Summary of the  OGC Web Services, Phase 9 (OWS-9) Interoperability Testbed'
+  content: 'OWS-9: Summary of the  OGC Web Services, Phase 9 (OWS-9) Interoperability
+    Testbed'
   type: main
 source:
 - type: src
@@ -54,7 +57,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This report summarizes the results of OGC Web Services Initiative, Phase 9 (OWS-9).
+  content: This report summarizes the results of OGC Web Services Initiative, Phase
+    9 (OWS-9).
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '13032'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This report summarizes the outcomes of a process to assess the maturity of implementations based on SWE standards.   This report covers the following areas:\r\n•\tSWE standards overview\r\n•\tImplementations of SWE in major systems\r\n•\tSWE software implementations and compliance\r\n•\tSWE implementations in IP\r\n•\tRecommendations and Observations\r\nA main outcome is the summary assessment of the SWE Implementation Maturity as presented in the Preface based on the body of the report.\r\n"
+  content: "This report summarizes the outcomes of a process to assess the maturity
+    of implementations based on SWE standards.   This report covers the following
+    areas:\r\n•\tSWE standards overview\r\n•\tImplementations of SWE in major systems\r\n•\tSWE
+    software implementations and compliance\r\n•\tSWE implementations in IP\r\n•\tRecommendations
+    and Observations\r\nA main outcome is the summary assessment of the SWE Implementation
+    Maturity as presented in the Preface based on the body of the report.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

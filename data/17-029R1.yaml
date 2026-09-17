@@ -1,3 +1,4 @@
+---
 id: 17029r1
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Engineering Report (ER) addresses the development of a consistent, flexible, adaptable workflow that will run behind the scenes. A user should be able to discover existing workflows via a catalog and execute them using their own datasets. An expert should be able to create workflows and to publish them. Previous OGC Testbed initiatives investigated workflows in the geospatial domain:\r\n\r\nOWS 3 Imagery Workflow Experiments\r\n\r\nOWS 4 WPS IPR Workflow descriptions and lessons learned\r\n\r\nOWS 4 Topology Quality Assessment Interoperability Program Report\r\n\r\nOWS 5 Data View Architecture Engineering Report\r\n\r\nOWS 6 Geoprocessing Workflow Architecture Engineering Report\r\n\r\nThese initiatives mostly favored Business Processing Execution Language (BPEL) as the workflow execution language. More recent studies ([6], [7]) were performed using BPMN as a means for describing and executing workflows comprised of OGC Web services. This ER will give an overview about existing approaches to compose and execute geospatial workflows and will describe the approach taken in Testbed-13, taking into account security aspects."
+  content: "This Engineering Report (ER) addresses the development of a consistent,
+    flexible, adaptable workflow that will run behind the scenes. A user should be
+    able to discover existing workflows via a catalog and execute them using their
+    own datasets. An expert should be able to create workflows and to publish them.
+    Previous OGC Testbed initiatives investigated workflows in the geospatial domain:\r\n\r\nOWS
+    3 Imagery Workflow Experiments\r\n\r\nOWS 4 WPS IPR Workflow descriptions and
+    lessons learned\r\n\r\nOWS 4 Topology Quality Assessment Interoperability Program
+    Report\r\n\r\nOWS 5 Data View Architecture Engineering Report\r\n\r\nOWS 6 Geoprocessing
+    Workflow Architecture Engineering Report\r\n\r\nThese initiatives mostly favored
+    Business Processing Execution Language (BPEL) as the workflow execution language.
+    More recent studies ([6], [7]) were performed using BPMN as a means for describing
+    and executing workflows comprised of OGC Web services. This ER will give an overview
+    about existing approaches to compose and execute geospatial workflows and will
+    describe the approach taken in Testbed-13, taking into account security aspects."
 ext:
   schema_version: v1.1.2
   doctype:

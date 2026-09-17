@@ -1,3 +1,4 @@
+---
 id: '17037'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC document provides an analysis of the prototype implementations, approaches and performance aspects of data serialization techniques explored in OGC Testbed 13. Specifically, it describes work done during Testbed 13 investigating serialization for geospatial data sets on OGC Web Feature Service (WFS) using Google Protocol Buffers (Protobuf) and Apache Avro.\r\n\r\nProtocol buffers are Google’s language-neutral, platform-neutral, extensible mechanism for serializing structured data. They are described by Google in the following manner - 'think XML, but smaller, faster, and simpler'. With Protobuf Google indicates developers can define how they want their data to be structured once, then they can use special generated source code to easily write and read structured data to and from a variety of data streams and using a variety of languages. Apache Avro is described as a remote procedure call and data serialization framework developed within Apache’s Hadoop project. It uses JavaScript Object Notation(JSON) for defining data types and reportedly serializes data in a compact binary format."
+  content: "This OGC document provides an analysis of the prototype implementations,
+    approaches and performance aspects of data serialization techniques explored in
+    OGC Testbed 13. Specifically, it describes work done during Testbed 13 investigating
+    serialization for geospatial data sets on OGC Web Feature Service (WFS) using
+    Google Protocol Buffers (Protobuf) and Apache Avro.\r\n\r\nProtocol buffers are
+    Google’s language-neutral, platform-neutral, extensible mechanism for serializing
+    structured data. They are described by Google in the following manner - 'think
+    XML, but smaller, faster, and simpler'. With Protobuf Google indicates developers
+    can define how they want their data to be structured once, then they can use special
+    generated source code to easily write and read structured data to and from a variety
+    of data streams and using a variety of languages. Apache Avro is described as
+    a remote procedure call and data serialization framework developed within Apache’s
+    Hadoop project. It uses JavaScript Object Notation(JSON) for defining data types
+    and reportedly serializes data in a compact binary format."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '07152'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document was developed during the FedEO - GEO AIP initiative of the OGC. It was contributed by the organizations involved in the Earth Observation and Natural Resources and Environment Domain Working Group (EO/NRE DWG) in the OGC Specification Program. The document describes recommendation for architecture and specification that enables interoperability
+  content: This document was developed during the FedEO - GEO AIP initiative of the
+    OGC. It was contributed by the organizations involved in the Earth Observation
+    and Natural Resources and Environment Domain Working Group (EO/NRE DWG) in the
+    OGC Specification Program. The document describes recommendation for architecture
+    and specification that enables interoperability
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '25010'
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'CDRP.2 aims to improve global readiness for climate change and disasters by enhancing how raw data is transformed into actionable insights to  Use Generative AI to improve climate communication and decision-making, Advance wildfire risk modeling and insurance workflows, develop ontologies for emergency and disaster management and Improve FAIR data services (Findable, Accessible, Interoperable, Reusable). '
+  content: 'CDRP.2 aims to improve global readiness for climate change and disasters
+    by enhancing how raw data is transformed into actionable insights to  Use Generative
+    AI to improve climate communication and decision-making, Advance wildfire risk
+    modeling and insurance workflows, develop ontologies for emergency and disaster
+    management and Improve FAIR data services (Findable, Accessible, Interoperable,
+    Reusable). '
 ext:
   schema_version: v1.1.2
   doctype:

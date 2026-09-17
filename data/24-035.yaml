@@ -1,3 +1,4 @@
+---
 id: '24035'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Testbed 20 Report focuses on profiling existing capabilities defined by other OGC-approved and draft standards, such as the OGC API — Processes Standard and OGC API — Coverages Standard, as well as community-driven standards such as the openEO API.
+  content: This Testbed 20 Report focuses on profiling existing capabilities defined
+    by other OGC-approved and draft standards, such as the OGC API — Processes Standard
+    and OGC API — Coverages Standard, as well as community-driven standards such as
+    the openEO API.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,14 +1,17 @@
+---
 id: '18046'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering Report
+  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering
+    Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering Report
+  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering
+    Report
   type: main
 source:
 - type: src
@@ -54,7 +57,29 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Earth Observation Exploitation Platform Hackathon 2018 was conducted to evaluate the standards based architecture for deploying and executing arbitrary applications close to the physical location of the data in heterogeneous cloud environments. The Hackathon was very successful in demonstrating both efficiency and sustainability of the architecture developed in Testbed-13. Efficient, because it was possible to setup the full execution workflow of 128 Sentinel-1 images within the 1.5 days of the Hackathon in a multi-vendor environment. Sustainable, because the architectural approach provides sufficient flexibility to cater for possible extensions and exchange of cloud & container middleware.\r\n\r\nThe Hackathon produced a number of suggestions for future work items. These include new tools to facilitate the process of Application Package generation to make it even simpler for scientists to bring their applications to the market; a more detailed specification to further improve the level of interoperability; and a best practice document with lots of examples that illustrate the necessary steps to make applications available.\r\n\r\nHackathon participants highlighted that such a level of robustness, flexibility, and maturity of the application-to-the-cloud architecture has been developed in nine months only during Testbed-13. The participants recommend to continue interlacing major OGC Innovation Program activities, such as testbeds, with short term rapid prototyping initiatives such as hackathons. Almost all participants of the Hackathon had been new to the OGC Innovation Program. These participants emphasized that the Hackathon provided an outstanding opportunity for newcomers to get quickly familiar with the latest standardization efforts and helped tremendously in understanding investments and new market opportunities for applications-in-the-cloud."
+  content: "The Earth Observation Exploitation Platform Hackathon 2018 was conducted
+    to evaluate the standards based architecture for deploying and executing arbitrary
+    applications close to the physical location of the data in heterogeneous cloud
+    environments. The Hackathon was very successful in demonstrating both efficiency
+    and sustainability of the architecture developed in Testbed-13. Efficient, because
+    it was possible to setup the full execution workflow of 128 Sentinel-1 images
+    within the 1.5 days of the Hackathon in a multi-vendor environment. Sustainable,
+    because the architectural approach provides sufficient flexibility to cater for
+    possible extensions and exchange of cloud & container middleware.\r\n\r\nThe Hackathon
+    produced a number of suggestions for future work items. These include new tools
+    to facilitate the process of Application Package generation to make it even simpler
+    for scientists to bring their applications to the market; a more detailed specification
+    to further improve the level of interoperability; and a best practice document
+    with lots of examples that illustrate the necessary steps to make applications
+    available.\r\n\r\nHackathon participants highlighted that such a level of robustness,
+    flexibility, and maturity of the application-to-the-cloud architecture has been
+    developed in nine months only during Testbed-13. The participants recommend to
+    continue interlacing major OGC Innovation Program activities, such as testbeds,
+    with short term rapid prototyping initiatives such as hackathons. Almost all participants
+    of the Hackathon had been new to the OGC Innovation Program. These participants
+    emphasized that the Hackathon provided an outstanding opportunity for newcomers
+    to get quickly familiar with the latest standardization efforts and helped tremendously
+    in understanding investments and new market opportunities for applications-in-the-cloud."
 ext:
   schema_version: v1.1.2
   doctype:

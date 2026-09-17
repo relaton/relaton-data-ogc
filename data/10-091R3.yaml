@@ -1,3 +1,4 @@
+---
 id: 10091r3
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC primer provides an overview of the OGC CF-netCDF standards suite by describ-ing the CF-netCDF core and extensions. The CF-netCDF standard defines how to encode digital geospatial information representing space/time-varying phenomena
+  content: This OGC primer provides an overview of the OGC CF-netCDF standards suite
+    by describ-ing the CF-netCDF core and extensions. The CF-netCDF standard defines
+    how to encode digital geospatial information representing space/time-varying phenomena
 ext:
   schema_version: v1.1.2
   doctype:

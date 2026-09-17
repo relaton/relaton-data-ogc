@@ -1,14 +1,17 @@
+---
 id: 17093r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC GeoPackage Related Tables Extension Interoperability Experiment Engineering Report
+  content: OGC GeoPackage Related Tables Extension Interoperability Experiment Engineering
+    Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC GeoPackage Related Tables Extension Interoperability Experiment Engineering Report
+  content: OGC GeoPackage Related Tables Extension Interoperability Experiment Engineering
+    Report
   type: main
 source:
 - type: src
@@ -62,7 +65,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Engineering Report describes the results of the OGC GeoPackage (GPKG) Related Tables Extension Interoperability Experiment (GPKG-RTE IE). This IE tested a proposed extension to the OGC GeoPackage Encoding Standard (12-128r14). The GPKG-RTE defines the rules and requirements for associating tables with existing feature or attribute tables in a GeoPackage data store. As part of this IE, the participants performed Technology Integration Experiments (TIEs) where they produced GeoPackages that used this extension, loaded them into GPKG-compliant software systems, and observed the results. As a result of this work, the IE participants agree that the extension is fit for use and consideration as a standard by OGC.
+  content: This OGC Engineering Report describes the results of the OGC GeoPackage
+    (GPKG) Related Tables Extension Interoperability Experiment (GPKG-RTE IE). This
+    IE tested a proposed extension to the OGC GeoPackage Encoding Standard (12-128r14).
+    The GPKG-RTE defines the rules and requirements for associating tables with existing
+    feature or attribute tables in a GeoPackage data store. As part of this IE, the
+    participants performed Technology Integration Experiments (TIEs) where they produced
+    GeoPackages that used this extension, loaded them into GPKG-compliant software
+    systems, and observed the results. As a result of this work, the IE participants
+    agree that the extension is fit for use and consideration as a standard by OGC.
 ext:
   schema_version: v1.1.2
   doctype:

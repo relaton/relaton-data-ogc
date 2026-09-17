@@ -1,3 +1,4 @@
+---
 id: 19014r3
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Abstract Specification (AS) defines:\r\n\r\nA conceptual model for tiling space in any dimension and;\r\n\r\nA logical model for 2D tiled structures and by extension tiling. The logical model is based on the conceptual model.\r\n\r\nThe conceptual model specified in this Abstract Specification could be a sub-class in a more comprehensive Spatial Partitioning Conceptual Model. Additional Parts may be added to this AS for other dimensions, such as 3D, or other uses cases."
+  content: "This OGC Abstract Specification (AS) defines:\r\n\r\nA conceptual model
+    for tiling space in any dimension and;\r\n\r\nA logical model for 2D tiled structures
+    and by extension tiling. The logical model is based on the conceptual model.\r\n\r\nThe
+    conceptual model specified in this Abstract Specification could be a sub-class
+    in a more comprehensive Spatial Partitioning Conceptual Model. Additional Parts
+    may be added to this AS for other dimensions, such as 3D, or other uses cases."
 ext:
   schema_version: v1.1.2
   doctype:

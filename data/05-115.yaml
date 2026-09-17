@@ -1,3 +1,4 @@
+---
 id: '05115'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A GeoVideo Web Service (GVS) is a web service that facilitates the viewing of live and/or archived feeds from video cameras. The feeds may be composed of:\r\n- A video stream\r\n- Textual data in a caption stream (e.g. GPS data, camera states and characteristics, custom XML data, such as SensorMLTML)\r\n- A combination of a video stream and associated textual data\r\nThe video streams of the feed may be viewed in the Windows Media Player. The textual data is extracted through scripting events that are generated as the caption stream is processed and displayed by the Windows Media Player."
+  content: "A GeoVideo Web Service (GVS) is a web service that facilitates the viewing
+    of live and/or archived feeds from video cameras. The feeds may be composed of:\r\n-
+    A video stream\r\n- Textual data in a caption stream (e.g. GPS data, camera states
+    and characteristics, custom XML data, such as SensorMLTML)\r\n- A combination
+    of a video stream and associated textual data\r\nThe video streams of the feed
+    may be viewed in the Windows Media Player. The textual data is extracted through
+    scripting events that are generated as the caption stream is processed and displayed
+    by the Windows Media Player."
 ext:
   schema_version: v1.1.2
   doctype:

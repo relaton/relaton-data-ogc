@@ -1,3 +1,4 @@
+---
 id: '12105'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Engineering Report describes the results of the OWS-9 IP on OWS Context 1.0. OWS Context is a draft OGC candidate standard. The OWS Context activity tested and evaluated the relative benefits of different encoding methods prior to finalization of the candidate standard. OWS Context has been proposed with an Atom encoding, a JSON encoding and an HTML5 encoding. The encoding requirement seeks to understand the level of mass-market acceptance of these different encoding options and their ability to support mash-ups. Each encoding should be evaluated, including examples and recommendations to move forward. Recommendations should enable the OWS Context capability for OGC services while remaining cognizant of implementations using mass-market technologies.
+  content: This OGC Engineering Report describes the results of the OWS-9 IP on OWS
+    Context 1.0. OWS Context is a draft OGC candidate standard. The OWS Context activity
+    tested and evaluated the relative benefits of different encoding methods prior
+    to finalization of the candidate standard. OWS Context has been proposed with
+    an Atom encoding, a JSON encoding and an HTML5 encoding. The encoding requirement
+    seeks to understand the level of mass-market acceptance of these different encoding
+    options and their ability to support mash-ups. Each encoding should be evaluated,
+    including examples and recommendations to move forward. Recommendations should
+    enable the OWS Context capability for OGC services while remaining cognizant of
+    implementations using mass-market technologies.
 ext:
   schema_version: v1.1.2
   doctype:

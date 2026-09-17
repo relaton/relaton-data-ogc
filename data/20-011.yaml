@@ -1,3 +1,4 @@
+---
 id: '20011'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This engineering report (ER) captures Smart City Interoperability Reference Architecture (SCIRA) Pilot implementation outcomes and findings to demonstrate the risk mitigation and safety capability of the SCIRA interoperable and standard-based architecture. SCIRA Pilot is an OGC (Open Geospatial Consortium) Innovation Program project sponsored by the US Department of Homeland Security (DHS) Science & Technology (S&T) in collaboration with the city of St. Louis, Missouri. The purpose of this project is to advance standards for smart and safe cities and develop open, interoperable design patterns for incorporating the Internet of Things (IoT) sensors into city services.
+  content: This engineering report (ER) captures Smart City Interoperability Reference
+    Architecture (SCIRA) Pilot implementation outcomes and findings to demonstrate
+    the risk mitigation and safety capability of the SCIRA interoperable and standard-based
+    architecture. SCIRA Pilot is an OGC (Open Geospatial Consortium) Innovation Program
+    project sponsored by the US Department of Homeland Security (DHS) Science & Technology
+    (S&T) in collaboration with the city of St. Louis, Missouri. The purpose of this
+    project is to advance standards for smart and safe cities and develop open, interoperable
+    design patterns for incorporating the Internet of Things (IoT) sensors into city
+    services.
 ext:
   schema_version: v1.1.2
   doctype:

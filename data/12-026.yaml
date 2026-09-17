@@ -1,14 +1,17 @@
+---
 id: '12026'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Architecture of an Access Management Federation for Spatial Data and Services in Germany
+  content: Architecture of an Access Management Federation for Spatial Data and Services
+    in Germany
   type: title-main
 - language: en
   script: Latn
-  content: Architecture of an Access Management Federation for Spatial Data and Services in Germany
+  content: Architecture of an Access Management Federation for Spatial Data and Services
+    in Germany
   type: main
 source:
 - type: html
@@ -52,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "An Access Management Federation (AMF) is a network of organizations that trust each other for the\r\nmeans of sharing protected resources among each other. Worldwide, many academic AMFs are\r\navailable for the purpose of sharing information and services between academic institutions such\r\nas Universities and Research Organizations. In the academia, some of the well known AMFs are UK\r\nAccess Management Federation (United Kingdom http://www.ukfederation.org.uk/), In Common\r\n(USA http://www.incommon.org/) and DFN-AAI (Germany https://www.aai.dfn.de)."
+  content: "An Access Management Federation (AMF) is a network of organizations that
+    trust each other for the\r\nmeans of sharing protected resources among each other.
+    Worldwide, many academic AMFs are\r\navailable for the purpose of sharing information
+    and services between academic institutions such\r\nas Universities and Research
+    Organizations. In the academia, some of the well known AMFs are UK\r\nAccess Management
+    Federation (United Kingdom http://www.ukfederation.org.uk/), In Common\r\n(USA
+    http://www.incommon.org/) and DFN-AAI (Germany https://www.aai.dfn.de)."
 ext:
   schema_version: v1.1.2
   doctype:

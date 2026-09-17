@@ -1,3 +1,4 @@
+---
 id: '09123'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The scope of this document is the update and the definition of GeoRM roles as a sub model of the GDI.NRW reference model (process model and architecture model). Key relationships are defined between these roles.
+  content: The scope of this document is the update and the definition of GeoRM roles
+    as a sub model of the GDI.NRW reference model (process model and architecture
+    model). Key relationships are defined between these roles.
 ext:
   schema_version: v1.1.2
   doctype:

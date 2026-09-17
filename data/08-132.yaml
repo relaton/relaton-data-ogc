@@ -1,3 +1,4 @@
+---
 id: '08132'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Event Pattern Markup Language (EML) allows one to describe event patterns for event (stream) processing and analysis. It can be used to build multi stage filters for incoming events but also to derive higher information through combining and correlating multiple events. It can be applied on single events but is focused on handling of continuous event streams.
+  content: The Event Pattern Markup Language (EML) allows one to describe event patterns
+    for event (stream) processing and analysis. It can be used to build multi stage
+    filters for incoming events but also to derive higher information through combining
+    and correlating multiple events. It can be applied on single events but is focused
+    on handling of continuous event streams.
 ext:
   schema_version: v1.1.2
   doctype:

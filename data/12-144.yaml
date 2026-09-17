@@ -1,3 +1,4 @@
+---
 id: '12144'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® Engineering Report provides guidelines for the harvest, registration and retrieval of aviation resources from an OGC web catalogue/registry service (OGC CSW-ebRIM), with particular emphasis on ISO metadata resources. Alternatives for selective and efficient retrieval of such resources are also described along with lessons learned. The OGC CSW-ebRIM registry interface is evaluated against SESAR registry requirements, documented as a gap analysis, to assess whether there are any obstacles to implementing SESAR registry with an OGC CSW-ebRIM interface.
+  content: This OGC® Engineering Report provides guidelines for the harvest, registration
+    and retrieval of aviation resources from an OGC web catalogue/registry service
+    (OGC CSW-ebRIM), with particular emphasis on ISO metadata resources. Alternatives
+    for selective and efficient retrieval of such resources are also described along
+    with lessons learned. The OGC CSW-ebRIM registry interface is evaluated against
+    SESAR registry requirements, documented as a gap analysis, to assess whether there
+    are any obstacles to implementing SESAR registry with an OGC CSW-ebRIM interface.
 ext:
   schema_version: v1.1.2
   doctype:

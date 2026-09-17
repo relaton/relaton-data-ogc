@@ -1,3 +1,4 @@
+---
 id: '17022'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report describes all Testbed-13 activities relating to the Climate Data Accessibility for Adaptation Planning requirements of the National Aeronautics and Space Administration (NASA). It discusses relevant experiences made during implementation including recommendations to the sponsor, and provides resulting standards change requests to the appropriate working groups. Additionally, it develops best practices for data and model integration and serves as a guidance document to work with NASA Earth Science Data System (ESDS) working groups and externally provided data. The added value of this Engineering Report is to improve interoperability and to advance location-based technologies and realize innovations with regards to NASA Climate Data and NASA ESDS objectives.
+  content: This Engineering Report describes all Testbed-13 activities relating to
+    the Climate Data Accessibility for Adaptation Planning requirements of the National
+    Aeronautics and Space Administration (NASA). It discusses relevant experiences
+    made during implementation including recommendations to the sponsor, and provides
+    resulting standards change requests to the appropriate working groups. Additionally,
+    it develops best practices for data and model integration and serves as a guidance
+    document to work with NASA Earth Science Data System (ESDS) working groups and
+    externally provided data. The added value of this Engineering Report is to improve
+    interoperability and to advance location-based technologies and realize innovations
+    with regards to NASA Climate Data and NASA ESDS objectives.
 ext:
   schema_version: v1.1.2
   doctype:

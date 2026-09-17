@@ -1,3 +1,4 @@
+---
 id: 05047r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The GML (Geography Markup Language) is an XML grammar for the encoding geographic information including geographic features, coverages, observations, topology, geometry, coordinate reference systems, units of measure, time, and value objects.\r\nJPEG 2000 is a wavelet based encoding for imagery that provides the ability to include XML data for description of the image within the JPEG 2000 data file.\r\nThis specification defines the means by which GML is to be used within JPEG 2000 images for geographic imagery. This includes the following:\r\n"
+  content: "The GML (Geography Markup Language) is an XML grammar for the encoding
+    geographic information including geographic features, coverages, observations,
+    topology, geometry, coordinate reference systems, units of measure, time, and
+    value objects.\r\nJPEG 2000 is a wavelet based encoding for imagery that provides
+    the ability to include XML data for description of the image within the JPEG 2000
+    data file.\r\nThis specification defines the means by which GML is to be used
+    within JPEG 2000 images for geographic imagery. This includes the following:\r\n"
 status:
   stage:
     content: draft

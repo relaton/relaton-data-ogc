@@ -1,3 +1,4 @@
+---
 id: '08000'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This report summarizes the work performed under the Canadian Geospatial Data Infrastructure Pilot. The purpose of this pilot was to test the utility of certain OGC standards, in particular the Geography Markup Language (GML) and Web Feature Service (WFS), in the implementation of a spatial data infrastructure. OGC documents 08-001 and 08-002 are more technical companions to this document.
+  content: This report summarizes the work performed under the Canadian Geospatial
+    Data Infrastructure Pilot. The purpose of this pilot was to test the utility of
+    certain OGC standards, in particular the Geography Markup Language (GML) and Web
+    Feature Service (WFS), in the implementation of a spatial data infrastructure.
+    OGC documents 08-001 and 08-002 are more technical companions to this document.
 ext:
   schema_version: v1.1.2
   doctype:

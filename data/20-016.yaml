@@ -1,3 +1,4 @@
+---
 id: '20016'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed-16 Engineering Report (ER) describes the work performed in the Data Access and Processing API (DAPA) thread.\r\n\r\nThe primary goal of the DAPA thread is to develop methods and apparatus that simplify access to, processing of, and exchange of environmental and Earth Observation (EO) data from an end-user perspective. This ER presents:\r\n\r\nThe use cases participants proposed to guide the development of the client and server components deployed during the testbed.\r\n\r\nAn abstract description of a resource model that binds a specific function to specific data and also provides a means of expressing valid combinations of data and processes.\r\n\r\nA description of each DAPA endpoint developed and deployed during the testbed.\r\n\r\nA description of the client components that interact with the deployed DAPA endpoints.\r\n\r\nEnd-user (i.e. data scientist) feedback concerning the ease-of-use of the"
+  content: "This OGC Testbed-16 Engineering Report (ER) describes the work performed
+    in the Data Access and Processing API (DAPA) thread.\r\n\r\nThe primary goal of
+    the DAPA thread is to develop methods and apparatus that simplify access to, processing
+    of, and exchange of environmental and Earth Observation (EO) data from an end-user
+    perspective. This ER presents:\r\n\r\nThe use cases participants proposed to guide
+    the development of the client and server components deployed during the testbed.\r\n\r\nAn
+    abstract description of a resource model that binds a specific function to specific
+    data and also provides a means of expressing valid combinations of data and processes.\r\n\r\nA
+    description of each DAPA endpoint developed and deployed during the testbed.\r\n\r\nA
+    description of the client components that interact with the deployed DAPA endpoints.\r\n\r\nEnd-user
+    (i.e. data scientist) feedback concerning the ease-of-use of the"
 ext:
   schema_version: v1.1.2
   doctype:

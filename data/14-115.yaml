@@ -1,3 +1,4 @@
+---
 id: '14115'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This White Paper supports development of a Smart Cities Spatial Information Framework\r\nbased on these themes:\r\n- Smart Cities are high-density generators of innovation and information.\r\n- Location information is a major enabler of Smart City technology benefits.\r\n- Benefits of smart technology must be judged by benefits to residents.\r\n- Reuse and repurpose is vital to urban resilience\r\n- Open standards are needed for interoperability, efficiency, application innovation\r\nand cost effectiveness.\r\nDiscussion of these themes and this white paper will occur at the OGC Smart Cities\r\nLocation Powers Summit in Tokyo on December 2, 2014,1 the co-located OGC Technical\r\nCommittee meeting, and in many other forums in the future. As described in this paper,\r\nthere are many standards initiatives that focus on Smart Cities. Most Smart Cities use\r\ncases in some way involve indoor and/or outdoor location, and thus communication about\r\nlocation is an issue that cuts across the work programs most of the standards\r\norganizations that are involved with Smart Cities.\r\nThis white paper builds on the OGC - Directions Magazine webinar: “Making Location\r\nWork for Smart Cities – the Case for Location Standards”2."
+  content: "This White Paper supports development of a Smart Cities Spatial Information
+    Framework\r\nbased on these themes:\r\n- Smart Cities are high-density generators
+    of innovation and information.\r\n- Location information is a major enabler of
+    Smart City technology benefits.\r\n- Benefits of smart technology must be judged
+    by benefits to residents.\r\n- Reuse and repurpose is vital to urban resilience\r\n-
+    Open standards are needed for interoperability, efficiency, application innovation\r\nand
+    cost effectiveness.\r\nDiscussion of these themes and this white paper will occur
+    at the OGC Smart Cities\r\nLocation Powers Summit in Tokyo on December 2, 2014,1
+    the co-located OGC Technical\r\nCommittee meeting, and in many other forums in
+    the future. As described in this paper,\r\nthere are many standards initiatives
+    that focus on Smart Cities. Most Smart Cities use\r\ncases in some way involve
+    indoor and/or outdoor location, and thus communication about\r\nlocation is an
+    issue that cuts across the work programs most of the standards\r\norganizations
+    that are involved with Smart Cities.\r\nThis white paper builds on the OGC - Directions
+    Magazine webinar: “Making Location\r\nWork for Smart Cities – the Case for Location
+    Standards”2."
 ext:
   schema_version: v1.1.2
   doctype:

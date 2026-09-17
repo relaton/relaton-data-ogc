@@ -1,3 +1,4 @@
+---
 id: 16047r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: With a growing requirement to carry out complex analysis in large multi-disciplinary, heterogeneous data collections, an approach is required to extract equivalent information from dissimilar content. The more information can be normalized, the easier it will be to correlate the content. Given that almost all data has a spatio-temporal component, this ER will look into the idea of defining a Spatial-Temporal Service and analyze which collection of data types, operations and architecture patterns would be necessary to spatial-temporal enable any content. This OGCÂ® document reviews the General Feature Model and gives guidelines for necessary modifications to broaden its scope, so that it can be re-used for non-geospatial centric applications and extended as necessary into a general model for all object types.
+  content: With a growing requirement to carry out complex analysis in large multi-disciplinary,
+    heterogeneous data collections, an approach is required to extract equivalent
+    information from dissimilar content. The more information can be normalized, the
+    easier it will be to correlate the content. Given that almost all data has a spatio-temporal
+    component, this ER will look into the idea of defining a Spatial-Temporal Service
+    and analyze which collection of data types, operations and architecture patterns
+    would be necessary to spatial-temporal enable any content. This OGCÂ® document
+    reviews the General Feature Model and gives guidelines for necessary modifications
+    to broaden its scope, so that it can be re-used for non-geospatial centric applications
+    and extended as necessary into a general model for all object types.
 ext:
   schema_version: v1.1.2
   doctype:

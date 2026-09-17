@@ -1,3 +1,4 @@
+---
 id: 14021r2
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Engineering Report was prepared as a deliverable for OGC Testbed 10, an initiative of the OGC Interoperability Program. The document presents the work completed with respect to the Cross Community Interoperability (CCI) thread within the testbed. The work has been commissioned in order to inform geospatial information frameworks of the Defence Geospatial Information Working Group (DGIWG), National System for Geospatial Intelligence (NSG) of the US National Geospatial Intelligence Agency (NGA) and the UK Ministry of Defence (MOD).\r\nThe Engineering Report presents an analysis and assessment of interoperability between DGIWG, NSG and UK MOD profiles of Web Map Service (WMS) and Web Feature Service (WFS) standards of the OGC. The engineering report also presents findings from the implementation of the reference profiles.\r\n"
+  content: "This Engineering Report was prepared as a deliverable for OGC Testbed
+    10, an initiative of the OGC Interoperability Program. The document presents the
+    work completed with respect to the Cross Community Interoperability (CCI) thread
+    within the testbed. The work has been commissioned in order to inform geospatial
+    information frameworks of the Defence Geospatial Information Working Group (DGIWG),
+    National System for Geospatial Intelligence (NSG) of the US National Geospatial
+    Intelligence Agency (NGA) and the UK Ministry of Defence (MOD).\r\nThe Engineering
+    Report presents an analysis and assessment of interoperability between DGIWG,
+    NSG and UK MOD profiles of Web Map Service (WMS) and Web Feature Service (WFS)
+    standards of the OGC. The engineering report also presents findings from the implementation
+    of the reference profiles.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 18047r3
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report (ER) presents a summary, description and findings of the Swath Coverage task conducted by the OGC Testbed-14 initiative.
+  content: This Engineering Report (ER) presents a summary, description and findings
+    of the Swath Coverage task conducted by the OGC Testbed-14 initiative.
 ext:
   schema_version: v1.1.2
   doctype:

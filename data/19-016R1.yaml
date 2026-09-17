@@ -1,3 +1,4 @@
+---
 id: 19016r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The OGC Testbed-15 Data Centric Security Engineering Report (ER) discusses the current state of security in protecting data in a geospatial environment. The ER examines the use of encrypted container formats such as NATO STANAG 4778 Information on standard Metadata Binding with metadata as defined in NATO STANAG 4774 Confidentiality Metadata Label Syntax in combination with geospatial data using the encoding for an OGC Web Feature Service (WFS) FeatureCollection structure. This report also makes a recommendation for the creation of new media types to support output container formats such as STANAG 4778. The report then discusses various implementation scenarios in which a STANAG 4778 (eXtensible Markup Language (XML) container maintains encrypted data from author to service to viewer. These implementations use the new OGC API - Features - Part 1: Core with features encrypted using keys supplied by feature authors and users.'
+  content: 'The OGC Testbed-15 Data Centric Security Engineering Report (ER) discusses
+    the current state of security in protecting data in a geospatial environment.
+    The ER examines the use of encrypted container formats such as NATO STANAG 4778
+    Information on standard Metadata Binding with metadata as defined in NATO STANAG
+    4774 Confidentiality Metadata Label Syntax in combination with geospatial data
+    using the encoding for an OGC Web Feature Service (WFS) FeatureCollection structure.
+    This report also makes a recommendation for the creation of new media types to
+    support output container formats such as STANAG 4778. The report then discusses
+    various implementation scenarios in which a STANAG 4778 (eXtensible Markup Language
+    (XML) container maintains encrypted data from author to service to viewer. These
+    implementations use the new OGC API - Features - Part 1: Core with features encrypted
+    using keys supplied by feature authors and users.'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 11039r3
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Common semantics support the reference of features to the concept they represent and the integration of data proceed using the semantic framework such mappings provide. However there is no standard conceptual model for hydrologic feature identification. Different models of hydrologic processes, and different scales of detail, lead to a variety of information models to describe these features, and to different and mostly incompatible sets of feature identifiers. \r\nThis document describes requirements and a proposed design for a domain model of hydrologic features as a set of interrelated Application Schemas using the ISO 19109 General Feature Model, \r\n"
+  content: "Common semantics support the reference of features to the concept they
+    represent and the integration of data proceed using the semantic framework such
+    mappings provide. However there is no standard conceptual model for hydrologic
+    feature identification. Different models of hydrologic processes, and different
+    scales of detail, lead to a variety of information models to describe these features,
+    and to different and mostly incompatible sets of feature identifiers. \r\nThis
+    document describes requirements and a proposed design for a domain model of hydrologic
+    features as a set of interrelated Application Schemas using the ISO 19109 General
+    Feature Model, \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

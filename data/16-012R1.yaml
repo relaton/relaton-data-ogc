@@ -1,3 +1,4 @@
+---
 id: 16012r1
 schema_version: v1.5.6
 type: standard
@@ -80,7 +81,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This OGC Discussion Paper provides a comparison between the OGC CityGML and IndoorGML standards. The goals and approaches of these two standards are different and they can be used in a complementary way. This discussion paper aims to compare the strengths and weakness of the standards, and explain how to integrate the standards to make useful applications. These comparative experiments are based on a real site: a shopping mall at Lotte World Mall in Seoul, South Korea.'
+  content: 'This OGC Discussion Paper provides a comparison between the OGC CityGML
+    and IndoorGML standards. The goals and approaches of these two standards are different
+    and they can be used in a complementary way. This discussion paper aims to compare
+    the strengths and weakness of the standards, and explain how to integrate the
+    standards to make useful applications. These comparative experiments are based
+    on a real site: a shopping mall at Lotte World Mall in Seoul, South Korea.'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '12040'
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies parameters to the OGC Web Coverage Service (WCS) GetCoverage request which allow extraction of specific fields, according to the range type specification, from the range set of a coverage during server-side processing of a coverage in a GetCover-age request.
+  content: This document specifies parameters to the OGC Web Coverage Service (WCS)
+    GetCoverage request which allow extraction of specific fields, according to the
+    range type specification, from the range set of a coverage during server-side
+    processing of a coverage in a GetCover-age request.
 ext:
   schema_version: v1.1.2
   doctype:

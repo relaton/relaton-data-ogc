@@ -1,3 +1,4 @@
+---
 id: '05095r1'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document defines a profile of the Geography Markup Language (GML) version 3.1.1 for encoding definitions of commonly-used Coordinate Reference Systems (CRSs) plus related coordinate Conversions.
+  content: This document defines a profile of the Geography Markup Language (GML)
+    version 3.1.1 for encoding definitions of commonly-used Coordinate Reference Systems
+    (CRSs) plus related coordinate Conversions.
 ext:
   schema_version: v1.1.2
   doctype:

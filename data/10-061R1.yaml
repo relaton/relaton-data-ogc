@@ -1,3 +1,4 @@
+---
 id: 10061r1
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is applicable to scenarios where moving sensors need to be tracked and their entry into an area of interest needs to be detected.\r\n\r\nThe document presents a detailed discussion of different approaches for encoding tracked object position.\r\n\r\nTwo approaches for implementing dynamic sensor tracking and notification are described, one based on the Sensor Alert Service specification and the other based on the Sensor Event Service specification.\r\n\r\nAn overview of standards and specifications relevant for and related to dynamic sensor tracking and notification is provided.\r\n"
+  content: "This document is applicable to scenarios where moving sensors need to
+    be tracked and their entry into an area of interest needs to be detected.\r\n\r\nThe
+    document presents a detailed discussion of different approaches for encoding tracked
+    object position.\r\n\r\nTwo approaches for implementing dynamic sensor tracking
+    and notification are described, one based on the Sensor Alert Service specification
+    and the other based on the Sensor Event Service specification.\r\n\r\nAn overview
+    of standards and specifications relevant for and related to dynamic sensor tracking
+    and notification is provided.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 16040r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The information security is the state of being protected against the unauthorized use of information and services, or the measures taken to achieve that. This report has ben created as part of OGC Testbed 12 aviation thread and on behalf of sponsors from FAA. It gives the readers an overview into the topic of cyber security in the aviation domain, especially in conjunction with OGC compatible web services, which are today de facto standard for aeronautical traffic System Wide Information Management.
+  content: The information security is the state of being protected against the unauthorized
+    use of information and services, or the measures taken to achieve that. This report
+    has ben created as part of OGC Testbed 12 aviation thread and on behalf of sponsors
+    from FAA. It gives the readers an overview into the topic of cyber security in
+    the aviation domain, especially in conjunction with OGC compatible web services,
+    which are today de facto standard for aeronautical traffic System Wide Information
+    Management.
 ext:
   schema_version: v1.1.2
   doctype:

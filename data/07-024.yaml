@@ -1,3 +1,4 @@
+---
 id: '07024'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies the Reference Model for the ORCHESTRA Architecture (RM-OA). It contains a platform-neutral specification of the ORCHESTRA Architecture and a specification framework for the design of ORCHESTRA-compliant service networks across all viewpoints.
+  content: This document specifies the Reference Model for the ORCHESTRA Architecture
+    (RM-OA). It contains a platform-neutral specification of the ORCHESTRA Architecture
+    and a specification framework for the design of ORCHESTRA-compliant service networks
+    across all viewpoints.
 ext:
   schema_version: v1.1.2
   doctype:

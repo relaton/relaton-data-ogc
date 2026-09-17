@@ -1,3 +1,4 @@
+---
 id: '05007'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is the specification for a Web Processing Service (WPS).  \r\nA Web Service Processing Service provides access to calculations or models which operate on spatially referenced data.  The data required by the service can be available locally, or delivered across a network using data exchange standards such as Geography Markup Language (GML) or Geolinked Data Access Service (GDAS).  \r\n "
+  content: "This document is the specification for a Web Processing Service (WPS).
+    \ \r\nA Web Service Processing Service provides access to calculations or models
+    which operate on spatially referenced data.  The data required by the service
+    can be available locally, or delivered across a network using data exchange standards
+    such as Geography Markup Language (GML) or Geolinked Data Access Service (GDAS).
+    \ \r\n "
 ext:
   schema_version: v1.1.2
   doctype:

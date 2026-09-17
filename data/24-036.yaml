@@ -1,3 +1,4 @@
+---
 id: '24036'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,23 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The goal of the OGC Testbed 20 GeoDataCube (GDC) Provenance Demonstrator was to establish a standardized approach for exchanging metadata and provenance information in geospatial workflows. By utilizing the GDC API Profiles, this Testbed task demonstrated how transparency and reproducibility can be ensured, enabling users to access essential details about data sources and processing methods. This is particularly beneficial for both open science initiatives and restricted workflows, where traceability and accountability are crucial.\r\n\r\nA primary objective of this Testbed 20 task was to enhance the draft GDC API Profiles specification to enable seamless metadata and provenance exchange for GeoDataCubes. The work focused on improving interoperability by aligning with established metadata standards and enhancing the tracking of workflow identifiers, metadata definitions, and remote process chains. Additionally, the task participants aimed to refine STAC metadata to improve transparency in geospatial data processing.\r\n\r\nSupporting open science was another key objective, achieved through machine-readable outputs. Through these efforts, the GDC Provenance Demonstrator enhances the reproducibility of both scientific and restricted workflows while providing a reliable and standardized framework for geospatial data management."
+  content: "The goal of the OGC Testbed 20 GeoDataCube (GDC) Provenance Demonstrator
+    was to establish a standardized approach for exchanging metadata and provenance
+    information in geospatial workflows. By utilizing the GDC API Profiles, this Testbed
+    task demonstrated how transparency and reproducibility can be ensured, enabling
+    users to access essential details about data sources and processing methods. This
+    is particularly beneficial for both open science initiatives and restricted workflows,
+    where traceability and accountability are crucial.\r\n\r\nA primary objective
+    of this Testbed 20 task was to enhance the draft GDC API Profiles specification
+    to enable seamless metadata and provenance exchange for GeoDataCubes. The work
+    focused on improving interoperability by aligning with established metadata standards
+    and enhancing the tracking of workflow identifiers, metadata definitions, and
+    remote process chains. Additionally, the task participants aimed to refine STAC
+    metadata to improve transparency in geospatial data processing.\r\n\r\nSupporting
+    open science was another key objective, achieved through machine-readable outputs.
+    Through these efforts, the GDC Provenance Demonstrator enhances the reproducibility
+    of both scientific and restricted workflows while providing a reliable and standardized
+    framework for geospatial data management."
 ext:
   schema_version: v1.1.2
   doctype:

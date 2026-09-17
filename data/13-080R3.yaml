@@ -1,3 +1,4 @@
+---
 id: 13080r3
 schema_version: v1.5.6
 type: standard
@@ -74,7 +75,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: experiment demonstrated that GML content can be embedded in NIEM conformant XML and  be exploited by commercial and open source tools without loss of precision (e.g., right number of bits) or accuracy (e.g., physical location on a map). Embedding GML in NIEM conformant XML was accomplished in MOGIE using the NIEM adapter.
+  content: experiment demonstrated that GML content can be embedded in NIEM conformant
+    XML and  be exploited by commercial and open source tools without loss of precision
+    (e.g., right number of bits) or accuracy (e.g., physical location on a map). Embedding
+    GML in NIEM conformant XML was accomplished in MOGIE using the NIEM adapter.
 ext:
   schema_version: v1.1.2
   doctype:

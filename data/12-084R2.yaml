@@ -1,3 +1,4 @@
+---
 id: 12084r2
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This standard describes the Atom encoding of the OWC Context conceptual model. The goal of this standard is to provide a definition of how to encode a context document, which can be extended to allow a context referencing a fully configured service set to be defined and consistently interpreted by clients.\r\n"
+  content: "This standard describes the Atom encoding of the OWC Context conceptual
+    model. The goal of this standard is to provide a definition of how to encode a
+    context document, which can be extended to allow a context referencing a fully
+    configured service set to be defined and consistently interpreted by clients.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

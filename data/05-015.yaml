@@ -1,3 +1,4 @@
+---
 id: '05015'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Special XML schemas have been created for individual data sets, based on ISO 19115 and a general schema for the RSE. However, a generalized metadata XML schema should be available where possible; it should not be necessary to create special schemas for each data set. ISO 19139 can serve as such a general XML implementation specification for 19115. This implementation needs to be tested in practice. In addition, the new ISO standards are incorporating much, if not all, of the metadata not in 19115 that the RSE contain. XML schemas for these metadata need to be developed that are based upon the abstract model in the ISO standards. All of these implementations need to be tested in practice. This Report describes such tests and the results. It also describes to what extent metadata on which the test metadata are based are supported by 19139, to what extent they are supported by metadata specified in the new ISO standards or the RSE, and to what extent new metadata elements are needed. '
+  content: 'Special XML schemas have been created for individual data sets, based
+    on ISO 19115 and a general schema for the RSE. However, a generalized metadata
+    XML schema should be available where possible; it should not be necessary to create
+    special schemas for each data set. ISO 19139 can serve as such a general XML implementation
+    specification for 19115. This implementation needs to be tested in practice. In
+    addition, the new ISO standards are incorporating much, if not all, of the metadata
+    not in 19115 that the RSE contain. XML schemas for these metadata need to be developed
+    that are based upon the abstract model in the ISO standards. All of these implementations
+    need to be tested in practice. This Report describes such tests and the results.
+    It also describes to what extent metadata on which the test metadata are based
+    are supported by 19139, to what extent they are supported by metadata specified
+    in the new ISO standards or the RSE, and to what extent new metadata elements
+    are needed. '
 ext:
   schema_version: v1.1.2
   doctype:

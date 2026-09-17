@@ -1,3 +1,4 @@
+---
 id: 03003r10
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*RETIRED* This is a GML application profile known as Level 0 - also known as Simple GML."
+  content: "*RETIRED* This is a GML application profile known as Level 0 - also known
+    as Simple GML."
 ext:
   schema_version: v1.1.2
   doctype:

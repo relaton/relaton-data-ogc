@@ -1,3 +1,4 @@
+---
 id: '09046r6'
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The mission of the OGC Naming Authority (OGC-NA) is to provide the means through which OGC resources such as OGC documents, namespaces and ontologies can be controlled and managed such that they can provide clear and well-defined names and definitions. In the terminology defined in ISO 19135, OGC-NA is the Control Body for the register of OGC Names. This document describes the framework of documents, registers and other resources required for OGC-NA to execute that role.
+  content: The mission of the OGC Naming Authority (OGC-NA) is to provide the means
+    through which OGC resources such as OGC documents, namespaces and ontologies can
+    be controlled and managed such that they can provide clear and well-defined names
+    and definitions. In the terminology defined in ISO 19135, OGC-NA is the Control
+    Body for the register of OGC Names. This document describes the framework of documents,
+    registers and other resources required for OGC-NA to execute that role.
 ext:
   schema_version: v1.1.2
   doctype:

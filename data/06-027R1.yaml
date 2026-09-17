@@ -1,3 +1,4 @@
+---
 id: 06027r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a corrigendum for OGC Document 04-094. Specifically, this document corrects the files referenced in ANNEX A and found in the OGC schema repository.
+  content: This document is a corrigendum for OGC Document 04-094. Specifically, this
+    document corrects the files referenced in ANNEX A and found in the OGC schema
+    repository.
 ext:
   schema_version: v1.1.2
   doctype:

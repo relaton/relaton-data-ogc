@@ -1,3 +1,4 @@
+---
 id: '10184'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Engineering Report summarizes two phases of the Open Geospatial Consortium (OGC®) Fusion Standards study and of the fusion prototypes developed during the OWS-7 Testbed which occurred between the two study phases.  Recommendations from the first phase of the study were implemented in OWS-7.  Based upon the results of OWS-7, responses to two Requests for Information and a multi-day workshop, this report provides a cumulative set of recommendations for advancing fusion based on open standards. '
+  content: 'This Engineering Report summarizes two phases of the Open Geospatial Consortium
+    (OGC®) Fusion Standards study and of the fusion prototypes developed during the
+    OWS-7 Testbed which occurred between the two study phases.  Recommendations from
+    the first phase of the study were implemented in OWS-7.  Based upon the results
+    of OWS-7, responses to two Requests for Information and a multi-day workshop,
+    this report provides a cumulative set of recommendations for advancing fusion
+    based on open standards. '
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: '19026'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report (ER) documents the results and experiences resulting from the Federated Cloud Analytics task of OGC Testbed-15. More specifically, this ER provides an analysis of:\r\n\r\nThe potential for the OGC Web Processing Service (WPS) Interface Standard as an Application Programming Interface (API) to a workflow automation service for managing job execution involving multiple containers in the Scale Data Center Environment;\r\n\r\nUsing an implementation of the OGC WPS standard as a general frontend to workflow automation with containers;\r\n\r\nThe suitability of the OGC WPS 2.0 standard as an API for Cloud analytics;\r\n\r\nUsing OGC Web Services (WS) as analytics data sources and sinks."
+  content: "This OGC Engineering Report (ER) documents the results and experiences
+    resulting from the Federated Cloud Analytics task of OGC Testbed-15. More specifically,
+    this ER provides an analysis of:\r\n\r\nThe potential for the OGC Web Processing
+    Service (WPS) Interface Standard as an Application Programming Interface (API)
+    to a workflow automation service for managing job execution involving multiple
+    containers in the Scale Data Center Environment;\r\n\r\nUsing an implementation
+    of the OGC WPS standard as a general frontend to workflow automation with containers;\r\n\r\nThe
+    suitability of the OGC WPS 2.0 standard as an API for Cloud analytics;\r\n\r\nUsing
+    OGC Web Services (WS) as analytics data sources and sinks."
 ext:
   schema_version: v1.1.2
   doctype:

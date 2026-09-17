@@ -1,3 +1,4 @@
+---
 id: '20032'
 schema_version: v1.5.6
 type: standard
@@ -70,7 +71,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The subject of this Engineering Report (ER) is a development Sprint that was held from March 18-20, 2020 to advance the Open Geospatial Consortium (OGC) Environmental Data Retrieval (EDR) Application Programming Interface (API) candidate standard. Due to the widespread of the virus, the Sprint was held virtually by using GoToMeeting teleconferencing facilities of OGC, email and GitHub.
+  content: The subject of this Engineering Report (ER) is a development Sprint that
+    was held from March 18-20, 2020 to advance the Open Geospatial Consortium (OGC)
+    Environmental Data Retrieval (EDR) Application Programming Interface (API) candidate
+    standard. Due to the widespread of the virus, the Sprint was held virtually by
+    using GoToMeeting teleconferencing facilities of OGC, email and GitHub.
 ext:
   schema_version: v1.1.2
   doctype:

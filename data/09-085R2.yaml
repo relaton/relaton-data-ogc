@@ -1,3 +1,4 @@
+---
 id: '09085r2'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document summarizes the types of Coordinate Reference Systems (CRSs) that are recommended for use with grid (including image) coverages.  This document specializes Best Practice Paper OGC 09-076r3 “Uses and Summary of Topic 2: Spatial referencing by coordinates” for grid coverages.  Topic 2 is almost the same as ISO 19111:2007, but includes some corrections.  This document includes some best practices for defining and using ImageCRSs and other CRSs for grid coverages.'
+  content: 'This document summarizes the types of Coordinate Reference Systems (CRSs)
+    that are recommended for use with grid (including image) coverages.  This document
+    specializes Best Practice Paper OGC 09-076r3 “Uses and Summary of Topic 2: Spatial
+    referencing by coordinates” for grid coverages.  Topic 2 is almost the same as
+    ISO 19111:2007, but includes some corrections.  This document includes some best
+    practices for defining and using ImageCRSs and other CRSs for grid coverages.'
 ext:
   schema_version: v1.1.2
   doctype:

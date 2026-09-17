@@ -1,3 +1,4 @@
+---
 id: '08079'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This standard specifies the behavior of a service that provides transactions on and access to geographic features in a manner independent of the underlying data store. It specifies discovery operations, query operations and transaction operations. Discovery operations allow the service to be interrogated to determine its capabilities and to retrieve the application schema that defines the feature types that the service offers. Retrieval operations allow features to be retrieved from the opaque underlying data store based upon constraints on spatial and non-spatial feature properties defined by the client. Transaction operations allow features to be created, changed and deleted from the opaque underlying data store.
+  content: This standard specifies the behavior of a service that provides transactions
+    on and access to geographic features in a manner independent of the underlying
+    data store. It specifies discovery operations, query operations and transaction
+    operations. Discovery operations allow the service to be interrogated to determine
+    its capabilities and to retrieve the application schema that defines the feature
+    types that the service offers. Retrieval operations allow features to be retrieved
+    from the opaque underlying data store based upon constraints on spatial and non-spatial
+    feature properties defined by the client. Transaction operations allow features
+    to be created, changed and deleted from the opaque underlying data store.
 ext:
   schema_version: v1.1.2
   doctype:

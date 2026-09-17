@@ -1,3 +1,4 @@
+---
 id: 02026r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Sensor Model Language work proposes an XML schema for describing the geometric, dynamic, and observational characteristics of sensor types and instances.
+  content: The Sensor Model Language work proposes an XML schema for describing the
+    geometric, dynamic, and observational characteristics of sensor types and instances.
 ext:
   schema_version: v1.1.2
   doctype:

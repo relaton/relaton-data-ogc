@@ -1,14 +1,17 @@
+---
 id: '13042'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation Products
+  content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
+    Products
   type: title-main
 - language: en
   script: Latn
-  content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation Products
+  content: OGC RESTful Encoding of Ordering Services Framework For Earth Observation
+    Products
   type: main
 source:
 - type: src
@@ -54,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Best Practices document specifies the interfaces, bindings, requirements, conformance classes that enable complete workflows for ordering Earth Observation (EO) data products. In fact it provides the interfaces for supporting the following EO Product ordering scenarios:\r\n•\tOrdering products from EO Catalogues\r\n•\tSubscribing to automatic delivery of EO products\r\n•\tBulk EO Product orders\r\nThe EO products orders can be delivered on file via different online protocols (e.g. ftp, sftp, ftps, etc.).\r\n"
+  content: "This OGC Best Practices document specifies the interfaces, bindings, requirements,
+    conformance classes that enable complete workflows for ordering Earth Observation
+    (EO) data products. In fact it provides the interfaces for supporting the following
+    EO Product ordering scenarios:\r\n•\tOrdering products from EO Catalogues\r\n•\tSubscribing
+    to automatic delivery of EO products\r\n•\tBulk EO Product orders\r\nThe EO products
+    orders can be delivered on file via different online protocols (e.g. ftp, sftp,
+    ftps, etc.).\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

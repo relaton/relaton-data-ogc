@@ -1,3 +1,4 @@
+---
 id: 22051r7
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Geodetic data Grid eXchange Format (GGXF) is designed to be a single file format that may be used\r\nfor a wide range of geodetic applications requiring interpolation of regularly gridded data, including (but\r\nnot limited to):\r\n• Transformation of latitude and longitude coordinates from one geodetic coordinate reference\r\nsystem to another;\r\n• Transformation of gravity-related heights from one vertical coordinate reference system to\r\nanother;\r\n• Reduction of ellipsoid heights to the geoid, quasi-geoid or a surface of a vertical reference frame;\r\nand\r\n• The description of coordinate changes due to deformation.\r\nThe GGXF format has been designed specifically for carrying gridded geodetic parameters supporting\r\ncoordinate transformations and point motion operations but has no restriction on the type of content\r\nthat may be included."
+  content: "The Geodetic data Grid eXchange Format (GGXF) is designed to be a single
+    file format that may be used\r\nfor a wide range of geodetic applications requiring
+    interpolation of regularly gridded data, including (but\r\nnot limited to):\r\n•
+    Transformation of latitude and longitude coordinates from one geodetic coordinate
+    reference\r\nsystem to another;\r\n• Transformation of gravity-related heights
+    from one vertical coordinate reference system to\r\nanother;\r\n• Reduction of
+    ellipsoid heights to the geoid, quasi-geoid or a surface of a vertical reference
+    frame;\r\nand\r\n• The description of coordinate changes due to deformation.\r\nThe
+    GGXF format has been designed specifically for carrying gridded geodetic parameters
+    supporting\r\ncoordinate transformations and point motion operations but has no
+    restriction on the type of content\r\nthat may be included."
 ext:
   schema_version: v1.1.2
   doctype:

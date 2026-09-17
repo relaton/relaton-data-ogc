@@ -1,3 +1,4 @@
+---
 id: '09122'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: NetCDF (network Common Data Form) is a data model for array-oriented scientific data, a freely distributed collection of access libraries implementing support for that data model, and a machine-independent format. Together, the interfaces, libraries, and format support the creation, access, and sharing of scientific data.
+  content: NetCDF (network Common Data Form) is a data model for array-oriented scientific
+    data, a freely distributed collection of access libraries implementing support
+    for that data model, and a machine-independent format. Together, the interfaces,
+    libraries, and format support the creation, access, and sharing of scientific
+    data.
 ext:
   schema_version: v1.1.2
   doctype:

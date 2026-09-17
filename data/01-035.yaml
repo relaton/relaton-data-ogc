@@ -1,3 +1,4 @@
+---
 id: '01035'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*RETIRED* Geoparsing refers to the capability to process a textual document and identify key words and phrases that have a spatial context."
+  content: "*RETIRED* Geoparsing refers to the capability to process a textual document
+    and identify key words and phrases that have a spatial context."
 ext:
   schema_version: v1.1.2
   doctype:

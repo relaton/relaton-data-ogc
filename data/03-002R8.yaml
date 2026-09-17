@@ -1,3 +1,4 @@
+---
 id: 03002r8
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies a binary encoding format for the efficient representation of XML data, especially scientific data that is characterized by arrays of numbers. This encoding format is applicable to any application that uses XML format.
+  content: This document specifies a binary encoding format for the efficient representation
+    of XML data, especially scientific data that is characterized by arrays of numbers.
+    This encoding format is applicable to any application that uses XML format.
 ext:
   schema_version: v1.1.2
   doctype:

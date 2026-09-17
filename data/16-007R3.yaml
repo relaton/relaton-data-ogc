@@ -1,3 +1,4 @@
+---
 id: 16007r3
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Open Geospatial Consortium (OGC) standard defines the conceptual model for the OGC CDB 1.0 Standard. The objective of this document is to provide an abstract core conceptual model for a CDB data store (repository). The model is represented using UML (unified modeling language). The conceptual model is comprised of concepts, schema, classes and categories as well as their relationships, which are used to understand, and/or represent an OGC CDB data store. This enables a comparison and description of the CDB data store structure on a more detailed level. This document was created by reverse-engineering a UML model and documentation from the OGC CDB standard as a basis for supporting OGC interoperability. One of the important roles of this conceptual model is to provide a UML model that is consistent with the other OGC standards and to identify functional gaps between the current CDB data store and the OGC standards baseline.  This document references sections of Volume 1: OGC CDB Core Standard: Model and Physical Database Structure [OGC 15-113].'
+  content: 'This Open Geospatial Consortium (OGC) standard defines the conceptual
+    model for the OGC CDB 1.0 Standard. The objective of this document is to provide
+    an abstract core conceptual model for a CDB data store (repository). The model
+    is represented using UML (unified modeling language). The conceptual model is
+    comprised of concepts, schema, classes and categories as well as their relationships,
+    which are used to understand, and/or represent an OGC CDB data store. This enables
+    a comparison and description of the CDB data store structure on a more detailed
+    level. This document was created by reverse-engineering a UML model and documentation
+    from the OGC CDB standard as a basis for supporting OGC interoperability. One
+    of the important roles of this conceptual model is to provide a UML model that
+    is consistent with the other OGC standards and to identify functional gaps between
+    the current CDB data store and the OGC standards baseline.  This document references
+    sections of Volume 1: OGC CDB Core Standard: Model and Physical Database Structure
+    [OGC 15-113].'
 ext:
   schema_version: v1.1.2
   doctype:

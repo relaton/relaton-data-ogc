@@ -1,14 +1,17 @@
+---
 id: 24006r4
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Part 2: JSON Encoding Standard'
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 2: JSON Encoding Standard'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Part 2: JSON Encoding Standard'
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 2: JSON Encoding Standard'
   type: main
 source:
 - type: src
@@ -62,7 +65,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Part 2: JSON Encoding Standard defines requirements for encoding AI training datasets as JavaScript Object Notation (JSON). JSON is widely used for encoding data in Web-based applications. It consists of sets of objects described by name/value pairs. TrainingDML-AI Part 2 is based on the OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Part 1: Conceptual Model Standard.'
+  content: 'The OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 2: JSON Encoding Standard defines requirements for encoding AI training datasets
+    as JavaScript Object Notation (JSON). JSON is widely used for encoding data in
+    Web-based applications. It consists of sets of objects described by name/value
+    pairs. TrainingDML-AI Part 2 is based on the OGC Training Data Markup Language
+    for Artificial Intelligence (TrainingDML-AI) Part 1: Conceptual Model Standard.'
 ext:
   schema_version: v1.1.2
   doctype:

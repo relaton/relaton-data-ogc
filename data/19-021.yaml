@@ -1,3 +1,4 @@
+---
 id: '19021'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed 15 Engineering Report (ER) describes a generalized approach towards performing data fusion from multiple heterogeneous geospatial linked data sources. The specific use case is semantic enrichment of hydrographic features provided by Natural Resources Canada (NRCan). The ER attempts to define and formalize the integration pipeline necessary to perform a fusion process for producing semantically coherent fused entities.
+  content: This OGC Testbed 15 Engineering Report (ER) describes a generalized approach
+    towards performing data fusion from multiple heterogeneous geospatial linked data
+    sources. The specific use case is semantic enrichment of hydrographic features
+    provided by Natural Resources Canada (NRCan). The ER attempts to define and formalize
+    the integration pipeline necessary to perform a fusion process for producing semantically
+    coherent fused entities.
 ext:
   schema_version: v1.1.2
   doctype:

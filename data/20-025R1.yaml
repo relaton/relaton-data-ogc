@@ -1,3 +1,4 @@
+---
 id: 20025r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed 16 Engineering Report documents the advancement of an OGC Data Access and Processing API (DAPA).
+  content: This OGC Testbed 16 Engineering Report documents the advancement of an
+    OGC Data Access and Processing API (DAPA).
 ext:
   schema_version: v1.1.2
   doctype:

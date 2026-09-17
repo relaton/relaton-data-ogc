@@ -1,3 +1,4 @@
+---
 id: '10130'
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes the integration results of deploying OGC Web Services on the FAA chosen Enterprise Service Bus (ESB) - FUSE. Snowflake Software were commissioned to evaluate the impacts of the FAA SWIM security requirements for both secure messaging and user authentication and gain an understanding of the requirements for deploying OGC web services into the Apache FUSE Enterprise Service Bus (ESB).
+  content: This document describes the integration results of deploying OGC Web Services
+    on the FAA chosen Enterprise Service Bus (ESB) - FUSE. Snowflake Software were
+    commissioned to evaluate the impacts of the FAA SWIM security requirements for
+    both secure messaging and user authentication and gain an understanding of the
+    requirements for deploying OGC web services into the Apache FUSE Enterprise Service
+    Bus (ESB).
 ext:
   schema_version: v1.1.2
   doctype:

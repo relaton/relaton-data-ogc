@@ -1,3 +1,4 @@
+---
 id: 21035r1
 schema_version: v1.5.6
 type: standard
@@ -62,7 +63,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed 17 Engineering Report is deliverable D022 of the OGC Testbed 17 initiative performed under the OGC Innovation Program, incorporating the D022, D143 and D144 tasks that have produced Model Driven Architecture (MDA) tools.\r\n\r\nThis ER:\r\n\r\ndetails state-of-the-art analyses of existing MDA tools with their capabilities and limits; and\r\n\r\nprovides clear recommendations on how model-driven design can be fully exploited in the context of rich data model and API design efforts.\r\n\r\n"
+  content: "This OGC Testbed 17 Engineering Report is deliverable D022 of the OGC
+    Testbed 17 initiative performed under the OGC Innovation Program, incorporating
+    the D022, D143 and D144 tasks that have produced Model Driven Architecture (MDA)
+    tools.\r\n\r\nThis ER:\r\n\r\ndetails state-of-the-art analyses of existing MDA
+    tools with their capabilities and limits; and\r\n\r\nprovides clear recommendations
+    on how model-driven design can be fully exploited in the context of rich data
+    model and API design efforts.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

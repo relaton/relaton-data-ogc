@@ -1,3 +1,4 @@
+---
 id: '07045'
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: OpenGIS Catalogue Services Specification 2.0.2 - ISO Metadata Application Profile
+  content: OpenGIS Catalogue Services Specification 2.0.2 - ISO Metadata Application
+    Profile
   type: main
 source:
 - type: html
@@ -62,7 +64,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies an application profile for ISO 19115/ISO 19119 metadata with support for XML encoding per ISO/TS19139 and HTTP protocol binding. It relies on requirements coming from the CSW 2.0.2 specification (OGC document 07-006).
+  content: This document specifies an application profile for ISO 19115/ISO 19119
+    metadata with support for XML encoding per ISO/TS19139 and HTTP protocol binding.
+    It relies on requirements coming from the CSW 2.0.2 specification (OGC document
+    07-006).
 ext:
   schema_version: v1.1.2
   doctype:

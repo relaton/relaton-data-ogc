@@ -1,3 +1,4 @@
+---
 id: 12128r11
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® Encoding Standard defines GeoPackages for exchange and GeoPackage SQLite Extensions for direct use of vector geospatial features and / or tile matrix sets of earth images and raster maps at various scales. Direct use means the ability to access and update data in a “native” storage format without intermediate format translations in an environment (e.g. through an API) that guarantees data model and data set integrity and identical access and update results in response to identical requests from different client applications. GeoPackages are interoperable across all enterprise and personal computing environments, and are particularly useful on mobile devices like cell phones and tablets in communications environments with limited connectivity and bandwidth.
+  content: This OGC® Encoding Standard defines GeoPackages for exchange and GeoPackage
+    SQLite Extensions for direct use of vector geospatial features and / or tile matrix
+    sets of earth images and raster maps at various scales. Direct use means the ability
+    to access and update data in a “native” storage format without intermediate format
+    translations in an environment (e.g. through an API) that guarantees data model
+    and data set integrity and identical access and update results in response to
+    identical requests from different client applications. GeoPackages are interoperable
+    across all enterprise and personal computing environments, and are particularly
+    useful on mobile devices like cell phones and tablets in communications environments
+    with limited connectivity and bandwidth.
 ext:
   schema_version: v1.1.2
   doctype:

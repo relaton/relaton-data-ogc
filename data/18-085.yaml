@@ -1,3 +1,4 @@
+---
 id: '18085'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report (ER) presents the results of the D146 Business Process Modeling Notation (BPMN) Engine work item and provides a study covering technologies including Docker, Kubernetes and Cloud Foundry for Developer Operations (DevOps) processes and deployment orchestration. The document also provides the beginning of a best practices effort to assist implementers wishing to orchestrate OGC services using BPMN workflow engines. As with previous investigations into workflow engines, the implementation described within utilizes a helper class, which is a bespoke implementation of some of the best practices. Work in future testbeds on workflows should include a compelling use case to demonstrate the power of service orchestration.
+  content: This Engineering Report (ER) presents the results of the D146 Business
+    Process Modeling Notation (BPMN) Engine work item and provides a study covering
+    technologies including Docker, Kubernetes and Cloud Foundry for Developer Operations
+    (DevOps) processes and deployment orchestration. The document also provides the
+    beginning of a best practices effort to assist implementers wishing to orchestrate
+    OGC services using BPMN workflow engines. As with previous investigations into
+    workflow engines, the implementation described within utilizes a helper class,
+    which is a bespoke implementation of some of the best practices. Work in future
+    testbeds on workflows should include a compelling use case to demonstrate the
+    power of service orchestration.
 ext:
   schema_version: v1.1.2
   doctype:

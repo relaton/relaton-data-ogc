@@ -1,3 +1,4 @@
+---
 id: '04086'
 schema_version: v1.5.6
 type: standard
@@ -26,7 +27,8 @@ contributor:
   person:
     name:
       completename:
-        content: Jeff Harrison,A.J. Maren,Jeff Stohlman,Mike Meyer,Glenn Pruitt,John Clink,Hans Polzer,Mark Schiffner
+        content: Jeff Harrison,A.J. Maren,Jeff Stohlman,Mike Meyer,Glenn Pruitt,John
+          Clink,Hans Polzer,Mark Schiffner
 - role:
   - type: publisher
   organization:
@@ -52,7 +54,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*RETIRED* This document describes the role of Discovery Services in the net-centric enterprise. The network centric enterprise is an environment with an almost infinite variety of resources. In this rich environment, suitable resources can be found to support almost any operational need. The problem, however, is finding the appropriate resources when they are needed. Discovery services address this problem."
+  content: "*RETIRED* This document describes the role of Discovery Services in the
+    net-centric enterprise. The network centric enterprise is an environment with
+    an almost infinite variety of resources. In this rich environment, suitable resources
+    can be found to support almost any operational need. The problem, however, is
+    finding the appropriate resources when they are needed. Discovery services address
+    this problem."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,14 +1,17 @@
+---
 id: '24073'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support Climate and Disaster Resilience
+  content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support
+    Climate and Disaster Resilience
   type: title-main
 - language: en
   script: Latn
-  content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support Climate and Disaster Resilience
+  content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support
+    Climate and Disaster Resilience
   type: main
 source:
 - type: src
@@ -60,7 +63,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "One of the key objectives of the Open Geospatial Consortium (OGC) Climate and Disaster Resilience Pilot 2024 (CDRP) is to encourage innovations that can achieve scale for emergency management analysis, decision support, and preparedness. Multiple and interrelated challenges across sectors impacted by climate change can collectively produce a larger negative effect. However, there are a number of barriers to achieving cross-sectoral collaboration and analysis \r\nat needed scale. In addition to the need for more scientific knowledge, the information systems, data, and data management practices used to address these challenges are siloed, making it difficult to share knowledge and understand the Cumulative Effects (CE) and regional impacts due to varying geography, environments, and populations."
+  content: "One of the key objectives of the Open Geospatial Consortium (OGC) Climate
+    and Disaster Resilience Pilot 2024 (CDRP) is to encourage innovations that can
+    achieve scale for emergency management analysis, decision support, and preparedness.
+    Multiple and interrelated challenges across sectors impacted by climate change
+    can collectively produce a larger negative effect. However, there are a number
+    of barriers to achieving cross-sectoral collaboration and analysis \r\nat needed
+    scale. In addition to the need for more scientific knowledge, the information
+    systems, data, and data management practices used to address these challenges
+    are siloed, making it difficult to share knowledge and understand the Cumulative
+    Effects (CE) and regional impacts due to varying geography, environments, and
+    populations."
 ext:
   schema_version: v1.1.2
   doctype:

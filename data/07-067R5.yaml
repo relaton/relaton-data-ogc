@@ -1,3 +1,4 @@
+---
 id: 07067r5
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The OpenGIS® Web Coverage Service Interface Standard (WCS) defines a standard interface and operations that enables interoperable access to geospatial coverages [http://www.opengeospatial.org/ogc/glossary/c].  The term grid coverages typically refers to content such as satellite images, digital aerial photos, digital elevation data, and other phenomena represented by values at each measurement point. '
+  content: 'The OpenGIS® Web Coverage Service Interface Standard (WCS) defines a standard
+    interface and operations that enables interoperable access to geospatial coverages
+    [http://www.opengeospatial.org/ogc/glossary/c].  The term grid coverages typically
+    refers to content such as satellite images, digital aerial photos, digital elevation
+    data, and other phenomena represented by values at each measurement point. '
 ext:
   schema_version: v1.1.2
   doctype:

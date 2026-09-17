@@ -1,3 +1,4 @@
+---
 id: '16035'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: REST interfaces facilitate the application of OGC standards in many novel application scenarios, e.g. implementing OGC clients on constrained devices, as they ease the implementation of service requests and simplify the interaction patterns. Thereby, REST serves as a complementary technology to the already existing SOAP/POX provided by most of the current OGC standards. This engineering report (ER) provides an overview on different REST service implementations in the Testbed-12 and in related activities. As a result, this ER can be used to develop recommendations on architecture guidelines for providing REST interfaces in the geospatial domain.
+  content: REST interfaces facilitate the application of OGC standards in many novel
+    application scenarios, e.g. implementing OGC clients on constrained devices, as
+    they ease the implementation of service requests and simplify the interaction
+    patterns. Thereby, REST serves as a complementary technology to the already existing
+    SOAP/POX provided by most of the current OGC standards. This engineering report
+    (ER) provides an overview on different REST service implementations in the Testbed-12
+    and in related activities. As a result, this ER can be used to develop recommendations
+    on architecture guidelines for providing REST interfaces in the geospatial domain.
 ext:
   schema_version: v1.1.2
   doctype:

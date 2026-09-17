@@ -1,3 +1,4 @@
+---
 id: '10134'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document presents the Sensor Interface Descriptor (SID) schema that enables the declarative description of sensor interfaces, including the definition of the communication protocol, sensor commands, processing steps and metadata association. This schema is designed as a profile and extension of SensorML. Based on this schema, SID interpreters can be implemented, independently of particular sensor technology, which are able to translate between sensor protocol and SWE protocols. They establish the connection to a sensor and are able to communicate with it by using the sensor protocol definition of the SID. SID instances for particular sensor types can be reused in different scenarios and can be shared among user communities. The ability of an SID interpreter to connect sensors and Sensor Web services in an ad hoc manner based on the sensor’s SID instance is a next step towards realizing sensor plug & play within the Sensor Web.
+  content: This document presents the Sensor Interface Descriptor (SID) schema that
+    enables the declarative description of sensor interfaces, including the definition
+    of the communication protocol, sensor commands, processing steps and metadata
+    association. This schema is designed as a profile and extension of SensorML. Based
+    on this schema, SID interpreters can be implemented, independently of particular
+    sensor technology, which are able to translate between sensor protocol and SWE
+    protocols. They establish the connection to a sensor and are able to communicate
+    with it by using the sensor protocol definition of the SID. SID instances for
+    particular sensor types can be reused in different scenarios and can be shared
+    among user communities. The ability of an SID interpreter to connect sensors and
+    Sensor Web services in an ad hoc manner based on the sensor’s SID instance is
+    a next step towards realizing sensor plug & play within the Sensor Web.
 ext:
   schema_version: v1.1.2
   doctype:

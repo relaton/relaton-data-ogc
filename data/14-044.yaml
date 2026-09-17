@@ -1,3 +1,4 @@
+---
 id: '14044'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Testbed 10 was an initiative of OGC’s Interoperability Program to collaboratively extend and demonstrate OGC’s baseline for geospatial interoperability. The majority of work for Testbed 10 was conducted between October 2013 and April 2014.
+  content: The OGC Testbed 10 was an initiative of OGC’s Interoperability Program
+    to collaboratively extend and demonstrate OGC’s baseline for geospatial interoperability.
+    The majority of work for Testbed 10 was conducted between October 2013 and April
+    2014.
 ext:
   schema_version: v1.1.2
   doctype:

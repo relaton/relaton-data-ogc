@@ -1,3 +1,4 @@
+---
 id: '12066'
 schema_version: v1.5.6
 type: standard
@@ -66,7 +67,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This paper presents key aspects of the development of a Dutch 3D standard IMGeo as a CityGML ADE. The new ADE is modeled using UML class diagrams. However the OGC CityGML specification does not provide clear rules on modeling an ADE in UML. This paper describes how the extension was built, which provides general insight how CityGML can be extended for a specific applications starting from the UML diagrams. Several alternatives for modeling ADEs in UML have been investigated and compared. The best suited for the 3D standard option is selected and applied. Open issues and challenges are discussed in the conclusions.
+  content: This paper presents key aspects of the development of a Dutch 3D standard
+    IMGeo as a CityGML ADE. The new ADE is modeled using UML class diagrams. However
+    the OGC CityGML specification does not provide clear rules on modeling an ADE
+    in UML. This paper describes how the extension was built, which provides general
+    insight how CityGML can be extended for a specific applications starting from
+    the UML diagrams. Several alternatives for modeling ADEs in UML have been investigated
+    and compared. The best suited for the 3D standard option is selected and applied.
+    Open issues and challenges are discussed in the conclusions.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 06022r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document summarizes recommendations for extending geospatial standards with regard to time-varying information. These proposals are the result of the National Technology Alliance program called Temporal Evaluation and Assessment (TEA). '
+  content: 'This document summarizes recommendations for extending geospatial standards
+    with regard to time-varying information. These proposals are the result of the
+    National Technology Alliance program called Temporal Evaluation and Assessment
+    (TEA). '
 ext:
   schema_version: v1.1.2
   doctype:

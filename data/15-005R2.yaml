@@ -1,3 +1,4 @@
+---
 id: 15005r2
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document defines the DGIWG profile for the ISO\r\n19142:2010 - Web Feature Service (WFS) including changes\r\nmade in the OpenGIS Web Feature Service 2.0 Interface\r\nStandard - Corrigendum. The Web Feature Service provides\r\naccess to geospatial features in a manner independent of the\r\nunderlying data store."
+  content: "This document defines the DGIWG profile for the ISO\r\n19142:2010 - Web
+    Feature Service (WFS) including changes\r\nmade in the OpenGIS Web Feature Service
+    2.0 Interface\r\nStandard - Corrigendum. The Web Feature Service provides\r\naccess
+    to geospatial features in a manner independent of the\r\nunderlying data store."
 ext:
   schema_version: v1.1.2
   doctype:

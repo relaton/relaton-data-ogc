@@ -1,3 +1,4 @@
+---
 id: '18045'
 schema_version: v1.5.6
 type: standard
@@ -64,7 +65,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The objective of the Next Generation APIs - WFS 3.0 effort in OGC Testbed-14 was to develop and test the Web Feature Service (WFS) version 3.0 candidate standard. The initiative assessed OpenAPI, security based on OpenID Connect and OAuth 2.0 and WFS 3.0 extensions. The effort also began to assess methods to ease geospatial enterprise transition to next generation Application Programming Interfaces (APIs).\r\n\r\nThe purpose of this effort was not to preempt other next generation work taking place in OGC, but rather to inform and complement that work.\r\n\r\nThis Engineering Report (ER) describes the implementations and experiments conducted by OGC Testbed-14 participants to test next generation Web APIs. It includes descriptions of APIs to simplify and secure access to geospatial feature resources, and was tested in a scenario that showed how WFS 3.0 can support humanitarian relief activities."
+  content: "The objective of the Next Generation APIs - WFS 3.0 effort in OGC Testbed-14
+    was to develop and test the Web Feature Service (WFS) version 3.0 candidate standard.
+    The initiative assessed OpenAPI, security based on OpenID Connect and OAuth 2.0
+    and WFS 3.0 extensions. The effort also began to assess methods to ease geospatial
+    enterprise transition to next generation Application Programming Interfaces (APIs).\r\n\r\nThe
+    purpose of this effort was not to preempt other next generation work taking place
+    in OGC, but rather to inform and complement that work.\r\n\r\nThis Engineering
+    Report (ER) describes the implementations and experiments conducted by OGC Testbed-14
+    participants to test next generation Web APIs. It includes descriptions of APIs
+    to simplify and secure access to geospatial feature resources, and was tested
+    in a scenario that showed how WFS 3.0 can support humanitarian relief activities."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 15112r3
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This CDB Volume provides terms and definitions.  Many of the terms and definitions are specific to the simulation industry. Other terms and definitions have been updated to be consistent with the ISO 19xxx (Geomatics) series of standards, specifically ISO 19111 Spatial referencing by Coordinates and ISO 19017 Spatial Schema. Some work still remains to make the terms and definitions completely consistent with current OGC and ISO best practice.
+  content: This CDB Volume provides terms and definitions.  Many of the terms and
+    definitions are specific to the simulation industry. Other terms and definitions
+    have been updated to be consistent with the ISO 19xxx (Geomatics) series of standards,
+    specifically ISO 19111 Spatial referencing by Coordinates and ISO 19017 Spatial
+    Schema. Some work still remains to make the terms and definitions completely consistent
+    with current OGC and ISO best practice.
 ext:
   schema_version: v1.1.2
   doctype:

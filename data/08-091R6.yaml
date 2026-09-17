@@ -1,14 +1,17 @@
+---
 id: '08091r6'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Corrigendum for OpenGIS Implementation Standard Web Processing Service (WPS) 1.0.0
+  content: Corrigendum for OpenGIS Implementation Standard Web Processing Service
+    (WPS) 1.0.0
   type: title-main
 - language: en
   script: Latn
-  content: Corrigendum for OpenGIS Implementation Standard Web Processing Service (WPS) 1.0.0
+  content: Corrigendum for OpenGIS Implementation Standard Web Processing Service
+    (WPS) 1.0.0
   type: main
 source:
 - type: html
@@ -54,7 +57,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document provides the details for a corrigendum for the existing OpenGIS Standard for the Web Processing Service version 1.0.0 and does not modify that standard. The current OpenGIS Implementation Standard that this document provides revision notes for is 05-007r7. '
+  content: 'This document provides the details for a corrigendum for the existing
+    OpenGIS Standard for the Web Processing Service version 1.0.0 and does not modify
+    that standard. The current OpenGIS Implementation Standard that this document
+    provides revision notes for is 05-007r7. '
 ext:
   schema_version: v1.1.2
   doctype:

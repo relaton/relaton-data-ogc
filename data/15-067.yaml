@@ -1,14 +1,17 @@
+---
 id: '15067'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed-11 Multi-dimensional GeoPackage Supporting Terrain and Routes Engineering Report
+  content: OGC® Testbed-11 Multi-dimensional GeoPackage Supporting Terrain and Routes
+    Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed-11 Multi-dimensional GeoPackage Supporting Terrain and Routes Engineering Report
+  content: OGC® Testbed-11 Multi-dimensional GeoPackage Supporting Terrain and Routes
+    Engineering Report
   type: main
 source:
 - type: src
@@ -54,7 +57,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Routing is one of the most widely used functions of mobile applications. Routing often requires consideration of a variety of factors in order to provide reasonable estimations of journey time and the cost of travel. Another widely used function of mobile applications is the visualization of characteristics of terrain such as slope or viewsheds. The goal of this engineering report is to describe the work carried out in the OGC Testbed-11 for multidimensional terrain and routing support on SQLite databases that conform to the OGC GeoPackage standard. This OGC® Engineering Report (ER) describes an approach for the storage of routing and multidimensional terrain data in such databases. The ER also presents the results and lessons learnt from the experimentation conducted by the testbed.
+  content: Routing is one of the most widely used functions of mobile applications.
+    Routing often requires consideration of a variety of factors in order to provide
+    reasonable estimations of journey time and the cost of travel. Another widely
+    used function of mobile applications is the visualization of characteristics of
+    terrain such as slope or viewsheds. The goal of this engineering report is to
+    describe the work carried out in the OGC Testbed-11 for multidimensional terrain
+    and routing support on SQLite databases that conform to the OGC GeoPackage standard.
+    This OGC® Engineering Report (ER) describes an approach for the storage of routing
+    and multidimensional terrain data in such databases. The ER also presents the
+    results and lessons learnt from the experimentation conducted by the testbed.
 ext:
   schema_version: v1.1.2
   doctype:

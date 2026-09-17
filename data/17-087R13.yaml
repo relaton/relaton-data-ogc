@@ -1,3 +1,4 @@
+---
 id: 17087r13
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is the ISO 19107:2019 Standard and specifies conceptual schemas for describing the spatial characteristics of geographic entities, and a set of spatial operations consistent with these schemas. It treats vector geometry and topology.
+  content: This document is the ISO 19107:2019 Standard and specifies conceptual schemas
+    for describing the spatial characteristics of geographic entities, and a set of
+    spatial operations consistent with these schemas. It treats vector geometry and
+    topology.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,14 +1,17 @@
+---
 id: '18097'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Environmental Linked Features Interoperability Experiment Engineering Report
+  content: OGC Environmental Linked Features Interoperability Experiment Engineering
+    Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC Environmental Linked Features Interoperability Experiment Engineering Report
+  content: OGC Environmental Linked Features Interoperability Experiment Engineering
+    Report
   type: main
 source:
 - type: src
@@ -84,7 +87,27 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Systems that maintain and disseminate information representing and/or related to spatial features often lack mechanisms to describe or discover how features relate to each other, to other kinds of features, and to a wide variety of related information that may be relevant. The Environmental Linked Features Interoperability Experiment (ELFIE) explored Open Geospatial Consortium (OGC) and World Wide Web Consortium (W3C) standards with the goal of establishing a best practice for exposing cross-domain links between environmental domain and sampling features. The Interoperability Experiment (IE) focused on encoding relationships between cross-domain features and linking available observations data to sampled domain features. An approach that leverages the OGC service baseline, W3C data on the web best practices, and JavaScript Object Notation for Linked Data (JSON-LD) contexts was developed and evaluated. Outcomes of the experiment demonstrate that broadly accepted web technologies for linked data can be applied using OGC services and domain data models to fill important gaps in existing environmental data systems' capabilities. While solutions were found to be capable and promising, OGC services and domain model implementations have limited utility for use in linked data applications in their current state and the universe of persistent URIs that form the foundation of a linked data infrastructure is still small. In addition to improvement of the standards baseline and publication of linked data URIs, establishing conventions for URI dereferencing behavior and default content given multiple options for a resource remain for future work.
+  content: Systems that maintain and disseminate information representing and/or related
+    to spatial features often lack mechanisms to describe or discover how features
+    relate to each other, to other kinds of features, and to a wide variety of related
+    information that may be relevant. The Environmental Linked Features Interoperability
+    Experiment (ELFIE) explored Open Geospatial Consortium (OGC) and World Wide Web
+    Consortium (W3C) standards with the goal of establishing a best practice for exposing
+    cross-domain links between environmental domain and sampling features. The Interoperability
+    Experiment (IE) focused on encoding relationships between cross-domain features
+    and linking available observations data to sampled domain features. An approach
+    that leverages the OGC service baseline, W3C data on the web best practices, and
+    JavaScript Object Notation for Linked Data (JSON-LD) contexts was developed and
+    evaluated. Outcomes of the experiment demonstrate that broadly accepted web technologies
+    for linked data can be applied using OGC services and domain data models to fill
+    important gaps in existing environmental data systems' capabilities. While solutions
+    were found to be capable and promising, OGC services and domain model implementations
+    have limited utility for use in linked data applications in their current state
+    and the universe of persistent URIs that form the foundation of a linked data
+    infrastructure is still small. In addition to improvement of the standards baseline
+    and publication of linked data URIs, establishing conventions for URI dereferencing
+    behavior and default content given multiple options for a resource remain for
+    future work.
 ext:
   schema_version: v1.1.2
   doctype:

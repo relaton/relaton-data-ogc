@@ -1,14 +1,17 @@
+---
 id: '09082'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Sensor Web Enablement Application for Debris Flow Monitoring System in Taiwan
+  content: Sensor Web Enablement Application for Debris Flow Monitoring System in
+    Taiwan
   type: title-main
 - language: en
   script: Latn
-  content: Sensor Web Enablement Application for Debris Flow Monitoring System in Taiwan
+  content: Sensor Web Enablement Application for Debris Flow Monitoring System in
+    Taiwan
   type: main
 source:
 - type: html
@@ -76,7 +79,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This application document describes:\r\n\r\n1)\tWhat is a Debris Flow Monitoring System.\r\n2)\tHow SWE implements in Debris Flow Monitoring System. \r\n3)\tTutorial for SWE developers.\r\n"
+  content: "This application document describes:\r\n\r\n1)\tWhat is a Debris Flow
+    Monitoring System.\r\n2)\tHow SWE implements in Debris Flow Monitoring System.
+    \r\n3)\tTutorial for SWE developers.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

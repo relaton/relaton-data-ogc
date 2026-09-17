@@ -1,3 +1,4 @@
+---
 id: '04039'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Guide has been developed by the members of the Open Geospatial Consortium, Inc. to assist the global geospatial technology community in implementing standards-based geospatial portal solutions that are compatible with Spatial Data Infrastructures in every nation.  We offer this document as a resource for rapid development and informed acquisition of portals and portal-exploiting applications that can plug and play with geospatial data and services in your organization and other organizations in your community and around the world.    '
+  content: 'This Guide has been developed by the members of the Open Geospatial Consortium,
+    Inc. to assist the global geospatial technology community in implementing standards-based
+    geospatial portal solutions that are compatible with Spatial Data Infrastructures
+    in every nation.  We offer this document as a resource for rapid development and
+    informed acquisition of portals and portal-exploiting applications that can plug
+    and play with geospatial data and services in your organization and other organizations
+    in your community and around the world.    '
 ext:
   schema_version: v1.1.2
   doctype:

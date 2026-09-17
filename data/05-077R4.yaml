@@ -1,3 +1,4 @@
+---
 id: 05077r4
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The OpenGIS® Symbology Encoding Standard (SES) defines an XML language for styling information that can be applied to digital geographic feature and coverage data. SE is independent of any OGC Web Services descriptions and could therefore be used to describe styling information in non-networked systems such as desktop geographic information systems. '
+  content: 'The OpenGIS® Symbology Encoding Standard (SES) defines an XML language
+    for styling information that can be applied to digital geographic feature and
+    coverage data. SE is independent of any OGC Web Services descriptions and could
+    therefore be used to describe styling information in non-networked systems such
+    as desktop geographic information systems. '
 ext:
   schema_version: v1.1.2
   doctype:

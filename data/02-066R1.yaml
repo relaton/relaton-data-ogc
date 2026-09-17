@@ -1,3 +1,4 @@
+---
 id: 02066r1
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: States how a specific grouping of one or more maps from one or more map servers can be described in a portable, platform-independent manner.
+  content: States how a specific grouping of one or more maps from one or more map
+    servers can be described in a portable, platform-independent manner.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 11072r2
 schema_version: v1.5.6
 type: standard
@@ -76,7 +77,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC™ document specifies the advancement of WXXM and Weather Concepts in\r\nthe OWS-8 Aviation Thread. The focus is on investigating and demonstrating the\r\napplicability and suitability of WXXM in producing accurate, real-time aircraft weather\r\nradar data using OGC™ Web Coverage Services (WCS) to be used by meteorological\r\napplications and services supporting aviation. Such applications provide information\r\nwhich enhances safe and efficient tactical and"
+  content: "This OGC™ document specifies the advancement of WXXM and Weather Concepts
+    in\r\nthe OWS-8 Aviation Thread. The focus is on investigating and demonstrating
+    the\r\napplicability and suitability of WXXM in producing accurate, real-time
+    aircraft weather\r\nradar data using OGC™ Web Coverage Services (WCS) to be used
+    by meteorological\r\napplications and services supporting aviation. Such applications
+    provide information\r\nwhich enhances safe and efficient tactical and"
 ext:
   schema_version: v1.1.2
   doctype:

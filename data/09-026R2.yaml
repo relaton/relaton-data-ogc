@@ -1,3 +1,4 @@
+---
 id: '09026r2'
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,26 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A fundamental operation performed on a set of data or resources is that of querying in order to obtain a subset of the data which contains certain desired information that satisfies some query criteria and which is also, perhaps, sorted in some specified manner.\r\n\r\nThis International Standard defines an abstract component, named AbstractQueryExpression, from which other specifications can subclass concrete query elements to implement query operations. This International Standard also defines an additional abstract query component, named AbstractAdhocQueryExpresison, which is derived from AbstractQueryExpression and from which other specifications can subclass concrete query elements which follow a query pattern composed of a list of resource types to query, a projection clause specifying the properties of those resources to present in the result, a projection clause composed of predicates that define the subset of resources or data in the result set and a sorting clause indicating to order in which the results should be presented. This pattern is referred to as an ad hoc query pattern since the server is not aware of the query until it is submitted for processing. This is in contrast to a stored query expression, which is stored and can be invoked by name or identifier.\r\n\r\nThis International Standard describes an XML and KVP encoding of a system-neutral syntax for expressing the projection, selection and sorting clauses of a query expression. The intent is that this neutral representation can be easly validated, parsed and then translated into some target query language such as SPARQL or SQL for processing."
+  content: "A fundamental operation performed on a set of data or resources is that
+    of querying in order to obtain a subset of the data which contains certain desired
+    information that satisfies some query criteria and which is also, perhaps, sorted
+    in some specified manner.\r\n\r\nThis International Standard defines an abstract
+    component, named AbstractQueryExpression, from which other specifications can
+    subclass concrete query elements to implement query operations. This International
+    Standard also defines an additional abstract query component, named AbstractAdhocQueryExpresison,
+    which is derived from AbstractQueryExpression and from which other specifications
+    can subclass concrete query elements which follow a query pattern composed of
+    a list of resource types to query, a projection clause specifying the properties
+    of those resources to present in the result, a projection clause composed of predicates
+    that define the subset of resources or data in the result set and a sorting clause
+    indicating to order in which the results should be presented. This pattern is
+    referred to as an ad hoc query pattern since the server is not aware of the query
+    until it is submitted for processing. This is in contrast to a stored query expression,
+    which is stored and can be invoked by name or identifier.\r\n\r\nThis International
+    Standard describes an XML and KVP encoding of a system-neutral syntax for expressing
+    the projection, selection and sorting clauses of a query expression. The intent
+    is that this neutral representation can be easly validated, parsed and then translated
+    into some target query language such as SPARQL or SQL for processing."
 ext:
   schema_version: v1.1.2
   doctype:

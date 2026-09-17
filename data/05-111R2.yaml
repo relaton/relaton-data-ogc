@@ -1,3 +1,4 @@
+---
 id: 05111r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document demonstrats a number of functional capabilities related to rights management (Terms-of-Use, Authentication, content services) that need to be described and chained. '
+  content: 'This document demonstrats a number of functional capabilities related
+    to rights management (Terms-of-Use, Authentication, content services) that need
+    to be described and chained. '
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,3 +1,4 @@
+---
 id: 15104r5
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies the core Abstract Specification and extension mechanisms for Discrete Global Grid Systems (DGGS). A DGGS is a spatial reference system that uses a hierarchical tessellation of cells to partition and address the globe. DGGS are characterized by the properties of their cell structure, geo-encoding, quantization strategy and associated mathematical functions.The OGC DGGS Abstract Specification supports the specification of standardized DGGS infrastructures that enable the integrated analysis of very large, multi-source, multi-resolution, multi-dimensional, distributed geospatial data. Interoperability between OGC DGGS implementations is anticipated through implementation standards, and extension interface encodings of OGC Web Services.
+  content: This document specifies the core Abstract Specification and extension mechanisms
+    for Discrete Global Grid Systems (DGGS). A DGGS is a spatial reference system
+    that uses a hierarchical tessellation of cells to partition and address the globe.
+    DGGS are characterized by the properties of their cell structure, geo-encoding,
+    quantization strategy and associated mathematical functions.The OGC DGGS Abstract
+    Specification supports the specification of standardized DGGS infrastructures
+    that enable the integrated analysis of very large, multi-source, multi-resolution,
+    multi-dimensional, distributed geospatial data. Interoperability between OGC DGGS
+    implementations is anticipated through implementation standards, and extension
+    interface encodings of OGC Web Services.
 ext:
   schema_version: v1.1.2
   doctype:

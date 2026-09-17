@@ -1,3 +1,4 @@
+---
 id: '05017'
 schema_version: v1.5.6
 type: standard
@@ -58,7 +59,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Web Image Classification Service (WICS) supports classification of digital images. A digital image is composed of pixel values organized into one or more two-dimensional arrays. The two dimensions of an image represent two axes in space based on a spatial coordinate reference system. The dimensions of the different 2-D arrays comprising an image must be the same and represent exactly the same spatial locations.
+  content: The Web Image Classification Service (WICS) supports classification of
+    digital images. A digital image is composed of pixel values organized into one
+    or more two-dimensional arrays. The two dimensions of an image represent two axes
+    in space based on a spatial coordinate reference system. The dimensions of the
+    different 2-D arrays comprising an image must be the same and represent exactly
+    the same spatial locations.
 ext:
   schema_version: v1.1.2
   doctype:

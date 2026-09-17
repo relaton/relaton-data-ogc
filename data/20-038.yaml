@@ -1,14 +1,17 @@
+---
 id: '20038'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre Engineering Report'
+  content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
+    Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre Engineering Report'
+  content: 'OGC Earth Observation Applications Pilot: European Union Satellite Centre
+    Engineering Report'
   type: main
 source:
 - type: src
@@ -60,7 +63,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report (ER) describes the achievements of the European Union Satellite Centre (SatCen) as an application provider in the OGC Earth Observation Applications Pilot and the lessons learned from the project.
+  content: This Engineering Report (ER) describes the achievements of the European
+    Union Satellite Centre (SatCen) as an application provider in the OGC Earth Observation
+    Applications Pilot and the lessons learned from the project.
 ext:
   schema_version: v1.1.2
   doctype:

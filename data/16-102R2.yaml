@@ -1,3 +1,4 @@
+---
 id: 16102r2
 schema_version: v1.5.6
 type: standard
@@ -16,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'OGC InfraGML 1.0: Part 2 - LandInfra Facilities and Projects - Encoding Standard'
+  content: 'OGC InfraGML 1.0: Part 2 - LandInfra Facilities and Projects - Encoding
+    Standard'
   type: main
 source:
 - type: src
@@ -64,7 +66,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC InfraGML Encoding Standard presents the implementation-dependent, GML encoding of concepts supporting land and civil engineering infrastructure facilities specified in the OGC Land and Infrastructure Conceptual Model Standard (LandInfra), OGC 15-111r1. Conceptual model subject areas include land features, facilities, projects, alignment, road, railway, survey (including equipment, observations, and survey results), land division, and condominiums.\r\nInfraGML is published as a multi-part standard. This Part 2 addresses the Facility and Project Requirements Classes from LandInfra."
+  content: "This OGC InfraGML Encoding Standard presents the implementation-dependent,
+    GML encoding of concepts supporting land and civil engineering infrastructure
+    facilities specified in the OGC Land and Infrastructure Conceptual Model Standard
+    (LandInfra), OGC 15-111r1. Conceptual model subject areas include land features,
+    facilities, projects, alignment, road, railway, survey (including equipment, observations,
+    and survey results), land division, and condominiums.\r\nInfraGML is published
+    as a multi-part standard. This Part 2 addresses the Facility and Project Requirements
+    Classes from LandInfra."
 ext:
   schema_version: v1.1.2
   doctype:

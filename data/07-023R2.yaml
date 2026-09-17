@@ -1,3 +1,4 @@
+---
 id: 07023r2
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document lists the design principles and requirements for future versions of a potential architecture for integrating workflows and information models from Computer Aided Design and Building Information Modelling with the principles of the OGC Web Services Architecture. '
+  content: 'This document lists the design principles and requirements for future
+    versions of a potential architecture for integrating workflows and information
+    models from Computer Aided Design and Building Information Modelling with the
+    principles of the OGC Web Services Architecture. '
 ext:
   schema_version: v1.1.2
   doctype:

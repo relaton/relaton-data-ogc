@@ -1,3 +1,4 @@
+---
 id: 14009r1
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document identifies the generic rules for obtaining JSON documents directly from existing XML documents and schemas elements. It is primordially targeting the OWS Context JSON Encoding design, but is presented in a generic approach. Such generic approach can offer the guidelines for other OGC services, when defining and using JSON encodings.
+  content: This document identifies the generic rules for obtaining JSON documents
+    directly from existing XML documents and schemas elements. It is primordially
+    targeting the OWS Context JSON Encoding design, but is presented in a generic
+    approach. Such generic approach can offer the guidelines for other OGC services,
+    when defining and using JSON encodings.
 ext:
   schema_version: v1.1.2
   doctype:

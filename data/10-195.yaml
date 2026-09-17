@@ -1,3 +1,4 @@
+---
 id: '10195'
 schema_version: v1.5.6
 type: standard
@@ -52,7 +53,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Discussion Paper details the user requirements for metadata in the aviation domain. The requirements are at a high-level.
+  content: This OGC Discussion Paper details the user requirements for metadata in
+    the aviation domain. The requirements are at a high-level.
 ext:
   schema_version: v1.1.2
   doctype:

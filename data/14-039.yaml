@@ -1,14 +1,17 @@
+---
 id: '14039'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs ER
+  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs
+    ER
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs ER
+  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs
+    ER
   type: main
 source:
 - type: src
@@ -60,7 +63,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This activity is part of OGC Testbed 10. The aviation thread was focused on developing and demonstrating the use of the Aeronautical Information Exchange Model (AIXM) and the Flight Information Exchange Model (FIXM), building on the work accomplished in prior testbeds to advance the applications of OGC Web Services standards in next generation air traffic management systems to support European and US aviation modernization programs.\r\nThis document provides the result of the Testbed 10 to assess the compliance between the OGC standards and the guidelines provided by the SAE  in their latest published document regarding portraying of NOTAMs. Specifically, the Human Based Portrayal of DNOTAM work attempts to fulfill the high level requirements identified in the OGC Testbed-10 RFQ Annex B .\r\nThe purpose of this investigation was to analyze the recommendations of the SAE comity and to evaluate the feasibility of their application using OGC standards for portraying, namely the Symbology Encoding standard, version 1.1.\r\n"
+  content: "This activity is part of OGC Testbed 10. The aviation thread was focused
+    on developing and demonstrating the use of the Aeronautical Information Exchange
+    Model (AIXM) and the Flight Information Exchange Model (FIXM), building on the
+    work accomplished in prior testbeds to advance the applications of OGC Web Services
+    standards in next generation air traffic management systems to support European
+    and US aviation modernization programs.\r\nThis document provides the result of
+    the Testbed 10 to assess the compliance between the OGC standards and the guidelines
+    provided by the SAE  in their latest published document regarding portraying of
+    NOTAMs. Specifically, the Human Based Portrayal of DNOTAM work attempts to fulfill
+    the high level requirements identified in the OGC Testbed-10 RFQ Annex B .\r\nThe
+    purpose of this investigation was to analyze the recommendations of the SAE comity
+    and to evaluate the feasibility of their application using OGC standards for portraying,
+    namely the Symbology Encoding standard, version 1.1.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

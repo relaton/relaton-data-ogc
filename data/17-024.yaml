@@ -1,14 +1,17 @@
+---
 id: '17024'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering Report'
+  content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering
+    Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering Report'
+  content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering
+    Report'
   type: main
 source:
 - type: src
@@ -54,7 +57,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Testbed-13 Earth Observation Clouds (EOC) effort supports the development of ESA’s Thematic Exploitation Platforms (TEP) by exercising envisioned workflows for data integration and processing that are deployed in multiple clouds. The Application Deployment & Execution Service OGC Engineering Report (ER) identifies the Application Programming Interface (API) for delivering all functionality provided to realize the testbed scenario.\r\n\r\nThis ER will list the requirements fulfilled by Cloud APIs in order to allow an automation of the application package deployment and execution workflow and capture implementation process experiences.\r\n\r\n"
+  content: "The Testbed-13 Earth Observation Clouds (EOC) effort supports the development
+    of ESA’s Thematic Exploitation Platforms (TEP) by exercising envisioned workflows
+    for data integration and processing that are deployed in multiple clouds. The
+    Application Deployment & Execution Service OGC Engineering Report (ER) identifies
+    the Application Programming Interface (API) for delivering all functionality provided
+    to realize the testbed scenario.\r\n\r\nThis ER will list the requirements fulfilled
+    by Cloud APIs in order to allow an automation of the application package deployment
+    and execution workflow and capture implementation process experiences.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

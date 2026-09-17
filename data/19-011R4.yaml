@@ -1,3 +1,4 @@
+---
 id: 19011r4
 schema_version: v1.5.6
 type: standard
@@ -92,7 +93,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® IndoorGML standard specifies an open data model and XML schema of indoor spatial information. IndoorGML is an application schema of OGC® GML 3.2.1. While there are several 3D building modelling standards such as CityGML, KML, and IFC, which deal with interior space of buildings from geometric, cartographic, and semantic viewpoints, IndoorGML intentionally focuses on modeling indoor spaces for navigation purposes.
+  content: This OGC® IndoorGML standard specifies an open data model and XML schema
+    of indoor spatial information. IndoorGML is an application schema of OGC® GML
+    3.2.1. While there are several 3D building modelling standards such as CityGML,
+    KML, and IFC, which deal with interior space of buildings from geometric, cartographic,
+    and semantic viewpoints, IndoorGML intentionally focuses on modeling indoor spaces
+    for navigation purposes.
 ext:
   schema_version: v1.1.2
   doctype:

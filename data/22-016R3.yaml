@@ -1,3 +1,4 @@
+---
 id: 22016r3
 schema_version: v1.5.6
 type: standard
@@ -56,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed-18 (TB-18) Engineering Report (ER) is based on previous OGC Moving Features and Sensor Integration (MFSI) activities. The OGC TB-18 MFSI task addressed the interoperability between sensors and between sensing systems as well as the exchange of multiple sources of detected moving objects into one common analytic client. This ER describes the architecture framework for multi-source moving object detection into the client supported by OGC MFSI Standards and describes challenges of multi-sensor integration in the context of Moving Features data.
+  content: This OGC Testbed-18 (TB-18) Engineering Report (ER) is based on previous
+    OGC Moving Features and Sensor Integration (MFSI) activities. The OGC TB-18 MFSI
+    task addressed the interoperability between sensors and between sensing systems
+    as well as the exchange of multiple sources of detected moving objects into one
+    common analytic client. This ER describes the architecture framework for multi-source
+    moving object detection into the client supported by OGC MFSI Standards and describes
+    challenges of multi-sensor integration in the context of Moving Features data.
 ext:
   schema_version: v1.1.2
   doctype:

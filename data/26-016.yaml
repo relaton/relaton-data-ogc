@@ -1,3 +1,4 @@
+---
 id: '26016'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This report describes a training course on use of an Executable Test Suite (ETS) for the GEOINT Imagery Media for Intelligence, Surveillance, and Reconnaissance (GIMI). Developed as part of the Testbed-21 initiative, the training course is presented as a series of presentation slides and accompanying training materials.\r\n\r\nGIMI is a family of standards that integrate advanced media standards such as the ISO Base Media File Format (ISOBMFF) and the High Efficiency Image File Format (HEIF). GIMI has been designed to support still images, motion imagery, tiled imagery, audio, security marking, timing information, and content identification (id) information.\r\n\r\nTo facilitate the development of applications that can produce GIMI-conformant files, the Testbed-21 initiative included a task to implement an ETS for GIMI. Along with the ETS, the Testbed was tasked with developing and delivering training on the use of the ETS.\r\n\r\nThis report presents the training course, which is available as a Markdown file that can be converted to slides using Marp.\r\n\r\n"
+  content: "This report describes a training course on use of an Executable Test Suite
+    (ETS) for the GEOINT Imagery Media for Intelligence, Surveillance, and Reconnaissance
+    (GIMI). Developed as part of the Testbed-21 initiative, the training course is
+    presented as a series of presentation slides and accompanying training materials.\r\n\r\nGIMI
+    is a family of standards that integrate advanced media standards such as the ISO
+    Base Media File Format (ISOBMFF) and the High Efficiency Image File Format (HEIF).
+    GIMI has been designed to support still images, motion imagery, tiled imagery,
+    audio, security marking, timing information, and content identification (id) information.\r\n\r\nTo
+    facilitate the development of applications that can produce GIMI-conformant files,
+    the Testbed-21 initiative included a task to implement an ETS for GIMI. Along
+    with the ETS, the Testbed was tasked with developing and delivering training on
+    the use of the ETS.\r\n\r\nThis report presents the training course, which is
+    available as a Markdown file that can be converted to slides using Marp.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

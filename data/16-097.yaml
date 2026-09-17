@@ -1,3 +1,4 @@
+---
 id: '16097'
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Numerous and diverse technologies push cities towards open and platform-independent information infrastructures to manage human, natural, and physical systems. The Future Cities Pilot 1 (FCP1), as an OGC Innovation Program initiative, demonstrated how cities can benefit from open standards when used in urban planning workflows. This report details the lessons learned of implementing both the OGC CityGML and the buildingSMART Industry Foundation Classes (IFC) standards for visualizing and processing 3D spatial data when used in urban planning processes.
+  content: Numerous and diverse technologies push cities towards open and platform-independent
+    information infrastructures to manage human, natural, and physical systems. The
+    Future Cities Pilot 1 (FCP1), as an OGC Innovation Program initiative, demonstrated
+    how cities can benefit from open standards when used in urban planning workflows.
+    This report details the lessons learned of implementing both the OGC CityGML and
+    the buildingSMART Industry Foundation Classes (IFC) standards for visualizing
+    and processing 3D spatial data when used in urban planning processes.
 ext:
   schema_version: v1.1.2
   doctype:

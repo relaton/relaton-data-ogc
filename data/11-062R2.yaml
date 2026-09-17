@@ -1,3 +1,4 @@
+---
 id: 11062r2
 schema_version: v1.5.6
 type: standard
@@ -60,7 +61,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OWS-8 Cross Community Interoperability (CCI) thread was built on progress made in the recent OWS-7 initiative to cover key technology areas that could not be addressed within the scope of that initiative. The OWS-8 CCI thread aimed to increase interoperability within communities sharing geospatial data, including advancing of interoperability among heterogeneous data models, advancing strategies to share styles to provide a more common and automated use of symbology, improvement of KML, and advancing schema automation allowing communities to better share their information artifacts. This OGC engineering report aims to present findings from the portrayal registries as part of the CCI subthread
+  content: The OWS-8 Cross Community Interoperability (CCI) thread was built on progress
+    made in the recent OWS-7 initiative to cover key technology areas that could not
+    be addressed within the scope of that initiative. The OWS-8 CCI thread aimed to
+    increase interoperability within communities sharing geospatial data, including
+    advancing of interoperability among heterogeneous data models, advancing strategies
+    to share styles to provide a more common and automated use of symbology, improvement
+    of KML, and advancing schema automation allowing communities to better share their
+    information artifacts. This OGC engineering report aims to present findings from
+    the portrayal registries as part of the CCI subthread
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,14 +1,17 @@
+---
 id: 20085r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with 3D Modeling, Simulation, and Game Engines
+  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
+    3D Modeling, Simulation, and Game Engines
   type: title-main
 - language: en
   script: Latn
-  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with 3D Modeling, Simulation, and Game Engines
+  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
+    3D Modeling, Simulation, and Game Engines
   type: main
 source:
 - type: src
@@ -56,7 +59,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The objectives of this MS&G\r\nTechnical Paper are focused on identifying technology trends\r\nthat are influencing the convergence of GEOINT and M&S\r\ntradecraft. The purpose is to advance ideas and techniques,\r\nsuch as reality modeling of 3D environments, which increase\r\nthe knowledge-base and capacity of the geospatial analyst\r\ncommunity writ large."
+  content: "The objectives of this MS&G\r\nTechnical Paper are focused on identifying
+    technology trends\r\nthat are influencing the convergence of GEOINT and M&S\r\ntradecraft.
+    The purpose is to advance ideas and techniques,\r\nsuch as reality modeling of
+    3D environments, which increase\r\nthe knowledge-base and capacity of the geospatial
+    analyst\r\ncommunity writ large."
 ext:
   schema_version: v1.1.2
   doctype:

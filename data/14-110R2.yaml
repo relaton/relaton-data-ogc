@@ -1,3 +1,4 @@
+---
 id: 14110r2
 schema_version: v1.5.6
 type: standard
@@ -12,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding Extension
+  content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding
+    Extension
   type: main
 source:
 - type: src
@@ -60,7 +62,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Coverages represent space/time-varying phenomena, such as satellite imagery, digital elevation models, or digital aerial imagery. OGC Abstract Topic 6 [OGC 07-011] – which is identical to ISO 19123 – defines an abstract model of coverages. Coverage instances may be encoded using the GML Application Schema – Coverages – JPEG2000 Coverage Encoding Extension version 1.0 [OGC 12-108] which is based on the GML Application Schema – Coverages (GMLCOV) version 1.0 [OGC 09-146r2] which in turn is based on the Geography Markup Language (GML) version 3.2 [07-036], an XML grammar written in XML Schema for the description of application schemas as well as the transport and storage of geographic information.\r\n\r\nThis extension to the Web Coverage Service (WCS) 2.0 Interface Standard – Core (WCS) version 2.0 [OC 09-110r4] specifies the usage of the JPEG2000 coverage encoding and JPIP streaming capabilities with WCS. The approach is based on the authoritative GML Application Schema – Coverages – JPEG2000 Coverage Encoding Extension version 1.0 [OGC 12-108]."
+  content: "Coverages represent space/time-varying phenomena, such as satellite imagery,
+    digital elevation models, or digital aerial imagery. OGC Abstract Topic 6 [OGC
+    07-011] – which is identical to ISO 19123 – defines an abstract model of coverages.
+    Coverage instances may be encoded using the GML Application Schema – Coverages
+    – JPEG2000 Coverage Encoding Extension version 1.0 [OGC 12-108] which is based
+    on the GML Application Schema – Coverages (GMLCOV) version 1.0 [OGC 09-146r2]
+    which in turn is based on the Geography Markup Language (GML) version 3.2 [07-036],
+    an XML grammar written in XML Schema for the description of application schemas
+    as well as the transport and storage of geographic information.\r\n\r\nThis extension
+    to the Web Coverage Service (WCS) 2.0 Interface Standard – Core (WCS) version
+    2.0 [OC 09-110r4] specifies the usage of the JPEG2000 coverage encoding and JPIP
+    streaming capabilities with WCS. The approach is based on the authoritative GML
+    Application Schema – Coverages – JPEG2000 Coverage Encoding Extension version
+    1.0 [OGC 12-108]."
 ext:
   schema_version: v1.1.2
   doctype:
