@@ -1,4 +1,3 @@
----
 id: '02070'
 schema_version: v1.5.6
 type: standard
@@ -53,8 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The SLD is an encoding for how the Web Map Server (WMS 1.0 & 1.1) specification
-    can be extended to allow user-defined symbolization of feature data.
+  content: The SLD is an encoding for how the Web Map Server (WMS 1.0 & 1.1) specification can be extended to allow user-defined symbolization of feature data.
 ext:
   schema_version: v1.1.2
   doctype:

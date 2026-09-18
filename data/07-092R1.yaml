@@ -1,4 +1,3 @@
----
 id: '07092r1'
 schema_version: v1.5.6
 type: standard
@@ -55,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Best Practices Paper specifies Universal Resource Names (URNs) in
-    the ogc URN namespace to be used for identifying definitions. This document specifies
-    the formats used by these URNs, plus a set of specific URNs for specific definitions.
-    These definitions should be used wherever applicable by implementations of various
-    OGC Implementation Specifications, including GML, WMS, WFS, and WCS. '
+  content: 'This Best Practices Paper specifies Universal Resource Names (URNs) in the ogc URN namespace to be used for identifying definitions. This document specifies the formats used by these URNs, plus a set of specific URNs for specific definitions. These definitions should be used wherever applicable by implementations of various OGC Implementation Specifications, including GML, WMS, WFS, and WCS. '
 ext:
   schema_version: v1.1.2
   doctype:

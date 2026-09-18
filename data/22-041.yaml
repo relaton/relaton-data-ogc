@@ -1,4 +1,3 @@
----
 id: '22041'
 schema_version: v1.5.6
 type: standard
@@ -61,8 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Testbed-18 Engineering Report (ER) represents deliverable D012
-    and D013 for the Building Energy Data Interoperability task.
+  content: This OGC Testbed-18 Engineering Report (ER) represents deliverable D012 and D013 for the Building Energy Data Interoperability task.
 ext:
   schema_version: v1.1.2
   doctype:

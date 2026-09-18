@@ -1,4 +1,3 @@
----
 id: '09073'
 schema_version: v1.5.6
 type: standard
@@ -53,10 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document summarizes work delivered on the Sensor Web Enablement (SWE)
-    thread of OWS-6. In particular, Northrop Grumman’s contribution from PulseNet™
-    to the Common Chemical, Biological, Radiological, and Nuclear (CBRN) Sensor Interface
-    (CCSI) standard-compliant sensors into an OGC SWE-based architecture.
+  content: This document summarizes work delivered on the Sensor Web Enablement (SWE) thread of OWS-6. In particular, Northrop Grumman’s contribution from PulseNet™ to the Common Chemical, Biological, Radiological, and Nuclear (CBRN) Sensor Interface (CCSI) standard-compliant sensors into an OGC SWE-based architecture.
 ext:
   schema_version: v1.1.2
   doctype:

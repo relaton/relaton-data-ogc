@@ -1,4 +1,3 @@
----
 id: 19025r1
 schema_version: v1.5.6
 type: standard
@@ -63,14 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This engineering report presents the results of a concept development
-    study on a\r\nMarine Spatial Data Infrastructure (SDI), sponsored by the National
-    Geospatial-\r\nIntelligence Agency (NGA) - Maritime Safety Office (MSO), on behalf
-    of the\r\nInternational Hydrographic Organization (IHO) and the IHO MSDI Working
-    Group\r\n(MSDIWG), and executed by the Open Geospatial Consortium (OGC). The goal
-    of\r\nthis study was to demonstrate to stakeholders the diversity, richness and
-    value of a\r\nMarine SDI – specifically data, analysis, interoperability and associated
-    IT services\r\n- including web services - in addressing needs of the marine domain."
+  content: "This engineering report presents the results of a concept development study on a\r\nMarine Spatial Data Infrastructure (SDI), sponsored by the National Geospatial-\r\nIntelligence Agency (NGA) - Maritime Safety Office (MSO), on behalf of the\r\nInternational Hydrographic Organization (IHO) and the IHO MSDI Working Group\r\n(MSDIWG), and executed by the Open Geospatial Consortium (OGC). The goal of\r\nthis study was to demonstrate to stakeholders the diversity, richness and value of a\r\nMarine SDI – specifically data, analysis, interoperability and associated IT services\r\n- including web services - in addressing needs of the marine domain."
 ext:
   schema_version: v1.1.2
   doctype:

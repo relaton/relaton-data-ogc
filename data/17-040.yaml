@@ -1,4 +1,3 @@
----
 id: '17040'
 schema_version: v1.5.6
 type: standard
@@ -67,19 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This engineering report captures the requirements, solutions, and implementation
-    experiences of the Semantic Registry work package in Testbed-13. The engineering
-    report describes the implementation of a RESTful Semantic Registry that supports
-    the Semantic Registry Information Model (SRIM) which is based on the Data Catalog
-    (DCAT) specification. A discussion of the applicability of the SRIM to the United
-    States Geological Survey (USGS) and the National Geospatial Intelligence Agency
-    (NGA) metadata is also presented, including an analysis of a set of controlled
-    vocabularies from both organizations. Best Practice guidelines for the use of
-    SRIM are also provided. The engineering report discusses the application of Shapes
-    Constraint Language (SHACL) to aspects of Linked Data. Recognizing the benefits
-    that asynchronous access has to offer web services, a description of the work
-    undertaken by the testbed in implementing publish/subscribe functionality between
-    a Semantic Registry and a Catalogue Service for the Web (CSW) is also presented.
+  content: This engineering report captures the requirements, solutions, and implementation experiences of the Semantic Registry work package in Testbed-13. The engineering report describes the implementation of a RESTful Semantic Registry that supports the Semantic Registry Information Model (SRIM) which is based on the Data Catalog (DCAT) specification. A discussion of the applicability of the SRIM to the United States Geological Survey (USGS) and the National Geospatial Intelligence Agency (NGA) metadata is also presented, including an analysis of a set of controlled vocabularies from both organizations. Best Practice guidelines for the use of SRIM are also provided. The engineering report discusses the application of Shapes Constraint Language (SHACL) to aspects of Linked Data. Recognizing the benefits that asynchronous access has to offer web services, a description of the work undertaken by the testbed in implementing publish/subscribe functionality between a Semantic Registry and a Catalogue Service for the Web (CSW) is also presented.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,17 +1,14 @@
----
 id: '18035'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-14: Semantically Enabled Aviation Data Models Engineering
-    Report'
+  content: 'OGC Testbed-14: Semantically Enabled Aviation Data Models Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-14: Semantically Enabled Aviation Data Models Engineering
-    Report'
+  content: 'OGC Testbed-14: Semantically Enabled Aviation Data Models Engineering Report'
   type: main
 source:
 - type: src
@@ -57,18 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report (ER) summarizes the OGC Testbed-14 findings and
-    recommendations to “semantically enable” existing data and metadata models used
-    in the aviation industry. Examples of such data and metadata models include Aeronautical
-    Information Exchange Model (AIXM) [1], Weather Information Exchange Model (WXXM)
-    [2], Flight Information Exchange Model (FIXM) [3],Web Service Description Document
-    (WSDD), Service Description Conceptual Model (SDCM) [4]). These models use Linked
-    Data standards to represent this information and aim to improve the search and
-    discovery of services and information in the aviation domain using the System
-    Wide Information Management (SWIM) environment. This report provides a review
-    of the existing data models and explore different approaches to provide a semantic
-    representation of the current metadata and data models used in the aviation domain.
-    The ER also discusses the role and importance of the controlled vocabularies.
+  content: This Engineering Report (ER) summarizes the OGC Testbed-14 findings and recommendations to “semantically enable” existing data and metadata models used in the aviation industry. Examples of such data and metadata models include Aeronautical Information Exchange Model (AIXM) [1], Weather Information Exchange Model (WXXM) [2], Flight Information Exchange Model (FIXM) [3],Web Service Description Document (WSDD), Service Description Conceptual Model (SDCM) [4]). These models use Linked Data standards to represent this information and aim to improve the search and discovery of services and information in the aviation domain using the System Wide Information Management (SWIM) environment. This report provides a review of the existing data models and explore different approaches to provide a semantic representation of the current metadata and data models used in the aviation domain. The ER also discusses the role and importance of the controlled vocabularies.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 14004r1
 schema_version: v1.5.6
 type: standard
@@ -69,15 +68,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC document defines an OGC Sensor Observation Service (SOS) 2.0 hydrology
-    profile for SOS 2.0 implementations serving OGC WaterML 2.0. The development of
-    this OGC Best Practice (BP) is based on previous activities and results (i.e.
-    Hydrology Interoperability Experiments[1] as well as the European FP7 project
-    GEOWOW[2]). The work is guided by the need to overcome semantic issues between
-    different SOS instances serving hydrological data and the related client applications.
-    Therefore, this profile focuses on how to use the entities and requests of the
-    standards and defines the necessary technical details to implement the hydrology
-    SOS profile.
+  content: This OGC document defines an OGC Sensor Observation Service (SOS) 2.0 hydrology profile for SOS 2.0 implementations serving OGC WaterML 2.0. The development of this OGC Best Practice (BP) is based on previous activities and results (i.e. Hydrology Interoperability Experiments[1] as well as the European FP7 project GEOWOW[2]). The work is guided by the need to overcome semantic issues between different SOS instances serving hydrological data and the related client applications. Therefore, this profile focuses on how to use the entities and requests of the standards and defines the necessary technical details to implement the hydrology SOS profile.
 ext:
   schema_version: v1.1.2
   doctype:

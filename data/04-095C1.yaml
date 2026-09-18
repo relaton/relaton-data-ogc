@@ -1,4 +1,3 @@
----
 id: '04095c1'
 schema_version: v1.5.6
 type: standard
@@ -53,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OpenGIS® Filter Encoding Standard (FES) defines an XML encoding for
-    filter expressions. A filter expression logically combines constraints on the\r\nproperties
-    of a feature in order to identify a particular subset of features to be operated
-    upon.  For example, a subset of features might be identified to render them in
-    a particular color or convert them into a user-specified format. Constraints can
-    be specified on values of spatial, temporal and scalar properties. An example
-    of a filter is: Find all the properties in Omstead County owned by Peter Vretanos.\r\n\r\nThis
-    standard is used by a number of OGC Web Services, including the Web Feature Service
-    [http://www.opengeospatial.org/standards/wfs], the Catalogue Service [http://www.opengeospatial.org/standards/cat]
-    and the Styled Layer Descriptor Standard [http://www.opengeospatial.org/standards/sld].
-    \r\n"
+  content: "The OpenGIS® Filter Encoding Standard (FES) defines an XML encoding for filter expressions. A filter expression logically combines constraints on the\r\nproperties of a feature in order to identify a particular subset of features to be operated upon.  For example, a subset of features might be identified to render them in a particular color or convert them into a user-specified format. Constraints can be specified on values of spatial, temporal and scalar properties. An example of a filter is: Find all the properties in Omstead County owned by Peter Vretanos.\r\n\r\nThis standard is used by a number of OGC Web Services, including the Web Feature Service [http://www.opengeospatial.org/standards/wfs], the Catalogue Service [http://www.opengeospatial.org/standards/cat] and the Styled Layer Descriptor Standard [http://www.opengeospatial.org/standards/sld]. \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

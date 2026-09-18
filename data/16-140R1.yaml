@@ -1,4 +1,3 @@
----
 id: 16140r1
 schema_version: v1.5.6
 type: standard
@@ -67,16 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document proposes a JavaScript Object Notation (JSON) encoding representation
-    of movement of geographic features as an encoding extension of OGC Moving Features
-    ([OGC 14-083r2] and [OGC 14-084r2]). A moving feature, typically a vehicle and
-    pedestrian, can be expressed as a temporal geometry whose location continuously
-    changes over time and contains dynamic non-spatial attributes whose values vary
-    with time. This Best Practice describes how to share moving feature data based
-    on JSON and GeoJSON (a JSON format for encoding geographic data structures). In
-    addition, this document provides an example of RESTful approaches as a Feature
-    Service Interface that has the potential for simplicity, scalability, and resilience
-    with respect to exchange of moving feature data across the Web.
+  content: This document proposes a JavaScript Object Notation (JSON) encoding representation of movement of geographic features as an encoding extension of OGC Moving Features ([OGC 14-083r2] and [OGC 14-084r2]). A moving feature, typically a vehicle and pedestrian, can be expressed as a temporal geometry whose location continuously changes over time and contains dynamic non-spatial attributes whose values vary with time. This Best Practice describes how to share moving feature data based on JSON and GeoJSON (a JSON format for encoding geographic data structures). In addition, this document provides an example of RESTful approaches as a Feature Service Interface that has the potential for simplicity, scalability, and resilience with respect to exchange of moving feature data across the Web.
 ext:
   schema_version: v1.1.2
   doctype:

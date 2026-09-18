@@ -1,4 +1,3 @@
----
 id: 14100r2
 schema_version: v1.5.6
 type: standard
@@ -63,17 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC CF-netCDF data model supports multi-dimensional gridded data and
-    multidimensional multi-point data, representing space and time-varying phenomena.
-    In particular, this extension standard is limited to multi-point, and regular
-    and warped grids.\r\nThis standard specifies the CF-netCDF data model encoding
-    using the OGC GML 3.2.1 coverage application schema, as well as CF-netCDF data
-    exchange format and protocol encoding.\r\nThis standard specifies: (a) the CF-netCDF
-    GML encoding to be used by OGC standards; (b) the CF-netCDF data format exchanged
-    using OGC standards; (c) the Internet protocol characteristics to effectively
-    exchange CF-netCDF data.\r\nAs per the GML 3.3. standard, GML 3.3 imports the
-    3.2 schema. The canonical location of the 3.2 all components schema document for
-    3.3 is\r\nhttp://schemas.opengis.net/gml/3.2.1/gml.xsd"
+  content: "The OGC CF-netCDF data model supports multi-dimensional gridded data and multidimensional multi-point data, representing space and time-varying phenomena. In particular, this extension standard is limited to multi-point, and regular and warped grids.\r\nThis standard specifies the CF-netCDF data model encoding using the OGC GML 3.2.1 coverage application schema, as well as CF-netCDF data exchange format and protocol encoding.\r\nThis standard specifies: (a) the CF-netCDF GML encoding to be used by OGC standards; (b) the CF-netCDF data format exchanged using OGC standards; (c) the Internet protocol characteristics to effectively exchange CF-netCDF data.\r\nAs per the GML 3.3. standard, GML 3.3 imports the 3.2 schema. The canonical location of the 3.2 all components schema document for 3.3 is\r\nhttp://schemas.opengis.net/gml/3.2.1/gml.xsd"
 ext:
   schema_version: v1.1.2
   doctype:

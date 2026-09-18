@@ -1,4 +1,3 @@
----
 id: 11085r1
 schema_version: v1.5.6
 type: standard
@@ -55,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes the work done during the OWS-8 test bed investigating
-    methods and apparatus for distributing individual geospatial data sets and/or
-    collections of data sets in a consistent manner between machines that may or may
-    not be connected via a network.  The investigation focuses on the initialization
-    of a target WFS, from a source WFS, for the purpose of GeoSynchronization.  Data,
-    schema, metadata and/or topology are exported from a source WFS, transferred to
-    a target WFS (either electronically or physically via some media) and then imported
-    into the target WFS.  From that point on, the two WFS's are maintained in synchrony
-    using a Geosynchronization Service (see OGC 10-069r2).
+  content: This document describes the work done during the OWS-8 test bed investigating methods and apparatus for distributing individual geospatial data sets and/or collections of data sets in a consistent manner between machines that may or may not be connected via a network.  The investigation focuses on the initialization of a target WFS, from a source WFS, for the purpose of GeoSynchronization.  Data, schema, metadata and/or topology are exported from a source WFS, transferred to a target WFS (either electronically or physically via some media) and then imported into the target WFS.  From that point on, the two WFS's are maintained in synchrony using a Geosynchronization Service (see OGC 10-069r2).
 ext:
   schema_version: v1.1.2
   doctype:

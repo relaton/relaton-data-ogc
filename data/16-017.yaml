@@ -1,4 +1,3 @@
----
 id: '16017'
 schema_version: v1.5.6
 type: standard
@@ -61,22 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Asynchronous Messaging for Aviation Engineering Report (ER) focuses
-    on the design of an architecture to create an Publish/Subscribe (PubSub) messaging
-    layer between different Aviation components such as clients, data provider instances
-    and Data Brokers. In order to achieve interoperability among these components,
-    the OGC PubSub 1.0 standard forms the basis of this architecture. The design of
-    this architecture will cover methods for subscribing for specific subsets of data
-    (e.g. Flight Information Exchange Model (FIXM) Flights intersecting a given Airspace),
-    managing such subscriptions as well as publishing data to the Asynchronous Messaging
-    Server. Different delivery methods such as Advanced Message Queuing Protocol (AMQP)
-    1.0, Java Message Service (JMS) and OASIS WS-Notification are considered. In particular,
-    their harmonization with OGC PubSub 1.0 is evaluated.\r\n\r\nThis report focuses
-    on the interface design required to define an interoperable approach for Aviation
-    using this OGC PubSub 1.0. Specific service level integrations (i.e., Federal
-    Aviation Administration (FAA) System-Wide Information Management (SWIM) and Single
-    European Sky ATM Research Programme (SESAR) SWIM) have been investigated but an
-    implementation has not been fulfilled."
+  content: "The Asynchronous Messaging for Aviation Engineering Report (ER) focuses on the design of an architecture to create an Publish/Subscribe (PubSub) messaging layer between different Aviation components such as clients, data provider instances and Data Brokers. In order to achieve interoperability among these components, the OGC PubSub 1.0 standard forms the basis of this architecture. The design of this architecture will cover methods for subscribing for specific subsets of data (e.g. Flight Information Exchange Model (FIXM) Flights intersecting a given Airspace), managing such subscriptions as well as publishing data to the Asynchronous Messaging Server. Different delivery methods such as Advanced Message Queuing Protocol (AMQP) 1.0, Java Message Service (JMS) and OASIS WS-Notification are considered. In particular, their harmonization with OGC PubSub 1.0 is evaluated.\r\n\r\nThis report focuses on the interface design required to define an interoperable approach for Aviation using this OGC PubSub 1.0. Specific service level integrations (i.e., Federal Aviation Administration (FAA) System-Wide Information Management (SWIM) and Single European Sky ATM Research Programme (SESAR) SWIM) have been investigated but an implementation has not been fulfilled."
 ext:
   schema_version: v1.1.2
   doctype:

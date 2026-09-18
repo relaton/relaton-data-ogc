@@ -1,4 +1,3 @@
----
 id: 18038r2
 schema_version: v1.5.6
 type: standard
@@ -57,17 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report (ER) describes the application and use of
-    OGC Web Services (OWS) for integrating Machine Learning (ML), Deep Learning (DL)
-    and Artificial Intelligence (AI) in the OGC Testbed-14 Modeling, Portrayal, and
-    Quality of Service (MoPoQ) Thread. This report is intended to present a holistic
-    approach on how to support and integrate emerging AI and ML tools using OWS, as
-    well as publishing their input and outputs. This approach should seek efficiency
-    and effectiveness of knowledge sharing.\r\n\r\nThis engineering report will describe:
-    experiences, lessons learned, best practices for workflows, service interaction
-    patterns, application schemas, and use of controlled vocabularies. It is expected
-    that the description of workflows for geospatial feature extraction will be more
-    complex than the implementations found in the deliverables."
+  content: "This OGC Engineering Report (ER) describes the application and use of OGC Web Services (OWS) for integrating Machine Learning (ML), Deep Learning (DL) and Artificial Intelligence (AI) in the OGC Testbed-14 Modeling, Portrayal, and Quality of Service (MoPoQ) Thread. This report is intended to present a holistic approach on how to support and integrate emerging AI and ML tools using OWS, as well as publishing their input and outputs. This approach should seek efficiency and effectiveness of knowledge sharing.\r\n\r\nThis engineering report will describe: experiences, lessons learned, best practices for workflows, service interaction patterns, application schemas, and use of controlled vocabularies. It is expected that the description of workflows for geospatial feature extraction will be more complex than the implementations found in the deliverables."
 ext:
   schema_version: v1.1.2
   doctype:

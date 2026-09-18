@@ -1,4 +1,3 @@
----
 id: 06141r6
 schema_version: v1.5.6
 type: standard
@@ -63,9 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This  OGC® standard specifies the interfaces, bindings, requirements,
-    conformance classes, and a framework for implementing extensions that enable complete
-    workflows for ordering of Earth Observation (EO) data products. '
+  content: 'This  OGC® standard specifies the interfaces, bindings, requirements, conformance classes, and a framework for implementing extensions that enable complete workflows for ordering of Earth Observation (EO) data products. '
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '12133'
 schema_version: v1.5.6
 type: standard
@@ -55,20 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes the Web Services Façade which was developed by
-    LISAsoft as part of the OWS-9 testbed. The document also includes discussions
-    about lessons learned during the development, and suggestions for future development.\r\nThis
-    Engineering Report documents the Web Services Façade work done within OWS-9 as
-    an extensible, open source tool, which supports translations between different
-    protocols for a specific web service. For the OWS-9 testbed, it has been set up
-    to translate between POST and SOAP services for a Web Feature Service. However,
-    it can be configured to support translations between multiple protocols, such
-    as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\nThe
-    Web Services Façade is an extensible, open source tool, which supports translations
-    between different protocols for a specific web service. For the OWS-9 testbed,
-    it has been set up to translate between POST and SOAP services for a Web Feature
-    Service. However, it can be configured to support translations between multiple
-    protocols, such as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\n"
+  content: "This document describes the Web Services Façade which was developed by LISAsoft as part of the OWS-9 testbed. The document also includes discussions about lessons learned during the development, and suggestions for future development.\r\nThis Engineering Report documents the Web Services Façade work done within OWS-9 as an extensible, open source tool, which supports translations between different protocols for a specific web service. For the OWS-9 testbed, it has been set up to translate between POST and SOAP services for a Web Feature Service. However, it can be configured to support translations between multiple protocols, such as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\nThe Web Services Façade is an extensible, open source tool, which supports translations between different protocols for a specific web service. For the OWS-9 testbed, it has been set up to translate between POST and SOAP services for a Web Feature Service. However, it can be configured to support translations between multiple protocols, such as REST, SOAP, KVP, JSON, as well as supporting multiple web services.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

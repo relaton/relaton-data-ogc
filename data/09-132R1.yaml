@@ -1,4 +1,3 @@
----
 id: '09132r1'
 schema_version: v1.5.6
 type: standard
@@ -55,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Specification of a generic service-oriented architecture integrating the
-    access to, the management and the processing of sensor-related information based
-    upon the emerging standards of the Open geospatial Consortium (OGC), and resulting
-    from the requirements analysis of diverse application domains such as maritime
-    risk management, observation of geo-hazards and monitoring of air quality.
+  content: Specification of a generic service-oriented architecture integrating the access to, the management and the processing of sensor-related information based upon the emerging standards of the Open geospatial Consortium (OGC), and resulting from the requirements analysis of diverse application domains such as maritime risk management, observation of geo-hazards and monitoring of air quality.
 ext:
   schema_version: v1.1.2
   doctype:

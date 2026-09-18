@@ -1,17 +1,14 @@
----
 id: 19091r2
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Built environment data standards and their integration: an analysis of
-    IFC, CityGML and LandInfra'
+  content: 'Built environment data standards and their integration: an analysis of IFC, CityGML and LandInfra'
   type: title-main
 - language: en
   script: Latn
-  content: 'Built environment data standards and their integration: an analysis of
-    IFC, CityGML and LandInfra'
+  content: 'Built environment data standards and their integration: an analysis of IFC, CityGML and LandInfra'
   type: main
 source:
 - type: html
@@ -93,15 +90,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Demand for digital representations of built environments is accelerating
-    and can only be satisfied through greater software interoperability and data integration.
-    The objective of the Integrated Digital Built Environment (IDBE) joint working
-    group is to address this challenge by bringing together experts from the Open
-    Geospatial Consortium and buildingSMART to coordinate the development of the relevant
-    data standards. This document is an output from IDBE in which we describe the
-    state of three of the most prominent built environment standards – CityGML, IFC
-    and LandInfra – and describe some of the problems that hinder their integration;
-    finally, we propose actions points for overcoming these problems.
+  content: Demand for digital representations of built environments is accelerating and can only be satisfied through greater software interoperability and data integration. The objective of the Integrated Digital Built Environment (IDBE) joint working group is to address this challenge by bringing together experts from the Open Geospatial Consortium and buildingSMART to coordinate the development of the relevant data standards. This document is an output from IDBE in which we describe the state of three of the most prominent built environment standards – CityGML, IFC and LandInfra – and describe some of the problems that hinder their integration; finally, we propose actions points for overcoming these problems.
 ext:
   schema_version: v1.1.2
   doctype:

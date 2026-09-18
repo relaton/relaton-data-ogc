@@ -1,4 +1,3 @@
----
 id: 05025r3
 schema_version: v1.5.6
 type: standard
@@ -59,13 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Catalogue Services 2.0 specification (OGC 04-021r3) establishes
-    a general framework for implementing catalogue services that can be applied to
-    meet the needs of stakeholders in a wide variety of domains. This application
-    profile is based on the HTTP protocol binding described in Clause 10 of the Catalogue
-    2.0 specification; it qualifies as a Class 2 profile under the terms of ISO 19106
-    since it includes extensions permitted within the context of the base specifications,
-    some of which are not part of the ISO 19100 series of geomatics standards.
+  content: The OGC Catalogue Services 2.0 specification (OGC 04-021r3) establishes a general framework for implementing catalogue services that can be applied to meet the needs of stakeholders in a wide variety of domains. This application profile is based on the HTTP protocol binding described in Clause 10 of the Catalogue 2.0 specification; it qualifies as a Class 2 profile under the terms of ISO 19106 since it includes extensions permitted within the context of the base specifications, some of which are not part of the ISO 19100 series of geomatics standards.
 ext:
   schema_version: v1.1.2
   doctype:

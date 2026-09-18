@@ -1,4 +1,3 @@
----
 id: 21017r1
 schema_version: v1.5.6
 type: standard
@@ -57,15 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC Testbed-17 Features and Geometries JSON task investigated proposals
-    for how feature data could be encoded in JSON so that:\r\n\r\n* Different Coordinate
-    Reference Systems (CRS) are supported and\r\n* Communities can build and formally
-    specify profiles of the fully CRS-enabled JSON with limited sets of supported
-    geometry types and with clear constraints for feature type definitions.\r\n\r\nGeoJSON,
-    a standard of the Internet Engineering Task Force (IETF), was used as a starting
-    point.\r\n\r\nThis Engineering Report (ER) captures the results and discussions,
-    including material that was submitted to the https://github.com/opengeospatial/OGC-feat-geo-json[OGC
-    Features and Geometries JSON Standards Working Group].\r\n"
+  content: "The OGC Testbed-17 Features and Geometries JSON task investigated proposals for how feature data could be encoded in JSON so that:\r\n\r\n* Different Coordinate Reference Systems (CRS) are supported and\r\n* Communities can build and formally specify profiles of the fully CRS-enabled JSON with limited sets of supported geometry types and with clear constraints for feature type definitions.\r\n\r\nGeoJSON, a standard of the Internet Engineering Task Force (IETF), was used as a starting point.\r\n\r\nThis Engineering Report (ER) captures the results and discussions, including material that was submitted to the https://github.com/opengeospatial/OGC-feat-geo-json[OGC Features and Geometries JSON Standards Working Group].\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '20036'
 schema_version: v1.5.6
 type: standard
@@ -67,16 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Testbed-16 Engineering Report (ER) evaluates the suitability
-    of existing OGC standards for the generation of Moving Features from Full Motion
-    Video (FMV) that has an embedded stream of detected moving objects.\r\n\r\nThis
-    ER presents several proof of concept applications that accept FMVs, with multiple
-    encoded Video Moving Target Indicators (VMTI), and combines the VMTIs into separate
-    tracks that are then encoded to OGC Moving Features.\r\n\r\nIn addition, the ER
-    explores the generation of records encoded according to OGC Sensor Model Language
-    (SensorML) 2.0 standard describing the collection platform and relevant telemetry
-    information from the key-value stream content encoded according to the MISB 0601
-    and 0903 specifications of the Motion Imagery Standards Board (MISB)."
+  content: "This OGC Testbed-16 Engineering Report (ER) evaluates the suitability of existing OGC standards for the generation of Moving Features from Full Motion Video (FMV) that has an embedded stream of detected moving objects.\r\n\r\nThis ER presents several proof of concept applications that accept FMVs, with multiple encoded Video Moving Target Indicators (VMTI), and combines the VMTIs into separate tracks that are then encoded to OGC Moving Features.\r\n\r\nIn addition, the ER explores the generation of records encoded according to OGC Sensor Model Language (SensorML) 2.0 standard describing the collection platform and relevant telemetry information from the key-value stream content encoded according to the MISB 0601 and 0903 specifications of the Motion Imagery Standards Board (MISB)."
 ext:
   schema_version: v1.1.2
   doctype:

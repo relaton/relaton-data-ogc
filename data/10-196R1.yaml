@@ -1,4 +1,3 @@
----
 id: 10196r1
 schema_version: v1.5.6
 type: standard
@@ -55,8 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This paper explains how to map the Requirements for Aviation Metadata into
-    a metadata profile.
+  content: This paper explains how to map the Requirements for Aviation Metadata into a metadata profile.
 ext:
   schema_version: v1.1.2
   doctype:

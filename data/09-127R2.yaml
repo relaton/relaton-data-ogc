@@ -1,4 +1,3 @@
----
 id: '09127r2'
 schema_version: v1.5.6
 type: standard
@@ -57,10 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This standard defines a protocol for RS232 and Ethernet connected instruments.
-    PUCK addresses installation and configuration challenges for sensors by defining
-    a standard instrument protocol to store and automatically retrieve metadata and
-    other information from the instrument device itself.
+  content: This standard defines a protocol for RS232 and Ethernet connected instruments. PUCK addresses installation and configuration challenges for sensors by defining a standard instrument protocol to store and automatically retrieve metadata and other information from the instrument device itself.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '08059r3'
 schema_version: v1.5.6
 type: standard
@@ -59,14 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OpenGIS® Web Coverage Service Interface Standard (WCS) defines a protocol-independent
-    language for the extraction, processing, and analysis of multi-dimensional gridded
-    [[http://www.opengeospatial.org/ogc/glossary/c | coverages]] representing sensor,
-    image, or statistics data. Services implementing this language provide access
-    to original or derived sets of geospatial coverage information, in forms that
-    are useful for client-side rendering, input into scientific models, and other
-    client applications.\r\n\r\nFurther information about WPCS can be found at the
-    [[http://www.ogcnetwork.net/wcps | WCPS Service]] page of the OGC Network."
+  content: "The OpenGIS® Web Coverage Service Interface Standard (WCS) defines a protocol-independent language for the extraction, processing, and analysis of multi-dimensional gridded [[http://www.opengeospatial.org/ogc/glossary/c | coverages]] representing sensor, image, or statistics data. Services implementing this language provide access to original or derived sets of geospatial coverage information, in forms that are useful for client-side rendering, input into scientific models, and other client applications.\r\n\r\nFurther information about WPCS can be found at the [[http://www.ogcnetwork.net/wcps | WCPS Service]] page of the OGC Network."
 ext:
   schema_version: v1.1.2
   doctype:

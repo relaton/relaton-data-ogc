@@ -1,4 +1,3 @@
----
 id: 18067r3
 schema_version: v1.5.6
 type: standard
@@ -51,11 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document presents the requirements for defining the Symbology Conceptual
-    Core Model (SymCore), the conceptual basis to define symbology rules for the portrayal
-    of geographical data. It is modular and extensible (one core model, many extensions),
-    also encoding agnostic (one symbology model, many encodings). It contains a minimal
-    set of abstract classes representing explicit extension points of the model.
+  content: This document presents the requirements for defining the Symbology Conceptual Core Model (SymCore), the conceptual basis to define symbology rules for the portrayal of geographical data. It is modular and extensible (one core model, many extensions), also encoding agnostic (one symbology model, many encodings). It contains a minimal set of abstract classes representing explicit extension points of the model.
 ext:
   schema_version: v1.1.2
   doctype:

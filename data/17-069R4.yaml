@@ -1,4 +1,3 @@
----
 id: 17069r4
 schema_version: v1.5.6
 type: standard
@@ -77,14 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document specifies the behavior of Web APIs that provide access to
-    features in a dataset in a manner independent of the underlying data store. This
-    standard defines discovery and query operations.\r\n\r\nDiscovery operations enable
-    clients to interrogate the API, including the API definition and metadata about
-    the feature collections provided by the API, to determine the capabilities of
-    the API and retrieve information about available distributions of the dataset.\r\n\r\nQuery
-    operations enable clients to retrieve features from the underlying data store
-    based upon simple selection criteria, defined by the client."
+  content: "This document specifies the behavior of Web APIs that provide access to features in a dataset in a manner independent of the underlying data store. This standard defines discovery and query operations.\r\n\r\nDiscovery operations enable clients to interrogate the API, including the API definition and metadata about the feature collections provided by the API, to determine the capabilities of the API and retrieve information about available distributions of the dataset.\r\n\r\nQuery operations enable clients to retrieve features from the underlying data store based upon simple selection criteria, defined by the client."
 ext:
   schema_version: v1.1.2
   doctype:

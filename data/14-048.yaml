@@ -1,17 +1,14 @@
----
 id: '14048'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Hydro Model Interoperability
-    Engineering Report
+  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Hydro Model Interoperability Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Hydro Model Interoperability
-    Engineering Report
+  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Hydro Model Interoperability Engineering Report
   type: main
 source:
 - type: src
@@ -63,14 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® document gives guidelines for enabling interoperability among
-    different hydro data models and services. The demonstration specifically gives
-    out best practices for supporting interoperability among the National Hydrographic
-    Network (NHN) of Canada, the National Hydrographic Dataset Plus (NHD+) of United
-    States, and the OGC HY_Features model developed and proposed by the World Meteorological
-    Organization (WMO). The discussed version of OGC HY_Features was adopted as the
-    mediation bridge model to exchange information among heterogeneous hydrological
-    models.
+  content: This OGC® document gives guidelines for enabling interoperability among different hydro data models and services. The demonstration specifically gives out best practices for supporting interoperability among the National Hydrographic Network (NHN) of Canada, the National Hydrographic Dataset Plus (NHD+) of United States, and the OGC HY_Features model developed and proposed by the World Meteorological Organization (WMO). The discussed version of OGC HY_Features was adopted as the mediation bridge model to exchange information among heterogeneous hydrological models.
 ext:
   schema_version: v1.1.2
   doctype:

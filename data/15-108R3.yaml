@@ -1,17 +1,14 @@
----
 id: 15108r3
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC MetOcean Application profile for WCS2.1: Part 1 MetOcean GetCorridor
-    Extension'
+  content: 'OGC MetOcean Application profile for WCS2.1: Part 1 MetOcean GetCorridor Extension'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC MetOcean Application profile for WCS2.1: Part 1 MetOcean GetCorridor
-    Extension'
+  content: 'OGC MetOcean Application profile for WCS2.1: Part 1 MetOcean GetCorridor Extension'
   type: main
 source:
 - type: src
@@ -71,11 +68,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of the GetCorridor operation is to extract a corridor based
-    on a trajectory from a multidimensional coverage. The need for the getCorridor
-    operation stems from active members of the OGC MetOcean Domain Working Group (DWG)
-    who saw a manifest need for extraction of such information from gridded datasets.
-    This work has been done by members of the OGC MetOcean Domain Working Group.
+  content: The purpose of the GetCorridor operation is to extract a corridor based on a trajectory from a multidimensional coverage. The need for the getCorridor operation stems from active members of the OGC MetOcean Domain Working Group (DWG) who saw a manifest need for extraction of such information from gridded datasets. This work has been done by members of the OGC MetOcean Domain Working Group.
 ext:
   schema_version: v1.1.2
   doctype:

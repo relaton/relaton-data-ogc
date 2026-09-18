@@ -1,4 +1,3 @@
----
 id: 12077r1
 schema_version: v1.5.6
 type: standard
@@ -57,11 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The reason for developing this specification was a WAMI community requirement
-    to deliver high performance web services and disseminate WAMI products. While
-    existing web services can be combined or modified to deliver some of the functionality
-    of the services described in this document, by design, they cannot deliver the
-    desired performance. '
+  content: 'The reason for developing this specification was a WAMI community requirement to deliver high performance web services and disseminate WAMI products. While existing web services can be combined or modified to deliver some of the functionality of the services described in this document, by design, they cannot deliver the desired performance. '
 ext:
   schema_version: v1.1.2
   doctype:

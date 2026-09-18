@@ -1,17 +1,14 @@
----
 id: '09182r1'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: End to End Discovery and Access Engineering Report GEO Architecture Implementation
-    Pilot, Phase 2
+  content: End to End Discovery and Access Engineering Report GEO Architecture Implementation Pilot, Phase 2
   type: title-main
 - language: en
   script: Latn
-  content: End to End Discovery and Access Engineering Report GEO Architecture Implementation
-    Pilot, Phase 2
+  content: End to End Discovery and Access Engineering Report GEO Architecture Implementation Pilot, Phase 2
   type: main
 source:
 - type: html
@@ -57,17 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Architecture Implementation Pilot, Phase 2 Engineering Report (AIP-2
-    ER) describes the practice of deploying, documenting, and registering contributed
-    resources from the point of view of classes of GEOSS users who rely on GEOSS to
-    support discovery and access to those resources. It emphasizes two paradigms for
-    the GEOSS Common Infrastructure: 1) Service-oriented infrastructure for development
-    of service-based community applications by technically advanced users; and 2)
-    Content-oriented search facility and Web-based access mechanisms for end-users
-    with a range of technical skills and domain knowledge. End-to-end here refers
-    to the bidirectional connection between desired discovery practices and goals
-    on the user end; and the required resource interfaces and documentation on the
-    provider end.'
+  content: 'This Architecture Implementation Pilot, Phase 2 Engineering Report (AIP-2 ER) describes the practice of deploying, documenting, and registering contributed resources from the point of view of classes of GEOSS users who rely on GEOSS to support discovery and access to those resources. It emphasizes two paradigms for the GEOSS Common Infrastructure: 1) Service-oriented infrastructure for development of service-based community applications by technically advanced users; and 2) Content-oriented search facility and Web-based access mechanisms for end-users with a range of technical skills and domain knowledge. End-to-end here refers to the bidirectional connection between desired discovery practices and goals on the user end; and the required resource interfaces and documentation on the provider end.'
 ext:
   schema_version: v1.1.2
   doctype:

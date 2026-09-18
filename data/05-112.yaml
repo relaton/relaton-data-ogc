@@ -1,4 +1,3 @@
----
 id: '05112'
 schema_version: v1.5.6
 type: standard
@@ -53,11 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes Symbology Management System which is a system
-    closely related to OpenGIS Style Management Services (SMS) (described in the document
-    OGC 04-040). Having in mind their identical purpose, the system described in this
-    document will also be referred to as SMS.\r\nThe SMS manages styles and symbols
-    and defines their use in the process of producing maps from source GML data.\r\n"
+  content: "This document describes Symbology Management System which is a system closely related to OpenGIS Style Management Services (SMS) (described in the document OGC 04-040). Having in mind their identical purpose, the system described in this document will also be referred to as SMS.\r\nThe SMS manages styles and symbols and defines their use in the process of producing maps from source GML data.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

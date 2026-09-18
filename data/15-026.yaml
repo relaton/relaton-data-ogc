@@ -1,4 +1,3 @@
----
 id: '15026'
 schema_version: v1.5.6
 type: standard
@@ -65,19 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Developed by EUROCONTROL, the Aviation Feature Schema (AFX) is a template
-    for\r\napplication schemas to implement by adding their operational attributes.
-    For example, the\r\nAirport Mapping format can be implemented by extending AFX.
-    The AFX defines\r\nconcepts of geometry and temporality through predefined classes
-    and properties.\r\nTherefore, these elements need not be redefined by application
-    schemas. This means\r\nimplementations of the AFX abide by the same structure,
-    therefore aiding interoperability\r\nand allowing the rapid development of schemas.
-    The AFX schema is designed to be\r\ngeneric and easily reusable and it is not
-    intended to replace the standard aviation models\r\nsuch as WXXM and AIXM.\r\nThis
-    Engineering Report assesses the suitability of the AFX as a template for lowering\r\nthe
-    GIS entry level for aviation data, providing recommendations of suitability and
-    areas\r\nof improvement. The report is aimed at system and client developers that
-    shall use AFX."
+  content: "Developed by EUROCONTROL, the Aviation Feature Schema (AFX) is a template for\r\napplication schemas to implement by adding their operational attributes. For example, the\r\nAirport Mapping format can be implemented by extending AFX. The AFX defines\r\nconcepts of geometry and temporality through predefined classes and properties.\r\nTherefore, these elements need not be redefined by application schemas. This means\r\nimplementations of the AFX abide by the same structure, therefore aiding interoperability\r\nand allowing the rapid development of schemas. The AFX schema is designed to be\r\ngeneric and easily reusable and it is not intended to replace the standard aviation models\r\nsuch as WXXM and AIXM.\r\nThis Engineering Report assesses the suitability of the AFX as a template for lowering\r\nthe GIS entry level for aviation data, providing recommendations of suitability and areas\r\nof improvement. The report is aimed at system and client developers that shall use AFX."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 06004r4
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Topic 18 - Geospatial Digital Rights Management Reference Model (GeoDRM
-    RM)
+  content: Topic 18 - Geospatial Digital Rights Management Reference Model (GeoDRM RM)
   type: main
 source:
 - type: html
@@ -60,13 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a reference model for digital rights management (DRM)
-    functionality for geospatial resources (GeoDRM). As such, it is connected to the
-    general DRM market in that geospatial resources must be treated as nearly as possible
-    like other digital resources, such as music, text, or services. It is not the
-    intention here to reinvent a market that already exists and is thriving, but to
-    make sure that a larger market has access to geospatial resources through a mechanism
-    that it understands and that is similar to the ones already in use.
+  content: This document is a reference model for digital rights management (DRM) functionality for geospatial resources (GeoDRM). As such, it is connected to the general DRM market in that geospatial resources must be treated as nearly as possible like other digital resources, such as music, text, or services. It is not the intention here to reinvent a market that already exists and is thriving, but to make sure that a larger market has access to geospatial resources through a mechanism that it understands and that is similar to the ones already in use.
 ext:
   schema_version: v1.1.2
   doctype:

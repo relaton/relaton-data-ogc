@@ -1,4 +1,3 @@
----
 id: 18043r3
 schema_version: v1.5.6
 type: standard
@@ -69,17 +68,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Hierarchical Data Format Version 5 (HDF5®) is a data model, a programming
-    interface, and a storage model for keeping and managing data. It supports an unlimited
-    variety of data types, and is designed to be flexible and efficient for large
-    and complex data. HDF5 is extensible via customizing data types, allowing communities
-    and their applications to evolve in the use of HDF5.\r\n\r\nThis document describes
-    the HDF5 data model as an encoding standard particularly suitable to scientific
-    and engineering geospatial applications that employ multidimensional numeric arrays
-    to describe temporally and spatially varying phenomena. The data model is simple
-    yet versatile, capable of supporting complex data relationships and dependencies
-    through its grouping and linking mechanisms. It is also self-describing by accommodating
-    user-defined metadata."
+  content: "Hierarchical Data Format Version 5 (HDF5®) is a data model, a programming interface, and a storage model for keeping and managing data. It supports an unlimited variety of data types, and is designed to be flexible and efficient for large and complex data. HDF5 is extensible via customizing data types, allowing communities and their applications to evolve in the use of HDF5.\r\n\r\nThis document describes the HDF5 data model as an encoding standard particularly suitable to scientific and engineering geospatial applications that employ multidimensional numeric arrays to describe temporally and spatially varying phenomena. The data model is simple yet versatile, capable of supporting complex data relationships and dependencies through its grouping and linking mechanisms. It is also self-describing by accommodating user-defined metadata."
 ext:
   schema_version: v1.1.2
   doctype:

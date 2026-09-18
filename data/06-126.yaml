@@ -1,4 +1,3 @@
----
 id: '06126'
 schema_version: v1.5.6
 type: standard
@@ -53,9 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document establishes Compliance Test Language, an XML grammar for
-    documenting and scripting suites of tests for verifying that an implementation
-    of a specification complies with the specification.
+  content: This document establishes Compliance Test Language, an XML grammar for documenting and scripting suites of tests for verifying that an implementation of a specification complies with the specification.
 ext:
   schema_version: v1.1.2
   doctype:

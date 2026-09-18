@@ -1,17 +1,14 @@
----
 id: '07010'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Revision Notes for Corrigendum for OpenGIS 07-006: Catalogue Services,
-    Version 2.0.2'
+  content: 'Revision Notes for Corrigendum for OpenGIS 07-006: Catalogue Services, Version 2.0.2'
   type: title-main
 - language: en
   script: Latn
-  content: 'Revision Notes for Corrigendum for OpenGIS 07-006: Catalogue Services,
-    Version 2.0.2'
+  content: 'Revision Notes for Corrigendum for OpenGIS 07-006: Catalogue Services, Version 2.0.2'
   type: main
 source:
 - type: html
@@ -55,8 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a corrigendum for OGC Document 04-021r3. All changes described
-    herein are published in OGC Document 07-006r1.
+  content: This document is a corrigendum for OGC Document 04-021r3. All changes described herein are published in OGC Document 07-006r1.
 ext:
   schema_version: v1.1.2
   doctype:

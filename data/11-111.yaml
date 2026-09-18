@@ -1,17 +1,14 @@
----
 id: '11111'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Ordering Services for Earth Observation Products  Adoption Voting Comments
-    and Answers
+  content: Ordering Services for Earth Observation Products  Adoption Voting Comments and Answers
   type: title-main
 - language: en
   script: Latn
-  content: Ordering Services for Earth Observation Products  Adoption Voting Comments
-    and Answers
+  content: Ordering Services for Earth Observation Products  Adoption Voting Comments and Answers
   type: main
 source:
 - type: html
@@ -55,8 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document lists the No votes received during the TC adoption vote (2011-05-03
-    - 2011-07-02) together with the responses from the OSEO SWG.
+  content: This document lists the No votes received during the TC adoption vote (2011-05-03 - 2011-07-02) together with the responses from the OSEO SWG.
 ext:
   schema_version: v1.1.2
   doctype:

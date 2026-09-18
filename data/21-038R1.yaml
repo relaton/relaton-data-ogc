@@ -1,4 +1,3 @@
----
 id: 21038r1
 schema_version: v1.5.6
 type: standard
@@ -71,18 +70,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC API — Discrete Global Grid Systems — Part 1: Core Standard defines
-    requirements that can be implemented and integrated into a deployed Web API. The
-    DGGS API allows to retrieve geospatial data for a specific area, time and resolution
-    of interest, based on a specific DGGRS. Additionally, the DGGS API defines operations
-    to query the list of DGGRS zones from which data is available and/or matching
-    a specified query. Such queries are expressed by combining HTTP query parameters,
-    including the possibility to express more complex filtering queries using the
-    OGC Common Query Language (CQL2).\r\n\r\nReaders are strongly encouraged to first
-    familiarize themselves with the DGGS concepts defined in OGC Abstract Specification
-    Topic 21 laying the foundation for this Standard.\r\n\r\nPlease note that in the
-    remainder of this document, the Standard will be referred to as the “OGC API –
-    DGGS Standard”, “the DGGS API” or “this Standard”."
+  content: "The OGC API — Discrete Global Grid Systems — Part 1: Core Standard defines requirements that can be implemented and integrated into a deployed Web API. The DGGS API allows to retrieve geospatial data for a specific area, time and resolution of interest, based on a specific DGGRS. Additionally, the DGGS API defines operations to query the list of DGGRS zones from which data is available and/or matching a specified query. Such queries are expressed by combining HTTP query parameters, including the possibility to express more complex filtering queries using the OGC Common Query Language (CQL2).\r\n\r\nReaders are strongly encouraged to first familiarize themselves with the DGGS concepts defined in OGC Abstract Specification Topic 21 laying the foundation for this Standard.\r\n\r\nPlease note that in the remainder of this document, the Standard will be referred to as the “OGC API – DGGS Standard”, “the DGGS API” or “this Standard”."
 ext:
   schema_version: v1.1.2
   doctype:

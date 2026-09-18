@@ -1,4 +1,3 @@
----
 id: '12146'
 schema_version: v1.5.6
 type: standard
@@ -55,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is a deliverable of the OGC Web Services (OWS) Initiative
-    - Phase 9 (OWS-9). This Engineering Report summarizes the OWS-9 activity regarding
-    the extension of the Web Feature Service (WFS) and Filter Encoding (FE) standards
-    to support dynamic feature data.\r\nSpecifically this document describes the result
-    work performed in OWS 9 on the WFS Temporality Extension. The technical specification
-    including background is discussed and defined in the OGC Discussion Paper 12-027r1.
-    This document gives a summary about issues, lessons learned, recommendations,
-    accomplishments and benefits for the Aviation Architecture. It also gives an outlook
-    on future work items and change requests. \r\n"
+  content: "This document is a deliverable of the OGC Web Services (OWS) Initiative - Phase 9 (OWS-9). This Engineering Report summarizes the OWS-9 activity regarding the extension of the Web Feature Service (WFS) and Filter Encoding (FE) standards to support dynamic feature data.\r\nSpecifically this document describes the result work performed in OWS 9 on the WFS Temporality Extension. The technical specification including background is discussed and defined in the OGC Discussion Paper 12-027r1. This document gives a summary about issues, lessons learned, recommendations, accomplishments and benefits for the Aviation Architecture. It also gives an outlook on future work items and change requests. \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 16060r2
 schema_version: v1.5.6
 type: standard
@@ -57,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC standard is a profile of the OGC GML Application Schema - Coverages
-    version 1.0 [OC 09-146r2]. That document was renamed OGC Coverage Implementation
-    Schema (CIS) for clarification in version 1.1. This standard specifies the usage
-    of the GRIB2 data format for the encoding of OGC coverages. The GRIB2 specification
-    is maintained by the World Meteorological Organization (WMO) and is the standard
-    encoding for the exchange and storage of general regularly distributed information
-    expressed in binary form.
+  content: This OGC standard is a profile of the OGC GML Application Schema - Coverages version 1.0 [OC 09-146r2]. That document was renamed OGC Coverage Implementation Schema (CIS) for clarification in version 1.1. This standard specifies the usage of the GRIB2 data format for the encoding of OGC coverages. The GRIB2 specification is maintained by the World Meteorological Organization (WMO) and is the standard encoding for the exchange and storage of general regularly distributed information expressed in binary form.
 ext:
   schema_version: v1.1.2
   doctype:

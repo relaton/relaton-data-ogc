@@ -1,4 +1,3 @@
----
 id: 23011r1
 schema_version: v1.5.6
 type: standard
@@ -63,15 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the growing commercialization of space there is a need to look beyond
-    the earth and explore the integration of sensors or assets in celestial orbits
-    or in free flight in our solar system. Their exact tracking and localization are
-    becoming increasingly important as space emerges as the newest area in need for
-    standard-based mechanisms for streaming and for data integration from various
-    sensors.\r\n\r\nThis Open Geospatial Consortium (OGC) Testbed 18 3D+ Data Space
-    Object Engineering Report (ER) describes existing standards in terms of their
-    ability to represent a suite of multidimensional Coordinate Reference Systems
-    (CRS) and associated geometries as well as identifies shortfalls in these standards."
+  content: "With the growing commercialization of space there is a need to look beyond the earth and explore the integration of sensors or assets in celestial orbits or in free flight in our solar system. Their exact tracking and localization are becoming increasingly important as space emerges as the newest area in need for standard-based mechanisms for streaming and for data integration from various sensors.\r\n\r\nThis Open Geospatial Consortium (OGC) Testbed 18 3D+ Data Space Object Engineering Report (ER) describes existing standards in terms of their ability to represent a suite of multidimensional Coordinate Reference Systems (CRS) and associated geometries as well as identifies shortfalls in these standards."
 ext:
   schema_version: v1.1.2
   doctype:

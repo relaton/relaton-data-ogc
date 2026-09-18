@@ -1,4 +1,3 @@
----
 id: '09031r1'
 schema_version: v1.5.6
 type: standard
@@ -55,17 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® document is an OGC Engineering Report for the “Harmonization
-    of SWE Information Models” activity within the OWS-6 SWE thread.\r\nThe document
-    discusses relations between OGC standards SensorML, SWE Common and GML and investigates
-    solutions for increased synergy between these standards. This activity also created
-    UML models of the data types used in SWE and GML.\r\nThis report shows how UncertML
-    can be integrated into different SWE encodings, namely SWE Common and Observations
-    and Measurements.\r\nThis report further discusses the integration of MathML and
-    EML into the SWE environment with an emphasis on SensorML processes and processing.\r\nThis
-    document does not discuss the SWE information model related aspects of catalog
-    entries for sensor services and discovery. This topic is covered in a separate
-    Engineering Report.\r\n"
+  content: "This OGC® document is an OGC Engineering Report for the “Harmonization of SWE Information Models” activity within the OWS-6 SWE thread.\r\nThe document discusses relations between OGC standards SensorML, SWE Common and GML and investigates solutions for increased synergy between these standards. This activity also created UML models of the data types used in SWE and GML.\r\nThis report shows how UncertML can be integrated into different SWE encodings, namely SWE Common and Observations and Measurements.\r\nThis report further discusses the integration of MathML and EML into the SWE environment with an emphasis on SensorML processes and processing.\r\nThis document does not discuss the SWE information model related aspects of catalog entries for sensor services and discovery. This topic is covered in a separate Engineering Report.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

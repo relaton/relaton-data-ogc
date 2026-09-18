@@ -1,4 +1,3 @@
----
 id: '11114'
 schema_version: v1.5.6
 type: standard
@@ -65,8 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document provides an overview of the File Geodatabase  API and documents
-    the testing performed in the OWS 8 Testbed.
+  content: This document provides an overview of the File Geodatabase  API and documents the testing performed in the OWS 8 Testbed.
 ext:
   schema_version: v1.1.2
   doctype:

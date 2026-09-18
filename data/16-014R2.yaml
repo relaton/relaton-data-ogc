@@ -1,17 +1,14 @@
----
 id: 16014r2
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
-    Architecture Engineering Report
+  content: Incident Management Information Sharing (IMIS) Internet of Things (IoT) Architecture Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: Incident Management Information Sharing (IMIS) Internet of Things (IoT)
-    Architecture Engineering Report
+  content: Incident Management Information Sharing (IMIS) Internet of Things (IoT) Architecture Engineering Report
   type: main
 source:
 - type: src
@@ -65,17 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Incident Management Information Sharing (IMIS) Internet of Things
-    (IoT) Pilot established the following objectives.\r\n•\tApply Open Geospatial
-    Consortium (OGC) principles and practices for collaborative development to existing
-    standards and technology to prototype an IoT approach to sensor use for incident
-    management. \r\n•\tEmploy an agile methodology for collaborative development of
-    system designs, specifications, software and hardware components of an IoT-inspired
-    IMIS sensor capability. \r\n•\tDevelop profiles and extensions of existing Sensor
-    Web Enablement (SWE) and other distributed computing standards to provide a basis
-    for future IMIS sensor and observation interoperability. \r\n•\tPrototype capabilities
-    documented in engineering reports and demonstrated in a realistic incident management
-    scenario. \r\n"
+  content: "The Incident Management Information Sharing (IMIS) Internet of Things (IoT) Pilot established the following objectives.\r\n•\tApply Open Geospatial Consortium (OGC) principles and practices for collaborative development to existing standards and technology to prototype an IoT approach to sensor use for incident management. \r\n•\tEmploy an agile methodology for collaborative development of system designs, specifications, software and hardware components of an IoT-inspired IMIS sensor capability. \r\n•\tDevelop profiles and extensions of existing Sensor Web Enablement (SWE) and other distributed computing standards to provide a basis for future IMIS sensor and observation interoperability. \r\n•\tPrototype capabilities documented in engineering reports and demonstrated in a realistic incident management scenario. \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

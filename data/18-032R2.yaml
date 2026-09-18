@@ -1,17 +1,14 @@
----
 id: 18032r2
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
-    Report'
+  content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering
-    Report'
+  content: 'OGC Testbed-14: Application Schema-based Ontology Development Engineering Report'
   type: main
 source:
 - type: src
@@ -59,11 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This report enhances the understanding of the relationships between application
-    schemas based on the Unified Modeling Language (UML) and ontologies based on the
-    Web Ontology Language (OWL). The work documented in this report provides and improves
-    tools and principled techniques for the development of Resource Description Framework
-    (RDF) based schemas from ISO 19109-conformant application schemas.
+  content: This report enhances the understanding of the relationships between application schemas based on the Unified Modeling Language (UML) and ontologies based on the Web Ontology Language (OWL). The work documented in this report provides and improves tools and principled techniques for the development of Resource Description Framework (RDF) based schemas from ISO 19109-conformant application schemas.
 ext:
   schema_version: v1.1.2
   doctype:

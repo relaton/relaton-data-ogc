@@ -1,4 +1,3 @@
----
 id: 16010r3
 schema_version: v1.5.6
 type: standard
@@ -57,12 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This CDB Volume provides Guidelines, Clarifications, Rationales, Primers,
-    and additional information for the definition and use of various models that can
-    be stored in a CDB compliant data store.\r\nPlease note that the term “lineal”
-    has been replaced with the term “line” or “linear” throughout this document\r\nPlease
-    note that the term “areal” has been replaced with the term “polygon” throughout
-    this document.\r\n"
+  content: "This CDB Volume provides Guidelines, Clarifications, Rationales, Primers, and additional information for the definition and use of various models that can be stored in a CDB compliant data store.\r\nPlease note that the term “lineal” has been replaced with the term “line” or “linear” throughout this document\r\nPlease note that the term “areal” has been replaced with the term “polygon” throughout this document.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

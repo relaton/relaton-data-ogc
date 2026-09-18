@@ -1,4 +1,3 @@
----
 id: '13068'
 schema_version: v1.5.6
 type: standard
@@ -55,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC discussion paper presents an OpenSearch query protocol extension
-    for the\r\nexecution of correlation queries between different Search Feeds. Services
-    that support the\r\nOpenSearch Specification and Correlation extension defined
-    in this document are called\r\nOpenSearch Correlation Services. With the proposed
-    extensions it will be possible to\r\nexecute distributed queries with correlation
-    and search criteria defining the results\r\naggregation."
+  content: "This OGC discussion paper presents an OpenSearch query protocol extension for the\r\nexecution of correlation queries between different Search Feeds. Services that support the\r\nOpenSearch Specification and Correlation extension defined in this document are called\r\nOpenSearch Correlation Services. With the proposed extensions it will be possible to\r\nexecute distributed queries with correlation and search criteria defining the results\r\naggregation."
 ext:
   schema_version: v1.1.2
   doctype:

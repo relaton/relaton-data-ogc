@@ -1,4 +1,3 @@
----
 id: '20018'
 schema_version: v1.5.6
 type: standard
@@ -55,19 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Testbed-16 Machine Learning (ML) Training Data Engineering Report
-    (ER) describes training data used for developing a Wildfire Response application.
-    Within the context of the application, this ER discusses the challenges and makes
-    a set of recommendations. The two scenarios for the wildfire use case include
-    fuel load estimation and water body identification. The ML training data described
-    in this ER are based on these two scenarios. Suggestions are also made for future
-    work on a model for ML training dataset metadata, which is intended to provide
-    vital information on the data and therefore facilitate the uptake of training
-    data by the ML community. Additionally, this ER summarizes the discussions and
-    issues about ML training data among the Testbed-16 ML thread participants and
-    draws conclusions and recommendations for future work on the subject. Finally,
-    this ER also links to current Analysis Ready Data (ARD) principles and efforts,
-    in particular in the Earth Observation (EO) community.
+  content: The OGC Testbed-16 Machine Learning (ML) Training Data Engineering Report (ER) describes training data used for developing a Wildfire Response application. Within the context of the application, this ER discusses the challenges and makes a set of recommendations. The two scenarios for the wildfire use case include fuel load estimation and water body identification. The ML training data described in this ER are based on these two scenarios. Suggestions are also made for future work on a model for ML training dataset metadata, which is intended to provide vital information on the data and therefore facilitate the uptake of training data by the ML community. Additionally, this ER summarizes the discussions and issues about ML training data among the Testbed-16 ML thread participants and draws conclusions and recommendations for future work on the subject. Finally, this ER also links to current Analysis Ready Data (ARD) principles and efforts, in particular in the Earth Observation (EO) community.
 ext:
   schema_version: v1.1.2
   doctype:

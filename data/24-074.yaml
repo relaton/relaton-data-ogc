@@ -1,17 +1,14 @@
----
 id: '24074'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Climate Disaster and Resilience Pilot 2024: Landslide Demonstrators
-    Report'
+  content: 'OGC Climate Disaster and Resilience Pilot 2024: Landslide Demonstrators Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Climate Disaster and Resilience Pilot 2024: Landslide Demonstrators
-    Report'
+  content: 'OGC Climate Disaster and Resilience Pilot 2024: Landslide Demonstrators Report'
   type: main
 source:
 - type: src
@@ -63,22 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Landslides pose a significant threat, often triggered by extreme weather
-    events like heavy \r\nrainfall or earthquakes, leading to extensive damage and
-    loss of life. Traditional methods for \r\ndetecting and measuring landslides are
-    typically time-consuming and lack accuracy. This report \r\nintroduces Landslideflow,
-    a workflow based on the Common Workflow Language (CWL) \r\ndesigned to improve
-    the detection and measurement of landslides. Utilizing remote sensing \r\ndata,
-    such as satellite images and digital elevation models, Landslideflow generates
-    precise \r\nlandslide displacement maps. The workflow is scalable and cloud-optimized,
-    enabling it to \r\nhandle large data volumes efficiently. Moreover, Landslideflow
-    leverages advanced computer \r\nvision and machine learning techniques to enhance
-    accuracy, offering a robust solution that is \r\neasy to deploy on cloud platforms.
-    As an open-source tool, Landslideflow is freely accessible, \r\nproviding a valuable
-    resource for researchers and practitioners in the field. Landslideflow is a \r\npowerful
-    tool for detecting and measuring landslides. It is accurate, scalable, cloud-optimized,
-    \r\nand open source. Landslideflow can be used by scientists, engineers, and policymakers
-    to better \r\nunderstand and mitigate the risks associated with landslides."
+  content: "Landslides pose a significant threat, often triggered by extreme weather events like heavy \r\nrainfall or earthquakes, leading to extensive damage and loss of life. Traditional methods for \r\ndetecting and measuring landslides are typically time-consuming and lack accuracy. This report \r\nintroduces Landslideflow, a workflow based on the Common Workflow Language (CWL) \r\ndesigned to improve the detection and measurement of landslides. Utilizing remote sensing \r\ndata, such as satellite images and digital elevation models, Landslideflow generates precise \r\nlandslide displacement maps. The workflow is scalable and cloud-optimized, enabling it to \r\nhandle large data volumes efficiently. Moreover, Landslideflow leverages advanced computer \r\nvision and machine learning techniques to enhance accuracy, offering a robust solution that is \r\neasy to deploy on cloud platforms. As an open-source tool, Landslideflow is freely accessible, \r\nproviding a valuable resource for researchers and practitioners in the field. Landslideflow is a \r\npowerful tool for detecting and measuring landslides. It is accurate, scalable, cloud-optimized, \r\nand open source. Landslideflow can be used by scientists, engineers, and policymakers to better \r\nunderstand and mitigate the risks associated with landslides."
 ext:
   schema_version: v1.1.2
   doctype:

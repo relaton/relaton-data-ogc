@@ -1,4 +1,3 @@
----
 id: '12155'
 schema_version: v1.5.6
 type: standard
@@ -67,13 +66,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Engineering Report is prepared as a deliverable for the OGC Web Services,
-    Phase 9 (OWS-9) initiatitive of the Innovations Coverages Sub-Thread. This document
-    represents the OWS-9 OWS Innovations WCS for LIDAR Engineering Report. In this
-    report, the implementation of WCS 2.0 service that serves the LIDAR data in NITF
-    format is introduced. This service supports the JPEG 2000 output format along
-    with GMLJP2 metadata description as well as the JPIP protocol to deliver the output
-    JPEG2000 data. '
+  content: 'This Engineering Report is prepared as a deliverable for the OGC Web Services, Phase 9 (OWS-9) initiatitive of the Innovations Coverages Sub-Thread. This document represents the OWS-9 OWS Innovations WCS for LIDAR Engineering Report. In this report, the implementation of WCS 2.0 service that serves the LIDAR data in NITF format is introduced. This service supports the JPEG 2000 output format along with GMLJP2 metadata description as well as the JPIP protocol to deliver the output JPEG2000 data. '
 ext:
   schema_version: v1.1.2
   doctype:

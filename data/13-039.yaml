@@ -1,17 +1,14 @@
----
 id: '13039'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best
-    Practice'
+  content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best Practice'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best
-    Practice'
+  content: 'OGC® OpenSearch Extension for Earth Observation Satellite Tasking: Best Practice'
   type: main
 source:
 - type: src
@@ -63,17 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document provides a specification of an OpenSearch extension for
-    Earth Observation Satellites Tasking.\r\n\r\nThis OGC Best Practice is intended
-    to provide a very simple way to task Earth Observation (EO) satellites sensors,
-    to allow simple syndication between, and to provide a basic federated query of
-    related sensors, whereby a single client can query several instances and present
-    a collection of future acquisition as one set.\r\n\r\nThis document is the result
-    of work undertaken within the European Space Agency (ESA) Heterogeneous Mission
-    Accessibility for Science (HMA-S) project funded by ESA the Long Term Data Preservation
-    (LTDP) program.\r\n\r\nThe document was initially produced during the ESA HMA
-    (Heterogeneous Missions Accessibility) initiative (see ‘Normative References’
-    section) related projects."
+  content: "This document provides a specification of an OpenSearch extension for Earth Observation Satellites Tasking.\r\n\r\nThis OGC Best Practice is intended to provide a very simple way to task Earth Observation (EO) satellites sensors, to allow simple syndication between, and to provide a basic federated query of related sensors, whereby a single client can query several instances and present a collection of future acquisition as one set.\r\n\r\nThis document is the result of work undertaken within the European Space Agency (ESA) Heterogeneous Mission Accessibility for Science (HMA-S) project funded by ESA the Long Term Data Preservation (LTDP) program.\r\n\r\nThe document was initially produced during the ESA HMA (Heterogeneous Missions Accessibility) initiative (see ‘Normative References’ section) related projects."
 ext:
   schema_version: v1.1.2
   doctype:

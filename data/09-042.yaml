@@ -1,4 +1,3 @@
----
 id: '09042'
 schema_version: v1.5.6
 type: standard
@@ -59,8 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document present an extension of the Symbology Encoding (SE) /Styled
-    Layer Descriptor (SLD) specifications into 3D as a separate profile.
+  content: This document present an extension of the Symbology Encoding (SE) /Styled Layer Descriptor (SLD) specifications into 3D as a separate profile.
 ext:
   schema_version: v1.1.2
   doctype:

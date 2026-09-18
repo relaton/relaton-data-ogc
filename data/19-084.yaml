@@ -1,17 +1,14 @@
----
 id: '19084'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
-    Report'
+  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
-    Report'
+  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering Report'
   type: main
 source:
 - type: src
@@ -57,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
-    Report (ER) defines a filter language for vector data delivered as tiles (also
-    known as vector tiles). The language applies to vector tiles served through implementations
-    of the OGC API – Features standard and the draft OGC API - Tiles specification,
-    but can be generally applied on all services supporting filtering by attributes.\r\n\r\nThe
-    ER further includes an assessment of filter languages, styles and online/offline
-    symbol sharing for GeoPackages, OGC API - Features and OGC API - Tiles implementations
-    for accuracy and completeness in applications that render vector tiles at local
-    to regional scales."
+  content: "The OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering Report (ER) defines a filter language for vector data delivered as tiles (also known as vector tiles). The language applies to vector tiles served through implementations of the OGC API – Features standard and the draft OGC API - Tiles specification, but can be generally applied on all services supporting filtering by attributes.\r\n\r\nThe ER further includes an assessment of filter languages, styles and online/offline symbol sharing for GeoPackages, OGC API - Features and OGC API - Tiles implementations for accuracy and completeness in applications that render vector tiles at local to regional scales."
 ext:
   schema_version: v1.1.2
   doctype:

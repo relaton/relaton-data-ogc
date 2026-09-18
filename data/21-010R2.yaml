@@ -1,4 +1,3 @@
----
 id: 21010r2
 schema_version: v1.5.6
 type: standard
@@ -79,21 +78,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The OGC IndoorGML standard provides a fundamental data model for representing
-    indoor spaces as spatial, topological, and semantic features. The IndoorGML core
-    module allows applications to extend the model with their semantic considerations.
-    For example, the IndoorGML navigation module classifies the basic class of indoor
-    spaces, cell spaces, into navigable or non-navigable spaces. Navigable spaces,
-    in which users can move freely, are specified in two subclasses: transfer spaces
-    (e.g. doors, entrances, hallways) and general spaces (e.g. rooms, terraces, lobbies),
-    based on indoor navigation requirements. This discussion paper proposes an extension
-    to the OGC IndoorGML core module to support new types of location-based services,
-    such as autonomous driving robots, personal experience augmentation with augmented
-    reality (AR) / virtual reality (VR), and facilities management, to understand
-    activities and needs in indoor spaces. The proposed extension consists of three
-    new indoor spaces to represent affordance spaces with structural, functional,
-    and sensory characteristics by leveraging the multi-layered space representation
-    of IndoorGML.'
+  content: 'The OGC IndoorGML standard provides a fundamental data model for representing indoor spaces as spatial, topological, and semantic features. The IndoorGML core module allows applications to extend the model with their semantic considerations. For example, the IndoorGML navigation module classifies the basic class of indoor spaces, cell spaces, into navigable or non-navigable spaces. Navigable spaces, in which users can move freely, are specified in two subclasses: transfer spaces (e.g. doors, entrances, hallways) and general spaces (e.g. rooms, terraces, lobbies), based on indoor navigation requirements. This discussion paper proposes an extension to the OGC IndoorGML core module to support new types of location-based services, such as autonomous driving robots, personal experience augmentation with augmented reality (AR) / virtual reality (VR), and facilities management, to understand activities and needs in indoor spaces. The proposed extension consists of three new indoor spaces to represent affordance spaces with structural, functional, and sensory characteristics by leveraging the multi-layered space representation of IndoorGML.'
 ext:
   schema_version: v1.1.2
   doctype:

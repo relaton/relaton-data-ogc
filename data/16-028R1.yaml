@@ -1,4 +1,3 @@
----
 id: 16028r1
 schema_version: v1.5.6
 type: standard
@@ -57,26 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The FAA and EUROCONTROL, in conjunction with multiple other international
-    partners, are currently in the process of developing the Flight Information Exchange
-    Model (FIXM). FIXM is an exchange model capturing Flight and Flow information
-    that is globally standardized. The need for FIXM was identified by the International
-    Civil Aviation Organization (ICAO) Air Traffic Management Requirements and Performance
-    Panel (ATMRPP) in order to support the exchange of flight information as prescribed
-    in Flight and Flow Information for a Collaborative Environment (FF-ICE).\r\n\r\nFIXM
-    is the equivalent, for the Flight domain, of Aeronautical Information Exchange
-    Model (AIXM) and Weather Information Exchange Model (WXXM), both of which were
-    developed in order to achieve global interoperability for, respectively, Aeronautical
-    Information Systems (AIS) and Meteorological Information (MET) exchange. FIXM
-    is therefore part of a family of technology independent, harmonized and interoperable
-    information exchange models designed to cover the information needs of Air Traffic
-    Management. Previous OGC IP initiatives developed an architecture that supports
-    the exchange of AIXM and WXXM data. This report shall describe the integration
-    of Geography Markup Language (GML) profile elements into FIXM, specifically, the
-    Feature, Time, Geometries and Units of Measure (UOM), into FIXM version 3.0.1
-    and drafts of FIXM 4.0. The purpose of this report is to provide recommendations
-    and change requests (CR) on the implementation of GML elements for use by the
-    FIXM development community."
+  content: "The FAA and EUROCONTROL, in conjunction with multiple other international partners, are currently in the process of developing the Flight Information Exchange Model (FIXM). FIXM is an exchange model capturing Flight and Flow information that is globally standardized. The need for FIXM was identified by the International Civil Aviation Organization (ICAO) Air Traffic Management Requirements and Performance Panel (ATMRPP) in order to support the exchange of flight information as prescribed in Flight and Flow Information for a Collaborative Environment (FF-ICE).\r\n\r\nFIXM is the equivalent, for the Flight domain, of Aeronautical Information Exchange Model (AIXM) and Weather Information Exchange Model (WXXM), both of which were developed in order to achieve global interoperability for, respectively, Aeronautical Information Systems (AIS) and Meteorological Information (MET) exchange. FIXM is therefore part of a family of technology independent, harmonized and interoperable information exchange models designed to cover the information needs of Air Traffic Management. Previous OGC IP initiatives developed an architecture that supports the exchange of AIXM and WXXM data. This report shall describe the integration of Geography Markup Language (GML) profile elements into FIXM, specifically, the Feature, Time, Geometries and Units of Measure (UOM), into FIXM version 3.0.1 and drafts of FIXM 4.0. The purpose of this report is to provide recommendations and change requests (CR) on the implementation of GML elements for use by the FIXM development community."
 ext:
   schema_version: v1.1.2
   doctype:

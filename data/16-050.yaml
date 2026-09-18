@@ -1,4 +1,3 @@
----
 id: '16050'
 schema_version: v1.5.6
 type: standard
@@ -55,20 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The scenario of rapidly growing geodata catalogues requires tools focused
-    on facilitating users the choice of products. Having populated quality fields
-    in metadata allows the users to rank and then select the best fit-for-purpose
-    products. For example, decision-makers would be able to find quality and uncertainty
-    measures to take the best decisions as well as to perform dataset intercomparison.
-    In addition, it allows other components (such as visualization, discovery, or
-    comparison tools) to be quality-aware and interoperable.\r\n\r\nThis ER deals
-    with completeness, logical consistency, positional accuracy, temporal accuracy
-    and thematic accuracy issues to improve quality description in the metadata for
-    imagery. Based on ISO 19157, UncertML and QualityML standardized measures, this
-    ER describes how to encode quality measures in order to allow datasets comparison.
-    Moreover, description of pixel-level quality measures is also included. Finally,
-    alternatives to communicate tile level quality as well as mosaic products quality
-    are proposed."
+  content: "The scenario of rapidly growing geodata catalogues requires tools focused on facilitating users the choice of products. Having populated quality fields in metadata allows the users to rank and then select the best fit-for-purpose products. For example, decision-makers would be able to find quality and uncertainty measures to take the best decisions as well as to perform dataset intercomparison. In addition, it allows other components (such as visualization, discovery, or comparison tools) to be quality-aware and interoperable.\r\n\r\nThis ER deals with completeness, logical consistency, positional accuracy, temporal accuracy and thematic accuracy issues to improve quality description in the metadata for imagery. Based on ISO 19157, UncertML and QualityML standardized measures, this ER describes how to encode quality measures in order to allow datasets comparison. Moreover, description of pixel-level quality measures is also included. Finally, alternatives to communicate tile level quality as well as mosaic products quality are proposed."
 ext:
   schema_version: v1.1.2
   doctype:

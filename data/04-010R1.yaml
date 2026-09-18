@@ -1,4 +1,3 @@
----
 id: 04010r1
 schema_version: v1.5.6
 type: standard
@@ -55,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A Geolinked Data Access Service (GDAS) provides a way to publish and access
-    data that refers to spatial features (e.g. population data for countries).  A
-    GDAS can expose data from non-GIS databases so that it can be manipulated and
-    mapped with the aid of a Geolinking Service.
+  content: A Geolinked Data Access Service (GDAS) provides a way to publish and access data that refers to spatial features (e.g. population data for countries).  A GDAS can expose data from non-GIS databases so that it can be manipulated and mapped with the aid of a Geolinking Service.
 ext:
   schema_version: v1.1.2
   doctype:

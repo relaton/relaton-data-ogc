@@ -1,4 +1,3 @@
----
 id: '14000'
 schema_version: v1.5.6
 type: standard
@@ -55,17 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This activity is part of OGC Testbed 10. The aviation thread was focused
-    on developing\r\nand demonstrating the use of the Aeronautical Information Exchange
-    Model (AIXM) and\r\nthe Flight Information Exchange Model (FIXM), building on
-    the work accomplished in\r\nprior testbeds to advance the applications of OGC
-    Web Services standards in next generation\r\nair traffic management systems to
-    support European and US aviation modernization\r\nprograms\r\nThis document summarizes
-    technical work relating to the enhancement of the GML 3.2.1\r\nconformance test
-    suite in accord with the requirements in the OWS-10 RFQ, Annex B1,\r\nsection
-    6.3.6: “GML for Aviation Compliance Test Suite + GML for Aviation Conformance\r\nTesting
-    ER”. The essential aim is to advance compliance with respect to the use of\r\nGML
-    geometry representations in aviation (AIXM) data."
+  content: "This activity is part of OGC Testbed 10. The aviation thread was focused on developing\r\nand demonstrating the use of the Aeronautical Information Exchange Model (AIXM) and\r\nthe Flight Information Exchange Model (FIXM), building on the work accomplished in\r\nprior testbeds to advance the applications of OGC Web Services standards in next generation\r\nair traffic management systems to support European and US aviation modernization\r\nprograms\r\nThis document summarizes technical work relating to the enhancement of the GML 3.2.1\r\nconformance test suite in accord with the requirements in the OWS-10 RFQ, Annex B1,\r\nsection 6.3.6: “GML for Aviation Compliance Test Suite + GML for Aviation Conformance\r\nTesting ER”. The essential aim is to advance compliance with respect to the use of\r\nGML geometry representations in aviation (AIXM) data."
 ext:
   schema_version: v1.1.2
   doctype:

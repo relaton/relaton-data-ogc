@@ -1,4 +1,3 @@
----
 id: '10087'
 schema_version: v1.5.6
 type: standard
@@ -59,17 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Motion Imagery Discovery and Retrieval Engineering Report (ER) documents
-    the metadata used to tag geolocation of Motion Imagery (MI) for discovery, retrieval
-    and linkage with other data sources over the same location, especially the metadata
-    information required to geometrically co-register multiple motion images at pixel
-    level so that data recorded at different times (e.g., different days) and/or by
-    different providers for common or overlapped FOVs can be compared and pixel level
-    changes among the different images can be accurately detected and delineated.  This
-    ER reflects one of the achievements during the OWS 7 Sensor Fusion Enablement
-    (SFE) thread, which builds on the OGC Sensor Web Enablement framework that has
-    achieved a degree of maturity through previous OWS interoperability initiatives
-    and deployments worldwide. '
+  content: 'This Motion Imagery Discovery and Retrieval Engineering Report (ER) documents the metadata used to tag geolocation of Motion Imagery (MI) for discovery, retrieval and linkage with other data sources over the same location, especially the metadata information required to geometrically co-register multiple motion images at pixel level so that data recorded at different times (e.g., different days) and/or by different providers for common or overlapped FOVs can be compared and pixel level changes among the different images can be accurately detected and delineated.  This ER reflects one of the achievements during the OWS 7 Sensor Fusion Enablement (SFE) thread, which builds on the OGC Sensor Web Enablement framework that has achieved a degree of maturity through previous OWS interoperability initiatives and deployments worldwide. '
 ext:
   schema_version: v1.1.2
   doctype:

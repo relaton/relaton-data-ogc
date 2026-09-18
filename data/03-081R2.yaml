@@ -1,4 +1,3 @@
----
 id: '03081r2'
 schema_version: v1.5.6
 type: standard
@@ -55,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is a companion specification to the OpenGIS Web Map Service
-    Interface Implementation Specification version 1.1.1 [4], hereinafter WMS 1.1.1.
-    \r\nWMS 1.1.1 specifies how individual map servers describe and provide their
-    map content.  The present Web Terrain Service specification describes a new operation,
-    GetView, and extended Capabilities which allow a 3D terrain view image to be requested,
-    given a map composition, a terrain model on which to drape the map, and a 3D viewpoint
-    from which to render the terrain view. A simple attempt is also made to reconcile
-    2D and 3D viewpoints by allowing the requested 3D area of view to be approximated
-    with a WMS 1.1.1 bounding box"
+  content: "This document is a companion specification to the OpenGIS Web Map Service Interface Implementation Specification version 1.1.1 [4], hereinafter WMS 1.1.1. \r\nWMS 1.1.1 specifies how individual map servers describe and provide their map content.  The present Web Terrain Service specification describes a new operation, GetView, and extended Capabilities which allow a 3D terrain view image to be requested, given a map composition, a terrain model on which to drape the map, and a 3D viewpoint from which to render the terrain view. A simple attempt is also made to reconcile 2D and 3D viewpoints by allowing the requested 3D area of view to be approximated with a WMS 1.1.1 bounding box"
 status:
   stage:
     content: draft

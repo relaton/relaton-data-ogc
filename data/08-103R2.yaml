@@ -1,4 +1,3 @@
----
 id: '08103r2'
 schema_version: v1.5.6
 type: standard
@@ -59,13 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document is an abstract test suite (ATS): a compendium of abstract
-    test cases pertaining to implementations of the CSW-ebRIM 1.0 catalogue profile.
-    It provides a basis for developing an executable test suite (ETS) to verify that
-    the implementation under test (IUT) conforms to all relevant functional specifications.
-    While passing all of the conformance tests defined in this ATS provides some assurance
-    of overall functional correctness, it cannot guarantee that an implementation
-    is faultless.'
+  content: 'This document is an abstract test suite (ATS): a compendium of abstract test cases pertaining to implementations of the CSW-ebRIM 1.0 catalogue profile. It provides a basis for developing an executable test suite (ETS) to verify that the implementation under test (IUT) conforms to all relevant functional specifications. While passing all of the conformance tests defined in this ATS provides some assurance of overall functional correctness, it cannot guarantee that an implementation is faultless.'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '14001'
 schema_version: v1.5.6
 type: standard
@@ -61,15 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The provenance activities reported in this document were part of the OGC
-    Testbed 10\r\nCross Community Interoperability (CCI) thread. This OGC® document
-    gives guidelines\r\nfor the capture and documentation of provenance information
-    at dataset, feature and\r\nattribute level. It only considers vector features
-    (mainly, points and lines) and does not\r\nelaborate on the coverage data model
-    (so it does not talk about provenance of raster\r\ninformation). It proposes an
-    approach to use the W3C PROV standard with geospatial\r\ninformation that can
-    come from different sources and are integrated through different\r\nprocessing
-    steps. It also reviews the applicability of ISO19115 and ISO19115-2 lineage."
+  content: "The provenance activities reported in this document were part of the OGC Testbed 10\r\nCross Community Interoperability (CCI) thread. This OGC® document gives guidelines\r\nfor the capture and documentation of provenance information at dataset, feature and\r\nattribute level. It only considers vector features (mainly, points and lines) and does not\r\nelaborate on the coverage data model (so it does not talk about provenance of raster\r\ninformation). It proposes an approach to use the W3C PROV standard with geospatial\r\ninformation that can come from different sources and are integrated through different\r\nprocessing steps. It also reviews the applicability of ISO19115 and ISO19115-2 lineage."
 ext:
   schema_version: v1.1.2
   doctype:

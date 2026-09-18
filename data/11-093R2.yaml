@@ -1,4 +1,3 @@
----
 id: 11093r2
 schema_version: v1.5.6
 type: standard
@@ -57,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® document describes the architecture implemented in the OWS-8
-    Aviation thread, including general workflows. The document contains a summary
-    description of the various components within the architecture. An introduction
-    to the Access Control System is provided. Furthermore, the document describes
-    relevant aspects of handling events and notifications. Lessons learned – for example
-    regarding the AIXM Temporality Model – as well as scenarios and accomplishments
-    are documented as well.
+  content: This OGC® document describes the architecture implemented in the OWS-8 Aviation thread, including general workflows. The document contains a summary description of the various components within the architecture. An introduction to the Access Control System is provided. Furthermore, the document describes relevant aspects of handling events and notifications. Lessons learned – for example regarding the AIXM Temporality Model – as well as scenarios and accomplishments are documented as well.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 16039r2
 schema_version: v1.5.6
 type: standard
@@ -57,20 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This engineering report examines the role of geospatial semantic technology
-    in the domain of civil aviation. Many aeronautical services (providing information
-    on request or processing the data) are based on OGC Web Service specifications.
-    A number of aeronautical services possess geospatial attributes. The aviation
-    services follow OWS Common Service requirements but also have domain specific
-    capabilities. Services metadata is often very relevant for service consumption,
-    especially in the SOA environment of aviation’s System Wide Information Management
-    (SWIM). Therefore, it shall be exposed to consumer stakeholders for either design
-    or runtime service discovery in an efficient, standardized way.\r\n\r\nThis ER
-    starts introducing the WSDOM service ontology developed by FAA for semantic service
-    discovery. It proposes several extensions useful for OWS compatible, geospatial
-    aviation services. It combines GeoSPARQL with WSDOM ontology and FAA service classification
-    taxonomies and elaborates the interoperability between ontology based WSDOM and
-    OWS compatible service descriptions."
+  content: "This engineering report examines the role of geospatial semantic technology in the domain of civil aviation. Many aeronautical services (providing information on request or processing the data) are based on OGC Web Service specifications. A number of aeronautical services possess geospatial attributes. The aviation services follow OWS Common Service requirements but also have domain specific capabilities. Services metadata is often very relevant for service consumption, especially in the SOA environment of aviation’s System Wide Information Management (SWIM). Therefore, it shall be exposed to consumer stakeholders for either design or runtime service discovery in an efficient, standardized way.\r\n\r\nThis ER starts introducing the WSDOM service ontology developed by FAA for semantic service discovery. It proposes several extensions useful for OWS compatible, geospatial aviation services. It combines GeoSPARQL with WSDOM ontology and FAA service classification taxonomies and elaborates the interoperability between ontology based WSDOM and OWS compatible service descriptions."
 ext:
   schema_version: v1.1.2
   doctype:

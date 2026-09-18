@@ -1,4 +1,3 @@
----
 id: '16020'
 schema_version: v1.5.6
 type: standard
@@ -55,13 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is a deliverable of the OGC Testbed 12. It describes the
-    results of enhancing the tool ShapeChange in the following areas of processing
-    an ISO 19109 conformant application schema:\r\n\r\nCreating a schema profile -
-    to support implementations that focus on a subset of the use cases in scope of
-    the original application schema.\r\n\r\nDeriving an ontology representation of
-    the application schema (using RDF(S)/SKOS/OWL) - to support Semantic Web / Linked
-    Data implementations."
+  content: "This document is a deliverable of the OGC Testbed 12. It describes the results of enhancing the tool ShapeChange in the following areas of processing an ISO 19109 conformant application schema:\r\n\r\nCreating a schema profile - to support implementations that focus on a subset of the use cases in scope of the original application schema.\r\n\r\nDeriving an ontology representation of the application schema (using RDF(S)/SKOS/OWL) - to support Semantic Web / Linked Data implementations."
 ext:
   schema_version: v1.1.2
   doctype:

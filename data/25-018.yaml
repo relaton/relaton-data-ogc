@@ -1,4 +1,3 @@
----
 id: '25018'
 schema_version: v1.5.6
 type: standard
@@ -55,9 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes the BAG format and the conduct of the ONSWG and
-    its\r\nderivatives that maintain the BAG format reference implementation. For\r\ninformation
-    on using the BAG reference implementation, please see the How-to\r\nGuide."
+  content: "This document describes the BAG format and the conduct of the ONSWG and its\r\nderivatives that maintain the BAG format reference implementation. For\r\ninformation on using the BAG reference implementation, please see the How-to\r\nGuide."
 ext:
   schema_version: v1.1.2
   doctype:

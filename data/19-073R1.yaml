@@ -1,4 +1,3 @@
----
 id: 19073r1
 schema_version: v1.5.6
 type: standard
@@ -57,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recent years have seen a significant increase in the use of three-dimensional
-    (3D) data in the Internet of Things (IoT). The goal of the 3D IoT Platform for
-    Smart Cities Pilot was to advance the use of open standards for integrating environmental,
-    building, and IoT data in Smart Cities. Under this initiative a proof of concept
-    (PoC) has been conducted to better understand the capabilities to be supported
-    by a 3D IoT Smart City Platform under the following standards: CityGML, IndoorGML,
-    SensorThings API, 3D Portrayal Service, and 3D Tiles.'
+  content: 'Recent years have seen a significant increase in the use of three-dimensional (3D) data in the Internet of Things (IoT). The goal of the 3D IoT Platform for Smart Cities Pilot was to advance the use of open standards for integrating environmental, building, and IoT data in Smart Cities. Under this initiative a proof of concept (PoC) has been conducted to better understand the capabilities to be supported by a 3D IoT Smart City Platform under the following standards: CityGML, IndoorGML, SensorThings API, 3D Portrayal Service, and 3D Tiles.'
 ext:
   schema_version: v1.1.2
   doctype:

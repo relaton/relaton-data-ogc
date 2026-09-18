@@ -1,4 +1,3 @@
----
 id: '09076r3'
 schema_version: v1.5.6
 type: standard
@@ -59,10 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document first discusses the uses for data sharing, and then provides
-    a brief summary, of OGC Abstract Specification Topic 2: Spatial referencing by
-    coordinates. Topic 2 is almost the same as ISO 19111:2007, but includes some corrections.  This
-    document includes some best practices for using Coordinate Reference Systems (CRSs).'
+  content: 'This document first discusses the uses for data sharing, and then provides a brief summary, of OGC Abstract Specification Topic 2: Spatial referencing by coordinates. Topic 2 is almost the same as ISO 19111:2007, but includes some corrections.  This document includes some best practices for using Coordinate Reference Systems (CRSs).'
 ext:
   schema_version: v1.1.2
   doctype:

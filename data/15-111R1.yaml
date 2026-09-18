@@ -1,4 +1,3 @@
----
 id: 15111r1
 schema_version: v1.5.6
 type: standard
@@ -57,14 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Land and Infrastructure Conceptual Model Standard presents the
-    implementation-independent concepts supporting land and civil engineering infrastructure
-    facilities.  Conceptual model subject areas include facilities, projects, alignment,
-    road, rail, survey, land features, land division, and wet infrastructure (storm
-    drainage, wastewater, and water distribution systems).  The initial release of
-    this standard includes all of these subject areas except wet infrastructure, which
-    is anticipated to be released as a future extension. \r\nThis standard assumes
-    the reader has a basic understanding of surveying and civil engineering concepts.\r\n"
+  content: "This OGC Land and Infrastructure Conceptual Model Standard presents the implementation-independent concepts supporting land and civil engineering infrastructure facilities.  Conceptual model subject areas include facilities, projects, alignment, road, rail, survey, land features, land division, and wet infrastructure (storm drainage, wastewater, and water distribution systems).  The initial release of this standard includes all of these subject areas except wet infrastructure, which is anticipated to be released as a future extension. \r\nThis standard assumes the reader has a basic understanding of surveying and civil engineering concepts.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

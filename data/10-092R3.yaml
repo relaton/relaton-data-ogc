@@ -1,17 +1,14 @@
----
 id: 10092r3
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'NetCDF Binary Encoding Extension Standard: NetCDF Classic and 64-bit Offset
-    Format'
+  content: 'NetCDF Binary Encoding Extension Standard: NetCDF Classic and 64-bit Offset Format'
   type: title-main
 - language: en
   script: Latn
-  content: 'NetCDF Binary Encoding Extension Standard: NetCDF Classic and 64-bit Offset
-    Format'
+  content: 'NetCDF Binary Encoding Extension Standard: NetCDF Classic and 64-bit Offset Format'
   type: main
 source:
 - type: html
@@ -57,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document defines an OGC® Standard for encoding binary representations
-    of space-time varying geo-referenced data. Specifically, this standard specifies
-    the netCDF classic and 64-bit offset file binary encoding formats. This standard
-    specifies a set of requirements that every netCDF classic or 64-bit offset binary
-    encoding must fulfil.
+  content: This document defines an OGC® Standard for encoding binary representations of space-time varying geo-referenced data. Specifically, this standard specifies the netCDF classic and 64-bit offset file binary encoding formats. This standard specifies a set of requirements that every netCDF classic or 64-bit offset binary encoding must fulfil.
 ext:
   schema_version: v1.1.2
   doctype:

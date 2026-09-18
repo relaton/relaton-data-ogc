@@ -1,4 +1,3 @@
----
 id: 16008r1
 schema_version: v1.5.6
 type: standard
@@ -61,18 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "GeoSciML is a model of geological features commonly described and portrayed
-    in geological maps, cross sections, geological reports and databases.  The model
-    was developed by the IUGS CGI (Commission for the Management and Application of
-    Geoscience Information) and version 4.1 is the first version officially submitted
-    as an OGC standard.  This specification describes a logical model and GML/XML
-    encoding rules for the exchange of geological map data, geological time scales,
-    boreholes, and metadata for laboratory analyses.  It includes a Lite model, used
-    for simple map-based applications; a basic model, aligned on INSPIRE, for basic
-    data exchange; and an extended model to address more complex scenarios.  \r\n\r\nThe
-    specification also provides patterns, profiles (most notably of Observations and
-    Measurements - ISO19156), and best practices to deal with common geoscience use
-    cases. \r\n\r\n"
+  content: "GeoSciML is a model of geological features commonly described and portrayed in geological maps, cross sections, geological reports and databases.  The model was developed by the IUGS CGI (Commission for the Management and Application of Geoscience Information) and version 4.1 is the first version officially submitted as an OGC standard.  This specification describes a logical model and GML/XML encoding rules for the exchange of geological map data, geological time scales, boreholes, and metadata for laboratory analyses.  It includes a Lite model, used for simple map-based applications; a basic model, aligned on INSPIRE, for basic data exchange; and an extended model to address more complex scenarios.  \r\n\r\nThe specification also provides patterns, profiles (most notably of Observations and Measurements - ISO19156), and best practices to deal with common geoscience use cases. \r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

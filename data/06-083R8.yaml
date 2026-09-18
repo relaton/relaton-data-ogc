@@ -1,4 +1,3 @@
----
 id: '06083r8'
 schema_version: v1.5.6
 type: standard
@@ -55,8 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The Web Coverage Service (WCS) supports electronic retrieval of geospatial
-    data as coverages '
+  content: 'The Web Coverage Service (WCS) supports electronic retrieval of geospatial data as coverages '
 ext:
   schema_version: v1.1.2
   doctype:

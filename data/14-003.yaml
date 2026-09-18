@@ -1,4 +1,3 @@
----
 id: '14003'
 schema_version: v1.5.6
 type: standard
@@ -61,12 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Best Practice describes how to configure XML documents for single
-    and time series water quality measurements.  In addition to stating the rules
-    for using the O&M and WML 2 standards, along with the appropriate content ontologies,
-    this Best Practice provides guidance through examples. This document is intended
-    to complement WaterML 2.0 as part of a suite of standards for water observation
-    data.
+  content: This Best Practice describes how to configure XML documents for single and time series water quality measurements.  In addition to stating the rules for using the O&M and WML 2 standards, along with the appropriate content ontologies, this Best Practice provides guidance through examples. This document is intended to complement WaterML 2.0 as part of a suite of standards for water observation data.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '18009'
 schema_version: v1.5.6
 type: standard
@@ -77,21 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Open Geospatial Consortium (OGC) and the Department of Science & Technology
-    (DST) under the Government of India conducted the OGC India Plugfest 2017 (OIP-2017).
-    The OIP-2017 was targeted at enhancing the interoperability among geospatial products
-    and web services based on OGC standards within the Indian Geospatial Information
-    (GI) community. The successful conclusion of OIP-2017 will assist National Spatial
-    Data Infrastructure (NSDI) under DST to provide guidance on best practices using
-    OGC standards for development of applications in several important & flagship
-    schemes/programmes of the Government such as Smart Cities, Atal Mission for Rejuvenation
-    through Urban Trasnformation (AMRUT); National Land Records Moderinisation Programme
-    (NLRMP); Clean India (Swatchh Bharat – Urban & Rural); National Mission on Clean
-    Ganga; Compensatory Afforestation Fund Management & Planning Authority (CAMPA);
-    State SDIs; Digital India, and others.\r\nThis engineering report written jointly
-    by OGC and DST is addressed to both the domestic (Indian) and international audiences.\r\nOIP-2017
-    was funded by the OGC India Foundation with supporting OGC staff resources from
-    the OGC Innovation Program.\r\n"
+  content: "The Open Geospatial Consortium (OGC) and the Department of Science & Technology (DST) under the Government of India conducted the OGC India Plugfest 2017 (OIP-2017). The OIP-2017 was targeted at enhancing the interoperability among geospatial products and web services based on OGC standards within the Indian Geospatial Information (GI) community. The successful conclusion of OIP-2017 will assist National Spatial Data Infrastructure (NSDI) under DST to provide guidance on best practices using OGC standards for development of applications in several important & flagship schemes/programmes of the Government such as Smart Cities, Atal Mission for Rejuvenation through Urban Trasnformation (AMRUT); National Land Records Moderinisation Programme (NLRMP); Clean India (Swatchh Bharat – Urban & Rural); National Mission on Clean Ganga; Compensatory Afforestation Fund Management & Planning Authority (CAMPA); State SDIs; Digital India, and others.\r\nThis engineering report written jointly by OGC and DST is addressed to both the domestic (Indian) and international audiences.\r\nOIP-2017 was funded by the OGC India Foundation with supporting OGC staff resources from the OGC Innovation Program.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '24044'
 schema_version: v1.5.6
 type: standard
@@ -61,24 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "High-Performance Geospatial Computing (HPGC) is crucial for addressing
-    the increasing complexity and volume of geospatial data across sectors such as
-    meteorology, disaster management, and climate change. While High Performance Computing
-    (HPC) offers significant potential, integrating it with geospatial tools remains
-    a challenge. The OGC Testbed 20 High-Performance Geospatial Computing Optimized
-    Formats Report (this Report) investigates the potential of cloud-optimized formats
-    (such as Cloud Optimized GeoTIFF (COG), GeoZarr, and GeoParquet) to optimize HPGC
-    performance by addressing data transfer bottlenecks and enabling efficient data
-    access. By evaluating these formats and exploring data indexing and partitioning
-    strategies, the goal is to develop a framework for scalable and efficient HPGC
-    workflows. The Testbed found that using Cloud-Optimized GeoTIFFs (COGs) in HPC
-    environments offers efficient data access and flexible data management, but balancing
-    file sizes and read requests can affect performance. GeoZarr provides scalable
-    data management and efficient parallel read/write operations, though it generates
-    many files that can cause I/O issues in traditional block-storage systems. GeoParquet’s
-    columnar layout and multithreading capabilities enhance storage efficiency and
-    data retrieval, but the lack of a spatial index and the need to decompress entire
-    chunks can complicate data management.\r\n\r\n"
+  content: "High-Performance Geospatial Computing (HPGC) is crucial for addressing the increasing complexity and volume of geospatial data across sectors such as meteorology, disaster management, and climate change. While High Performance Computing (HPC) offers significant potential, integrating it with geospatial tools remains a challenge. The OGC Testbed 20 High-Performance Geospatial Computing Optimized Formats Report (this Report) investigates the potential of cloud-optimized formats (such as Cloud Optimized GeoTIFF (COG), GeoZarr, and GeoParquet) to optimize HPGC performance by addressing data transfer bottlenecks and enabling efficient data access. By evaluating these formats and exploring data indexing and partitioning strategies, the goal is to develop a framework for scalable and efficient HPGC workflows. The Testbed found that using Cloud-Optimized GeoTIFFs (COGs) in HPC environments offers efficient data access and flexible data management, but balancing file sizes and read requests can affect performance. GeoZarr provides scalable data management and efficient parallel read/write operations, though it generates many files that can cause I/O issues in traditional block-storage systems. GeoParquet’s columnar layout and multithreading capabilities enhance storage efficiency and data retrieval, but the lack of a spatial index and the need to decompress entire chunks can complicate data management.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

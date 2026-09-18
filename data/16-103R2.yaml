@@ -1,4 +1,3 @@
----
 id: 16103r2
 schema_version: v1.5.6
 type: standard
@@ -65,14 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC InfraGML Encoding Standard presents the implementation-dependent,
-    GML encoding of concepts supporting land and civil engineering infrastructure
-    facilities specified in the OGC Land and Infrastructure Conceptual Model Standard
-    (LandInfra), OGC 15-111r1. Conceptual model subject areas include land features,
-    facilities, projects, alignment, road, railway, survey (including equipment, observations,
-    and survey results), land division, and condominiums.\r\nInfraGML is published
-    as a multi-part standard. This Part 3 addresses the Alignment Requirements Class
-    from LandInfra."
+  content: "This OGC InfraGML Encoding Standard presents the implementation-dependent, GML encoding of concepts supporting land and civil engineering infrastructure facilities specified in the OGC Land and Infrastructure Conceptual Model Standard (LandInfra), OGC 15-111r1. Conceptual model subject areas include land features, facilities, projects, alignment, road, railway, survey (including equipment, observations, and survey results), land division, and condominiums.\r\nInfraGML is published as a multi-part standard. This Part 3 addresses the Alignment Requirements Class from LandInfra."
 ext:
   schema_version: v1.1.2
   doctype:

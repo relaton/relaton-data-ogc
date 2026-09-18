@@ -1,4 +1,3 @@
----
 id: 16070r3
 schema_version: v1.5.6
 type: standard
@@ -57,9 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This CDB volume provides the information and guidance required to store
-    vector data and attributes using the Esri Shapefile specification in a CDB data
-    store.  All shape types are supported to represent point, line, and polygon features.
+  content: This CDB volume provides the information and guidance required to store vector data and attributes using the Esri Shapefile specification in a CDB data store.  All shape types are supported to represent point, line, and polygon features.
 ext:
   schema_version: v1.1.2
   doctype:

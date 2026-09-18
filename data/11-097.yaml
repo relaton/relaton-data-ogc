@@ -1,4 +1,3 @@
----
 id: '11097'
 schema_version: v1.5.6
 type: standard
@@ -61,15 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "AIXM stands today for the de-facto standard for Aeronautical Information
-    Publication, used by air control service providers from Europe, USA and Australia.
-    With version 5.1, it reaches a level of maturity allowing the support of Digital
-    NOTAMs, as the first official version of these messages was published this year.\r\nIn
-    a near future, AIXM will be carried inside WFS requests but also into notification
-    messages along WS event services. This last channel will be the one dedicated
-    to D-NOTAMs. As D-NOTAM is aimed at aircrafts pilots, their transmission to the
-    aircraft will use air/ground data link. Today, datalink communications lack bandwidth
-    and future datalink will still have a limited capacity.\r\n"
+  content: "AIXM stands today for the de-facto standard for Aeronautical Information Publication, used by air control service providers from Europe, USA and Australia. With version 5.1, it reaches a level of maturity allowing the support of Digital NOTAMs, as the first official version of these messages was published this year.\r\nIn a near future, AIXM will be carried inside WFS requests but also into notification messages along WS event services. This last channel will be the one dedicated to D-NOTAMs. As D-NOTAM is aimed at aircrafts pilots, their transmission to the aircraft will use air/ground data link. Today, datalink communications lack bandwidth and future datalink will still have a limited capacity.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

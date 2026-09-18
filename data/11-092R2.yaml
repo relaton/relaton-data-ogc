@@ -1,4 +1,3 @@
----
 id: 11092r2
 schema_version: v1.5.6
 type: standard
@@ -63,13 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document is a deliverable of the OGC Web Services (OWS) Initiative
-    - Phase 8 (OWS-8). It describes the results of the conceptual and schematron rule
-    based validation of the Digital NOTAM Event Specification (DNES). Various conceptual
-    aspects were identified which need clarification and/or revision. Schematron rules
-    were developed for a number of the DNES scenarios. This document contains coverage
-    tables which document normative statements from the DNES and indicate which of
-    them can be tested with existing schematron rules.\r\nSee:  <a href=http://dp.schemas.opengis.net/11-092r2>http://dp.schemas.opengis.net/11-092r2</a>"
+  content: "This document is a deliverable of the OGC Web Services (OWS) Initiative - Phase 8 (OWS-8). It describes the results of the conceptual and schematron rule based validation of the Digital NOTAM Event Specification (DNES). Various conceptual aspects were identified which need clarification and/or revision. Schematron rules were developed for a number of the DNES scenarios. This document contains coverage tables which document normative statements from the DNES and indicate which of them can be tested with existing schematron rules.\r\nSee:  <a href=http://dp.schemas.opengis.net/11-092r2>http://dp.schemas.opengis.net/11-092r2</a>"
 ext:
   schema_version: v1.1.2
   doctype:

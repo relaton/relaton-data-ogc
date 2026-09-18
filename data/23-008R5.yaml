@@ -1,17 +1,14 @@
----
 id: 23008r5
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
-    Part 1: Conceptual Model Standard'
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Part 1: Conceptual Model Standard'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
-    Part 1: Conceptual Model Standard'
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Part 1: Conceptual Model Standard'
   type: main
 source:
 - type: src
@@ -65,13 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
-    Standard aims to develop the UML model and encodings for geospatial machine learning
-    training data. Training data plays a fundamental role in Earth Observation (EO)
-    Artificial Intelligence Machine Learning (AI/ML), especially Deep Learning (DL).
-    It is used to train, validate, and test AI/ML models. This Standard defines a
-    UML model and encodings consistent with the OGC Standards baseline to exchange
-    and retrieve the training data in the Web environment.
+  content: The Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Standard aims to develop the UML model and encodings for geospatial machine learning training data. Training data plays a fundamental role in Earth Observation (EO) Artificial Intelligence Machine Learning (AI/ML), especially Deep Learning (DL). It is used to train, validate, and test AI/ML models. This Standard defines a UML model and encodings consistent with the OGC Standards baseline to exchange and retrieve the training data in the Web environment.
 ext:
   schema_version: v1.1.2
   doctype:

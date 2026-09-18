@@ -1,17 +1,14 @@
----
 id: 03063r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Computational
-    Viewpoint'
+  content: 'Critical Infrastructure Collaborative Environment Architecture: Computational Viewpoint'
   type: title-main
 - language: en
   script: Latn
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Computational
-    Viewpoint'
+  content: 'Critical Infrastructure Collaborative Environment Architecture: Computational Viewpoint'
   type: main
 source:
 - type: html
@@ -57,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*RETIRED* The objective of this document is to provide a vendor-neutral
-    interoperable framework that enables collaborating communities to rapidly and
-    collaboratively publish, discover, integrate and use geospatial information concerned
-    with the protection of critical infrastructure systems in a range of sectors.
-    Specifically, this document specifies a Computational Architecture viewpoint for
-    a Critical Infrastructure Collaborative Environment (CICE)."
+  content: "*RETIRED* The objective of this document is to provide a vendor-neutral interoperable framework that enables collaborating communities to rapidly and collaboratively publish, discover, integrate and use geospatial information concerned with the protection of critical infrastructure systems in a range of sectors. Specifically, this document specifies a Computational Architecture viewpoint for a Critical Infrastructure Collaborative Environment (CICE)."
 ext:
   schema_version: v1.1.2
   doctype:

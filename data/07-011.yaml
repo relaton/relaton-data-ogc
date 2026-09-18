@@ -1,4 +1,3 @@
----
 id: '07011'
 schema_version: v1.5.6
 type: standard
@@ -57,12 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This International Standard defines a conceptual schema for the spatial
-    characteristics of coverages. Coverages support mapping from a spatial, temporal
-    or spatiotemporal domain to feature attribute values where feature attribute types
-    are common to all geographic positions within the domain. A coverage domain consists
-    of a collection of direct positions in a coordinate space that may be defined
-    in terms of up to three spatial dimensions as well as a temporal dimension.
+  content: This International Standard defines a conceptual schema for the spatial characteristics of coverages. Coverages support mapping from a spatial, temporal or spatiotemporal domain to feature attribute values where feature attribute types are common to all geographic positions within the domain. A coverage domain consists of a collection of direct positions in a coordinate space that may be defined in terms of up to three spatial dimensions as well as a temporal dimension.
 ext:
   schema_version: v1.1.2
   doctype:

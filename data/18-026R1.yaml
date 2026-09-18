@@ -1,4 +1,3 @@
----
 id: 18026r1
 schema_version: v1.5.6
 type: standard
@@ -63,17 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Security Engineering Report (ER) covers several OGC Testbed-14 topics:\r\n\r\nBest
-    practices for the integration of OAuth2.0/OpenID Connect services\r\n\r\nMediation
-    services for different security environments\r\n\r\nFederated identity management\r\n\r\nSecuritization
-    of workflows\r\n\r\nThe first two topics are the main focus of this ER. During
-    this Testbed, a server that provides OAuth2.0 and OpenID Connect capabilities
-    was extended with a mediation service that allows for a centralized security authority
-    with users/clients that implement different security standards.\r\n\r\nThe remaining
-    two topics will expand on the close relationship between Security, Workflows and
-    Federated Clouds and the respective implementation challenges. On these specific
-    topics, this ER also outlines and provides a proof-of-concept for a simplistic
-    architecture approach that explores one of several Federated Clouds architectures."
+  content: "This Security Engineering Report (ER) covers several OGC Testbed-14 topics:\r\n\r\nBest practices for the integration of OAuth2.0/OpenID Connect services\r\n\r\nMediation services for different security environments\r\n\r\nFederated identity management\r\n\r\nSecuritization of workflows\r\n\r\nThe first two topics are the main focus of this ER. During this Testbed, a server that provides OAuth2.0 and OpenID Connect capabilities was extended with a mediation service that allows for a centralized security authority with users/clients that implement different security standards.\r\n\r\nThe remaining two topics will expand on the close relationship between Security, Workflows and Federated Clouds and the respective implementation challenges. On these specific topics, this ER also outlines and provides a proof-of-concept for a simplistic architecture approach that explores one of several Federated Clouds architectures."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 11064r3
 schema_version: v1.5.6
 type: standard
@@ -61,15 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC® document specifies improvements to the processing of information
-    represented in or referenced from an application schema in UML to create derived,
-    implementation level resources, in particular:\r\n•\tXML Schema documents to represent
-    types and their properties\r\n•\tSchematron schema documents to represent constraints\r\n•\tXSLT-Stylesheets
-    to create KML instances of features\r\nThe documented improvements have been specified,
-    implemented in the ShapeChange tool and tested in the context of schemas developed
-    as part of the NGA's Topographic Data Store (TDS) schemas.\r\nThe work is a continuation
-    of the work documented in OGC® document 10-088r2, the OWS-7 Schema Automation
-    Engineering Report. \r\n"
+  content: "This OGC® document specifies improvements to the processing of information represented in or referenced from an application schema in UML to create derived, implementation level resources, in particular:\r\n•\tXML Schema documents to represent types and their properties\r\n•\tSchematron schema documents to represent constraints\r\n•\tXSLT-Stylesheets to create KML instances of features\r\nThe documented improvements have been specified, implemented in the ShapeChange tool and tested in the context of schemas developed as part of the NGA's Topographic Data Store (TDS) schemas.\r\nThe work is a continuation of the work documented in OGC® document 10-088r2, the OWS-7 Schema Automation Engineering Report. \r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: 12103r3
 schema_version: v1.5.6
 type: standard
@@ -63,17 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OWS-9 Cross Community Interoperability (CCI) thread built on progress
-    made in the recent OWS-8 initiative by improving interoperability between communities
-    sharing geospatial data through advances in semantic mediation approaches for
-    data discovery, access and use of heterogeneous data models and heterogeneous
-    metadata models. This OGC engineering report aims to present findings from CCI
-    thread activities towards advancement of semantic mediation involving heterogeneous
-    data models, gazetteers and aviation data available through web services conformant
-    to OGC standards.\r\nThis Engineering Report was prepared as a deliverable for
-    the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC Interoperability Program.
-    The document presents the work completed with respect to the Cross Community Interoperability
-    thread within OWS-9.\r\n"
+  content: "The OWS-9 Cross Community Interoperability (CCI) thread built on progress made in the recent OWS-8 initiative by improving interoperability between communities sharing geospatial data through advances in semantic mediation approaches for data discovery, access and use of heterogeneous data models and heterogeneous metadata models. This OGC engineering report aims to present findings from CCI thread activities towards advancement of semantic mediation involving heterogeneous data models, gazetteers and aviation data available through web services conformant to OGC standards.\r\nThis Engineering Report was prepared as a deliverable for the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC Interoperability Program. The document presents the work completed with respect to the Cross Community Interoperability thread within OWS-9.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

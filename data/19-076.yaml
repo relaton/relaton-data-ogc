@@ -1,17 +1,14 @@
----
 id: '19076'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations,
-    and Architecture'
+  content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations, and Architecture'
   type: title-main
 - language: en
   script: Latn
-  content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations,
-    and Architecture'
+  content: 'Health Spatial Data Infrastructure: Application Areas, Recommendations, and Architecture'
   type: main
 source:
 - type: src
@@ -75,13 +72,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Health Spatial Data Infrastructure white paper provides a discussion
-    about the collection, exchange, integration, analysis, and visualization of health
-    and non-health data to support health applications. Applications that address
-    health issues at global and population level scale as well as at the local, individual
-    patient scale are presented. The paper identifies opportunities to advance OGC
-    Standards towards building a framework to support Health Spatial Data Infrastructures
-    (SDIs).
+  content: This Health Spatial Data Infrastructure white paper provides a discussion about the collection, exchange, integration, analysis, and visualization of health and non-health data to support health applications. Applications that address health issues at global and population level scale as well as at the local, individual patient scale are presented. The paper identifies opportunities to advance OGC Standards towards building a framework to support Health Spatial Data Infrastructures (SDIs).
 ext:
   schema_version: v1.1.2
   doctype:

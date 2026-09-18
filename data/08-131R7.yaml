@@ -1,4 +1,3 @@
----
 id: '08131r7'
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'The ModSpec Model - Part 1: Core -- A Standard for Designing and Writing
-    Modular Standards'
+  content: 'The ModSpec Model - Part 1: Core -- A Standard for Designing and Writing Modular Standards'
   type: main
 source:
 - type: src
@@ -74,17 +72,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Open Geospatial Consortium (OGC) member developed and approved document,
-    referred to as the ModSpec, defines a model and related requirements and recommendations
-    for writing and structuring modular standards documents. Further, this model is
-    designed to enable consistent and verifiable testing of implementations of a standard
-    that claim conformance. The ModSpec is a meta-standard: A standard specifying
-    requirements for crafting and documenting modular and testable standards.\r\n\r\nThe
-    goals of using the ModSpec are:\r\n\r\nTo define characteristics and a structure
-    for the development of modular standards which will minimize the difficulty in
-    writing testable standards while maximizing usability and interoperability; and\r\nTo
-    ensure that a standard specifies requirements in a common and consistent manner
-    and that these requirements are testable.\r\n"
+  content: "This Open Geospatial Consortium (OGC) member developed and approved document, referred to as the ModSpec, defines a model and related requirements and recommendations for writing and structuring modular standards documents. Further, this model is designed to enable consistent and verifiable testing of implementations of a standard that claim conformance. The ModSpec is a meta-standard: A standard specifying requirements for crafting and documenting modular and testable standards.\r\n\r\nThe goals of using the ModSpec are:\r\n\r\nTo define characteristics and a structure for the development of modular standards which will minimize the difficulty in writing testable standards while maximizing usability and interoperability; and\r\nTo ensure that a standard specifies requirements in a common and consistent manner and that these requirements are testable.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,17 +1,14 @@
----
 id: 15053r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed 11 Implementing JSON/GeoJSON in an OGC Standard Engineering
-    Report
+  content: OGC® Testbed 11 Implementing JSON/GeoJSON in an OGC Standard Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed 11 Implementing JSON/GeoJSON in an OGC Standard Engineering
-    Report
+  content: OGC® Testbed 11 Implementing JSON/GeoJSON in an OGC Standard Engineering Report
   type: main
 source:
 - type: src
@@ -59,14 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In the OGC Testbed 11, the Cross-Community Interoperability (CCI) thread
-    had a key objective of building on the work accomplished in the OGC 8, 9 and 10
-    Testbeds. The goal of the CCI threads is to increase interoperability between
-    communities sharing geospatial data. This thread made advances in semantic mediation
-    approaches for data discovery, access and use of heterogeneous data models and
-    heterogeneous metadata models. This particular Engineering Report (ER) is part
-    of the OGC efforts to advance the OGC Architecture with the adoption of REST interfaces
-    and more encodings such as JSON.
+  content: In the OGC Testbed 11, the Cross-Community Interoperability (CCI) thread had a key objective of building on the work accomplished in the OGC 8, 9 and 10 Testbeds. The goal of the CCI threads is to increase interoperability between communities sharing geospatial data. This thread made advances in semantic mediation approaches for data discovery, access and use of heterogeneous data models and heterogeneous metadata models. This particular Engineering Report (ER) is part of the OGC efforts to advance the OGC Architecture with the adoption of REST interfaces and more encodings such as JSON.
 ext:
   schema_version: v1.1.2
   doctype:

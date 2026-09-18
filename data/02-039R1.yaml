@@ -1,4 +1,3 @@
----
 id: '02039r1'
 schema_version: v1.5.6
 type: standard
@@ -55,8 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This specification covers all standard geo-eBusiness processes like pricing,
-    ordering and online delivery for spatial products.
+  content: This specification covers all standard geo-eBusiness processes like pricing, ordering and online delivery for spatial products.
 ext:
   schema_version: v1.1.2
   doctype:

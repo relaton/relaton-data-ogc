@@ -1,4 +1,3 @@
----
 id: 12152r1
 schema_version: v1.5.6
 type: standard
@@ -57,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Engineering Report was created as a deliverable of the CITE Thread
-    as part of the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC Interoperability
-    Program. This OGC® Engineering Report describes how to execute the CITE tests,
-    how to select the conformance classes, how to access and download the TEAM Engine,
-    Test Scripts and Reference Implementations, how to insert your own data and/or
-    schemas along with a section that provides other community help resources.\r\nThis
-    is not a normative document.\r\n"
+  content: "This Engineering Report was created as a deliverable of the CITE Thread as part of the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC Interoperability Program. This OGC® Engineering Report describes how to execute the CITE tests, how to select the conformance classes, how to access and download the TEAM Engine, Test Scripts and Reference Implementations, how to insert your own data and/or schemas along with a section that provides other community help resources.\r\nThis is not a normative document.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

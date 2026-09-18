@@ -1,4 +1,3 @@
----
 id: 17030r1
 schema_version: v1.5.6
 type: standard
@@ -57,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The LAS file is intended to contain LIDAR (or other) point cloud data
-    records. The data will\r\ngenerally be put into this format from software (e.g.
-    provided by LIDAR hardware vendors) which\r\ncombines GPS, IMU, and laser pulse
-    range data to produce X, Y, and Z point data. The intention\r\nof the data format
-    is to provide an open format that allows different LIDAR hardware and software\r\ntools
-    to output data in a common format.\r\nThis document reflects the fourth revision
-    of the LAS format specification since its initial version\r\n1.0 release."
+  content: "The LAS file is intended to contain LIDAR (or other) point cloud data records. The data will\r\ngenerally be put into this format from software (e.g. provided by LIDAR hardware vendors) which\r\ncombines GPS, IMU, and laser pulse range data to produce X, Y, and Z point data. The intention\r\nof the data format is to provide an open format that allows different LIDAR hardware and software\r\ntools to output data in a common format.\r\nThis document reflects the fourth revision of the LAS format specification since its initial version\r\n1.0 release."
 ext:
   schema_version: v1.1.2
   doctype:

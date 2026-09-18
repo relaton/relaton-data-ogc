@@ -1,4 +1,3 @@
----
 id: '16084'
 schema_version: v1.5.6
 type: standard
@@ -13,8 +12,7 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Benefits of Indoor Location -  Use Case Survey of Lessons Learned
-    and Expectations '
+  content: 'OGC Benefits of Indoor Location -  Use Case Survey of Lessons Learned and Expectations '
   type: main
 source:
 - type: src
@@ -90,23 +88,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Indoor location technologies are enjoying and increasing market success.
-    Technologies in the market have achieved maturity and have become a key driver
-    for innovation and business activities in several value added scenarios, e.g.
-    e-government services, eHealth, personal mobility, logistics, mobility, facility
-    management, retail, to name but a few. This paper collects the results of a survey
-    on the benefits of indoor location, which was jointly prepared and launched by
-    OGC – the Open Geospatial Consortium, InLocation Alliance and i-locate project
-    at the beginning of 2016. Overall, 153 survey responses were received from 33
-    countries.   Responses were categorized in two areas: Client Organizations and
-    Technology suppliers. The goal of the initiative was to acquire a broad view of
-    the requirements and use cases emerging from the wider industrial and user community,
-    beyond the memberships of the various organizations, in order to capture trends,
-    challenges and opportunities, as well as trends and barriers to widespread use
-    of indoor location technologies. This paper does not represent a view of the membership
-    involved in the different organizations; instead, it provides the opportunity
-    to capture recommendations of relevance for the industrial and standardization
-    community these organizations represent. '
+  content: 'Indoor location technologies are enjoying and increasing market success. Technologies in the market have achieved maturity and have become a key driver for innovation and business activities in several value added scenarios, e.g. e-government services, eHealth, personal mobility, logistics, mobility, facility management, retail, to name but a few. This paper collects the results of a survey on the benefits of indoor location, which was jointly prepared and launched by OGC – the Open Geospatial Consortium, InLocation Alliance and i-locate project at the beginning of 2016. Overall, 153 survey responses were received from 33 countries.   Responses were categorized in two areas: Client Organizations and Technology suppliers. The goal of the initiative was to acquire a broad view of the requirements and use cases emerging from the wider industrial and user community, beyond the memberships of the various organizations, in order to capture trends, challenges and opportunities, as well as trends and barriers to widespread use of indoor location technologies. This paper does not represent a view of the membership involved in the different organizations; instead, it provides the opportunity to capture recommendations of relevance for the industrial and standardization community these organizations represent. '
 ext:
   schema_version: v1.1.2
   doctype:

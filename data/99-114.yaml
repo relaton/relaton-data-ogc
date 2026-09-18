@@ -1,4 +1,3 @@
----
 id: '99114'
 schema_version: v1.5.6
 type: standard
@@ -57,10 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OpenGIS notion of Information Communities was devised to enable groups
-    such as ecologists and civil engineers to efficiently manage the semantics (or
-    feature schema mismatches) of their own geodata collections and get maximum benefit
-    from each other's geodata collections, despite semantic differences.
+  content: The OpenGIS notion of Information Communities was devised to enable groups such as ecologists and civil engineers to efficiently manage the semantics (or feature schema mismatches) of their own geodata collections and get maximum benefit from each other's geodata collections, despite semantic differences.
 ext:
   schema_version: v1.1.2
   doctype:

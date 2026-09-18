@@ -1,4 +1,3 @@
----
 id: '09156r2'
 schema_version: v1.5.6
 type: standard
@@ -55,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report documents the work performed by the participants
-    of the Ocean Science Interoperability Experiment Phase II. This work is a follow-on
-    to the OGC Oceans IE Phase 1 activity. Specifically, this IE addressed the following
-    tasks:\r\n•\tAutomated metadata/software installation via PUCK protocol.\r\n•\tOffering
-    of complex systems (e.g. observations systems containing other systems) such as
-    collection of stations.\r\n•\tLinking data from SOS to out-of-band offerings.\r\n•\tSemantic
-    Registry and Services.\r\n•\tCatalogue Service-Web Registry.\r\n•\tIEEE-1451/OGC-SWE
-    harmonization\r\n\r\nAs a result of this experiment, a number of recommendations
-    and conclusions were identified.\r\n"
+  content: "This OGC Engineering Report documents the work performed by the participants of the Ocean Science Interoperability Experiment Phase II. This work is a follow-on to the OGC Oceans IE Phase 1 activity. Specifically, this IE addressed the following tasks:\r\n•\tAutomated metadata/software installation via PUCK protocol.\r\n•\tOffering of complex systems (e.g. observations systems containing other systems) such as collection of stations.\r\n•\tLinking data from SOS to out-of-band offerings.\r\n•\tSemantic Registry and Services.\r\n•\tCatalogue Service-Web Registry.\r\n•\tIEEE-1451/OGC-SWE harmonization\r\n\r\nAs a result of this experiment, a number of recommendations and conclusions were identified.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

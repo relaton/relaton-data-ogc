@@ -1,4 +1,3 @@
----
 id: '13099'
 schema_version: v1.5.6
 type: standard
@@ -61,22 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This specification defines the interfaces of the OGC (Geo)XACML Policy
-    Administration Web Service (OGC (Geo)XACML PAWS or simply PAWS in the following)
-    that supports the creation, modification, exchange, analysis, testing, transformation,
-    encrypting and signing of XACML and GeoXACML encoded access control policies.\r\nThis
-    draft specification was prepared as a deliverable for the OGC Web Services, Phase
-    9 (OWS-9) initiative of the OGC Interoperability Program. This document presents
-    the results of the work within add-on project of the OWS-9 Security and Services
-    Interoperability (SSI) thread. \r\nPlease note that currently the document only
-    contains the definition of the mandatory operations i.e. the basic conformance
-    class. The writing of the sections describing the optional operations is still
-    a to do. These sections need to define the following operations:\r\n•\tAnalyzePolicyElement
-    operation\r\n•\tOptimizePolicyElement operation \r\n•\tTransformPolicyElement
-    operation\r\n•\tTestPolicyElement operation \r\n•\tEncryptPolicy operation\r\n•\tSignPolicy
-    operation \r\nSuggested additions, changes, and comments on this report are welcome
-    and encouraged. Such suggestions may be submitted by email message or by making
-    suggested changes in an edited copy of this document.\r\n"
+  content: "This specification defines the interfaces of the OGC (Geo)XACML Policy Administration Web Service (OGC (Geo)XACML PAWS or simply PAWS in the following) that supports the creation, modification, exchange, analysis, testing, transformation, encrypting and signing of XACML and GeoXACML encoded access control policies.\r\nThis draft specification was prepared as a deliverable for the OGC Web Services, Phase 9 (OWS-9) initiative of the OGC Interoperability Program. This document presents the results of the work within add-on project of the OWS-9 Security and Services Interoperability (SSI) thread. \r\nPlease note that currently the document only contains the definition of the mandatory operations i.e. the basic conformance class. The writing of the sections describing the optional operations is still a to do. These sections need to define the following operations:\r\n•\tAnalyzePolicyElement operation\r\n•\tOptimizePolicyElement operation \r\n•\tTransformPolicyElement operation\r\n•\tTestPolicyElement operation \r\n•\tEncryptPolicy operation\r\n•\tSignPolicy operation \r\nSuggested additions, changes, and comments on this report are welcome and encouraged. Such suggestions may be submitted by email message or by making suggested changes in an edited copy of this document.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

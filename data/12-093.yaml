@@ -1,4 +1,3 @@
----
 id: '12093'
 schema_version: v1.5.6
 type: standard
@@ -55,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The main scope of the schema automation activities in the OWS-9 initiative
-    was twofold:\r\n•\tSupport for the SWE Common 2.0 XML Schema encoding rule\r\n•\tDevelopment
-    of and support for an encoding rule for JSON instance data\r\nIn both cases the
-    scope includes implementation of the encoding rules in ShapeChange.\r\nIn addition,
-    an initial analysis of the possibilities for generating SWE Common 2.0 record
-    descriptions from schemas in UML has been conducted and the results are described
-    in this document.\r\nThe approach and results to both work items are described
-    and discussed in this engineering report. This Engineering Report has been prepared
-    as part of the OGC Web Services Phase 9 (OWS-9) initiative.\r\n"
+  content: "The main scope of the schema automation activities in the OWS-9 initiative was twofold:\r\n•\tSupport for the SWE Common 2.0 XML Schema encoding rule\r\n•\tDevelopment of and support for an encoding rule for JSON instance data\r\nIn both cases the scope includes implementation of the encoding rules in ShapeChange.\r\nIn addition, an initial analysis of the possibilities for generating SWE Common 2.0 record descriptions from schemas in UML has been conducted and the results are described in this document.\r\nThe approach and results to both work items are described and discussed in this engineering report. This Engineering Report has been prepared as part of the OGC Web Services Phase 9 (OWS-9) initiative.\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

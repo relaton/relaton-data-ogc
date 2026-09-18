@@ -1,4 +1,3 @@
----
 id: '09006'
 schema_version: v1.5.6
 type: standard
@@ -57,9 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® document reports the results achieved in the Decision Support
-    Services (DSS) subtask of the OWS-6 testbed initiative as it relates to the development
-    of SOAP/XML and REST interfaces for the Web Map Tiling Service (WMTS).
+  content: This OGC® document reports the results achieved in the Decision Support Services (DSS) subtask of the OWS-6 testbed initiative as it relates to the development of SOAP/XML and REST interfaces for the Web Map Tiling Service (WMTS).
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,17 +1,14 @@
----
 id: 14028r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and
-    WPS cases'
+  content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and WPS cases'
   type: title-main
 - language: en
   script: Latn
-  content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and
-    WPS cases'
+  content: 'Testbed 10 Performance of OGC® Services in the Cloud: The WMS, WMTS, and WPS cases'
   type: main
 source:
 - type: src
@@ -71,11 +68,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document characterizes the performance and scalability of OGC data
-    services in the Cloud. Three use cases highlighting different geo-processing aspects
-    of OGC data services have been developed, implemented, and benchmarked.  Each
-    use case is presented in a separate section of this document with performance
-    results and discussions.  '
+  content: 'This document characterizes the performance and scalability of OGC data services in the Cloud. Three use cases highlighting different geo-processing aspects of OGC data services have been developed, implemented, and benchmarked.  Each use case is presented in a separate section of this document with performance results and discussions.  '
 ext:
   schema_version: v1.1.2
   doctype:

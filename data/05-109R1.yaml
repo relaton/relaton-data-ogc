@@ -1,4 +1,3 @@
----
 id: '05109r1'
 schema_version: v1.5.6
 type: standard
@@ -61,8 +60,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this document is to show how to map the various types of
-    metadata documents to be used in the OWS3 project into the ebRIM.
+  content: The purpose of this document is to show how to map the various types of metadata documents to be used in the OWS3 project into the ebRIM.
 ext:
   schema_version: v1.1.2
   doctype:

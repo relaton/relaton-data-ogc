@@ -1,4 +1,3 @@
----
 id: '03013'
 schema_version: v1.5.6
 type: standard
@@ -53,10 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: There is a requirement to manage many different types of objects. These
-    include styles, symbols and images. To satisfy this requirement, a repository
-    interface is required. The intent of the Web Object Service interface is to provide
-    a means to define this interface.
+  content: There is a requirement to manage many different types of objects. These include styles, symbols and images. To satisfy this requirement, a repository interface is required. The intent of the Web Object Service interface is to provide a means to define this interface.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,17 +1,14 @@
----
 id: '20091'
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC API – Common and OGC API – Features Sprint 2020: Summary Engineering
-    Report'
+  content: 'OGC API – Common and OGC API – Features Sprint 2020: Summary Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC API – Common and OGC API – Features Sprint 2020: Summary Engineering
-    Report'
+  content: 'OGC API – Common and OGC API – Features Sprint 2020: Summary Engineering Report'
   type: main
 source:
 - type: src
@@ -57,14 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The subject of this Engineering Report (ER) is a code sprint that was
-    held from 29 to 30 September 2020 to advance the development of the OGC API -
-    Common - Part 2: Geospatial Data draft standard and the OGC API – Features – Part
-    4: Simple Transactions draft standard. An Application Programming Interface (API)
-    is a standard set of documented and supported functions and procedures that expose
-    the capabilities or data of an operating system, application or service to other
-    applications (adapted from ISO/IEC TR 13066-2:2016). The code sprint was hosted
-    online. The event was sponsored by Ordnance Survey (OS).'
+  content: 'The subject of this Engineering Report (ER) is a code sprint that was held from 29 to 30 September 2020 to advance the development of the OGC API - Common - Part 2: Geospatial Data draft standard and the OGC API – Features – Part 4: Simple Transactions draft standard. An Application Programming Interface (API) is a standard set of documented and supported functions and procedures that expose the capabilities or data of an operating system, application or service to other applications (adapted from ISO/IEC TR 13066-2:2016). The code sprint was hosted online. The event was sponsored by Ordnance Survey (OS).'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '20037'
 schema_version: v1.5.6
 type: standard
@@ -55,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This is an individual Engineering Report (ER) created by Pixalytics Ltd
-    as part of the Earth Observation Applications Pilot. Pixalytics' role was that
-    of an App developer, testing deployment to the OGC Earth Observation Applications
-    Pilot architecture.
+  content: This is an individual Engineering Report (ER) created by Pixalytics Ltd as part of the Earth Observation Applications Pilot. Pixalytics' role was that of an App developer, testing deployment to the OGC Earth Observation Applications Pilot architecture.
 ext:
   schema_version: v1.1.2
   doctype:

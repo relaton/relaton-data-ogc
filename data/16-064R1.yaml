@@ -1,4 +1,3 @@
----
 id: 16064r1
 schema_version: v1.5.6
 type: standard
@@ -63,18 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report specifies the results and findings of the
-    CityGML Quality\r\nInteroperability Experiment. Guidelines were developed for
-    the following concepts:\r\n&#1048576; Definition of data quality;\r\n&#1048576;
-    Data quality requirements and their specification;\r\n&#1048576; Quality checking
-    process of CityGML data; and\r\n&#1048576; Description of validation results.\r\nThe
-    desired outcomes of this Interoperability Experiment are to improve the\r\ninteroperability
-    of CityGML data by removing some ambiguities from the current\r\nstandard and
-    formally defining data quality requirements for a general CityGML data\r\nspecification.
-    Further, the results of this work provides to the community (organizations\r\ninvested
-    in capturing, procuring, or utilizing CityGML data) recommended\r\nimplementation
-    guidance for 3D data and a suite of essential quality checking tools to\r\ncarry
-    out quality assurance on CityGML data."
+  content: "This OGC Engineering Report specifies the results and findings of the CityGML Quality\r\nInteroperability Experiment. Guidelines were developed for the following concepts:\r\n&#1048576; Definition of data quality;\r\n&#1048576; Data quality requirements and their specification;\r\n&#1048576; Quality checking process of CityGML data; and\r\n&#1048576; Description of validation results.\r\nThe desired outcomes of this Interoperability Experiment are to improve the\r\ninteroperability of CityGML data by removing some ambiguities from the current\r\nstandard and formally defining data quality requirements for a general CityGML data\r\nspecification. Further, the results of this work provides to the community (organizations\r\ninvested in capturing, procuring, or utilizing CityGML data) recommended\r\nimplementation guidance for 3D data and a suite of essential quality checking tools to\r\ncarry out quality assurance on CityGML data."
 ext:
   schema_version: v1.1.2
   doctype:

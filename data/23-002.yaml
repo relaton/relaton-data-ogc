@@ -1,4 +1,3 @@
----
 id: '23002'
 schema_version: v1.5.6
 type: standard
@@ -63,9 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "(“Part 2 — Dynamic Data”) defines the resources, encodings and protocols
-    that allow efficient exchange of dynamic (time-varying) data related to these
-    features, in a way that is also aligned with SOSA/SSN."
+  content: "(“Part 2 — Dynamic Data”) defines the resources, encodings and protocols that allow efficient exchange of dynamic (time-varying) data related to these features, in a way that is also aligned with SOSA/SSN."
 ext:
   schema_version: v1.1.2
   doctype:

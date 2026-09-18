@@ -1,4 +1,3 @@
----
 id: '18078'
 schema_version: v1.5.6
 type: standard
@@ -55,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Feature data tiling, colloquially referred to as 'vector tiling', is a
-    data delivery method that allows for large vector feature datasets to be systematically
-    split into subsets or tiles [1]. This engineering report (ER) presents an extension
-    specification for publishing of vector tiles data through an Application Programming
-    Interface (API) that conforms to the emerging version 3.0 of the Web Feature Service
-    (WFS) standard. The core of the WFS 3.0 standard offers direct fine-grained access
-    to geospatial information at the feature level. The WFS standard specifies discovery
-    and query operations for web services that publish feature data. Extensions to
-    the WFS 3.0 Core API offer other capabilities such as transaction operations.\r\n\r\n"
+  content: "Feature data tiling, colloquially referred to as 'vector tiling', is a data delivery method that allows for large vector feature datasets to be systematically split into subsets or tiles [1]. This engineering report (ER) presents an extension specification for publishing of vector tiles data through an Application Programming Interface (API) that conforms to the emerging version 3.0 of the Web Feature Service (WFS) standard. The core of the WFS 3.0 standard offers direct fine-grained access to geospatial information at the feature level. The WFS standard specifies discovery and query operations for web services that publish feature data. Extensions to the WFS 3.0 Core API offer other capabilities such as transaction operations.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

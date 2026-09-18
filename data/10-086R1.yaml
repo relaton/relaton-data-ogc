@@ -1,4 +1,3 @@
----
 id: 10086r1
 schema_version: v1.5.6
 type: standard
@@ -59,10 +58,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document presents the Authoritative Data Source Directory (ADSD) engineering
-    suggestions and results of the OGC OWS-7 ADSD thread. This group focused on creating
-    a workflow for geospatially referencing, finding, and federating data sources
-    with associated authority and relevance.
+  content: This document presents the Authoritative Data Source Directory (ADSD) engineering suggestions and results of the OGC OWS-7 ADSD thread. This group focused on creating a workflow for geospatially referencing, finding, and federating data sources with associated authority and relevance.
 ext:
   schema_version: v1.1.2
   doctype:

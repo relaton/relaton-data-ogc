@@ -1,4 +1,3 @@
----
 id: 18087r5
 schema_version: v1.5.6
 type: standard
@@ -63,19 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This report presents the results of a concept development study on Disasters
-    Interoperability, sponsored by US Geological Survey (USGS) and Federal Geographic
-    Data Committee (FGDC), and Department of Homeland Security (DHS), and executed
-    by the Open Geospatial Consortium (OGC). The focus of this study was to understand
-    how to best support the development of, or combination of SDI(s) for the use in
-    disasters, to advance the understanding of stakeholder issues, and serve stakeholders’
-    needs. The study included stakeholder engagements, workshops and open Request
-    for Information (RFI) that gathered external international positions and opinions
-    on the optimal setup and design of an SDI for disasters. The outflow of this report
-    will guide a series of interoperability pilots to address priority challenges
-    identified by the community in this study. The report follows the format and document
-    of the OGC Arctic Spatial Data Pilot; Phase 1 Report: Spatial Data Sharing for
-    the Arctic. '
+  content: 'This report presents the results of a concept development study on Disasters Interoperability, sponsored by US Geological Survey (USGS) and Federal Geographic Data Committee (FGDC), and Department of Homeland Security (DHS), and executed by the Open Geospatial Consortium (OGC). The focus of this study was to understand how to best support the development of, or combination of SDI(s) for the use in disasters, to advance the understanding of stakeholder issues, and serve stakeholders’ needs. The study included stakeholder engagements, workshops and open Request for Information (RFI) that gathered external international positions and opinions on the optimal setup and design of an SDI for disasters. The outflow of this report will guide a series of interoperability pilots to address priority challenges identified by the community in this study. The report follows the format and document of the OGC Arctic Spatial Data Pilot; Phase 1 Report: Spatial Data Sharing for the Arctic. '
 ext:
   schema_version: v1.1.2
   doctype:

@@ -1,4 +1,3 @@
----
 id: '03031'
 schema_version: v1.5.6
 type: standard
@@ -53,12 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes the proposed system design for the OGC Style Management
-    Service (SMS).\r\nThe SMS must manage distinct objects that represent styles and
-    symbols and provide the means to discover, query, insert, update, and delete these
-    objects.\r\nStyles provide the mapping from feature types and feature properties
-    and constraints to parameterized Symbols used in drawing maps. Symbols are bundles
-    of predefined graphical parameters and predefined fixed graphic images."
+  content: "This document describes the proposed system design for the OGC Style Management Service (SMS).\r\nThe SMS must manage distinct objects that represent styles and symbols and provide the means to discover, query, insert, update, and delete these objects.\r\nStyles provide the mapping from feature types and feature properties and constraints to parameterized Symbols used in drawing maps. Symbols are bundles of predefined graphical parameters and predefined fixed graphic images."
 ext:
   schema_version: v1.1.2
   doctype:

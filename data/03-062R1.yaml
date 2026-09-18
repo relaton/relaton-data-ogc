@@ -1,17 +1,14 @@
----
 id: 03062r1
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Information
-    Viewpoint'
+  content: 'Critical Infrastructure Collaborative Environment Architecture: Information Viewpoint'
   type: title-main
 - language: en
   script: Latn
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Information
-    Viewpoint'
+  content: 'Critical Infrastructure Collaborative Environment Architecture: Information Viewpoint'
   type: main
 source:
 - type: html
@@ -57,8 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "*RETIRED* specifies the information viewpoint for the Critical Infrastructure
-    Collaborative Environment (CICE)."
+  content: "*RETIRED* specifies the information viewpoint for the Critical Infrastructure Collaborative Environment (CICE)."
 ext:
   schema_version: v1.1.2
   doctype:

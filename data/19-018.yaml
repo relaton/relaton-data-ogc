@@ -1,4 +1,3 @@
----
 id: '19018'
 schema_version: v1.5.6
 type: standard
@@ -55,13 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Engineering Report (ER) describes the OGC Testbed-15 Open Portrayal
-    Framework (OPF) Thread requirements, scenario, high-level architecture, and solutions.
-    Main topics addressed in the OPF Thread include style changing and sharing, converting
-    style encodings, client- / server-side rendering of vector- and raster data and
-    data provision in denied, disrupted, intermittent, and limited bandwidth (DDIL)
-    infrastructure situations. The work in the OPF Thread was focused on an OGC Application
-    Programming Interface (API) oriented approach.
+  content: This Engineering Report (ER) describes the OGC Testbed-15 Open Portrayal Framework (OPF) Thread requirements, scenario, high-level architecture, and solutions. Main topics addressed in the OPF Thread include style changing and sharing, converting style encodings, client- / server-side rendering of vector- and raster data and data provision in denied, disrupted, intermittent, and limited bandwidth (DDIL) infrastructure situations. The work in the OPF Thread was focused on an OGC Application Programming Interface (API) oriented approach.
 ext:
   schema_version: v1.1.2
   doctype:

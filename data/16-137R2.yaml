@@ -1,4 +1,3 @@
----
 id: 16137r2
 schema_version: v1.5.6
 type: standard
@@ -57,20 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document describes how the OGC PubSub standard can be used as a mechanism
-    to automatically notify analysts of data availability for CSW and other OGC Web
-    Services (e.g. WFS, WCS). In particular, this document proposes the following:\r\n\r\nSpecific
-    PubSub 1.0 extensions for CSW 2.0.2 and 3.0, leveraging on standard functionalities,
-    data models, and semantics to enable sending notifications based on user-specified
-    area of interest and/or keywords;\r\n\r\nA general, basic mechanism for enabling
-    PubSub for the generic OGC Web Service over the existing request/reply OWSâ€™s,
-    i.e. usual requests as filters, usual responses as appropriate updates/data pushes,
-    existing semantics and syntax expressiveness.\r\n\r\nThis document is the result
-    of activity performed within the Large-Scale Analytics (LSA) Thread of the OGC
-    Testbed 12 Interoperability initiative, being identified as document deliverable
-    A074 PubSub / Catalog Engineering Report. This document also captures lessons
-    learnt from the implementation of component deliverable A016 CSW 2.0.2 with PubSub
-    Core Support Server."
+  content: "This document describes how the OGC PubSub standard can be used as a mechanism to automatically notify analysts of data availability for CSW and other OGC Web Services (e.g. WFS, WCS). In particular, this document proposes the following:\r\n\r\nSpecific PubSub 1.0 extensions for CSW 2.0.2 and 3.0, leveraging on standard functionalities, data models, and semantics to enable sending notifications based on user-specified area of interest and/or keywords;\r\n\r\nA general, basic mechanism for enabling PubSub for the generic OGC Web Service over the existing request/reply OWSâ€™s, i.e. usual requests as filters, usual responses as appropriate updates/data pushes, existing semantics and syntax expressiveness.\r\n\r\nThis document is the result of activity performed within the Large-Scale Analytics (LSA) Thread of the OGC Testbed 12 Interoperability initiative, being identified as document deliverable A074 PubSub / Catalog Engineering Report. This document also captures lessons learnt from the implementation of component deliverable A016 CSW 2.0.2 with PubSub Core Support Server."
 ext:
   schema_version: v1.1.2
   doctype:

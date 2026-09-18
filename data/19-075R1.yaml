@@ -1,4 +1,3 @@
----
 id: 19075r1
 schema_version: v1.5.6
 type: standard
@@ -87,10 +86,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes a conceptual model, logical model, and GML/XML
-    encoding schema for the exchange of borehole related data and especially all the
-    elements that are positioned along a borehole trajectory. In addition, this document
-    provides GML/XML encoding instances documents for guidance
+  content: This document describes a conceptual model, logical model, and GML/XML encoding schema for the exchange of borehole related data and especially all the elements that are positioned along a borehole trajectory. In addition, this document provides GML/XML encoding instances documents for guidance
 ext:
   schema_version: v1.1.2
   doctype:
