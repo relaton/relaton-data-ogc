@@ -5,7 +5,6 @@ require "fileutils"
 require "relaton/ogc/data_fetcher"
 require_relative "index_builder"
 
-FileUtils.rm_rf "data"
 # Match only the generated `index-*` outputs (index-v1.yaml, index-v2.yaml and
 # their zips) -- NOT the `index_builder.rb` source this crawler requires, which a
 # bare `index*` glob would delete out from under the next run.
@@ -13,7 +12,9 @@ FileUtils.rm_rf "data"
 FileUtils.rm Dir.glob("index-*")
 
 # Writes index-v2.yaml only.
-Relaton::Ogc::DataFetcher.fetch
+# Incremental crawl: the fetcher skips byte-identical records and
+# prunes stale ones (relaton#328); an empty fetch prunes nothing.
+Relaton::Ogc::DataFetcher.fetch(prune: true)
 
 # index-v1 (the legacy string-keyed index): rebuilt here over the data/ tree,
 # because released relaton versions still read index-v1.zip from this branch.
