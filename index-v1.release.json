@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v1",
+  "sha256": "ea1ef4770873e6a91e526c3e0e32f6d90bd157c57c00b6fb091e3c8e04bfe9eb",
+  "bytes": 7821,
+  "count": 1263,
+  "generated": "2026-10-29T19:18:53Z",
+  "source_revision": "3d7547bc570b4a72fae03e4837f0c630f6533e32",
+  "run_id": "40938801195",
+  "repository": "relaton/relaton-data-ogc"
+}

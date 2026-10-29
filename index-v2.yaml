@@ -3242,6 +3242,18 @@
   :file: data/01-047R2.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '09'
+    number: '048'
+    revision: r6
+  :file: data/09-048R6.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '09'
+    number: '048'
+    revision: r7
+  :file: data/09-048R7.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '23'
     number: '048'
   :file: data/23-048.yaml
