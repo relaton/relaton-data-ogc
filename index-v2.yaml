@@ -1181,6 +1181,11 @@
   :file: data/04-016R3.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '26'
+    number: '017'
+  :file: data/26-017.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '23'
     number: '017'
   :file: data/23-017.yaml
@@ -1390,6 +1395,36 @@
     year: '01'
     number: '019'
   :file: data/01-019.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '05'
+    number: '020'
+    revision: r27
+  :file: data/05-020R27.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '05'
+    number: '020'
+    revision: r26
+  :file: data/05-020R26.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '05'
+    number: '020'
+    revision: r25
+  :file: data/05-020R25.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '05'
+    number: '020'
+    revision: r24
+  :file: data/05-020R24.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '05'
+    number: '020'
+    revision: r20
+  :file: data/05-020R20.yaml
 - :id:
     _type: pubid:ogc:document
     year: '05'
@@ -1728,6 +1763,12 @@
     year: '02'
     number: '024'
   :file: data/02-024.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '16'
+    number: '025'
+    revision: r2
+  :file: data/16-025R2.yaml
 - :id:
     _type: pubid:ogc:document
     year: '24'
@@ -2123,6 +2164,12 @@
   :file: data/01-029.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '06'
+    number: '030'
+    revision: r12
+  :file: data/06-030R12.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '23'
     number: '030'
   :file: data/23-030.yaml
@@ -2175,6 +2222,12 @@
     number: '030'
     revision: r1
   :file: data/11-030R1.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '05'
+    number: '031'
+    revision: r2
+  :file: data/05-031R2.yaml
 - :id:
     _type: pubid:ogc:document
     year: '25'
@@ -3048,6 +3101,11 @@
   :file: data/01-044R2.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '24'
+    number: '045'
+  :file: data/24-045.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '21'
     number: '045'
     revision: r1
@@ -3244,14 +3302,19 @@
     _type: pubid:ogc:document
     year: '09'
     number: '048'
-    revision: r6
-  :file: data/09-048R6.yaml
+    revision: r7
+  :file: data/09-048R7.yaml
 - :id:
     _type: pubid:ogc:document
     year: '09'
     number: '048'
-    revision: r7
-  :file: data/09-048R7.yaml
+    revision: r6
+  :file: data/09-048R6.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '19'
+    number: '048'
+  :file: data/19-048.yaml
 - :id:
     _type: pubid:ogc:document
     year: '23'
@@ -3291,6 +3354,17 @@
     year: '14'
     number: '048'
   :file: data/14-048.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '05'
+    number: '049'
+    revision: r1
+  :file: data/05-049R1_.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '19'
+    number: '049'
+  :file: data/19-049.yaml
 - :id:
     _type: pubid:ogc:document
     year: '23'
@@ -3351,6 +3425,11 @@
     year: '99'
     number: '049'
   :file: data/99-049.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '19'
+    number: '050'
+  :file: data/19-050.yaml
 - :id:
     _type: pubid:ogc:document
     year: '26'
@@ -3430,6 +3509,11 @@
   :file: data/99-050.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '19'
+    number: '051'
+  :file: data/19-051.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '26'
     number: '051'
   :file: data/26-051.yaml
@@ -3487,6 +3571,11 @@
     year: '04'
     number: '052'
   :file: data/04-052.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '19'
+    number: '053'
+  :file: data/19-053.yaml
 - :id:
     _type: pubid:ogc:document
     year: '23'
@@ -3671,6 +3760,12 @@
   :file: data/07-056R1.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '16'
+    number: '057'
+    revision: r1
+  :file: data/16-057R1.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '24'
     number: '057'
   :file: data/24-057.yaml
@@ -3744,6 +3839,11 @@
   :file: data/05-057R3.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '19'
+    number: '058'
+  :file: data/19-058.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '23'
     number: '058'
     revision: r2
@@ -3791,6 +3891,12 @@
     year: '02'
     number: '058'
   :file: data/02-058.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '09'
+    number: '059'
+    revision: r1
+  :file: data/09-059R1.yaml
 - :id:
     _type: pubid:ogc:document
     year: '24'
@@ -3869,6 +3975,11 @@
     number: '060'
     revision: r1
   :file: data/04-060R1.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '19'
+    number: '061'
+  :file: data/19-061.yaml
 - :id:
     _type: pubid:ogc:document
     year: '23'
@@ -3961,6 +4072,11 @@
     number: '062'
     revision: r1
   :file: data/03-062R1.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '19'
+    number: '063'
+  :file: data/19-063.yaml
 - :id:
     _type: pubid:ogc:document
     year: '24'
@@ -4211,6 +4327,12 @@
     number: '067'
     revision: r2
   :file: data/07-067R2.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '14'
+    number: '068'
+    revision: r2
+  :file: data/14-068R2.yaml
 - :id:
     _type: pubid:ogc:document
     year: '21'
@@ -4514,6 +4636,12 @@
   :file: data/07-074.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '16'
+    number: '075'
+    revision: r1
+  :file: data/16-075R1.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '24'
     number: '075'
   :file: data/24-075.yaml
@@ -4556,6 +4684,12 @@
     number: '075'
     revision: r1
   :file: data/09-075R1.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '16'
+    number: '076'
+    revision: r1
+  :file: data/16-076R1.yaml
 - :id:
     _type: pubid:ogc:document
     year: '19'
@@ -4705,6 +4839,11 @@
     number: '079'
     revision: r1
   :file: data/06-079R1.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '16'
+    number: '080'
+  :file: data/16-080.yaml
 - :id:
     _type: pubid:ogc:document
     year: '17'
@@ -6189,6 +6328,12 @@
   :file: data/06-121R3.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '16'
+    number: '122'
+    revision: r1
+  :file: data/16-122R1.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '15'
     number: '122'
     revision: r1
@@ -6528,6 +6673,12 @@
   :file: data/05-134.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '06'
+    number: '135'
+    revision: r11
+  :file: data/06-135R11.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '11'
     number: '135'
     revision: r2
@@ -6546,9 +6697,19 @@
 - :id:
     _type: pubid:ogc:document
     year: '16'
+    number: '136'
+  :file: data/16-136.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '16'
     number: '137'
     revision: r2
   :file: data/16-137R2.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '16'
+    number: '138'
+  :file: data/16-138.yaml
 - :id:
     _type: pubid:ogc:document
     year: '09'
@@ -6640,6 +6801,11 @@
     number: '142'
     revision: r1
   :file: data/06-142R1.yaml
+- :id:
+    _type: pubid:ogc:document
+    year: '16'
+    number: '144'
+  :file: data/16-144.yaml
 - :id:
     _type: pubid:ogc:document
     year: '12'

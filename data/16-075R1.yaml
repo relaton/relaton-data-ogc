@@ -1,0 +1,65 @@
+---
+id: 16075r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 TEAM Engine Virtualization User Guide
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 TEAM Engine Virtualization User Guide
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/bp/t12-A064
+- type: html
+  content: https://docs.ogc.org//guides/16-075r1.html
+docidentifier:
+- content: 16-075r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2017-06-16'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: R. Martell
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This guide describes how to use Packer to create a virtual machine (VM) or container image that includes a complete TEAM Engine installation along with the latest OGC conformance test suites. The generated image will contain the software components shown in the following figure.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

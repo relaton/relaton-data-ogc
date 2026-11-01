@@ -1,0 +1,63 @@
+---
+id: '16136'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 2D Test Dataset Implementation with Documentation
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 2D Test Dataset Implementation with Documentation
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A032
+- type: html
+  content: https://docs.ogc.org/guides/16-136.html
+docidentifier:
+- content: 16-136
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2017-06-30'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Guy Schumann
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This technical report is for A032.
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

@@ -1,0 +1,109 @@
+---
+id: '19061'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Flood'
+  type: title-intro
+- language: en
+  script: Latn
+  content: Emergency Response and Impact Assessment
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Flood - Emergency Response and Impact Assessment'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IP/userguide/19-061
+- type: html
+  content: https://docs.ogc.org/guides/19-061.html
+docidentifier:
+- content: 19-061
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2020-04-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Peng Yue
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Lei Hu
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Boyi Shangguan
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Mingda Zhang
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Liangcun Jiang
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Jin Zhao
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Robert Thomas
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Terry Idol
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This user guide provides guidance for using a series of data services and geoprocessing services based on OGC standards to build the capabilities of flood emergency response and impact assessment, thus help the head, officers and researchers of Ministry of Emergency Management, and China National Commission for Disaster Reduction (NCDR) to understand the disaster situation, help them make decisions.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

@@ -1,0 +1,77 @@
+---
+id: 16025r2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User Guide
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User Guide
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/bp/t12-A089
+- type: html
+  content: https://docs.ogc.org//guides/16-025r2.html
+docidentifier:
+- content: 16-025r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2017-06-16'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: D. Stenger
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: L. Goltz
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: J. Fitzke
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The WFS 2.0 CITE and Reference Implementation (RI) Installation User Guide documents the results of the WFS 2.0 Reference Implementation development in the OGC Testbed 12 Compliance (CMP) thread.\r\n\r\nThe following content is covered by this engineering report:\r\n\r\nWFS 2.0 capabilities document and conformance classes\r\n\r\nInstallation Guide for Deegree 3 as WFS 2.0 RI\r\n\r\nBest practices to implement WFS 2.0\r\n\r\nInstallation and integration with CITE validation tools"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

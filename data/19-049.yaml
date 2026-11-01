@@ -1,0 +1,91 @@
+---
+id: '19049'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Health SDI'
+  type: title-intro
+- language: en
+  script: Latn
+  content: Facilitating Public Health During a Disaster
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Health SDI - Facilitating Public Health During a Disaster'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IP/userguide/19-049
+- type: html
+  content: https://docs.ogc.org/guides/19-049.html
+docidentifier:
+- content: 19-049
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2020-04-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ajay K Gupta
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ram Peruvemba
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Paul Churchyard
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Robert Thomas
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Terry Idol
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Health Solutions Research (HSR) is a GeoHealth company that merges, publishes, and analyzes data on social determinants of health with health outcomes & costs, ultimately providing point-of-care decision support at multiple geographic levels.\r\n\r\nHSR staff and management include clinicians, public health analysts, data analysts, as well as geospatial analysts."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

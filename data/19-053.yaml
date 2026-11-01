@@ -1,0 +1,81 @@
+---
+id: '19053'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Using Web Enterprise Suite for Flood, Wildfire and Hurricane Disaster Response'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Using Web Enterprise Suite for Flood, Wildfire and Hurricane Disaster Response'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IP/userguide/19-053
+- type: html
+  content: https://docs.ogc.org/guides/19-053.html
+docidentifier:
+- content: 19-053
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2020-04-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ken Geange
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Jason MacDonald
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Robert Thomas
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Terry Idol
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This User Guide provides guidance for using platforms built on open standards, such as Compusult’s Web Enterprise Suite (WES), to provide a timely response to flood, wildfire, and hurricane disasters.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

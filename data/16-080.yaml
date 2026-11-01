@@ -1,0 +1,63 @@
+---
+id: '16080'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 OWS Context User Guide
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 OWS Context User Guide
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A063
+- type: html
+  content: https://docs.ogc.org/guides/16-080.html
+docidentifier:
+- content: 16-080
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2017-06-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Roger Brackin
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "While over the last 10 years use of open standards compliant geospatial web services such as WMS, WMTS, WFS, WCS and CSW has grown massively, there has not been an effective open standards mechanism to assemble a collection of information such that it can be exchanged easily among a community. While some GIS vendors support such a capability the solution is typically not portable between vendors. The OGC did develop the Web Map Context standard (05-005) but this only supported WMS and so was relatively limited. The OWS Context Standard (OWC) was developed to allow advanced sharing of geospatial ‘Context’ or 'view' between users across a wide range of application types (browser, desktop applications, apps) and technologies (desktop, mobile, embedded etc). The standard is modular and easily implemented, and supports a wide range of OGC service standards as well as in-line or local content.\r\n\r\nOWS Context offers a solution to a wide range of sharing requirements. Chapter 1 describes a list of use case examples. Chapter 2 will provide a detailed description of each of these examples."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

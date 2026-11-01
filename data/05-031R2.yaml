@@ -1,0 +1,65 @@
+---
+id: 05031r2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Policies Related to Translation of OGC Standards
+  type: title-main
+- language: en
+  script: Latn
+  content: Policies Related to Translation of OGC Standards
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/POL/POL-translation/1.2
+- type: pdf
+  content: https://docs.ogc.org/pol/05-031r2.pdf
+docidentifier:
+- content: 05-031r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2009-05-04'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Carl Reed
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The working language of the OGC is English. The official (normative) version of\r\nan OGC document is the English language version available on the OGC site. As a global\r\norganization, the OGC wishes to have OGC standards usable by as many people and\r\norganizations around the world as possible. Therefore, we invite you to volunteer to\r\ntranslate one or more OGC standards Please see ' How to volunteer ' below for details. "
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: ogc

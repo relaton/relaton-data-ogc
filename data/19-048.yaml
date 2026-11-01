@@ -1,0 +1,81 @@
+---
+id: '19048'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Image Matters GeoPlatform User Guide'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Image Matters GeoPlatform User Guide'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IP/userguide/19-048
+- type: html
+  content: https://docs.ogc.org/guides/19-048.html
+docidentifier:
+- content: 19-048
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2020-04-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Jacob Stephens
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: James Stephens
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Robert Thomas
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Terry Idol
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This User guide provides general directions for using the Federal Geospatial Data Committee’s National Geospatial Platform (GeoPlatform) for Disasters Resilience. The GeoPlatform is a key component of the United States' National Spatial Data Infrastructure (NSDI), and allows users and communities to post metadata about their critical geospatial assets, thus allowing discovery of those assets by a broad range of users, including the public. These assets include both data and services. The GeoPlatform also allows the creation of communities that can address various challenges and needs. In the case of this pilot, a Disasters Resilience community has been established.\r\n\r\nThe user guide addresses how a Spatial Data Infrastructure supports the interoperable architecture needed for managing the disaster lifecycle. Users will be shown how to properly support an SDI, the vision for an SDI’s contribution to national disaster lifecycle management, and the critical issues and challenges faced in the use case."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

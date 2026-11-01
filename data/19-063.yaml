@@ -1,0 +1,93 @@
+---
+id: '19063'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Connecting Communities During Disasters for Timely Impact Analysis'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Connecting Communities During Disasters for Timely Impact Analysis'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IP/userguide/19-063
+- type: html
+  content: https://docs.ogc.org/guides/19-063.html
+docidentifier:
+- content: 19-063
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2020-04-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Adam Martin
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Kristen Hocutt
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Lain Graham
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Tosia Shall
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Robert Thomas
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Terry Idol
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: ArcGIS, a core part of the Esri geospatial cloud, provides emergency managers and first responders the critical spatial data infrastructure needed to plan for, respond to, and recover from disasters such as hurricanes and floods, acting with confidence and understanding to save lives and property. With this global geospatial infrastructure in place. locally focused emergency managers, planning chiefs and local watch officers
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

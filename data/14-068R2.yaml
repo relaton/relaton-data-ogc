@@ -1,0 +1,65 @@
+---
+id: 14068r2
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OGC KML 2.3 – Abstract Test Suite
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC KML 2.3 – Abstract Test Suite
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/TS/kml/2.3
+- type: html
+  content: https://docs.ogc.org/ts/14-068r2/14-068r2.html
+docidentifier:
+- content: 14-068r2
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2015-05-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: R. Martell
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document specifies an abstract test suite (ATS) consisting of a set of implementation-independent test cases that provide a basis for validating the structure and content of OGC KML 2.3 resources. The ATS may be realized by an executable test suite (ETS) that assesses the degree of conformance exhibited by a KML document.
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

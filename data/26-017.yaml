@@ -1,0 +1,63 @@
+---
+id: '26017'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Bylaws of Open Geospatial Consortium
+  type: title-main
+- language: en
+  script: Latn
+  content: Bylaws of Open Geospatial Consortium
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/POL/bylaws/20211216
+- type: pdf
+  content: https://docs.ogc.org/pol/26-017.pdf
+docidentifier:
+- content: 26-017
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2021-12-16'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: BOD
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: Bylaws of Open Geospatial Consortium
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: ogc

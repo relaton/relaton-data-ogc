@@ -1,0 +1,105 @@
+---
+id: '19058'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood, Hurricane, and Agriculture Condition'
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood, Hurricane, and Agriculture Condition'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IP/userguide/19-058
+- type: html
+  content: https://docs.ogc.org/guides/19-058.html
+docidentifier:
+- content: 19-058
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2020-04-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Liping Di
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Eugene Yu
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ziheng Sun
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Li Lin
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Md. Shahinoor Rahman
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Chen Zhang
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Robert Thomas
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Terry Ido
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This User guide provides guidance for using the geospatial capabilities available at the Center for Spatial Information Science and Systems, George Mason University and resources through the Web by taking advantages open standards and data/service to respond to needs of resource planners at dealing with different disasters - flooding, hurricane, and droughts.\r\n\r\nThe user guide addresses the needs of acquiring quick and timely information on disasters and their impacts by resource planners for them to allocate resources efficiently in events of disasters."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

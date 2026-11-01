@@ -1,0 +1,97 @@
+---
+id: '19050'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Landslide'
+  type: title-intro
+- language: en
+  script: Latn
+  content: Early Response and Evacuation Under Limited Bandwidth
+  type: title-main
+- language: en
+  script: Latn
+  content: 'OGC Disasters Resilience Pilot User Guide: Landslide - Early Response and Evacuation Under Limited Bandwidth'
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IP/userguide/19-050
+- type: html
+  content: https://docs.ogc.org/guides/19-050.html
+docidentifier:
+- content: 19-050
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2020-04-27'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Chen-Yu Hao (Hao)
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Chia-Cheng Lin (Ricky)
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Chia-Hui Chen (Rosie)
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Hsiao-Yuan Yin
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Robert Thomas
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ter
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Taiwan is prone to typhoons and debris flow disasters. The average annual rainfall is more than 2.5 meters, which is three times the world average rainfall. One notable case was typhoon Morakot which happened in 2009. The rainfall reached 2.5 meters after 80 hours. That’s the average yearly rainfall on the island. During that typhoon, 9,100 people were evacuated. 1,046 escaped from the possible casualties. Unfortunately 673 people could not be saved and passed away. If people want to prevent this kind of event, residents who live near the hazard areas such as potential debris flow torrents need to communicate warnings and evacuation orders sooner and more efficiently. That’s where early response and evacuation under limited bandwidth comes in to play.\r\n\r\nThis user guide provides guidance for using IoT technologies and OGC SensorThings API to build an early warning mechanism with various systems. It also provides guidance for using Routing API to build an evacuation application under limited bandwidth. These scenarios were stated as the following use cases."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

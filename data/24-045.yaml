@@ -1,0 +1,63 @@
+---
+id: '24045'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: It gets MUDDI – a quest for better subsurface data (The MUDDI for everyone guide)
+  type: title-main
+- language: en
+  script: Latn
+  content: It gets MUDDI – a quest for better subsurface data (The MUDDI for everyone guide)
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/guides/muddi-guide
+- type: html
+  content: https://docs.ogc.org/guides/24-045.html
+docidentifier:
+- content: 24-045
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2024-08-07'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: 'Carsten Roensdorf '
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Data about sub-surface infrastructure is very relevant for the safe and efficient operation of our towns and cities, yet often difficult to access and therefore invisible. This guide explains how underground data can be structured so it can be easily accessed and understood not only by the producer of this data, but by all relevant parties in the Urban Environment including community members who want to understand what goes on beneath their neighborhoods.\r\n\r\nMUDDI, the Model for Underground Data Definition and Integration is published by the Open Geospatial Consortium, an industry forum and standardization organization. We believe in making data Findable, Accessible, Interoperable and Re-usable. The MUDDI Conceptual Model is an open international standard and defines a data structure or data model for sub-surface information. It is free to use by everyone and empowers communities who want to benefit from better managing their hidden underground infrastructure.\r\n\r\nThis guide describes what a data model is, how it is applied and what benefits can be expected."
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc

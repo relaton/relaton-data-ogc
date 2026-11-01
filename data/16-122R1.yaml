@@ -1,0 +1,65 @@
+---
+id: 16122r1
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Testbed-12 JSON and GeoJSON User Guide
+  type: title-main
+- language: en
+  script: Latn
+  content: Testbed-12 JSON and GeoJSON User Guide
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/PER/t12-A062
+- type: html
+  content: https://docs.ogc.org/guides/16-122r1.html
+docidentifier:
+- content: 16-122r1
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2017-06-21'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Joan Maso and Alaitz Zabala
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This section presents JSON. Afterwords, it discusses about important questions such as what JSON offers, when a JSON encoding offers an advantage (e.g. in simplicity and flexibility) to an XML encoding, and when XML encodings can provide a better solution (e.g. adding more expressivity and robustness). Finally it presents some precisions that OGC can add on top of the basic JSON definition to ensure better interoperability of applications using JSON.
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: other
+  flavor: ogc
