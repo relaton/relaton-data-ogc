@@ -57,7 +57,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Provides essential and abstract models for GIS technology that is widely used.
+  content: Provides essential and abstract models for GIS technology that is widely
+    used.
 ext:
   schema_version: v1.1.2
   doctype:

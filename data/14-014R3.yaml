@@ -17,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: OGC® Catalogue Services Specification - HTTP protocol binding - Abstract Test Suite
+  content: OGC® Catalogue Services Specification - HTTP protocol binding - Abstract
+    Test Suite
   type: main
 source:
 - type: src
@@ -89,7 +90,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: See OGC 12-176r7 -- OGC® Catalogue Services Specification - HTTP Protocol Binding.
+  content: See OGC 12-176r7 -- OGC® Catalogue Services Specification - HTTP Protocol
+    Binding.
 ext:
   schema_version: v1.1.2
   doctype:

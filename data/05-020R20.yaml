@@ -57,7 +57,32 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The OGC provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. “International standards”[1] are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:\r\n\r\nA document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.\r\n\r\nTo guide an open standards development and approval process, a member approved Policies and Procedures is required.\r\n\r\nThis document describes the OGC Technical Committee (TC) policies and procedures (P&P).The TC has been granted authority to operate by the OGC Bylaws.  The TC is composed of individuals representing organizations that are duly recognized members in good standing of the OGC.  The Technical Committee Chair (TCC - see Section 3.2) facilitates the TC process.\r\n\r\nThe TC P&P:\r\n\r\nDocuments all TC voting processes and procedures;\r\nDocuments the formation, scope and processes required for TC subgroup and committee activities;\r\nDocuments the processes and procedures for submitting, reviewing, and approving a new standards using the Request for Comment procedures;\r\nDocuments the process for revisions to adopted OGC(r) standards.\r\nAs the needs and purpose of the TC change, these policies and procedures changes are approved by an electronic vote of the Voting Membersof OGC TC or by recommendation of the OGC Planning Committee.\r\n\r\nThe OGC Technical Committee provides an open, collaborative forum for professional discussion related to the consensus development and/or evaluation, approval, and revision of OGC international standards. The primary use of approved OGC Standards is to provide the ability to build and deploy interoperable geospatial solutions in the larger IT domain.\r\n\r\nThe OGC Principles of Conduct govern personal and public interactions in any TC activity."
+  content: "The OGC provides a collaborative, consensus process for developing and
+    approving open, international standards for the geospatial domain. “International
+    standards”[1] are those adopted by an international standardizing/standards organization
+    and made available to the public. Specifically, an OGC standard is:\r\n\r\nA document,
+    established by consensus and approved by the OGC Membership, that provides, for
+    common and repeated use, rules, guidelines or characteristics for activities or
+    their results, aimed at the achievement of the optimum degree of order in a given
+    context.\r\n\r\nTo guide an open standards development and approval process, a
+    member approved Policies and Procedures is required.\r\n\r\nThis document describes
+    the OGC Technical Committee (TC) policies and procedures (P&P).The TC has been
+    granted authority to operate by the OGC Bylaws.  The TC is composed of individuals
+    representing organizations that are duly recognized members in good standing of
+    the OGC.  The Technical Committee Chair (TCC - see Section 3.2) facilitates the
+    TC process.\r\n\r\nThe TC P&P:\r\n\r\nDocuments all TC voting processes and procedures;\r\nDocuments
+    the formation, scope and processes required for TC subgroup and committee activities;\r\nDocuments
+    the processes and procedures for submitting, reviewing, and approving a new standards
+    using the Request for Comment procedures;\r\nDocuments the process for revisions
+    to adopted OGC(r) standards.\r\nAs the needs and purpose of the TC change, these
+    policies and procedures changes are approved by an electronic vote of the Voting
+    Membersof OGC TC or by recommendation of the OGC Planning Committee.\r\n\r\nThe
+    OGC Technical Committee provides an open, collaborative forum for professional
+    discussion related to the consensus development and/or evaluation, approval, and
+    revision of OGC international standards. The primary use of approved OGC Standards
+    is to provide the ability to build and deploy interoperable geospatial solutions
+    in the larger IT domain.\r\n\r\nThe OGC Principles of Conduct govern personal
+    and public interactions in any TC activity."
 ext:
   schema_version: v1.1.2
   doctype:

@@ -57,7 +57,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document provides the Annexes for the CDB Core: Model and Physical Structure Standard. The only exception is Annex A, Abstract Test Suite (ATS). The CDB ATS Annex is in Volume 1: Core document.'
+  content: 'This document provides the Annexes for the CDB Core: Model and Physical
+    Structure Standard. The only exception is Annex A, Abstract Test Suite (ATS).
+    The CDB ATS Annex is in Volume 1: Core document.'
 ext:
   schema_version: v1.1.2
   doctype:

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood, Hurricane, and Agriculture Condition'
+  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood,
+    Hurricane, and Agriculture Condition'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood, Hurricane, and Agriculture Condition'
+  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood,
+    Hurricane, and Agriculture Condition'
   type: main
 source:
 - type: src
@@ -97,7 +99,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This User guide provides guidance for using the geospatial capabilities available at the Center for Spatial Information Science and Systems, George Mason University and resources through the Web by taking advantages open standards and data/service to respond to needs of resource planners at dealing with different disasters - flooding, hurricane, and droughts.\r\n\r\nThe user guide addresses the needs of acquiring quick and timely information on disasters and their impacts by resource planners for them to allocate resources efficiently in events of disasters."
+  content: "This User guide provides guidance for using the geospatial capabilities
+    available at the Center for Spatial Information Science and Systems, George Mason
+    University and resources through the Web by taking advantages open standards and
+    data/service to respond to needs of resource planners at dealing with different
+    disasters - flooding, hurricane, and droughts.\r\n\r\nThe user guide addresses
+    the needs of acquiring quick and timely information on disasters and their impacts
+    by resource planners for them to allocate resources efficiently in events of disasters."
 ext:
   schema_version: v1.1.2
   doctype:

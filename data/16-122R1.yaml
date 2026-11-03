@@ -57,7 +57,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This section presents JSON. Afterwords, it discusses about important questions such as what JSON offers, when a JSON encoding offers an advantage (e.g. in simplicity and flexibility) to an XML encoding, and when XML encodings can provide a better solution (e.g. adding more expressivity and robustness). Finally it presents some precisions that OGC can add on top of the basic JSON definition to ensure better interoperability of applications using JSON.
+  content: This section presents JSON. Afterwords, it discusses about important questions
+    such as what JSON offers, when a JSON encoding offers an advantage (e.g. in simplicity
+    and flexibility) to an XML encoding, and when XML encodings can provide a better
+    solution (e.g. adding more expressivity and robustness). Finally it presents some
+    precisions that OGC can add on top of the basic JSON definition to ensure better
+    interoperability of applications using JSON.
 ext:
   schema_version: v1.1.2
   doctype:

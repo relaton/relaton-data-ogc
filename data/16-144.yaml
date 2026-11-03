@@ -55,7 +55,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This User Guide describes the 2D Datasets Symbols and Styles associated with the OpenStreet Map (OSM) Dataset produced for the OGC Testbed 12 as defined in Testbed-12 2D Test Dataset Implementation with Documentation (OGC 16-136). The datasets are composed of 11 features types. Two style sets were produced to present these feature types:\r\n\r\nOpenStreetMap Style Set: This Style set is based on the style used by the OSM web site that uses the Mapnik CSS styles.\r\n\r\nLTDS Style Set: This style set is based on on the symbologies defined for the Local Topographic Data Store (LTDS).\r\n\r\nThe style sets were encoded using the standard Style Layer Description (SLD) specification. One SLD file was produced per feature type. Each FeatureType Style defines rules to portray a given feature type with different symbolizers. The following sections describes each style set in details."
+  content: "This User Guide describes the 2D Datasets Symbols and Styles associated
+    with the OpenStreet Map (OSM) Dataset produced for the OGC Testbed 12 as defined
+    in Testbed-12 2D Test Dataset Implementation with Documentation (OGC 16-136).
+    The datasets are composed of 11 features types. Two style sets were produced to
+    present these feature types:\r\n\r\nOpenStreetMap Style Set: This Style set is
+    based on the style used by the OSM web site that uses the Mapnik CSS styles.\r\n\r\nLTDS
+    Style Set: This style set is based on on the symbologies defined for the Local
+    Topographic Data Store (LTDS).\r\n\r\nThe style sets were encoded using the standard
+    Style Layer Description (SLD) specification. One SLD file was produced per feature
+    type. Each FeatureType Style defines rules to portray a given feature type with
+    different symbolizers. The following sections describes each style set in details."
 ext:
   schema_version: v1.1.2
   doctype:

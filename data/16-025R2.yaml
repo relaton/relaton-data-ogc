@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User Guide
+  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User
+    Guide
   type: title-main
 - language: en
   script: Latn
-  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User Guide
+  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User
+    Guide
   type: main
 source:
 - type: src
@@ -69,7 +71,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The WFS 2.0 CITE and Reference Implementation (RI) Installation User Guide documents the results of the WFS 2.0 Reference Implementation development in the OGC Testbed 12 Compliance (CMP) thread.\r\n\r\nThe following content is covered by this engineering report:\r\n\r\nWFS 2.0 capabilities document and conformance classes\r\n\r\nInstallation Guide for Deegree 3 as WFS 2.0 RI\r\n\r\nBest practices to implement WFS 2.0\r\n\r\nInstallation and integration with CITE validation tools"
+  content: "The WFS 2.0 CITE and Reference Implementation (RI) Installation User Guide
+    documents the results of the WFS 2.0 Reference Implementation development in the
+    OGC Testbed 12 Compliance (CMP) thread.\r\n\r\nThe following content is covered
+    by this engineering report:\r\n\r\nWFS 2.0 capabilities document and conformance
+    classes\r\n\r\nInstallation Guide for Deegree 3 as WFS 2.0 RI\r\n\r\nBest practices
+    to implement WFS 2.0\r\n\r\nInstallation and integration with CITE validation
+    tools"
 ext:
   schema_version: v1.1.2
   doctype:

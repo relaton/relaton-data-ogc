@@ -57,7 +57,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document outlines the policies and procedures used by the Planning Committee of\r\nthe Open Geospatial Consortium, Inc (OGC). These policies and procedures may change\r\nby vote of the Planning Committee or by the Open Geospatial Consortium Board of\r\nDirectors as the needs and purpose of the Planning Committee change."
+  content: "This document outlines the policies and procedures used by the Planning
+    Committee of\r\nthe Open Geospatial Consortium, Inc (OGC). These policies and
+    procedures may change\r\nby vote of the Planning Committee or by the Open Geospatial
+    Consortium Board of\r\nDirectors as the needs and purpose of the Planning Committee
+    change."
 ext:
   schema_version: v1.1.2
   doctype:

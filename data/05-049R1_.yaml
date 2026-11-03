@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Interoperability & Open Architectures: An Analysis of Existing Standardisation Processes & Procedures'
+  content: 'Interoperability & Open Architectures: An Analysis of Existing Standardisation
+    Processes & Procedures'
   type: title-main
 - language: en
   script: Latn
-  content: 'Interoperability & Open Architectures: An Analysis of Existing Standardisation Processes & Procedures'
+  content: 'Interoperability & Open Architectures: An Analysis of Existing Standardisation
+    Processes & Procedures'
   type: main
 source:
 - type: src
@@ -55,7 +57,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Interoperability and open architectures are core requirements for state of the art\r\nimplementations of IT solutions. Service oriented architectures based on a commitment to\r\nusing open standards enables a system of componentised building blocks which can be\r\nchosen, run and maintained according to their best match of user requirements,\r\nindependent of vendor solutions or storage models. Such a commitment also ensures that\r\nrelevant interface specifications and standards are adhered to. Since this approach is\r\nflexible and can easily adapt to changing requirements, operational costs are reduced and\r\nprovides higher efficiency levels of the systems and greatly reduces the risk of future\r\ninvestment losses. To define what interoperability and open architectures are about and\r\nwhich processes and procedures are parts of the definition process, we will take a look at\r\nthe work of the Open Geospatial Consortium. "
+  content: "Interoperability and open architectures are core requirements for state
+    of the art\r\nimplementations of IT solutions. Service oriented architectures
+    based on a commitment to\r\nusing open standards enables a system of componentised
+    building blocks which can be\r\nchosen, run and maintained according to their
+    best match of user requirements,\r\nindependent of vendor solutions or storage
+    models. Such a commitment also ensures that\r\nrelevant interface specifications
+    and standards are adhered to. Since this approach is\r\nflexible and can easily
+    adapt to changing requirements, operational costs are reduced and\r\nprovides
+    higher efficiency levels of the systems and greatly reduces the risk of future\r\ninvestment
+    losses. To define what interoperability and open architectures are about and\r\nwhich
+    processes and procedures are parts of the definition process, we will take a look
+    at\r\nthe work of the Open Geospatial Consortium. "
 ext:
   schema_version: v1.1.2
   doctype:

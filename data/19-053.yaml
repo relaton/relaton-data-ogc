@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Using Web Enterprise Suite for Flood, Wildfire and Hurricane Disaster Response'
+  content: 'OGC Disasters Resilience Pilot User Guide: Using Web Enterprise Suite
+    for Flood, Wildfire and Hurricane Disaster Response'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Using Web Enterprise Suite for Flood, Wildfire and Hurricane Disaster Response'
+  content: 'OGC Disasters Resilience Pilot User Guide: Using Web Enterprise Suite
+    for Flood, Wildfire and Hurricane Disaster Response'
   type: main
 source:
 - type: src
@@ -73,7 +75,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This User Guide provides guidance for using platforms built on open standards, such as Compusult’s Web Enterprise Suite (WES), to provide a timely response to flood, wildfire, and hurricane disasters.\r\n\r\n"
+  content: "This User Guide provides guidance for using platforms built on open standards,
+    such as Compusult’s Web Enterprise Suite (WES), to provide a timely response to
+    flood, wildfire, and hurricane disasters.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

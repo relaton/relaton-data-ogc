@@ -13,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Flood - Emergency Response and Impact Assessment'
+  content: 'OGC Disasters Resilience Pilot User Guide: Flood - Emergency Response
+    and Impact Assessment'
   type: main
 source:
 - type: src
@@ -101,7 +102,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This user guide provides guidance for using a series of data services and geoprocessing services based on OGC standards to build the capabilities of flood emergency response and impact assessment, thus help the head, officers and researchers of Ministry of Emergency Management, and China National Commission for Disaster Reduction (NCDR) to understand the disaster situation, help them make decisions.\r\n\r\n"
+  content: "This user guide provides guidance for using a series of data services
+    and geoprocessing services based on OGC standards to build the capabilities of
+    flood emergency response and impact assessment, thus help the head, officers and
+    researchers of Ministry of Emergency Management, and China National Commission
+    for Disaster Reduction (NCDR) to understand the disaster situation, help them
+    make decisions.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:
