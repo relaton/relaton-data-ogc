@@ -1,0 +1,73 @@
+---
+id: '23019'
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: OGC SensorThings API 2.0
+  type: title-main
+- language: en
+  script: Latn
+  content: OGC SensorThings API 2.0
+  type: main
+source:
+- type: src
+  content: http://www.opengis.net/doc/IS/SensorThingsAPI/2.0
+- type: html
+  content: https://docs.ogc.org/is/23-019/23-019.html
+docidentifier:
+- content: 23-019
+  type: OGC
+  primary: true
+date:
+- type: published
+  at: '2026-11-04'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Hylke van der Schaaf
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: Open Geospatial Consortium
+    subdivision:
+    - name:
+      - content: technical
+      type: technical-committee
+    abbreviation:
+      content: OGC
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The OGC SensorThings API provides an open, geospatial-enabled and unified
+    way to interconnect sensor-data producing devices, data, and applications over
+    the Internet. It contains a core data model, an abstract REST API for accessing
+    data, and bindings for this API for HTTP and MQTT.\r\n\r\nThe data model is an
+    implementation of the core concepts of the Observations, Measurements and Samples
+    OGC/ISO specification. The API allows for creating, reading, updating and deleting
+    all parts of the data model. It also features extensive filtering and response-customization
+    capabilities.\r\n\r\nEven though the SensorThings API was initially designed for
+    IoT, the previous versions have shown to be well suited for any use case involving
+    time-series data.\r\n\r\n"
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  subdoctype: implementation
+  flavor: ogc

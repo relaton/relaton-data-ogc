@@ -1337,6 +1337,11 @@
   :file: data/07-018.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '23'
+    number: '019'
+  :file: data/23-019.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '21'
     number: '019'
   :file: data/21-019.yaml
