@@ -67,8 +67,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The OpenGIS® Open GeoSMS standard defines an encoding for location enabling
-    a text message to be communicated using a Short Messages System (SMS). '
+  content: 'The OpenGIS® Open GeoSMS standard defines an encoding for location enabling a text message to be communicated using a Short Messages System (SMS). '
 ext:
   schema_version: v1.1.2
   doctype:

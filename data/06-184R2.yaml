@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This GeoDRM engineering viewpoint document describes use cases and concepts
-    for GeoDRM, as well as references to distributed computing concepts which are
-    not GeoDRM sensu stricto but are required for any GeoDRM implementation. '
+  content: 'This GeoDRM engineering viewpoint document describes use cases and concepts for GeoDRM, as well as references to distributed computing concepts which are not GeoDRM sensu stricto but are required for any GeoDRM implementation. '
 ext:
   schema_version: v1.1.2
   doctype:

@@ -59,8 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This specification is a normative extension to the GeoXACML core Implementation
-    Specification. It defines the GML3 encoding for geometries.
+  content: This specification is a normative extension to the GeoXACML core Implementation Specification. It defines the GML3 encoding for geometries.
 ext:
   schema_version: v1.1.2
   doctype:

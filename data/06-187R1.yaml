@@ -55,8 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This document examines five workflows discussed during the course of the
-    OWS-4 project.  '
+  content: 'This document examines five workflows discussed during the course of the OWS-4 project.  '
 ext:
   schema_version: v1.1.2
   doctype:

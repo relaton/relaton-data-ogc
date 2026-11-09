@@ -57,8 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This CDB volume provides all of the information required to store Radar
-    Cross Section (RCS) data within a conformant CDB data store.\r\n\r\n"
+  content: "This CDB volume provides all of the information required to store Radar Cross Section (RCS) data within a conformant CDB data store.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

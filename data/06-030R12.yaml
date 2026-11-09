@@ -57,10 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document defines the Policies and Procedures by which the OGC\r\nArchitecture
-    Board (OAB) performs its mission. The OAB was established as part\r\nof the formal
-    management and coordination structure of the standards\r\ndevelopment, approval,
-    and conflict adjudication process."
+  content: "This document defines the Policies and Procedures by which the OGC\r\nArchitecture Board (OAB) performs its mission. The OAB was established as part\r\nof the formal management and coordination structure of the standards\r\ndevelopment, approval, and conflict adjudication process."
 ext:
   schema_version: v1.1.2
   doctype:

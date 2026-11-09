@@ -55,10 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes a variety of Best Practices and Specification development
-    guidance that the Members have discussed and approved over the years. These Best
-    Practices have not been captured in other formal OGC documents other than meeting
-    notes.
+  content: This document describes a variety of Best Practices and Specification development guidance that the Members have discussed and approved over the years. These Best Practices have not been captured in other formal OGC documents other than meeting notes.
 ext:
   schema_version: v1.1.2
   doctype:

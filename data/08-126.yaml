@@ -63,9 +63,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'From ISO 19101, “A feature is an abstraction of a real world phenomenon”;
-    it is a geographic feature if it is associated with a location relative to the
-    Earth. '
+  content: 'From ISO 19101, “A feature is an abstraction of a real world phenomenon”; it is a geographic feature if it is associated with a location relative to the Earth. '
 ext:
   schema_version: v1.1.2
   doctype:

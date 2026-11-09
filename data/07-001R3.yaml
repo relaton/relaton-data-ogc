@@ -55,8 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This specification describes requirements for specific geometry types,
-    including some simple solids, and planes and lines defined using an implicit parameterization.
+  content: This specification describes requirements for specific geometry types, including some simple solids, and planes and lines defined using an implicit parameterization.
 ext:
   schema_version: v1.1.2
   doctype:

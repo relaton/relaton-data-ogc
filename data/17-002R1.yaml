@@ -57,10 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: GeoRSS is designed as a lightweight, community driven way to extend existing
-    RSS feeds with simple geographic information. The GeoRSS standard provides for
-    encoding location in an interoperable manner so that applications can request,
-    aggregate, share and map geographically tag feeds.
+  content: GeoRSS is designed as a lightweight, community driven way to extend existing RSS feeds with simple geographic information. The GeoRSS standard provides for encoding location in an interoperable manner so that applications can request, aggregate, share and map geographically tag feeds.
 ext:
   schema_version: v1.1.2
   doctype:

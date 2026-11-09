@@ -57,10 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document presents a User’s Guide for open geospatial REST. It complements
-    Testbed 12 architecture documents to assist enterprise implementers. The content
-    is presented from the perspective of a person or organization trying to decide
-    to use (or not use) open geospatial REST to offer data and services.\r\n\r\n"
+  content: "This document presents a User’s Guide for open geospatial REST. It complements Testbed 12 architecture documents to assist enterprise implementers. The content is presented from the perspective of a person or organization trying to decide to use (or not use) open geospatial REST to offer data and services.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

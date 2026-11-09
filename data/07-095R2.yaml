@@ -55,8 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document provides brief and consistent summaries of several OGC Web
-    Service interface specifications that serve data.
+  content: This document provides brief and consistent summaries of several OGC Web Service interface specifications that serve data.
 ext:
   schema_version: v1.1.2
   doctype:

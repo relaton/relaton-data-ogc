@@ -63,8 +63,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes the specification for 3D Tiles, an open standard
-    for streaming massive heterogeneous 3D geospatial datasets.
+  content: This document describes the specification for 3D Tiles, an open standard for streaming massive heterogeneous 3D geospatial datasets.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -57,10 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document describes the Open Geospatial Consortium (OGC) Compliance
-    Testing Program. The document describes the roles and responsibilities, compliance
-    testing procedures, development of test packaging, and policies for developing
-    and releasing the software used for testing for compliance to OGC Standards.
+  content: This document describes the Open Geospatial Consortium (OGC) Compliance Testing Program. The document describes the roles and responsibilities, compliance testing procedures, development of test packaging, and policies for developing and releasing the software used for testing for compliance to OGC Standards.
 ext:
   schema_version: v1.1.2
   doctype:

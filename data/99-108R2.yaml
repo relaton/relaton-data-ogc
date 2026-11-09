@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Topic introduces an abstraction for the relationships between entities
-    in the real world. This abstraction is modeled as relationships between the features
-    introduced in Topic 5.
+  content: This Topic introduces an abstraction for the relationships between entities in the real world. This abstraction is modeled as relationships between the features introduced in Topic 5.
 ext:
   schema_version: v1.1.2
   doctype:

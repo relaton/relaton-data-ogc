@@ -57,12 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The working language of the OGC is English. The official (normative) version
-    of\r\nan OGC document is the English language version available on the OGC site.
-    As a global\r\norganization, the OGC wishes to have OGC standards usable by as
-    many people and\r\norganizations around the world as possible. Therefore, we invite
-    you to volunteer to\r\ntranslate one or more OGC standards Please see ' How to
-    volunteer ' below for details. "
+  content: "The working language of the OGC is English. The official (normative) version of\r\nan OGC document is the English language version available on the OGC site. As a global\r\norganization, the OGC wishes to have OGC standards usable by as many people and\r\norganizations around the world as possible. Therefore, we invite you to volunteer to\r\ntranslate one or more OGC standards Please see ' How to volunteer ' below for details. "
 ext:
   schema_version: v1.1.2
   doctype:

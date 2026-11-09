@@ -59,8 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Interoperability Program Report (IPR) provides an overview of the
-    general requirements, architecture, and design considerations of '
+  content: 'This Interoperability Program Report (IPR) provides an overview of the general requirements, architecture, and design considerations of '
 ext:
   schema_version: v1.1.2
   doctype:

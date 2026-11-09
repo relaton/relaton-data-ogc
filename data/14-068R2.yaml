@@ -57,11 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document specifies an abstract test suite (ATS) consisting of a set
-    of implementation-independent test cases that provide a basis for validating the
-    structure and content of OGC KML 2.3 resources. The ATS may be realized by an
-    executable test suite (ETS) that assesses the degree of conformance exhibited
-    by a KML document.
+  content: This document specifies an abstract test suite (ATS) consisting of a set of implementation-independent test cases that provide a basis for validating the structure and content of OGC KML 2.3 resources. The ATS may be realized by an executable test suite (ETS) that assesses the degree of conformance exhibited by a KML document.
 ext:
   schema_version: v1.1.2
   doctype:

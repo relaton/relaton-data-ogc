@@ -57,10 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Testbed 12 work has resulted in Change Requests (CRs) to the GeoPackage
-    Encoding Standard. CRs have been submitted to the GeoPackage Standards Working
-    Group (SWG) as GitHub issues. This engineering report (ER) summarizes the results
-    of these activities.
+  content: Testbed 12 work has resulted in Change Requests (CRs) to the GeoPackage Encoding Standard. CRs have been submitted to the GeoPackage Standards Working Group (SWG) as GitHub issues. This engineering report (ER) summarizes the results of these activities.
 ext:
   schema_version: v1.1.2
   doctype:

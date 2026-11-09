@@ -55,8 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This paper explains how to map the Requirements for Aviation Metadata into
-    a metadata profile.
+  content: This paper explains how to map the Requirements for Aviation Metadata into a metadata profile.
 ext:
   schema_version: v1.1.2
   doctype:

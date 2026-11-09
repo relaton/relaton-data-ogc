@@ -55,11 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This OGC Engineering Report provides guidance for using SOAP in the context
-    of OGC Web Services (OWSs). Use is exemplified on three core services, Web Map
-    Service (WMS), Web Feature Service (WFS), and Web Coverage Service (WCS).\r\n\r\nWe
-    start with a brief overview on SOAP. Another primer is available, e.g., from w3schools.com.
-    A study on the practical use of SOAP has been conducted in [EC-SOAP]."
+  content: "This OGC Engineering Report provides guidance for using SOAP in the context of OGC Web Services (OWSs). Use is exemplified on three core services, Web Map Service (WMS), Web Feature Service (WFS), and Web Coverage Service (WCS).\r\n\r\nWe start with a brief overview on SOAP. Another primer is available, e.g., from w3schools.com. A study on the practical use of SOAP has been conducted in [EC-SOAP]."
 ext:
   schema_version: v1.1.2
   doctype:

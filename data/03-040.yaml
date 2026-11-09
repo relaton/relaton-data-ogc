@@ -53,9 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The ORM describes a framework for the ongoing work of the Open Geospatial
-    Consortium and our specifications and implementing interoperable solutions and
-    applications for geospatial services, data, and applications.
+  content: The ORM describes a framework for the ongoing work of the Open Geospatial Consortium and our specifications and implementing interoperable solutions and applications for geospatial services, data, and applications.
 ext:
   schema_version: v1.1.2
   doctype:

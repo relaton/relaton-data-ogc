@@ -57,10 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This guide describes how to use Packer to create a virtual machine (VM)
-    or container image that includes a complete TEAM Engine installation along with
-    the latest OGC conformance test suites. The generated image will contain the software
-    components shown in the following figure.\r\n\r\n"
+  content: "This guide describes how to use Packer to create a virtual machine (VM) or container image that includes a complete TEAM Engine installation along with the latest OGC conformance test suites. The generated image will contain the software components shown in the following figure.\r\n\r\n"
 ext:
   schema_version: v1.1.2
   doctype:

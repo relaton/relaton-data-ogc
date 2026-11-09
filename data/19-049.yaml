@@ -13,8 +13,7 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Health SDI - Facilitating Public
-    Health During a Disaster'
+  content: 'OGC Disasters Resilience Pilot User Guide: Health SDI - Facilitating Public Health During a Disaster'
   type: main
 source:
 - type: src
@@ -84,11 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Health Solutions Research (HSR) is a GeoHealth company that merges, publishes,
-    and analyzes data on social determinants of health with health outcomes & costs,
-    ultimately providing point-of-care decision support at multiple geographic levels.\r\n\r\nHSR
-    staff and management include clinicians, public health analysts, data analysts,
-    as well as geospatial analysts."
+  content: "Health Solutions Research (HSR) is a GeoHealth company that merges, publishes, and analyzes data on social determinants of health with health outcomes & costs, ultimately providing point-of-care decision support at multiple geographic levels.\r\n\r\nHSR staff and management include clinicians, public health analysts, data analysts, as well as geospatial analysts."
 ext:
   schema_version: v1.1.2
   doctype:

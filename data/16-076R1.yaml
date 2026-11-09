@@ -61,12 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document offers guidance about how to develop and execute a test suite
-    that verifies an implementation of some OGC application profile that is based
-    on one or more existing standards. It is primarily intended for developers and
-    other technical professionals who seek to test implementations that claim conformance
-    to an OGC profile. For more general information about how to develop OGC conformance
-    tests, see the TEAM Engine documentation site.
+  content: This document offers guidance about how to develop and execute a test suite that verifies an implementation of some OGC application profile that is based on one or more existing standards. It is primarily intended for developers and other technical professionals who seek to test implementations that claim conformance to an OGC profile. For more general information about how to develop OGC conformance tests, see the TEAM Engine documentation site.
 ext:
   schema_version: v1.1.2
   doctype:

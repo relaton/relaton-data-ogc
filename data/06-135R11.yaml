@@ -57,10 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document provides Best Practices, Policy Directivs, and Standards
-    development\r\nguidance that the OGC Members have discussed and approved over
-    the years. These Best\r\nPractices have not been captured in other formal OGC
-    documents other than meeting\r\nnotes. "
+  content: "This document provides Best Practices, Policy Directivs, and Standards development\r\nguidance that the OGC Members have discussed and approved over the years. These Best\r\nPractices have not been captured in other formal OGC documents other than meeting\r\nnotes. "
 ext:
   schema_version: v1.1.2
   doctype:
