@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0 JSON Profile v1.0
+  content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+    JSON Profile v1.0
   type: title-main
 - language: en
   script: Latn
-  content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0 JSON Profile v1.0
+  content: OGC Geospatial eXtensible Access Control Markup Language (GeoXACML) 3.0
+    JSON Profile v1.0
   type: main
 source:
 - type: src

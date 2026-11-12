@@ -17,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'OGC API - Features - Part 2: Coordinate Reference Systems by Reference corrigendum'
+  content: 'OGC API - Features - Part 2: Coordinate Reference Systems by Reference
+    corrigendum'
   type: main
 source:
 - type: src

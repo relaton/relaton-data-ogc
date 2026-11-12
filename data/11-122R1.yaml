@@ -13,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Gazetteer Service - Application Profile of the Web Feature Service Best Practice
+  content: Gazetteer Service - Application Profile of the Web Feature Service Best
+    Practice
   type: main
 source:
 - type: src

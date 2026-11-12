@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with 3D Modeling, Simulation, and Game Engines
+  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
+    3D Modeling, Simulation, and Game Engines
   type: title-main
 - language: en
   script: Latn
-  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with 3D Modeling, Simulation, and Game Engines
+  content: Advancing the Interoperability of Geospatial Intelligence Tradecraft with
+    3D Modeling, Simulation, and Game Engines
   type: main
 source:
 - type: src

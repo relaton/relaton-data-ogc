@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial Ecosystem'
+  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial
+    Ecosystem'
   type: title-main
 - language: en
   script: Latn
-  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial Ecosystem'
+  content: 'Moving Forward Together: The Emergence of the Interconnected Geospatial
+    Ecosystem'
   type: main
 source:
 - type: src

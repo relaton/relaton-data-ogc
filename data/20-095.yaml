@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Defence Geospatial Information Working Group (DGIWG) GeoTIFF/TIFF Profile for Imagery & Gridded Data 2.3.1
+  content: Defence Geospatial Information Working Group (DGIWG) GeoTIFF/TIFF Profile
+    for Imagery & Gridded Data 2.3.1
   type: title-main
 - language: en
   script: Latn
-  content: Defence Geospatial Information Working Group (DGIWG) GeoTIFF/TIFF Profile for Imagery & Gridded Data 2.3.1
+  content: Defence Geospatial Information Working Group (DGIWG) GeoTIFF/TIFF Profile
+    for Imagery & Gridded Data 2.3.1
   type: main
 source:
 - type: src

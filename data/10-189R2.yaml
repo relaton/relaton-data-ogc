@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Cataloguing Earth Observation Products for ebXML Registry Information Model 3.0 based Catalogues
+  content: Cataloguing Earth Observation Products for ebXML Registry Information Model
+    3.0 based Catalogues
   type: title-main
 - language: en
   script: Latn
-  content: Cataloguing Earth Observation Products for ebXML Registry Information Model 3.0 based Catalogues
+  content: Cataloguing Earth Observation Products for ebXML Registry Information Model
+    3.0 based Catalogues
   type: main
 source:
 - type: src

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Interoperability to Optimize Resource Allocation Across Flood Disaster Timeline'
+  content: 'OGC Disasters Resilience Pilot User Guide: Interoperability to Optimize
+    Resource Allocation Across Flood Disaster Timeline'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Interoperability to Optimize Resource Allocation Across Flood Disaster Timeline'
+  content: 'OGC Disasters Resilience Pilot User Guide: Interoperability to Optimize
+    Resource Allocation Across Flood Disaster Timeline'
   type: main
 source:
 - type: src
@@ -61,7 +63,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In this initiative, this user guide proposes to use enhanced satellite- and model-based flood information readily available from the DFO (http://floodobservatory.colorado.edu/) and elsewhere (NASA, National Oceanic and Atmospheric Administration (NOAA), European Centre for Medium-Range Weather Forecasts (ECMWF), University of Maryland, etc.) to contribute to the successful implementation of Scenario 1. Flood. All key DFO flood data layers are already provided as OGC interoperable web map services and as well as through a newly launched mobile app. The system is highly appreciated by many disaster response organizations worldwide and used by many (e.g. United Nations World Food Programme(UN WFP), Federal Emergency Management Agency (FEMA), Red Cross, World Bank, Latin America Development Bank (CAF)) as it provides a) historical flood events, b) near real-time flood maps and c) additional relevant flood disaster information (for example satellite gauged water discharge) globally. The system provided by DFO fits this OGC initiative perfectly and, furthermore, it is continuously maintained, augmented under and plays a major role in several ongoing NASA and other projects.
+  content: In this initiative, this user guide proposes to use enhanced satellite-
+    and model-based flood information readily available from the DFO (http://floodobservatory.colorado.edu/)
+    and elsewhere (NASA, National Oceanic and Atmospheric Administration (NOAA), European
+    Centre for Medium-Range Weather Forecasts (ECMWF), University of Maryland, etc.)
+    to contribute to the successful implementation of Scenario 1. Flood. All key DFO
+    flood data layers are already provided as OGC interoperable web map services and
+    as well as through a newly launched mobile app. The system is highly appreciated
+    by many disaster response organizations worldwide and used by many (e.g. United
+    Nations World Food Programme(UN WFP), Federal Emergency Management Agency (FEMA),
+    Red Cross, World Bank, Latin America Development Bank (CAF)) as it provides a)
+    historical flood events, b) near real-time flood maps and c) additional relevant
+    flood disaster information (for example satellite gauged water discharge) globally.
+    The system provided by DFO fits this OGC initiative perfectly and, furthermore,
+    it is continuously maintained, augmented under and plays a major role in several
+    ongoing NASA and other projects.
 ext:
   schema_version: v1.1.2
   doctype:

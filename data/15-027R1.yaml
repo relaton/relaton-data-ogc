@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed 11 Digital Notice to Airmen (NOTAM) Validation and Enrichment Service Engineering Report
+  content: OGC® Testbed 11 Digital Notice to Airmen (NOTAM) Validation and Enrichment
+    Service Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed 11 Digital Notice to Airmen (NOTAM) Validation and Enrichment Service Engineering Report
+  content: OGC® Testbed 11 Digital Notice to Airmen (NOTAM) Validation and Enrichment
+    Service Engineering Report
   type: main
 source:
 - type: src

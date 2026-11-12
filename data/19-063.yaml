@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Connecting Communities During Disasters for Timely Impact Analysis'
+  content: 'OGC Disasters Resilience Pilot User Guide: Connecting Communities During
+    Disasters for Timely Impact Analysis'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Connecting Communities During Disasters for Timely Impact Analysis'
+  content: 'OGC Disasters Resilience Pilot User Guide: Connecting Communities During
+    Disasters for Timely Impact Analysis'
   type: main
 source:
 - type: src
@@ -85,7 +87,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ArcGIS, a core part of the Esri geospatial cloud, provides emergency managers and first responders the critical spatial data infrastructure needed to plan for, respond to, and recover from disasters such as hurricanes and floods, acting with confidence and understanding to save lives and property. With this global geospatial infrastructure in place. locally focused emergency managers, planning chiefs and local watch officers
+  content: ArcGIS, a core part of the Esri geospatial cloud, provides emergency managers
+    and first responders the critical spatial data infrastructure needed to plan for,
+    respond to, and recover from disasters such as hurricanes and floods, acting with
+    confidence and understanding to save lives and property. With this global geospatial
+    infrastructure in place. locally focused emergency managers, planning chiefs and
+    local watch officers
 ext:
   schema_version: v1.1.2
   doctype:

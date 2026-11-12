@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-17: Features and Geometries JSON CRS Analysis of Alternatives Engineering Report'
+  content: 'OGC Testbed-17: Features and Geometries JSON CRS Analysis of Alternatives
+    Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-17: Features and Geometries JSON CRS Analysis of Alternatives Engineering Report'
+  content: 'OGC Testbed-17: Features and Geometries JSON CRS Analysis of Alternatives
+    Engineering Report'
   type: main
 source:
 - type: src

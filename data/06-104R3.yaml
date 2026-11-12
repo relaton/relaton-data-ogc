@@ -17,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'OpenGIS Implementation Specification for Geographic information - Simple feature access - Part 2: SQL option'
+  content: 'OpenGIS Implementation Specification for Geographic information - Simple
+    feature access - Part 2: SQL option'
   type: main
 source:
 - type: html

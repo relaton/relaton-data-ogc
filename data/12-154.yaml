@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format (NITF) Engineering Report '
+  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format
+    (NITF) Engineering Report '
   type: title-main
 - language: en
   script: Latn
-  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format (NITF) Engineering Report '
+  content: 'OWS-9 OWS Innovations GMLJP2 for National Imagery Transmission Format
+    (NITF) Engineering Report '
   type: main
 source:
 - type: src

@@ -13,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding Extension
+  content: OGC® GML Application Schema - Coverages JPEG2000/JPIP Coverage Encoding
+    Extension
   type: main
 source:
 - type: src

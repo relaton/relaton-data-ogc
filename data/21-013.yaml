@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments and Cumulative Effects CDS'
+  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
+    and Cumulative Effects CDS'
   type: title-main
 - language: en
   script: Latn
-  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments and Cumulative Effects CDS'
+  content: 'Modernizing SDI: Enabling Data Interoperability for Regional Assessments
+    and Cumulative Effects CDS'
   type: main
 source:
 - type: src

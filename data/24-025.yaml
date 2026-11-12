@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Urban Digital Twins: Integrating Infrastructure, natural environment and people'
+  content: 'Urban Digital Twins: Integrating Infrastructure, natural environment and
+    people'
   type: title-main
 - language: en
   script: Latn
-  content: 'Urban Digital Twins: Integrating Infrastructure, natural environment and people'
+  content: 'Urban Digital Twins: Integrating Infrastructure, natural environment and
+    people'
   type: main
 source:
 - type: src

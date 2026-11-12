@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package Format Specification Version 1.1 Release Notes '
+  content: 'OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package Format Specification
+    Version 1.1 Release Notes '
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package Format Specification Version 1.1 Release Notes '
+  content: 'OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package Format Specification
+    Version 1.1 Release Notes '
   type: main
 source:
 - type: src

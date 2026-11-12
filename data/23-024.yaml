@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Model for Underground Data Definition and Integration (MUDDI) Part 1: Conceptual Model'
+  content: 'OGC Model for Underground Data Definition and Integration (MUDDI) Part
+    1: Conceptual Model'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Model for Underground Data Definition and Integration (MUDDI) Part 1: Conceptual Model'
+  content: 'OGC Model for Underground Data Definition and Integration (MUDDI) Part
+    1: Conceptual Model'
   type: main
 source:
 - type: src

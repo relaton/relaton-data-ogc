@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Incident Management Information Sharing Profile Recommendations for OGC Web Services Engineering Report
+  content: Incident Management Information Sharing Profile Recommendations for OGC
+    Web Services Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: Incident Management Information Sharing Profile Recommendations for OGC Web Services Engineering Report
+  content: Incident Management Information Sharing Profile Recommendations for OGC
+    Web Services Engineering Report
   type: main
 source:
 - type: src

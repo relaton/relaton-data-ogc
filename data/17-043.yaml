@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: Executable Test Suites and Reference Implementations for NSG WMTS 1.0 and WFS 2.0 Profiles with Extension'
+  content: 'OGC Testbed-13: Executable Test Suites and Reference Implementations for
+    NSG WMTS 1.0 and WFS 2.0 Profiles with Extension'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: Executable Test Suites and Reference Implementations for NSG WMTS 1.0 and WFS 2.0 Profiles with Extension'
+  content: 'OGC Testbed-13: Executable Test Suites and Reference Implementations for
+    NSG WMTS 1.0 and WFS 2.0 Profiles with Extension'
   type: main
 source:
 - type: src

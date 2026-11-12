@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OpenGIS Web Coverage Service (WCS) Implementation Specification Corrigendum 1
+  content: OpenGIS Web Coverage Service (WCS) Implementation Specification Corrigendum
+    1
   type: title-main
 - language: en
   script: Latn
-  content: OpenGIS Web Coverage Service (WCS) Implementation Specification Corrigendum 1
+  content: OpenGIS Web Coverage Service (WCS) Implementation Specification Corrigendum
+    1
   type: main
 source:
 - type: html

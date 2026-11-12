@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering Report'
+  content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
+    Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering Report'
+  content: 'OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Engineering
+    Report'
   type: main
 source:
 - type: src

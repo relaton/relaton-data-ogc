@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for Stationary In-Situ Sensors
+  content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for
+    Stationary In-Situ Sensors
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for Stationary In-Situ Sensors
+  content: OGC® Best Practice for Sensor Web Enablement Lightweight SOS Profile for
+    Stationary In-Situ Sensors
   type: main
 source:
 - type: src

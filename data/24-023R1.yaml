@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Release Notes for OGC Geospatial User Feedback Standard. Conceptual Model. v.2.0
+  content: Release Notes for OGC Geospatial User Feedback Standard. Conceptual Model.
+    v.2.0
   type: title-main
 - language: en
   script: Latn
-  content: Release Notes for OGC Geospatial User Feedback Standard. Conceptual Model. v.2.0
+  content: Release Notes for OGC Geospatial User Feedback Standard. Conceptual Model.
+    v.2.0
   type: main
 source:
 - type: src

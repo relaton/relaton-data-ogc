@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Sensor Web Enablement Application for Debris Flow Monitoring System in Taiwan
+  content: Sensor Web Enablement Application for Debris Flow Monitoring System in
+    Taiwan
   type: title-main
 - language: en
   script: Latn
-  content: Sensor Web Enablement Application for Debris Flow Monitoring System in Taiwan
+  content: Sensor Web Enablement Application for Debris Flow Monitoring System in
+    Taiwan
   type: main
 source:
 - type: html

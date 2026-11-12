@@ -57,7 +57,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The GeoPackage Standards Working Group (SWG) presents a discussion of symbology encapsulation for conveying presentation information for vector features contained within in a GeoPackage. '
+  content: 'The GeoPackage Standards Working Group (SWG) presents a discussion of
+    symbology encapsulation for conveying presentation information for vector features
+    contained within in a GeoPackage. '
 ext:
   schema_version: v1.1.2
   doctype:

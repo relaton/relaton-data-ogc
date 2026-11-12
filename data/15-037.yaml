@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for Oil Spill Response
+  content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for
+    Oil Spill Response
   type: title-main
 - language: en
   script: Latn
-  content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for Oil Spill Response
+  content: OGC IOGP/IPIECA Recommended Practice for a Common Operating Picture for
+    Oil Spill Response
   type: main
 source:
 - type: src

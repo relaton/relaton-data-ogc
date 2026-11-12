@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD (1.1.0) for OGC
+  content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
+    (1.1.0) for OGC
   type: title-main
 - language: en
   script: Latn
-  content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD (1.1.0) for OGC
+  content: Technical report from the DGIWG Portrayal Technical Panel testing of SLD
+    (1.1.0) for OGC
   type: main
 source:
 - type: src

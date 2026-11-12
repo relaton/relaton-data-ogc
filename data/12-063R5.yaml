@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Geographic information — Well known text representation of coordinate reference systems
+  content: Geographic information — Well known text representation of coordinate
+    reference systems
   type: title-main
 - language: en
   script: Latn
-  content: Geographic information — Well known text representation of coordinate reference systems
+  content: Geographic information — Well known text representation of coordinate
+    reference systems
   type: main
 source:
 - type: src

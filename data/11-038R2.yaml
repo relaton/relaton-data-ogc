@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension Standard
+  content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
+    Standard
   type: title-main
 - language: en
   script: Latn
-  content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension Standard
+  content: OGC Network Common Data Form (NetCDF) NetCDF Enhanced Data Model Extension
+    Standard
   type: main
 source:
 - type: src

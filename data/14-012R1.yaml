@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation satellite Tasking
+  content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation
+    satellite Tasking
   type: title-main
 - language: en
   script: Latn
-  content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation satellite Tasking
+  content: OGC RESTful encoding of OGC Sensor Planning Service  for Earth Observation
+    satellite Tasking
   type: main
 source:
 - type: src

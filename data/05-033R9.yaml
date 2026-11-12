@@ -55,7 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This profile defines a restricted but useful subset of XML-Schema and GML to lower the '
+  content: 'This profile defines a restricted but useful subset of XML-Schema and
+    GML to lower the '
 status:
   stage:
     content: draft

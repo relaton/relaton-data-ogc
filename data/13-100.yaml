@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0 Core
+  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
+    Core
   type: title-main
 - language: en
   script: Latn
-  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0 Core
+  content: OGC Geospatial eXensible Access Control Markup Language (GeoXACML) 3.0
+    Core
   type: main
 source:
 - type: src

@@ -17,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'OGC InfraGML 1.0: Part 2 - LandInfra Facilities and Projects - Encoding Standard'
+  content: 'OGC InfraGML 1.0: Part 2 - LandInfra Facilities and Projects - Encoding
+    Standard'
   type: main
 source:
 - type: src

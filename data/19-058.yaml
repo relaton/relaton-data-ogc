@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood, Hurricane, and Agriculture Condition'
+  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood,
+    Hurricane, and Agriculture Condition'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood, Hurricane, and Agriculture Condition'
+  content: 'OGC Disasters Resilience Pilot User Guide: Rapid Assessment for Flood,
+    Hurricane, and Agriculture Condition'
   type: main
 source:
 - type: src

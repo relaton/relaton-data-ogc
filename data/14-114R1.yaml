@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'WaterML2.0 part 2 – rating tables, gauging observations and cross-sections: Interoperability Experiment Results'
+  content: 'WaterML2.0 part 2 – rating tables, gauging observations and cross-sections:
+    Interoperability Experiment Results'
   type: title-main
 - language: en
   script: Latn
-  content: 'WaterML2.0 part 2 – rating tables, gauging observations and cross-sections: Interoperability Experiment Results'
+  content: 'WaterML2.0 part 2 – rating tables, gauging observations and cross-sections:
+    Interoperability Experiment Results'
   type: main
 source:
 - type: src

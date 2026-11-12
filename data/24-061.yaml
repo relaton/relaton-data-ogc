@@ -13,7 +13,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: Summary Report for OGC Federated Marine SDI 2024 Pilot - Bridging Land and Sea
+  content: Summary Report for OGC Federated Marine SDI 2024 Pilot - Bridging Land
+    and Sea
   type: main
 source:
 - type: src

@@ -17,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'OpenGIS Implementation Specification for Geographic information - Simple feature access - Part 1: Common architecture'
+  content: 'OpenGIS Implementation Specification for Geographic information - Simple
+    feature access - Part 1: Common architecture'
   type: main
 source:
 - type: html

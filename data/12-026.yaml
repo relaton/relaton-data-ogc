@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Architecture of an Access Management Federation for Spatial Data and Services in Germany
+  content: Architecture of an Access Management Federation for Spatial Data and Services
+    in Germany
   type: title-main
 - language: en
   script: Latn
-  content: Architecture of an Access Management Federation for Spatial Data and Services in Germany
+  content: Architecture of an Access Management Federation for Spatial Data and Services
+    in Germany
   type: main
 source:
 - type: html

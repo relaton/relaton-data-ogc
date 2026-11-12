@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Towards a Federated Marine SDI: Connecting Land and Sea to Protect the Arctic Environment Engineering Report'
+  content: 'Towards a Federated Marine SDI: Connecting Land and Sea to Protect the
+    Arctic Environment Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'Towards a Federated Marine SDI: Connecting Land and Sea to Protect the Arctic Environment Engineering Report'
+  content: 'Towards a Federated Marine SDI: Connecting Land and Sea to Protect the
+    Arctic Environment Engineering Report'
   type: main
 source:
 - type: src

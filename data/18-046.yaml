@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering Report
+  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering
+    Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering Report
+  content: OGC Earth Observation Exploitation Platform Hackathon 2018 Engineering
+    Report
   type: main
 source:
 - type: src

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Summary and Recommendations of the Geospatial Enhancement for the National Information Exchange Model (Geo4NIEM) Interoperabi
+  content: Summary and Recommendations of the Geospatial Enhancement for the National
+    Information Exchange Model (Geo4NIEM) Interoperabi
   type: title-main
 - language: en
   script: Latn
-  content: Summary and Recommendations of the Geospatial Enhancement for the National Information Exchange Model (Geo4NIEM) Interoperabi
+  content: Summary and Recommendations of the Geospatial Enhancement for the National
+    Information Exchange Model (Geo4NIEM) Interoperabi
   type: main
 source:
 - type: src

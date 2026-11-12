@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OWS-8 Cross Community Interoperability (CCI) Semantic Mediation Engineering Report
+  content: OWS-8 Cross Community Interoperability (CCI) Semantic Mediation Engineering
+    Report
   type: title-main
 - language: en
   script: Latn
-  content: OWS-8 Cross Community Interoperability (CCI) Semantic Mediation Engineering Report
+  content: OWS-8 Cross Community Interoperability (CCI) Semantic Mediation Engineering
+    Report
   type: main
 source:
 - type: html

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Testbed 11 Geospatial Enhancement for the National Information Exchange Model (Geo4NIEM) Round Trip Engineering Report
+  content: Testbed 11 Geospatial Enhancement for the National Information Exchange
+    Model (Geo4NIEM) Round Trip Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: Testbed 11 Geospatial Enhancement for the National Information Exchange Model (Geo4NIEM) Round Trip Engineering Report
+  content: Testbed 11 Geospatial Enhancement for the National Information Exchange
+    Model (Geo4NIEM) Round Trip Engineering Report
   type: main
 source:
 - type: src

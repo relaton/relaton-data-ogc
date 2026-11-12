@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Vector Tiles Pilot: GeoPackage 1.2 Vector Tiles Extensions Engineering Report'
+  content: 'OGC Vector Tiles Pilot: GeoPackage 1.2 Vector Tiles Extensions Engineering
+    Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Vector Tiles Pilot: GeoPackage 1.2 Vector Tiles Extensions Engineering Report'
+  content: 'OGC Vector Tiles Pilot: GeoPackage 1.2 Vector Tiles Extensions Engineering
+    Report'
   type: main
 source:
 - type: src

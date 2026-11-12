@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for implementing OGC Web APIs'
+  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for
+    implementing OGC Web APIs'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for implementing OGC Web APIs'
+  content: 'OGC Testbed-17: Attracting Developers: Lowering the entry barrier for
+    implementing OGC Web APIs'
   type: main
 source:
 - type: src

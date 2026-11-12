@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Volume 0: Primer for the OGC CDB Standard: Model and Physical Data Store Structure'
+  content: 'Volume 0: Primer for the OGC CDB Standard: Model and Physical Data Store
+    Structure'
   type: title-main
 - language: en
   script: Latn
-  content: 'Volume 0: Primer for the OGC CDB Standard: Model and Physical Data Store Structure'
+  content: 'Volume 0: Primer for the OGC CDB Standard: Model and Physical Data Store
+    Structure'
   type: main
 source:
 - type: src

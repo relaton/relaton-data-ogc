@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing Implementation (Engineering Report)
+  content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing
+    Implementation (Engineering Report)
   type: title-main
 - language: en
   script: Latn
-  content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing Implementation (Engineering Report)
+  content: OWS-8 Analysis of OGC Standards for Supporting Mobile Object Processing
+    Implementation (Engineering Report)
   type: main
 source:
 - type: src

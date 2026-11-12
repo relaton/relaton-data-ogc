@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Towards a Federated Marine SDI: IHO and OGC standards applied to Marine Protected Area Data Engineering Report'
+  content: 'Towards a Federated Marine SDI: IHO and OGC standards applied to Marine
+    Protected Area Data Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'Towards a Federated Marine SDI: IHO and OGC standards applied to Marine Protected Area Data Engineering Report'
+  content: 'Towards a Federated Marine SDI: IHO and OGC standards applied to Marine
+    Protected Area Data Engineering Report'
   type: main
 source:
 - type: src

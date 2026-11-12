@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Image Matters GeoPlatform User Guide'
+  content: 'OGC Disasters Resilience Pilot User Guide: Image Matters GeoPlatform User
+    Guide'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Disasters Resilience Pilot User Guide: Image Matters GeoPlatform User Guide'
+  content: 'OGC Disasters Resilience Pilot User Guide: Image Matters GeoPlatform User
+    Guide'
   type: main
 source:
 - type: src

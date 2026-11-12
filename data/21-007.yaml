@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile for Imagery & Gridded Data 2.1.2
+  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile
+    for Imagery & Gridded Data 2.1.2
   type: title-main
 - language: en
   script: Latn
-  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile for Imagery & Gridded Data 2.1.2
+  content: Defence Geospatial Information Working Group (DGIWG) GMLJP2/JP2 Profile
+    for Imagery & Gridded Data 2.1.2
   type: main
 source:
 - type: src

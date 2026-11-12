@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Best Practice for Sensor Web Enablement: Provision of Observations through an OGC Sensor Observation Service (SOS)'
+  content: 'OGC Best Practice for Sensor Web Enablement: Provision of Observations
+    through an OGC Sensor Observation Service (SOS)'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Best Practice for Sensor Web Enablement: Provision of Observations through an OGC Sensor Observation Service (SOS)'
+  content: 'OGC Best Practice for Sensor Web Enablement: Provision of Observations
+    through an OGC Sensor Observation Service (SOS)'
   type: main
 source:
 - type: src

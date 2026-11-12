@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC Services Engineering Report
+  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
+    Services Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC Services Engineering Report
+  content: OGC® Testbed-11 Implementing Linked Data and Semantically Enabling OGC
+    Services Engineering Report
   type: main
 source:
 - type: src

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Part 1: Conceptual Model Standard'
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 1: Conceptual Model Standard'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI) Part 1: Conceptual Model Standard'
+  content: 'OGC Training Data Markup Language for Artificial Intelligence (TrainingDML-AI)
+    Part 1: Conceptual Model Standard'
   type: main
 source:
 - type: src

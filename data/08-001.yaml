@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian Geospatial Data Infrastructure Pilot
+  content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian
+    Geospatial Data Infrastructure Pilot
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian Geospatial Data Infrastructure Pilot
+  content: OGC® Loosely Coupled Synchronization of Geographic Databases in the Canadian
+    Geospatial Data Infrastructure Pilot
   type: main
 source:
 - type: html

@@ -55,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This report establishes a baseline for the technical architecture, its alternatives and issues for implementing the use cases as specified in the OWS-6 AIM thread RFQ including the temporal WFS supporting the temporal FE 2.0 operators, the Event Service Notification architecture and the client EFBs. '
+  content: 'This report establishes a baseline for the technical architecture, its
+    alternatives and issues for implementing the use cases as specified in the OWS-6
+    AIM thread RFQ including the temporal WFS supporting the temporal FE 2.0 operators,
+    the Event Service Notification architecture and the client EFBs. '
 ext:
   schema_version: v1.1.2
   doctype:

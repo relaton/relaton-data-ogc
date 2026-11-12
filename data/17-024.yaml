@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering Report'
+  content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering
+    Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering Report'
+  content: 'OGC Testbed-13: Application Deployment and Execution Service Engineering
+    Report'
   type: main
 source:
 - type: src

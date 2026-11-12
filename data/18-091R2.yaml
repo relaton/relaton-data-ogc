@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Testbed-14: Application Schemas and JSON Technologies Engineering Report'
+  content: 'OGC Testbed-14: Application Schemas and JSON Technologies Engineering
+    Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Testbed-14: Application Schemas and JSON Technologies Engineering Report'
+  content: 'OGC Testbed-14: Application Schemas and JSON Technologies Engineering
+    Report'
   type: main
 source:
 - type: src

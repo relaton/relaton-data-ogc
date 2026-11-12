@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC OpenFlight Scene Description Database Specification 16.0 Community Standard
+  content: OGC OpenFlight Scene Description Database Specification 16.0 Community
+    Standard
   type: title-main
 - language: en
   script: Latn
-  content: OGC OpenFlight Scene Description Database Specification 16.0 Community Standard
+  content: OGC OpenFlight Scene Description Database Specification 16.0 Community
+    Standard
   type: main
 source:
 - type: src

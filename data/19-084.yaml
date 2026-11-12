@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering Report'
+  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
+    Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering Report'
+  content: 'OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering
+    Report'
   type: main
 source:
 - type: src

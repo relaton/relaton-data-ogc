@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Revision Notes for OpenGIS® Implementation Specification: Geographic information'
+  content: 'Revision Notes for OpenGIS® Implementation Specification: Geographic
+    information'
   type: title-intro
 - language: en
   script: Latn
@@ -13,7 +14,8 @@ title:
   type: title-main
 - language: en
   script: Latn
-  content: 'Revision Notes for OpenGIS® Implementation Specification: Geographic information - Geography Markup Language Version 3.2.1'
+  content: 'Revision Notes for OpenGIS® Implementation Specification: Geographic
+    information - Geography Markup Language Version 3.2.1'
   type: main
 source:
 - type: html
@@ -57,7 +59,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document provides revision notes for version 3.2.1 of the OpenGIS® Implementation Specification Geographic information – Geography Markup Language (GML).
+  content: This document provides revision notes for version 3.2.1 of the OpenGIS®
+    Implementation Specification Geographic information – Geography Markup Language
+    (GML).
 ext:
   schema_version: v1.1.2
   doctype:

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: It gets MUDDI – a quest for better subsurface data (The MUDDI for everyone guide)
+  content: It gets MUDDI – a quest for better subsurface data (The MUDDI for everyone
+    guide)
   type: title-main
 - language: en
   script: Latn
-  content: It gets MUDDI – a quest for better subsurface data (The MUDDI for everyone guide)
+  content: It gets MUDDI – a quest for better subsurface data (The MUDDI for everyone
+    guide)
   type: main
 source:
 - type: src

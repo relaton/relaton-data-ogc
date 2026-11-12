@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs ER
+  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs
+    ER
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs ER
+  content: OGC® Testbed 10 Aviation Human Factor Based Portrayal of Digital NOTAMs
+    ER
   type: main
 source:
 - type: src

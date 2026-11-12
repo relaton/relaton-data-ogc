@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding Specifications Engineering Report
+  content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding
+    Specifications Engineering Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding Specifications Engineering Report
+  content: OGC Testbed-11 Test and Demonstration Results for NIEM using IC Data Encoding
+    Specifications Engineering Report
   type: main
 source:
 - type: src

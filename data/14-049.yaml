@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering Report
+  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering
+    Report
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering Report
+  content: OGC® Testbed 10 Cross Community Interoperability (CCI) Ontology Engineering
+    Report
   type: main
 source:
 - type: src

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Enterprise Viewpoint'
+  content: 'Critical Infrastructure Collaborative Environment Architecture: Enterprise
+    Viewpoint'
   type: title-main
 - language: en
   script: Latn
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Enterprise Viewpoint'
+  content: 'Critical Infrastructure Collaborative Environment Architecture: Enterprise
+    Viewpoint'
   type: main
 source:
 - type: html

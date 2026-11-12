@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format Community Standard Version 1.2
+  content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
+    Community Standard Version 1.2
   type: title-main
 - language: en
   script: Latn
-  content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format Community Standard Version 1.2
+  content: OGC Indexed 3d Scene Layer (I3S) and Scene Layer Package (*.slpk) Format
+    Community Standard Version 1.2
   type: main
 source:
 - type: src

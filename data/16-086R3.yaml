@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC Best Practice for using Web Map Services (WMS) with Ensembles of Forecast Data
+  content: OGC Best Practice for using Web Map Services (WMS) with Ensembles of Forecast
+    Data
   type: title-main
 - language: en
   script: Latn
-  content: OGC Best Practice for using Web Map Services (WMS) with Ensembles of Forecast Data
+  content: OGC Best Practice for using Web Map Services (WMS) with Ensembles of Forecast
+    Data
   type: main
 source:
 - type: src

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User Guide
+  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User
+    Guide
   type: title-main
 - language: en
   script: Latn
-  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User Guide
+  content: Testbed-12 WFS 2.0 CITE and Reference Implementation Installation User
+    Guide
   type: main
 source:
 - type: src

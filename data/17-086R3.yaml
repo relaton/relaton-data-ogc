@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon Extension'
+  content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
+    Extension'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon Extension'
+  content: 'OGC MetOcean Application profile for WCS2.1: Part 2 MetOcean GetPolygon
+    Extension'
   type: main
 source:
 - type: src

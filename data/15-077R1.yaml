@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage of SOAP Across OGC Web service interfaces'
+  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the
+    Usage of SOAP Across OGC Web service interfaces'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the Usage of SOAP Across OGC Web service interfaces'
+  content: 'OGC® Testbed-11 SOAP Interface Engineering Report: Comparison on the
+    Usage of SOAP Across OGC Web service interfaces'
   type: main
 source:
 - type: src

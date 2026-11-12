@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology Architecture and Standards in the OWS-3 Testbe'
+  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology
+    Architecture and Standards in the OWS-3 Testbe'
   type: title-main
 - language: en
   script: Latn
-  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology Architecture and Standards in the OWS-3 Testbe'
+  content: 'OWS-3 Imagery Workflow Experiments: Enhanced Service Infrastructure Technology
+    Architecture and Standards in the OWS-3 Testbe'
   type: main
 source:
 - type: html

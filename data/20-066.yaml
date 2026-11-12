@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC City Geography Markup Language (CityGML) 3.0 Conceptual Model Users Guide
+  content: OGC City Geography Markup Language (CityGML) 3.0 Conceptual Model Users
+    Guide
   type: title-main
 - language: en
   script: Latn
-  content: OGC City Geography Markup Language (CityGML) 3.0 Conceptual Model Users Guide
+  content: OGC City Geography Markup Language (CityGML) 3.0 Conceptual Model Users
+    Guide
   type: main
 source:
 - type: src

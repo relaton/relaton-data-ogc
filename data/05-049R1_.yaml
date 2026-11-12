@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Interoperability & Open Architectures: An Analysis of Existing Standardisation Processes & Procedures'
+  content: 'Interoperability & Open Architectures: An Analysis of Existing Standardisation
+    Processes & Procedures'
   type: title-main
 - language: en
   script: Latn
-  content: 'Interoperability & Open Architectures: An Analysis of Existing Standardisation Processes & Procedures'
+  content: 'Interoperability & Open Architectures: An Analysis of Existing Standardisation
+    Processes & Procedures'
   type: main
 source:
 - type: src

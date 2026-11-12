@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML ADE ER'
+  content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML
+    ADE ER'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML ADE ER'
+  content: 'OGC Indoor Mapping and Navigation Pilot: Public Safety Features CityGML
+    ADE ER'
   type: main
 source:
 - type: src

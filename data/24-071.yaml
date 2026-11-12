@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in Wildland Fire Management Engineering Report'
+  content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in
+    Wildland Fire Management Engineering Report'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in Wildland Fire Management Engineering Report'
+  content: 'OGC Climate and Disaster Resilience Pilot 2024: D-123 Generative AI in
+    Wildland Fire Management Engineering Report'
   type: main
 source:
 - type: src

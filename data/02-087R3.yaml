@@ -55,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines a common interface that enables diverse but conformant applications to perform discovery, browse and query operations against distributed and potentially heterogeneous catalog servers.
+  content: Defines a common interface that enables diverse but conformant applications
+    to perform discovery, browse and query operations against distributed and potentially
+    heterogeneous catalog servers.
 ext:
   schema_version: v1.1.2
   doctype:

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Introduction to OGC EmissionML: Why the World Needs a Standard Ontology for Emissions'
+  content: 'Introduction to OGC EmissionML: Why the World Needs a Standard Ontology
+    for Emissions'
   type: title-main
 - language: en
   script: Latn
-  content: 'Introduction to OGC EmissionML: Why the World Needs a Standard Ontology for Emissions'
+  content: 'Introduction to OGC EmissionML: Why the World Needs a Standard Ontology
+    for Emissions'
   type: main
 source:
 - type: src

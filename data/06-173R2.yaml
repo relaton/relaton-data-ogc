@@ -17,7 +17,8 @@ title:
   type: title-part
 - language: en
   script: Latn
-  content: 'Geographic information - Rights expression language for geographic information - Part xx: GeoREL'
+  content: 'Geographic information - Rights expression language for geographic information
+    - Part xx: GeoREL'
   type: main
 source:
 - type: html

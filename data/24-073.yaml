@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support Climate and Disaster Resilience
+  content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support
+    Climate and Disaster Resilience
   type: title-main
 - language: en
   script: Latn
-  content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support Climate and Disaster Resilience
+  content: Moving Beyond SDI to GKI to Bring Geospatial Awareness to LLMs to Support
+    Climate and Disaster Resilience
   type: main
 source:
 - type: src

@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering Report:  NYC  GISMO Team '
+  content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering
+    Report:  NYC  GISMO Team '
   type: title-main
 - language: en
   script: Latn
-  content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering Report:  NYC  GISMO Team '
+  content: 'Open Geospatial Consortium DP-24 Extreme Heat Supplemental Engineering
+    Report:  NYC  GISMO Team '
   type: main
 source:
 - type: src

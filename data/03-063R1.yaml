@@ -5,11 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Computational Viewpoint'
+  content: 'Critical Infrastructure Collaborative Environment Architecture: Computational
+    Viewpoint'
   type: title-main
 - language: en
   script: Latn
-  content: 'Critical Infrastructure Collaborative Environment Architecture: Computational Viewpoint'
+  content: 'Critical Infrastructure Collaborative Environment Architecture: Computational
+    Viewpoint'
   type: main
 source:
 - type: html
