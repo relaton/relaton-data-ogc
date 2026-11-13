@@ -1708,6 +1708,11 @@
   :file: data/02-023R4.yaml
 - :id:
     _type: pubid:ogc:document
+    year: '20'
+    number: '024'
+  :file: data/20-024.yaml
+- :id:
+    _type: pubid:ogc:document
     year: '23'
     number: '024'
   :file: data/23-024.yaml

@@ -2115,6 +2115,8 @@
   :file: data/20-020.yaml
 - :id: 20-021r2
   :file: data/20-021R2.yaml
+- :id: 20-024
+  :file: data/20-024.yaml
 - :id: 20-025r1
   :file: data/20-025R1.yaml
 - :id: 20-027
