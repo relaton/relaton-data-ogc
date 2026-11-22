@@ -70,8 +70,8 @@ abstract:
   content: The Earth Observation Cloud Platform Concept Development Study (CDS) evaluates
     the readiness of satellite data providers and cloud service providers, as well
     as the maturity of their current systems, with regard to real-world deployment
-    of the new “Applications-to-the-Data” paradigm, using cloud environments for
-    EO data storage, processing, and retrieval.
+    of the new “Applications-to-the-Data” paradigm, using cloud environments for EO
+    data storage, processing, and retrieval.
 ext:
   schema_version: v1.1.2
   doctype:

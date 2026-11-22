@@ -55,8 +55,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC Disaster Pilot ’21 (DP21) Engineering Report summarizes work
-    done in the Pilot to increase disaster awareness among a range of disaster management
+  content: This OGC Disaster Pilot ’21 (DP21) Engineering Report summarizes work done
+    in the Pilot to increase disaster awareness among a range of disaster management
     stakeholders. Pilot participants implemented components of a data flow ecosystem
     to leverage analysis-ready earth observations and other datasets (ARD) and produce
     decision ready indicators (DRI) according to collaboratively developed workflow

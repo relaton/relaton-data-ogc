@@ -67,8 +67,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The OGC Geospatial User Feedback Standard version 2 — XML Encoding
-    Extension is based on the OGC Geospatial User Feedback conceptual model [2]. Geospatial
+  content: The OGC Geospatial User Feedback Standard version 2 — XML Encoding Extension
+    is based on the OGC Geospatial User Feedback conceptual model [2]. Geospatial
     User Feedback (GUF) is metadata that is produced primarily by the consumers of
     geospatial data products based on their use and experience with those products.
     The GUF Standards complement the existing metadata conventions whereby documents

@@ -5,13 +5,13 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation
-    Satellite Tasking ExtensionOGC® Sensor Planning Service
+  content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation Satellite
+    Tasking ExtensionOGC® Sensor Planning Service
   type: title-main
 - language: en
   script: Latn
-  content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation
-    Satellite Tasking ExtensionOGC® Sensor Planning Service
+  content: OGC® Sensor Planning Service Interface Standard 2.0 Earth Observation Satellite
+    Tasking ExtensionOGC® Sensor Planning Service
   type: main
 source:
 - type: html

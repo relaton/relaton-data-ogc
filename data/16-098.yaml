@@ -66,16 +66,16 @@ abstract:
     aimed at demonstrating and enhancing the ability of spatial data infrastructures
     to support quality of life, civic initiatives, and urban resilience. During the
     pilot, multiple scenarios were set up based on real-world requirements and were
-    put forward by the pilot sponsors: Sant Cugat del Vallès (Barcelona, Spain),
-    Ordnance Survey Great Britain (UK), virtualcitySYSTEMS GmbH (Germany), and Institut
-    National de l’Information Géographique et Forestière - IGN (France). The scenarios
-    were focused on (i) the interoperability between the two international standards:
-    Industry Foundation Classes (IFC) and CityGML; (ii) city flood modeling; and (iii)
-    supporting real-time sensor readings and other time-dependent properties within
-    semantic 3D city models. The solutions for the respective scenarios were developed
-    by the pilot participants: University of Melbourne (Australia), Remote Sensing
-    Solutions, Inc. (U.S.A), and Technical University of Munich (Germany). This Engineering
-    Report (ER) focuses on the third scenario requiring the support of real-time sensors
+    put forward by the pilot sponsors: Sant Cugat del Vallès (Barcelona, Spain), Ordnance
+    Survey Great Britain (UK), virtualcitySYSTEMS GmbH (Germany), and Institut National
+    de l’Information Géographique et Forestière - IGN (France). The scenarios were
+    focused on (i) the interoperability between the two international standards: Industry
+    Foundation Classes (IFC) and CityGML; (ii) city flood modeling; and (iii) supporting
+    real-time sensor readings and other time-dependent properties within semantic
+    3D city models. The solutions for the respective scenarios were developed by the
+    pilot participants: University of Melbourne (Australia), Remote Sensing Solutions,
+    Inc. (U.S.A), and Technical University of Munich (Germany). This Engineering Report
+    (ER) focuses on the third scenario requiring the support of real-time sensors
     and other time-dependent properties within semantic 3D city models based on the
     CityGML standard. It highlights a new concept ''Dynamizer'', which allows representation
     of highly dynamic data in different and generic ways and providing a method for

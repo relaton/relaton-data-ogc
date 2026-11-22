@@ -5,13 +5,11 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'OGC® OWS-5 Engineering Report: Local MSD Implementation Profile (GML
-    3.2.1)'
+  content: 'OGC® OWS-5 Engineering Report: Local MSD Implementation Profile (GML 3.2.1)'
   type: title-main
 - language: en
   script: Latn
-  content: 'OGC® OWS-5 Engineering Report: Local MSD Implementation Profile (GML
-    3.2.1)'
+  content: 'OGC® OWS-5 Engineering Report: Local MSD Implementation Profile (GML 3.2.1)'
   type: main
 source:
 - type: html

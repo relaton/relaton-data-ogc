@@ -99,8 +99,8 @@ abstract:
     group is to address this challenge by bringing together experts from the Open
     Geospatial Consortium and buildingSMART to coordinate the development of the relevant
     data standards. This document is an output from IDBE in which we describe the
-    state of three of the most prominent built environment standards – CityGML,
-    IFC and LandInfra – and describe some of the problems that hinder their integration;
+    state of three of the most prominent built environment standards – CityGML, IFC
+    and LandInfra – and describe some of the problems that hinder their integration;
     finally, we propose actions points for overcoming these problems.
 ext:
   schema_version: v1.1.2

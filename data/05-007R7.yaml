@@ -60,9 +60,8 @@ abstract:
     processing services, such as polygon overlay.   The standard also defines how
     a client can request the execution of a process, and how the output from the process
     is handled. It defines an interface that facilitates the publishing of geospatial
-    processes and clients’ discovery of and binding to those processes. The data
-    required by the WPS can be delivered across a network or they can be available
-    at the server. '
+    processes and clients’ discovery of and binding to those processes. The data required
+    by the WPS can be delivered across a network or they can be available at the server. '
 ext:
   schema_version: v1.1.2
   doctype:

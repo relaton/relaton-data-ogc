@@ -66,10 +66,10 @@ abstract:
     developed by the GIS Center for Security (GIS CS), Abu Dhabi Police. The GIS CS
     was initiated based on a UAE Ministry of Interior issued decree to establish GIS
     CS with the core mission: “To geo-enable police services and applications using
-    International standards and best practices.” In 2010, the GIS SC initiated a
-    program to develop a Standardized GIS Environment (SGA). Part of this effort was
-    to define and implement a standard data model for sharing Law Enforcement and
-    Public Safety data.'
+    International standards and best practices.” In 2010, the GIS SC initiated a program
+    to develop a Standardized GIS Environment (SGA). Part of this effort was to define
+    and implement a standard data model for sharing Law Enforcement and Public Safety
+    data.'
 ext:
   schema_version: v1.1.2
   doctype:

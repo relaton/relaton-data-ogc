@@ -64,8 +64,7 @@ abstract:
     external dataset linkages. With the contents of this report as context, the OGC
     Hydrology Domain Working Group could consider initiating a Standard Working Group
     activity to establish a logical and physical data model for concepts defined in
-    WaterML 2: Part 3 — Surface Hydrology Features (HY_Features) — Conceptual
-    Model.'
+    WaterML 2: Part 3 — Surface Hydrology Features (HY_Features) — Conceptual Model.'
 ext:
   schema_version: v1.1.2
   doctype:

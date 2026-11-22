@@ -63,9 +63,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This OGC® Engineering Report (ER) describes an Abstract Quality Model
-    (AQM) for data in the aviation domain. Requirements for data quality in aviation
-    are stringent, as the data is often used for safety critical purposes. The services
+  content: This OGC® Engineering Report (ER) describes an Abstract Quality Model (AQM)
+    for data in the aviation domain. Requirements for data quality in aviation are
+    stringent, as the data is often used for safety critical purposes. The services
     considered are those that serve aeronautical information, flight information and
     weather forecasting. The model is built upon recognized standards of the International
     Organization for Standardization (ISO) with extensions and additions made according

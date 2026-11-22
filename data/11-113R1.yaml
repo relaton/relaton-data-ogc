@@ -66,8 +66,8 @@ abstract:
     data in the context of OGC. This means that all encodings are based on Observation
     and Measurements version 2 (O&M) and implemented as an application schema according
     to the rules of Geography Markup Language version 3.2 (GML). An information model
-    – so called ‘bookmark’ – to conserve the trace from a moving object back
-    to the original base data is discussed briefly. '
+    – so called ‘bookmark’ – to conserve the trace from a moving object back to the
+    original base data is discussed briefly. '
 ext:
   schema_version: v1.1.2
   doctype:

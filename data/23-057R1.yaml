@@ -91,8 +91,8 @@ abstract:
   script: Latn
   content: 'OGC API Standards specify Web based capabilities that are typically based
     on polling for collection resource updates (new features, records, items, coverages,
-    maps, etc.). Depending on a collection’s temporal resolution or frequency of
-    updates, an event-driven / Publish-Subscribe architecture provides a timely, efficient
+    maps, etc.). Depending on a collection’s temporal resolution or frequency of updates,
+    an event-driven / Publish-Subscribe architecture provides a timely, efficient
     and low latency approach for the delivery of data updates or notifications of
     updates. The OGC API — Environmental Data Retrieval — Part 2: Publish-Subscribe
     Workflow Standard provides recommendations on applying Publish-Subscribe architectural

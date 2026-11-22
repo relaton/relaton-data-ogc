@@ -92,12 +92,12 @@ abstract:
     in domains such as transportation management, disaster response, and environmental
     monitoring. This Standard also specifies operations for filtering, sorting, and
     aggregating moving feature data based on location, time, and other properties.
-    The OGC API — Moving Features — Part 1: Core Standard specifies a
-    set of RESTful interfaces and data formats for querying and updating moving feature
-    data over the web. The Standard is part of the OGC API family of Standards and
-    makes use of the OpenAPI Specification. OGC API Standards define modular API building
-    blocks that spatially enable Web APIs in a consistent way. OpenAPI is used to
-    define the reusable API building blocks with responses in JSON and HTML.'
+    The OGC API — Moving Features — Part 1: Core Standard specifies a set of RESTful
+    interfaces and data formats for querying and updating moving feature data over
+    the web. The Standard is part of the OGC API family of Standards and makes use
+    of the OpenAPI Specification. OGC API Standards define modular API building blocks
+    that spatially enable Web APIs in a consistent way. OpenAPI is used to define
+    the reusable API building blocks with responses in JSON and HTML.'
 ext:
   schema_version: v1.1.2
   doctype:
